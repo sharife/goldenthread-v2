@@ -1,20 +1,34 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+title: Middle East Center Stage
+headline: Season of International Women
+subtitle: >-
+  Golden Thread extends the multifaceted discourse and unique stories of the
+  evolving agency of Middle East women in 2020.
+background: /img/2020_Website_Front.jpg
+cta: LEARN MORE
+link: 'https://goldenthread.org/season/'
+items:
+  - image: >-
+      https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/
+    subtitle: What Do The Women Say? Power, Privilege, Agency
+    cta: Read More Now
+    link: '/productions/what-do-the-women-say'
+    text: >-
+      Check out this year’s lineup of leading Middle Eastern women artists including Basma Edrees, Aisan Hoss, Kathreen Khavari, and Naghmeh Samini. Special guest: Sabina Zafar.
+  - image: >-
+      https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
+    subtitle: Submit your Short Play for Consideration in ReOrient 2021
+    cta: Submit your play NOW!
+    link: 'https://goldenthread.org/get-involved/submissions/'
+    text: >-
+      Submissions are now open for the 2021 ReOrient Festival of Short Plays.
+      Are you the next voice in Middle Eastern theatre?
+  - image: /img/JmeyzWings_smallersize_featurebox.jpg
+    subtitle: Celebrate Palestinian Culture with your children
+    cta: Book a Show
+    link: /productions/leila
+    text: >-
+      Drawn from Palestinian folk tales, Leila’s Quest For Flight are currently
+      touring schools & libraries.
 ---
 

@@ -1,9 +1,219 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Golden Thread Productions"
+[params] 
+	currentseason = "2020"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+
+[menu]
+	[[menu.primary]]
+	identifier = "season"
+	name = "SEASON"
+	url = "/season"
+	weight = 1
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "on-the-periphery"
+		name = "On the Periphery"
+		url = "/productions/on-the-periphery"
+		weight = 11
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "jogging"
+		name = "Jogging"
+		url = "/productions/jogging"
+		weight = 12
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "the-language-of-wild-berries"
+		name = "The Language of Wild Berries"
+		url = "/productions/the-language-of-wild-berries"
+		weight = 13
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "what-do-the-women-say-p"
+		name = "What Do the Women Say? 2020"
+		url = "/productions/what-do-the-women-say"
+		weight = 14
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "new-threads-reading-series"
+		name = "New Threads Reading Series 2020"
+		url = "/productions/new-threads-reading-series"
+		weight = 15
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "leila"
+		name = "Leila’s Quest For Flight"
+		url = "/productions/leila"
+		weight = 16
+
+
+	[[menu.primary]]
+	identifier = "about"
+	name = "ABOUT"
+	url = "/about"
+	weight = 2
+		
+		[[menu.primary]]
+		parent = "about"
+		identifier = "people"
+		name = "People"
+		url = "/about/people"
+		weight = 21
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "history"
+		name = "History"
+		url = "/about/history"
+		weight = 22
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "past-productions"
+		name = "Past Productions"
+		url = "/productions"
+		weight = 23
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "donors"
+		name = "Donors"
+		url = "/about/donors"
+		weight = 24
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "champions"
+		name = "20 Champions"
+		url = "/about/champions"
+		weight = 25
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "bill-of-rights"
+		name = "Bill of Rights"
+		url = "/about/bill-of-rights"
+		weight = 26
+
+	[[menu.primary]]
+	identifier = "programs"
+	name = "PROGRAMS"
+	url = "/programs"
+	weight = 3
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "fairytale-players"
+		name = "Fairytale Players"
+		url = "/programs/fairytale-players"
+		weight = 31
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "reorient"
+		name = "ReOrient Festival"
+		url = "/programs/reorient"
+		weight = 32
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "new-plays"
+		name = "New Play Development"
+		url = "/programs/new-plays"
+		weight = 33
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "new-threads"
+		name = "New Threads Reading Series"
+		url = "/programs/new-threads"
+		weight = 34
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "what-do-the-women-say"
+		name = "What do the Women Say?"
+		url = "/programs/what-do-the-women-say"
+		weight = 35
+
+	[[menu.primary]]
+	identifier = "get-involved"
+	name = "GET INVOLVED"
+	url = "/get-involved"
+	weight = 4
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "donate"
+		name = "Make a Donation"
+		url = "/donate"
+		weight = 41
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "volunteer"
+		name = "Volunteer"
+		url = "/get-involved/volunteer"
+		weight = 42
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "jobs"
+		name = "Jobs"
+		url = "/get-involved/jobs"
+		weight = 43
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "casting"
+		name = "Casting"
+		url = "/get-involved/casting"
+		weight = 44
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "submissions"
+		name = "Submissions"
+		url = "/get-involved/submissions"
+		weight = 45
+
+		[[menu.primary]]
+		parent = "get-involved"
+		identifier = "internships"
+		name = "Internships"
+		url = "/get-involved/internships"
+		weight = 46
+
+
+[secondary-menu]
+	[[menu.secondary]]
+	identifier = "tickets"
+	name = "BUY TICKETS"
+	url = "/tickets"
+	weight = 1
+
+	[[menu.secondary]]
+	identifier = "donate"
+	name = "DONATE NOW"
+	url = "/donate"
+	weight = 2
+
+	[[menu.secondary]]
+	identifier = "book"
+	name = "BOOK A SHOW"
+	url = "/programs/fairytale-players"
+	weight = 3

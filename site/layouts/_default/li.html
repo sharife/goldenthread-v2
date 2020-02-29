@@ -1,6 +1,40 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
-</a>
+<div class="mb4 db">
+	<!-- <a href="{{ .Permalink }}" class="no-underline db raise">
+		<h2 class="f3 b lh-title mb1 primary mb1">{{ .Title }}</h2>
+	</a> -->
+	<!-- <p class="f6 mb0">{{ .Description | markdownify }}</p>
+	<a href="{{ .Permalink }}" class="no-underline db raise">
+		<p class="f6 link b dib black mb0">Read more →</p>
+	</a> -->
+	<div class="flex-ns flex-wrap mhn2-ns">
+	  {{ if .Params.titleimage }}
+	  <div class="mr2 w-30-ns">
+	  	{{ if .Params.externallink }}
+	  	<a href="{{.Params.externallink}}">
+	  	{{ else }}
+	    <a href="{{.Permalink}}">
+	    {{ end }}
+	      <img src="{{.Params.titleimage}}" alt="" class="w-60 w-100-ns db mb3">
+	    </a>
+	  </div>
+	  {{ else if .Params.background }}
+	  <div class="mr2 w-30-ns">
+	    {{ if .Params.externallink }}
+	  	<a href="{{.Params.externallink}}">
+	  	{{ else }}
+	    <a href="{{.Permalink}}">
+	    {{ end }}
+	      <img src="{{.Params.background}}" alt="" class="w-60 w-100-ns db mb3">
+	    </a>
+	  </div>
+	  {{ end }}
+	  <div class="ph2-ns w-60-ns">
+	    <h3 class="f3 b lh-title">{{.Title}}</h3>
+	    {{ if .Params.start }}
+          <p class="f6 b mb1">{{ dateFormat "January 2, 2006" .Params.start }} {{ if .Params.end }}- {{ dateFormat "January 2, 2006" .Params.end }}{{ end }}</p>
+        {{ end }}
+	    <p class="cms f6 mb0">{{.Description | markdownify }}</p>
+	    <p class="b"><a href="{{ if .Params.externallink }}{{.Params.externallink}}{{ else }}{{.Permalink}}{{ end }}" class="link">→ View</a></p>
+	  </div>
+	</div>
+</div>

@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "background" .Params.background "pre" .Params.pre "title" .Title "subtitle" .Params.subtitle "cta" .Params.cta "link" .Params.link) }}
+
+
+<div class="mw7 center ph3 pt4">
+
+	{{ if .Params.intro }}
+      <p class="f4 mb3">
+          {{ .Params.intro | markdownify }}
+      </p>
+    {{ end }}
+
+
+    {{ if .Params.lists }} 
+      {{ range .Params.lists }}
+        {{ partial "list-sm" ( . ) }}
+      {{ end }}
+    {{ end }}
+
+    <hr />
+
+  <h3 class="f3 b">Productions</h3>
+  <ul class="flex-ns flex-wrap mhn1-ns pv3">
+    {{ $season := .Params.currentseason }}
+      {{ range where (where .Site.Pages "Type" "productions") ".Params.season" $season }}
+          <div class="w-100-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+
+<!--   {{ range $index, $element := .Params.values }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }} -->
+
+</div>
+
+{{ end }}

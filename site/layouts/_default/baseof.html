@@ -2,12 +2,16 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
+    {{ partial "sidenav" . }}
+    <div class="page">
+      <div class="container">
+        {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+        {{ block "main" . }}{{ end }}
 
-    {{ block "main" . }}{{ end }}
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+        {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      </div>
+    </div>
 
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}

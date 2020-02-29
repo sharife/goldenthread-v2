@@ -1,53 +1,86 @@
-<footer class="bg-black ph3 pv4 white">
+<div class="deco-border"></div>
+<footer class="bg-darkblue pv4 white">
 
 	<div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
 
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
+		<div class="flex-ns ph3">
 
-			{{ partial "newsletter-form" . }}
+			<div class="w-30-ns mb3 mr3">
+				<h3 class="f5 b lh-title mb1">Golden Thread Productions</h3>
+				<p class="f6">1695 18th Street, #C101<br />
+					San Francisco, CA 94107<br />
+					Box Office: <a href="#" class="no-underline">boxoffice@goldenthread.org</a><br />
+					Office: <a href="#" class="no-underline">information@goldenthread.org</a><br />
+					Phone: 415.626.4061
+				</p>
+			</div>
 
-		</div>
-
-		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+			<div class="w-30-ns mb3 mr3">
+				<ul class="f6 mb4 b">
+					<li class="mb2"><a href="/contact" class="link">→ CONTACT US</a></li>
+					<li class="mb2"><a href="https://goldenthread.secure.force.com/signup/?cfid=a05j000000LsdhQAAR" target="_blank" class="link">→ JOIN OUR MAILING LIST</a></li>
+					<li class="mb2"><a href="/about/visit" class="link">→ PLAN YOUR VISIT</a></li>
 				</ul>
 			</div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
+			<div class="w-30-ns mb3 mr3">
+				<h3 class="f6 b lh-title mb2">FOLLOW US</h3>
 				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/goldenthread" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "https://twitter.com/goldenthread" "svg" "icons-twitter") }}
+					{{ partial "social-icon" (dict "link" "https://www.youtube.com/user/gtptheatre" "svg" "icons-youtube") }}
+					{{ partial "social-icon" (dict "link" "https://www.linkedin.com/company/2955209?trk=tyah" "svg" "icons-linkedin") }}
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/goldenthreadplays/" "svg" "icons-instagram") }}
 				</ul>
+				<p class="f6 mt3">Golden Thread Productions © 2015 - 2019<br />
+					All Rights Reserved |  <a href="#open-modal-privacy" class="link">Privacy Notice</a></p>
 			</div>
+
+			<div id="open-modal-privacy" class="modal-window">
+	            <div>
+	              <a href="#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+	              <div class="scrollme">
+	              	<p class="b lh-title mb1">Golden Thread Productions Privacy Notice</p>
+	                <p class="f6 cms">As you browse Golden Thread Productions website [goldenthread.org], advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, <a href="https://app.adroll.com/">AdRoll</a>, then enables us to present you with retargeted advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, postal address, or telephone number. You can visit <a href="http://www.networkadvertising.org/choices/">this page</a> to opt out of AdRoll and their partners’ targeted advertising.</p>
+	              </div>
+	            </div> 
+	        </div>
 
 		</div>
 	</div>
 
 </footer>
 
-{{ partial "svg" . }}
+{{ partial "svg-alt" . }}
 
 <script src="/app.js"></script>
+<script src="/js/perfundo.min.js"></script>
+{{ if .Params.photos}}
+<script>
+  perfundo('.perfundo');
+</script>
+{{ end }}
+<script type="text/javascript">
+    adroll_adv_id = "QJSF7JGTORGPVBFJBLDMTG";
+    adroll_pix_id = "DHC7GQLSMZHI3JSTOJR7SG";
+
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+</body>
+
+</html>

@@ -1,12 +1,17 @@
 <div class="flex-m mhn3-m mb4">
 
-  <div class="ph3-m w-50-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+  <div class="w-50-m">
+    {{ if .link }}<a href="{{ .link }}">{{ end }}
+      <img src="{{.imageUrl}}" alt="" class="db mb2">
+      {{ if .link }}</a>{{ end }}
   </div>
 
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    <p>{{.text | markdownify}}</p>
+    {{ if .link }}
+    	<a href="{{ .link }}" class="b link">→ {{.cta}}</a>
+    {{ end }}
   </div>
 
 </div>
