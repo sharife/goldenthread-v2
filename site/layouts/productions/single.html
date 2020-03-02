@@ -85,14 +85,14 @@
         {{ end }}
       {{ end }}
 
-      {{ if .Params.cast }} {{ partial "people" (.Params.cast) }} {{ end }}
+      {{ if .Params.cast }} {{ partial "people" (dict "cast" .Params.cast "pageUrl" .Permalink) }} {{ end }}
 
       {{ if .Params.photos }}
     </div>
   </div>
   <div>
     <div class="mw7 center ph3">
-      {{ partial "gallery" (.Params.photos) }}
+      {{ partial "gallery" (dict "photos" .Params.photos "pageUrl" .Permalink) }}
     </div>
   </div>
   <div>
