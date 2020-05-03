@@ -16,6 +16,7 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 // CMS.registerPreviewTemplate("products", ProductsPreview);
 // CMS.registerPreviewTemplate("values", ValuesPreview);
 // CMS.registerPreviewTemplate("contact", ContactPreview);
+
 import uploadcare from 'netlify-cms-media-library-uploadcare';
 
 CMS.registerMediaLibrary(uploadcare);

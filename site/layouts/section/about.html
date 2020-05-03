@@ -37,14 +37,7 @@
           {{ end }}
         {{ end }}
 
-        {{ if .Params.staff }} {{ partial "cast" (.Params.staff) }} {{ end }}
-
-        {{ if .Params.board }} {{ partial "cast" (.Params.board) }} {{ end }}
-
-        {{ if .Params.artists }} {{ partial "cast" (.Params.artists) }} {{ end }}
-
-        {{ if .Params.advisors }} {{ partial "people" (.Params.advisors) }} {{ end }}
-
+      
       </div>
       <div class="pv3 w-30-ns">
         {{ if .Params.sidebar }}
@@ -57,6 +50,7 @@
   {{ else }}
 
     <div class="mw7 center ph3 pv4">
+
       {{ if .Params.intro }}
         <div class="f5 mb3">
             {{ .Params.intro | markdownify }}
@@ -87,13 +81,13 @@
         {{ end }}
       {{ end }}
 
-      {{ if .Params.staff }} {{ partial "people" (.Params.staff) }} {{ end }}
+      {{ if .Params.staff }} {{ partial "people" (dict "cast" .Params.staff "pageUrl" .Permalink) }} {{ end }}
 
-      {{ if .Params.board }} {{ partial "people" (.Params.board) }} {{ end }}
+      {{ if .Params.board }} {{ partial "people" (dict "cast" .Params.board "pageUrl" .Permalink) }} {{ end }}
 
-      {{ if .Params.artists }} {{ partial "people" (.Params.artists) }} {{ end }}
+      {{ if .Params.artists }} {{ partial "people" (dict "cast" .Params.artists "pageUrl" .Permalink) }} {{ end }}
 
-      {{ if .Params.advisors }} {{ partial "people" (.Params.advisors) }} {{ end }}
+      {{ if .Params.advisors }} {{ partial "people" (dict "cast" .Params.advisors "pageUrl" .Permalink) }} {{ end }}
 
     </div>
 

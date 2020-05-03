@@ -9,12 +9,12 @@ cta: LEARN MORE
 link: 'https://goldenthread.org/season/'
 items:
   - image: >-
-      https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/
-    subtitle: What Do The Women Say? Power, Privilege, Agency
+      /img/home_DAP3203_small.jpg
+    subtitle: Audition for Golden Thread's 2020 Season
     cta: Read More Now
-    link: '/productions/what-do-the-women-say'
+    link: '/get-involved/casting'
     text: >-
-      Check out this year’s lineup of leading Middle Eastern women artists including Basma Edrees, Aisan Hoss, Kathreen Khavari, and Naghmeh Samini. Special guest: Sabina Zafar.
+      We will be conducting General Auditions by VIDEO SUBMISSION ONLY. Show-specific auditions will be held on May 26th. Equity and non-Equity actors are invited. Actors of Middle Eastern and diverse cultural backgrounds are encouraged.
   - image: >-
       https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
     subtitle: Submit your Short Play for Consideration in ReOrient 2021
