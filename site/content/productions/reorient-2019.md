@@ -38,7 +38,7 @@ additional: >-
   Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman, Scott
   Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa Mirza,
   Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk* and
-  Grisel Torres. *Member, Actors' Equity
+  Grisel Torres. *Member, Actors' Equity*
 stage: Potrero Stage
 address: '1695 18th Street, San Francisco'
 ticketlink: >-
@@ -74,12 +74,12 @@ lists:
           and reservation links. This offer expires October 13.
 
 
-          _**For more information and a full schedule, click**_
-          [_**here**_](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)_**.**_
+          **For more information and a full schedule, click**
+          [**here**](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)**.**
 
 
-          _**For hotel discounts during the convening, click**_
-          [_**here**_](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)_**.**_
+          **For hotel discounts during the convening, click**
+          [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg

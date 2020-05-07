@@ -8,23 +8,16 @@ sidebar:
 ---
 ### CASTING CALL FOR GOLDEN THREAD 2020 SEASON
 
+Golden Thread is working diligently to comply with San Francisco regulations in response to the COVID-19 pandemic. Accordingly, we will be conducting Auditions by way of VIDEO SUBMISSION ONLY. General auditions are now closed.
 
-Golden Thread is working diligently to comply with San Francisco regulations in response to the COVID-19 pandemic. Accordingly, we will be conducting General Auditions by way of VIDEO SUBMISSION ONLY. There will be no in-person General Auditions on March 31, 2020. Auditions for *The Language of Wild Berries* will be held on May 26, 2020. Please review our audition instructions below:
+Show-specific auditions will be held by way of VIDEO SUBMISSION only. Equity and non-Equity actors are invited to submit auditions. Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed. Please email auditions@goldenthread.org for instructions & sides.
 
-Equity Generals will be held by way of VIDEO SUBMISSION only. Equity and non-Equity actors are invited to submit auditions. Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed. You can find further instructions and submit your audition [HERE](https://docs.google.com/forms/d/1Qd3iiRlwbCw0MXwmSOqktMEo_Rk9BaRt8lciaO51aog/edit). Deadline: April 30, 2020
-
-Auditions for *The Language of Wild Berries* will take place on Tuesday, May 26, 2020
+The deadline to submit your video for *The Language of Wild Berries* is May 26, 2020.
 
 ---
 
-**Where:**  
-Potrero Stage, 1695 18th Street, San Francisco, CA 
-
-**Contact:**  
-auditions@goldenthread.org with your headshot and resume to request an audition on May 26, 2020.
-
 **Prepare:**  
-The script will be emailed to you upon confirmation of your appointment. Sides will be available at the audition. 
+The script, sides, and instructions will be emailed to you. 
 
 **Play Details:**  
 *The Language of Wild Berries*  
