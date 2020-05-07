@@ -75,7 +75,7 @@ lists:
 
 
           **For more information and a full schedule, click**
-          [**here**](http://goldenthread.org/posts/reorient-2019--national-convening-of-mena-theatre-artists/)**.**
+          [**here**](https://goldenthread.org/posts/reorient-2019-national-convening-of-mena-theatre-artists/)**.**
 
 
           **For hotel discounts during the convening, click**
