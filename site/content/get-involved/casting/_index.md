@@ -11,7 +11,7 @@ Golden Thread is working diligently to comply with San Francisco regulations in 
 
 Show-specific auditions will be held by way of VIDEO SUBMISSION only. Equity and non-Equity actors are invited to submit auditions. Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed. Please email [auditions@goldenthread.org ](<>)for instructions & sides. Please attach your headshot and resume to your email. LOCAL HIRE ONLY.
 
-The deadline to submit your video for *The Language of Wild Berries* is May 26, 2020.
+The deadline to submit your video for *The Language of Wild Berries* is May 31, 2020.
 
 - - -
 
