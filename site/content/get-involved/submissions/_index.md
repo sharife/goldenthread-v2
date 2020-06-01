@@ -5,7 +5,7 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
-### Full-length Plays Are Considered for New Threads Staged Reading Series and Future Productions.
+### We Accept Full-length Plays Year-Round.
 
 **Golden Thread** produces passionate and provocative plays from and about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
 
@@ -29,7 +29,7 @@ sidebar:
 
 • Exploration of Middle Eastern performance traditions
 
-**We accept full-length plays year-round. We will only contact playwrights whose plays are under consideration for reading and/or production.**
+**We will only contact playwrights whose plays are under consideration for reading and/or production.**
 
 **Submission Guidelines:**
 
