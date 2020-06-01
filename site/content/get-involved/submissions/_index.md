@@ -13,7 +13,7 @@ sidebar:
 
 • Plays by playwrights of Middle Eastern heritage on any topic
 
-• Plays about the Middle East by playwrights of any ethnic background
+• Plays about the Middle East by playwrights of any cultural heritage
 
 • Plays must be in English
 
@@ -23,13 +23,13 @@ sidebar:
 
 • Plays that experiment with non-realistic forms, non-linear or physically-based storytelling
 
-• Plays that explore and demonstrate aspects of daily or family life
+• Plays that explore aspects of immigrant or family life
 
 • Adaptations of classical texts and or historical figures
 
 • Exploration of Middle Eastern performance traditions
 
-We accept full-length plays year-round. We will only contact playwrights whose plays are under consideration for reading and/or production.
+**We accept full-length plays year-round. We will only contact playwrights whose plays are under consideration for reading and/or production.**
 
 **Submission Guidelines:**
 
@@ -41,7 +41,7 @@ We accept full-length plays year-round. We will only contact playwrights whose p
 
 **ReOrient Festival of Short Plays**
 
-ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission deadline for consideration in **ReOrient Festival of Short Plays 2021** has passed. 
+Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission deadline for consideration in **ReOrient Festival 2021** has passed. 
 
 For any further questions or concerns, email **submissions@goldenthread.org.**
 
