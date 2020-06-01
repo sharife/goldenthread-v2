@@ -5,7 +5,7 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
-### Golden Thread is now accepting submissions for ReOrient Festival 2021!
+### Full-length Plays Are Considered for New Threads Staged Reading Series and Future Productions.
 
 **Golden Thread** produces passionate and provocative plays from and about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
 
@@ -39,13 +39,9 @@ We accept full-length plays year-round. We will only contact playwrights whose p
 
 **WE NO LONGER ACCEPT HARD COPY SUBMISSIONS BY MAIL.**
 
-
-
 **ReOrient Festival of Short Plays**
 
 ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission deadline for consideration in **ReOrient Festival of Short Plays 2021** has passed. 
-
-
 
 For any further questions or concerns, email **submissions@goldenthread.org.**
 
