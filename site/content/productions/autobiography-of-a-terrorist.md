@@ -1,7 +1,7 @@
 ---
 title: Autobiography of a Terrorist
 season: 2015
-date: 2020-06-06T02:24:41.324Z
+date: 2017-03-15T02:24:41.324Z
 start: 2017-04-15T02:24:00.000Z
 end: 2017-05-08T02:24:00.000Z
 description: ""
