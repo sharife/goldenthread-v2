@@ -1,5 +1,6 @@
 ---
 title: Autobiography of a Terrorist
+pre: A world premiere play by Saïd Sayrafiezadeh
 season: 2017
 date: 2017-03-15T02:24:41.324Z
 start: 2017-04-15T02:24:00.000Z
