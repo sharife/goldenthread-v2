@@ -5,11 +5,19 @@ season: 2017
 date: 2017-03-15T02:24:41.324Z
 start: 2017-04-15T02:24:00.000Z
 end: 2017-05-08T02:24:00.000Z
-description: ""
+description: Saïd has written a play about growing up Iranian and
+  Jewish-American during the Iran hostage crisis. As he and his well-meaning
+  collaborators try to stage his script, things go quickly and hilariously from
+  bad to worse. Will Saïd ever be able to just fit in? Whiting Award–winning
+  writer Sayrafiezadeh (*Brief Encounters With the Enemy*,*When Skateboards Will
+  Be Free*) brilliantly pokes fun at the complications of hyphenated identity in
+  America.
 videos:
   - id: D2fMvXu_cmk
 writer: Saïd Sayrafiezadeh
 director: Evren Odcikin
+stage: Potrero Stage (formerly Thick House)
+address: 1695 18th Street, San Francisco
 lists:
   - items:
       - title: Special Artist Conversation
@@ -39,47 +47,6 @@ grids:
         cta: Read More
         link: https://www.sfarts.org/event.cfm?event_num=71360
     heading: In the Press
-  - heading: Reviews
-    items:
-      - text: >-
-          “**A multi-layered, intellectually complex, and splendid piece of
-          work**… Under Odcikin’s deft (and often breathless) direction, Golden
-          Thread’s ensemble of five determined artists jumps through acting
-          hoops that range from hilariously fake attempts at empathy to
-          painfully honest confessions; from surprisingly agile bits of physical
-          comedy to heartbreaking moments of personal cruelty.”\
-
-          —*The Huffington Post*
-      - text: >-
-          “The show is often very funny, especially in the many uncomfortable
-          moments between the performers. Just as often, it’s disturbing in how
-          aptly it captures how thin people’s veneer of tolerance can be, even —
-          or rather especially — when they believe it to be genuine.”\
-
-          —*The Mercury News*
-      - text: >-
-          “Relax everybody —*Autobiography* is a comedy! No bombs or blood. Just
-          a provocative (and amusing) account of what it meant to be a
-          ‘hyphenated American’.”\
-
-          —*Pacific Sun*
-      - text: >-
-          “Throughout *Autobiography*, there’s a running joke about people
-          mispronouncing \[Said’s last name]: “Stirfryday” is the funniest
-          example. The play repeats this seemingly unimportant point to make a
-          larger one. A certain American demographic remains indifferent and
-          wary of other cultures and other languages. For those who can’t pass
-          as a Smith or Jones, Sayrafiezadeh also points out that the rah-rah
-          jingoism of a USA chant always carries a belligerent edge.”\
-
-          —*SF Weekly*
-      - text: >-
-          “*Autobiography of a Terrorist* feels like art imitating life —
-          brilliantly.”\
-
-          —*Theatrius*
-      - text: “Saïd Sayrafiezadeh is a name you may want to remember. He writes with
-          extraordinary power.” —*The New York Times*
 cast:
   items:
     - credit: Playwright
@@ -144,4 +111,19 @@ bottom:
   text: Thanks to **The Zellerbach Family Foundation** for their generous support
     of *Autobiography of a Terrorist*.
 ---
-Saïd has written a play about growing up Iranian and Jewish-American during the Iran hostage crisis. As he and his well-meaning collaborators try to stage his script, things go quickly and hilariously from bad to worse. Will Saïd ever be able to just fit in? Whiting Award–winning writer Sayrafiezadeh (*Brief Encounters With the Enemy*,*When Skateboards Will Be Free*) brilliantly pokes fun at the complications of hyphenated identity in America.
+“A multi-layered, intellectually complex, and splendid piece of work… Under Odcikin’s deft (and often breathless) direction, Golden Thread’s ensemble of five determined artists jumps through acting hoops that range from hilariously fake attempts at empathy to painfully honest confessions; from surprisingly agile bits of physical comedy to heartbreaking moments of personal cruelty.”\
+—*The Huffington Post*
+
+“The show is often very funny, especially in the many uncomfortable moments between the performers. Just as often, it’s disturbing in how aptly it captures how thin people’s veneer of tolerance can be, even — or rather especially — when they believe it to be genuine.”\
+—*The Mercury News*
+
+“Relax everybody —*Autobiography* is a comedy! No bombs or blood. Just a provocative (and amusing) account of what it meant to be a ‘hyphenated American’.”\
+—*Pacific Sun*
+
+“Throughout *Autobiography*, there’s a running joke about people mispronouncing \[Said’s last name]: “Stirfryday” is the funniest example. The play repeats this seemingly unimportant point to make a larger one. A certain American demographic remains indifferent and wary of other cultures and other languages. For those who can’t pass as a Smith or Jones, Sayrafiezadeh also points out that the rah-rah jingoism of a USA chant always carries a belligerent edge.”\
+—*SF Weekly*
+
+“*Autobiography of a Terrorist* feels like art imitating life — brilliantly.”\
+—*Theatrius*
+
+“Saïd Sayrafiezadeh is a name you may want to remember. He writes with extraordinary power.” —*The New York Times*
