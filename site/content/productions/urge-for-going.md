@@ -149,6 +149,9 @@ cast:
         Shakespeare Santa Cruz, Buffalo Nights, LA Opera, and the Los Angeles
         Theater Center. Mr. Strasser holds a BA in Theater from UCLA."
       credit: Jul
+bottom:
+  logos:
+    - image: https://ucarecdn.com/c3969715-4f9f-4521-a558-15a9468dbc9c/
 ---
 Fresh out of a residency at Ground Floor at Berkeley Rep, Playwright **Mona Mansour** says: “I’m excited to look again at this piece that really is fairly autobiographical and very close to my heart…I don’t think stories about the Middle East are being told enough, and they surely aren’t being told truthfully.”
 
