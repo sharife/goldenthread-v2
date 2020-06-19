@@ -1,7 +1,7 @@
 ---
 title: Deep Cut
 pre: West Coast Premier
-season: 1999
+season: 2001
 date: 2001-06-14T12:05:00.000Z
 start: 2001-07-14T12:05:00.000Z
 end: 2001-07-29T12:05:00.000Z
