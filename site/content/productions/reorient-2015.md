@@ -82,6 +82,60 @@ lists:
         link: https://ww2.kqed.org/arts/programs/the-do-list/
         image: https://ucarecdn.com/1a3f4d13-4ca6-48c8-847b-eaecc64a6bdb/
     heading: In The Press
+  - heading: Forum
+    items:
+      - title: The ReOrient Forum 2015
+        pre: Join the Conversation
+        subtitle: The Festival culminates in a two-day ReOrient Forum featuring
+          provocative conversations by artists, scholars, and activists from
+          around the world.
+        text: >-
+          This year’s Forum features UC Davis Professor Sunaina Maira as Keynote
+          Speaker, and presents panels on ideas of home and language for
+          Palestinian artists around the world (organized by Theatre Without
+          Borders), the intersection of sexual identity with Middle Eastern
+          performance (organized by Shape-Shift Arts & Saboteur Productions), a
+          multigenerational perspective of Iranian-American theatre (organized
+          by Diaspora Arts Connection), and a panel on the future of Bay Area’s
+          culturally-specific theatre companies (organized by Theatre Bay Area),
+          amongst others.
+
+
+          Sat, Oct 3 & Sun, Oct 4 at Z Space (450 Florida Street, San Francisco)
+grids:
+  - heading: Special Events
+    items:
+      - title: Fairytale Players Double-Bill
+        pre: For Families
+        subtitle: "*Princess Tamar Rescues Nazar the Brave* and *21 Days That Change the
+          Year:* Two beloved family-friendly productions, inspired by Iranian
+          and Armenian folktales will be presented in one afternoon."
+        image: https://ucarecdn.com/5910cadd-260a-4a93-b67f-a3507776da18/
+        text: |-
+          Featuring Sarah Al-Kassab, Majd Murad, Mohammad Talani, and Jeremy Vik
+
+          **Sun, Oct 4, at 2pm at Z Space (450 Florida Street, SF)**\
+          Tickets: $20\
+          This event is**free for children 12 and under**.
+        cta: Buy Now
+        link: http://www.goldenthread.org/tickets/
+      - pre: For Music Lovers
+        title: Arabic Folk Song Recital by Saousan Jarjour
+        subtitle: Acclaimed Syrian-American soprano presents a repertoire of Arabic folk
+          songs, reimagined.
+        image: https://ucarecdn.com/e11d6bba-fdb0-40fc-abe3-6a97db01ebca/
+        text: >-
+          Zetune Ensemble: Saousan Jarjour (vocals), Mark Herrera (Jazz piano),
+          Eric Salinas (guitar), Matt Richards (tabla), and Michael Selfridge
+          (bass)\
+
+          \
+
+          **Sat, Oct 3, at 2pm at Z Space (450 Florida Street, SF)**\
+
+          Tickets: $20[](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/tickets/)
+        cta: Buy Now
+        link: http://www.goldenthread.org/tickets/
 cast:
   heading: Cast & Crew
   items:
