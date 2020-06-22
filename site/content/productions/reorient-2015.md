@@ -21,6 +21,7 @@ lists:
           enrich our knowledge, and to embrace empathy, then **ReOrient hugely
           succeeds.**” —*Stark Insider*
         link: http://www.starkinsider.com/2015/09/reorient-your-perspective-on-the-middle-east-review.html
+        image: https://ucarecdn.com/d862e461-e544-48c6-aead-fb40df4bc488/
       - text: “Judging by the new short plays comprising its 2015 ReOrient Festival,
           Golden Thread is clearly fulfilling its mission to offer **compelling
           stories representing the complexity and diversity of the contemporary
@@ -28,11 +29,12 @@ lists:
           all premieres.” —*San Francisco Examiner*
         cta: Read More
         link: http://www.sfexaminer.com/reorient-tells-modern-tales-from-the-middle-east/
+        image: https://ucarecdn.com/c76b2291-25a6-45bd-9786-42bb09bfda2f/
       - subtitle: ReOrienting a Middle Eastern Perspective
         text: ReOrient 2015 is a *San Francisco Chronicle* Weekend Pick
         cta: Read More
         link: http://www.sfgate.com/performance/article/Reorienting-a-Middle-Eastern-perspective-6491619.php
-        image: https://ucarecdn.com/95d47260-f5c6-4407-a402-dd243c33bd68/
+        image: https://ucarecdn.com/189621f2-65ea-4a60-9b54-b11b99526750/
       - subtitle: ReOrient Festival Brings Stories of the Middle East to the Bay Area
         text: Radio interview with Yussef El Guindi, Sara Razavi, and Torange
           Yeghiazarian on KQED Forum
