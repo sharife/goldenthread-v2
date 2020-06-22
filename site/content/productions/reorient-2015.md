@@ -136,6 +136,78 @@ grids:
           Tickets: $20[](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/tickets/)
         cta: Buy Now
         link: http://www.goldenthread.org/tickets/
+  - heading: Festival - Presented in two series in repertory
+    items:
+      - title: Series A
+        pre: The following four short plays perform Thursdays & Saturdays at 8pm
+        text: >-
+          ###### Picking Up the Scent - *World Premiere*\
+
+          by Yussef El Guindi, directed by Evren Odcikin\
+
+          Hisham, an archeologist, discovers an ancient perfume bottle in a war zone. As he digs deeper, his poet wife Nisrin questions if it’s worth risking his life for history.
+
+
+          ###### Turning Tricks - *U.S. Premiere*\
+
+          by Silva Semerciyan, directed by Erin Gilley\
+
+          Slavery is hidden in plain sight in the wealthy London of the not-so-distant future. But the players are not who you would expect.*(Contains mature content)*
+
+
+          ###### Bitterenders - *World Premiere*\
+
+          by Hannah Khalil, directed by Manijeh Mohamedi\
+
+          Maha’s Palestinian family shares their East Jerusalem apartment with an Israeli family, until a surprising letter changes everything—or does it?
+
+
+          ###### Counting in Sha’ab - *World Premiere*\
+
+          by Emma Goldman-Sherman, directed by Erin Gilley\
+
+          Life goes on for Mr. Hattab and a colorful cast of characters from his bustling Baghdad neighborhood despite a bomb going off in front of his grocery store.
+      - title: Series B
+        pre: The following five short plays perform Fridays at 8pm & Sundays at 3pm
+        subtitle: >-
+          ###### Lost Kingdom - ***U.S. Premiere***\
+
+          **by Hassan Abdulrazzak, directed by Michael French**\
+
+          When a Lebanese-American FBI agent is called in to interrogate a fallen dictator, a twisted tango ensues that complicates black and white notions of good and evil.
+
+
+          ###### Reaching Out - ***World Premiere***\
+
+          **Inspired by Golden Thread’s global theatre collaboration,[Project Alo?](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/alo/)**\
+
+          **conceived and co-directed by Torange Yeghiazarian, edited and co-directed by Erin Gilley**\
+
+          See what happens when pairs of artists, one based in the US and one in the Middle East, are asked to communicate through video clips captured entirely on cell-phones.
+
+
+          ###### Ceasefire - ***West Coast Premiere***\
+
+          **by Ken Kaissar, directed by Evren Odcikin**\
+
+          Can a ceasefire allow Israeli and Lebanese soldiers patrolling the border to see each other as something other than enemy?
+
+
+          ###### Songs of Our Childhood - ***World Premiere***\
+
+          **by Nahal Navidar, directed by Sara Razavi**\
+
+          Childhood friends, Mira and Sanaz, work as triage nurses during the Iran-Iraq War. But it’s their ideological battles that threaten the peace inside the hospital.
+
+
+          ###### The House - ***West Coast Premiere***\
+
+          **by Tala Manassah and Mona Mansour, directed by Sara Razavi**\
+
+          Kamal, a Palestinian-American scientist, and his philosopher daughter Alia put on a play and take an imaginary trip to his childhood home.
+
+
+          [](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/tickets)
 cast:
   heading: Cast & Crew
   items:
