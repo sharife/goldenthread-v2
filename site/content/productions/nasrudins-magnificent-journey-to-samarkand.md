@@ -1,5 +1,6 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
+pre: Fairytale Players
 season: 2012
 date: 2013-01-17T08:54:00.000Z
 start: 2013-02-17T08:54:00.000Z
