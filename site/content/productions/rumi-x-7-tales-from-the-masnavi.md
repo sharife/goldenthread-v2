@@ -7,8 +7,10 @@ start: 2013-03-14T08:44:00.000Z
 end: 2013-05-03T08:44:00.000Z
 director: Hafiz Karmali
 featuring: Golden Thread's Fairytale Players
-misc: This production runs approximately 50-minutes followed by 20-min Q & A
-  session included.
+misc: Rumi x 7 = Tales From the Masnavi was performed at multiple locations such
+  as the Asian Art Museum, San Francisco Day School, Pacific School of Religion
+  - Sacred Snapshots event, La Pena Cultural Center, and the Jewish Community
+  Center of East Bay.
 grids: []
 cast:
   heading: Cast & Crew
