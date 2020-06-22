@@ -1,0 +1,216 @@
+---
+title: ReOrient 2012
+pre: Festival of Short Plays Exploring the Middle East
+season: 2012
+date: 2012-10-01T10:02:00.000Z
+start: 2012-11-01T10:02:00.000Z
+end: 2012-11-18T10:02:00.000Z
+stage: NOH Space and Z Space
+address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
+  Francisco, CA 94110
+lists:
+  - heading: In The Press
+    items:
+      - link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
+        cta: Read More
+        text: What ***American Theatre*** has to say about ReOrient.
+      - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
+        cta: Read More
+        link: http://www.thearabreview.org/re-orienting-the-story/
+      - text: "**KQED**Feature"
+        cta: Read More
+      - link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
+        cta: Listen Here
+        text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
+          **KPFK’s** *Letters and Politics*"
+      - text: "Part II: Interview with Torange Yeghiazarian and Munaf Alsafi on
+          **KPFK’s** *Letters and Politics*"
+        link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
+        cta: Listen Here
+cast:
+  heading: Cast & Crew
+  items:
+    - name: Amir Al-Azraki
+      credit: Playwright
+      image: https://ucarecdn.com/a96116b8-01c2-4614-8355-b8d578808cb9/
+      bio: "**Amir Al-Azraki** is a lecturer of English drama at the University of
+        Basra. He received his BA in English from the University of Basra, his
+        MA in English literature from Baghdad University, and his PhD in Theatre
+        Studies from York University in Toronto, Canada. In the last four years
+        Al-Azraki has been working on his dissertation “The Representation of
+        Political Violence in Contemporary English and Arabic Plays About Iraq”,
+        and continued to develop a collaboration between the University of Basra
+        and the Central School of Speech and Drama in the University of London
+        on “Transforming the Learning Environment Through Forum Theatre:
+        Developing a Basra University Model.” Al-Azraki is also a performer and
+        playwright and he has presented papers at F.O.O.T., Performing Back: A
+        Conference on Post-Colonial Theatre, and at TCG National Conference.
+        Among his plays are Waiting for Gilgamesh: Scenes from Iraq, Stuck,
+        Notorious Women, Lysistrata in Iraq, and Judgment Day."
+    - bio: "**E. H. Benedict** is an actor, novelist, and most recently, playwright,
+        is delighted to be working with Golden Thread. She is a founding member
+        of Actors & Writers, a reader’s theatre near Woodstock, New York, where
+        many of her short plays and screenplays are read. In 2005 her play Jesus
+        in Las Vegas was included in the Bash! Event at the Bay Area Playwrights
+        Festival. In 2006 Jesus in Las Vegas was included in the Z/Magic Monday
+        series at Magic Theatre. That same year, Orhan was included as a staged
+        reading in the 2006 ReOrient Festival for the first time. Another play,
+        American Royals, was selected as a semifinalist for the 2008 O’Neill
+        Conference, the Utah Shakespearean Festival’s New American Playwrights
+        Project, and Pacific Rep’s Hyperion New Plays Competition. In 2009
+        American Royals received a round-table read at the Lark Play Development
+        Center in New York City."
+      name: E. H. Benedict
+      credit: Playwright
+      image: https://ucarecdn.com/7164cb22-d412-4f0b-a3d7-84764fd0deea/
+    - name: Yussef El Guindi
+      credit: Playwright
+      bio: "**Yussef El Guindi**’s most recent productions include Pilgrims Musa and
+        Sheri in the New World (winner of the Steinberg/ American Theater
+        Critics Association’s New Play Award in 2012; Gregory Award 2011;
+        Seattle Times’ “Footlight Award” for Best World Premiere Play, 2011) at
+        ACT, and Language Rooms (Edgerton Foundation New American Play Award, as
+        well as ACT’s New Play Award), co-produced by the Asian American Theater
+        Company and Golden Thread Productions in San Francisco; at the Wilma
+        Theater in Philadelphia (premiere), and at the Los Angeles Theater
+        Center, where it was co-produced by Golden Thread Productions and the
+        Latino Theater Company. His plays, Back of the Throat, as well as Such a
+        Beautiful Voice is Sayeda’s and Karima’s City, have been published by
+        Dramatists Play Service. The latter one-acts have also been included in
+        The Best American Short Plays: 2004-2005, published by Applause Books in
+        2008. His play Ten Acrobats in an Amazing Leap of Faith is included in
+        Salaam/Peace: An Anthology of Middle Eastern American Playwrights,
+        published by TCG, 2009."
+      image: https://ucarecdn.com/c06d9939-63ac-4088-a5d1-0fd082d1479a/
+    - bio: After pursuing his MFA (Directing) at Carnegie-Mellon University School of
+        Drama, **Hafiz Karmali** participated in an apprenticeship at the
+        American Repertory Theatre (ART) at Harvard where he assisted
+        internationally renowned directors Robert Wilson and Andrei Serban.
+        While at the ART, he was a Teaching Fellow in the English Department at
+        Harvard University for courses taught by Professor Robert Brustein. Most
+        recently, Hafiz remounted his favorite Sufi poem Conference of the Birds
+        by Farid uddin Attar in Vancouver. Hafiz has directed Rumi x 7 = Tales
+        from the Masnavi in circus style at Golden Thread Productions, San
+        Francisco (2011). As a special event to commemorate Prince Karim Aga
+        Khan’s golden jubilee as spiritual leader, Hafiz co-wrote and directed
+        an international touring theatre production, Ali to Karim—A Tribute to
+        the Ismaili Imams (London 2008). Mr. Karmali has a special interest in
+        cross-cultural performances, showcasing indigenous performing arts of
+        the Islamic world.
+      name: Hafiz Karmali
+      credit: Director
+      image: https://ucarecdn.com/f45720ca-80e2-4b8b-a19e-355d827e3eb0/
+    - name: Tala Jamal Manassah
+      bio: "**Tala Jamal Manassah** is the deputy executive director of the
+        Morningside Center for Teaching Social Responsibility. From 2004–2009,
+        Manassah served as the founding executive director of the Middle East
+        Children’s Institute. Manassah earned her A.B. with honors in philosophy
+        and A.M. in the humanities at the University of Chicago. Plays include
+        The House, which was commissioned by Noor Theater and the American
+        Institute for Architecture and read as part of their Building A New
+        series, and After, which will be produced at CUNY next spring, both
+        cowritten with Mona Mansour."
+      credit: Playwright
+    - name: Mona Mansour
+      credit: Playwright
+      image: https://ucarecdn.com/2d7a43ec-7154-4f28-8de8-e7e5e863971b/
+      bio: "**Mona Mansour**'s play The Hour of Feeling (directed by Mark Wing-Davey)
+        just received its world premiere in the Humana Festival of New American
+        Plays at Actors Theatre of Louisville. Following that, it was part of
+        the High Tide Festival in the U.K. as part of the Rifle Hall plays. The
+        companion play Urge for Going (directed by Hal Brooks) received a LAB
+        production in the 2011 season at the Public Theater. Mona was a member
+        of the Public Theater’s Emerging Writers Group, and is currently a Core
+        Writer at Minneapolis’ Playwrights Center. Other plays include Across
+        the Water and Broadcast Yourself (part of Headlong’s Decade, which
+        premiered in London). Her play The Way West, about modern-day
+        California, will receive a BareBones workshop production at the Lark in
+        November. Her work has been developed at Williamstown Theater Festival,
+        New York Stage and Film, and Lincoln Center Directors’ Lab. Television
+        credits include Dead Like Me and Queens Supreme. Honorable mention, 2010
+        Middle East America Playwright Award."
+    - name: Evren Odcikin
+      credit: Director
+      image: https://ucarecdn.com/b7b1bbd6-32b2-4bc4-9c15-d8e1c57b99fa/
+      bio: "**Evren Odcikin** is the literary artistic associate with Golden Thread
+        and has assisted in producing the ReOrient Festival. His directing
+        credits include Invasion! with Crowded Fire; Language Rooms with Golden
+        Thread, which was remounted at Los Angeles Theater Center and selected
+        as a Los Angeles Times critic’s pick; The Oldest Profession and Machinal
+        (three Bay Area Theatre Critics’ Circle Award nominations including best
+        director and best production) at Brava Theater Center; and RHINO with
+        Boxcar Theatre (“Most Inventive Staging of 2010” from SF Weekly, “Best
+        Play of 2010” from SF Bay Times). Evren was born and raised in Turkey
+        and is a graduate of Princeton University."
+    - name: Sara Razavi
+      credit: Director
+      image: https://ucarecdn.com/396bcc11-e704-4c41-b944-2dc57110a6ca/
+      bio: "**Sara Razavi** is a regular performer at Golden Thread and other Bay Area
+        theatres. She is a founding member of elastic future, an experimental
+        arts group working in live performance, and has collaborated on several
+        ensemble-generated works. Her directing debut with Maryam Rostami’s
+        one-woman show, Persepolis, Texas for CounterPULSE Theatre’s Summer
+        Special, was followed shortly after with Denmo Ibrahim’s one-woman show,
+        Baba, for the Minneapolis Fringe Festival. In addition to theatre work,
+        Razavi has led and managed several socially responsible entities, and is
+        currently pursing an MBA. She happily wears her artistic and management
+        hat as a member of Golden Thread’s Board of Trustees."
+    - name: Silva Semerciyan
+      credit: Playwright
+      bio: "**Silva Semerciyan** was born in Michigan and moved to the UK in 1999. Her
+        plays include Another Man’s Son (winner of the 2010 William Saroyan
+        Award for Playwriting and currently in development at the UK’s National
+        Theatre Studio), Gather Ye Rosebuds (winner of the 2012 Sandpit Arts
+        Bulbul Competition), I and the Village (shortlisted for the Bruntwood
+        Prize for Playwriting) and Death Row Gourmet (shortlisted for the Seven
+        Devils Conference in Idaho). This summer, her short play, Juke, was
+        produced by Eyebrow Productions as part of Collision for Latitude
+        Festival and Bestival. She is a member of the Conspirators Theatre
+        Project and is currently part of the Studio Writers’ Group at the Royal
+        Court Theatre. She holds a Masters in playwriting from the University of
+        Birmingham."
+      image: https://ucarecdn.com/93bdbdf3-01fe-4133-a2fc-25aa72224861/
+    - name: Jen Silverman
+      credit: Playwright
+      bio: "**Jen Silverman** studied at Brown University and the Iowa Playwrights
+        Workshop. Crane Story premiered off-Broadway in 2011 with The
+        Playwrights Realm, and Akarui premiered at Cleveland Public Theatre in
+        2012. She is an affiliated artist with New Georges, a member of
+        Youngblood at Ensemble Studio Theatre and Groundbreakers at terraNova
+        (NYC), and has developed work with the Lark, NY Stage & Film, the Bay
+        Area Playwrights Festival, The Brick (Brooklyn), Leviathan Lab (NYC),
+        and the Seven Devils Playwrights Conference. She has been commissioned
+        by InterAct Theatre for The Dangerous House of Pretty Mbane, the
+        Gallatin School/NYU for Bones at the Gate: An Antigone, and Red Fern
+        Theatre Co for Lex Before Marriage. She held residencies at Hedgebrook,
+        New Harmony, MacDowell, the Millay Colony, and Djerassi (upcoming). In
+        2011 she was a US Delegate for a China/America Writers Exchange in
+        Beijing. Her play Still won the 2012 Jane Chambers Award."
+      image: https://ucarecdn.com/8b3aabf7-aabf-4df5-a4e8-b5a36833b98b/
+    - bio: "**Naomi Wallace** was born in Kentucky. Her plays include One Flea Spare,
+        In the Heart of America, Slaughter City, The Trestle at Pope Lick Creek,
+        Things of Dry Hours, The Fever Chart: Three Visions of the Middle East
+        and The Hard Weather Boating Party. Her work has received the Susan
+        Smith Blackburn Prize, the Kesselring Prize, the Fellowship of Southern
+        Writers Drama Award, and an Obie. She is also a recipient of the
+        MacArthur “Genius” Fellowship. Wallace is the 2012 winner of the Horton
+        Foote Prize for most promising new American play, The Liquid Plain."
+      name: Naomi Wallace
+      credit: Playwright
+      image: https://ucarecdn.com/78033a94-cf92-4711-b90c-4caf710ad67e/
+bottom:
+  logos:
+    - image: https://ucarecdn.com/b531bd89-0f1d-4d45-be36-273f98f91f18/
+    - image: https://ucarecdn.com/ff0e53e2-b4d5-42fd-a6f2-ba23cab2b181/
+    - image: https://ucarecdn.com/0a6d05fe-c35f-4e64-a643-dd133dcdfc9c/
+    - image: https://ucarecdn.com/08fb0d1b-cc4b-4181-a449-4c5dd928bfd2/
+    - image: https://ucarecdn.com/d89df966-8832-4430-a7ee-67d8b9d3c62c/
+    - image: https://ucarecdn.com/48915440-7e05-4555-a06b-8d41277f3f33/
+    - image: https://ucarecdn.com/2af29af0-34c1-44c7-83d9-c75a7b281e2d/
+    - image: https://ucarecdn.com/9a281e49-6718-4335-8f47-a0445511a814/
+---
+
+
+Building on the success of our tenth anniversary festival in 2009, ReOrient 2012 will turn San Francisco into a Mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. With short plays by playwrights from Iraq, Iran, Egypt, England, and the U.S., the latest ReOrient promises to be a one-of-a-kind exploration of this unique region and its theater, stories, and artists.
+
+*
