@@ -5,6 +5,9 @@ season: 2012
 date: 2012-10-01T10:02:00.000Z
 start: 2012-11-01T10:02:00.000Z
 end: 2012-11-18T10:02:00.000Z
+writer: Amir Al-Azraki, E. H. Benedict, Yussef El Guindi, Tala Jamal Manassah,
+  Mona Mansour, Silva Semerciyan, Jen Silverman, Naomi Wallace
+director: Hafiz Karmali, Evren Odcikin, Sara Razavi
 stage: NOH Space and Z Space
 address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
   Francisco, CA 94110
