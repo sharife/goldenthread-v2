@@ -5,7 +5,11 @@ season: 2015
 date: 2015-08-11T09:01:00.000Z
 start: 2015-09-11T09:01:00.000Z
 end: 2015-10-05T09:01:00.000Z
-description: ""
+description: "**Think you know the Middle East? Think again!** ReOrient 2015
+  will turn San Francisco into a mecca for innovative, spirited, and
+  thought-provoking theatre from and about the Middle East. Nowhere else will
+  you find plays and artists from Armenia, Egypt, Iraq, Iran, Israel, Lebanon,
+  Palestine, Syria, Turkey, United Kingdom, and the U.S. all on one stage."
 writer: Hassan Abdulrazzak, Yussef El-Guindi, Emma Goldman-Sherman, Ken Kaisar,
   Hannah Khalil, Tala Jamal Manassah, Mona Mansour, Nahal Navidar, Silva
   Semerciyan
@@ -546,6 +550,4 @@ bottom:
     - image: https://ucarecdn.com/8f9b9133-5b68-4318-8abd-796a0a13b734/
     - image: https://ucarecdn.com/e41af77b-c5d7-4af7-84a5-cde8f5a5a877/
 ---
-**Think you know the Middle East? Think again!** ReOrient 2015 will turn San Francisco into a mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. Nowhere else will you find plays and artists from Armenia, Egypt, Iraq, Iran, Israel, Lebanon, Palestine, Syria, Turkey, United Kingdom, and the U.S. all on one stage.
-
 With plays, talkbacks, panels, roundtable conversations, a family show, and a recital for Arabic music lovers, ReOrient 2015 is an artistic celebration and political exploration of this transforming region for curious and engaged theatre lovers and those passionate about international themes.
