@@ -54,6 +54,7 @@ cast:
         NEAR, NEW YORK’S DIRTY LAUNDRY (Cannes ’07), SWEET JANE (Dimension
         Films), STITCH IN TIME, FALL OF THE AUSTRIAN SUN. James received an MFA
         from A.C.T."
+      image: https://ucarecdn.com/f3c9d24a-90c1-420f-ba58-8dc4d118584a/
     - name: Mujahid Abdul-Rashid*
       bio: "**Mujahid Abdul-Rashid*** is pleased to be on board for the first time
         with Golden Thread, one of many productions to come. Mujahid has played
@@ -66,6 +67,7 @@ cast:
         Theater. One of Mujahid’s favorite memories is playing Mr M in Athol
         Fugard’s My Children, My Africa at the Dean Lesher Theater in Concord."
       credit: Kevin
+      image: https://ucarecdn.com/37683307-33cc-47e4-9554-c71961934b40/
     - name: William Dao
       credit: Nasser
       bio: "**William Dao** is thrilled to be making his Golden Thread debut. He was
@@ -76,6 +78,7 @@ cast:
         Coast. He is a proud member of KT Comedy
         ([www.ktcomedy.com](www.ktcomedy.com)), a San Francisco based sketch
         comedy group."
+      image: https://ucarecdn.com/e09dc08a-3777-442b-b21c-829ff822f293/
     - name: Terry Lamb*
       credit: Samir
       bio: "**Terry Lamb*** recently performed in Golden Thread’s NIGHT OVER ERZINGA
@@ -92,6 +95,7 @@ cast:
         has acted in a number of films, and in the recent San Jose 48 Hour Film
         Festival he was given the Best Actor award for his role in EyeQ Films’
         Moonlight."
+      image: https://ucarecdn.com/d318f056-1988-4ca5-b755-4332be4d529b/
     - text: >-
         **Design Team:** Miyuki Bierlein, Alan Chang, Valerie M. Niles, Darl
         Andrew Packard, Mikiko Uesugi*, Huy Vu
