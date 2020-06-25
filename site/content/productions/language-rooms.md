@@ -11,6 +11,8 @@ description: >-
 
 
   Ahmed is a shining example of the American Dream, working as a translator in a Homeland Security detainment facility. His friend Nasser, the only other Muslim on the compound, soon brings him some bad news—that his loyalties are being called into question. As office politics take a turn for the absurd all around him, Ahmed realizes that much more than just his job hangs in the balance.
+background: https://ucarecdn.com/caf2e92c-a38d-4142-a926-1ea09cf10b3b/
+titleimage: https://ucarecdn.com/9cb3623e-7931-4d8b-bf70-b46c0007dab8/
 writer: Yussef El Guindi
 director: Evren Odcikin
 stage: Los Angeles Theater Center
@@ -100,5 +102,13 @@ cast:
 
         *\*Member Actors Equity Association, United Scenic Artists*
   heading: Cast & Crew
+photos:
+  items:
+    - image: https://ucarecdn.com/760d0902-cc99-45ee-94e6-6b83e288ed7a/
+    - image: https://ucarecdn.com/7bc80d61-ec2e-48df-ae19-ca1374abd43d/
+    - image: https://ucarecdn.com/79bab4c7-c600-4d0f-8525-d245b8013761/
+    - image: https://ucarecdn.com/fc4a7604-4925-49ee-a1c8-5e82891e2a96/
+    - image: https://ucarecdn.com/c2f49ca4-8eea-4910-b0ce-59df034b482d/
+    - image: https://ucarecdn.com/b1eaab76-f40c-4066-bc8b-84dc51399ae4/
 ---
 Yussef El Guindi (*Back of the Throat* and *Jihad Jones and the Kalashnikov Babes*) returns to Golden Thread with this unexpected juxtaposition of a comical political thriller and an American immigrant family story. El Guindi, who has long been a Golden Thread favorite, has recently received national accolades, including the 2011 Middle East America Award and the 2012 Harold and Mimi Steinberg/American Theatre Critics Association New Play Award.
