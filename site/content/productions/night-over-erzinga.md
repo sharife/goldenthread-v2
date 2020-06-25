@@ -16,6 +16,7 @@ description: Ardavazt and Alice build a new life in the U.S. in the aftermath of
   his heart?" was the question that began Adriana's two-year journey to develop
   Night Over Erzinga, the inaugural commission of the prestigious Middle East
   America Award.
+titleimage: https://ucarecdn.com/3175eff7-5571-4a42-96f2-8c2e7bc522a3/
 videos:
   - id: ZIvUWcchtJc
 writer: Adriana Sevahn Nichols
@@ -45,6 +46,7 @@ cast:
         Distinguished Playwright Award, which gifted her with a commission, to
         write a play, inspired by her Armenian grandparents' survival of the
         Genocide of 1915."
+      image: https://ucarecdn.com/fc59f3e5-a01f-473a-9b3f-6ee789c22aad/
     - name: Hafiz Karmali
       credit: Director
       bio: "After pursuing his MFA (in Directing) at Carnegie-Mellon University School
@@ -69,6 +71,7 @@ cast:
         for Golden Thread Productions: RUMI x 7 = Tales from the Masnavi to be
         staged at the Islamic Cultural Centre in Oakland as part of a special
         series, ISLAM 101 – A Basic Guide."
+      image: https://ucarecdn.com/358504b2-0876-449c-a172-686e97d055e7/
     - name: Neva Marie Hutchinson
       bio: "**Neva Marie Hutchinson** has acted in over sixty productions in both the
         Bay area and New York City. She has worked with Francis Ford Coppola,
@@ -99,6 +102,7 @@ cast:
         play NIGHT OVER ERZINGA. He has also been honored by being invited to
         perform in Golden Thread's next production, LANGUAGE ROOMS."
       credit: Older Ardavadzt, Doctor, Aram
+      image: https://ucarecdn.com/80d85c02-8ce2-45d0-a7df-f3151e6aab8e/
     - name: Sarita Ocón
       bio: '**Sarita Ocón** is honored to be part of this powerful and heartfelt
         journey with Golden Thread and an incredible team of artists and
@@ -130,6 +134,7 @@ cast:
         Hometown Theatre Show. He can be seen and heard in a variety of
         industrials and voiceovers, as well as a couple of television series."
       credit: Alberto, Cop, Turkish Soldier, Johnnie the SM
+      image: https://ucarecdn.com/d28e84aa-f896-43e0-9082-2c2a9c35fd46/
     - name: Juliet Tanner
       credit: Alice, Ava
       bio: "**Juliet Tanner** has performed in the Bay Area with Crowded Fire,
@@ -178,5 +183,21 @@ cast:
 
 
         \*Member Actors Equity Association, United Scenic Artists
+photos:
+  items:
+    - image: https://ucarecdn.com/70f2fc53-6e8c-4a54-bea4-3a14b917fde3/
+    - image: https://ucarecdn.com/02038298-d1d3-49bf-a2b2-2b6d18d0c7fc/
+    - image: https://ucarecdn.com/aa37598f-8e76-412d-b353-16a2558f4202/
+    - image: https://ucarecdn.com/334652d3-4f4f-491c-abca-baef1bffee90/
+    - image: https://ucarecdn.com/12233096-4f23-4bc1-879c-e2bc48bb011a/
+    - image: https://ucarecdn.com/9386b811-f6a6-410d-9134-2addb7cea007/
+    - image: https://ucarecdn.com/459a0437-b8b0-4a4f-800c-7ebcda7cc52c/
+    - image: https://ucarecdn.com/47fbeb95-34d4-4afe-aeb0-ff37ca533af8/
+    - image: https://ucarecdn.com/15375760-b46b-4214-8f60-d4e0ae94cd3a/
+    - image: https://ucarecdn.com/9f0d51fc-d6a2-4439-9d41-3c7aab6c1a9a/
+    - image: https://ucarecdn.com/08969d9c-8030-4b29-9bbf-b5855710e91f/
+    - image: https://ucarecdn.com/865572b3-d559-4a8f-b2bb-30c100cc1276/
+    - image: https://ucarecdn.com/9c7ca16f-c614-4f48-98d5-bc88b36046aa/
+    - image: https://ucarecdn.com/ec19d3d4-bdcc-4cbd-ba3a-f3c0ef87638b/
 ---
 NIGHT OVER ERZINGA, written by award winning playwright, Adriana Sevahn Nichols, tells the moving story of an immigrant family of Armenian and Dominican heritage, exploring how a man can lose everything but his heart, and how a grandmother can reach through time, to unearth the untold story, and bring her children "home." Spanning two continents and three generations, from Western Armenia of 1913, to 1930's Massachusetts, to 1960's New York, ancestors are reunited with the living, as they each search for solace, and a way to make peace with the past.
