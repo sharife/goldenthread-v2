@@ -114,5 +114,12 @@ photos:
     - image: https://ucarecdn.com/fc4a7604-4925-49ee-a1c8-5e82891e2a96/
     - image: https://ucarecdn.com/c2f49ca4-8eea-4910-b0ce-59df034b482d/
     - image: https://ucarecdn.com/b1eaab76-f40c-4066-bc8b-84dc51399ae4/
+bottom:
+  logos:
+    - image: https://ucarecdn.com/4a4d3c8f-f6b3-452f-a950-26dc781eabbf/
+    - image: https://ucarecdn.com/2a0ed42a-2712-4918-882f-c7e593f40107/
+    - image: https://ucarecdn.com/f47c80d1-c7d0-4565-ac99-0789c32ad1ba/
+    - image: https://ucarecdn.com/b508ce62-f6a7-4bdc-a872-ff1faff6768e/
+    - image: https://ucarecdn.com/6ef5fdbf-8a19-4819-a097-7bf2d0921fec/
 ---
 Yussef El Guindi (*Back of the Throat* and *Jihad Jones and the Kalashnikov Babes*) returns to Golden Thread with this unexpected juxtaposition of a comical political thriller and an American immigrant family story. El Guindi, who has long been a Golden Thread favorite, has recently received national accolades, including the 2011 Middle East America Award and the 2012 Harold and Mimi Steinberg/American Theatre Critics Association New Play Award.
