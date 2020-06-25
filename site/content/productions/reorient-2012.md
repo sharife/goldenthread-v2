@@ -5,6 +5,10 @@ season: 2012
 date: 2012-10-01T10:02:00.000Z
 start: 2012-11-01T10:02:00.000Z
 end: 2012-11-18T10:02:00.000Z
+description: Building on the success of our tenth anniversary festival in 2009,
+  ReOrient 2012 will turn San Francisco into a Mecca for innovative, spirited,
+  and thought-provoking theatre from and about the Middle East.
+titleimage: https://ucarecdn.com/8642c1bf-820d-4f92-a679-7117f2a54479/
 writer: Amir Al-Azraki, E. H. Benedict, Yussef El Guindi, Tala Jamal Manassah,
   Mona Mansour, Silva Semerciyan, Jen Silverman, Naomi Wallace
 director: Hafiz Karmali, Evren Odcikin, Sara Razavi
@@ -201,6 +205,12 @@ cast:
       name: Naomi Wallace
       credit: Playwright
       image: https://ucarecdn.com/78033a94-cf92-4711-b90c-4caf710ad67e/
+photos:
+  items:
+    - image: https://ucarecdn.com/f1ee5714-b7b2-475c-86b3-ebfddff37918/
+    - image: https://ucarecdn.com/680b8caa-f60b-4909-8f3f-5cd90032da62/
+    - image: https://ucarecdn.com/43d6fac3-a0ba-4608-9920-8a68cad3a8c1/
+    - image: https://ucarecdn.com/936ed22d-97b4-4942-bc0f-0e13f15f02ec/
 bottom:
   logos:
     - image: https://ucarecdn.com/b531bd89-0f1d-4d45-be36-273f98f91f18/
@@ -212,8 +222,4 @@ bottom:
     - image: https://ucarecdn.com/2af29af0-34c1-44c7-83d9-c75a7b281e2d/
     - image: https://ucarecdn.com/9a281e49-6718-4335-8f47-a0445511a814/
 ---
-
-
-Building on the success of our tenth anniversary festival in 2009, ReOrient 2012 will turn San Francisco into a Mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. With short plays by playwrights from Iraq, Iran, Egypt, England, and the U.S., the latest ReOrient promises to be a one-of-a-kind exploration of this unique region and its theater, stories, and artists.
-
-*
+With short plays by playwrights from Iraq, Iran, Egypt, England, and the U.S., the latest ReOrient promises to be a one-of-a-kind exploration of this unique region and its theater, stories, and artists.
