@@ -16,6 +16,8 @@ description: >-
 
 
   Given the impossibility of meeting in Iran and the complexities of meeting in Israel, these artists are working in the US to create collaborative theatre in the midst of escalating political conflict amongst their home countries. The piece created offers an opportunity to engage non-violently and creatively with the historical, social, religious and aesthetic dimensions of this crucial inter-relationship. *Benedictus* explores how the relationship among Iran, Israel, and United States is impacting the world. The work began in the summer of 2005 as the *Iran/Israel/US Project*, with a two-week residency at Siena College in upstate New York and has continued over the past two years.
+background: https://ucarecdn.com/b0aab733-ca0e-4d7c-a31e-8fe05b7d0061/
+titleimage: https://ucarecdn.com/e1b6eb97-b938-4c71-9460-31cc76821ba6/
 stage: The Thick House
 address: 1695 18th St., San Francisco
 lists:
@@ -151,6 +153,18 @@ cast:
         has traveled his work around the world. Ali lives with his American
         wife, Melinda, and their two sons in San Diego."
       name: Ali Pourtash
+photos:
+  items:
+    - image: https://ucarecdn.com/0e9cf9b4-314f-4bec-8c70-a4cadf1c6145/
+    - image: https://ucarecdn.com/2cb5306f-4551-4692-8360-bdf8b600eedf/
+    - image: https://ucarecdn.com/94d23ec9-9745-4ba0-bfad-55b55a778179/
+    - image: https://ucarecdn.com/c5790675-90ed-4f1c-9136-882252d50ed2/
+    - image: https://ucarecdn.com/810458ae-ec8c-469c-9313-df55dad77125/
+    - image: https://ucarecdn.com/220af35c-8ea2-49ef-be88-855fe4ab8ca0/
+    - image: https://ucarecdn.com/dcb1e7a9-5eff-486f-a878-b87e746a7626/
+    - image: https://ucarecdn.com/f28f288d-56eb-4b5b-a234-e0030a212101/
+    - image: https://ucarecdn.com/8b7ab1fc-317e-4e68-9ed6-d58b1cbfd648/
+    - image: https://ucarecdn.com/41eb3c0e-cf63-44d2-810d-15f2620e25ba/
 ---
 "...helps to clarify and humanize the multifaceted issues that are drawing our nations into an avoidable conflict" -*[SF Weekly](http://www.sfweekly.com/2007-10-10/culture/benedictus/full)*
 
