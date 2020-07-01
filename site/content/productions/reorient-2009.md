@@ -18,6 +18,17 @@ director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
   Yeghiazarian, M. Graham Smith
 stage: Thick House
 address: 1695 18th Street, San Francisco, CA
+lists:
+  - heading: ReOrient 2009 Line-up
+    items:
+      - text: An American soldier has an unexpected encounter with two afghan sisters
+          who are ready to embark on a new life. Their fate – and his – get more
+          complicated as the line between their different realities becomes
+          dangerously blurred.
+        pre: World Premiere
+        title: ""
+        subtitle: "*No Such Cold Thing* by Naomi Wallace (2009)"
+        image: https://ucarecdn.com/9333d2a8-aacc-4943-9a51-3cee2fb01902/
 cast:
   heading: Cast & Crew
   items:
