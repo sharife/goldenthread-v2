@@ -18,8 +18,11 @@ description: >-
   Given the impossibility of meeting in Iran and the complexities of meeting in Israel, these artists are working in the US to create collaborative theatre in the midst of escalating political conflict amongst their home countries. The piece created offers an opportunity to engage non-violently and creatively with the historical, social, religious and aesthetic dimensions of this crucial inter-relationship. *Benedictus* explores how the relationship among Iran, Israel, and United States is impacting the world. The work began in the summer of 2005 as the *Iran/Israel/US Project*, with a two-week residency at Siena College in upstate New York and has continued over the past two years.
 background: https://ucarecdn.com/b0aab733-ca0e-4d7c-a31e-8fe05b7d0061/
 titleimage: https://ucarecdn.com/e1b6eb97-b938-4c71-9460-31cc76821ba6/
-stage: The Thick House
-address: 1695 18th St., San Francisco
+stage: ""
+address: ""
+misc: Benedictus held performances at The Thick House (1695 18th St., San
+  Francisco) and at The New LATC (Theatre 2, 514 S. Spring Street, Los Angeles,
+  CA 90013).
 lists:
   - items:
       - title: ""
