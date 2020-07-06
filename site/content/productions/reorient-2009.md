@@ -29,6 +29,41 @@ lists:
         title: ""
         subtitle: "*No Such Cold Thing* by Naomi Wallace (2009)"
         image: https://ucarecdn.com/9333d2a8-aacc-4943-9a51-3cee2fb01902/
+      - subtitle: "*Tamam* by Betty Shamieh (2002)"
+        text: "From one of the most highly praised Arab-American playwrights comes this
+          story of a young Palestinian woman: Her name is Tamam; it means
+          enough!"
+        image: https://ucarecdn.com/ebe329c0-e141-456e-900b-5bbefaadeb41/
+      - subtitle: "*Coming Home* by Motti Lerner (2003)"
+        text: A compassionate inquiry into the fragility of the human spirit by one of
+          Israel’s most vocal voices against the occupation.
+        image: https://ucarecdn.com/2ef37784-2004-4b9a-a733-53edc8b45b14/
+      - subtitle: "*Call Me Mehdi* by Torange Yeghiazarian (2005)"
+        text: A cultural divide erupts in this bedroom comedy between an Iranian woman
+          and her American husband.
+        image: https://ucarecdn.com/5feb4ecd-f83d-43a2-8407-2b358fa165cf/
+      - subtitle: "*I’m Not a Serial Killer* by Caveh Zahedi (1999)"
+        text: From the independent filmmaker responsible for I Am a Sex Addict and I
+          don’t Hate Las Vegas Anymore, comes a kooky comedy about a lovable
+          loser’s futile attempts at picking up the woman of his dreams.
+      - subtitle: "*Abaga* by Torange Yeghiazarian (2001)"
+        text: A lyrical tale of forbidden love between an Armenian man and a Turkish
+          woman in Istanbul of 1915 repeats itself in Jerusalem of 1935 when
+          their offspring falls for a Jewish immigrant.
+        image: https://ucarecdn.com/64398fc3-bcc0-4b82-91bf-08a81827cebb/
+      - subtitle: "*A Marriage Proposal* by Yussef El Guindi (2001)"
+        text: Chekov’s classic comedy of class conflict and lemons adapted to an
+          Egyptian family setting.
+        image: https://ucarecdn.com/ab9508e3-9916-48f8-ad9a-518d0685426a/
+      - subtitle: "*Compression of a Casualty* by Kevin Doyle (2004)"
+        text: Two CNN anchors find themselves stuck in the news report of an American
+          soldier’s death in Iraq. They can neither tell the deeper tale, nor
+          move on.
+      - subtitle: "*The Monologist Suffers Her Monologue* by Yussef El Guindi (2007)"
+        text: A Palestinian-American explores her identity in this poignant and comedic
+          monologue. In the dialogue of nations, do you ever get the feeling
+          that Palestine is just a monologue?
+        image: https://ucarecdn.com/a2c6bf37-281d-4ce5-8f16-982b3a6fcbd4/
 cast:
   heading: Cast & Crew
   items:
