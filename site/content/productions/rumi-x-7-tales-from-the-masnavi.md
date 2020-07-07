@@ -8,10 +8,10 @@ end: 2013-05-03T08:44:00.000Z
 titleimage: https://ucarecdn.com/503a2025-185d-4606-a047-9489690fa08c/
 director: Hafiz Karmali
 featuring: Golden Thread's Fairytale Players
-misc: Rumi x 7 = Tales From the Masnavi was performed at multiple locations such
-  as the Asian Art Museum, San Francisco Day School, Pacific School of Religion
-  - Sacred Snapshots event, La Pena Cultural Center, and the Jewish Community
-  Center of East Bay.
+misc: Rumi x 7 = Tales From the Masnavi was performed in multiple locations,
+  including the Asian Art Museum, San Francisco Day School, Pacific School of
+  Religion - Sacred Snapshots event, La Pena Cultural Center, and the Jewish
+  Community Center of East Bay.
 grids: []
 cast:
   heading: Cast & Crew
