@@ -24,7 +24,7 @@ lists:
       - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
         cta: Read More
         link: http://www.thearabreview.org/re-orienting-the-story/
-      - text: "**KQED**Feature"
+      - text: "**KQED** Feature"
         cta: Read More
       - link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
         cta: Listen Here
