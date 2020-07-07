@@ -6,6 +6,9 @@ start: 2004-09-17T01:45:00.000Z
 end: 2004-10-25T01:45:00.000Z
 description: "ReOrient 2004: Sixth Annual Festival of Short Plays Exploring the Middle East"
 background: https://ucarecdn.com/3bd37b55-2c9b-4434-b682-7914d71a8e7f/
+stage: Performed at the Noh Space and The Ashby Stage
+address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
+  Ashby Ave., Berkeley)
 lists:
   - heading: ReOrient 2004 Line-up
     items:
@@ -48,7 +51,163 @@ lists:
           invisible!
         subtitle: "*Dinner/ Khnamakhos* by Lilly Thomassian, directed by Meredith Weiss
           Friedman"
+grids:
+  - heading: Special Events
+    items:
+      - subtitle: ""
+        text: >-
+          Saturday, September 18 at 4 pm, Noh Space\
+
+          *Tazieh,* a Traditional Iranian Passion Play\
+
+          Historical context & contemporary experiments\
+
+          Presenters: Rebecca Ansary Pettys, theater scholar and artist, Haleh Hatami, poet
+      - text: >-
+          Sunday, October 3 at 4 pm, Noh Space\
+
+          Playwrights' Roundtable\
+
+          Join the artists in an informal discussion on writing and the Middle East
+  - heading: Staged Reading Series
+    items:
+      - subtitle: "*The Beauty Inside* by Catherine Filloux, directed by Jessica Heidt"
+        text: A touching story of an unexpected friendship between two very different
+          women. Based on the true case of an honor killing that is averted in
+          Turkey.
+      - subtitle: "*Guest of a Few Days* by Mohsen Yalfani, directed by Torange
+          Yeghiazarian"
+        text: A love triangle exposes the political conflict between two friends whose
+          paths diverted in pre-revolutionary Iran.
+      - subtitle: "*Shooting Magda* by Joshua Sobol, directed by Amy Mueller"
+        text: The line between fact and fiction blurs during this overnight film
+          shooting by Israeli and Palestinian artists.
+      - subtitle: "*Bounty of Lace* by Susan Merson, directed by Rebecca Novick"
+        text: This play follows a delicious afternoon tea party among four Israeli women
+          which disintegrates into an exploration of the romantic boundaries of
+          the politically fraught region
 cast:
   heading: Cast & Crew
+  items:
+    - bio: "**William Borden**'s scripts have won 37 national playwriting competitions
+        and have had over 200 productions. The film version of his play, *The
+        Last Prostitute*, was shown on Lifetime Television and in Europe and is
+        available on video. His novel, *Superstoe*, was recently republished by
+        Orloff Press. A Core Alumnus Playwright at The Playwrights' Center in
+        Minneapolis, he is Playwright-in -Residence with Listening Winds
+        Theatre. He is a member of PEN, The Dramatists Guild, ASCAP and the
+        Authors Guild"
+      name: William Borden
+    - name: Fatma Durmush
+      bio: "**Fatma Durmush** was born in Larnaca, Cyprus, in 1959. At the age of six,
+        she migrated to England with her family and, despite a brief return to
+        Cyprus in her teens, went to school in London and studied Humanities at
+        the Open University for two years. Her work has been published in the
+        Turkish language press and in the *Big Issue* and *Daily Express*.
+        Fatma's collection of plays and short stories, *I Sit in the Light*, was
+        published in 2000. She won first prize for poetry in the FATAL Short
+        Story and Poetry Competition for Turkish Speaking Women in 1998. Her
+        poems can be found in *Modern Poetry in Translation, New Series No. 17
+        2001*. Fatima writes in English."
+    - name: Novid Parsi
+      bio: "**Novid Parsi**, a son of immigrant Iranians, grew up in East Texas and
+        studied literature at Swarthmore and Duke. His plays have been produced
+        and given staged readings by Immigrants' Theatre Project, New York; The
+        New Group, New York; Stephen Joseph, Scarborough, England; Paines
+        Plough, London; and the Young Vic, London, among others. Novid has also
+        published short fiction and criticism. He lives in Chicago."
+      image: https://ucarecdn.com/e50baf8f-c63d-4a66-85f2-121e9c084d00/
+    - name: Betty Shamieh
+      bio: "**Betty Shamieh** is a Palestinian-American writer and actor. She is
+        currently a Van Lier Fellow at New Dramatists. Her solo performance work
+        *Chocolate in Heat*, in addition to being remounted off-off-Broadway,
+        will tour various theatres on the West Coast. Betty presented a
+        monologue *Tamam* she wrote for *Imagine: Iraq* at Cooper Union
+        (co-presented by The Artists Network and SALAAM), which will be
+        presented in London and New York at the Brave New World Festivals. She,
+        along with a group of writers including David Henry Hwang, has been
+        invited to contribute a new work for the Victory Project that will be
+        presented at Columbia University's Miller Theatre later this year. She
+        received a BA in English Language and Literature from Harvard College,
+        MFA in Playwriting from the Yale School of Drama and is presently a
+        Professor of Screenwriting at Marymount Manhattan College."
+      image: https://ucarecdn.com/b6d1d29f-80b0-4934-81ba-1def2b7bff7c/
+    - name: Lilly Thomassian
+      bio: "**Lilly Thomassian** was born in Iran and studied at the University of
+        Geneva. She is an award-winning poet and playwright. In 1998, she was
+        selected to participate in Wordsmiths, a workshop supported by the City
+        of Los Angeles Cultural Department. That same year, her one-act play,
+        *How Do I Look*, was a finalist in the Pathway Productions' National
+        Contest. *The Interrogation*, a play inspired by the Iranian revolution,
+        was a finalist in the 2001 Ashland New Plays Festival and the 2003
+        Senachai Festival in Chicago. She is perhaps best known for her play,
+        *Let* *the Rocks Speak*, which won the 2001 Catawba College Peterson
+        Award. It was also awarded an Honorable Mention in the Plays for the
+        21st Century by the Playwrights Theater in Texas and was the finalist in
+        the David Mark Cohen National Playwriting Competition. In 2002, parts of
+        the play were performed during the 1st Annual Genocide Commemorative
+        Event at the Glendale Civic Auditorium. *Let the Rocks Speak* was
+        produced by ShapeShifter Productions in March 2003 at the Fountain
+        Theatre in Hollywood. Lilly has been a long time active member of First
+        Stage in Hollywood, where she is currently part of the Artistic
+        Committee. She is also member of Playwrights Ink, a prestigious
+        playwriting group whose members' plays have won many theatre awards. She
+        belongs to the Alliance of Los Angeles Playwrights."
+    - name: Naomi Wallace
+      bio: "**Naomi Wallace** was a 1999 recipient of the prestigious MacArthur
+        Fellowship, the grant popularly known as the genius award. Her newest
+        play, *The Inland Sea*, will have its world premiere in London this
+        spring, produced by the Oxford Stage Company. *Slaughter City* was
+        awarded the 1995 Mobil Prize and received its world premiere in January
+        1996 at the Royal Shakespeare Company. *In The Heart Of* *America*
+        received its world premiere at the Bush and was subsequently produced at
+        the Long Wharf Theater and in Dortmund, Germany. It was published in
+        *American Theater* magazine and was awarded the 1995 Susan Smith
+        Blackburn Prize. Her plays are published in Great Britain by Faber and
+        Faber, and in the U S by Broadway Play Publishing Inc. A collection of
+        her plays*, In The Heart Of* *America And Other Plays*, was published by
+        TCG in 2001. At present, Wallace is under commission by The New York
+        Shakespeare Festival-The Public Theatre, Paines Plough of London, and is
+        also co-writing a film script on the Ludlow massacre of 1913 with Bruce
+        McLeod and the historian Howard Zinn."
+      image: https://ucarecdn.com/6f6aba94-3ce8-476b-a55b-23abb4c14d5a/
+    - text: >-
+        **Cast:** Ann Marie Donahue, Ben Beecroft, Cyrus Tinati, David Fierro,
+        Doyle Ott, Katy Brown, Keahn Malak-Madani, Lisa Tateosian, Maxmillienne
+        Ewalt, Nail Ghechem, Patrick MacKellan, Sara Luna, Sheri Bass, Suha
+        Araj, Tiffany Harrison, Toby Brooks, Vida Ghahremani, Zak Kilberg
+
+
+        **Crew:** \
+
+        Sound Design: Marc Hagan\
+
+        Light Design: Stephen Siegel\
+
+        Set Design: Mikiko Uesugi\
+
+        Costume Design: Keri Fitch\
+
+        Video Artist: Alan Jose
+
+
+        Set Build & Props: Patrick Keene\
+
+        Stage Manager: Diana Strachan\
+
+        Production Ast: Lisa Medina\
+
+        \
+
+        Graphic Design: Miriam Behpour
+photos:
+  items:
+    - image: https://ucarecdn.com/36d2ce6b-21ec-4905-bfa9-7a8e237bdae0/
+    - image: https://ucarecdn.com/b4585e51-fb0e-4e7d-aecb-310a87f6862d/
+    - image: https://ucarecdn.com/bba490ad-c438-4124-a0aa-3b3848b0052d/
+    - image: https://ucarecdn.com/5b45e4b8-69c2-4811-ad79-c507d313f160/
+    - image: https://ucarecdn.com/c0449fd8-cb87-4faf-abb1-3a1d5720dc61/
+    - image: https://ucarecdn.com/81567e08-d39e-4597-9237-01047707f52d/
+    - image: https://ucarecdn.com/aa77a3e4-a51c-48f1-a41a-ae11580316fa/
 ---
 Selections include *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, exploring the news coverage of the Iraq War; as well as a special performance OPENING WEEK ONLY by Bay Area native, Betty Shamieh, performing excerpts from her critically acclaimed play of monologues, *Chocolate in Heat, Growing Up Arab in America.*
