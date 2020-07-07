@@ -16,24 +16,52 @@ stage: NOH Space and Z Space
 address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
   Francisco, CA 94110
 lists:
+  - items:
+      - subtitle: "*War and Peace* by Tawfiq al-Hakim, translated by May Jayyusi and
+          David Wright, directed by Hafiz Karmali"
+        text: Meet Politica, a vivacious woman, who must choose between her domineering
+          husband War and oft-disappointing lover Peace. Funny and subtle, this
+          symbolic play by Egypt’s foremost playwright could keep a senior
+          seminar in a political science department busy for weeks.
+        image: https://ucarecdn.com/b1839764-8309-41ea-8065-32006727ea41/
+      - subtitle: "*The Birds Flew In* by Yussef el Guindi, directed by Evren Odcikin"
+        pre: World Premiere
+        text: The mother of a dead soldier cannot reconcile her conflicted feelings
+          about the Iraqi War. El Guindi, the 2011 winner of the prestigious
+          Middle East America Award, paints a tender and complicated portrait of
+          the ultimate pain of losing a child.
+        image: https://ucarecdn.com/5d3d37b9-d442-47f9-85f0-19d975456264/
+      - subtitle: "*The Letter* by Mona Mansour and Tala Manassah, directed by Sara
+          Razavi"
+      - {}
+      - {}
+      - {}
+      - {}
+      - {}
+    heading: ReOrient 2012 Line-up
   - heading: In The Press
     items:
       - link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
         cta: Read More
         text: What ***American Theatre*** has to say about ReOrient.
+        image: https://ucarecdn.com/271f8362-b099-472d-84f7-52070c342db9/
       - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
         cta: Read More
         link: http://www.thearabreview.org/re-orienting-the-story/
+        image: https://ucarecdn.com/46ab8902-0195-4c94-8427-ab8baf055b3d/
       - text: "**KQED** Feature"
         cta: Read More
+        image: https://ucarecdn.com/203fb715-7c26-4e49-94b2-2ef7e789cc38/
       - link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
         cta: Listen Here
         text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
+        image: https://ucarecdn.com/39a197e4-720e-4172-a390-0d32374a0533/
       - text: "Part II: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
         link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
         cta: Listen Here
+        image: https://ucarecdn.com/955149b2-d862-4151-869d-29caf109855e/
 cast:
   heading: Cast & Crew
   items:
