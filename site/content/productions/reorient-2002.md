@@ -1,0 +1,174 @@
+---
+title: ReOrient 2002
+season: 1995
+date: 2002-07-08T23:27:00.000Z
+start: 2002-08-08T23:27:00.000Z
+end: 2002-08-25T23:27:00.000Z
+heading: A Festival of Short Plays about the Middle East
+description: Golden Thread Productions presents its fourth annual festival of
+  short plays written by playwrights from, or exploring themes concerning, the
+  **Middle East** (August 8–25, New Langton Arts, 1246 Folsom St., San
+  Francisco).
+writer: Various Writers
+director: Various Directors
+stage: New Langton Arts
+address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
+lists:
+  - heading: ReOrient 2002 Line-up
+    items:
+      - subtitle: "***Sewing in Syria*** by Elizabeth Marquis, performed by Pamela
+          Marsh."
+        text: An emphatic portrayal of a spinster, a woman caught between cultures.
+      - subtitle: "***Such A Beautiful Voice Is Sayeda’s*** by Yussef El Guindi,
+          directed by Hal Gelb"
+        image: https://ucarecdn.com/f48407f5-2233-4619-b464-005b121da3cd/
+        text: The courage to sing, the freedom to live.
+      - subtitle: "***Waves*** by Torange Yeghiazarian, directed by Mark Mezadourian
+          Hughes."
+        text: Two Iranian women ex-revolutionaries dance a tango of betrayal and
+          deception.
+        image: https://ucarecdn.com/d3bd61ac-7e46-4eb8-a6db-de0654cec41e/
+      - subtitle: "***A Friendly Face*** by Laura McPherson, directed by Mark
+          Mezadourian Hughes."
+        text: An Iraqi soldier practices... smiling...
+      - subtitle: "***Dual-Use*** by Victoria Stewart, directed by Torange Yeghiazarian"
+        text: "Stents and ambulances: tools of destruction, or life-savers?"
+        image: https://ucarecdn.com/3b6840dc-a1a7-4544-a150-1f324e72b19f/
+      - subtitle: "***From the Courtyard*** by Catherine Fletcher, directed by Arlene
+          Denise Hood."
+        text: Take a tour of Morocco with Hassan, a modern storyteller.
+      - subtitle: "***A Tunnel in Palestine*** by Don Monaco, directed by Arlene Denise
+          Hood"
+        text: The Hasmonian tunnel becomes the setting for an American couple’s
+          face-off.
+      - subtitle: "***Tamam*** by Betty Shamieh, directed by Torange Yeghiazarian"
+        text: She is Palestinian. Her name is Tamam. It means *enough.*
+        image: https://ucarecdn.com/b662ea14-1075-4979-ae73-6b865c938ca8/
+cast:
+  heading: Cast & Crew
+  items:
+    - name: Yussef El Guindi
+      bio: "**Yussef El-Guindi,** although primarily a playwright, has also been
+        active as a poet, actor and filmmaker. His adaptation of Chekhov's *A
+        Marriage Proposal,* staged by the Arab Theatrical Arts Guild in
+        Dearborn, MI, was nominated for several PAGE awards including
+        Outstanding Achievement in Original Play or Adaptation. His last poem,
+        *Crossing Borders*, was published on placards and placed on buses as
+        part of Seattle’s Poetry and Art on Buses. His short film, *Love
+        Stalks,* won an award for best short narrative film at the Seattle
+        Underground Film Festival and was aired on KTEH. A native of Egypt,
+        Yussef holds an MFA in Playwriting from Carnegie-Mellon University and
+        was playwright in-residence at Duke University."
+      image: https://ucarecdn.com/6b2ec2db-7c87-41fb-8611-ff34935a043f/
+    - name: Catherine Fletcher
+      bio: "**Catherine Fletcher** is a playwright living in Brooklyn, NY. In addition
+        to *From the* Courtyard, her work includes the full-length plays
+        *Bridge*, currently in development with the Powerhouse Theatre in Santa
+        Monica, and *The Promise of Paradise: A California Fable*. In her
+        previous incarnation, Catherine served on the organizing committee of
+        the Los Angeles based Edge of the World Theater Festival and as the
+        Managing Director of the Ghost Road Company. Under her leadership as
+        Managing Director, Ghost Road produced *Carrots For Hare* and
+        collaborated with Burglars of Hamm on *Resa Fantastiskt* *Mystisk* and
+        with Theatre of N.O.T.E. on *The Clytemnestra Project (Clyt At Home),*
+        an LA Weekly Award nominees. She initiated a Cultural Affairs funded
+        series of salons which strive to bring together diverse artistic
+        communities in Los Angeles with an aim towards sharing and
+        collaboration. Other projects have included the films *Thaw* (Los
+        Angeles Film Festival, San Francisco Indie Fest) and *Fever Pitch*
+        (Nashville Independent Film Festival, Milan Film Festival) as well as
+        directing for the theater."
+    - name: Hal Gelb
+      bio: Among the plays director/writer **Hal Gelb** has staged are *Knuckle*
+        (David Hare), *Betrayal* (Pinter), *The Road to Mecca* (Fugard), *Six
+        Degrees of Separation* (Guare), *Three Cuckolds* (Commedia), *The Maids*
+        (Genet) and Ed Bullins’s *Salaam, Huey Newton, Salaam* for Bullins’s BMT
+        Theatre. He began his association with Golden Thread Productions with
+        Ghazi Rabihavi’s *Voices* staged at ReOrient 2000. Hal’s direction of
+        *Deep Cut* by Karim Alrawi in June, 2001 was described by critics as
+        ‘Brilliant’ and ‘Flawless.’ His media work has been seen on PBS, KTVU,
+        TV20, KQED, at the World Conference on the Environment (Brussels) and
+        the Museum of Modern Art (NYC). As a writer, Hal was one of a group
+        responsible for the R.G.Davis/ Samuel French version of Dario Fo’s *We
+        Won’t Pay! We Won’t Pay!* and is the West Coast theatre critic for The
+        Nation.
+    - bio: "**Arlene Denise Hood** is a Bay Area director and actress and teaches
+        theatre arts at Moreau Catholic High School. Her drama students have
+        received numerous awards and recognition for their outstanding work. She
+        and her students, in conjunction with Faultzone Theatre Company, have
+        performed several times at the Edinburgh, Scotland, Fringe Festival,
+        where her production of Recent Disappearances received a four-star
+        rating. In 1998, she performed in Faultzone's The Bacchae at the
+        Festival of Amathus in Cyprus. Ms. Hood and her drama program have been
+        featured in the California Educational Theatre Association's newsletter.
+        Recently, along with her fellow arts instructors, she was awarded The
+        California Alliance for Arts Education's Creative Ticket School of
+        Excellence Award for outstanding achievement in arts education. Arlene
+        received her theatre arts degree from California State University,
+        Hayward, where she is also a guest lecturer and director. Directing
+        credits include *Moon Over Buffalo, Sylvia* (Hayward Little Theatre),
+        *Khamasseen* (North American premiere), *Prelude to a Kiss* (Act Now!),
+        *Min El Alb Lilalb, Akemwi* (Golden Thread Productions); *Kiss Me
+        Kate*(CSUH), *Something's Afoot* (Lamplighters), *The Visit, Anouilh's
+        Antigone, Macbeth, Man of La Mancha, Our Country's Good, The Real
+        Inspector Hound,* and *1776.*"
+      name: Arlene Denise Hood
+    - name: Mark Mezadourian Hughes
+      bio: "**Mark Mezadourian Hughes** has directed productions of Reckless, Picasso
+        at the Lapin Agile, A Bright Room Called Day, Strange Loop, The
+        Proposal, Sexual Perversity in Chicago, Bullshot Crummond, George
+        Washington Slept Here, and This Property is Condemned. He spent several
+        seasons as part of the stage management team at the Oregon Shakespeare
+        Festival. Mark received a BFA in Theatre Arts from Southern Oregon
+        University. He has studied with Sanford Meisner, Elinor Renfield and
+        Susan Aston. In March, Mark will direct Hillbarn Theatre's production of
+        Mister Roberts."
+    - name: Laura McPherson
+      bio: "**Laura McPherson** is a drummer and cartoonist from Los Angeles,
+        California. She graduated magna cum laude from Princeton University in
+        May of 2000, receiving the Alan Downer thesis prize for The Marks of Men
+        (formerly The Unmaking Mark). Upon graduation, Ms. McPherson worked for
+        the university's Academic Services computing division in the area of web
+        design and development on a team that built Macromedia Flash modules for
+        the online Arabic Poetry Project. Awarded a highly competitive Iowa Arts
+        Fellowship to attend the Playwright's Workshop at the University of
+        Iowa, she currently lives and works in Iowa City."
+    - name: Don Monaco
+      bio: "**Don Monaco** has had his Little Red Wagon Painted Blue produced off-off
+        Broadway and in Memphis, Tennessee. He was invited to the Tony Award
+        Winning Utah Shakespearean Festival where his work was present in
+        development and in readings. His Fly in a Circle has won awards and has
+        been produced in Dubuque, Iowa. To the Orangerie, a short play has been
+        produced in New York at several Off-Broadway theatres. It is the second
+        in a series of a single family's experience of the Holocaust. A Tunnel
+        in Palestine is the final chapter in that sequence which begins in
+        Berlin, travels to Vienna, Paris, New York, ending in Jerusalem. Don is
+        the director of a reading series at the Rockland Center of the Arts in
+        New York. He is a member of the Elmwood Playhouse and the Dramatists
+        Guild. He lives in Nyack, New York, with his wife Uli."
+    - bio: "**Betty Shamieh** is a Palestinian-American theatre artist. She received a
+        New Dramatists Van Lier Fellowship. She performed Tamam at the Imagine:
+        Iraq reading, American Museum of Natural History, City Museum of New
+        York, and the Annual Bread and Roses Performance Event. Her performance
+        work Chocolate in Heat - Growing Up Arab in America premiered at the
+        2001 New York International Fringe Festival and had a sold-out and
+        critically acclaimed run at Theater for the New City in February 2002.
+        Her plays have been produced at the Yale School of Drama, Exiles Theatre
+        in Ireland, and Adams Pool Theatre. Her writing has been published in
+        This Week ON STAGE, Mizna, and The 1993 Poetry for the People Anthology.
+        She was awarded an Institute of Politics Artistic Grant and a Radcliffe
+        Fellowship to Jerusalem. She holds a BA from Harvard College, an MFA in
+        Playwriting from the Yale School of Drama, and is a professor of
+        screenwriting at Marymount Manhattan College."
+      name: Betty Shamieh
+      image: https://ucarecdn.com/ea17c235-67fa-4575-9026-84049223593b/
+    - bio: "**Torange Yeghiazarian** writes, acts and directs for the theatre and is
+        the founder and artistic director of Golden Thread Productions, an
+        ensemble dedicated to the production of theatrical works that explore
+        the Middle Eastern Culture and identity as represented throughout the
+        globe. Born in Iran, Torange received her Masters degree in Theatre Arts
+        from San Francisco State University."
+      name: Torange Yeghiazarian
+      image: https://ucarecdn.com/68972067-a09a-479b-b569-3f76f6fd7478/
+---
+The eight plays selected will be presented in two alternating series. **Women** and **War** highlight the themes of this year’s selections.
