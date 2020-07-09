@@ -17,21 +17,22 @@ address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
   Francisco, CA 94110
 lists:
   - items:
-      - subtitle: "*War and Peace* by Tawfiq al-Hakim, translated by May Jayyusi and
+      - subtitle: "***War and Peace*** by Tawfiq al-Hakim, translated by May Jayyusi and
           David Wright, directed by Hafiz Karmali"
         text: Meet Politica, a vivacious woman, who must choose between her domineering
           husband War and oft-disappointing lover Peace. Funny and subtle, this
           symbolic play by Egypt’s foremost playwright could keep a senior
           seminar in a political science department busy for weeks.
         image: https://ucarecdn.com/b1839764-8309-41ea-8065-32006727ea41/
-      - subtitle: "*The Birds Flew In* by Yussef el Guindi, directed by Evren Odcikin"
+      - subtitle: "***The Birds Flew** In* by Yussef el Guindi, directed by Evren
+          Odcikin"
         pre: World Premiere
         text: The mother of a dead soldier cannot reconcile her conflicted feelings
           about the Iraqi War. El Guindi, the 2011 winner of the prestigious
           Middle East America Award, paints a tender and complicated portrait of
           the ultimate pain of losing a child.
         image: https://ucarecdn.com/5d3d37b9-d442-47f9-85f0-19d975456264/
-      - subtitle: "*The Letter* by Mona Mansour and Tala Manassah, directed by Sara
+      - subtitle: "***The Letter*** by Mona Mansour and Tala Manassah, directed by Sara
           Razavi"
         image: https://ucarecdn.com/9054f998-32a3-4436-a22d-fed596dc9c0c/
         text: In 2011, Pulitzer Prize–winning playwright Tony Kushner was blocked from
@@ -41,14 +42,14 @@ lists:
           that they are human?
         pre: World Premiere
       - pre: World Premiere
-        subtitle: "*Stalemate* by Silva Semerciyan, directed by Desdemona Chiang"
+        subtitle: "***Stalemate*** by Silva Semerciyan, directed by Desdemona Chiang"
         text: At a hi-fi shop and a disco in London and a war field in Iraq, the
           inherent racism and sexism of the bravura male culture is brilliantly
           skewered in this funny and hard-hitting play by the William Saroyan
           Prize winner Silva Semerciyan.
         image: https://ucarecdn.com/e77f99f9-7300-4da0-9e2b-972c1070b6db/
       - pre: World Premiere
-        subtitle: "*In the Days That Follow* by Jen Silverman, directed by Christine
+        subtitle: "***In the Days That Follow*** by Jen Silverman, directed by Christine
           Young"
         text: In this poignant play by up-and-coming writer Jen Silverman, former
           Israeli soldier Orh follows Lebanese poet Iman to the United States
@@ -56,20 +57,20 @@ lists:
           of words heal the personal and political wounds they carry?
         image: https://ucarecdn.com/5b3f6130-0f86-43bf-a984-ed039b89b59c/
       - pre: World Premiere
-        subtitle: "*2012* by Farzam Farrokhi, directed by Sara Razavi"
+        subtitle: "***2012*** by Farzam Farrokhi, directed by Sara Razavi"
         text: Three strangers on cell phones walk into a café. It might sound like a
           joke, but this could be the end of the world. *Introducing local
           playwright Farzam Farrokhi.*
         image: https://ucarecdn.com/8dc36e63-34d3-422d-bbdd-d551269cfbfa/
       - pre: U.S. Premiere
-        subtitle: "*City of Grubs* by Naomi Wallace, directed by Desdemona Chiang"
+        subtitle: "***City of Grubs*** by Naomi Wallace, directed by Desdemona Chiang"
         text: An Arab Jewish immigrant finds a dead man in the seedy hotel he cleans in
           Camden, NJ, and tells the body of this stranger his deepest secrets.
           The MacArthur “Genius” Award winner Naomi Wallace returns to the
           ReOrient Festival for the fourth time with this brilliant monologue.
         image: https://ucarecdn.com/f9f711e1-9797-4453-afa7-b84a11b6600b/
       - pre: World Premiere
-        subtitle: "*Orhan b*y E.H. Benedict, directed by Evren Odcikin"
+        subtitle: "***Orhan** b*y E.H. Benedict, directed by Evren Odcikin"
         text: Young British man Orhan, half Turkish and half black, finds himself
           incarcerated as a terrorist for being at the wrong place at the wrong
           time. Local writer Elizabeth Benedict explores the deep-rooted
@@ -77,15 +78,15 @@ lists:
           as us against them.
         image: https://ucarecdn.com/ac692361-7b1a-45dc-96a8-9bbc523588af/
       - pre: World Premiere
-        subtitle: "*Stuck* by Amir al-Azraki, directed by Torange Yeghiazarian"
+        subtitle: "***Stuck*** by Amir al-Azraki, directed by Torange Yeghiazarian"
         text: What does it take to get out of Iraq with a Iraqi passport? Iraqi
           playwright Amir al-Azraqi takes us on the absurd journey of visas,
           rejections, and searches that most Middle Easterners experience at
           airports with this tour-de-force play with movement.
         image: https://ucarecdn.com/2cd5fcd2-bfb7-4763-9bd6-71e4478502fd/
       - pre: World Premiere
-        subtitle: "*The Voice Room* by Reza Soroor, translated and directed by Torange
-          Yeghiazarian"
+        subtitle: "***The Voice Room*** by Reza Soroor, translated and directed by
+          Torange Yeghiazarian"
         text: A novice secret agent is eager to prove himself when he is assigned to spy
           on an underground rebel guerilla team led by Qobad, a high-valued
           prisoner. As this taut spy thriller unravels, will he be able to hold
