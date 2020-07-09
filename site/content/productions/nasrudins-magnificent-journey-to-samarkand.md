@@ -33,6 +33,7 @@ cast:
         Golden Thread Productions, where she has devoted her professional life
         to exploring Middle Eastern cultures and identities through theatre
         arts."
+      image: https://ucarecdn.com/d2cad967-e5b4-4599-a324-6c39385c8da4/
 photos:
   items:
     - image: https://ucarecdn.com/2246a38e-818a-49a7-83d8-98115813a09e/
