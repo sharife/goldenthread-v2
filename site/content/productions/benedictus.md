@@ -50,6 +50,7 @@ cast:
         of Community of International Artists (CIA), Forough Ensemble (FE) and
         Creative Arts Street Theatre (CAST)."
       credit: ""
+      image: https://ucarecdn.com/00e4d295-6351-4cc3-bba7-b8fbaf02c688/
     - name: Motti Lerner
       bio: "**Motti Lerner** is a widely known and internationally sought after
         contemporary Israeli playwright, screenwriter and scholar. His
@@ -74,6 +75,7 @@ cast:
         International Writers Program at the University of Iowa. He currently
         teaches Political Playwriting at Tel Aviv University."
       credit: ""
+      image: https://ucarecdn.com/aa38c72a-3888-4853-9ff8-6177d8ec0f52/
     - name: Roberta Levitow
       bio: '**Roberta Levitow** has directed over 50 productions in NYC, LA and
         nationally, with a particular expertise in developing original writing
@@ -98,6 +100,7 @@ cast:
         Group). Visiting Professor at Bennington College from 2000-2005, she
         taught from 1990-2000 as an Adjunct Associate Professor in the Theatre
         Department at U.C.L.A.'
+      image: https://ucarecdn.com/8d2bbfa7-c9da-49b3-92a2-57a5ed89d2fe/
     - name: Daniel Michaelson
       bio: "**Daniel Michaelson** has created costumes and scenery for Opera, Dance,
         Off-Broadway and regional theatres. He designed scenery and costumes for
@@ -114,6 +117,7 @@ cast:
         risk in Bennington. Danny has given presentations and workshops both
         nationally and internationally about Quantum Leap and the use of
         performance with students at risk."
+      image: https://ucarecdn.com/edef8b61-a41c-47e6-948c-eb7457f1788d/
     - name: Torange Yeghiazarian
       bio: "**Torange Yeghiazarian** is an Iranian-born theatre artist of Armenian
         heritage. She writes, directs and performs for theatre. Among her
@@ -133,6 +137,7 @@ cast:
         Golden Thread Productions, where she has devoted her professional life
         to exploring Middle Eastern cultures and identities through theatre
         arts."
+      image: https://ucarecdn.com/f0d46a76-905a-4208-a84a-167c599ca52b/
     - bio: "**Al Faris***, most recently guest starred on *The Unit* at the invitation
         of the creator of the show, Mr. David Mamet. His credits also include a
         recurring guest role on *24* and guest star roles on *The Shield,
@@ -156,6 +161,7 @@ cast:
         has traveled his work around the world. Ali lives with his American
         wife, Melinda, and their two sons in San Diego."
       name: Ali Pourtash
+      image: https://ucarecdn.com/0dfb6a29-c617-4655-96c2-ca7cb74eadee/
 photos:
   items:
     - image: https://ucarecdn.com/0e9cf9b4-314f-4bec-8c70-a4cadf1c6145/
