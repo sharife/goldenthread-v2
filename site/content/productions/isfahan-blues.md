@@ -60,6 +60,7 @@ cast:
         Encyclopedia of Stage Actors. Born in Iran and of Armenian heritage,
         Torange holds a Master’s degree in Theatre Arts from San Francisco State
         University."
+      image: https://ucarecdn.com/a9fd66f3-b350-49c8-9e7a-004010699aa4/
     - name: Laura Hope
       credit: Director
       bio: "**Laura Hope** is an Associate Professor of Theatre at Loyola University
@@ -82,6 +83,7 @@ cast:
         Feminism and Dramaturgy: The Road Less Traveled, co-written with Dr.
         Philippa Kelly, next year. In October 2013, she directs her edit of
         Shakespeare’s The Merchant of Venice, set in 1935."
+      image: https://ucarecdn.com/436c4464-9352-4ee5-a5c5-0dd628a0cfcf/
     - name: Sofia Ahmad
       credit: Young Bella
       bio: "**Sofia Ahmad** first worked with Golden Thread – and Torange and Vida –
@@ -97,6 +99,7 @@ cast:
         Theater); San Jose Stage; Shotgun Players; Bay Area Playwrights
         Festival; New Conservatory Theater. She is a graduate of NYU’s Tisch
         School of the Arts and a proud member of AEA and SAG-AFTRA."
+      image: https://ucarecdn.com/01c87f64-bc46-4291-a3eb-a18a0846dc1e/
     - name: L. Peter Callender
       bio: "**L. Peter Callende**r is the Artistic Director of the African-American
         Shakespeare Company and an award-winning actor of classics and new
@@ -109,6 +112,7 @@ cast:
         Critics Circle Awards for Outstanding Lead Actor Bay Area Critics Award
         as Best Actor."
       credit: Ray
+      image: https://ucarecdn.com/243ba1aa-2555-413e-9250-d5c5640dd693/
     - name: Nakissa Etemad
       credit: Dramaturg
       bio: "**Nakissa Etemad** is a professional dramaturg, producer, director, and
@@ -132,6 +136,7 @@ cast:
         Bay Area Playwrights Festivals, Crowded Fire, Alter Theater, French
         Consulate SF, and the inaugural season of Berkeley Rep’s The Ground
         Floor, among others."
+      image: https://ucarecdn.com/9574cf5f-8c1f-4bd3-9480-e8f9fa045787/
     - name: Vida Ghahremani
       credit: Bella
       bio: "**Vida Ghahremani** began acting in films as a teenager in Iran, where she
@@ -144,6 +149,7 @@ cast:
         production, OPERATION NO PENETRATION, LYSISTRATA 97! Other performances
         include THE LOVE MISSILE (with Sofia Ahmad as her daughter), ABAGA and
         NINE ARMENIANS. Ms. Ghahremani is a member of the Screen Actors Guild."
+      image: https://ucarecdn.com/ea1db2c4-0c6c-4b40-a6d3-e809b21d8e29/
     - name: Behzad Golemohammadi
       credit: Sarhang, Ensemble
       bio: "**Behzad Golemohammadi** is delighted to be back at Golden Thread
@@ -154,6 +160,7 @@ cast:
         such as EIGHTH VOYAGE OF SINBAD, BUTTERFLY, DOLLS and INTERVIEW. He
         started his theatrical career with Theater Telos’s THE LOWER DEPTHS
         (Gorky) and De Ghelderode’s PANTAGLEIZE."
+      image: https://ucarecdn.com/5a0188a3-a0aa-4c0a-a933-f6c3a7c6d5e6/
     - name: Alex Lydon
       bio: "**Alex Lydon** is thrilled to be a part of this Golden Thread Productions
         and African-American Shakespeare Company co-production. This will mark
@@ -164,6 +171,7 @@ cast:
         (Crowded Fire Theatre). Alex is a 2014 Theatre Bay Area TITAN Award
         recipient."
       credit: US Security Officer, Ensemble
+      image: https://ucarecdn.com/a442067f-4819-451f-b377-7fde2a87019d/
     - name: Lawrence Radecker*
       bio: "**Lawrence Radecker*** has appeared in numerous Golden Thread productions,
         readings and workshops including LEARN TO BE LATINA, WORM, SECURITY and
@@ -175,6 +183,7 @@ cast:
         variety of industrials and voiceovers, as well as a few films and
         television series."
       credit: Loan Shark, Ensemble
+      image: https://ucarecdn.com/24a895b4-3c79-4dc1-849e-dd9e0b758b62/
     - name: Marcus Shelby
       bio: Named one of the “Top Ten Most Influential African Americans in the Bay
         Area," **Marcus Anthony Shelby** (composer & music director) is an
@@ -185,6 +194,7 @@ cast:
         performs locally at the San Francisco Jazz Festival, Yerba Buena Center
         for the Arts and the Intersection for the Arts.
       credit: Composer
+      image: https://ucarecdn.com/0e5a6974-6159-445a-96ff-7193a0aa92f3/
     - name: Mohammad Talani
       bio: Born in Iran, **Mohammad Talani** (Farid) is a Berkeley based musician,
         actor and videographer. He is founding member of BandBand and joined the
@@ -192,6 +202,7 @@ cast:
         and collaborated with different artists such as Bahram Beyzaei, Mohsen
         Namjoo, Babak Jalali, Shahrzad Sepanlou and Circo cafe.
       credit: Farid
+      image: https://ucarecdn.com/51d67f49-e797-49de-af99-c2cc0ae5eaf2/
   heading: Cast & Crew
 photos:
   items:
