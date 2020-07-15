@@ -6,6 +6,7 @@ date: 2014-11-05T08:55:00.000Z
 start: 2014-12-05T08:55:00.000Z
 end: 2014-12-08T08:55:00.000Z
 description: ""
+background: https://ucarecdn.com/637ed72d-bb91-4346-a25e-d949041836ec/
 videos:
   - id: AOaq-TeKMCE
   - id: cASst1VI3mg
@@ -43,6 +44,7 @@ cast:
         Encyclopedia of Stage Actors. Born in Iran and of Armenian heritage,
         Torange holds a Master’s degree in Theatre Arts from San Francisco State
         University."
+      image: https://ucarecdn.com/38fb6971-43bd-49bd-b0f4-bbdc2630a8b3/
     - name: Mokhtar Paki
       credit: Production Designer
       bio: "**Mokhtar Paki** is a Bay Area visual artist, art teacher, and sometimes
@@ -57,6 +59,7 @@ cast:
         published several short stories and articles. His novel Shamayel-e-Mana
         was published in Sweden and Iran. His second novel, Shahrzad the Silent
         in under publication."
+      image: https://ucarecdn.com/92a7fed1-a7c3-44da-9905-9b2d38f3c743/
     - name: Faraz Minooei
       bio: "**Faraz Minooei** was born in Tehran and began playing santur at the young
         age of nine. While studying with Behnam Mehrabi, he discovered a deep
@@ -83,6 +86,7 @@ cast:
         practice of Iranian Classical Music to introduce innovative and
         transformative functions of the music in contemporary society."
       credit: Music Director
+      image: https://ucarecdn.com/0dadf58c-3626-4266-a0d8-fc2cf9da75c6/
     - name: Ali Bazyar
       credit: Musician
       bio: Born in 1980 Tehran, Iran, **Ali Bazyar** began his Tombak training under
@@ -94,6 +98,7 @@ cast:
         Bay Area. He is engaged and is collaborating as a versatile
         percussionist with various established musicians and bands while
         continuing academic pursuit in music.
+      image: https://ucarecdn.com/2b064ec8-ed5a-4699-94ac-7a6bbb84bb04/
     - name: Gari Haggerty
       bio: "**Gari Haggerty** has been performing traditional music from Ireland,
         Scotland, France, Turkey, the Middle East and North Africa for the past
@@ -114,6 +119,7 @@ cast:
         developed the art of taksim (improvisation) to a deeply soulful level
         for which he has become highly recognized."
       credit: Musician
+      image: https://ucarecdn.com/455708a9-cdc0-4c05-94f7-f9782622af1f/
     - name: Munaf Alsafi
       credit: Musician
       bio: "**Munaf Alsafi** is a San Francisco-Bay Area actor and musician. Born in
@@ -124,6 +130,7 @@ cast:
         instruments of those regions. As an actor, Munaf has performed in
         several plays including performances in the ReOerient Festival 2012,
         Burqavaganza, 10 Acrobats, Aftermath, and Urge For Going."
+      image: https://ucarecdn.com/ec90ac9f-9115-4029-b54e-3982e566e3b0/
     - bio: After being raised in central California by a family of eccentrics, **Jamie
         Coventry** studied theatre arts in Santa Fe, music in San Luis Obispo
         and education in San Francisco. Clown being the next logical step, Jamie
@@ -136,6 +143,7 @@ cast:
         back to the days of vaudeville, the harmonica trio, Tin Sandwich.
       name: Jamie Coventry
       credit: Musician
+      image: https://ucarecdn.com/456e70bc-ee2e-451e-b150-80d14469b9ab/
     - name: Majd Murad
       bio: '**Majd Murad** is very excited to return to Golden Thread after being
         involved in its workshop of *The Fifth String* this summer. He is a
@@ -150,6 +158,7 @@ cast:
         [artemasks.com](https://web.archive.org/web/20150922191127mp_/http://www.artemasks.com/
         "www.artemasks.com").'
       credit: Musician
+      image: https://ucarecdn.com/6b047906-ead1-4db3-8aa1-64fccea5f500/
     - name: Maruf Noyoft
       credit: Musician
       bio: "**Maruf Noyoft** is a native of Tajikistan. He holds BA degree in music
@@ -159,6 +168,7 @@ cast:
         a freelance filmmaker. Maruf first worked with Golden Thread in Rumi x 7
         and admires Golden Thread’s pursuit to bring to the stage his shared
         culture to American audiences."
+      image: https://ucarecdn.com/7dbfbae4-f901-4f26-ada0-45fb2777749c/
     - name: Olivia Rosaldo Pratt
       bio: A Bay Area native and UC Berkeley graduate, **Olivia Rosaldo Pratt** is
         thrilled to be returning to Golden Thread’s stage where she was last
@@ -167,6 +177,7 @@ cast:
         Locally she has worked with Crowded Fire Theater, New Conservatory
         Theatre, Quixotic Players and Central Works.
       credit: Musician
+      image: https://ucarecdn.com/d752f272-4e59-4a06-855d-520a18c21700/
     - name: Naima Shalhoub
       bio: "**Naima Shalhoub** is a songstress, musician and educator who is thrilled
         to be making her Golden Thread debut in The Fifth String. After
@@ -182,6 +193,7 @@ cast:
         music video “herstory of soul,” and is currently teaching, performing,
         and working on her debut full-length album."
       credit: Musician
+      image: https://ucarecdn.com/b235d97d-b4f9-4a89-bdfe-7e116a55b015/
     - bio: "**Adrienne Shamszad** is honored to be making her debut with Golden Thread
         Productions. Adrienne is a singer-songwriter, musician, actress, yogini
         and teacher born and raised in Oakland California. She spent her
@@ -192,6 +204,15 @@ cast:
         story-telling and comedy into her live shows."
       name: Adrienne Shamszad
       credit: Musician
+      image: https://ucarecdn.com/7a8eae4f-8282-4ffc-a515-288b20d4def7/
   heading: Cast & Crew
+photos:
+  items:
+    - image: https://ucarecdn.com/018113e3-eb9f-4707-aac4-7ac57bd24479/
+    - image: https://ucarecdn.com/216b93a4-a2d7-44f6-bef2-2180ee7ce5ee/
+    - image: https://ucarecdn.com/e2c8ddf1-978d-4e85-98e4-819d0e61bbc3/
+    - image: https://ucarecdn.com/c8af46eb-5ce0-4912-a16d-f763a6ade7d5/
+    - image: https://ucarecdn.com/b8859bd8-1292-4b9d-a26a-b29da1e3d9ed/
+    - image: https://ucarecdn.com/ae83478c-6cb2-4746-b71a-45f826f65062/
 ---
 Meet Ziryab, the 9th-century musician and cultural icon, in this family-friendly new play with live music: a musical genius, a star of the Baghdad court, and a fashion innovator. ***The Fifth String*** playfully tells the story of his beginnings in Iraq, his life as an immigrant to Cordoba, and his lasting contributions in music, fashion, and culture that continue to reverberate today. Widely credited with adding a fifth string to the oud and with introducing Persian and Arabic influences to Spanish music, his life becomes an inspiration for this modern retelling as a story-within-a-story in the tradition of *1001 Nights*. Written and directed by Torange Yeghiazarian, ***The Fifth String*** is multifaceted performance created collaboratively with an ensemble of actors, clowns, and musicians. Part of Golden Thread’s Islam 101 initiative, the play features original music composed by Faraz Minooei and production design by Mokhtar Paki.
