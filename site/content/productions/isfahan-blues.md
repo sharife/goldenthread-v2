@@ -14,6 +14,7 @@ description: Inspired by Duke Ellington Orchestra’s 1963 tour to Iran, *Isfaha
   between the US and Iran, this production aims to shed light on a little-known
   historical moment when a uniquely American art form inspired generations of
   young Iranian musicians.
+background: https://ucarecdn.com/308a9d54-e4f2-4e4e-b0ed-653848b3fbb8/
 videos:
   - id: FV8LspJJK8s
   - id: Fn4GtjysVIM
@@ -192,6 +193,20 @@ cast:
         Namjoo, Babak Jalali, Shahrzad Sepanlou and Circo cafe.
       credit: Farid
   heading: Cast & Crew
+photos:
+  items:
+    - image: https://ucarecdn.com/357740b4-d0ff-4ab4-b88d-ff3533db0731/
+    - image: https://ucarecdn.com/e0b01205-75af-42db-b0df-9e352e5e8afd/
+    - image: https://ucarecdn.com/17f60fc0-121e-4b4d-8200-4654981f66cd/
+    - image: https://ucarecdn.com/68c9fd6b-d231-4ccd-a841-ec6ff61dba19/
+    - image: https://ucarecdn.com/1adf8855-849d-4e1c-9905-0a8eb5ee7b88/
+    - image: https://ucarecdn.com/9dff0499-d45d-42c4-8310-dc59027f8143/
+    - image: https://ucarecdn.com/ef08bde5-aa9b-4056-882b-9ee257a12bcb/
+    - image: https://ucarecdn.com/22cdb45e-cc9e-45ba-b1d6-bd0126ffe4be/
+    - image: https://ucarecdn.com/b2710cd5-c7b0-452d-85b2-f9a93c138690/
+    - image: https://ucarecdn.com/3956afa5-8bf3-4deb-a43b-ad4ac503c4a1/
+    - image: https://ucarecdn.com/16d4d935-5e02-4e51-873d-05dc019a2b76/
+    - image: https://ucarecdn.com/e30afb56-11b5-4acf-8011-633294152813/
 bottom:
   text: The development and production of this world premiere is made possible by
     **The Wallace Alexander Gerbode Foundation** and **The William & Flora
