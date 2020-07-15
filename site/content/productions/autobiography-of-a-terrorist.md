@@ -29,23 +29,27 @@ lists:
           Director Torange Yeghiazarian, the conversation will explore how
           Muslim artists are responding to the current political atmosphere in
           America.
+        image: https://ucarecdn.com/7b091173-f6d8-4132-a7cb-df934cd9e1e4/
 grids:
   - items:
       - subtitle: Meta humor and politics collide in *Autobiography of a Terrorist*
         text: Playwright Said Sayrafiezadeh and Founding Artistic Director Torange
-          Yeghiazarian are interviewed by*SF Chronicle*‘s Brandon Yu.
+          Yeghiazarian are interviewed by *SF Chronicle*‘s Brandon Yu.
         cta: Read More
         link: http://www.sfchronicle.com/performance/amp/Meta-humor-and-politics-collide-in-11073528.php
+        image: https://ucarecdn.com/50b38c23-8582-4373-bc87-47a1fb42f900/
       - subtitle: "The name game: Playwright mines identity issues in comic *Terrorist*"
-        text: Playwright Said Sayrafiezadeh is interviewed by*J Weekly*‘s Robert Nagler
+        text: Playwright Said Sayrafiezadeh is interviewed by *J Weekly*‘s Robert Nagler
           Miller.
         cta: Read More
         link: https://www.jweekly.com/2017/04/06/the-name-game-playwright-mines-identity-issues-in-comic-terrorist/
+        image: https://ucarecdn.com/39b47b3d-a48b-4232-b3c0-8b03c194d108/
       - subtitle: SF/Arts Monthly Theatre Pick
         text: Autobiography of a Terrorist is a theatre pick for*SF/Arts Monthly*‘s Jean
           Schiffman.
         cta: Read More
         link: https://www.sfarts.org/event.cfm?event_num=71360
+        image: https://ucarecdn.com/1cc86c60-7aeb-4d6c-ad3e-df5ed642b27d/
     heading: In the Press
 cast:
   items:
@@ -65,6 +69,7 @@ cast:
         Hunter College and creative writing at New York University, where he
         received a 2013 Outstanding Teaching Award. He currently serves on the
         board of directors for theNew York Foundation for the Arts.
+      image: https://ucarecdn.com/abd3b5dc-4b82-4190-b75d-36422929b886/
     - name: Evren Odcikin
       credit: Director
       bio: "**Evren Odcikin** is a Turkish-American director based in San Francisco
@@ -100,6 +105,7 @@ cast:
         Bay Area; and selected as an Emerging Theatre Leader by TCG for their
         American Express Leadership Bootcamp."
       text: "**[odcikin.com](odcikin.com)**"
+      image: https://ucarecdn.com/6e347a30-b4be-4f62-8867-629df31d6717/
     - text: >-
         **Cast:** Jenna Apollonia, Patricia Austin, Cassidy Brown*, Alan Coyne,
         Damien Seperi
