@@ -14,6 +14,7 @@ description: >-
 
 
   Award-winning Egyptian-American playwright Yussef El Guindi holds the honor of being the most produced writer at Golden Thread. El Guindi has won the Steinberg/American Theater Critics Association’s New Play Award in 2012, and was the recipient of the 2010 Middle East America Distinguished Playwright Award. His previous premieres with the company include *Language Rooms*, *Jihad Jones and the Kalashnikov Babes*, *Back of the Throat*, *Scenic Routes*, and many shorts in ReOrient Festivals. Golden Thread performed El Guindi’s *Karima’s City* at the Cairo International Festival for Experimental Theatre in 2004.
+background: https://ucarecdn.com/ac5b5e5f-49b4-45f2-91da-689bad1ecec1/
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
 stage: The Thick House
@@ -26,16 +27,19 @@ lists:
         text: The characters of *Our Enemies* in their own words
         cta: Read More
         link: http://www.goldenthread.org/2016-season/our-enemies-characters/
+        image: https://ucarecdn.com/f2c72ba4-36c7-4f3d-aaac-33f6aa0618c2/
       - title: New World vs. Old World
         text: Dr. Michael Najjar interviews award-winning Egyptian-American playwright
           Yussef El Guindi.
         cta: Read More
         link: http://www.goldenthread.org/2016/09/28/yussef-interview/
+        image: https://ucarecdn.com/d529c296-7d3c-4ae8-aa29-30486e0ae8dd/
       - title: The Demands of the Market
         text: Torange Yeghiazarian writes about the challenges of the publishing
           industry for writers of color.
         cta: Read More
         link: http://www.goldenthread.org/2016-season/our-enemies-market/
+        image: https://ucarecdn.com/0633b68b-15ff-4e05-87d2-5cf0dc874c12/
 grids:
   - heading: In the Press
     items:
@@ -74,6 +78,7 @@ cast:
         Award for 2006), among others, have been published by Dramatist Play
         Service. Yussef is the recipient of the 2010 Middle East America
         Distinguished Playwright Award."
+      image: https://ucarecdn.com/6c393d8f-1c93-4a10-9271-7881322e6bb2/
     - name: Torange Yeghiazarian
       credit: Director
       bio: "Torange Yeghiazarian is the Executive Artistic Director of Golden Thread
@@ -99,6 +104,7 @@ cast:
         Women and Islamic Cultures and Cambridge World Encyclopedia of Stage
         Actors. Born in Iran and of Armenian heritage, Torange holds a Master’s
         degree in Theatre Arts from San Francisco State University."
+      image: https://ucarecdn.com/328d8f43-611e-469b-a08a-db69c3d490a5/
     - name: Dale Albright
       credit: Earl, Russell, Father Carol
       bio: "**Dale Albright** *(Earl, Russell, Father Carol)* is pleased to be
@@ -115,6 +121,7 @@ cast:
         Nomination for Outstanding Direction), and various shows for Dragon
         Productions and theatre Q, among others. Dale works as the Program
         Director at Theatre Bay Area."
+      image: https://ucarecdn.com/f642fdc4-d523-45fa-bdd1-4d0e5a85a7dd/
     - name: Munaf Alsafi
       credit: Sheikh Alfani
       bio: "**Munaf Alsafi** *(Sheikh Alfani)* is a Bay area musician and actor. Born
@@ -122,20 +129,22 @@ cast:
         Middle Eastern music, Rock, Southern delta blues as artistic influences.
         New to acting and theatre, Munaf has performed as an actor for a variety
         of local groups, as well as local and national theatre festivals."
-    - name: James Asher*
+      image: https://ucarecdn.com/8fd6e486-6415-43d3-bd0e-a1f8087e4f5f/
+    - name: James Asher
       credit: Gamal
-      bio: "**James Asher****(Gamal)* Regional: *Sweeney Todd, Show Boat* (San
-        Francisco Opera); *The Laramie Project* (Berkeley Rep/La Jolla
-        Playhouse); *Three Trials of Oscar Wilde* (national tour);*Picasso at
-        the Lapin Agile* (national tour); *The Foreigner* (San Jose Rep); *Tape*
-        (Magic Theatre); *Language Rooms, Back of the Throat* (Golden
-        Thread/LATC); *The Merry Wives Of Windsor* (Santa Cruz Shakespeare
-        Festival); *Love’s Labour Lost* (Idaho Shakespeare Festival). NYC/Off
-        Broadway: *The Laramie Project* (Union Square Theater); *Destination
-        America* (Second Stage Studio); *Sajjil (Record)*(Nibras Theater Co).
-        Film: *Paradise Club, Us, The Singularity is Near.* TV:
-        *Parenthood*(NBC), *Spicy City*(HBO), *Chance*(Hulu)."
-    - name: Denmo Ibrahim*
+      bio: "**James Asher*** (Gamal) *Regional:* Sweeney Todd, Show Boat *(San
+        Francisco Opera);* The Laramie Project *(Berkeley Rep/La Jolla
+        Playhouse);* Three Trials of Oscar Wilde *(national tour);*Picasso at
+        the Lapin Agile *(national tour);* The Foreigner *(San Jose Rep);* Tape
+        *(Magic Theatre);* Language Rooms, Back of the Throat *(Golden
+        Thread/LATC);* The Merry Wives Of Windsor *(Santa Cruz Shakespeare
+        Festival);* Love’s Labour Lost *(Idaho Shakespeare Festival). NYC/Off
+        Broadway:* The Laramie Project *(Union Square Theater);* Destination
+        America *(Second Stage Studio);* Sajjil (Record)*(Nibras Theater Co).
+        Film:* Paradise Club, Us, The Singularity is Near. *TV:*
+        Parenthood*(NBC),* Spicy City*(HBO),* Chance*(Hulu)."
+      image: https://ucarecdn.com/53936450-c462-4b34-ae85-09c130577f6b/
+    - name: Denmo Ibrahim
       credit: Noor
       bio: "**Denmo Ibrahim*** *(Noor)* is an award-winning actor and writer living in
         the Bay Area. Recent credits include assistant directing *Othello*(Cal
@@ -153,49 +162,54 @@ cast:
         director of mugwumpin. Next up: Nana in the world premiere of *A
         Thousand Splendid Suns* at A.C.T.
         [adenmoproject.com](adenmoproject.com)"
+      image: https://ucarecdn.com/3c68be51-9b00-423c-99d4-5cfd519a3f11/
     - name: Kunal Prasad
       credit: Mohsen
-      bio: "Kunal Prasad (Mohsen) is a Bay Area native and received an MFA in acting
-        from The American Repertory Theater at Harvard University. He is a long
-        form improviser and trail runner. He has performed at Berkeley Repertory
-        Theater, City Lights Theater Company, Magic Theatre, New Conservatory
-        Theatre Center, and Un-Scripted Theater Company. Recently he played
-        Kamal in *An Evening With Activists* by Yussef El Guindi, and The Poet
-        in *A Dreamplay* by August Strindberg at The Cutting Ball Theater. Other
-        favorite theater credits include: *HIStory* at the claquel, *Homeward*
-        at Red Fern Theatre Company, *Julius Ceasar* at Center Dramatique
-        National d'Orléans, *Room* and *Celebration* at the American Repertory
-        Theater."
-    - name: Annemaria Rajala*
+      bio: "**Kunal Prasad** (Mohsen) is a Bay Area native and received an MFA in
+        acting from The American Repertory Theater at Harvard University. He is
+        a long form improviser and trail runner. He has performed at Berkeley
+        Repertory Theater, City Lights Theater Company, Magic Theatre, New
+        Conservatory Theatre Center, and Un-Scripted Theater Company. Recently
+        he played Kamal in *An Evening With Activists* by Yussef El Guindi, and
+        The Poet in *A Dreamplay* by August Strindberg at The Cutting Ball
+        Theater. Other favorite theater credits include: *HIStory* at the
+        claquel, *Homeward* at Red Fern Theatre Company, *Julius Ceasar* at
+        Center Dramatique National d'Orléans, *Room* and *Celebration* at the
+        American Repertory Theater."
+      image: https://ucarecdn.com/7c59e07f-d233-4d5f-b18a-e2354db2e332/
+    - name: Annemaria Rajala
       credit: Olivia
-      bio: "**Annemaria Rajala****(Olivia)* is thrilled to be working with Golden
-        Thread. Previous Bay Area credits include Mrs. Andersen in *A Little
-        Night Music* at A.C.T, Mama Sid in *The Fourth Messenger* at Ashby
-        Stage, and Hedwig #5 in the very first Boxcar production of *Hedwig and
+      bio: "**Annemaria Rajala** (Olivia) *is thrilled to be working with Golden
+        Thread. Previous Bay Area credits include Mrs. Andersen in* A Little
+        Night Music *at A.C.T, Mama Sid in* The Fourth Messenger *at Ashby
+        Stage, and Hedwig #5 in the very first Boxcar production of* Hedwig and
         the Angry Inch*. Annemaria was born and raised in Finland. She holds a
         BFA from New World School of the Arts in Musical Theatre Performance.
         She was a core company member of the New Theater in Miami, FL where she
-        played over a dozen leading roles, including Joan of Arc in *Saint
-        Joan*, Portia in *The Merchant of Venice*, Hermione in *The Winter’s
-        Tale,* and Meta in *Times Like These* (Carbonell Nomination: Best
+        played over a dozen leading roles, including Joan of Arc in* Saint
+        Joan*, Portia in* The Merchant of Venice*, Hermione in* The Winter’s
+        Tale, *and Meta in* Times Like These* (Carbonell Nomination: Best
         Actress). She performed with many other Florida companies as well,
         including Actors’ Playhouse, Women’s Theatre Project, Miami Light
         Project, and Mosaic Theatre. Annemaria is a member of AEA, and mama to
         baby Cole."
+      image: https://ucarecdn.com/0ff65601-c2c3-465d-ad44-4fbcb622966b/
     - name: Salim Razawi
       credit: Hani
-      bio: Salim Razawi (Hani) is thrilled to return to Golden Thread where he was
-        last seen as part of the ReOrient readings. He most recently performed
-        in *Book of Liz* at Altarena Playhouse and toured the Bay Area in the
-        world premiere of *Rickshaw Girl* with Bay Area Children’s Theatre. In
-        addition to these, Salim has performed with TheatreWorks, Broadway By
-        the Bay, Pacific Coast Repertory Theatre, Berkeley Playhouse, Tri-Valley
-        REP, Tabard Theatre, Livermore Shakespeare Festival, and SF Shakespeare
-        Festival. When not on stage, Salim is a director, teaching artist, and
-        stage manager for multiple theatre companies throughout the Bay Area. He
-        would like to thank his Rickshaw family for their constant love and
-        support. He can also be seen on a featured TEDx Talk. More at
-        [salimrazawi.weebly.com.](salimrazawi.weebly.com.)
+      bio: "**Salim Razawi** (Hani) is thrilled to return to Golden Thread where he
+        was last seen as part of the ReOrient readings. He most recently
+        performed in *Book of Liz* at Altarena Playhouse and toured the Bay Area
+        in the world premiere of *Rickshaw Girl* with Bay Area Children’s
+        Theatre. In addition to these, Salim has performed with TheatreWorks,
+        Broadway By the Bay, Pacific Coast Repertory Theatre, Berkeley
+        Playhouse, Tri-Valley REP, Tabard Theatre, Livermore Shakespeare
+        Festival, and SF Shakespeare Festival. When not on stage, Salim is a
+        director, teaching artist, and stage manager for multiple theatre
+        companies throughout the Bay Area. He would like to thank his Rickshaw
+        family for their constant love and support. He can also be seen on a
+        featured TEDx Talk. More at
+        [salimrazawi.weebly.com.](salimrazawi.weebly.com.)"
+      image: https://ucarecdn.com/1f39020d-92ee-4560-97d9-aa559b3aceb8/
     - text: "**Creative Team:** Kenan Arun (make-up consultant), Cassie Barnes
         (lighting designer), Michael Truman Cavanaugh (stage manager), Naseem
         Etemad (assistant stage manager), Beckett Finn (technical director),
@@ -203,6 +217,8 @@ cast:
         Kevin August Landesman (projection designer), Carla Pantoja (fight
         choreographer), George Psarras (sound designer), Benjamin Shiu
         (production assistant), Mikiko Uesugi* (set designer)."
+photos:
+  items: []
 ---
 **HIGHEST RATING!**\
 “Smart, daring and well constructed… For a play about ideas, the kind of urgent ideas that don’t make it to American stages often enough, its debaters are just as complex and fleshed out as the ideas themselves.” — *San Francisco Chronicle* [(read full review)](http://www.sfgate.com/performance/article/Enemies-you-want-to-get-close-to-10429039.php)
