@@ -23,6 +23,7 @@ description: >-
 
 
   During a stormy fashion shoot, Anna Sarkisian, a New York fashion model, learns that her younger brother has been killed by enemy soldiers in her native Karabakh in the Caucasus Mountains. In the Armenian enclave of Karabakh, formerly part of the Soviet Union, an unresolved civil war still smolders between Armenians and Azerbaijanis. The war has already killed Anna’s older brother and driven her mother into the army. Anna decides to return home to her village for the first time in 15 years. Living with her fiercely partisan Armenian mother in the bombed ruin of her childhood home, Anna defiantly refuses to identify herself with the Armenian cause. Tensions ignite when, Ilyas, a young Azeri deserter shows up, claiming to be a former neighbor. Anna and Ilyas, powerfully drawn to one another, become lovers in secret. The competing desires of love and vengeance, fueled by jealousy, propel the characters toward an explosive climax with tragic consequences.
+titleimage: https://ucarecdn.com/1ffda8e0-8e71-4b50-9ce1-199d79999d2f/
 writer: Joyce Van Dyke
 director: Torange Yeghiazarian
 cast:
@@ -54,6 +55,7 @@ cast:
         Shakespeare’s Coriolanus was reprinted in the Signet Classic edition of
         the play, and again in The Cambridge Shakespeare Library. She is a
         member of the Dramatists Guild and StageSource."
+      image: https://ucarecdn.com/0d17f5fe-ec30-424b-b0c8-992a59d36c58/
     - name: Torange Yeghiazarian
       bio: "**Torange Yeghiazarian** is an Iranian-born theatre artist of Armenian
         heritage. She writes, directs and performs for theatre. Among her
@@ -73,6 +75,7 @@ cast:
         Productions, where she has devoted her professional life to exploring
         Middle Eastern cultures and identities through theatre arts."
       credit: Director
+      image: https://ucarecdn.com/ce47ae7f-5af6-473d-9ef5-e99d63854b44/
     - name: Ana Bayat
       credit: Ana
       bio: "**Ana Bayat** is a multilingual theatre artist, internationally active on
@@ -84,6 +87,7 @@ cast:
         acting, working with various local companies such as the Berkeley
         Repertory and the New Conservatory Theatre Center. Ana is delighted to
         take part in the story of *A Girl's War*."
+      image: https://ucarecdn.com/aa9db671-8144-4cd9-b37d-42777571d7fb/
     - name: Bella Warda
       bio: "**Bella Warda** is an Iranian born East Bay resident since 1980, is a
         founding member of the Darvag Theater group since its inception in 1985.
@@ -94,6 +98,7 @@ cast:
         performing, Bella enjoys translating plays and has directed two Darvag
         pieces."
       credit: Arshaluis
+      image: https://ucarecdn.com/d4bf222b-62f0-4718-b473-e51d06d4f684/
     - name: Zarif Kabier Sadiqi
       bio: "**Zarif Kabier Sadiqi** was born in Kabul, Afghanistan and raised
         Portland, Oregon. He has been living in California for four years and
@@ -104,6 +109,7 @@ cast:
         everything, his two brothers & sister and the DVC Drama Department for
         teaching the craft of being human."
       credit: Ilyas
+      image: https://ucarecdn.com/2dda4230-fee6-451e-a714-57e759dec892/
     - name: Simon Vance*
       bio: "**Simon Vance** returns to the stage after a break of almost three years
         (to focus on audio books - a two-time Audie winner with 18 Earphone
@@ -113,6 +119,7 @@ cast:
         California from London. TV appearances include CBS's *Nash Bridges* and
         ABC's *The Evidence*."
       credit: Stephen
+      image: https://ucarecdn.com/391a8efd-4a3c-4990-85c2-11833a985fc7/
     - name: Adrian Cervantes Meja
       bio: "**Adrian Cervantes Meja** is happy to be collaborating with Golden Thread
         Ensemble. Originally from Riverside, he earned his BA from Humboldt
@@ -124,6 +131,11 @@ cast:
         Troupe for their summer tour last year, and is presently a teaching
         artist with their Youth Theatre Project."
       credit: Tito/Seryozha
+      image: https://ucarecdn.com/4be827b1-2ae3-4e46-85f2-899bb74415bb/
+photos:
+  items:
+    - image: https://ucarecdn.com/4e3cf286-23bb-4d62-a465-be3586eb6e9e/
+    - image: https://ucarecdn.com/ea08eff1-0fd6-41e5-8fa5-9984232100ab/
 ---
 **What the critics say about*A Girl’s War. . .***
 
