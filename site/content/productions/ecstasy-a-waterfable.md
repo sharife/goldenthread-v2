@@ -37,6 +37,14 @@ cast:
     - text: |-
         **Music Composed by:** Vince Delgado, Roman Kosins**\
         Design Team:** Wesley Cabral, Jarrod Fischer, Sarah Al Kassab
+photos:
+  items:
+    - image: https://ucarecdn.com/eb69d706-0c6e-4041-8069-8ad5a141ea76/
+    - image: https://ucarecdn.com/c20af4bd-cd24-454e-abea-09ec2832d9ce/
+    - image: https://ucarecdn.com/1ab8c327-1654-4f1f-8941-8a0f6d58f5ed/
+    - image: https://ucarecdn.com/35f27225-fabd-4ca2-bd0e-1fe9c08a72d2/
+    - image: https://ucarecdn.com/19b82a9c-8038-453c-916a-44b40450d35f/
+    - image: https://ucarecdn.com/8c6fd8af-ba61-4981-b460-54900e7da8a7/
 ---
 The ancient Sufi story "When the Waters Were Changed", the inspiration for **Ecstasy**, recounts a time when Khidr, the teacher of Moses, warned that all water that had not been specially hoarded would disappear. It would be renewed with different water, which would drive men mad. On the appointed date, the world dried up. There was a period of waiting. And when the waters came again, only one man heeded the call, only one remembered the warning. In **Ecstasy**, the essence of his struggle bleeds through three times of existence –the ancient, the mythic, and the modern.
 
