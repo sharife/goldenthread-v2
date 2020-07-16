@@ -11,6 +11,8 @@ description: What do you do when the only way to live is to leave? Jamila, a
   impoverished world she calls home. Winner of the 2012 Whiting Writers’ Prize
   and Middle East America honorable mention, Mansour offers a feast of
   personalities and juicy dialogue in this searing and funny family story.
+background: https://ucarecdn.com/74c61df5-bbd1-4167-bb28-2f0c60c2c0dc/
+titleimage: https://ucarecdn.com/1f8dd892-7c12-4e05-8b5d-6d0b032d6f48/
 writer: Mona Mansour
 director: Evren Odcikin
 stage: Z Below
@@ -51,6 +53,7 @@ cast:
         Like Me and Queens Supreme. Honorable mention, 2010 Middle East America
         Playwright Award; 2012 Whiting Award."
       credit: Playwright
+      image: https://ucarecdn.com/3022025a-61ea-4339-ae3d-82c528cf4c5b/
     - name: Evren Odcikin
       bio: "**Evren Odcikin** is the literary artistic associate for Golden Thread
         Productions, where he has been producing the reading series New Threads
@@ -79,6 +82,7 @@ cast:
         Directors and selected as an Emerging Theatre Leader by Theatre
         Communications Group for their American Express Leadership Bootcamp."
       credit: Director
+      image: https://ucarecdn.com/95b01eda-d012-4b0a-b298-670ff95d700c/
     - name: Munaf Alsafi
       credit: Ghassan
       bio: "**Munaf Alsafi** is an Iraqi-born SF Bay Area actor and musician. Munaf
@@ -89,6 +93,7 @@ cast:
         of those regions. Munaf has performed in several bay area plays
         including Series B in the ReOerient Festival 2012, *Burqavaganza, 10
         Acrobats, and Aftermath.*"
+      image: https://ucarecdn.com/fcff2c8c-593c-4d85-982d-9df5a3dd580a/
     - name: Camila Betancourt Ascencio
       bio: "**Camila Betancourt Ascencio** has just returned from training at Stella
         Adler Studio in New York and is thrilled to be in her first Golden
@@ -101,6 +106,7 @@ cast:
         learning as much as she can. She is so grateful for the wonderful family
         and friends in her life."
       credit: Jamila
+      image: https://ucarecdn.com/1f662217-ce72-4067-a820-d56a8a21314a/
     - name: Tara Blau
       credit: Abir
       bio: "**Tara Blau** has performed in Bay Area productions at: TheatreWorks,
@@ -113,6 +119,7 @@ cast:
         lead actress in a drama. She holds an MFA in acting from the National
         Theatre Conservatory in Denver. Tara would like to thank her parents,
         and Craig for all their support."
+      image: https://ucarecdn.com/7c64c50b-9ec6-44ee-a412-b428d9717cfa/
     - name: Terry Lamb
       credit: Adham
       bio: "**Terry Lamb** performed previously with Golden Thread in Language Rooms
@@ -130,6 +137,7 @@ cast:
         Francisco Mime Troupe, and Shakespeare Santa Cruz. In addition, Terry
         produces the YouTube film series “Encounters on Earth,” which features
         short dramatic pieces showcasing Bay Area actors and writers."
+      image: https://ucarecdn.com/08d1755a-0f2b-4c47-83fc-968baa15d47a/
     - name: Julian Lopez-Morillas
       bio: "**Julian Lopez-Morillas** previously appeared with Golden Thread in Naomi
         Wallace’s Between This Breath and You. He has recently celebrated 40
@@ -140,6 +148,7 @@ cast:
         has appeared professionally in all 37 of Shakespeare’s plays and was a
         two-day winner on *Jeopardy!*"
       credit: Hamzi
+      image: https://ucarecdn.com/6007a920-10f5-432c-b807-23e5ea7b58a4/
     - name: Wiley Naman Strasser
       bio: "**Wiley Naman Strasser** returns to Golden Thread after Weeping Willow
         (FuryFactory) and Rumix7. Other recent productions include: The Great
@@ -149,9 +158,22 @@ cast:
         Shakespeare Santa Cruz, Buffalo Nights, LA Opera, and the Los Angeles
         Theater Center. Mr. Strasser holds a BA in Theater from UCLA."
       credit: Jul
+      image: https://ucarecdn.com/c1a5eb3a-8745-476f-89d1-f5f2233a07a1/
+photos:
+  items:
+    - image: https://ucarecdn.com/432fe0c2-348d-4f51-8440-b6533bc45390/
+    - image: https://ucarecdn.com/27e80ec3-bd31-4ddb-9a88-2683583a91ff/
+    - image: https://ucarecdn.com/395ed8f4-a154-4957-8048-1ccefedb6ba1/
+    - image: https://ucarecdn.com/bae426f9-101e-4e3f-bf48-f935ba82620b/
+    - image: https://ucarecdn.com/5673e356-4c8d-47fa-b0a9-1c12b42e8d23/
 bottom:
   logos:
     - image: https://ucarecdn.com/c3969715-4f9f-4521-a558-15a9468dbc9c/
+    - image: https://ucarecdn.com/55bdcde6-dff0-42ed-b475-6ce4506affc4/
+    - image: https://ucarecdn.com/f32a5c56-d2e8-46c8-aea6-b7d627673932/
+    - image: https://ucarecdn.com/c9067ce0-555f-4375-b491-a6cbb48cf6c3/
+    - image: https://ucarecdn.com/516dd3e1-63f7-4d0c-a0ab-3dee86dffb97/
+    - image: https://ucarecdn.com/f9800f47-73d9-4a17-80f4-39a34ba08a43/
 ---
 Fresh out of a residency at Ground Floor at Berkeley Rep, Playwright **Mona Mansour** says: “I’m excited to look again at this piece that really is fairly autobiographical and very close to my heart…I don’t think stories about the Middle East are being told enough, and they surely aren’t being told truthfully.”
 
