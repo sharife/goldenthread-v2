@@ -13,7 +13,8 @@ description: Can anything survive decades of secrecy, broken promises, and
   the U.S. Embassy in Tehran along with 52 other Americans. International
   espionage and family secrets mesh in unexpected ways in this world premiere
   play by Golden Thread’s award-winning Artistic Director.
-background: https://ucarecdn.com/13b2a2b3-b744-49f6-8ed3-57b8efd2cae8/
+background: https://ucarecdn.com/d32f4dad-5bbc-4814-849b-ce64bf83ec92/
+titleimage: https://ucarecdn.com/37b544ef-7c2a-4c53-83a1-dda8710925a1/
 writer: Torange Yeghiazarian
 director: Bella Warda
 stage: Z Below
@@ -28,6 +29,7 @@ lists:
           US from Iran and the impetus for the play.
         cta: Read More
         link: http://www.goldenthread.org/conversation-with-playwright-torange-yeghiazarian/
+        image: https://ucarecdn.com/db3c5f46-fb03-4105-a2ef-d44887c15d9f/
 cast:
   heading: Cast & Crew
   items:
@@ -57,6 +59,7 @@ cast:
         Torange holds a Master’s degree in Theatre Arts from San Francisco State
         University."
       credit: Playwright
+      image: https://ucarecdn.com/7fa0f4e9-b72a-4ea3-9e44-469bf0edb77b/
     - name: Bella Warda
       credit: Director
       bio: Iranian born Berkeley resident since 1980, **Bella Warda** is a founding
@@ -67,6 +70,7 @@ cast:
         include A State of Innocence by Naomi Wallace (ReOrient 2005), A Girl’s
         War by Joyce Van Dyke (2008), and directing the World Premiere of Naomi
         Wallace’s No Such Cold Thing (ReOrient 2009).
+      image: https://ucarecdn.com/2d65f8a4-824c-4332-bee9-a9cbcb8d614f/
     - name: Jeri Lynn Cohen*
       credit: Laleh
       bio: >-
@@ -83,6 +87,7 @@ cast:
 
 
         *\* Member Actors’ Equity Association*
+      image: https://ucarecdn.com/958d79b4-0641-4f0e-8fbc-6e7cdb9dccd4/
     - name: Sheila Collins
       credit: Olivia
       bio: "**Sheila Collins** is quite proud to be making her Golden Thread
@@ -101,6 +106,7 @@ cast:
         Fiddler on the Roof, Nancy in Oliver!, Grace Farrell in Annie, as well
         as several roles in The People Speak, among others. As always, Sheila
         thanks her husband, Mark, for his unwavering support and encouragement."
+      image: https://ucarecdn.com/8b280a4c-c73a-40cb-9b33-378182a69c78/
     - name: Olivia Rosaldo-Pratt
       credit: Hadyeh
       bio: A Bay Area native and UC Berkeley graduate, **Olivia Rosaldo-Pratt** is
@@ -109,6 +115,7 @@ cast:
         Sojourn Theatre, Seattle’s Mandala Institute, and at the Edinburgh
         Fringe Festival. Locally she has worked with Crowded Fire Theater, New
         Conservatory Theatre, Quixotic Players and Central Works.
+      image: https://ucarecdn.com/d080bbdd-2157-480f-9a5c-932aa5ca4d75/
     - name: "Michael Shipley* "
       credit: Harry
       bio: >-
@@ -127,6 +134,26 @@ cast:
 
 
         *\* Member Actors’ Equity Association*
+      image: https://ucarecdn.com/a2c59abc-5111-45c7-bf6e-f32e66b0f031/
+photos:
+  items:
+    - image: https://ucarecdn.com/99502f8f-71a8-4973-856a-122f858a43fe/
+    - image: https://ucarecdn.com/2cf7a6ae-ce25-4202-860e-787c94a2fa42/
+    - image: https://ucarecdn.com/c497cdb9-ac8c-4cdb-ab17-7c5ee55c16b7/
+    - image: https://ucarecdn.com/c9494154-5061-4c84-bf31-8d9dde79438e/
+    - image: https://ucarecdn.com/a3dc4d6d-5911-40e1-bded-b583711e18e8/
+    - image: https://ucarecdn.com/4dedb4b4-d827-492c-98c8-97a3c9d37ade/
+    - image: https://ucarecdn.com/d01c32e4-0ec0-4571-b1e5-2ad7a2608198/
+bottom:
+  logos:
+    - image: https://ucarecdn.com/8ea9def5-17d7-49e9-ae5e-ed976c141a0f/
+    - image: https://ucarecdn.com/47d0ce76-6ee6-4c0a-870a-427ddc51a2a8/
+    - image: https://ucarecdn.com/3353d5a7-4b06-475a-87eb-4a997a8adb12/
+    - image: https://ucarecdn.com/0b61704c-ffb8-41bd-9960-f1eed063af85/
+    - image: https://ucarecdn.com/b91a38cc-35df-4de0-bf8a-63168e9906e7/
+    - image: https://ucarecdn.com/7fc78596-fb62-4762-949c-b3459cb78c0a/
+    - image: https://ucarecdn.com/167d6da2-9b18-4ae9-aa1f-0ed1408b1f12/
+    - image: https://ucarecdn.com/fc3ee29f-e21e-4fe6-b523-6de5c66e008f/
 ---
 **Torange Yeghiazarian**’s first production of a full-length play since 1998, *444 Days* is the first play about the Iran Hostage crisis from an Iranian artist’s perspective. Blending historical events with fictional characters, this world premiere play follows the inexplicable bond between a former hostage and a former hostage-taker. Yeghiazarian, who is Golden Thread’s Founding Artistic Director, received the 2012 Gerbode-Hewlett Playwright Commission Award to write *Ellington’s Isfahan*, and is under commission by the Islamic Cultural Center of Northern California to write *The Fifth String: Ziryab’s Passage to Cordoba*, both slated to premiere in 2014.
 
