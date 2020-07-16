@@ -7,6 +7,8 @@ start: 2008-06-05T23:57:00.000Z
 end: 2008-06-29T23:57:00.000Z
 heading: A Comedy by Yussef El Guindi
 description: ""
+background: https://ucarecdn.com/7459c4b4-e793-4f46-8ef3-1edf136b44a2/
+titleimage: https://ucarecdn.com/6648deb8-e4a0-4431-833d-0767d79ad63f/
 writer: Yussef El Guindi
 director: Mark Routhier
 grids:
@@ -43,6 +45,7 @@ cast:
         season: *Jihad Jones and the Kalashnikov Babes* with **Golden Thread
         Productions** in San Francisco and *Our Enemies: Lively Scenes of Love
         and Combat* at the Silk Roads Theatre Project in Chicago."
+      image: https://ucarecdn.com/5e60ac83-b465-4f38-a2da-29a001264ff6/
     - name: Jessica Kitchens
       bio: This is **Jessica Kitchens**’ first project with Golden Thread Productions.
         Since her arrival to the Bay Area almost three years ago, Jessica has
@@ -51,6 +54,7 @@ cast:
         the Dark* (foolsFURY),*The Greek Play* (Elastic Future), *Romeo &
         Juliet* and *Richard III* (Woman's Will). Jessica hails from UC Davis,
         from which she holds dual degrees in Theatre Arts and Political Theory.
+      image: https://ucarecdn.com/c9657dd8-5add-4be4-a251-1a9689e40bb9/
     - name: Kamal Marayati
       bio: "**Kamal Marayati** recently appeared in *Homebody/Kabul* at the Mark Taper
         Forum and BAM.He has appeared in television, film and plays around the
@@ -65,6 +69,7 @@ cast:
         the Shrew* (Benbow Shakespeare Festival) and *I Hate Hamlet* (Palo Alto
         Players). Kamal Marayati holds a MFA from the Actors Studio Drama
         School."
+      image: https://ucarecdn.com/042e4b7d-3b07-42c6-b01b-9c0da54de748/
     - name: Mark Rafael Truitt
       bio: "**Mark Rafael Truitt** has been a professional actor for the past 25
         years. He is also a writer and a teacher. His Bay Area appearances
@@ -78,6 +83,7 @@ cast:
         include *Titanic, Star Trek Voyager, The Practice, Babylon5* and
         *Wings.* His book, \"Telling Stories: A Grand Unified Theory of Acting
         Techniques\" has just been published by Smith and Krauss."
+      image: https://ucarecdn.com/bc153a69-26d4-4378-afc2-08b65c374c7a/
     - name: Mark Routhier
       bio: "**Mark Routhier** is the Director of Artistic Development at the Magic
         Theatre and serves on the Executive Committee of the National New Play
@@ -98,6 +104,7 @@ cast:
         Workshop, Stanford). His short play, *Spotter,* premiered in Best of
         Playground and *Leaving* premiered in S.O.S. II at Alter Theatre."
       credit: Director
+      image: https://ucarecdn.com/83021f22-366b-4a35-a900-c106f5bd4382/
     - name: David Sinaiko
       bio: "**David Sinaiko** was a founding member of Chicago's acclaimed New Crime
         Productions. He has performed on stage and in film in New York, Los
@@ -115,6 +122,7 @@ cast:
         MacLeod's *The Water Children.* David and his wife, writer/director
         Annie Elias will collaborate this summer on Annie's adaptation of Italo
         Calvino's *The Baron in the Trees.*"
+      image: https://ucarecdn.com/71b376b9-e130-4910-8a91-ab4eb76565e4/
     - name: Cat Thompson*
       bio: This is **Cat Thompson**'sfirst appearance with Golden Thread Productions.
         Most recently, she appeared as Mother, Sister Mary, Molly and others in
@@ -151,5 +159,6 @@ cast:
         Golden Thread Productions, where she has devoted her professional life
         to exploring Middle Eastern cultures and identities through theatre
         arts."
+      image: https://ucarecdn.com/d6552a1f-c0f4-4db6-8ba9-20b9ecb32a86/
 ---
 A theatre actor of Middle Eastern descent considers the leap to film stardom when his agent secures a role for him in a film by Hollywood’s most respected director. Should he pass up the chance of a lifetime because the part is that of a machine gun-strapping terrorist?
