@@ -8,13 +8,13 @@ cta: LEARN MORE
 link: https://goldenthread.org/season/
 items:
   - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
-    subtitle: The *Language of Wild Berries* Debuts as an Audio Play
+    subtitle: The *Language of Wild Berries* Debuts as a Radio Play
     cta: Read More Now
     link: /productions/the-language-of-wild-berries/
     text: We're thrilled to announce that Naghmeh Samini's play, translated and
-      directed by Torange Yeghiazarian, will be released in fall 2020 as an
-      Radio Play. This US premiere will include a special listening party
-      followed by Q&A with the artists.
+      directed by Torange Yeghiazarian, will be released in fall 2020 as a Radio
+      Play. This US premiere will include a special listening party followed by
+      Q&A with the artists.
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
     subtitle: Your Support Gives Us Hope for the Future
     cta: DONATE NOW!
