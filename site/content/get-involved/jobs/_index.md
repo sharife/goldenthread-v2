@@ -21,20 +21,20 @@ DESCRIPTION – The position of Executive Artistic Director is full time. This p
 
 Position Responsibilities:
 •	Sustain and grow Golden Thread’s position as the leading producer of Middle East-focused plays in the US. 
-o	Develop, implement, and evaluate artistic programs and productions for the season.
-o	Hire main artistic personnel including directors, performers, and designers.
-o	Cultivate relationship with playwrights locally, nationally, and internationally. 
-o	Identify emerging voices and create a pipeline to develop next generation artists.
-o	Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
-o	Create and sustain a creative environment that supports theatre artists to tell personal stories.
+•	Develop, implement, and evaluate artistic programs and productions for the season.
+•	Hire main artistic personnel including directors, performers, and designers.
+•	Cultivate relationship with playwrights locally, nationally, and internationally. 
+•	Identify emerging voices and create a pipeline to develop next generation artists.
+•	Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
+•	Create and sustain a creative environment that supports theatre artists to tell personal stories.
 •	Create a vibrant & thriving network of artists & organizations engaged with Middle Eastern Theatre.
-o	Engage Golden Thread’s resident artist community and create artistic opportunities for them.
-o	Discover, develop and support theatre artists of Middle Eastern heritage. 
-o	Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
+•	Engage Golden Thread’s resident artist community and create artistic opportunities for them.
+•	Discover, develop and support theatre artists of Middle Eastern heritage. 
+•	Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
 •	Challenge artist and audience expectations about the history, culture and people of the Middle East.
-o	Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
-o	Engage families and students in Golden Thread performances and programs.
-o	Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
+•	Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
+•	Engage families and students in Golden Thread performances and programs.
+•	Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
 •	Hire, supervise and evaluate senior staff.
 •	In collaboration with the Managing Director, develop the annual budget and quarterly operational objectives.
 •	Maintain funder relationships, write project grants, and develop new sources of funding and new strategies for community investment.
