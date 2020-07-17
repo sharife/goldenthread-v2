@@ -1,14 +1,13 @@
 ---
 title: Get Involved
 intro: >
-  There are many ways for you to be a part of the Golden Thread's family of
-  artists, staff, and volunteers. Find out more about available opportunities
-  below.
+  There are many ways for you to be a part of Golden Thread's family of artists,
+  staff, and volunteers. Find out more about available opportunities below.
 ---
 - - -
 
 **JOB OPENINGS**\
-We are currently accepting applications for an Artistic Producer position. In addition, we accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
+We do not currently have any available staff positions. However, we do accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
 
 - - -
 
