@@ -86,24 +86,24 @@ PURPOSE – Under the direct supervision of senior staff members, this critical 
 
 Position Responsibilities:
 
-1. Online Presence: Update the website, create weekly email announcements, and ongoing social media post
-2. Communications: Assist in writing marketing copy targeted to various audiences promoting Golden Thread and individual programs or productions.
-3. Community Outreach: Create targeted pitches to communities, including Middle Eastern community organizations and other theatre and arts groups, manage outreach list and invitations.
-4. Marketing: Following the season marketing plan, coordinate the creation and distribution of all marketing materials, including postcards, posters, programs, ads, publicity photos and promotional videos.
-5. Media Relations: Assist in writing press releases, creating targeted pitches, managing press list and invitations to events and openings.
-6. Reporting: Track and report on progress on objectives.
+* Online Presence: Update the website, create weekly email announcements, and ongoing social media post
+* Communications: Assist in writing marketing copy targeted to various audiences promoting Golden Thread and individual programs or productions.
+* Community Outreach: Create targeted pitches to communities, including Middle Eastern community organizations and other theatre and arts groups, manage outreach list and invitations.
+* Marketing: Following the season marketing plan, coordinate the creation and distribution of all marketing materials, including postcards, posters, programs, ads, publicity photos and promotional videos.
+* Media Relations: Assist in writing press releases, creating targeted pitches, managing press list and invitations to events and openings.
+* Reporting: Track and report on progress on objectives.
 
 Position Requirements:
 
-* Excellent verbal and written communication skills and an ability to work with varied communication styles.
-* Proficiency in basic computer applications, including Word, Excel, Email and Google and a working knowledge of website applications, and email marketing software like Mailchimp.
-* Proficiency in basic graphic design (Adobe Creative Suite) and/or CRM (Salesforce).
-* Ability to analyze priorities and manage workflow.
-* Strategic thinking and analytical skills, with the ability to plan and look ahead.
-* Strong organizational skills and attention to detail.
-* Ability to work both independently and on projects with others.
-* Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. The ideal candidate will be politically aware and sensitive to the plurality of thought and culture both within the Middle East and its world-wide diaspora. 
-* Must be able to push or pull objects weighing up to 30 pounds, and lift or carry objects weighing up to 15 pounds.
+1. Excellent verbal and written communication skills and an ability to work with varied communication styles.
+2. Proficiency in basic computer applications, including Word, Excel, Email and Google and a working knowledge of website applications, and email marketing software like Mailchimp.
+3. Proficiency in basic graphic design (Adobe Creative Suite) and/or CRM (Salesforce).
+4. Ability to analyze priorities and manage workflow.
+5. Strategic thinking and analytical skills, with the ability to plan and look ahead.
+6. Strong organizational skills and attention to detail.
+7. Ability to work both independently and on projects with others.
+8. Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. The ideal candidate will be politically aware and sensitive to the plurality of thought and culture both within the Middle East and its world-wide diaspora. 
+9. Must be able to push or pull objects weighing up to 30 pounds, and lift or carry objects weighing up to 15 pounds.
 
 We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. We encourage candidates to review the key responsibilities and qualifications above. If you believe you have the transferable skills necessary to fulfill the responsibilities of this role, we encourage you to apply.
 
