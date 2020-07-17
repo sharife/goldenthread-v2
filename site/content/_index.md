@@ -16,11 +16,18 @@ items:
       Audio Play. This US premiere will include a special listening party
       followed by Q&A with the artists.
   - image: https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
-    subtitle: Submit your Short Play for Consideration in ReOrient 2021
-    cta: Submit your play NOW!
-    link: https://goldenthread.org/get-involved/submissions/
-    text: Submissions are now open for the 2021 ReOrient Festival of Short Plays.
-      Are you the next voice in Middle Eastern theatre?
+    subtitle: Thank You for Your Ongoing Support!
+    cta: DONATE NOW!
+    link: /donate/
+    text: >-
+      At Golden Thread, we remain committed to fulfilling our mission, despite
+      the challenges we are all facing, because we believe everyone will find
+      inspiration and a reflection of their own experience in stories from or
+      about the Middle East. Whether you are a ticket buyer, annual donor, or a
+      Golden Thread groupie, you make this work possible!
+
+
+      Without ticket sales, we are relying on donations more than ever. We appreciate your generosity!
   - image: /img/JmeyzWings_smallersize_featurebox.jpg
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a Show
