@@ -8,7 +8,7 @@ cta: LEARN MORE
 link: https://goldenthread.org/season/
 items:
   - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
-    subtitle: "*The Language of Wild Berries* Debuts as a Radio Play"
+    subtitle: "*The Language of Wild Berries* Debuts as a Radio Play!"
     cta: Read More Now
     link: /productions/the-language-of-wild-berries/
     text: >-
@@ -20,7 +20,7 @@ items:
 
       The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea in this rare glimpse into the lives of contemporary Iranians.
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
-    subtitle: You Give Us Hope for the Future
+    subtitle: You Give Us Hope for the Future!
     cta: DONATE NOW!
     link: /donate/
     text: At Golden Thread, we remain committed to fulfilling our mission, despite
