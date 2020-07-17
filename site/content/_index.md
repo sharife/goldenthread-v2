@@ -13,7 +13,7 @@ items:
     link: /productions/the-language-of-wild-berries/
     text: We're thrilled to announce that Naghmeh Samini's play, translated and
       directed by Torange Yeghiazarian, will be released in fall 2020 as an
-      Audio Play. This US premiere will include a special listening party
+      Radio Play. This US premiere will include a special listening party
       followed by Q&A with the artists.
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
     subtitle: Your Support Gives Us Hope for the Future
