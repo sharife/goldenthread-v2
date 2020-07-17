@@ -1,34 +1,42 @@
 ---
 title: Middle East Center Stage
 headline: Season of International Women
-subtitle: >-
-  Golden Thread extends the multifaceted discourse and unique stories of the
-  evolving agency of Middle East women in 2020.
+subtitle: Golden Thread extends the multifaceted discourse and unique stories of
+  the evolving agency of Middle East women in 2020.
 background: /img/2020_Website_Front.jpg
 cta: LEARN MORE
-link: 'https://goldenthread.org/season/'
+link: https://goldenthread.org/season/
 items:
-  - image: >-
-      /img/home_DAP3203_small.jpg
-    subtitle: Audition for Golden Thread's 2020 Season
+  - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
+    subtitle: "*The Language of Wild Berries* Debuts as a Radio Play!"
     cta: Read More Now
-    link: '/get-involved/casting'
+    link: /productions/the-language-of-wild-berries/
     text: >-
-      We will be conducting General Auditions by VIDEO SUBMISSION ONLY. Show-specific auditions will be held on May 26th. Equity and non-Equity actors are invited. Actors of Middle Eastern and diverse cultural backgrounds are encouraged.
-  - image: >-
-      https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
-    subtitle: Submit your Short Play for Consideration in ReOrient 2021
-    cta: Submit your play NOW!
-    link: 'https://goldenthread.org/get-involved/submissions/'
-    text: >-
-      Submissions are now open for the 2021 ReOrient Festival of Short Plays.
-      Are you the next voice in Middle Eastern theatre?
-  - image: /img/JmeyzWings_smallersize_featurebox.jpg
-    subtitle: Celebrate Palestinian Culture with your children
-    cta: Book a Show
-    link: /productions/leila
-    text: >-
-      Drawn from Palestinian folk tales, Leila’s Quest For Flight are currently
-      touring schools & libraries.
----
+      We're thrilled to announce that Naghmeh Samini's play, translated and
+      directed by Torange Yeghiazarian, will be released in fall 2020 as a Radio
+      Play. This US premiere will include a special listening party followed by
+      Q&A with the artists.
 
+
+      The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea in this rare glimpse into the lives of contemporary Iranians.
+  - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
+    subtitle: You Give Us Hope for the Future!
+    cta: DONATE NOW!
+    link: /donate/
+    text: At Golden Thread, we remain committed to fulfilling our mission, despite
+      the challenges we are all facing, because we believe everyone will find
+      inspiration and a reflection of their own experience in stories from or
+      about the Middle East. Whether you are a ticket buyer, annual donor, or a
+      Golden Thread groupie, you make this work possible! Without ticket sales,
+      we are relying on donations more than ever. We appreciate your generosity!
+  - image: https://ucarecdn.com/40748798-70aa-4ea0-9be0-c986ae713981/
+    subtitle: MENA Theater Makers Alliance is Launched!
+    cta: Learn More
+    link: https://www.menatheatre.org/
+    text: We are proud to announce the launch of the [Middle Eastern and North
+      African Theater Makers Alliance (MENATMA)](https://www.menatheatre.org/),
+      the first national alliance devoted to MENA artists and stories in the
+      American theater. Last year's MENA Theatre Artists Convening, held during
+      ReOrient 2019, served as a pivotal gathering to formalize this growing and
+      vibrant artistic community.
+---
