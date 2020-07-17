@@ -1,34 +1,30 @@
 ---
 title: Middle East Center Stage
 headline: Season of International Women
-subtitle: >-
-  Golden Thread extends the multifaceted discourse and unique stories of the
-  evolving agency of Middle East women in 2020.
+subtitle: Golden Thread extends the multifaceted discourse and unique stories of
+  the evolving agency of Middle East women in 2020.
 background: /img/2020_Website_Front.jpg
 cta: LEARN MORE
-link: 'https://goldenthread.org/season/'
+link: https://goldenthread.org/season/
 items:
-  - image: >-
-      /img/home_DAP3203_small.jpg
-    subtitle: Audition for Golden Thread's 2020 Season
+  - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
+    subtitle: The *Language of Wild Berries* debuts as an Audio Play
     cta: Read More Now
-    link: '/get-involved/casting'
-    text: >-
-      We will be conducting General Auditions by VIDEO SUBMISSION ONLY. Show-specific auditions will be held on May 26th. Equity and non-Equity actors are invited. Actors of Middle Eastern and diverse cultural backgrounds are encouraged.
-  - image: >-
-      https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
+    link: /productions/the-language-of-wild-berries/
+    text: We're thrilled to announce that Naghmeh Samini's play, translated and
+      directed by Torange Yeghiazarian, will be released in fall 2020 an as
+      Audio Play. This US premiere will include a special listening party
+      followed by Q&A with the artists.
+  - image: https://ucarecdn.com/9d8b62b0-a24c-4d08-8b70-b5aa87a4a5aa/-/crop/3995x2455/0,281/-/preview/
     subtitle: Submit your Short Play for Consideration in ReOrient 2021
     cta: Submit your play NOW!
-    link: 'https://goldenthread.org/get-involved/submissions/'
-    text: >-
-      Submissions are now open for the 2021 ReOrient Festival of Short Plays.
+    link: https://goldenthread.org/get-involved/submissions/
+    text: Submissions are now open for the 2021 ReOrient Festival of Short Plays.
       Are you the next voice in Middle Eastern theatre?
   - image: /img/JmeyzWings_smallersize_featurebox.jpg
     subtitle: Celebrate Palestinian Culture with your children
     cta: Book a Show
     link: /productions/leila
-    text: >-
-      Drawn from Palestinian folk tales, Leila’s Quest For Flight are currently
+    text: Drawn from Palestinian folk tales, Leila’s Quest For Flight are currently
       touring schools & libraries.
 ---
-
