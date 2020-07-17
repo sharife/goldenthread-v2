@@ -10,7 +10,7 @@ intro: >
 
 **Executive Artistic Director**
 
-Golden Thread Productions is seeking a new Executive Artistic Director (EAD) to follow in the footsteps of Founding Artistic Director Torange Yeghiazarian. The EAD is responsible for implementing Golden Thread’s mission through compelling artistic programming, visionary strategic planning and sound operational management. The ideal candidate would be an experienced theatre producer and inspiring artistic leader with exceptional understanding of Middle Eastern and Middle Eastern American theatre as well as lived understanding of the diverse communities that shape it. **[Learn more](/get-involved/jobs/).**
+Golden Thread Productions is seeking a new Executive Artistic Director (EAD) to follow in the footsteps of Founding Artistic Director Torange Yeghiazarian. The EAD leads the company’s long-term vision, visibility and impact and is responsible for implementing Golden Thread’s mission through compelling artistic programming, visionary strategic planning and sound operational management. The ideal candidate would be an experienced theatre producer and inspiring artistic leader with exceptional understanding of Middle Eastern and Middle Eastern American theatre as well as lived understanding of the diverse communities that shape it. **[Learn more](/get-involved/jobs/).**
 
  **Marketing & Communications Associate**
 
