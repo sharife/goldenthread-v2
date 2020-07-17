@@ -21,41 +21,32 @@ DESCRIPTION: The position of Executive Artistic Director is full time. This posi
 
 Position Responsibilities:
 
-1. Sustain and grow Golden Thread’s position as the leading producer of Middle East-focused plays in the US.
+* Sustain and grow Golden Thread’s position as the leading producer of Middle East-focused plays in the US.
 
-   Develop, implement, and evaluate artistic programs and productions for the season.
-   Hire main artistic personnel including directors, performers, and designers.
-   Cultivate relationship with playwrights locally, nationally, and internationally. 
-   Identify emerging voices and create a pipeline to develop next generation artists.
-   Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
-   Create and sustain a creative environment that supports theatre artists to tell personal stories.
+  * Develop, implement, and evaluate artistic programs and productions for the season.
+  * Hire main artistic personnel including directors, performers, and designers.
+  * Cultivate relationship with playwrights locally, nationally, and internationally. 
+  * Identify emerging voices and create a pipeline to develop next generation artists.
+  * Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
+  * Create and sustain a creative environment that supports theatre artists to tell personal stories.
+* Create a vibrant & thriving network of artists & organizations engaged with Middle Eastern Theatre.
 
-2. Create a vibrant & thriving network of artists & organizations engaged with Middle Eastern Theatre.
-   •	Engage Golden Thread’s resident artist community and create artistic opportunities for them.
-   •	Discover, develop and support theatre artists of Middle Eastern heritage. 
-   •	Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
+  * Engage Golden Thread’s resident artist community and create artistic opportunities for them.
+  * Discover, develop and support theatre artists of Middle Eastern heritage. 
+  * Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
+* Challenge artist and audience expectations about the history, culture and people of the Middle East.
 
-3. Challenge artist and audience expectations about the history, culture and people of the Middle East.
-   •	Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
-   •	Engage families and students in Golden Thread performances and programs.
-   •	Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
-
-
-Hire, supervise and evaluate senior staff.
-
-
-In collaboration with the Managing Director, develop the annual budget and quarterly operational objectives.
-
-
-Maintain funder relationships, write project grants, and develop new sources of funding and new strategies for community investment.
-
-
-Act as a spokesperson for the organization's mission. 
-
-
-Report to the Board of Trustees regularly.
+  * Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
+  * Engage families and students in Golden Thread performances and programs.
+  * Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
+* Hire, supervise and evaluate senior staff.
+* In collaboration with the Managing Director, develop the annual budget and quarterly operational objectives.
+* Maintain funder relationships, write project grants, and develop new sources of funding and new strategies for community investment.
+* Act as a spokesperson for the organization's mission.
+* Report to the Board of Trustees regularly.
 
 Position Requirements:
+
 The position of Executive Artistic Director requires a strategic thinker and creative leader who motivates and inspires, and is passionate about Golden Thread’s mission. Background in theatre arts administration is required. The ideal candidate would be politically aware and sensitive to the plurality of thought and culture within the Middle East and its world-wide diaspora.
 
 Artistic:
@@ -83,15 +74,9 @@ Community Engagement:
 4. Strong collaborator able to work with diverse community stakeholders and partners
 5. Pride in Middle Eastern American community’s accomplishments and ability to leverage community resources and advocate for the community’s voice and needs
 
-COMPENSATION AND START DATE
-The salary for this position is budgeted at $65,000. Benefits include PTO, flexible schedule, and ability to work from home.
-The expected start date is January 1, 2021. The current EAD (founder Torange Yeghiazarian) will stay on for the first three months of 2021 in order to transition responsibilities.  
+COMPENSATION AND START DATE: The salary for this position is budgeted at $65,000. Benefits include PTO, flexible schedule, and ability to work from home. The expected start date is January 1, 2021. The current EAD (founder Torange Yeghiazarian) will stay on for the first three months of 2021 in order to transition responsibilities.  
 
-HOW TO APPLY
-Interested candidates should send a cover letter, resume, references, and a link to online work samples to NewEADSearch@goldenthread.org.
-Please save all your documents as one PDF file and title it as YOURLASTNAME_EADAPP.
-The deadline for submission is August 31, 2020.\
-For questions, email NewEADSearch@goldenthread.org. 
+HOW TO APPLY: Interested candidates should send a cover letter, resume, references, and a link to online work samples to NewEADSearch@goldenthread.org. Please save all your documents as one PDF file and title it as YOURLASTNAME_EADAPP. The deadline for submission is August 31, 2020. For questions, email NewEADSearch@goldenthread.org. 
 
 ### **Marketing & Communications Associate**
 
