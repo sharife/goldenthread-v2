@@ -8,7 +8,7 @@ cta: LEARN MORE
 link: https://goldenthread.org/season/
 items:
   - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
-    subtitle: The *Language of Wild Berries* Debuts as a Radio Play
+    subtitle: "*The Language of Wild Berries* Debuts as a Radio Play"
     cta: Read More Now
     link: /productions/the-language-of-wild-berries/
     text: >-
