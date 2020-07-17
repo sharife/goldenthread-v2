@@ -7,7 +7,7 @@ start: 2020-10-16T22:06:41.302Z
 end: 2020-11-15T23:06:41.319Z
 description: >-
   We're thrilled to announce that *The Language of Wild Berries* will debut this
-  fall as an Audio Play! The U.S. premiere, translated and directed by Torange
+  fall as a Radio Play! The U.S. premiere, translated and directed by Torange
   Yeghiazarian, will include a special listening party followed by Q&A with the
   artists. Stay tuned for 2020 release dates!
 
