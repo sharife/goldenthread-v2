@@ -6,8 +6,19 @@ intro: >
 ---
 - - -
 
-**JOB OPENINGS**\
-We do not currently have any available staff positions. However, we do accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
+**JOB OPENINGS**
+
+**Executive Artistic Director**
+
+Golden Thread Productions is seeking a new Executive Artistic Director (EAD) to follow in the footsteps of Founding Artistic Director Torange Yeghiazarian. The EAD is responsible for implementing Golden Thread’s mission through compelling artistic programming, visionary strategic planning and sound operational management. The ideal candidate would be an experienced theatre producer and inspiring artistic leader with exceptional understanding of Middle Eastern and Middle Eastern American theatre as well as lived understanding of the diverse communities that shape it. **[Learn more](/get-involved/jobs/).**
+
+ **Marketing & Communications Associate**
+
+Golden Thread Productions seeks a Marketing & Communications Associate (MCA) to support our ongoing work in diversifying the American theatre by amplifying the voices of underrepresented artists and empowering under served communities. The MCA implements season and production-specific marketing strategy in order to grow the company’s ticket sales, increase online engagement, and build Golden Thread’s visibility and reputation. This critical position is responsible for drafting marketing copy, managing online presence, performing targeted press and community outreach, and coordinating the preparation of marketing materials, ensureing quality messaging and branding continuity. Ideal applicants will have strong marketing, public relations, communications, and basic graphic design skills, and a proficiency in social media. **[Learn more](/get-involved/jobs/).**
+
+**Production, Design & Technical Personnel**
+
+We accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
 
 - - -
 
