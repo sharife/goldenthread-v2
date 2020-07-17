@@ -28,7 +28,7 @@ We have completed casting roles for the 2020 season. Please check back later for
 - - -
 
 **PLAY SUBMISSIONS**\
-Golden Thread will not be accepting submissions for the 2020 season. Check back another time or join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
+Golden Thread accepts submissions of full length plays year round. Join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
 
 - - -
 
