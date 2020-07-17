@@ -23,7 +23,7 @@ We accept ongoing resumes with letters of interest in Golden Thread from stage m
 - - -
 
 **CASTING**\
-We are casting roles for the 2020 season now. **[Learn more](/get-involved/casting/).**
+We have completed casting roles for the 2020 season. Please check back later for 2021 casting. **[Learn more](/get-involved/casting/).**
 
 - - -
 
