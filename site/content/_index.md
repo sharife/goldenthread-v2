@@ -30,13 +30,13 @@ items:
       Golden Thread groupie, you make this work possible! Without ticket sales,
       we are relying on donations more than ever. We appreciate your generosity!
   - image: https://ucarecdn.com/40748798-70aa-4ea0-9be0-c986ae713981/
-    subtitle: Middle Eastern and North African Theater Makers Alliance is Launched!
+    subtitle: MENA Theater Makers Alliance is Launched!
     cta: Learn More
     link: https://www.menatheatre.org/
-    text: We are proud to announce the launch of [MENA Theater Makers Alliance
-      (MENATMA)](https://www.menatheatre.org/), the first national alliance
-      devoted to MENA artists and stories in the American theater. Last year's
-      MENA Theatre Artists Convening, held during ReOrient 2019, served as a
-      pivotal gathering to formalize this growing and vibrant artistic
-      community.
+    text: We are proud to announce the launch of the [Middle Eastern and North
+      African Theater Makers Alliance (MENATMA)](https://www.menatheatre.org/),
+      the first national alliance devoted to MENA artists and stories in the
+      American theater. Last year's MENA Theatre Artists Convening, held during
+      ReOrient 2019, served as a pivotal gathering to formalize this growing and
+      vibrant artistic community.
 ---
