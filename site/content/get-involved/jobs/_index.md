@@ -113,7 +113,7 @@ This is a part time, non-exempt, 20 to 25 hour per week position, reporting to t
 
 Application Instructions:
 
-Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references, to michelle@goldenthread.org, subject line: Marketing and Communications Associate. Please make sure that references are from current and/or former supervisors and include names, email addresses, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and will the position will remain upon until filled. No phone calls or packets by regular mail, please.
+Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references, to michelle@goldenthread.org, subject line: Marketing & Communications Associate. Please make sure that references are from current and/or former supervisors and include names, email addresses, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and will the position will remain upon until filled. No phone calls or packets by regular mail, please.
 
 ### **Production, Design & Technical Personnel**
 
