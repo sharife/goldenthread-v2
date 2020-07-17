@@ -6,47 +6,48 @@ date: 2019-11-06T22:06:41.267Z
 start: 2020-10-16T22:06:41.302Z
 end: 2020-11-15T23:06:41.319Z
 description: >-
-  The past, present, and future collide in the touching story of a couple’s
-  annual road trips to the Caspian Sea and the mysterious stranger following
-  them. **Naghmeh Samini**’s play is a rare glimpse into the lives of
-  contemporary Iranians, as well as her first English production in the United
-  States.
-background: 'https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/'
+  We're thrilled to announce that *The Language of Wild Berries* will debut this
+  fall as a Radio Play! The U.S. premiere, translated and directed by Torange
+  Yeghiazarian, will include a special listening party followed by Q&A with the
+  artists. Stay tuned for 2020 release dates!
+
+
+  The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English production in the United States.
+background: https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/
 videos:
   - id: jdrvjojNEW4
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
 translator: Torange Yeghiazarian
-additional: ''
+additional: ""
 stage: Potrero Stage
-address: '1695 18th St, San Francisco, CA'
-ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ'
+address: 1695 18th St, San Francisco, CA
+ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
 cast:
   heading: Cast & Crew
   items:
-    - bio: >-
-        Naghmeh Samini is an award-winning playwright, scriptwriter and
-        Assistant Professor in Dramatic Literature at the Faculty of Music and
-        Performing Arts, University of Tehran. Her plays including Sleeping in
-        an Empty Cup, Sky Horses Rain Ashes, Making Faces, and The Home (Best
-        Playwright, 2008) have been staged in Iran, France, India, Canada, and
-        the United States, among others. She is the recipient of several awards
-        for her screenplays, notably by Yass Festival in 2016 for the popular
-        television series, Shahrzad. UNESCO selected Samini’s play The King and
-        the Mathematician: A Legend (2012), inspired by a story in the One
-        Thousand and One Nights, as one of the cultural achievements of the
-        year. Samini’s research into Iranian mythology has yielded several
+    - bio: "Naghmeh Samini is an award-winning playwright, scriptwriter and Assistant
+        Professor in Dramatic Literature at the Faculty of Music and Performing
+        Arts, University of Tehran. Her plays including Sleeping in an Empty
+        Cup, Sky Horses Rain Ashes, Making Faces, and The Home (Best Playwright,
+        2008) have been staged in Iran, France, India, Canada, and the United
+        States, among others. She is the recipient of several awards for her
+        screenplays, notably by Yass Festival in 2016 for the popular television
+        series, Shahrzad. UNESCO selected Samini’s play The King and the
+        Mathematician: A Legend (2012), inspired by a story in the One Thousand
+        and One Nights, as one of the cultural achievements of the year.
+        Samini’s research into Iranian mythology has yielded several
         publications, notably The Theatre of Myths selected as Best Book of the
         Year in Iran in 2010, and Battles and Bodies (Tehran: Ney, forthcoming
         2019) an examination of the semiotics of human body in post-war Japanese
         cinema. Naghmeh was born in Iran and holds a BA in Drama and a Masters
         of Arts in Cinema from the University of Tehran. Her PhD thesis at the
-        University of Tarbiat Modarres in Tehran focused on Drama and Mythology.
+        University of Tarbiat Modarres in Tehran focused on Drama and
+        Mythology."
       credit: Playwright
-      image: 'https://ucarecdn.com/07db49a6-c569-4741-8f65-56779ead20ca/'
-      name: ' Naghmeh Samini'
-    - bio: >-
-        Torange Yeghiazarian is the Founding Artistic Director of Golden Thread
+      image: https://ucarecdn.com/07db49a6-c569-4741-8f65-56779ead20ca/
+      name: " Naghmeh Samini"
+    - bio: "Torange Yeghiazarian is the Founding Artistic Director of Golden Thread
         Productions, the first American theatre company focused on the Middle
         East where she launched such visionary programs as ReOrient Festival,
         New Threads, Fairytale Players, and What do the Women Say?, and timely
@@ -75,10 +76,9 @@ cast:
         plays include 444 DAYS, WAVES, and CALL ME MEHDI, included in the
         anthology “Salaam. Peace: An Anthology of Middle Eastern-American
         Drama,” TCG, 2009. Born in Iran and of Armenian heritage, Torange holds
-        a Master’s degree in Theatre Arts from San Francisco State University.
+        a Master’s degree in Theatre Arts from San Francisco State University."
       credit: Director / Translator
-      image: >-
-        https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
+      image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
 photos:
   heading: Photo Gallery
