@@ -9,7 +9,7 @@ description: >-
   We're thrilled to announce that *The Language of Wild Berries* will debut this
   fall as an Audio Play! The U.S. premiere, translated and directed by Torange
   Yeghiazarian, will include a special listening party followed by Q&A with the
-  artists.
+  artists. Stay tuned for 2020 release dates!
 
 
   The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English production in the United States.
