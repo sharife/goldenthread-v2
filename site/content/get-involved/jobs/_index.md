@@ -20,25 +20,39 @@ For the past five years, Golden Thread has enjoyed steady growth expanding from 
 DESCRIPTION: The position of Executive Artistic Director is full time. This position reports to the Board of Trustees. The Executive Artistic Director leads the company’s long-term vision, visibility and impact. The goal of this position is to implement Golden Thread’s mission through compelling artistic programming, visionary strategic planning and sound operational management. In addition to artistic leadership, this position holds primary responsibility for fundraising, partnerships, community engagement, and long-term planning.
 
 Position Responsibilities:
-Sustain and grow Golden Thread’s position as the leading producer of Middle East-focused plays in the US. 
-•	Develop, implement, and evaluate artistic programs and productions for the season.
-•	Hire main artistic personnel including directors, performers, and designers.
-•	Cultivate relationship with playwrights locally, nationally, and internationally. 
-•	Identify emerging voices and create a pipeline to develop next generation artists.
-•	Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
-•	Create and sustain a creative environment that supports theatre artists to tell personal stories.
-Create a vibrant & thriving network of artists & organizations engaged with Middle Eastern Theatre.
-•	Engage Golden Thread’s resident artist community and create artistic opportunities for them.
-•	Discover, develop and support theatre artists of Middle Eastern heritage. 
-•	Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
-Challenge artist and audience expectations about the history, culture and people of the Middle East.
-•	Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
-•	Engage families and students in Golden Thread performances and programs.
-•	Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
+
+1. Sustain and grow Golden Thread’s position as the leading producer of Middle East-focused plays in the US.
+
+   Develop, implement, and evaluate artistic programs and productions for the season.
+   Hire main artistic personnel including directors, performers, and designers.
+   Cultivate relationship with playwrights locally, nationally, and internationally. 
+   Identify emerging voices and create a pipeline to develop next generation artists.
+   Identify opportunities for collaborations, artistic exchange and partnerships that build cultural bridges and leverage resources.
+   Create and sustain a creative environment that supports theatre artists to tell personal stories.
+
+2. Create a vibrant & thriving network of artists & organizations engaged with Middle Eastern Theatre.
+   •	Engage Golden Thread’s resident artist community and create artistic opportunities for them.
+   •	Discover, develop and support theatre artists of Middle Eastern heritage. 
+   •	Play a leading role in the national network of Middle Eastern and North African (MENA) Theatre artists and of theaters of color.
+
+3. Challenge artist and audience expectations about the history, culture and people of the Middle East.
+   •	Engage a diverse audience to reflect and share about our common human experiences superseding cultural and political differences.
+   •	Engage families and students in Golden Thread performances and programs.
+   •	Foster the development of good relations with Middle Eastern communities and other cultural organizations locally, nationally and internationally.
+
+
 Hire, supervise and evaluate senior staff.
+
+
 In collaboration with the Managing Director, develop the annual budget and quarterly operational objectives.
+
+
 Maintain funder relationships, write project grants, and develop new sources of funding and new strategies for community investment.
+
+
 Act as a spokesperson for the organization's mission. 
+
+
 Report to the Board of Trustees regularly.
 
 Position Requirements:
