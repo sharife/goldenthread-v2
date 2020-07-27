@@ -76,7 +76,11 @@ Community Engagement:
 
 COMPENSATION AND START DATE: The salary for this position is budgeted at $65,000. Benefits include PTO, flexible schedule, and ability to work from home. The expected start date is January 1, 2021. The current EAD (founder Torange Yeghiazarian) will stay on for the first three months of 2021 in order to transition responsibilities.  
 
-HOW TO APPLY: Interested candidates should send a cover letter, resume, references, and a link to online work samples to NewEADSearch@goldenthread.org. Please save all your documents as one PDF file and title it as YOURLASTNAME_EADAPP. The deadline for submission is August 31, 2020. For questions, email NewEADSearch@goldenthread.org. 
+HOW TO APPLY: Interested candidates should send a cover letter, resume, references, and a link to online work samples to NewEADSearch@goldenthread.org.
+
+Please save all your documents as one PDF file and title it as YOURLASTNAME_EADAPP.
+
+The deadline for submission is August 31, 2020. For questions, email NewEADSearch@goldenthread.org. 
 
 ### **Marketing & Communications Associate**
 
