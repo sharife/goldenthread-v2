@@ -6,6 +6,7 @@ date: 2005-03-22T07:14:00.000Z
 start: 2005-04-22T07:14:00.000Z
 end: 2005-05-16T07:14:00.000Z
 description: ""
+background: https://ucarecdn.com/d80a6bb1-0210-4380-b6cc-7fd456bedd55/
 writer: Yussef El Guindi
 director: Tony Kelly
 stage: The Thick House
@@ -26,12 +27,14 @@ cast:
         Theater Schmeater."
       name: Yussef El Guindi
       credit: Playwright
+      image: https://ucarecdn.com/572583b6-07df-4384-a76e-b1132f7f2029/
     - name: James Asher
       bio: "*Back of The Throat* features Arab-American actor **James Asher**, whose
         recent credits include the Tectonic Theater Project's productions of
         *Gross Indecency* and *The Laramie Project* (the latter performed in New
         York and at Berkeley Repertory Theatre)."
       credit: Khaled
+      image: https://ucarecdn.com/4d215859-b737-41a2-9bb5-35289e6e1f7c/
     - text: |-
         Scene Design: **James Faerron**\
         Stage Management: **Anna Mico-Quinn**\
