@@ -98,8 +98,30 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Image, name: image, widget: image, required: false}
               - {label: "Bio", name: "bio", widget: "markdown", required: false}
               - {label: "Alt. Text", name: "text", widget: "markdown", required: false}
-      - label: Photo Gallery
+      - label: Photo Gallery 1
         name: photos
+        widget: object
+        required: false
+        fields: 
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - label: Images
+            name: items
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
+      - label: Photo Gallery 2
+        name: photos2
+        widget: object
+        required: false
+        fields: 
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - label: Images
+            name: items
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
+      - label: Photo Gallery 3
+        name: photos3
         widget: object
         required: false
         fields: 

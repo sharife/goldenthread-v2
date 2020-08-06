@@ -99,6 +99,30 @@
       <div class="mw7 center ph3">
       {{ end }}
 
+      {{ if .Params.photos2 }}
+    </div>
+  </div>
+  <div>
+    <div class="mw7 center ph3">
+      {{ partial "gallery" (dict "photos" .Params.photos2 "pageUrl" .Permalink) }}
+    </div>
+  </div>
+  <div>
+      <div class="mw7 center ph3">
+      {{ end }}
+
+      {{ if .Params.photos3 }}
+    </div>
+  </div>
+  <div>
+    <div class="mw7 center ph3">
+      {{ partial "gallery" (dict "photos" .Params.photos3 "pageUrl" .Permalink) }}
+    </div>
+  </div>
+  <div>
+      <div class="mw7 center ph3">
+      {{ end }}
+
       {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}
     </div>
   </div>
