@@ -113,6 +113,44 @@ cast:
 
         **Assistant Stage Manager:** Jenna Apollonia, **Lighting Designer:** Cassie Barnes, **Costume Designer:** Miyuki Bierlein, **Magic Consultant:** Christian Cagigal, **Technical Director:** Beckett Finn, **Sound Designer:** Sara Huddleston, **Stage Manager:** Benjamin Shiu*, **Producer:** Torange Yeghiazarian
   heading: Cast & Crew
+photos3:
+  items:
+    - image: https://ucarecdn.com/47de2376-09fe-4740-9fe6-223527f3ab9c/
+    - image: https://ucarecdn.com/842bb76b-6a0c-4317-a7eb-d57305a8b105/
+    - image: https://ucarecdn.com/e40f2cc8-6497-4470-9c36-9adb83b175d0/
+    - image: https://ucarecdn.com/052ca28a-38bb-4983-ab10-dc6ba082c0e1/
+    - image: https://ucarecdn.com/e50e3de1-2dea-4850-ba4f-31a5e7b6a0d6/
+    - image: https://ucarecdn.com/4e51eb54-e2ad-4221-b3e1-de1950ffa020/
+    - image: https://ucarecdn.com/2553f524-473c-4152-934f-902240c19fbe/
+    - image: https://ucarecdn.com/15919699-de1e-41ff-b0fa-8eb780d89585/
+    - image: https://ucarecdn.com/e6ac3e75-48a7-4e6b-aa2e-ab5f294aa62a/
+    - image: https://ucarecdn.com/81e96761-1ea2-44c2-8998-767528c72287/
+    - image: https://ucarecdn.com/7eda4cd7-b2f5-407c-af26-af5fdd27732f/
+    - image: https://ucarecdn.com/0ff1f348-ff13-4571-957c-0bca68d0c64b/
+    - image: https://ucarecdn.com/dc8f3e2c-ecb0-4118-9567-8407936bcd87/
+    - image: https://ucarecdn.com/0d7de0b2-5e16-4f6b-a068-38ef5d9480b8/
+    - image: https://ucarecdn.com/f8f9d51e-264d-45e2-b825-9bda4198e92a/
+    - image: https://ucarecdn.com/50ae0b08-dade-4a7d-905d-662f7ddf80ab/
+    - image: https://ucarecdn.com/7b1ec963-574c-42f0-8142-32f7be350d67/
+    - image: https://ucarecdn.com/44760867-7812-4714-ad1f-ef1bb517883a/
+    - image: https://ucarecdn.com/76c9286f-f7a6-4aa3-b599-d6eeeb9b77c4/
+    - image: https://ucarecdn.com/94f6f39c-6dc3-434a-af79-d97285c2311d/
+    - image: https://ucarecdn.com/0decc885-b79f-4f12-b796-a7cb20a47a1d/
+    - image: https://ucarecdn.com/ea1ab347-80e7-457d-8dcb-393bb2e327b1/
+    - image: https://ucarecdn.com/fe315493-fe20-48b5-8ec0-28d4d6a5139b/
+    - image: https://ucarecdn.com/c7df73e6-7642-44d6-bf0c-6664247e1b45/
+    - image: https://ucarecdn.com/176d3cfc-6905-4ee1-88f1-e8771634e76f/
+    - image: https://ucarecdn.com/68f19eb9-f71c-460f-9070-f8d57eeff65d/
+    - image: https://ucarecdn.com/4ae20207-b429-4e3e-b68e-e91387b21526/
+    - image: https://ucarecdn.com/bf22e627-54d3-4020-bcb4-6621f0637474/
+    - image: https://ucarecdn.com/2246d709-5119-47f9-8c6f-642a7aff70d0/
+    - image: https://ucarecdn.com/5a9a1f4a-95b5-41a4-87a0-22e3c94e4eef/
+    - image: https://ucarecdn.com/c40355db-b2e1-4969-b25d-ca6ea013897d/
+    - image: https://ucarecdn.com/f02e0067-41e7-43dd-8e54-f0663cfb87e3/
+    - image: https://ucarecdn.com/817df8d2-70ae-4e20-9243-5b3bd7dcadb6/
+    - image: https://ucarecdn.com/644a5a61-8c6f-48ff-a4ec-42ff07f97c89/
+    - image: https://ucarecdn.com/8bb28ae6-36de-47ec-bf44-9a43c1d0ebd6/
+    - image: https://ucarecdn.com/27742ef9-6bcd-46fc-b302-bcfbe3add892/
 bottom:
   text: Thanks to **The Zellerbach Family Foundation** for their generous support
     of *Autobiography of a Terrorist*.
