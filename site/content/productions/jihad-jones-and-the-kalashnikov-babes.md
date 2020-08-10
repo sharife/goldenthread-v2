@@ -160,5 +160,10 @@ cast:
         to exploring Middle Eastern cultures and identities through theatre
         arts."
       image: https://ucarecdn.com/d6552a1f-c0f4-4db6-8ba9-20b9ecb32a86/
+photos:
+  items:
+    - image: https://ucarecdn.com/1a873822-2494-42d7-9947-405f891ebac2/
+    - image: https://ucarecdn.com/45df8419-bd5f-4d4c-92de-4180553592b2/
+    - image: https://ucarecdn.com/7d32204e-f4ad-43ef-8550-ab90d3013723/
 ---
 A theatre actor of Middle Eastern descent considers the leap to film stardom when his agent secures a role for him in a film by Hollywood’s most respected director. Should he pass up the chance of a lifetime because the part is that of a machine gun-strapping terrorist?
