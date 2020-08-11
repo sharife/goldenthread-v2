@@ -42,8 +42,10 @@ cast:
   heading: Cast & Crew
 photos:
   items:
-    - image: https://ucarecdn.com/219e42f4-f497-4cf7-b9df-bb1c399d0e3f/
-    - image: https://ucarecdn.com/e86d0998-343d-4881-b94b-64904fbef378/
+    - image: https://ucarecdn.com/d34af30a-5bc3-47e4-85b1-0f356a0cca2d/
+    - image: https://ucarecdn.com/e072a995-8218-4d21-b07e-990cf194dc9f/
+    - image: https://ucarecdn.com/3bc2e7ad-9017-4d67-bfa5-d37ff599833a/
+    - image: https://ucarecdn.com/2baebc0e-8a33-42c5-b0ff-888cf1f36d87/
 ---
 Written in 1992, ***Scenic Routes*** explores the craggy terrain of cultural misunderstandings and misperceptions between an American woman, Lana, and an Egyptian man, Naguib. Beginning almost whimsically as a pick-up in a bar, the relationship soon gets mired in well intentioned but often clumsy attempts to bridge what are perceived as cultural divides. The initial and natural awkwardness of any two intimates getting to know each other soon gets blown up and erroneously labeled as cultural differences between two foreigners.
 
