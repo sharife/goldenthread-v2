@@ -29,7 +29,6 @@ lists:
       - subtitle: If you are in the area to see the show on a Friday, make sure to check
           out the amazing food at this mobile catering event at Fort Mason!
         link: http://offthegridsf.com/
-      - {}
 cast:
   heading: Cast & Crew
   items:
