@@ -25,7 +25,6 @@ lists:
           enjoyed the ingenious way the actors changed their parts. The kids
           went around mimicking the actors for days, especially the older
           woman." -Hawes School, Redwood City'
-  - {}
 cast:
   items:
     - name: Majd Murad
@@ -105,7 +104,6 @@ cast:
       image: https://ucarecdn.com/0a748e54-461d-43fc-8ea4-da36da52c942/
   heading: Cast & Crew
 photos:
-  items:
-    - {}
+  items: []
 ---
 This delightful performance frames an ancient tale from Ferdowsi’s *Shahnameh* within contemporary adventures of Dara & Sara, a sister and brother eagerly awaiting the coming of *Nowruz*. Guided by their sweet but somewhat hard-of-hearing granny, Dara & Sara learn about spring cleaning, setting a traditional *Haft-seen* table, the fun rituals of *Charshanbeh-suri*, and the *Sizdeh-bedar* picnic which concludes the rite of spring ceremonies. This enriching and humorous presentation includes music, dance, storytelling, puppetry, and audience participation. Fusing history and literature with contemporary arts, ***21 Days That Change the Year*** offers a multi-cultural event providing children and their families with the richness of Middle Eastern arts and culture.
