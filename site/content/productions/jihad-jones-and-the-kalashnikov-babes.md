@@ -124,7 +124,7 @@ cast:
         Calvino's *The Baron in the Trees.*"
       image: https://ucarecdn.com/71b376b9-e130-4910-8a91-ab4eb76565e4/
     - name: Cat Thompson*
-      bio: This is **Cat Thompson**'sfirst appearance with Golden Thread Productions.
+      bio: This is **Cat Thompson**'s first appearance with Golden Thread Productions.
         Most recently, she appeared as Mother, Sister Mary, Molly and others in
         Edna O'Brien's *Tir na nOg* at the Magic Theatre. Other credits include
         *Henry IV parts I & II, King Lear, Alice in Wonderland* (Marin
