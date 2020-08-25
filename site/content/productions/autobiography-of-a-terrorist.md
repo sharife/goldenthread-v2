@@ -180,4 +180,5 @@ bottom:
 “*Autobiography of a Terrorist* feels like art imitating life — brilliantly.”\
 **—*Theatrius***
 
-“Saïd Sayrafiezadeh is a name you may want to remember. He writes with extraordinary power.” **—*The New York Times***
+“Saïd Sayrafiezadeh is a name you may want to remember. He writes with extraordinary power.”\
+**—*The New York Times***
