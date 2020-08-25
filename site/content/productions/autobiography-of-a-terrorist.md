@@ -5,6 +5,7 @@ season: 2017
 date: 2017-03-15T02:24:41.324Z
 start: 2017-04-15T02:24:00.000Z
 end: 2017-05-08T02:24:00.000Z
+heading: A fiercely funny dive into the absurdity of the immigrant experience
 description: Saïd has written a play about growing up Iranian and
   Jewish-American during the Iran hostage crisis. As he and his well-meaning
   collaborators try to stage his script, things go quickly and hilariously from
@@ -12,12 +13,18 @@ description: Saïd has written a play about growing up Iranian and
   writer Sayrafiezadeh (*Brief Encounters With the Enemy*,*When Skateboards Will
   Be Free*) brilliantly pokes fun at the complications of hyphenated identity in
   America.
-background: https://ucarecdn.com/6890ec3c-882f-4008-b215-0fce2b60d27e/
+background: https://ucarecdn.com/20a5a21f-12d6-42ea-9952-03ad6648494d/
+titleimage: https://ucarecdn.com/17865085-7824-4876-9eaf-4c039d9c5c4b/
 videos:
   - id: D2fMvXu_cmk
   - id: jvDuG2OwpJQ
 writer: Saïd Sayrafiezadeh
 director: Evren Odcikin
+featuring: Jenna Apollonia, Patricia Austin, Cassidy Brown, Alan Coyne, & Damien Seperi
+additional: "Assistant Stage Manager: Jenna Apollonia, Lighting Designer: Cassie
+  Barnes, Costume Designer: Miyuki Bierlein, Magic Consultant: Christian
+  Cagigal, Technical Director: Beckett Finn, Sound Designer: Sara Huddleston,
+  Stage Manager: Benjamin Shiu, Producer: Torange Yeghiazarian"
 stage: Potrero Stage (formerly Thick House)
 address: 1695 18th Street, San Francisco
 lists:
@@ -108,12 +115,11 @@ cast:
         American Express Leadership Bootcamp."
       text: "**[odcikin.com](odcikin.com)**"
       image: https://ucarecdn.com/6e347a30-b4be-4f62-8867-629df31d6717/
-    - text: >-
-        **Cast:** Jenna Apollonia, Patricia Austin, Cassidy Brown*, Alan Coyne,
-        Damien Seperi
-
-
-        **Assistant Stage Manager:** Jenna Apollonia, **Lighting Designer:** Cassie Barnes, **Costume Designer:** Miyuki Bierlein, **Magic Consultant:** Christian Cagigal, **Technical Director:** Beckett Finn, **Sound Designer:** Sara Huddleston, **Stage Manager:** Benjamin Shiu*, **Producer:** Torange Yeghiazarian
+    - text: "**Assistant Stage Manager:** Jenna Apollonia, **Lighting Designer:**
+        Cassie Barnes, **Costume Designer:** Miyuki Bierlein, **Magic
+        Consultant:** Christian Cagigal, **Technical Director:** Beckett Finn,
+        **Sound Designer:** Sara Huddleston, **Stage Manager:** Benjamin Shiu*,
+        **Producer:** Torange Yeghiazarian"
   heading: Cast & Crew
 photos3:
   items:
