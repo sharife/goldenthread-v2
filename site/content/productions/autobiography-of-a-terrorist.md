@@ -157,19 +157,21 @@ bottom:
   text: Thanks to **The Zellerbach Family Foundation** for their generous support
     of *Autobiography of a Terrorist*.
 ---
+**Reviews**
+
 “A multi-layered, intellectually complex, and splendid piece of work… Under Odcikin’s deft (and often breathless) direction, Golden Thread’s ensemble of five determined artists jumps through acting hoops that range from hilariously fake attempts at empathy to painfully honest confessions; from surprisingly agile bits of physical comedy to heartbreaking moments of personal cruelty.”\
-—*The Huffington Post*
+**—*The Huffington Post***
 
 “The show is often very funny, especially in the many uncomfortable moments between the performers. Just as often, it’s disturbing in how aptly it captures how thin people’s veneer of tolerance can be, even — or rather especially — when they believe it to be genuine.”\
-—*The Mercury News*
+**—*The Mercury News***
 
 “Relax everybody —*Autobiography* is a comedy! No bombs or blood. Just a provocative (and amusing) account of what it meant to be a ‘hyphenated American’.”\
-—*Pacific Sun*
+**—*Pacific Sun***
 
 “Throughout *Autobiography*, there’s a running joke about people mispronouncing \[Said’s last name]: “Stirfryday” is the funniest example. The play repeats this seemingly unimportant point to make a larger one. A certain American demographic remains indifferent and wary of other cultures and other languages. For those who can’t pass as a Smith or Jones, Sayrafiezadeh also points out that the rah-rah jingoism of a USA chant always carries a belligerent edge.”\
-—*SF Weekly*
+**—*SF Weekly***
 
 “*Autobiography of a Terrorist* feels like art imitating life — brilliantly.”\
-—*Theatrius*
+**—*Theatrius***
 
-“Saïd Sayrafiezadeh is a name you may want to remember. He writes with extraordinary power.” —*The New York Times*
+“Saïd Sayrafiezadeh is a name you may want to remember. He writes with extraordinary power.” **—*The New York Times***
