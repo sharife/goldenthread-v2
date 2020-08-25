@@ -18,7 +18,15 @@
         {{ end }}
           <div class="w-100">
             {{ if .name }}
-              <p class="f6 b mb0">{{.name}}</p>
+              <p class="f6 b mb0">
+                {{ if .link }}
+                  <a href="{{.link}}" target="_blank">
+                {{ end }}
+                {{.name}}
+                {{ if .link }}
+                  </a>
+                {{ end }}
+              </p>
             {{ end }}
             {{ if .credit }}
               <p class="f6 i mb0">{{.credit}}</p>
@@ -32,7 +40,15 @@
                     {{ if .image }}
                       <img src="{{.image}}" alt="" class="db mb1 mr3 w-40" align="left">
                     {{ end }}
-                    <p class="f5 b mb0">{{.name}}</p>
+                    <p class="f5 b mb0">
+                      {{ if .link }}
+                        <a href="{{.link}}" target="_blank">
+                      {{ end }}
+                      {{.name}}
+                      {{ if .link }}
+                        </a>
+                      {{ end }}
+                    </p>
                     <p class="cms f6 mb1">{{.bio | markdownify}}</p>
                   </div>
                 </div>

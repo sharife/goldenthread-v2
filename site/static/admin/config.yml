@@ -221,6 +221,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Credit", name: "credit", widget: "string", required: false}
                   - {label: Image, name: image, widget: image, required: false}
                   - {label: "Bio", name: "bio", widget: "markdown", required: false}
+                  - {label: "Link", name: "link", widget: "string", required: false}
           - label: Board of Trustees
             name: board
             widget: object
