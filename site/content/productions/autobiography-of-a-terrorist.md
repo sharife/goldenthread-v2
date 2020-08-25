@@ -157,7 +157,7 @@ bottom:
   text: Thanks to **The Zellerbach Family Foundation** for their generous support
     of *Autobiography of a Terrorist*.
 ---
-**Reviews**
+# Reviews
 
 “A multi-layered, intellectually complex, and splendid piece of work… Under Odcikin’s deft (and often breathless) direction, Golden Thread’s ensemble of five determined artists jumps through acting hoops that range from hilariously fake attempts at empathy to painfully honest confessions; from surprisingly agile bits of physical comedy to heartbreaking moments of personal cruelty.”\
 **—*The Huffington Post***
