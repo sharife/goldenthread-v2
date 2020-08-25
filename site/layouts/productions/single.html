@@ -123,6 +123,12 @@
       <div class="mw7 center ph3">
       {{ end }}
 
+      {{ if .Params.archivevideo }}
+          <div class="mb3">
+            {{ partial "youtube" (dict "id" .Params.archivevideo) }}
+          </div>
+      {{ end }}
+
       {{ if .Params.program }} <p class="f6 b mb1"><a href="{{.Params.program}}">Program PDF</a></p> {{ end }}
 
       {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}

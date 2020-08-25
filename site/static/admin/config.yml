@@ -133,6 +133,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - {label: Image, name: image, widget: image, required: false}
+      - {label: Archival video (YouTube ID), name: archivevideo, widget: string, required: false}
       - label: Sponsors/Bottom
         name: bottom
         widget: object
