@@ -12,8 +12,10 @@ description: Saïd has written a play about growing up Iranian and
   writer Sayrafiezadeh (*Brief Encounters With the Enemy*,*When Skateboards Will
   Be Free*) brilliantly pokes fun at the complications of hyphenated identity in
   America.
+background: https://ucarecdn.com/6890ec3c-882f-4008-b215-0fce2b60d27e/
 videos:
   - id: D2fMvXu_cmk
+  - id: jvDuG2OwpJQ
 writer: Saïd Sayrafiezadeh
 director: Evren Odcikin
 stage: Potrero Stage (formerly Thick House)
