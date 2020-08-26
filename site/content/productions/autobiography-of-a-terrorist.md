@@ -14,17 +14,15 @@ description: Saïd has written a play about growing up Iranian and
   Be Free*) brilliantly pokes fun at the complications of hyphenated identity in
   America.
 background: https://ucarecdn.com/20a5a21f-12d6-42ea-9952-03ad6648494d/
-titleimage: https://ucarecdn.com/17865085-7824-4876-9eaf-4c039d9c5c4b/
+titleimage: https://ucarecdn.com/9b4f8f00-3661-4303-acb3-bbd040b44e69/
+program: https://ucarecdn.com/271a871c-4826-495f-acf4-ca4035ee8b9f/
 videos:
   - id: D2fMvXu_cmk
-  - id: jvDuG2OwpJQ
 writer: Saïd Sayrafiezadeh
 director: Evren Odcikin
-featuring: Jenna Apollonia, Patricia Austin, Cassidy Brown, Alan Coyne, & Damien Seperi
-additional: "Assistant Stage Manager: Jenna Apollonia, Lighting Designer: Cassie
-  Barnes, Costume Designer: Miyuki Bierlein, Magic Consultant: Christian
-  Cagigal, Technical Director: Beckett Finn, Sound Designer: Sara Huddleston,
-  Stage Manager: Benjamin Shiu, Producer: Torange Yeghiazarian"
+featuring: Jenna Apollonia, Patricia Austin, Cassidy Brown*, Alan Coyne, & Damien Seperi*
+additional: "Design & Production Team: Jenna Apollonia, Cassie Barnes, Christian
+  Cagigal, Beckett Finn, Sara Huddleston, Benjamin Shiu"
 stage: Potrero Stage (formerly Thick House)
 address: 1695 18th Street, San Francisco
 lists:
@@ -159,11 +157,13 @@ photos3:
     - image: https://ucarecdn.com/644a5a61-8c6f-48ff-a4ec-42ff07f97c89/
     - image: https://ucarecdn.com/8bb28ae6-36de-47ec-bf44-9a43c1d0ebd6/
     - image: https://ucarecdn.com/27742ef9-6bcd-46fc-b302-bcfbe3add892/
+  heading: Photo Gallery
+archivevideo: jvDuG2OwpJQ
 bottom:
   text: Thanks to **The Zellerbach Family Foundation** for their generous support
     of *Autobiography of a Terrorist*.
 ---
-# Reviews
+## Reviews
 
 “A multi-layered, intellectually complex, and splendid piece of work… Under Odcikin’s deft (and often breathless) direction, Golden Thread’s ensemble of five determined artists jumps through acting hoops that range from hilariously fake attempts at empathy to painfully honest confessions; from surprisingly agile bits of physical comedy to heartbreaking moments of personal cruelty.”\
 **—*The Huffington Post***
