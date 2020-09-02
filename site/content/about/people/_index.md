@@ -15,10 +15,10 @@ staff:
         Entertainment Industry at Stanford University. A playwright, director,
         and translator, Torange contributed a case study chapter to “Casting a
         Movement”, forthcoming from Routledge, 2019. Her translation and stage
-        adaptation of Nizami’s “Leyla &#038; Majnun” is published on
+        adaptation of Nizami’s “Leyla & Majnun” is published on
         Gleeditions.com. She has been published in The Drama Review, American
         Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
-        Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
+        Women & Islamic Cultures and Cambridge World Encyclopedia of Stage
         Actors. At Golden Thread, Torange directed OH MY SWEET LAND by Amir
         Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY SCENES OF LOVE AND
         COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF CREATION by
@@ -894,31 +894,43 @@ advisors:
         Director, The Center for Middle Eastern and North African Studies, and
         Associate Professor, Near Eastern Studies, University of Michigan
       name: Samer Ali
+      link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
+    - credit: 'Assistant Professor of Theater and Performance Studies, Stanford University'
+      name: Samer Al-Saber
+      link: https://ccsre.stanford.edu/people/samer-al-saber
     - credit: >-
         Distinguished Professor, Theatre, Comparative Literature, and Middle
         Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
+      link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
+    - credit: 'Arts Professor, NYU Tish School of Drama, Experimental Theatre Wing'
+      name: Catherine Coray
+      link: https://tisch.nyu.edu/about/directory/drama/94426744
     - credit: >-
         Professor, Iranian Studies and Comparative Literature, Columbia
         University
       name: Hamid Dabashi
+      link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
     - credit: 'Playwright and Professor, Playwriting, UC Berkeley'
       name: Philip Kan Gotanda
+      link: https://tdps.berkeley.edu/people/philip-kan-gotanda
     - credit: >-
         Co-Founder, Theatre Without Borders, and Senior Program Associate,
         Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
-    - credit: 'Professor, Asian American Studies, UC Davis'
-      name: Suniana Maira
+      link: https://www.robertalevitow.com/
     - credit: >-
         Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
         Tisch School of the Arts
-      name: Ella Shohat
+      name: Ela Shohat
+      link: https://tisch.nyu.edu/about/directory/app/1295710755
     - credit: >-
         Founding Faculty, Performing Arts and Social Justice Program, University
         of San Francisco
       name: Roberto Gutiérrez Varea
+      link: https://www.usfca.edu/faculty/roberto-gutierrez-varea
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
+      link: https://www.naomiwallace.com/
 ---
 
