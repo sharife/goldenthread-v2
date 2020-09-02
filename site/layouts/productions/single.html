@@ -125,11 +125,12 @@
 
       {{ if .Params.archivevideo }}
           <div class="mb3">
+            <p class="b mb1">Watch a short video clip from the production:</p>
             {{ partial "youtube" (dict "id" .Params.archivevideo) }}
           </div>
       {{ end }}
 
-      {{ if .Params.program }} <p class="f6 b mb1"><a href="{{.Params.program}}">Program PDF</a></p> {{ end }}
+      {{ if .Params.program }} <p class="f6 b mb1"><a href="{{.Params.program}}">Read the full production program</a></p> {{ end }}
 
       {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}
     </div>
