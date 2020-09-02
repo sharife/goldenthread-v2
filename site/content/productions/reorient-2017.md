@@ -25,13 +25,14 @@ featuring: " Atosa Babaoff*, Naseem Etemad*, Mohamed Chakmakchi, Stephen
   Kanaski, Lawrence Radecker*, Jessica Lea Risco, Bella Warda"
 dramaturg: Nakissa Etemad, Anna Woodruff, Emily DeDakis, Maddie Gaw, and Vidhu Singh
 additional: "Design team: James Ard, Kenan Arun, Cassie Barnes, Kate Boyd,
-  Beckett Finn, Erin Gilley, Brooke Jennings, Grisel Torres; Stage Management:
-  Karen Runk*, Benjamin Shiu, Apollonia and Keith Arcuragi"
+  Beckett Finn, Erin Gilley, Brooke Jennings, Grisel Torres"
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 misc: >-
-  CONTENT ADVISORY: Some plays contain strong language, sexual violence, and
-  disturbing imagery.
+  Stage Management: Karen Runk*, Benjamin Shiu, Apollonia and Keith Arcuragi
+
+
+  CONTENT ADVISORY: Some plays contain strong language, sexual violence, and disturbing imagery.
 
   RUNNING TIME: 2 hours including one 15-minute intermission
 lists:
