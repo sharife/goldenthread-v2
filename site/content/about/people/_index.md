@@ -922,7 +922,7 @@ advisors:
     - credit: >-
         Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
         Tisch School of the Arts
-      name: Ela Shohat
+      name: Ella Shohat
       link: https://tisch.nyu.edu/about/directory/app/1295710755
     - credit: >-
         Founding Faculty, Performing Arts and Social Justice Program, University
