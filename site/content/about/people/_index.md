@@ -903,7 +903,7 @@ advisors:
         Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
       link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
-    - credit: 'Arts Professor, NYU Tish School of Drama, Experimental Theatre Wing'
+    - credit: 'Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing'
       name: Catherine Coray
       link: https://tisch.nyu.edu/about/directory/drama/94426744
     - credit: >-
