@@ -71,54 +71,14 @@ lists:
         title: Thanksgiving at Khodabakhshian's
         image: https://ucarecdn.com/52396b9f-0e2f-424f-b58c-3d5a100b2953/
     heading: REORIENT 2017 LINE-UP
-  - heading: Golden Thread Productions and LMDA Partnership
-    items:
-      - title: Are You Ready to ReOrient
-        text: Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient
-          and highlights the importance of Golden Thread in the American
-          theatre.
-        image: https://ucarecdn.com/65eb2dcb-88c2-4442-b7c0-3cd1de366a9b/
-        cta: ""
-        link: ""
-      - title: "Being in the Room: Transatlantic Collaborations in ReOrient 2017"
-        text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
-          Khalil to discuss their plays, playwriting careers in the U.K., and
-          past experiences with Golden Thread.
-        image: https://ucarecdn.com/268b0162-0974-4fc7-842c-2db1a108d75e/
-      - title: Playwright and Dramaturg Tackle Manar a Third Time
-        subtitle: ""
-        text: ReOrient Dramaturg Anna Woodruff speaks with her longtime collaborator and
-          Playwright Melis Aker about their working relationship, the evolution
-          of *Manar*, and their experience with Golden Thread.
-        image: https://ucarecdn.com/ba8c41ac-ebb0-4eae-8e1e-b8cca65734c2/
-      - title: Women’s Voices Naturally Rise to the Top at Golden Thread
-        text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
-          E.H. Benedict, and Torange Yeghiazarian to discuss their writing
-          careers as women and in the Bay Area, and experiences with Golden
-          Thread.
-        image: https://ucarecdn.com/302764fe-6a89-4db6-9230-3612d7ca69ac/
-grids:
   - heading: ReOrient 2017 Forum Panels
     items:
       - title: "Centering the Margins: Immigrant Voices and Brown Bodies Claiming the
           Narrative"
-        text: >-
-          **Sat, Nov 25, 4-6pm** | Potrero Stage (1695 18th Street, San
-          Francisco)\
-
-          For years — some might say centuries — America’s narratives have focused on the experience of white bodies as told through the eyes of the colonizer, framing the place of brown bodies in the process. What happens when we reorient our perspective? How do we shift the reference point away from a white narrative? How do we negotiate differences of experience and perspective within marginalized communities? Whose stories are told on American stages and from what lens? *(Presented in association with USF)*\
-
-          **Chair and Moderator:** Roberto Gutiérrez Varea\
-
-          **Panelists:** Eugenie Chan, Edris Cooper-Anifowoshe, Philip Kan Gotanda, Lauren Spencer, Eric Ting, and Torange Yeghiazarian\
-
-          **Free and open to the public**
-        cta: RSVP Now
+        image: https://ucarecdn.com/a6644a41-37b1-4241-a1d8-bd5c36452e91/
         link: https://goldenthread.secure.force.com/ticket/
-        image: https://ucarecdn.com/09ef1628-deeb-43dd-ab80-ba9cfc884f43/
-      - title: "Dramaturgs ReOrient: Contextualizing the Middle East for American
-          Audiences"
-        text: >-
+        cta: RSVP Now
+      - text: >-
           **Sat, Dec 2, 4-6pm** | Potrero Stage (1695 18th Street, San
           Francisco)\
 
@@ -131,9 +91,30 @@ grids:
           **Panelists:** Maddie Gaw and Vidhu Singh\
 
           **Free and open to the public**
-        image: https://ucarecdn.com/219d7ead-6c9c-4304-bca7-6455ed4a079b/
-        cta: RSVP Now
+        title: "Dramaturgs ReOrient: Contextualizing the Middle East for American
+          Audiences"
+        image: https://ucarecdn.com/5655e068-ee48-44a2-98d2-d8cb2733b3c8/
         link: https://goldenthread.secure.force.com/ticket/
+        cta: RSVP Now
+grids:
+  - heading: Golden Thread Productions and LMDA Partnership
+    items:
+      - title: Are You Ready to ReOrient
+        image: https://ucarecdn.com/3b82cbf7-7b35-4d8d-a2a9-0576980297e1/
+      - text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
+          Khalil to discuss their plays, playwriting careers in the U.K., and
+          past experiences with Golden Thread.
+        title: "Being in the Room: Transatlantic Collaborations in ReOrient 2017"
+        image: https://ucarecdn.com/2de66e9e-0716-4098-bd0d-299d0e401edd/
+      - title: Playwright and Dramaturg Tackle Manar a Third Time
+        image: https://ucarecdn.com/5da3cff5-6344-42e2-b4ae-a6dbd7a841e9/
+      - text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
+          E.H. Benedict, and Torange Yeghiazarian to discuss their writing
+          careers as women and in the Bay Area, and experiences with Golden
+          Thread.
+        title: Women’s Voices Naturally Rise to the Top at Golden Thread
+        image: https://ucarecdn.com/91eee817-77e1-484c-a772-12ebeccb8189/
+      - subtitle: ""
   - heading: ReOrient Festival in the Press
     items:
       - title: Everyone is Welcome to ReOrient Themselves
