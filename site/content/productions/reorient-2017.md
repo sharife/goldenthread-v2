@@ -29,6 +29,11 @@ additional: "Design team: James Ard, Kenan Arun, Cassie Barnes, Kate Boyd,
   Karen Runk*, Benjamin Shiu, Apollonia and Keith Arcuragi"
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
+misc: >-
+  CONTENT ADVISORY: Some plays contain strong language, sexual violence, and
+  disturbing imagery.
+
+  RUNNING TIME: 2 hours including one 15-minute intermission
 lists:
   - items:
       - title: War on Terror
