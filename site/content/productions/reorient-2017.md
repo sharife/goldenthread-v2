@@ -11,6 +11,7 @@ description: ReOrient 2017 will turn San Francisco into a mecca for innovative,
   else will you find plays and artists from Armenia, India, Iraq, Iran, Japan,
   Lebanon, Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all
   on one stage.
+titleimage: https://ucarecdn.com/aba2dae5-1e5f-43c6-a59e-d5ea6dd8405d/
 program: https://ucarecdn.com/f3909467-a6c9-42d4-889d-56ddbd91b8b6/
 videos:
   - id: F_-ZqFY7Yt8
@@ -33,6 +34,7 @@ misc: >-
 
 
   CONTENT ADVISORY: Some plays contain strong language, sexual violence, and disturbing imagery.
+
 
   RUNNING TIME: 2 hours including one 15-minute intermission
 lists:
@@ -76,9 +78,20 @@ lists:
     items:
       - title: "Centering the Margins: Immigrant Voices and Brown Bodies Claiming the
           Narrative"
-        image: https://ucarecdn.com/a6644a41-37b1-4241-a1d8-bd5c36452e91/
+        image: https://ucarecdn.com/a375189c-28dd-4b04-a8d8-d48a50472f94/
         link: https://goldenthread.secure.force.com/ticket/
         cta: RSVP Now
+        text: >-
+          **Sat, Nov 25, 4-6pm** | Potrero Stage (1695 18th Street, San
+          Francisco)\
+
+          For years — some might say centuries — America’s narratives have focused on the experience of white bodies as told through the eyes of the colonizer, framing the place of brown bodies in the process. What happens when we reorient our perspective? How do we shift the reference point away from a white narrative? How do we negotiate differences of experience and perspective within marginalized communities? Whose stories are told on American stages and from what lens? *(Presented in association with USF)*\
+
+          **Chair and Moderator:** Roberto Gutiérrez Varea\
+
+          **Panelists:** Eugenie Chan, Edris Cooper-Anifowoshe, Philip Kan Gotanda, Lauren Spencer, Eric Ting, and Torange Yeghiazarian\
+
+          **Free and open to the public**
       - text: >-
           **Sat, Dec 2, 4-6pm** | Potrero Stage (1695 18th Street, San
           Francisco)\
@@ -94,7 +107,7 @@ lists:
           **Free and open to the public**
         title: "Dramaturgs ReOrient: Contextualizing the Middle East for American
           Audiences"
-        image: https://ucarecdn.com/5655e068-ee48-44a2-98d2-d8cb2733b3c8/
+        image: https://ucarecdn.com/90f68238-bc04-4898-82a4-77dddb9f015f/
         link: https://goldenthread.secure.force.com/ticket/
         cta: RSVP Now
 grids:
@@ -102,6 +115,9 @@ grids:
     items:
       - title: Are You Ready to ReOrient
         image: https://ucarecdn.com/3b82cbf7-7b35-4d8d-a2a9-0576980297e1/
+        text: Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient
+          and highlights the importance of Golden Thread in the American
+          theatre.
       - text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
           Khalil to discuss their plays, playwriting careers in the U.K., and
           past experiences with Golden Thread.
@@ -109,6 +125,9 @@ grids:
         image: https://ucarecdn.com/2de66e9e-0716-4098-bd0d-299d0e401edd/
       - title: Playwright and Dramaturg Tackle Manar a Third Time
         image: https://ucarecdn.com/5da3cff5-6344-42e2-b4ae-a6dbd7a841e9/
+        text: ReOrient Dramaturg Anna Woodruff speaks with her longtime collaborator and
+          Playwright Melis Aker about their working relationship, the evolution
+          of *Manar*, and their experience with Golden Thread.
       - text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
           E.H. Benedict, and Torange Yeghiazarian to discuss their writing
           careers as women and in the Bay Area, and experiences with Golden
@@ -149,11 +168,40 @@ grids:
         cta: Read More
         link: http://www.sfchronicle.com/performance/article/Theater-events-for-the-holidays-12344651.php
 cast:
-  heading: Cast & Crew
+  heading: REORIENT 2017 HONORARY MENTIONS
+  items:
+    - text: "In addition, ten playwrights received **Honorable Mentions: Hassan
+        Abdulrazzak**, **Harut Akopyan**, **Mudar Alhaggi**, **Leila Buck**,
+        **Shay Goldstein**, **Atar Hadari**, **Uday Jhunjhunwala**, **Mustafa
+        Kaymak**, **Daria Polatin**, and **Lilly Thomassian**. The selection
+        committee for ReOrient 2017 included luminaries **Catherine Coray**
+        (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
+        Playwright Exchange at the Lark Play Development Center), **Philip Kan
+        Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre,
+        Dance, and Performance Studies), Roberta Levitow (Co-founder, Theatre
+        Without Borders & Senior Program Associate, Middle East North Africa
+        Sundance Institute Theatre Program), **Roberto Gutierrez Varea**
+        (Professor, University of San Francisco, Performing Arts and Social
+        Justice Program). Golden Thread Founding Artistic Director Torange
+        Yeghiazarian and Director of New Plays and Marketing Evren Odcikin were
+        also part of the committee."
 photos:
   heading: Photo Gallery
   items:
-    - {}
+    - image: https://ucarecdn.com/2efc86c1-6ab9-44ea-87de-a7afe70f11e2/
+    - image: https://ucarecdn.com/c738422b-d2e5-4c11-bb90-264d5027a0b2/
+    - image: https://ucarecdn.com/e7f3dca1-acdc-4839-b83f-3bf3c877bcb4/
+    - image: https://ucarecdn.com/a684259a-db89-495d-959a-d59aa685645f/
+    - image: https://ucarecdn.com/9fcfefbd-d68d-4929-8244-896a7e5ef8e0/
+    - image: https://ucarecdn.com/ea71adfa-30ff-4006-af9c-879a28296534/
+    - image: https://ucarecdn.com/34c1b70b-dd77-4def-b84c-6cae60ec035f/
+    - image: https://ucarecdn.com/4b4bd569-c09e-4268-b765-b18d8102d7ce/
+    - image: https://ucarecdn.com/ebbbeaec-779c-41bc-98b4-fb66f9bf38fc/
+    - image: https://ucarecdn.com/51838635-d29f-45a0-a4ca-ff6d10874c77/
+    - image: https://ucarecdn.com/a815b473-58dc-4f7a-9518-a24d24d9a33f/
+    - image: https://ucarecdn.com/7e688f76-8dfb-4532-a87a-2037217aeb4f/
+    - image: https://ucarecdn.com/c7d732f7-4226-41d3-82a5-9a6d02954556/
+    - image: https://ucarecdn.com/ce79947d-b07a-47a7-8d3f-24388c22fbf1/
 bottom:
   text: Thanks to **San Francisco Arts Commission**, **National Endowment for the
     Arts**, **Walter & Elise Haas Fund**, **The Fleischhacker Foundation**,
