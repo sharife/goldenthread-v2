@@ -6,7 +6,8 @@ media_library:
   name: uploadcare
   config:
     publicKey: 27bd1f32452db346e082
-    data-tabs: "file url gdrive dropbox facebook"
+    imageShrink: 1600x1600 95%
+    tabs: "file url gdrive dropbox facebook"
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
