@@ -4,52 +4,50 @@ pre: One Night Only!
 season: 2020
 date: 2019-11-08T20:06:27.442Z
 start: 2020-05-02T03:00:00.000Z
-end: ''
-description: >-
-  **THIS EVENT HAS BEEN CANCELLED**<br />
-  With broken hearts we must announce that we have cancelled our upcoming presentation of Hanane Hajj Ali's amazing one woman show, Jogging,﻿ in the interest of public health and in accordance with the extended shelter-in-place ordinance continuing through May 3rd. Tickets may be exchanged, refunded or donated by contact us by email at boxoffice@goldenthread.org.<br /><hr />
-  **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen, exercises
-  daily to avoid osteoporosis, obesity, and depression. As her story intertwines
-  with the city’s tumultuous history, Hajj Ali jogs through Beirut revisiting
-  dreams, desires, hopes, and disillusionments.
-background: 'https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/'
+end: ""
+description: "**THIS EVENT HAS BEEN CANCELLED**<br /> With broken hearts we must
+  announce that we have cancelled our upcoming presentation of Hanane Hajj Ali's
+  amazing one woman show, Jogging,﻿ in the interest of public health and in
+  accordance with the extended shelter-in-place ordinance continuing through May
+  3rd. Tickets may be exchanged, refunded or donated by contact us by email at
+  boxoffice@goldenthread.org.<br /><hr /> **Hanane Hajj Ali**, a fifty-something
+  Lebanese actress and citizen, exercises daily to avoid osteoporosis, obesity,
+  and depression. As her story intertwines with the city’s tumultuous history,
+  Hajj Ali jogs through Beirut revisiting dreams, desires, hopes, and
+  disillusionments."
+background: https://ucarecdn.com/da937f09-cb5d-4c02-af13-9bd88976c53b/
 videos:
   - id: U0yozQEJ2pI
 writer: Hanane Hajj Ali
 director: Eric Deniaud
 translator: Hassan Abdulrazzak
-additional: ''
+additional: ""
 stage: Brava Theater Center
-address: '2781 24th St, San Francisco, CA 94110'
-ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA'
+address: 2781 24th St, San Francisco, CA 94110
+ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gaw5UAA
 grids:
   - heading: In The Press
     items:
       - cta: Read more
-        link: 'https://artsequator.com/jogging-hanane-hajj-ali-2019/'
+        link: https://artsequator.com/jogging-hanane-hajj-ali-2019/
         subtitle: _Jogging_ To Survive
-        text: >-
-          _ARTS EQUATOR_'s Stephanie Burridge covers the performance in M1
-          Singapore Fringe Festival 2019.
+        text: _ARTS EQUATOR_'s Stephanie Burridge covers the performance in M1 Singapore
+          Fringe Festival 2019.
       - cta: Read more
-        link: >-
-          https://www.theskinny.co.uk/festivals/edinburgh-fringe/theatre/jogging-summerhall
-        subtitle: '_Jogging_: a radical challenge to the global perceptions of Arab women'
-        text: >-
-          _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj
-          Ali
+        link: https://www.theskinny.co.uk/festivals/edinburgh-fringe/theatre/jogging-summerhall
+        subtitle: "_Jogging_: a radical challenge to the global perceptions of Arab
+          women"
+        text: _The Skinny_'s Cat Acheson reviews the one-woman show by Hanane Hajj Ali
       - cta: Read more
-        link: 'https://arablit.org/2019/08/03/hanane-hajj-alis-jogging/'
-        subtitle: 'Sex, Prime Ministers, and Running in Circles'
-        text: >-
-          _ArabLit_'s Katie Logan writes about the show, part of the 2019
-          Shubbak Festival in London
+        link: https://arablit.org/2019/08/03/hanane-hajj-alis-jogging/
+        subtitle: Sex, Prime Ministers, and Running in Circles
+        text: _ArabLit_'s Katie Logan writes about the show, part of the 2019 Shubbak
+          Festival in London
 cast:
   heading: Cast & Crew
   items:
-    - bio: >-
-        Hanane Hajj Ali is the recipient of the Order of letters and Arts from
-        the rank of knight of the French Ministry of Culture, and an eminent
+    - bio: Hanane Hajj Ali is the recipient of the Order of letters and Arts from the
+        rank of knight of the French Ministry of Culture, and an eminent
         cultural and artistic figure in Lebanon and the Arab World. Founding
         member of the collective group HAKAWATI Theatre (Lebanese Theatre of
         Storytellers), Hanane has performed in prestigious international
@@ -62,49 +60,44 @@ cast:
         board member of several organizations such as, Culture Resource- Al
         Mawred Athaqafy, Action for Hope, and Ettijahate, Independent Culture.
       credit: Playwright and Performer
-      image: >-
-        https://ucarecdn.com/8396b6df-6aee-4ead-8ba7-81103d96f29a/-/crop/1430x1441/295,0/-/preview/
+      image: https://ucarecdn.com/8396b6df-6aee-4ead-8ba7-81103d96f29a/-/crop/1430x1441/295,0/-/preview/
       name: Hanane Hajj Ali
-    - bio: >-
-        Eric Deniaud is a graduate of the International Institute of Puppetry
-        Art (ESNAM) in Charleville-Mézières, France. He works as an actor,
-        director, and set designer on mostly but not exclusively puppet plays.
-        Eric’s numerous international collaborations include: the National
-        Puppet Theatre of Vietnam in Hanoi, the National Centre for Dramatic Art
-        in Paris, the National Centre for Stage Writings, Ectera Teatro in
-        Spain, and Kaze theater in Tokyo. His collaboration with Alice Laloy on
-        Y-es tu? was nominated for the Molières award for the Best Performance
-        for Young Audiences in 2011. In Lebanon, Eric co-founded Collectif
-        Kahraba in 2007, and is the co-director of Nehna wel Amar wel Jiran
-        Festival in Beirut since 2011. Since 2017 he has served as the
-        co-director of Hammana Artist House, a residency space for artists in
-        Lebanon.
+    - bio: "Eric Deniaud is a graduate of the International Institute of Puppetry Art
+        (ESNAM) in Charleville-Mézières, France. He works as an actor, director,
+        and set designer on mostly but not exclusively puppet plays. Eric’s
+        numerous international collaborations include: the National Puppet
+        Theatre of Vietnam in Hanoi, the National Centre for Dramatic Art in
+        Paris, the National Centre for Stage Writings, Ectera Teatro in Spain,
+        and Kaze theater in Tokyo. His collaboration with Alice Laloy on Y-es
+        tu? was nominated for the Molières award for the Best Performance for
+        Young Audiences in 2011. In Lebanon, Eric co-founded Collectif Kahraba
+        in 2007, and is the co-director of Nehna wel Amar wel Jiran Festival in
+        Beirut since 2011. Since 2017 he has served as the co-director of
+        Hammana Artist House, a residency space for artists in Lebanon."
       credit: Director
-      name: 'Eric Deniaud '
-    - bio: >-
-        Hassan Abdulrazzak is an Iraqi playwright and Writer, and a Golden
-        Thread resident artist. Hassan is the author of several plays including,
+      name: "Eric Deniaud "
+    - bio: Hassan Abdulrazzak is an Iraqi playwright and Writer, and a Golden Thread
+        resident artist. Hassan is the author of several plays including,
         Baghdad Wedding, The Prophet, Dhow Under The Sun, Catalina, Love, Bombs,
         & Apples, and Here I am. He was born in Prague and holds a PhD in
         molecular biology. Awards include George Devine, Meyer-Whitworth and
         Arab British Center’s Award for Culture in 2013.
       credit: Translator
       name: Hassan Abdulrazzak
-    - text: >-
-        **Original Creative Team:** Abdallah AlKafri (Dramaturgy), Sarmad Louis
-        / Rayan Nihawi (Light Design), James Chehab / Karam Abou Ayach
-        (Technical Direction); KALABSHA / Louloua Abdel Baki (Costume Design);
-        Danielle Kattar (Graphic Design); Haifa Safa (Coordination and
-        surtitles); Marwan Tahtah (Photography)
+    - text: "**Original Creative Team:** Abdallah AlKafri (Dramaturgy), Sarmad Louis /
+        Rayan Nihawi (Light Design), James Chehab / Karam Abou Ayach (Technical
+        Direction); KALABSHA / Louloua Abdel Baki (Costume Design); Danielle
+        Kattar (Graphic Design); Haifa Safa (Coordination and surtitles); Marwan
+        Tahtah (Photography)"
 photos:
   heading: Photo Gallery
   items:
-    - image: 'https://ucarecdn.com/6537be20-50d9-4b8d-82c7-5338297ef0d2/'
-    - image: 'https://ucarecdn.com/d066b489-c83f-4f8e-8134-be0e777fc317/'
-    - image: 'https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/'
-    - image: 'https://ucarecdn.com/eb3f155d-b932-4110-8b4f-3108ed7dd2d2/'
-    - image: 'https://ucarecdn.com/dd28e9d0-780c-4042-ba25-7bc7b3450914/'
-    - image: 'https://ucarecdn.com/5352e510-bdd4-4de7-9c07-f310a49fe9cc/'
+    - image: https://ucarecdn.com/69475c25-6028-45ec-8ced-88bc03e08445/
+    - image: https://ucarecdn.com/d066b489-c83f-4f8e-8134-be0e777fc317/
+    - image: https://ucarecdn.com/50a4e3ae-9d33-47e9-a5b8-d2fea00bffbf/
+    - image: https://ucarecdn.com/eb3f155d-b932-4110-8b4f-3108ed7dd2d2/
+    - image: https://ucarecdn.com/dd28e9d0-780c-4042-ba25-7bc7b3450914/
+    - image: https://ucarecdn.com/5352e510-bdd4-4de7-9c07-f310a49fe9cc/
 ---
 Her body is stimulated through exercise with two hormones, dopamine and adrenaline, alternating between destruction and construction. In Medea-like fashion, this cycle within Hajj Ali — woman, wife and mother — echoes that of her city, one that destroys to build and builds to destroy.
 
