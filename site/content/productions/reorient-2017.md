@@ -11,6 +11,7 @@ description: ReOrient 2017 will turn San Francisco into a mecca for innovative,
   else will you find plays and artists from Armenia, India, Iraq, Iran, Japan,
   Lebanon, Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all
   on one stage.
+background: https://ucarecdn.com/0415511f-3f4c-489e-adef-6122ee2df29e/
 titleimage: https://ucarecdn.com/aba2dae5-1e5f-43c6-a59e-d5ea6dd8405d/
 program: https://ucarecdn.com/f3909467-a6c9-42d4-889d-56ddbd91b8b6/
 videos:
@@ -43,14 +44,17 @@ lists:
         subtitle: by E.H. Benedict, directed by Sara Razavi
         text: Air travel is no picnic, especially if your non-English speaking Arab
           mother is fed up and tired.
+        image: https://ucarecdn.com/a8a4f004-c70f-44cf-b700-c88c5e05e9eb/
       - title: A is for Ali
         subtitle: by Sevan K. Greene, directed by Sara Razavi
         text: An Arab-American couple must choose a name for their unborn child. How
           tough can it be?
+        image: https://ucarecdn.com/23718121-8b20-4eb3-95fb-154fb62d633f/
       - subtitle: by Melis Aker, directed by Erin Gilley, dramaturged by Anna Woodruff
         title: Manar
         text: An American mother is convinced she recognizes her missing son in an ISIS
           video.
+        image: https://ucarecdn.com/acc6424e-af3a-4cd1-a34d-b4f2f0cb3a4e/
       - subtitle: by Betty Shamieh, directed by Susannah Martin, dramaturged by Nakissa
           Etemad
         title: Make No Mistake
@@ -61,7 +65,7 @@ lists:
         title: The Rehearsal
         text: Three actors must find a way to rehearse a political play under the
           watchful eye of the censors.
-        image: https://ucarecdn.com/a78187b9-1479-4f38-a625-bcda0e992417/
+        image: https://ucarecdn.com/0e49510c-edfd-4dfe-920a-78291020a8c1/
       - title: Shelter
         subtitle: poetry by Junichi P. Semitsu, stage soundscape adapted by Torange
           Yeghiazarian and James Ard
@@ -171,15 +175,21 @@ cast:
   heading: REORIENT 2017 HONORARY MENTIONS
   items:
     - text: ""
-      bio: >-
-        **Hassan Abdulrazzak**, **Harut Akopyan**, **Mudar Alhaggi**, **Leila
-        Buck**, **Shay Goldstein**, **Atar Hadari**, **Uday Jhunjhunwala**,
-        **Mustafa Kaymak**, **Daria Polatin**, and **Lilly Thomassian**. \
-
-        \
-
-        The selection committee for ReOrient 2017 included luminaries **Catherine Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East Playwright Exchange at the Lark Play Development Center), **Philip Kan Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre, Dance, and Performance Studies), Roberta Levitow (Co-founder, Theatre Without Borders & Senior Program Associate, Middle East North Africa Sundance Institute Theatre Program), **Roberto Gutierrez Varea** (Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director Torange Yeghiazarian and Director of New Plays and Marketing Evren Odcikin were also part of the committee.
+      bio: The selection committee for ReOrient 2017 included luminaries **Catherine
+        Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
+        Playwright Exchange at the Lark Play Development Center), **Philip Kan
+        Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre,
+        Dance, and Performance Studies), Roberta Levitow (Co-founder, Theatre
+        Without Borders & Senior Program Associate, Middle East North Africa
+        Sundance Institute Theatre Program), **Roberto Gutierrez Varea**
+        (Professor, University of San Francisco, Performing Arts and Social
+        Justice Program). Golden Thread Founding Artistic Director Torange
+        Yeghiazarian and Director of New Plays and Marketing Evren Odcikin were
+        also part of the committee.
       name: "Ten playwrights received Honorable Mentions:"
+      credit: Hassan Abdulrazzak, Harut Akopyan, Mudar Alhaggi, Leila Buck, Shay
+        Goldstein, Atar Hadari, Uday Jhunjhunwala, Mustafa Kaymak, Daria
+        Polatin, and Lilly Thomassian
 photos:
   heading: Photo Gallery
   items:
