@@ -175,7 +175,21 @@ cast:
   heading: REORIENT 2017 HONORARY MENTIONS
   items:
     - text: ""
-      bio: The selection committee for ReOrient 2017 included luminaries **Catherine
+      bio: ""
+      name: Hassan Abdulrazzak
+      credit: ""
+    - credit: ""
+      name: Harut Akopyan
+    - credit: ""
+      name: Mudar Alhaggi
+    - name: Leila Buck
+    - name: Shay Goldstein
+    - name: Atar Hadari
+    - name: Uday Jhunjhunwala
+    - name: Mustafa Kaymak
+    - name: Daria Polatin
+    - name: Lilly Thomassian
+    - name: The selection committee for ReOrient 2017 included luminaries **Catherine
         Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
         Playwright Exchange at the Lark Play Development Center), **Philip Kan
         Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre,
@@ -186,10 +200,6 @@ cast:
         Justice Program). Golden Thread Founding Artistic Director Torange
         Yeghiazarian and Director of New Plays and Marketing Evren Odcikin were
         also part of the committee.
-      name: "Ten playwrights received Honorable Mentions:"
-      credit: Hassan Abdulrazzak, Harut Akopyan, Mudar Alhaggi, Leila Buck, Shay
-        Goldstein, Atar Hadari, Uday Jhunjhunwala, Mustafa Kaymak, Daria
-        Polatin, and Lilly Thomassian
 photos:
   heading: Photo Gallery
   items:
