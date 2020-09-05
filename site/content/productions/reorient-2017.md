@@ -189,7 +189,8 @@ cast:
     - name: Mustafa Kaymak
     - name: Daria Polatin
     - name: Lilly Thomassian
-    - name: The selection committee for ReOrient 2017 included luminaries **Catherine
+    - name: "The selection committee for ReOrient 2017:"
+      bio: The selection committee for ReOrient 2017 included luminaries **Catherine
         Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
         Playwright Exchange at the Lark Play Development Center), **Philip Kan
         Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre,
