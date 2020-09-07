@@ -71,6 +71,7 @@ lists:
           Yeghiazarian and James Ard
         text: An audio love poem from Hiroshima to Beirut to one mixed-race couple’s
           intertwined destinies.
+        image: https://ucarecdn.com/3ceef03b-bfe7-4d20-b80d-6ceac77ad1b5/
       - subtitle: by Torange Yeghiazarian, directed by Susannah Martin, dramaturged by
           Nakissa Etemad
         text: A leftie Iranian-American and a Trump supporter find themselves together
