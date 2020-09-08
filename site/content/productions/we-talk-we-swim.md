@@ -25,21 +25,21 @@ grids:
     items:
       - title: >
           Dive into Stage Magic
-        image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Workshop-feature.jpg
+        image: /img/archive/2018/03/WeSwim-Blog-Workshop-feature.jpg
         text: >-
           Have you ever tried swimming on stage? We have. Assistant director Hala Baki takes you behind the scenes as the *We Swim* creative team tackles this fun theatrical challenge.
         link: https://www.goldenthread.org/2018-season/we-swim/stage-magic
         cta: Read more
       - title: >
           Fairuz: The Voice of Home
-        image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim-Blog-Fairuz-feature.jpg
+        image: /img/archive/2018/03/WeSwim-Blog-Fairuz-feature.jpg
         text: >-
           The beloved Lebanese singer Fairuz’s music plays an important part in *We Swim*. ASWAT Ensemble soloist Rana Mroue explains the historical importance of this artist in the Arab world.
         link: https://www.goldenthread.org/2018-season/we-swim/fairuz
         cta: Read more
       - title: >
           Backstage Musings: We Swim Actors Reflect on the Play
-        image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-cast-feature.jpg
+        image: /img/archive/2018/03/weswim-cast-feature.jpg
         text: >-
           The cast of the world premiere discuss the play and their development and production experience.
         link: https://www.goldenthread.org/2018-season/we-swim/cast/
@@ -48,35 +48,35 @@ grids:
     items:
       - subtitle: >
           A gulf between a family in Golden Thread’s *We Swim, We Talk, We Go to War*
-        image: https://www.goldenthread.org/wp-content/uploads/2018/03/weswim-datebook-feature.jpg
+        image: /img/archive/2018/03/weswim-datebook-feature.jpg
         text: >-
           *San Francisco Chronicle’s* Lily Janiak recommends *We Swim*
         link: https://datebook.sfchronicle.com/theater/a-gulf-between-a-family-in-golden-threads-we-swim-we-talk-we-go-to-war
         cta: Read more
       - subtitle: >
           SF/ARTS Theatre Pick
-        image: https://www.goldenthread.org/wp-content/uploads/2018/03/mansour-sfarts.jpg
+        image: /img/archive/2018/03/mansour-sfarts.jpg
         text: >-
           Jean Schiffman names *We Swim* one of her November picks for theatre.
         link: https://www.sfarts.org/event.cfm?event_num=79131
         cta: Read more
       - subtitle: >
           Commissions with a Mission: To Create a Middle Eastern American Plays
-        image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mea-at.jpg
+        image: /img/archive/2017/05/feature-mea-at.jpg
         text: >-
           *American Theatre Magazine’s* Lizzie Simon writes about our Middle East America commissioning initiative after attending the 2016 Middle East America Convening.
         link: http://www.americantheatre.org/2016/05/24/commissions-with-a-mission-to-create-middle-eastern-american-plays/
         cta: Read more
       - subtitle: >
           Mona Mansour Interview
-        image: https://www.goldenthread.org/wp-content/uploads/2017/05/feature-mona-interview.jpg
+        image: /img/archive/2017/05/feature-mona-interview.jpg
         text: >-
           Director Evren Odcikin interviewed playwright Mona Mansour in advance of an earlier workhop of this play at the Lark in New York City.
         link: http://www.larktheatre.org/blog/closer-look-we-talk-we-swim-we-go-war/
         cta: Read more
       - subtitle: >
           Mona Mansour: Urgent Tales and Breakfast-Table Politics
-        image: https://www.goldenthread.org/wp-content/uploads/2012/01/DearProducersFeature.jpg
+        image: /img/archive/2012/01/DearProducersFeature.jpg
         text: >-
           Playwright Caridad Svich interviews Mona Mansour for *American Theatre Magazine*.
         link: https://www.americantheatre.org/2013/09/01/mona-mansour-urgent-tales-and-breakfast-table-politics/
@@ -84,23 +84,23 @@ grids:
 photos:
   heading: Photo Gallery
   items:
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_01-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_02-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_03-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_04-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_05-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_06-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_07-web.jpg
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/WeSwim_08-web.jpg
+    - image: /img/archive/2018/03/WeSwim_01-web.jpg
+    - image: /img/archive/2018/03/WeSwim_02-web.jpg
+    - image: /img/archive/2018/03/WeSwim_03-web.jpg
+    - image: /img/archive/2018/03/WeSwim_04-web.jpg
+    - image: /img/archive/2018/03/WeSwim_05-web.jpg
+    - image: /img/archive/2018/03/WeSwim_06-web.jpg
+    - image: /img/archive/2018/03/WeSwim_07-web.jpg
+    - image: /img/archive/2018/03/WeSwim_08-web.jpg
 cast:
   heading: Cast & Crew
   items:
-    - image: https://www.goldenthread.org/wp-content/uploads/2013/07/mona-headshot.jpg
+    - image: /img/archive/2013/07/mona-headshot.jpg
       name: Mona Mansour
       credit: Playwright
       bio: >
          This is<strong> Mona Mansour’s </strong>fourth production with Golden Thread, where she is a Resident Artist.<em> The Vagrant Trilogy</em> was recently produced at the Mosaic Theater in D.C., directed by Mark Wing-Davey. Of the trilogy, <em>The Hour of Feeling</em> premiered at the Humana Festival (directed by Wing-Davey), and a new Arabic translation was presented at NYU Abu Dhabi as part of its Arab Voices Festival; <em>Urge for Going</em> was produced at the Public Theater (directed by Hal Brooks) and at Golden Thread (directed by Odcikin); <em>The Vagrant</em> was workshopped at the Sundance Theater Institute. Other plays include <em>The Way West</em> (Labyrinth Theater, directed by Mimi O’Donnell; Steppenwolf, directed by Amy Morton; Marin Theatre Company, directed by Hayley Finn); <em>Unseen</em> (Gift Theater, directed by Maureen Payne-Hahner). Mona was a member of the Public Theater’s Emerging Writers Group and is a member of New Dramatists. With Tala Manassah, she has written <em>Falling Down the Stairs</em> recently part of Atlantic Theater’s Middle Eastern Mixfest, as well as short plays <em>Kamal’s Letter </em>and <em>The House, </em>both presented at Golden Thread’s ReOrient Festival. Their play <em>Dressing</em> is part of <em>Facing Our Truths: Short Plays About Trayvon, Race and Privilege</em>, a collection of plays commissioned by the New Black Festival. 2012 Whiting Award, 2014 Middle East America Distinguished Playwright Award, 2018 MacDowell Fellow. <a href="http://monamansour.com/">monamansour.com</a>
-    - image: https://www.goldenthread.org/wp-content/uploads/2018/03/Odcikin-Evren-300x300.jpg
+    - image: /img/archive/2018/03/Odcikin-Evren-300x300.jpg
       name: Evren Odcikin
       credit: Director
       bio: >
@@ -120,8 +120,7 @@ This play was commissioned by **Middle East America: A National New Plays Initia
 
 ## Reviews
 
-**HIGHEST RATING!** 
-"A unifying cleanse... Mansour’s disarmingly naturalistic dialogue helps make these seismic structural shifts work. Over and over again, you might find yourself thinking, “Wow, this is how people actually talk” — not to stoke drama for some playwright’s convenience, but to hedge, to test boundaries, to pursue what they want, and then to placate, to retreat, to regret." —Lily Janiak, *San Francisco Chronicle* [**(read full review)**](https://datebook.sfchronicle.com/theater/a-unifying-cleanse-in-sfs-golden-threads-we-swim-we-talk-we-go-to-war)
+HIGHEST RATING! "A unifying cleanse... Mansour's disarmingly naturalistic dialogue helps make these seismic structural shifts work. Over and over again, you might find yourself thinking, 'Wow, this is how people actually talk' — not to stoke drama for some playwright’s convenience, but to hedge, to test boundaries, to pursue what they want, and then to placate, to retreat, to regret." —Lily Janiak, *San Francisco Chronicle* [**(read full review)**](https://datebook.sfchronicle.com/theater/a-unifying-cleanse-in-sfs-golden-threads-we-swim-we-talk-we-go-to-war)
 
 "*We Swim* has an off-handed beauty... Its pleasures are engaging in ways that political theatre rarely is." —John Wilkins, *The Free Audience*
 
