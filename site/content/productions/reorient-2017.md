@@ -6,11 +6,15 @@ date: 2017-10-18T00:18:00.000Z
 start: 2017-11-18T00:18:00.000Z
 end: 2017-12-11T00:18:00.000Z
 heading: Think you know the Middle East? Think again.
-description: ReOrient 2017 will turn San Francisco into a mecca for innovative,
-  spirited, and thought-provoking theatre from or about the Middle East. Nowhere
-  else will you find plays and artists from Armenia, India, Iraq, Iran, Japan,
-  Lebanon, Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all
-  on one stage.
+description: >-
+  ReOrient 2017 will turn San Francisco into a mecca for innovative, spirited,
+  and thought-provoking theatre from or about the Middle East. Nowhere else will
+  you find plays and artists from Armenia, India, Iraq, Iran, Japan, Lebanon,
+  Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all on one
+  stage.
+
+
+  Selected through a competitive, international submission process, this year's playwrights include Bay Area writers: **Betty Shamieh**, **E.H. Benedict**, and **Torange Yeghiazarian**. Audience favorite of ReOrient 2015, Palestinian-Irish playwright **Hannah Khalil** returns this year. Turkish-American writer/performer **Melis Aker** andArmenian-American playwright **Sevan K. Greene** are the newcomers to the ReOrient family. Acclaimed Japanese-American poet **Junichi P. Semitsu**, whose poem *Shelter* will be adapted as a sound installation by Torange Yeghiazarian completes the line-up. The winning short plays are diverse in content and style, highlighting the multiplicity of Middle Eastern perspectives and identities.
 background: https://ucarecdn.com/0415511f-3f4c-489e-adef-6122ee2df29e/
 titleimage: https://ucarecdn.com/aba2dae5-1e5f-43c6-a59e-d5ea6dd8405d/
 program: https://ucarecdn.com/f3909467-a6c9-42d4-889d-56ddbd91b8b6/
@@ -39,46 +43,6 @@ misc: >-
 
   RUNNING TIME: 2 hours including one 15-minute intermission
 lists:
-  - items:
-      - title: War on Terror
-        subtitle: by E.H. Benedict, directed by Sara Razavi
-        text: Air travel is no picnic, especially if your non-English speaking Arab
-          mother is fed up and tired.
-        image: https://ucarecdn.com/a8a4f004-c70f-44cf-b700-c88c5e05e9eb/
-      - title: A is for Ali
-        subtitle: by Sevan K. Greene, directed by Sara Razavi
-        text: An Arab-American couple must choose a name for their unborn child. How
-          tough can it be?
-        image: https://ucarecdn.com/23718121-8b20-4eb3-95fb-154fb62d633f/
-      - subtitle: by Melis Aker, directed by Erin Gilley, dramaturged by Anna Woodruff
-        title: Manar
-        text: An American mother is convinced she recognizes her missing son in an ISIS
-          video.
-        image: https://ucarecdn.com/acc6424e-af3a-4cd1-a34d-b4f2f0cb3a4e/
-      - subtitle: by Betty Shamieh, directed by Susannah Martin, dramaturged by Nakissa
-          Etemad
-        title: Make No Mistake
-        text: What do Osama Bin Ladin’s young wife and an American president’s mistress
-          have in common?
-        image: https://ucarecdn.com/f3421f76-b269-40a3-91b4-496b51d04c29/
-      - subtitle: by Hannah Khalil, directed by Evren Odcikin
-        title: The Rehearsal
-        text: Three actors must find a way to rehearse a political play under the
-          watchful eye of the censors.
-        image: https://ucarecdn.com/0e49510c-edfd-4dfe-920a-78291020a8c1/
-      - title: Shelter
-        subtitle: poetry by Junichi P. Semitsu, stage soundscape adapted by Torange
-          Yeghiazarian and James Ard
-        text: An audio love poem from Hiroshima to Beirut to one mixed-race couple’s
-          intertwined destinies.
-        image: https://ucarecdn.com/3ceef03b-bfe7-4d20-b80d-6ceac77ad1b5/
-      - subtitle: by Torange Yeghiazarian, directed by Susannah Martin, dramaturged by
-          Nakissa Etemad
-        text: A leftie Iranian-American and a Trump supporter find themselves together
-          at a Thanksgiving dinner.
-        title: Thanksgiving at Khodabakhshian's
-        image: https://ucarecdn.com/52396b9f-0e2f-424f-b58c-3d5a100b2953/
-    heading: REORIENT 2017 LINE-UP
   - heading: ReOrient 2017 Forum Panels
     items:
       - title: "Centering the Margins: Immigrant Voices and Brown Bodies Claiming the
@@ -115,6 +79,73 @@ lists:
         image: https://ucarecdn.com/90f68238-bc04-4898-82a4-77dddb9f015f/
         link: https://goldenthread.secure.force.com/ticket/
         cta: RSVP Now
+  - items:
+      - title: War on Terror
+        subtitle: by E.H. Benedict, directed by Sara Razavi
+        text: >-
+          Air travel is no picnic, especially if your non-English speaking Arab
+          mother is fed up and tired.
+
+
+          **E.H. Benedict** (Playwright, War on Terror) is honored to be included in the ReOrient Festival, where her play Orhan was produced in 2012. Her plays have been developed locally and at the Lark (NYC). American Royals and Rashomon in Kansas were semifinalists for the O’Neill Playwrights Conference. Her short play Gloria Steinem & Lotte Lenya & Scout Are Waiting won best in festival at the WCPA in Westcliffe, CO. She is a 2016 TBA TITAN Award recipient and a member of the Dramatists Guild.
+        image: https://ucarecdn.com/a8a4f004-c70f-44cf-b700-c88c5e05e9eb/
+      - title: A is for Ali
+        subtitle: by Sevan K. Greene, directed by Sara Razavi
+        text: >-
+          An Arab-American couple must choose a name for their unborn child. How
+          tough can it be?
+
+
+          **Sevan K. Greene** (Playwright, A is for Ali) is an award-winning playwright and actor based in London and NYC. Sevan’s work has been seen at The Public Theater, New York Theatre Workshop, The Flea Theater, The Sheen Center, The Bush Theatre, Theatre Royal Stratford East, Theatre503, Rich Mix, and The Old Red Lion. He is a member of The Bush Theatre inaugural 2015 Emerging Writers Group, The Public Theater 2011 Emerging Writers Group, NYTW Usual Suspects, and the Rising Circle Theatre Collective 2010 InkTANK Lab. [sevangreene.com](sevangreene.com)
+        image: https://ucarecdn.com/23718121-8b20-4eb3-95fb-154fb62d633f/
+      - subtitle: by Melis Aker, directed by Erin Gilley, dramaturged by Anna Woodruff
+        title: Manar
+        text: >-
+          An American mother is convinced she recognizes her missing son in an
+          ISIS video.
+
+
+          **Melis Aker** (Playwright, Manar) is an actor, playwright, and musician from Turkey. Plays include Manar (LaMaMa, LaGuardia Performing Arts Center's Rough Draft Festival) and 330 Pegasus: A Love Letter (Part I) (Noor Theatre’s Highlight Series). Her Untitled Coup D’etat Play will receive a run at the Signature in 2018. She is writing the book for Tatiana Pandiani's Ruben Dario Project as part of the NYTW 2050 Fellowship. M.F.A. in Playwriting, Columbia University. [melisaker.com](melisaker.com)
+        image: https://ucarecdn.com/acc6424e-af3a-4cd1-a34d-b4f2f0cb3a4e/
+      - subtitle: by Betty Shamieh, directed by Susannah Martin, dramaturged by Nakissa
+          Etemad
+        title: Make No Mistake
+        text: >-
+          What do Osama Bin Ladin’s young wife and an American president’s
+          mistress have in common?
+
+
+          **Betty Shamieh** (Playwright, Make No Mistake) is the author of fifteen plays. Credits include The Strangest (The Semitic Root), Fit for the Queen (Classical Theatre of Harlem), The Black Eyed (New York Theatre Workshop, Magic Theatre), Territories (Magic Theatre), and Roar (The New Group). She was a Clifton Visiting Artist at Harvard College, a Playwriting Fellow at the Radcliffe Institute, a UNESCO Young Artist for Intercultural Dialogue, and a Guggenheim Fellow in Drama and Performance Art. M.F.A., Yale School of Drama. [bettyshamieh.com](bettyshamieh.com).
+        image: https://ucarecdn.com/f3421f76-b269-40a3-91b4-496b51d04c29/
+      - subtitle: by Hannah Khalil, directed by Evren Odcikin
+        title: The Rehearsal
+        text: >-
+          Three actors must find a way to rehearse a political play under the
+          watchful eye of the censors.
+
+
+          **Hannah Khalil**'s (Playwright, The Rehearsal) stage plays include The Scar Test (Soho Theatre, London; “Political Theatre at its best” —Exeunt); Scenes from 68* Years (Arcola Theatre, London; shortlisted for James Tait Black Award; “Confirms Khalil as a dramatist of compelling potential” —Daily Telegraph); Bitterenders (Golden Thread’s ReOrient 2015 Festival; winner of Sandpit Arts’ Bulbul 2013); Plan D (Tristan Bates Theatre; nominee, Meyer Whitworth Award); and Ring (winner, Soho Theatre London's Westminster Prize). Radio plays include Last of the Pearl Fishers and The Deportation Room for BBC Radio 4.
+        image: https://ucarecdn.com/0e49510c-edfd-4dfe-920a-78291020a8c1/
+      - title: Shelter
+        subtitle: poetry by Junichi P. Semitsu, stage soundscape adapted by Torange
+          Yeghiazarian and James Ard
+        text: An audio love poem from Hiroshima to Beirut to one mixed-race couple’s
+          intertwined destinies.
+        image: https://ucarecdn.com/3ceef03b-bfe7-4d20-b80d-6ceac77ad1b5/
+      - subtitle: by Torange Yeghiazarian, directed by Susannah Martin, dramaturged by
+          Nakissa Etemad
+        text: >-
+          A leftie Iranian-American and a Trump supporter find themselves
+          together at a Thanksgiving dinner.
+
+
+          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab's Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+
+
+          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
+        title: Thanksgiving at Khodabakhshian's
+        image: https://ucarecdn.com/52396b9f-0e2f-424f-b58c-3d5a100b2953/
+    heading: REORIENT 2017 LINE-UP
 grids:
   - heading: Golden Thread Productions and LMDA Partnership
     items:
@@ -190,7 +221,7 @@ cast:
     - name: Mustafa Kaymak
     - name: Daria Polatin
     - name: Lilly Thomassian
-    - name: "The selection committee for ReOrient 2017:"
+    - name: "The selection committee for ReOrient 2017: "
       bio: The selection committee for ReOrient 2017 included luminaries **Catherine
         Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
         Playwright Exchange at the Lark Play Development Center), **Philip Kan
@@ -219,6 +250,7 @@ photos:
     - image: https://ucarecdn.com/7e688f76-8dfb-4532-a87a-2037217aeb4f/
     - image: https://ucarecdn.com/c7d732f7-4226-41d3-82a5-9a6d02954556/
     - image: https://ucarecdn.com/ce79947d-b07a-47a7-8d3f-24388c22fbf1/
+archivevideo: a82lLH4zWXo
 bottom:
   text: Thanks to **San Francisco Arts Commission**, **National Endowment for the
     Arts**, **Walter & Elise Haas Fund**, **The Fleischhacker Foundation**,
