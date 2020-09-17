@@ -4,8 +4,8 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: >
-      1695 18th Street, Suite C101<br />
-      San Francisco, CA 94107
+      1695 18th Street, Suite C101  
+      San&nbsp;Francisco, CA 94107
   - heading: For more information
     text: >
       Call 415.626.4061 or email [information@goldenthread.org](information@goldenthread.org)
