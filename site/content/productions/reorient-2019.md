@@ -21,28 +21,23 @@ description: >-
   perspectives and identities.
 
 
-  “Humanity is at the core of ReOrient. **If theatre is community, it starts
-  here.** If the goal of theatre is to expand our viewpoint, to enrich our
-  knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark
-  Insider_
-background: 'https://ucarecdn.com/3d28da38-1e75-4372-a523-27ce622bdb33/'
+  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark Insider_
+background: https://ucarecdn.com/cffa23d2-0a39-4c47-a83d-a9503f5e912c/
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
+program: https://ucarecdn.com/06e82039-aef1-4eaf-b6f2-022ae916e52b/
 videos:
   - id: g1L6QbZCZPg
-director: 'Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian'
-featuring: >-
-  plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak,
-  Betty Shamieh, Niku Sharei, and Naomi Wallace
-additional: >-
-  Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle Bank, Kate
-  Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman, Scott
-  Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa Mirza,
-  Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk* and
-  Grisel Torres. *Member, Actors' Equity*
+director: Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian
+featuring: plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa
+  Kaymak, Betty Shamieh, Niku Sharei, and Naomi Wallace
+additional: "Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle
+  Bank, Kate Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman,
+  Scott Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa
+  Mirza, Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk*
+  and Grisel Torres. *Member, Actors' Equity*"
 stage: Potrero Stage
-address: '1695 18th Street, San Francisco'
-ticketlink: >-
-  https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
+address: 1695 18th Street, San Francisco
+ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
 misc: >
   30% off General Admission tickets for groups of 10 or more!<br />Contact
   [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your
@@ -51,10 +46,9 @@ lists:
   - heading: Middle Eastern and North African American Theatre Artists Convening
     items:
       - cta: Registration Info
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE
-        title: 'November 9 & 10, 2019'
-        pre: ''
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE
+        title: November 9 & 10, 2019
+        pre: ""
         subtitle: MENA & Muslim Artists Affinity Work Sessions
         text: >-
           Golden Thread Productions is thrilled to host a gathering of Middle
@@ -67,23 +61,17 @@ lists:
           voices, and deepen the impact of our work.
 
 
-          Registration is free, but advanced registration is strongly encouraged
-          to secure your space. Walk-up registration will be available on site,
-          space permitting. Also, Golden Thread has secured a limited number of
-          discounted hotel rooms during the Convening. Click here for more info
-          and reservation links. This offer expires October 13.
+          Registration is free, but advanced registration is strongly encouraged to secure your space. Walk-up registration will be available on site, space permitting. Also, Golden Thread has secured a limited number of discounted hotel rooms during the Convening. Click here for more info and reservation links. This offer expires October 13.
 
 
-          **For more information and a full schedule, click**
-          [**here**](https://goldenthread.org/posts/reorient-2019-national-convening-of-mena-theatre-artists/)**.**
+          **For more information and a full schedule, click** [**here**](https://goldenthread.org/posts/reorient-2019-national-convening-of-mena-theatre-artists/)**.**
 
 
-          **For hotel discounts during the convening, click**
-          [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
+          **For hotel discounts during the convening, click** [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
-        subtitle: 'by Yussef El Guindi, directed by Torange Yeghiazarian'
+        subtitle: by Yussef El Guindi, directed by Torange Yeghiazarian
         text: >
           A Muslim woman must give herself a pep talk before leaving the house
           wearing her weapon. Egyptian-American playwright Yussef El Guindi
@@ -102,7 +90,7 @@ lists:
         title: |
           Brass Knuckles
       - image: /img/archive/2017/11/Heywood-Rendah-300x300.jpg
-        subtitle: 'by Rendah Heywood, directed by Lisa Marie Rollins'
+        subtitle: by Rendah Heywood, directed by Lisa Marie Rollins
         text: >
           A successful banker joins a secret society to feed her most
           unconventional desires. Will the enterprise be more than she bargained
@@ -121,7 +109,7 @@ lists:
         title: |
           The Grievance Club
       - image: /img/archive/2017/11/Issaq-Lameece-300x300.jpg
-        subtitle: 'by Lameece Issaq, directed by Rebecca Novick'
+        subtitle: by Lameece Issaq, directed by Rebecca Novick
         text: >
           Two Syrian children are alone in the rubble of a war zone. Can
           <em>Harry Potter</em> save them? Noor Theatre Artistic Director
@@ -143,7 +131,7 @@ lists:
         title: |
           Noor and Hadi Go to Hogwarts
       - image: /img/archive/2017/11/Kaymak-Mustafa-300x300.jpg
-        subtitle: 'by Mustafa Kaymak, directed by Michael French'
+        subtitle: by Mustafa Kaymak, directed by Michael French
         text: >
           In a police station in southeastern Turkey, Kurdish journalist Ayca is
           interviewing a lieutenant about the disappearance of activists. Very
@@ -162,7 +150,7 @@ lists:
         title: |
           The Basement
       - image: /img/archive/2017/06/Headshot_BettyShamieh_300x300.jpg
-        subtitle: 'by Betty Shamieh, directed by Michael French'
+        subtitle: by Betty Shamieh, directed by Michael French
         text: >
           A Palestinian teacher is in trouble for teaching <em>The Diary of Anne
           Frank</em> to her pupils. You would never believe who’s laughing at
@@ -185,7 +173,7 @@ lists:
         title: |
           An Echo of Laughter
       - image: /img/archive/2017/11/Sharei-Niku-300x300.jpg
-        subtitle: 'by Niku Sharei, directed by Lisa Marie Rollins'
+        subtitle: by Niku Sharei, directed by Lisa Marie Rollins
         text: >
           In the not-so-distant future, new immigrant Meetoo must assimilate in
           her new home nation of Spenglia. What is she willing to give up to
@@ -204,7 +192,7 @@ lists:
         title: |
           In Spenglic
       - image: /img/archive/2017/11/Wallace-Naomi-300x300.jpg
-        subtitle: 'by Naomi Wallace, directed by Rebecca Novick'
+        subtitle: by Naomi Wallace, directed by Rebecca Novick
         text: >
           The view is exceptionally breathtaking up in the Yemeni sky as a
           &#8220;bird&#8221; approaches Mima reading her storybook. MacArthur
@@ -225,32 +213,24 @@ grids:
   - heading: Dramaturgs Dive Deep in ReOrient 2019
     items:
       - cta: Read more
-        image: 'https://ucarecdn.com/d3df5a98-71d9-4917-a2c6-a3ffe7994e2d/'
-        link: >-
-          https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
-        subtitle: ''
-        text: >-
-          This year's festival cements Golden Thread Productions’ longtime
-          working relationships with Yussef El Guindi, Betty Shamieh, and Naomi
-          Wallace.
+        image: https://ucarecdn.com/d3df5a98-71d9-4917-a2c6-a3ffe7994e2d/
+        link: https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
+        subtitle: ""
+        text: This year's festival cements Golden Thread Productions’ longtime working
+          relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
         title: A Homecoming for Golden Thread Alumni
       - cta: Read more
-        image: 'https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/'
-        link: 'https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/'
-        text: >-
-          Meet four writers who are brand-new to the festival, all clearly at
-          home in ReOrient, celebrating its 20th anniversary this year.
+        image: https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/
+        link: https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/
+        text: Meet four writers who are brand-new to the festival, all clearly at home
+          in ReOrient, celebrating its 20th anniversary this year.
         title: Brave New Voices in ReOrient 2019
       - cta: Read more
-        image: >-
-          https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
-        link: >-
-          https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
-        subtitle: ''
-        text: >-
-          The twentieth anniversary of the ReOrient Festival of Short Plays
-          began with an incubation weekend that Golden Thread calls “ReOrient
-          Camp.”
+        image: https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
+        link: https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
+        subtitle: ""
+        text: The twentieth anniversary of the ReOrient Festival of Short Plays began
+          with an incubation weekend that Golden Thread calls “ReOrient Camp.”
         title: Weaving the Golden Thread at ReOrient 2019 Camp
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
@@ -270,30 +250,41 @@ cast:
 photos:
   heading: ReOrient 2019
   items:
-    - image: 'https://ucarecdn.com/6bc21860-3564-4fa9-b82e-94c022bc439c/'
-    - image: 'https://ucarecdn.com/376f3817-a2d1-42de-8a89-9b87d3ad45a9/'
-    - image: 'https://ucarecdn.com/76909d2d-2c33-4d92-8395-74ba6c3eceaa/'
-    - image: 'https://ucarecdn.com/cd5731b3-e88c-4e9d-b17b-1e2ee8f044a2/'
-    - image: 'https://ucarecdn.com/3bc0b135-5721-48bc-9d45-afca422d0619/'
-    - image: 'https://ucarecdn.com/c13f410c-6df8-48ee-a2a5-566180a2bd4d/'
-    - image: 'https://ucarecdn.com/7bcd1b0e-26b8-4e59-a6ab-c95705623233/'
-    - image: 'https://ucarecdn.com/cf9f49ee-c237-464c-8912-a5eb24744eee/'
-    - image: 'https://ucarecdn.com/6b91d759-66fc-4584-9c09-d24203db9dfa/'
-    - image: 'https://ucarecdn.com/e18164ae-d5c0-409d-9661-8f900df5e46f/'
-    - image: 'https://ucarecdn.com/d427006b-b5ed-430c-b745-f6b47faf4f0c/'
-    - image: 'https://ucarecdn.com/a16b1920-7cd5-4b3e-9ad5-343b0659f7b3/'
-    - image: 'https://ucarecdn.com/b3176e14-232c-421a-a859-e79d96589857/'
-    - image: 'https://ucarecdn.com/d2e37a71-d4d0-4c8c-a0ab-f4a454f855af/'
-    - image: 'https://ucarecdn.com/78d5bd7f-2588-4deb-bfc2-e460f48b8f5c/'
-    - image: 'https://ucarecdn.com/f8a3665a-9437-4cf8-8eee-c093d257b044/'
-    - image: 'https://ucarecdn.com/5f9e025b-5185-46d7-8a6f-159a368a5aa7/'
-    - image: 'https://ucarecdn.com/75dbafdf-c7f7-4d7e-91ca-0ebf0297e920/'
-    - image: 'https://ucarecdn.com/df7b8853-3ead-45d0-a560-8e3af26dfa7a/'
-    - image: >-
-        https://ucarecdn.com/44fcee0f-0365-4386-af94-059ea5825006/-/crop/1607x1072/0,0/-/preview/
-    - image: 'https://ucarecdn.com/ce129b22-efa2-47c0-99a0-dacd336b6e3a/'
+    - image: https://ucarecdn.com/6bc21860-3564-4fa9-b82e-94c022bc439c/
+    - image: https://ucarecdn.com/376f3817-a2d1-42de-8a89-9b87d3ad45a9/
+    - image: https://ucarecdn.com/76909d2d-2c33-4d92-8395-74ba6c3eceaa/
+    - image: https://ucarecdn.com/cd5731b3-e88c-4e9d-b17b-1e2ee8f044a2/
+    - image: https://ucarecdn.com/3bc0b135-5721-48bc-9d45-afca422d0619/
+    - image: https://ucarecdn.com/c13f410c-6df8-48ee-a2a5-566180a2bd4d/
+    - image: https://ucarecdn.com/7bcd1b0e-26b8-4e59-a6ab-c95705623233/
+    - image: https://ucarecdn.com/cf9f49ee-c237-464c-8912-a5eb24744eee/
+    - image: https://ucarecdn.com/6b91d759-66fc-4584-9c09-d24203db9dfa/
+    - image: https://ucarecdn.com/e18164ae-d5c0-409d-9661-8f900df5e46f/
+    - image: https://ucarecdn.com/d427006b-b5ed-430c-b745-f6b47faf4f0c/
+    - image: https://ucarecdn.com/a16b1920-7cd5-4b3e-9ad5-343b0659f7b3/
+    - image: https://ucarecdn.com/b3176e14-232c-421a-a859-e79d96589857/
+    - image: https://ucarecdn.com/d2e37a71-d4d0-4c8c-a0ab-f4a454f855af/
+    - image: https://ucarecdn.com/78d5bd7f-2588-4deb-bfc2-e460f48b8f5c/
+    - image: https://ucarecdn.com/f8a3665a-9437-4cf8-8eee-c093d257b044/
+    - image: https://ucarecdn.com/5f9e025b-5185-46d7-8a6f-159a368a5aa7/
+    - image: https://ucarecdn.com/75dbafdf-c7f7-4d7e-91ca-0ebf0297e920/
+    - image: https://ucarecdn.com/df7b8853-3ead-45d0-a560-8e3af26dfa7a/
+    - image: https://ucarecdn.com/44fcee0f-0365-4386-af94-059ea5825006/-/crop/1607x1072/0,0/-/preview/
+    - image: https://ucarecdn.com/ce129b22-efa2-47c0-99a0-dacd336b6e3a/
+    - image: https://ucarecdn.com/3d0900fe-3926-483d-9ae3-28c56fff8d4b/
+    - image: https://ucarecdn.com/5fb2ff4b-64f9-4927-a655-a57dab2eb1a9/
+archivevideo: XA04R6bdfIE
 bottom:
-  text: "The selection committee for ReOrient 2019 included <strong>Nora el Samahy\_</strong> (Actor),\_<strong>Rebecca Novick</strong>\_(Director),\_<strong>Handan Ozbilgin\_</strong>(Associate Artistic Director, LaGuardia Performing Arts Center), and\_<strong>Roberto Gutierrez Varea</strong>\_(Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director\_<strong>Torange Yeghiazarian</strong>,\_Director of New Plays <strong>Evren Odcikin</strong>, and Literary Associate\_<strong>Hala Baki</strong>\_were also part of the committee.<br /><br /> ReOrient Festival of Short Plays was inaugurated in 1999 to present alternative perspectives of the Middle East and to showcase the multiplicity of stories, voices, and styles from the region and has since become Golden Thread’s most recognized and celebrated program. This ambitious festival, now presented biennially, turns San Francisco into a mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. In the last 20 years, it has presented 89 plays by 59 playwrights and translators. ReOrient serves as a showcase for the work of leading Middle Eastern-American writers like Yussef El Guindi, Mona Mansour, and Betty Shamieh, while continuing to help launch careers of emerging talent from Middle Eastern communities. The festival has also introduced Bay Area audiences to significant and rarely-produced dramatic works from the Middle East by authors such as Sadegh Hedayat, Fatma Gallaire, and Tawfiq Al-Hakim. Alongside Middle Eastern voices, ReOrient also features the work of non-Middle Eastern playwrights exploring the region, and has included premieres by such distinguished American playwrights such as Naomi Wallace, Eric Ehn, and Israel Horovitz."
+  text: >-
+    California Arts Council, San Francisco Arts Commission, The William and
+    Flora Hewlett Foundation, Walter & Elise Haas Fund, The Center for Middle
+    Eastern Studies at UC Berkeley, University of San Francisco Performance &
+    Social Justice Program, Literary Managers and Dramaturgs of the Americas,
+    May Allam, and Artin Der Minassians.
+
+
+    The selection committee for ReOrient 2019 included <strong>Nora el Samahy </strong> (Actor), <strong>Rebecca Novick</strong> (Director), <strong>Handan Ozbilgin </strong>(Associate Artistic Director, LaGuardia Performing Arts Center), and <strong>Roberto Gutierrez Varea</strong> (Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director <strong>Torange Yeghiazarian</strong>, Director of New Plays <strong>Evren Odcikin</strong>, and Literary Associate <strong>Hala Baki</strong> were also part of the committee.<br /><br /> ReOrient Festival of Short Plays was inaugurated in 1999 to present alternative perspectives of the Middle East and to showcase the multiplicity of stories, voices, and styles from the region and has since become Golden Thread’s most recognized and celebrated program. This ambitious festival, now presented biennially, turns San Francisco into a mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. In the last 20 years, it has presented 89 plays by 59 playwrights and translators. ReOrient serves as a showcase for the work of leading Middle Eastern-American writers like Yussef El Guindi, Mona Mansour, and Betty Shamieh, while continuing to help launch careers of emerging talent from Middle Eastern communities. The festival has also introduced Bay Area audiences to significant and rarely-produced dramatic works from the Middle East by authors such as Sadegh Hedayat, Fatma Gallaire, and Tawfiq Al-Hakim. Alongside Middle Eastern voices, ReOrient also features the work of non-Middle Eastern playwrights exploring the region, and has included premieres by such distinguished American playwrights such as Naomi Wallace, Eric Ehn, and Israel Horovitz.
+  heading: Thanks to our generous sponsors of ReOrient 2019
 ---
 ![](https://ucarecdn.com/a6c035a7-09ab-4d46-8c5e-c440bf2bdcd0/)
 
