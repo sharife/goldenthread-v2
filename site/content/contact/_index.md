@@ -5,7 +5,8 @@ contact_entries:
   - heading: Location
     text: >
       1695 18th Street, Suite C101  
-      San&nbsp;Francisco, CA 94107
+      San&nbsp;Francisco, CA 94107  <br />
+      <span style="font-size:0.7rem;">The ancestral lands of the Ramaytush Ohlone</span>
   - heading: For more information
     text: >
       Call 415.626.4061 or email [information@goldenthread.org](information@goldenthread.org)
