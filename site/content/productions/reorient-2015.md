@@ -19,67 +19,70 @@ address: 470 Florida Street, SF
 lists:
   - heading: ReOrient 2015 Line-up
     items:
-      - subtitle: "***Picking Up the Scent*** by Yussef El Guindi, directed by Evren
-          Odcikin"
+      - subtitle: by Yussef El Guindi, directed by Evren Odcikin
         pre: World Premiere
         text: Hisham, an archeologist, discovers an ancient perfume bottle in a war
           zone. As he digs deeper, his poet wife Nisrin questions if it’s worth
           risking his life for history.
         image: https://ucarecdn.com/f310445a-5d38-4f2d-8ac0-6d1e255752d5/
+        title: Picking Up the Scent
       - pre: US Premiere
-        subtitle: "***Turning Tricks*** by Silva Semerciyan, directed by Erin Gilley"
+        subtitle: by Silva Semerciyan, directed by Erin Gilley
         text: Slavery is hidden in plain sight in the wealthy London of the
           not-so-distant future. But the players are not who you would expect.
           *(Contains mature content)*
         image: https://ucarecdn.com/b496c886-07d2-4762-96be-451add8dadde/
-      - subtitle: "***Bitterenders*** by Hannah Khalil, directed by Manijeh Mohamedi"
+        title: Turning Tricks
+      - subtitle: by Hannah Khalil, directed by Manijeh Mohamedi
         pre: World Premiere
         text: Maha’s Palestinian family shares their East Jerusalem apartment with an
           Israeli family, until a surprising letter changes everything—or does
           it?
         image: https://ucarecdn.com/db02112d-d286-4cd5-9895-b852ca7a0502/
+        title: Bitterenders
       - pre: World Premiere
-        subtitle: "***Counting in Sha’ab*** by Emma Goldman-Sherman, directed by Erin
-          Gilley"
+        subtitle: by Emma Goldman-Sherman, directed by Erin Gilley
         text: Life goes on for Mr. Hattab and a colorful cast of characters from his
           bustling Baghdad neighborhood despite a bomb going off in front of his
           grocery store.
         image: https://ucarecdn.com/86c036d5-7aff-4e0f-9f62-cf975bfd894e/
-      - title: ""
+        title: Counting in Sha’ab
+      - title: Lost Kingdom
         pre: US Premiere
-        subtitle: "***Lost Kingdom*** by Hassan Abdulrazzak, directed by Michael French"
+        subtitle: by Hassan Abdulrazzak, directed by Michael French
         text: When a Lebanese-American FBI agent is called in to interrogate a fallen
           dictator, a twisted tango ensues that complicates black and white
           notions of good and evil.
         image: https://ucarecdn.com/7a11ef78-e934-4e79-a447-61a2796cd739/
       - pre: World Premiere
-        subtitle: "***Reaching Out*** - Inspired by Golden Thread’s global theatre
-          collaboration, [Project
-          Alo](https://web.archive.org/web/20170906233850/http://www.goldenthre\
-          ad.org/alo/), conceived and co-directed by Torange Yeghiazarian,
-          edited and co-directed by Erin Gilley"
+        subtitle: Inspired by Golden Thread’s global theatre collaboration, [Project
+          Alo](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/alo/),
+          conceived and co-directed by Torange Yeghiazarian, edited and
+          co-directed by Erin Gilley
         text: See what happens when pairs of artists, one based in the US and one in the
           Middle East, are asked to communicate through video clips captured
           entirely on cell-phones.
         image: https://ucarecdn.com/a81760cf-4f4f-49cb-a315-216f66371796/
-      - subtitle: "***Ceasefire*** by Ken Kaissar, directed by Evren Odcikin"
+        title: Reaching Out
+      - subtitle: by Ken Kaissar, directed by Evren Odcikin
         pre: West Coast Premiere
         text: Can a ceasefire allow Israeli and Lebanese soldiers patrolling the border
           to see each other as something other than enemy?
         image: https://ucarecdn.com/1e04a1f0-74f9-44cb-ac78-83dc93ba76c8/
-      - subtitle: "***Songs of Our Childhood*** by Nahal Navidar, directed by Sara
-          Razavi"
+        title: Ceasefire
+      - subtitle: by Nahal Navidar, directed by Sara Razavi
         pre: World Premiere
         text: Childhood friends, Mira and Sanaz, work as triage nurses during the
           Iran-Iraq War. But it’s their ideological battles that threaten the
           peace inside the hospital.
         image: https://ucarecdn.com/2c4d254c-809b-4942-8254-49f924ff0dab/
-      - subtitle: "***The House*** by Tala Manassah and Mona Mansour, directed by Sara
-          Razavi"
+        title: Songs of Our Childhood
+      - subtitle: by Tala Manassah and Mona Mansour, directed by Sara Razavi
         pre: West Coast Premiere
         text: Kamal, a Palestinian-American scientist, and his philosopher daughter Alia
           put on a play and take an imaginary trip to his childhood home.
         image: https://ucarecdn.com/808913fe-cf12-4676-bbd0-5ca260320a47/
+        title: The House
   - items:
       - cta: Read More
         text: “Humanity is at the core of ReOrient. **If theater is community, it starts
