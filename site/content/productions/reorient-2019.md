@@ -22,7 +22,7 @@ description: >-
 
 
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark Insider_
-background: https://ucarecdn.com/cffa23d2-0a39-4c47-a83d-a9503f5e912c/
+background: https://ucarecdn.com/cffa23d2-0a39-4c47-a83d-a9503f5e912c/-/crop/881x480/0,0/-/preview/
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 program: https://ucarecdn.com/06e82039-aef1-4eaf-b6f2-022ae916e52b/
 videos:
