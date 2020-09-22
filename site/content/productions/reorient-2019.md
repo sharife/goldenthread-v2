@@ -248,7 +248,7 @@ cast:
     - credit: Bullseye
       name: Edessa Tailo
 photos:
-  heading: ReOrient 2019
+  heading: ReOrient 2019 Photo Gallery
   items:
     - image: https://ucarecdn.com/6bc21860-3564-4fa9-b82e-94c022bc439c/
     - image: https://ucarecdn.com/376f3817-a2d1-42de-8a89-9b87d3ad45a9/
@@ -283,7 +283,7 @@ bottom:
     May Allam, and Artin Der Minassians.
 
 
-    The selection committee for ReOrient 2019 included <strong>Nora el Samahy </strong> (Actor), <strong>Rebecca Novick</strong> (Director), <strong>Handan Ozbilgin </strong>(Associate Artistic Director, LaGuardia Performing Arts Center), and <strong>Roberto Gutierrez Varea</strong> (Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director <strong>Torange Yeghiazarian</strong>, Director of New Plays <strong>Evren Odcikin</strong>, and Literary Associate <strong>Hala Baki</strong> were also part of the committee.<br /><br /> ReOrient Festival of Short Plays was inaugurated in 1999 to present alternative perspectives of the Middle East and to showcase the multiplicity of stories, voices, and styles from the region and has since become Golden Thread’s most recognized and celebrated program. This ambitious festival, now presented biennially, turns San Francisco into a mecca for innovative, spirited, and thought-provoking theatre from and about the Middle East. In the last 20 years, it has presented 89 plays by 59 playwrights and translators. ReOrient serves as a showcase for the work of leading Middle Eastern-American writers like Yussef El Guindi, Mona Mansour, and Betty Shamieh, while continuing to help launch careers of emerging talent from Middle Eastern communities. The festival has also introduced Bay Area audiences to significant and rarely-produced dramatic works from the Middle East by authors such as Sadegh Hedayat, Fatma Gallaire, and Tawfiq Al-Hakim. Alongside Middle Eastern voices, ReOrient also features the work of non-Middle Eastern playwrights exploring the region, and has included premieres by such distinguished American playwrights such as Naomi Wallace, Eric Ehn, and Israel Horovitz.
+    The selection committee for ReOrient 2019 included <strong>Nora el Samahy </strong> (Actor), <strong>Rebecca Novick</strong> (Director), <strong>Handan Ozbilgin </strong>(Associate Artistic Director, LaGuardia Performing Arts Center), and <strong>Roberto Gutierrez Varea</strong> (Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director <strong>Torange Yeghiazarian</strong>, Director of New Plays <strong>Evren Odcikin</strong>, and Literary Associate <strong>Hala Baki</strong> were also part of the committee.<br /><br />
   heading: Thanks to our generous sponsors of ReOrient 2019
 ---
 ![](https://ucarecdn.com/a6c035a7-09ab-4d46-8c5e-c440bf2bdcd0/)
