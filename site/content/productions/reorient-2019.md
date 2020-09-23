@@ -257,22 +257,11 @@ photos:
     - image: https://ucarecdn.com/3bc0b135-5721-48bc-9d45-afca422d0619/
     - image: https://ucarecdn.com/c13f410c-6df8-48ee-a2a5-566180a2bd4d/
     - image: https://ucarecdn.com/7bcd1b0e-26b8-4e59-a6ab-c95705623233/
-    - image: https://ucarecdn.com/cf9f49ee-c237-464c-8912-a5eb24744eee/
-    - image: https://ucarecdn.com/6b91d759-66fc-4584-9c09-d24203db9dfa/
-    - image: https://ucarecdn.com/e18164ae-d5c0-409d-9661-8f900df5e46f/
-    - image: https://ucarecdn.com/d427006b-b5ed-430c-b745-f6b47faf4f0c/
-    - image: https://ucarecdn.com/a16b1920-7cd5-4b3e-9ad5-343b0659f7b3/
-    - image: https://ucarecdn.com/b3176e14-232c-421a-a859-e79d96589857/
-    - image: https://ucarecdn.com/d2e37a71-d4d0-4c8c-a0ab-f4a454f855af/
-    - image: https://ucarecdn.com/78d5bd7f-2588-4deb-bfc2-e460f48b8f5c/
-    - image: https://ucarecdn.com/f8a3665a-9437-4cf8-8eee-c093d257b044/
-    - image: https://ucarecdn.com/5f9e025b-5185-46d7-8a6f-159a368a5aa7/
-    - image: https://ucarecdn.com/75dbafdf-c7f7-4d7e-91ca-0ebf0297e920/
+    - image: https://ucarecdn.com/3d0900fe-3926-483d-9ae3-28c56fff8d4b/
+    - image: https://ucarecdn.com/5fb2ff4b-64f9-4927-a655-a57dab2eb1a9/
     - image: https://ucarecdn.com/df7b8853-3ead-45d0-a560-8e3af26dfa7a/
     - image: https://ucarecdn.com/44fcee0f-0365-4386-af94-059ea5825006/-/crop/1607x1072/0,0/-/preview/
     - image: https://ucarecdn.com/ce129b22-efa2-47c0-99a0-dacd336b6e3a/
-    - image: https://ucarecdn.com/3d0900fe-3926-483d-9ae3-28c56fff8d4b/
-    - image: https://ucarecdn.com/5fb2ff4b-64f9-4927-a655-a57dab2eb1a9/
 archivevideo: XA04R6bdfIE
 bottom:
   text: >-
