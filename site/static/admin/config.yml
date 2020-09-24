@@ -101,6 +101,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Bio", name: "bio", widget: "markdown", required: false}
               - {label: "Link", name: "link", widget: "string", required: false}
               - {label: "Alt. Text", name: "text", widget: "markdown", required: false}
+      - label: More Information
+        name: mentions
+        widget: object
+        fields:
+          - {label: "Heading", name: "heading", widget: "string", required: false}
+          - {label: "Text", name: "text", widget: "markdown", required: false}
       - label: Photo Gallery 1
         name: photos
         widget: object
@@ -135,12 +141,6 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Image, name: image, widget: image, required: false}
       - {label: Archival video (YouTube ID), name: archivevideo, widget: string, required: false}
-      - label: Honorary Mentions
-        name: mentions
-        widget: object
-        fields:
-          - {label: "Heading", name: "heading", widget: "string", required: false}
-          - {label: "Text", name: "text", widget: "markdown", required: false}
       - label: Sponsors/Bottom
         name: bottom
         widget: object
