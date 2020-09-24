@@ -1,30 +1,30 @@
 ---
 title: What Do the Women Say? 2020
-pre: 'Power, Privilege, and Agency'
+pre: Power, Privilege, and Agency
 season: 2020
 date: 2019-09-05T23:37:38.180Z
 start: 2020-03-08T23:37:38.209Z
-end: ''
-heading: 'Celebrating the Centennial of U.S. Women’s Right to Vote '
-description: >-
-  **THIS EVENT HAS BEEN CANCELLED**<br />
-  Due to the release of aggressive new recommendations against COVID-19 from the SF Department of Public Health to cancel large community events, we have decided to cancel Sunday, March 8th's Women's Day event in the interest of public health. We will refund all tickets in full.<br /><hr />
-  Each year, Golden Thread celebrates International Women’s Day with What Do the
-  Women Say?, a curated evening showcasing the work of leading Middle Eastern
-  women artists. The year 2020's theme is Power, Privilege, and Agency: an
-  artistic exploration of the 100th anniversary of the passage of the 19th
-  Amendment, guaranteeing and protecting \[white] women's constitutional right
-  to vote in the U.S.
-background: 'https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/'
+end: ""
+heading: "Celebrating the Centennial of U.S. Women’s Right to Vote "
+description: "**THIS EVENT HAS BEEN CANCELLED**<br /> Due to the release of
+  aggressive new recommendations against COVID-19 from the SF Department of
+  Public Health to cancel large community events, we have decided to cancel
+  Sunday, March 8th's Women's Day event in the interest of public health. We
+  will refund all tickets in full.<br /><hr /> Each year, Golden Thread
+  celebrates International Women’s Day with What Do the Women Say?, a curated
+  evening showcasing the work of leading Middle Eastern women artists. The year
+  2020's theme is Power, Privilege, and Agency: an artistic exploration of the
+  100th anniversary of the passage of the 19th Amendment, guaranteeing and
+  protecting \\[white] women's constitutional right to vote in the U.S."
+background: https://ucarecdn.com/146ffef3-4fbf-4191-a119-008f6d103d7b/
 stage: Brava Theater Center
-address: '2781 24th St, San Francisco, CA 94110'
-ticketlink: 'https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA'
-visitlink: '/about/visit/brava'
+address: 2781 24th St, San Francisco, CA 94110
+visitlink: /about/visit/brava
+ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA
 cast:
   heading: Artist Bios
   items:
-    - bio: >-
-        **Kathreen Khavari** is an Iranian-American actress, writer & producer
+    - bio: "**Kathreen Khavari** is an Iranian-American actress, writer & producer
         whose short parody called “Brain of Terror” went viral. She was recently
         seen on two HBO projects: Issa Rae’s hit series *INSECURE* as Patricia,
         Issa’s sharp-witted and snarky co-worker; and in Jean-Marc Valle’s
@@ -35,11 +35,10 @@ cast:
         in the Disney-Marvel animated series *MARVEL: AVENGERS ASSEMBLE* and
         *MARVEL RISING*. Her Oakland-based pilot, *EMBRACE*—which she co-wrote
         and starred in— premiered at the 2020 Sundance Film Festival as an Indie
-        Episodic selection.
-      image: '/img/profile-KathreenKhavari.jpg'
+        Episodic selection."
+      image: /img/profile-KathreenKhavari.jpg
       name: Kathreen Khavari
-    - bio: >-
-        **Naghmeh Samini** is an award-winning playwright, scriptwriter and
+    - bio: "**Naghmeh Samini** is an award-winning playwright, scriptwriter and
         Assistant Professor in Dramatic Literature at the Faculty of Music and
         Performing Arts, University of Tehran. Her plays, including *Sleeping in
         an Empty Cup*, *Sky Horses Rain Ashes*, *Making Faces*, and *The Home*
@@ -56,39 +55,37 @@ cast:
         body in post-war Japanese cinema. Naghmeh was born in Iran and holds a
         BA in Drama and a Masters of Arts in Cinema from the University of
         Tehran. Her PhD thesis at the University of Tarbiat Modarres in Tehran
-        focused on Drama and Mythology.
-      image: 'https://ucarecdn.com/27af25ec-1a88-4b1e-a367-489a333a55d8/'
+        focused on Drama and Mythology."
+      image: https://ucarecdn.com/27af25ec-1a88-4b1e-a367-489a333a55d8/
       name: Naghmeh Samini
-    - bio: >-
-        **Basma Edrees** is a graduate of The Juilliard School where she
-        received her Master’s in Violin Performance. She performed under the
-        batons of many great conductors including Alan Gilbert and Daniel
-        Barenboim. Basma has served as Associate Concert Master of the Oakland
-        Symphony during their 2015-2016 season. She also worked with the San
-        Francisco Ballet Orchestra as well as the Santa Rosa Symphony. Basma has
-        performed as a soloist in various countries including the USA,
-        Montenegro, Ethiopia and her native country, Egypt. Equally at home with
-        Arabic music, Basma performed with renowned musicians from the Arab
-        world and has been invited to give Arabic Music workshops at UC Berkeley
-        and Stanford. She has also taught Arabic music at the San Francisco
-        Conservatory of Music. She has held the position of Music Director of
-        the Aswat Women Ensemble for four years; an all female Bay Area
-        community ensemble specializing in Arab music. She also served as the
-        co-manager and instructor of the Aswat Women Empowerment Program during
-        their 2019 Fall season; a program designed to empower women of Arab
-        descent through the study of their own rich musical tradition. Basma’s
-        proficiency in Music Theory earned her assistant teaching positions as
-        well as teaching fellowships at The Juilliard School while she was a
-        student there. She is currently a member of the Music Theory faculty at
-        the San Francisco Conservatory of Music. In addition to her performance
-        career, Basma loves to compose her own music. Her compositions reflect a
-        union of her Western contrapuntal training and her Eastern Egyptian
-        roots in a musical style that reflects her rich musical upbringing.
-      image: 'https://ucarecdn.com/b19b9ea1-7a54-4c4a-9dd4-6d2210c5dbc7/'
+    - bio: "**Basma Edrees** is a graduate of The Juilliard School where she received
+        her Master’s in Violin Performance. She performed under the batons of
+        many great conductors including Alan Gilbert and Daniel Barenboim. Basma
+        has served as Associate Concert Master of the Oakland Symphony during
+        their 2015-2016 season. She also worked with the San Francisco Ballet
+        Orchestra as well as the Santa Rosa Symphony. Basma has performed as a
+        soloist in various countries including the USA, Montenegro, Ethiopia and
+        her native country, Egypt. Equally at home with Arabic music, Basma
+        performed with renowned musicians from the Arab world and has been
+        invited to give Arabic Music workshops at UC Berkeley and Stanford. She
+        has also taught Arabic music at the San Francisco Conservatory of Music.
+        She has held the position of Music Director of the Aswat Women Ensemble
+        for four years; an all female Bay Area community ensemble specializing
+        in Arab music. She also served as the co-manager and instructor of the
+        Aswat Women Empowerment Program during their 2019 Fall season; a program
+        designed to empower women of Arab descent through the study of their own
+        rich musical tradition. Basma’s proficiency in Music Theory earned her
+        assistant teaching positions as well as teaching fellowships at The
+        Juilliard School while she was a student there. She is currently a
+        member of the Music Theory faculty at the San Francisco Conservatory of
+        Music. In addition to her performance career, Basma loves to compose her
+        own music. Her compositions reflect a union of her Western contrapuntal
+        training and her Eastern Egyptian roots in a musical style that reflects
+        her rich musical upbringing."
+      image: https://ucarecdn.com/b19b9ea1-7a54-4c4a-9dd4-6d2210c5dbc7/
       name: Basma Edrees
-    - bio: >-
-        **Ava Nazar** is a San Francisco Bay Area-based pianist. Born in Iran,
-        she has had numerous performances as soloist and chamber musician in her
+    - bio: "**Ava Nazar** is a San Francisco Bay Area-based pianist. Born in Iran, she
+        has had numerous performances as soloist and chamber musician in her
         home country and across the United States in venues such as the United
         Nations, Merkin Hall, National Sawdust, American Museum of Natural
         History, and Montgomery Museum of Fine Arts. Ava has been featured at
@@ -111,42 +108,39 @@ cast:
         organization which brings art to communities in need. In addition, she
         has worked as a teaching artist fellow with the ArtistYear organization,
         whose mission is to increase arts access and education for underserved
-        youth in America through an arts-focused national service year.
-      image: 'https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/'
+        youth in America through an arts-focused national service year."
+      image: https://ucarecdn.com/1cbc1624-ce26-48c3-9e28-cc2189037f3f/
       name: Ava Nazar
-    - bio: >-
-        **Aisan Hoss** and Dancers produce Iranian/Contemporary dance pieces that explore human themes through sharing stories and aesthetics from the Middle East and Iran within international contexts. For Aisan (Choreographer/Founder), her passion for dance and choreography has been a means for gaining insight into her identity as an Iranian living outside of her home country. Specifically, several of her choreographies have explored how the physical distance from her home country provides a deeper sense of intimacy. Hoss’s primary choreographic objective is to create joy within darkness.
-      image: '/img/profile-AisanHoss.jpg'
+    - bio: "**Aisan Hoss** and Dancers produce Iranian/Contemporary dance pieces that
+        explore human themes through sharing stories and aesthetics from the
+        Middle East and Iran within international contexts. For Aisan
+        (Choreographer/Founder), her passion for dance and choreography has been
+        a means for gaining insight into her identity as an Iranian living
+        outside of her home country. Specifically, several of her choreographies
+        have explored how the physical distance from her home country provides a
+        deeper sense of intimacy. Hoss’s primary choreographic objective is to
+        create joy within darkness."
+      image: /img/profile-AisanHoss.jpg
       name: Aisan Hoss
-    - bio: >-
-        **Sabina Zafar** was inaugurated into office on December, 2018 and is currently serving her first term as a Councilwoman, she was appointed Vice Mayor November 2019. She is an accomplished technology leader, community volunteer, mentor and mother. As a San Ramon resident, Sabina is wholeheartedly committed to giving back to her city. She has dedicated her career and personal time to improving our community, empowering women & girls to pursue STEM careers, helping make San Ramon the center of technology and innovation in the bay area, and promises to ensure transparency and inclusion in our local government for all residents.
-      image: '/img/profile-SabinaZafar.jpg'
+    - bio: "**Sabina Zafar** was inaugurated into office on December, 2018 and is
+        currently serving her first term as a Councilwoman, she was appointed
+        Vice Mayor November 2019. She is an accomplished technology leader,
+        community volunteer, mentor and mother. As a San Ramon resident, Sabina
+        is wholeheartedly committed to giving back to her city. She has
+        dedicated her career and personal time to improving our community,
+        empowering women & girls to pursue STEM careers, helping make San Ramon
+        the center of technology and innovation in the bay area, and promises to
+        ensure transparency and inclusion in our local government for all
+        residents."
+      image: /img/profile-SabinaZafar.jpg
       name: Sabina Zafar
 photos:
-  heading:
+  heading: null
   items:
     - {}
 bottom:
-  heading: ''
-  text: >-
-    Each year, Golden Thread Productions celebrates International Women’s Day
-    with ***What Do the Women Say?***, which showcases the work of leading
-    Middle Eastern women artists. Previous programs have focused on dismantling
-    patriarchy, the resilience of Syrian women who build community through their
-    art, and artists who explore sex and sexuality. Past featured artists
-    include Elmaz Abinader (*This House*, *My Bones*), Majeda Al Saqqa (Culture
-    and Free Thought Association, Gaza Strip), Anita Amirrezvani (*The Blood of
-    Flowers*, *Equal to the Sun*), Nawal el Saadawi (*Memoirs from the Women’s
-    Prison*), Denmo Ibrahim (*Baba*, *ECSTASY | a waterfable*), Maryam Keshavarz
-    (*Circumstance*), Rohiha Malek (*Unveiled*), Nabila Mango (executive
-    director, Zawaya), Ayesha Mattau (*Love Inshallah*), Zahra Noorbakhsh (*All
-    Atheists are Muslim*, #GoodMuslimBadMuslim), Shahrnush Parsipur (*The Prison
-    Memoirs*, *Women Without Men*), Betty Shamieh (*The Black Eyed,
-    Territories*), Deema Shehabi (*Thirteen Departures From the Moon*), Seema
-    Sueko (*Remains*), and Rosemary Toohey (*The Body Washer*), and Dina Zarif.
-
-
-    Golden Thread is thankful for the support of our sponsors WomenArts, Brava
+  heading: ""
+  text: Golden Thread is thankful for the support of our sponsors WomenArts, Brava
     For Women in the Arts, and Center for Iranian Diaspora Studies at San
     Francisco State University.
 ---
@@ -161,6 +155,3 @@ After the presentations, Founding Artistic Director **Torange Yeghiazarian** wil
 ***Nuance*** is a piece that incorporates Basma and Aisan's immigration experience coming to the US from their respective countries; Egypt and Iran. The piece incorporates Egyptian and Iranian influences portraying their roots, as well as contemporary and western classical influences portraying their artistic training in the US. Artistically, they are both: Eastern and Western, but does society allow you to be both or does it seek to put you in a categorical box that is simpler than the nuanced reality of the human experience? This piece seeks to dwell upon the struggles that come along with immigrating to a new land, the questions surrounding identity, leaving all that one knows, and the courage needed to face the new. These ideas are brought together and illustrated in *Nuance* through music and dance.
 
 Golden Thread will premiere ***The Language of Wild Berries*** by **Naghmeh Samini** in fall 2020. The play depicts a couple, Donya and Davood, celebrating their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
-
-[**TICKETS ARE ON SALE NOW**](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gay1UAA)
-
