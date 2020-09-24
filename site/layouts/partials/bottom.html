@@ -7,6 +7,7 @@
   <h3 class="cms f6">{{ .text | markdownify }}</h3>
   {{ end }}
 </div>
+{{ if .logos }}
 <div class="flex-ns justify-between pv2 mb4">
 	{{ range .logos }}
 		<div class="w-25-ns ph1 tc mb2">
@@ -14,3 +15,4 @@
 		</div>
 	{{ end }}
 </div>
+{{ end }}

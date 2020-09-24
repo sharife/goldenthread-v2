@@ -87,6 +87,9 @@
 
       {{ if .Params.cast }} {{ partial "people" (dict "cast" .Params.cast "pageUrl" .Permalink) }} {{ end }}
 
+
+      {{ if .Params.mentions }} {{ partial "bottom" (.Params.mentions) }} {{ end }}
+
       {{ if .Params.photos }}
     </div>
   </div>
