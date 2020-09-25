@@ -23,7 +23,7 @@ writer: Naghmeh Samini
 director: Torange Yeghiazarian
 featuring: Denmo Ibrahim, Abraham Makany, Sal Mattos
 translator: Torange Yeghiazarian
-additional: ""
+additional: Original music composed by Mohammad Talani, Sound design by James Ard
 stage: Podcast link will be available here starting October 6th
 address: ""
 ticketlink: ""
