@@ -5,26 +5,30 @@ season: 2020
 date: 2019-11-06T22:06:41.267Z
 start: 2020-10-16T22:06:41.302Z
 end: 2020-11-15T23:06:41.319Z
+heading: Join us for an online conversation with the artists on October 7th at
+  11am (PST)
 description: >-
-  We're thrilled to announce that *The Language of Wild Berries* will debut this
-  fall as a Radio Play! The U.S. premiere, translated and directed by Torange
-  Yeghiazarian, will include a special listening party followed by Q&A with the
-  artists. Stay tuned for 2020 release dates!
+  We're thrilled to release *The Language of Wild Berries* as a radio play on
+  October 6, 2020. Released as a podcast, the radio play will stream **for
+  free** on multiple platforms such as Apple Podcast, Google Podcast, and
+  Spotify. 
 
 
   The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English production in the United States.
 background: https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/
+titleimage: https://ucarecdn.com/d010b318-152b-485a-9f79-ab352349eec2/
 videos:
   - id: jdrvjojNEW4
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
+featuring: Denmo Ibrahim, Abraham Makany, Sal Mattos
 translator: Torange Yeghiazarian
 additional: ""
-stage: Potrero Stage
-address: 1695 18th St, San Francisco, CA
-ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
+stage: Podcast link will be available here starting October 6th
+address: ""
+ticketlink: ""
 cast:
-  heading: Cast & Crew
+  heading: Artistic Team
   items:
     - bio: "Naghmeh Samini is an award-winning playwright, scriptwriter and Assistant
         Professor in Dramatic Literature at the Faculty of Music and Performing
@@ -82,5 +86,9 @@ cast:
       name: Torange Yeghiazarian
 photos:
   heading: Photo Gallery
+bottom:
+  heading: We are grateful for the support of the folowing sponsors
+  text: California Arts Council, San Francisco Arts Commission, Venturous Theater
+    Fund, a fund of Tides Foundation, and the Zellerbach Family Foundation
 ---
-Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The U.S. Premiere of *The Language of Wild Berries* is Samini’s first production in English in the United States.
+Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
