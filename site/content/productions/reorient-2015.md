@@ -352,16 +352,64 @@ grids:
         link: http://www.goldenthread.org/tickets/
   - heading: ReOrient 2015 In The Press
     items:
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
-      - {}
+      - text: “Humanity is at the core of ReOrient. **If theater is community, it starts
+          here.** \[…] Your heart will thump, and you’ll laugh, maybe even shed
+          a tear or two. If the goal of theater is to expand our viewpoint, to
+          enrich our knowledge, and to embrace empathy, then **ReOrient hugely
+          succeeds.**” —*Stark Insider*
+        image: https://ucarecdn.com/bddf94cd-3170-4dd4-9d1c-0cfa448950a1/
+        cta: Read More
+        link: http://www.starkinsider.com/2015/09/reorient-your-perspective-on-the-middle-east-review.html
+      - text: “Judging by the new short plays comprising its 2015 ReOrient Festival,
+          Golden Thread is clearly fulfilling its mission to offer **compelling
+          stories representing the complexity and diversity of the contemporary
+          Middle Eastern experience.** Vivid, human characters came to life in
+          all premieres.” —*San Francisco Examiner*
+        image: https://ucarecdn.com/660423aa-c03f-4232-862a-41b7074f4adb/
+        cta: Read More
+        link: http://www.sfexaminer.com/reorient-tells-modern-tales-from-the-middle-east/
+      - subtitle: ReOrienting a Middle Eastern Perspective
+        image: https://ucarecdn.com/0fc0252b-40bb-4cae-b992-9548fd6d381e/
+        text: ReOrient 2015 is a *San Francisco Chronicle* Weekend Pick!
+        cta: Read More
+        link: http://www.sfgate.com/performance/article/Reorienting-a-Middle-Eastern-perspective-6491619.php
+      - subtitle: ReOrient Festival Brings Stories of the Middle East to the Bay Area
+        image: https://ucarecdn.com/52039f1e-d930-4d82-bfb1-6c9e670303e6/
+        text: Radio interview with Yussef El Guindi, Sara Razavi, and Torange
+          Yeghiazarian on KQED Forum
+        cta: Listen Here
+        link: http://www.kqed.org/a/forum/R201509161000
+      - subtitle: Golden Thread's ReOrient weaves together Middle Eastern Stories
+        image: https://ucarecdn.com/91bfec7d-ffb5-4abd-ad94-b7dcef65fe80/
+        text: Interview with Evren Odcikin on KQED Arts
+        cta: Read Here
+        link: https://ww2.kqed.org/arts/2015/09/09/golden-threads-reorient-weaves-together-middle-eastern-stories/
+      - subtitle: Play festival offers different looks at 'situation' in Israel
+        image: https://ucarecdn.com/82b261fc-d835-4ec8-9d4e-52fcd1ed27f4/
+        text: "*J Weekly* interviews Ken Kaissar, Tala Manassah, and Torange
+          Yeghiazarian"
+        cta: Read More
+        link: http://www.jweekly.com/2015/09/11/play-festival-offers-different-looks-at-situation-in-israel/
+      - subtitle: Art-Waves on Cover to Cover
+        image: https://ucarecdn.com/43fcde1c-7cf7-460a-8bbc-3e2abd6da751/
+        text: Radio interview with Torange Yeghiazarian on KPFA
+        cta: Listen Here
+        link: https://kpfa.org/episode/arts-waves-on-cover-to-cover-september-14-2015/
+      - subtitle: Mill Valley's Denmo Ibrahim finds passions beyond the theater
+        image: https://ucarecdn.com/d7fe8ef6-44dd-4146-8b02-eea554b610d3/
+        text: "*Marin Independent Journal* interviews Denmo Ibrahim"
+        cta: Read Here
+        link: http://www.marinij.com/lifestyle/20150902/mill-valleys-denmo-ibrahim-finds-passions-beyond-the-theater
+      - subtitle: Voices of the Middle East and North Africa
+        image: https://ucarecdn.com/2ed25300-3752-4139-b5f3-065127f5ef11/
+        text: Radio interview with Torange Yeghiazarian on KPFA
+        cta: Listen Here
+        link: https://kpfa.org/episode/voices-of-the-middle-east-and-north-africa-september-9-2015/
+      - subtitle: '"Expect the Unexpected."'
+        image: https://ucarecdn.com/780c5806-6872-4826-8954-5c39f3ac5a0f/
+        text: ReOrient 2015 is a pick for The Do List on KQED
+        cta: Read More
+        link: https://ww2.kqed.org/arts/programs/the-do-list/
 cast:
   heading: Cast & Crew
   items:
