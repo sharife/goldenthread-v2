@@ -221,18 +221,18 @@ cast:
     - name: Mustafa Kaymak
     - name: Daria Polatin
     - name: Lilly Thomassian
-    - name: "The selection committee for ReOrient 2017: "
-      bio: The selection committee for ReOrient 2017 included luminaries **Catherine
-        Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
-        Playwright Exchange at the Lark Play Development Center), **Philip Kan
-        Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre,
-        Dance, and Performance Studies), Roberta Levitow (Co-founder, Theatre
-        Without Borders & Senior Program Associate, Middle East North Africa
-        Sundance Institute Theatre Program), **Roberto Gutierrez Varea**
-        (Professor, University of San Francisco, Performing Arts and Social
-        Justice Program). Golden Thread Founding Artistic Director Torange
-        Yeghiazarian and Director of New Plays and Marketing Evren Odcikin were
-        also part of the committee.
+mentions:
+  heading: "The selection committee for ReOrient 2017: "
+  text: The selection committee for ReOrient 2017 included luminaries **Catherine
+    Coray** (Theatre Program Head, NYU Abu Dhabi & Director, US-Middle East
+    Playwright Exchange at the Lark Play Development Center), **Philip Kan
+    Gotanda** (Award-winning playwright & Professor, UC Berkeley Theatre, Dance,
+    and Performance Studies), Roberta Levitow (Co-founder, Theatre Without
+    Borders & Senior Program Associate, Middle East North Africa Sundance
+    Institute Theatre Program), **Roberto Gutierrez Varea** (Professor,
+    University of San Francisco, Performing Arts and Social Justice Program).
+    Golden Thread Founding Artistic Director Torange Yeghiazarian and Director
+    of New Plays and Marketing Evren Odcikin were also part of the committee.
 photos:
   heading: Photo Gallery
   items:
