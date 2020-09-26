@@ -10,6 +10,11 @@ description: "**Think you know the Middle East? Think again!** ReOrient 2015
   thought-provoking theatre from and about the Middle East. Nowhere else will
   you find plays and artists from Armenia, Egypt, Iraq, Iran, Israel, Lebanon,
   Palestine, Syria, Turkey, United Kingdom, and the U.S. all on one stage."
+program: https://ucarecdn.com/d6b846b6-914f-4622-a440-5e1791237b34/
+videos:
+  - id: e1VPJ_tEV2A
+  - id: 8ugwqAGjgpI
+  - id: aNqHVURLfZg
 writer: Hassan Abdulrazzak, Yussef El-Guindi, Emma Goldman-Sherman, Ken Kaisar,
   Hannah Khalil, Tala Jamal Manassah, Mona Mansour, Nahal Navidar, Silva
   Semerciyan
@@ -255,67 +260,6 @@ lists:
           put on a play and take an imaginary trip to his childhood home.
         image: https://ucarecdn.com/808913fe-cf12-4676-bbd0-5ca260320a47/
         title: The House
-  - items:
-      - cta: Read More
-        text: “Humanity is at the core of ReOrient. **If theater is community, it starts
-          here.** \[…] Your heart will thump, and you’ll laugh, maybe even shed
-          a tear or two. If the goal of theater is to expand our viewpoint, to
-          enrich our knowledge, and to embrace empathy, then **ReOrient hugely
-          succeeds.**” —*Stark Insider*
-        link: http://www.starkinsider.com/2015/09/reorient-your-perspective-on-the-middle-east-review.html
-        image: https://ucarecdn.com/d862e461-e544-48c6-aead-fb40df4bc488/
-      - text: “Judging by the new short plays comprising its 2015 ReOrient Festival,
-          Golden Thread is clearly fulfilling its mission to offer **compelling
-          stories representing the complexity and diversity of the contemporary
-          Middle Eastern experience.** Vivid, human characters came to life in
-          all premieres.” —*San Francisco Examiner*
-        cta: Read More
-        link: http://www.sfexaminer.com/reorient-tells-modern-tales-from-the-middle-east/
-        image: https://ucarecdn.com/c76b2291-25a6-45bd-9786-42bb09bfda2f/
-      - subtitle: ReOrienting a Middle Eastern Perspective
-        text: ReOrient 2015 is a *San Francisco Chronicle* Weekend Pick
-        cta: Read More
-        link: http://www.sfgate.com/performance/article/Reorienting-a-Middle-Eastern-perspective-6491619.php
-        image: https://ucarecdn.com/189621f2-65ea-4a60-9b54-b11b99526750/
-      - subtitle: ReOrient Festival Brings Stories of the Middle East to the Bay Area
-        text: Radio interview with Yussef El Guindi, Sara Razavi, and Torange
-          Yeghiazarian on KQED Forum
-        cta: Listen Here
-        link: http://www.kqed.org/a/forum/R201509161000
-        image: https://ucarecdn.com/4392ccce-7b43-4aa4-8ddf-65cc4871739d/
-      - subtitle: Golden Thread's ReOrient weaves together Middle Eastern Stories
-        text: Interview with Evren Odcikin on KQED Arts
-        cta: Read Here
-        link: https://ww2.kqed.org/arts/2015/09/09/golden-threads-reorient-weaves-together-middle-eastern-stories/
-        image: https://ucarecdn.com/72b03033-8695-4a55-b703-b6d0861c6d42/
-      - subtitle: Play festival offers different looks at 'situation' in Israel
-        text: "*J Weekly* interviews Ken Kaissar, Tala Manassah, and Torange
-          Yeghiazarian"
-        cta: Read More
-        link: http://www.jweekly.com/2015/09/11/play-festival-offers-different-looks-at-situation-in-israel/
-        image: https://ucarecdn.com/f7d93753-ed8d-4297-b19f-a6293507e542/
-      - subtitle: Art-Waves on Cover to Cover
-        text: Radio interview with Torange Yeghiazarian on KPFA
-        cta: Listen Here
-        link: https://kpfa.org/episode/arts-waves-on-cover-to-cover-september-14-2015/
-        image: https://ucarecdn.com/9f963cf9-87a6-4893-9740-75a81a6a974d/
-      - subtitle: Mill Valley's Denmo Ibrahim finds passions beyond the theater
-        text: "*Marin Independent Journal* interviews Denmo Ibrahim"
-        cta: Read Here
-        link: http://www.marinij.com/lifestyle/20150902/mill-valleys-denmo-ibrahim-finds-passions-beyond-the-theater
-        image: https://ucarecdn.com/e569650e-3a42-4221-ae4a-db4c4e4d33b8/
-      - subtitle: Voices of the Middle East and North Africa
-        text: Radio interview with Torange Yeghiazarian on KPFA
-        cta: Listen Here
-        link: https://kpfa.org/episode/voices-of-the-middle-east-and-north-africa-september-9-2015/
-        image: https://ucarecdn.com/8c2aee45-4959-4b67-9c0b-a56fd53b2fe4/
-      - title: ""
-        subtitle: '"Expect the Unexpected."'
-        text: ReOrient 2015 is a pick for The Do List on KQED
-        cta: Read More
-        link: https://ww2.kqed.org/arts/programs/the-do-list/
-        image: https://ucarecdn.com/1a3f4d13-4ca6-48c8-847b-eaecc64a6bdb/
-    heading: In The Press
 grids:
   - heading: Special Events
     items:
@@ -811,6 +755,7 @@ cast:
         the world of theater, including acting, directing, set and costume
         design. Some hats looked better than others. She hopes the hat she is
         wearing this time will fit and please you."
+archivevideo: hAyIP_XCX7s
 bottom:
   logos:
     - image: https://ucarecdn.com/de58b626-c961-4c05-879b-9eb44eb3f641/
