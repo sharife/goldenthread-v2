@@ -105,17 +105,17 @@ cast:
     - name: Abraham Makany
       credit: Davood
       image: https://ucarecdn.com/a074d0ab-64b4-4657-bca2-ba112fa91a64/
-      bio: "**Abraham Makany** is an Iranian-American actor based in NYC. New York
-        theatre credits include *The Lehman Trilogy* on Broadway (Nederlander
-        Theatre), *Bars and Measures* (Urban Stages), *Trial of an American
-        President* (Theatre Row), Waterwell’s *Hamlet* (The Sheen Center),
-        *Kandahar to Canada* (Ensemble Studio Theatre), *Job* (The Flea Theater)
-        and the Obie Award winning production of *The Brig* (The Living
-        Theatre). Regional works include *The Corpse Washer* in the 43rd Humana
-        Festival (Actors Theatre of Louisville) and the Bay Area Premiere of
-        *Noura* (Marin Theatre Company). Film credits include *Rainbow Ruthie*
-        (SXSW), *Brooklyn Park* (Palm Springs IFF), *Saint Nicholas* (Summer
-        Hill Films), and *El Gallo* (Freestyle Media) and his work in television
+      bio: "Abraham Makany is an Iranian-American actor based in NYC. New York theatre
+        credits include *The Lehman Trilogy* on Broadway (Nederlander Theatre),
+        *Bars and Measures* (Urban Stages), *Trial of an American President*
+        (Theatre Row), Waterwell’s *Hamlet* (The Sheen Center), *Kandahar to
+        Canada* (Ensemble Studio Theatre), *Job* (The Flea Theater) and the Obie
+        Award winning production of *The Brig* (The Living Theatre). Regional
+        works include *The Corpse Washer* in the 43rd Humana Festival (Actors
+        Theatre of Louisville) and the Bay Area Premiere of *Noura* (Marin
+        Theatre Company). Film credits include *Rainbow Ruthie* (SXSW),
+        *Brooklyn Park* (Palm Springs IFF), *Saint Nicholas* (Summer Hill
+        Films), and *El Gallo* (Freestyle Media) and his work in television
         includes *Orange is the New Black*, *Gotham*, *Blue Bloods*, *The
         Blacklist*, *Homeland*, *Blindspot*, *The Americans*, *Deception*,
         *Person of Interest*, *HAPPYish*, *The Ridge: Origins* and *Wyatt
@@ -123,7 +123,7 @@ cast:
         University’s Mason Gross School of the Arts. @abmakany"
     - name: Sal Mattos
       credit: Danial
-      bio: "**Sal Mattos** is an actor and writer from San Francisco. He most recently
+      bio: "Sal Mattos is an actor and writer from San Francisco. He most recently
         appeared in the world premiere of *You'll Catch Flies* at New
         Conservatory Theatre Center, followed by a digital reading of *The Death
         of Ruby Slippers* with Theatre Rhinoceros, and numerous live and digital
@@ -139,22 +139,20 @@ cast:
     - name: Mohammad Talani
       credit: Music Composition
       image: https://ucarecdn.com/c0222b68-1ea7-4a1d-9bc4-95a2b423baf5/
-      bio: Born in Iran, **MOHAMMAD TALANI (Resident Artist / Actor and Musician)** is
-        a Berkeley-based musician, actor, and videographer. He is founding
-        member of BandBand and joined the indie Iranian band, Kiosk in 2012. He
-        has been living in U.S. since 2010 and collaborated with different
-        artists such as Bahram Beyzaei, Mohsen Namjoo, Babak Jalali, Shahrzad
-        Sepanlou and Circo cafe.
+      bio: Born in Iran, MOHAMMAD TALANI is a Berkeley-based musician, actor, and
+        videographer. He is founding member of BandBand and joined the indie
+        Iranian band, Kiosk in 2012. He has been living in U.S. since 2010 and
+        collaborated with different artists such as Bahram Beyzaei, Mohsen
+        Namjoo, Babak Jalali, Shahrzad Sepanlou and Circo cafe.
     - name: James Ard
       credit: Sound Design
       image: https://ucarecdn.com/1ae59d86-626c-4d2f-861b-fc05b641de80/
-      bio: "**JAMES ARD (Resident Artist / Sound Designer)** Ard is a local San
-        Francisco designer, noisemaker, mechanic, and theatre vagrant, who
-        composes soundscapes & music for humans, dogs, parrots, and bicycles.
-        Ard’s sound design has been heard at the Public Theater in New York, the
-        Getty Villa in Los Angeles, and most importantly: here at home in San
-        Francisco, at the Potrero Stage, in collaborations with both Golden
-        Thread Productions and Crowded Fire. Recent Golden Thread credits
+      bio: "Ard is a local San Francisco designer, noisemaker, mechanic, and theatre
+        vagrant, who composes soundscapes & music for humans, dogs, parrots, and
+        bicycles. Ard’s sound design has been heard at the Public Theater in New
+        York, the Getty Villa in Los Angeles, and most importantly: here at home
+        in San Francisco, at the Potrero Stage, in collaborations with both
+        Golden Thread Productions and Crowded Fire. Recent Golden Thread credits
         include adaptation for *Shelter* (alongside Torange Yeghiazarian), sound
         design for *The Most Dangerous Highway in the World*, and sound design
         for various plays presented at ReOrient Festivals 2015 and 2017. Ard is
