@@ -136,6 +136,30 @@ cast:
         Theatrical Concert* (Four Lights Productions), and many more. Follow him
         on Twitter and Instagram @salmattos."
       image: https://ucarecdn.com/d9ba700c-5ee5-4e47-bb7f-3d3ce8b3ff23/
+    - name: Mohammad Talani
+      credit: Music Composition
+      image: https://ucarecdn.com/c0222b68-1ea7-4a1d-9bc4-95a2b423baf5/
+      bio: Born in Iran, **MOHAMMAD TALANI (Resident Artist / Actor and Musician)** is
+        a Berkeley-based musician, actor, and videographer. He is founding
+        member of BandBand and joined the indie Iranian band, Kiosk in 2012. He
+        has been living in U.S. since 2010 and collaborated with different
+        artists such as Bahram Beyzaei, Mohsen Namjoo, Babak Jalali, Shahrzad
+        Sepanlou and Circo cafe.
+    - name: James Ard
+      credit: Sound Design
+      image: https://ucarecdn.com/1ae59d86-626c-4d2f-861b-fc05b641de80/
+      bio: "**JAMES ARD (Resident Artist / Sound Designer)** Ard is a local San
+        Francisco designer, noisemaker, mechanic, and theatre vagrant, who
+        composes soundscapes & music for humans, dogs, parrots, and bicycles.
+        Ard’s sound design has been heard at the Public Theater in New York, the
+        Getty Villa in Los Angeles, and most importantly: here at home in San
+        Francisco, at the Potrero Stage, in collaborations with both Golden
+        Thread Productions and Crowded Fire. Recent Golden Thread credits
+        include adaptation for *Shelter* (alongside Torange Yeghiazarian), sound
+        design for *The Most Dangerous Highway in the World*, and sound design
+        for various plays presented at ReOrient Festivals 2015 and 2017. Ard is
+        a co-founder of SoundPlay.media, and is currently producing short plays
+        for podcast at [BareWireTheatre.com](http://www.barewiretheatre.com)."
 photos:
   heading: Photo Gallery
 bottom:
