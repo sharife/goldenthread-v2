@@ -109,6 +109,22 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
+    - name: Chris Steele
+      credit: Media & Publicity
+      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
+      bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
+        producer, and playwright. Since studying at Pepperdine University and
+        the University of Oklahoma, they have worked professionally in queer and
+        trans inclusion and advocacy across the Bay Area, even beyond the
+        theater industry with UCSF, Sephora, and the Bay Area Nightlife
+        Coalition. As a media and publicity professional, they work regularly
+        with PlayGround as their inaugural Producing Fellow, launched and manage
+        the critically lauded new queer collective Poltergeist Theatre Project
+        (poltergeistproject.org), and manage and produce drag artistry content
+        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
+        at @pollyandpeter). They are passionate about using social media to
+        connect communities, organize activism, and welcome diverse audiences
+        into the behind-the-scenes process of stage artistry.
 board:
   heading: Board of Trustees
   items:
