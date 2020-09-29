@@ -84,6 +84,57 @@ cast:
       credit: Director / Translator
       image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
+    - name: Denmo Ibrahim
+      credit: Donya
+      image: https://ucarecdn.com/0b56b8a0-ba46-4c54-a440-c129496fa395/
+      bio: "Denmo Ibrahim is an Egyptian-American actor and writer living in San
+        Francisco and Brooklyn. Regional credits include *Noura* (Marin Theatre
+        Company), *The Good Book* (Berkeley Repertory), *The Who & The What
+        (*Marin Theatre Company), *A Thousand Splendid Suns (*Seattle Rep, The
+        Old Globe, American Conservatory of Theatre, Theatre Calgary), *Much Ado
+        About Nothing* (California Shakespeare Theatre).Awards include National
+        Endowment for the Arts, San Francisco Bay Area Critics Circle (SFBATCC)
+        for Best Featured Actress in*The Good Book (*Berkeley Rep), *Our
+        Enemies: Scenes of Love & Combat (*Golden Thread, SFBACC Nomination) and
+        Theatre Bay Area Awards for *I Call My Brothers* (Crowded Fire) and
+        *BABA* (Alter Theatre) for Best Original Script, Outstanding Solo
+        Performance. Her work has been produced by New York Theatre Workshop,
+        Under St. Marks, Playwrights’ Center, and Noor Theatre. Denmo holds an
+        MFA in Lecoq-based Actor Created Physical Theater from Naropa University
+        and a BFA in Acting from Boston University. @denmo-ibrahim"
+    - name: Abraham Makany
+      credit: Davood
+      image: https://ucarecdn.com/a074d0ab-64b4-4657-bca2-ba112fa91a64/
+      bio: "**Abraham Makany** is an Iranian-American actor based in NYC. New York
+        theatre credits include *The Lehman Trilogy* on Broadway (Nederlander
+        Theatre), *Bars and Measures* (Urban Stages), *Trial of an American
+        President* (Theatre Row), Waterwell’s *Hamlet* (The Sheen Center),
+        *Kandahar to Canada* (Ensemble Studio Theatre), *Job* (The Flea Theater)
+        and the Obie Award winning production of *The Brig* (The Living
+        Theatre). Regional works include *The Corpse Washer* in the 43rd Humana
+        Festival (Actors Theatre of Louisville) and the Bay Area Premiere of
+        *Noura* (Marin Theatre Company). Film credits include *Rainbow Ruthie*
+        (SXSW), *Brooklyn Park* (Palm Springs IFF), *Saint Nicholas* (Summer
+        Hill Films), and *El Gallo* (Freestyle Media) and his work in television
+        includes *Orange is the New Black*, *Gotham*, *Blue Bloods*, *The
+        Blacklist*, *Homeland*, *Blindspot*, *The Americans*, *Deception*,
+        *Person of Interest*, *HAPPYish*, *The Ridge: Origins* and *Wyatt
+        Cenac’s Problem Areas.* Born in Houston, TX, Abraham trained at Rutgers
+        University’s Mason Gross School of the Arts. @abmakany"
+    - name: Sal Mattos
+      credit: Danial
+      bio: "**Sal Mattos** is an actor and writer from San Francisco. He most recently
+        appeared in the world premiere of *You'll Catch Flies* at New
+        Conservatory Theatre Center, followed by a digital reading of *The Death
+        of Ruby Slippers* with Theatre Rhinoceros, and numerous live and digital
+        drag performances as his alter ego Fran Zaya throughout the year.
+        Previous roles include *It Can’t Happen Here* (u/s, Berkeley Rep),
+        *Treefall, Standing on Ceremony, The Laramie Project: 10 Years Later,*
+        and *From White Plains (NCTC), Slaughterhouse Five*, *Why Torture is
+        Wrong... and the People Who Love Them,* and *In Love and Warcraft*
+        (Custom Made Theatre Co.), *OPEN* (Back Alley Theater), *Hideo: A
+        Theatrical Concert* (Four Lights Productions), and many more. Follow him
+        on Twitter and Instagram @salmattos."
 photos:
   heading: Photo Gallery
 bottom:
