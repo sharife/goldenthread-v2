@@ -135,6 +135,7 @@ cast:
         (Custom Made Theatre Co.), *OPEN* (Back Alley Theater), *Hideo: A
         Theatrical Concert* (Four Lights Productions), and many more. Follow him
         on Twitter and Instagram @salmattos."
+      image: https://ucarecdn.com/9c981038-c1bc-4516-a66c-b3593211c78a/
 photos:
   heading: Photo Gallery
 bottom:
