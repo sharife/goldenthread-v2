@@ -1,16 +1,17 @@
 ---
 title: "NO SUMMARY: Online Conversations with Artists the Don't Fit in a Box"
 date: 2020-09-29T00:05:23.846Z
-description: We are thrilled to announce an ongoing bi-weekly Series of artists
+description: "We are thrilled to announce an ongoing bi-weekly Series of artists
   in conversation with our visionary artistic director Torange Yeghiazarian
-  titled NO SUMMARY.  These curated digital discussions will invite artists of
-  Middle Eastern and North African heritage to discuss the many layers of their
-  identity and how it impacts their work and artistic choices. We invite you to
-  take pause with us from the hectic pace of pandemic-era living and immerse
-  yourself in topics and histories that defy a snappy summation and give space
-  for us all to remember that every individual is a complex, nuanced, and
-  layered experience that sensationalism or stereotype will never accurately
-  encompass. Read on for more information about our first scheduled episodes.
+  titled NO SUMMARY: Online Conversations with Artists the Don't Fit in a Box. 
+  These curated digital discussions will invite artists of Middle Eastern and
+  North African heritage to discuss the many layers of their identity and how it
+  impacts their work and artistic choices. We invite you to take pause with us
+  from the hectic pace of pandemic-era living and immerse yourself in topics and
+  histories that defy a snappy summation and give space for us all to remember
+  that every individual is a complex, nuanced, and layered experience that
+  sensationalism or stereotype will never accurately encompass. Read on for more
+  information about our first scheduled episodes."
 ---
 **October 7th** – *NO SUMMARY* launches with a conversation with playwright of out upcoming radio play production of *The Language of Wild Berries* Naghmeh Samini and members of the creative team from the radio play production. One of Iran’s leading playwrights, Samini’s work has been presented across Europe and Asia but she has never been produced in the US. At a time when US-Iran relations are at an all-time low, hearing directly from artists that create in both countries has never been more vital.\
 \
