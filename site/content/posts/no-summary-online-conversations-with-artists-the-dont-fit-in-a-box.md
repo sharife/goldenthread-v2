@@ -3,7 +3,7 @@ title: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box"
 date: 2020-09-29T00:05:23.846Z
 description: "We are thrilled to announce an ongoing bi-weekly Series of artists
   in conversation with our visionary artistic director Torange Yeghiazarian
-  titled NO SUMMARY: Online Conversations with Artists the Don't Fit in a Box. 
+  titled NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box. 
   These curated digital discussions will invite artists of Middle Eastern and
   North African heritage to discuss the many layers of their identity and how it
   impacts their work and artistic choices. We invite you to take pause with us
