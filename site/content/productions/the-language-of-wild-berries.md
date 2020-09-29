@@ -6,7 +6,7 @@ date: 2019-11-06T22:06:41.267Z
 start: 2020-10-06T22:06:41.302Z
 end: 2021-03-21T22:06:41.319Z
 heading: Join us for an online conversation with the artists on October 7th at
-  11am (PST)
+  11am (PDT)
 description: >-
   We're thrilled to release *The Language of Wild Berries* as a radio play on
   October 6, 2020. Released as a podcast, the radio play will stream **for
