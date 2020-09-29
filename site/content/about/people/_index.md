@@ -3,22 +3,21 @@ title: People
 staff:
   heading: Staff
   items:
-    - bio: >-
-        <strong>Torange Yeghiazarian</strong> is the Founding Artistic Director
-        of Golden Thread Productions, the first American theatre company focused
-        on the Middle East where she launched such visionary programs as
-        ReOrient Festival, New Threads, Fairytale Players, and What do the Women
-        Say?, and timely initiatives such as Islam 101 and Project Alo? Torange
-        has been recognized by Theatre Bay Area and is one of Theatre
-        Communication Group’s Legacy Leaders of Color. She was honored by the
-        Cairo International Theatre Festival and the Symposium on Equity in the
+    - bio: "<strong>Torange Yeghiazarian</strong> is the Founding Artistic Director of
+        Golden Thread Productions, the first American theatre company focused on
+        the Middle East where she launched such visionary programs as ReOrient
+        Festival, New Threads, Fairytale Players, and What do the Women Say?,
+        and timely initiatives such as Islam 101 and Project Alo? Torange has
+        been recognized by Theatre Bay Area and is one of Theatre Communication
+        Group’s Legacy Leaders of Color. She was honored by the Cairo
+        International Theatre Festival and the Symposium on Equity in the
         Entertainment Industry at Stanford University. A playwright, director,
         and translator, Torange contributed a case study chapter to “Casting a
         Movement”, forthcoming from Routledge, 2019. Her translation and stage
-        adaptation of Nizami’s “Leyla & Majnun” is published on
+        adaptation of Nizami’s “Leyla &#038; Majnun” is published on
         Gleeditions.com. She has been published in The Drama Review, American
         Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
-        Women & Islamic Cultures and Cambridge World Encyclopedia of Stage
+        Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
         Actors. At Golden Thread, Torange directed OH MY SWEET LAND by Amir
         Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY SCENES OF LOVE AND
         COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF CREATION by
@@ -34,64 +33,58 @@ staff:
         included in the anthology “Salaam. Peace: An Anthology of Middle
         Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
         heritage, Torange holds a Master’s degree in Theatre Arts from San
-        Francisco State University.
+        Francisco State University."
       credit: Executive Artistic Director
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
       name: Torange Yeghiazarian
-    - bio: >-
-        <strong>Michelle Mulholland</strong> (Managing Director) has more than
-        17 years of non-profit management experience from some of San
-        Francisco’s finest arts and environmental justice organizations,
-        including Theater Artaud, Beach Blanket Babylon, Brava Theater, the
-        Commonwealth Club of California, The Coral Reef Alliance and Forests
-        Forever. Since joining Golden Thread in 2012, Michelle has been
-        enhancing day-to-day operations, enabling the company’s exponential
-        growth by professionalizing policies and procedures, implementing a
-        fully integrated patron management system and establishing a donor
-        focused individual giving protocol. A freelance costume designer since
-        2008, she has designed for numerous Bay Area companies, including
-        Crowded Fire Theater, New Conservatory Theatre Center, Golden Thread
-        Productions, Word for Word, African-American Shakespeare Company, Z
-        Space, Lorraine Hansberry Theatre, Cutting Ball Theater, and Brava
-        Theater. She has also worked with Teatro Zinzanni, ACT and the SFMOMA.
+    - bio: <strong>Michelle Mulholland</strong> (Managing Director) has more than 17
+        years of non-profit management experience from some of San Francisco’s
+        finest arts and environmental justice organizations, including Theater
+        Artaud, Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
+        California, The Coral Reef Alliance and Forests Forever. Since joining
+        Golden Thread in 2012, Michelle has been enhancing day-to-day
+        operations, enabling the company’s exponential growth by
+        professionalizing policies and procedures, implementing a fully
+        integrated patron management system and establishing a donor focused
+        individual giving protocol. A freelance costume designer since 2008, she
+        has designed for numerous Bay Area companies, including Crowded Fire
+        Theater, New Conservatory Theatre Center, Golden Thread Productions,
+        Word for Word, African-American Shakespeare Company, Z Space, Lorraine
+        Hansberry Theatre, Cutting Ball Theater, and Brava Theater. She has also
+        worked with Teatro Zinzanni, ACT and the SFMOMA.
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - bio: >-
-        <strong>Laura Espino</strong> is an educator and performing artist. As
-        the Program Manager for Fairytale Players, she spearheads the TYA
-        Program at Golden Thread Productions. She is a SFUSD high school teacher
-        at Ruth Asawa School of The Arts. As a performing artist, her work
-        includes credits with Theatreworks Silicon Valley, American Conservatory
-        Theatre, The Magic Theatre, Custom Made Theatre, Playground and
-        California Shakespeare Theatre. She is a Theatre Bay Area Award Nominee,
-        and currently an MLA Candidate at Stanford University.
-      credit: 'Program Manager, Golden Thread Fairytale Players'
+    - bio: <strong>Laura Espino</strong> is an educator and performing artist. As the
+        Program Manager for Fairytale Players, she spearheads the TYA Program at
+        Golden Thread Productions. She is a SFUSD high school teacher at Ruth
+        Asawa School of The Arts. As a performing artist, her work includes
+        credits with Theatreworks Silicon Valley, American Conservatory Theatre,
+        The Magic Theatre, Custom Made Theatre, Playground and California
+        Shakespeare Theatre. She is a Theatre Bay Area Award Nominee, and
+        currently an MLA Candidate at Stanford University.
+      credit: Program Manager, Golden Thread Fairytale Players
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
-    - bio: >-
-        **Aram Krikorian** was born in San Francisco. After attending KZV
-        Armenian School he went on to work in Los Angeles and New York City in
-        television at CBS and theater at the Tres Stage (adjacent to Mashti
-        Malone's Persian Ice Cream Shop). He has worked with director Marc
-        Erdahi in many productions featured in NY Fringe Fest, SF Fringe Fest,
-        MITF and NYMF. Back in the Bay Area he has returned to advocating for
-        Palestinian equal human rights along with other Jerusalem Armenians
-        organizing with Jewish Voice for Peace (JVP) and the Middle Eastern
-        Children's Alliance (MECA). After many years of being a fan, joining in
-        with Golden Thread's family and community has been a fantastic dream
-        come true.
+    - bio: "**Aram Krikorian** was born in San Francisco. After attending KZV Armenian
+        School he went on to work in Los Angeles and New York City in television
+        at CBS and theater at the Tres Stage (adjacent to Mashti Malone's
+        Persian Ice Cream Shop). He has worked with director Marc Erdahi in many
+        productions featured in NY Fringe Fest, SF Fringe Fest, MITF and NYMF.
+        Back in the Bay Area he has returned to advocating for Palestinian equal
+        human rights along with other Jerusalem Armenians organizing with Jewish
+        Voice for Peace (JVP) and the Middle Eastern Children's Alliance (MECA).
+        After many years of being a fan, joining in with Golden Thread's family
+        and community has been a fantastic dream come true."
       credit: Box Office Associate
-      image: >-
-        https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
+      image: https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
       name: Aram Krikorian
-    - bio: >-
-        <strong>Navid Ghaem Maghami</strong> (Art Director) is a graphic
-        designer based in San Francisco. He began working with Golden Thread in
-        2008. As a design professional and art director he has worked widely in
-        a variety of disciplines and media, while focusing primarily on poster
-        &amp; publication design, logo &amp; visual identity and advertising
-        since 1998. Through his full-service graphic design studio NaMa
+    - bio: <strong>Navid Ghaem Maghami</strong> (Art Director) is a graphic designer
+        based in San Francisco. He began working with Golden Thread in 2008. As
+        a design professional and art director he has worked widely in a variety
+        of disciplines and media, while focusing primarily on poster &amp;
+        publication design, logo &amp; visual identity and advertising since
+        1998. Through his full-service graphic design studio NaMa
         (namadesignstudio.com), Navid offers creative solutions as well as
         design consulting services to numerous arts and cultural institutions,
         visual artists, independent musicians, theater companies, film
@@ -102,8 +95,7 @@ staff:
       credit: Art Director
       image: /img/archive/2012/04/navid_headshot.jpg
       name: Navid Ghaem Maghami
-    - bio: >-
-        <strong>Vida Ghahremani</strong> began acting in films as a teenager in
+    - bio: <strong>Vida Ghahremani</strong> began acting in films as a teenager in
         Iran, where she established the standards of stardom. Some of her
         Iranian film classics include, CHAHAR RAH HAVADES, TOOFAN DAR SHAHR MA,
         FARYAD NIMEH-SHAB, FARDA ROWSHAN AST, ATASH VA KHAKESTAR, ESHGH VA
@@ -117,12 +109,27 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
+    - name: Chris Steele
+      credit: Media & Publicity
+      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
+      bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
+        producer, and playwright. Since studying at Pepperdine University and
+        the University of Oklahoma, they have worked professionally in queer and
+        trans inclusion and advocacy across the Bay Area, even beyond the
+        theater industry with UCSF, Sephora, and the Bay Area Nightlife
+        Coalition. As a media and publicity professional, they work regularly
+        with PlayGround as their inaugural Producing Fellow, launched and manage
+        the critically lauded new queer collective Poltergeist Theatre Project
+        (poltergeistproject.org), and manage and produce drag artistry content
+        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
+        at @pollyandpeter). They are passionate about using social media to
+        connect communities, organize activism, and welcome diverse audiences
+        into the behind-the-scenes process of stage artistry.
 board:
   heading: Board of Trustees
   items:
-    - bio: >-
-        <strong>Nora el Samahy</strong>’s professional acting career began in
-        1998 as a Fairy in San Francisco Shakespeare Festival’s production of A
+    - bio: <strong>Nora el Samahy</strong>’s professional acting career began in 1998
+        as a Fairy in San Francisco Shakespeare Festival’s production of A
         MIDSUMMER NIGHT’S DREAM. She then went on to work with Campo Santo,
         Golden Thread Productions, Alter Theater, Aurora Theatre, Magic Theatre,
         foolsFURY, Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit
@@ -136,8 +143,7 @@ board:
       credit: President
       image: /img/archive/2015/08/NoraelSamahy300x300.jpg
       name: Nora el Samahy
-    - bio: >-
-        <strong>John Atwood</strong> is a Learning and Development Manager at
+    - bio: "<strong>John Atwood</strong> is a Learning and Development Manager at
         Google. He partners with engineering leadership to grow engineering
         talent and scale learning resources globally. During his time at Google,
         John has worked in the U.S. and Switzerland, and has visited over 10
@@ -150,12 +156,11 @@ board:
         is absolutely thrilled to serve on the board for Golden Thread
         Productions. John holds an M.S. in Organization Development from
         Pepperdine University, and earned a Bachelors degree in Communication
-        and Theatre from the University of California, San Diego.
+        and Theatre from the University of California, San Diego."
       credit: Secretary
       image: /img/archive/2015/03/JohnAtwood_300x300.jpg
       name: John Atwood
-    - bio: >-
-        <strong>Dr. Artin Der Minassians</strong> is the Founding Artistic
+    - bio: "<strong>Dr. Artin Der Minassians</strong> is the Founding Artistic
         Director of the Seemorgh Ensemble (of the Bay Area Classical Harmonies)
         since 2006 and has directed various concerts with a focus on presenting
         Armenian and Iranian choral music to a wider audience in the Bay Area.
@@ -180,13 +185,12 @@ board:
         Berkeley in Electrical Engineering and Computer Sciences, and is the
         Engineering Director at Empower Semiconductor, a Bay Area startup
         company. He has been a board member of the UC Berkeley Armenian Alumni
-        (UCBAA) and the Bay Area Classical Harmonies (BACH).
+        (UCBAA) and the Bay Area Classical Harmonies (BACH)."
       credit: Treasurer
       image: /img/archive/2012/03/3f40df2.jpg
       name: Artin Der Minassians
-    - bio: >-
-        <strong>May Allam</strong> is Senior Director of Engineering at TiVo,
-        San Jose CA. She manages an Engineering organization responsible for
+    - bio: <strong>May Allam</strong> is Senior Director of Engineering at TiVo, San
+        Jose CA. She manages an Engineering organization responsible for
         developing the TiVo experience for set-top boxes at millions of
         households worldwide. Before joining TiVo, May worked at Palm and IBM
         Cairo Scientific Center. Throughout her career, May focused on building
@@ -198,8 +202,7 @@ board:
         opening a dialogue.
       image: /img/archive/2019/02/Allam-May-300x300-2.jpg
       name: May Allam
-    - bio: >-
-        <strong>Rebecca Novick</strong> is a theatremaker based in San Francisco
+    - bio: <strong>Rebecca Novick</strong> is a theatremaker based in San Francisco
         Bay Area. Recent projects have included <em>Electra</em> at Ten Thousand
         Things in Minneapolis, the world premiere of <em>A Ghost Town</em> by
         Juliette Carrillo for Cornerstone Theater in Los Angeles, a production
@@ -216,8 +219,7 @@ board:
         support the sharing of diverse stories of the Middle East.
       image: /img/archive/2017/12/Novick-Rebecca.jpg
       name: Rebecca Novick
-    - bio: >-
-        <strong>Torange Yeghiazarian</strong> (Executive Artistic Director)
+    - bio: "<strong>Torange Yeghiazarian</strong> (Executive Artistic Director)
         founded Golden Thread in 1996 where she launched such visionary programs
         as ReOrient Festival &#038; Forum, Middle East America (in partnership
         with the Lark and Silkroad Rising), Islam 101 (with Hafiz Karmali), New
@@ -241,11 +243,10 @@ board:
         University. Torange has been recognized by Theatre Bay Area and is one
         of Theatre Communication Group’s Legacy Leaders of Color. She was
         honored by the Cairo International Theatre Festival (2016) and the
-        Symposium on Equity in the Entertainment Industry (2017).
+        Symposium on Equity in the Entertainment Industry (2017)."
       image: /img/archive/2014/03/torange_headshot_tfs.jpg
       name: Torange Yeghiazarian
-    - bio: >-
-        <strong>Murrey Nelson</strong> is the Director of Development for
+    - bio: <strong>Murrey Nelson</strong> is the Director of Development for
         Chanticleer, a 39-year-old men’s a cappella group based in San
         Francisco.  Following 20 years in the for-profit sector, primarily doing
         trademark licensing in the fashion industry, she made the decision to be
@@ -253,18 +254,17 @@ board:
         years, mostly in the field of classical music.  Murrey got to know
         Golden Thread when they were a tenant of Z Space, where she served on
         the board for 11 years; and got to know them more intimately when she
-        provided fundraising consulting services to the organization in 2014. 
-        She has served on three theatre boards, and is currently serving on the
-        board of Sojourn, the multi-faith volunteer chaplaincy at Zuckerberg San
-        Francisco General Hospital.  She is also on the Vestry of Trinity Saint
-        Peters Episcopal Church and is the Chair of the Phillips Academy
-        (Andover) Northern California Regional Alumni Association.  Murrey is
-        delighted to bring her expertise to such a fine theatre company as
-        Golden Thread.
+        provided fundraising consulting services to the organization in
+        2014.  She has served on three theatre boards, and is currently serving
+        on the board of Sojourn, the multi-faith volunteer chaplaincy at
+        Zuckerberg San Francisco General Hospital.  She is also on the Vestry of
+        Trinity Saint Peters Episcopal Church and is the Chair of the Phillips
+        Academy (Andover) Northern California Regional Alumni
+        Association.  Murrey is delighted to bring her expertise to such a fine
+        theatre company as Golden Thread.
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
-    - bio: >-
-        <strong>Babak Sani</strong> is a partner at the law firm of Kilpatrick
+    - bio: <strong>Babak Sani</strong> is a partner at the law firm of Kilpatrick
         Townsend &#038; Stockton, where he has been practicing law since 1992.
         Prior to that, he had an engineering career in Silicon Valley as an
         integrated circuit designer in the microelectronics industry. He was
@@ -286,8 +286,7 @@ board:
 artists:
   heading: Resident Artists
   items:
-    - bio: >-
-        <strong>HASSAN ABDULRAZZAK (Resident Artist / Playwright)</strong> is of
+    - bio: '<strong>HASSAN ABDULRAZZAK (Resident Artist / Playwright)</strong> is of
         Iraqi origin, born in Prague and living in London. His plays include
         <em>Baghdad Wedding </em>(Soho Theatre, 2007; Belvoir St Theatre, 2009;
         Akvarious Productions, 2010), <em>The Prophet </em>(Gate Theatre, 2012),
@@ -303,13 +302,12 @@ artists:
         He is the recipient of George Devine, Meyer-Whitworth and Pearson
         theatre awards, as well as the Arab British Centre Award for Culture.
         <strong><a href="http://abdulrazzak.weebly.com"
-        target="_blank">abdulrazzak.weebly.com</a></strong>
+        target="_blank">abdulrazzak.weebly.com</a></strong>'
       credit: Playwright
       image: /img/archive/2018/02/Abdulrazzak-Hassan-300x300.jpg
       name: Hassan Abdulrazzak
-    - bio: >-
-        <strong>MUNAF ALSAFI (Resident Artist / Actor and Musician) </strong>is
-        a Bay Area musician and actor who was introduced to theatre with
+    - bio: "<strong>MUNAF ALSAFI (Resident Artist / Actor and Musician) </strong>is a
+        Bay Area musician and actor who was introduced to theatre with
         <em>Aftermath</em> (Theatre Period) in 2012. Since then, he has acted
         with Golden Thread Productions, Bay Area Children&#8217;s Theatre, The
         One Minute Play Festival, and Indistage, amongst others. Recent
@@ -322,12 +320,11 @@ artists:
         Mississippi where he was exposed to the delta blues and rhythm and
         blues. He writes music, is a multi-instrumentalist and vocalist, and his
         instrument of choice is the Oud. He enjoys blending music and theatre
-        whenever possible.</p>
+        whenever possible.</p>"
       credit: Actor
       image: /img/archive/2018/02/Alsafi-Munaf-300x300.jpg
       name: Munaf Alsafi
-    - bio: >-
-        <strong>KENAN ARUN (Resident Artist / Makeup Designer) </strong>is a
+    - bio: '<strong>KENAN ARUN (Resident Artist / Makeup Designer) </strong>is a
         makeup artist for stage and FX makeup for 10 years, and has been working
         with Golden Thread Productions since 2014. Some of his credits include
         <em>The Maids</em> by Jean Genet (Stage on the Run, One-Act Festival,
@@ -344,13 +341,12 @@ artists:
         Enemies: Lively Scenes of Love and Combat</em> by Yussef El Guindi
         (Golden Thread Productions, San Francisco, 2017). He also serves as Wig
         &amp; Makeup Consultant at Drunk Drag Broadway. <strong><a
-        href="http://kenanarunmakeup.com">kenanarunmakeup.com</a></strong>
+        href="http://kenanarunmakeup.com">kenanarunmakeup.com</a></strong>'
       credit: Make-up Designer
       image: /img/archive/2018/02/Arun-Kenan-300x300.jpg
       name: Kenan Arun
-    - bio: >-
-        <strong>CASSIE BARNES (Resident Artist / Lighting Designer) </strong>is
-        a lighting designer all across the Bay Area for companies such as Golden
+    - bio: <strong>CASSIE BARNES (Resident Artist / Lighting Designer) </strong>is a
+        lighting designer all across the Bay Area for companies such as Golden
         Thread Productions, Breadbox, Bay Area Children&#8217;s Theatre, 99
         Stock Productions, Wiley West Productions, and Custom Made. She has
         recently expanded her career to include dance, which has led her to work
@@ -360,8 +356,7 @@ artists:
       credit: Lighting Designer
       image: /img/archive/2018/02/Barnes-Cassie-300x300.jpg
       name: Cassie Barnes
-    - bio: >-
-        <strong>YUSSEF EL GUINDI’s (Resident Artist / Playwright)</strong>
+    - bio: "<strong>YUSSEF EL GUINDI’s (Resident Artist / Playwright)</strong>
         productions include <em>The Talented Ones</em> at Artists Repertory
         Theatre in Portland (Santa Barbara Independent Indy Award); <em>Our
         Enemies: Lively Scenes of Love and Combat</em> at Golden Thread
@@ -375,12 +370,11 @@ artists:
         <em>Language Rooms</em> (Edgerton Foundation New American Play Award),
         co-produced by Golden Thread Productions and Asian American Theater
         Company in San Francisco; at the Wilma Theater in Philadelphia
-        (premiere), and at the Los Angeles Theater Center.
+        (premiere), and at the Los Angeles Theater Center."
       credit: Playwright
       image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
       name: Yussef El Guindi
-    - bio: >-
-        <strong>NAKISSA ETEMAD (Resident Artist / Dramaturg) </strong>is a
+    - bio: <strong>NAKISSA ETEMAD (Resident Artist / Dramaturg) </strong>is a
         professional dramaturg, producer, director, and French translator based
         in San Francisco. The Regional VP of Metro Bay Area for the Literary
         Managers and Dramaturgs of the Americas (LMDA), she has worked in the
@@ -400,9 +394,8 @@ artists:
       credit: Dramaturg
       image: /img/archive/2018/02/Etemad-Nakissa-300x300.jpg
       name: Nakissa Etemad
-    - bio: >-
-        <strong>HANNAH KHALIL’s (Resident Artist / Playwright) </strong>stage
-        plays include <em>The Scar Test</em> opened at Soho Theatre, London
+    - bio: <strong>HANNAH KHALIL’s (Resident Artist / Playwright) </strong>stage plays
+        include <em>The Scar Test</em> opened at Soho Theatre, London
         (“Political Theatre at its best” —<em>Exeunt</em>)<em>, Scenes from 68*
         Years</em> at Arcola Theatre, London (2017 James Tait Black Award
         nomination; “confirms Khalil as a dramatist of compelling potential”
@@ -423,8 +416,7 @@ artists:
       credit: Playwright
       image: /img/archive/2018/02/Khalil-Hannah-300x300.jpg
       name: Hannah Khalil
-    - bio: >-
-        <strong>RONEET ALIZA RAHAMIM (Resident Artist / Actor) </strong>made her
+    - bio: <strong>RONEET ALIZA RAHAMIM (Resident Artist / Actor) </strong>made her
         professional Bay Area debut performing with Golden Thread Productions in
         2012. After receiving a B.F.A. in Acting from Marymount Manhattan
         College, she spent time working in the Twin Cities in Minnesota with
@@ -442,19 +434,17 @@ artists:
       credit: Actor
       image: /img/archive/2018/02/Rahamim-Roneet-300x300.jpg
       name: Roneet Aliza Rahamim
-    - bio: >-
-        <strong>DAMIEN SEPERI (Resident Artist / Actor) </strong>has done
-        several plays and readings with people he considers friends at Golden
-        Thread Productions, including the world premiere of <em>Autobiography of
-        a Terrorist </em>by Saïd Sayrafiezadeh and the ReOrient 2015 Festival of
+    - bio: <strong>DAMIEN SEPERI (Resident Artist / Actor) </strong>has done several
+        plays and readings with people he considers friends at Golden Thread
+        Productions, including the world premiere of <em>Autobiography of a
+        Terrorist </em>by Saïd Sayrafiezadeh and the ReOrient 2015 Festival of
         Short Plays. He has been acting in the Bay Area for many years, and
         hopes to continue doing so for many more. He studied at A.C.T. and
         Berkeley Repertory Theatre. Vives les artistes!
       credit: Actor
       image: /img/archive/2015/08/damien-seperi300x300.jpg
       name: Damien Seperi
-    - bio: >-
-        Born in Iran, <strong>MOHAMMAD TALANI (Resident Artist / Actor and
+    - bio: Born in Iran, <strong>MOHAMMAD TALANI (Resident Artist / Actor and
         Musician) </strong>is a Berkeley-based musician, actor, and
         videographer. He is founding member of BandBand and joined the indie
         Iranian band, Kiosk in 2012. He has been living in U.S. since 2010 and
@@ -463,8 +453,7 @@ artists:
       credit: Actor and Musician
       image: /img/archive/2016/09/Headshot-MohammadTalani-300x300.jpg
       name: Mohammad Talani
-    - bio: >-
-        <strong>MIKIKO UESUGI (Resident Artist / Scenic Designer)
+    - bio: "<strong>MIKIKO UESUGI (Resident Artist / Scenic Designer)
         </strong>designed <em>Our Enemies: Lively Scenes of Love and
         Combat</em>, <em>444 Days</em>, <em>Language Room</em>, <em>Night Over
         Erzinga,</em> and ReOrient 2004 Festival of Short Plays for Golden
@@ -482,38 +471,35 @@ artists:
         </em>and has exhibited her work in Tokyo. She received her M.F.A. in
         Theatre Arts from SFSU and held a design internship at A.C.T. She is a
         recipient of the NEA/TCG Career Development Program for Designers,
-        Ignite Fund, and the Isadora Duncan Dance Award.
+        Ignite Fund, and the Isadora Duncan Dance Award."
       credit: Scenic Designer
       image: /img/archive/2018/02/Uesugi-Mikiko-300x300.jpg
       name: Mikiko Uesugi
-    - bio: >-
-        <strong>SOFIA AHMAD (Resident Artist / Actor)</strong> is an
-        Oakland-based actor, ballroom dance instructor and choreographer, and
-        teaching artist. Her first collaboration with Golden Thread was in 2003
-        on the original musical <em>The Love Missile<strong>.
-        </strong></em>Since then, she has had the pleasure of appearing in the
-        mainstage productions of <em>Isfahan Blues</em> and <em>The Most
-        Dangerous Highway in the World,</em> as well as many readings. Other
-        local acting credits include SF Shakespeare Festival, Magic Theatre,
-        Shakespeare Santa Cruz, Those Women Productions, Arabian Shakespeare
-        Festival, San Jose Stage, Pacific Repertory Theater, Bay Area
-        Playwrights Festival, and New Conservatory Theatre Center. Theatre
-        choreography credits include San Francisco Playhouse and Inverness
-        Shakespeare. She has served as a teaching artist with SF Shakespeare,
-        Theatreworks, Word 4 Word, San Francisco School, and the City of
-        Piedmont. Sofia is a graduate of NYU’s Tisch School of the Arts and a
-        proud member of AEA and SAG-AFTRA. <strong><a
+    - bio: <strong>SOFIA AHMAD (Resident Artist / Actor)</strong> is an Oakland-based
+        actor, ballroom dance instructor and choreographer, and teaching artist.
+        Her first collaboration with Golden Thread was in 2003 on the original
+        musical <em>The Love Missile<strong>. </strong></em>Since then, she has
+        had the pleasure of appearing in the mainstage productions of
+        <em>Isfahan Blues</em> and <em>The Most Dangerous Highway in the
+        World,</em> as well as many readings. Other local acting credits include
+        SF Shakespeare Festival, Magic Theatre, Shakespeare Santa Cruz, Those
+        Women Productions, Arabian Shakespeare Festival, San Jose Stage, Pacific
+        Repertory Theater, Bay Area Playwrights Festival, and New Conservatory
+        Theatre Center. Theatre choreography credits include San Francisco
+        Playhouse and Inverness Shakespeare. She has served as a teaching artist
+        with SF Shakespeare, Theatreworks, Word 4 Word, San Francisco School,
+        and the City of Piedmont. Sofia is a graduate of NYU’s Tisch School of
+        the Arts and a proud member of AEA and SAG-AFTRA. <strong><a
         href="http://www.sofiaahmad.com/">sofiaahmad.com</a></strong>
       credit: Actor
       image: /img/archive/2018/02/Ahmad-Sofia-300x300.jpg
       name: Sofia Ahmad
-    - bio: >-
-        <strong>WESLEY APFEL (Resident Artist / Stage Manager) </strong>is
-        excited to join the team of Resident Artists at Golden Thread.  For the
-        company, he has stage managed the ReOrient Festivals in 2012 and 2015,
-        and the world premiere of <em>Night Over Erzinga</em>.  Bay Area credits
-        include <em>Detroit, After the Revolution</em>, and <em>This Is How It
-        Goes </em>(Aurora); <em>The 39 Steps</em>, <em>Lucky Stiff,</em> and
+    - bio: "<strong>WESLEY APFEL (Resident Artist / Stage Manager) </strong>is excited
+        to join the team of Resident Artists at Golden Thread.  For the company,
+        he has stage managed the ReOrient Festivals in 2012 and 2015, and the
+        world premiere of <em>Night Over Erzinga</em>.  Bay Area credits include
+        <em>Detroit, After the Revolution</em>, and <em>This Is How It Goes
+        </em>(Aurora); <em>The 39 Steps</em>, <em>Lucky Stiff,</em> and
         <em>Xanadu</em> (Center REP); <em>Somewhere</em> (Theatreworks). He’s
         spent five seasons with the Sacramento Theatre Company, including the
         world premieres of <em>The Donner Party: An American Musical, Of Kites
@@ -523,12 +509,11 @@ artists:
         Gutenberg the Musical!, Bat Boy, The Musical of Musicals</em>,
         <em>Little Fish </em>and <em>The Thing About Men</em>. Wes also served
         as the Production Supervisor for the Summer Play Festival at the Public
-        Theatre.
+        Theatre."
       credit: Stage Manager
       image: /img/archive/2018/02/Apfel-Wesley-300x300.jpg
       name: Wesley Apfel
-    - bio: >-
-        <strong>JAMES ASHER (Resident Artist / Actor) </strong>Regional:
+    - bio: "<strong>JAMES ASHER (Resident Artist / Actor) </strong>Regional:
         <em>Sweeney Todd, Show Boat</em> (San Francisco Opera); <em>The Laramie
         Project</em> (Berkeley Rep/La Jolla Playhouse); <em>Three Trials of
         Oscar Wilde</em> (national tour); <em>Picasso at the Lapin Agile</em>
@@ -542,34 +527,32 @@ artists:
         America</em> (Second Stage Studio); <em>Sajjil (Record)</em> (Nibras
         Theater Co). Film: <em>Paradise Club</em>, <em>Us</em>, <em>The
         Singularity is Near</em>. TV: <em>Parenthood</em> (NBC), <em>Spicy
-        City</em> (HBO), <em>Chance</em> (Hulu).
+        City</em> (HBO), <em>Chance</em> (Hulu)."
       credit: Actor
       image: /img/archive/2018/02/Asher-James-300x300.jpg
       name: James Asher
-    - bio: >-
-        <strong>KATE BOYD (Resident Artist / Scenic and Lighting Designer)
+    - bio: "<strong>KATE BOYD (Resident Artist / Scenic and Lighting Designer)
         </strong>recently designed sets for ReOrient 2017 Festival of Short
         Plays, sets and lights for <em>Isfahan </em><em>Blues</em>, and sets for
         <em>The Most Dangerous Highway in the World </em>(TBA Award nomination).
         Other credits: Aurora Theatre, Center Rep, Magic Theatre, Merola Opera,
         SF Conservatory of Music, Marin Theatre Company, TheatreWorks, and
         Brava. Kate teaches stagecraft and design at Lick-Wilmerding High
-        School, and was a recipient of the Gerbode Design Fellowship.
+        School, and was a recipient of the Gerbode Design Fellowship."
       credit: Scenic and Lighting Designer
       image: /img/archive/2018/02/Boyd-Kate-300x300.jpg
       name: Kate Boyd
-    - bio: >-
-        <strong>DEBÓRAH ELIEZER (Resident Artist / Actor)</strong>, is an
-        ensemble theatre maker. She has been working with Golden Thread since
-        2003. Golden Thread credits include <em>Karima’s City</em> (2003
-        ReOrient and 2004 Cairo Festival of Experimental Theatre) by Yussef El
-        Guindi, <em>The Admission</em> by Mottie Lerner, <em>Ecstasy, a
-        Waterfable</em> by Denmo Ibrahim, and <em>The Fifth String</em> by
-        Torange Yeghiazarian. Eliezer is the Co-Artistic Director of foolsFURY,
-        producing new work, a national festival, internship opportunities, and
-        public educational programs. She holds a BA Cum Laude from SF State
-        University and a certificate in Sound, Voice, Music Healing from CIIS.
-        With foolsFURY, Eliezer has created and performed in world premieres of
+    - bio: <strong>DEBÓRAH ELIEZER (Resident Artist / Actor)</strong>, is an ensemble
+        theatre maker. She has been working with Golden Thread since 2003.
+        Golden Thread credits include <em>Karima’s City</em> (2003 ReOrient and
+        2004 Cairo Festival of Experimental Theatre) by Yussef El Guindi,
+        <em>The Admission</em> by Mottie Lerner, <em>Ecstasy, a Waterfable</em>
+        by Denmo Ibrahim, and <em>The Fifth String</em> by Torange Yeghiazarian.
+        Eliezer is the Co-Artistic Director of foolsFURY, producing new work, a
+        national festival, internship opportunities, and public educational
+        programs. She holds a BA Cum Laude from SF State University and a
+        certificate in Sound, Voice, Music Healing from CIIS. With foolsFURY,
+        Eliezer has created and performed in world premieres of
         <em>(dis)Place\[d]</em>, which she wrote and performed, <em>The Unheard
         of World</em> by Fabrice Melquiot,  <em>Faulted</em> by Angela Santillo,
         <em>Port Out Starboard Home</em> with Sheila Callaghan (SF and NYC),
@@ -594,11 +577,9 @@ artists:
         Venado, a 33-acre artist retreat center.  For more information, visit
         Venado Retreat on Facebook.
       credit: Actor
-      image: >-
-        https://ucarecdn.com/cdce5e77-a294-4caa-b3d4-ac8158d1b908/-/crop/2400x2378/0,364/-/preview/
+      image: https://ucarecdn.com/cdce5e77-a294-4caa-b3d4-ac8158d1b908/-/crop/2400x2378/0,364/-/preview/
       name: Debórah Eliezer
-    - bio: >-
-        <strong>NASEEM ETEMAD (Resident Artist / Actor) </strong>is a Los
+    - bio: <strong>NASEEM ETEMAD (Resident Artist / Actor) </strong>is a Los
         Angeles-based actor that has worked both behind the scenes and on stage
         with Golden Thread Productions over the last three years, appearing in
         their New Threads Reading Series, in ReOrient 2015 as Yuliana in
@@ -610,8 +591,7 @@ artists:
       credit: Actor
       image: /img/archive/2018/02/Etemad-Naseem-300x300.jpg
       name: Naseem Etemad
-    - bio: >-
-        <strong>MONA MANSOUR</strong> <strong>(Resident Artist /
+    - bio: '<strong>MONA MANSOUR</strong> <strong>(Resident Artist /
         Playwright)</strong> <em>We Swim, We Talk, We Go to War</em>, directed
         by Evren Odcikin, will premiere at Golden Thread in 2018. <em>The
         Vagrant Trilogy </em>premieres at Mosaic Theater in D.C. in June 2018,
@@ -632,24 +612,23 @@ artists:
         Playwrights Horizons, Old Globe Theater, La Jolla Playhouse, and Oregon
         Shakespeare Festival’s “American Revolutions.” 2012 Whiting Award. 2014
         Middle East America Distinguished Playwright Award. <strong><a
-        href="http://www.monamansour.com">monamansour.com</a></strong>
+        href="http://www.monamansour.com">monamansour.com</a></strong>'
       credit: Playwright
       image: /img/archive/2013/07/mona-headshot.jpg
       name: Mona Mansour
-    - bio: >-
-        <strong>SARA RAZAVI (Resident Artist / Director and Actor)
-        </strong>served on the Golden Thread Board of Trustees from 2010-2016.
-        Razavi first collaborated with Golden Thread as a performer in ReOrient
-        2007. She joined the ReOrient team again in 2009, notably as the
-        monologist in <em>The Monologist Suffers Her Monologue</em> by Yussef El
-        Guindi. In addition to performance, Razavi has also directed several
-        productions as part of ReOrient Festivals, including Mona Mansour and
-        Tala Manassah’s <em>The Letter (2012) </em>and <em>The House</em>
-        (2015), Farzam Farrokhi’s <em>2012 </em>(2012), Nahal Navidar’s
-        <em>Songs of our Childhood</em> (2015), E.H. Benedict&#8217;s <em>War on
-        Terror </em>(2017)<em>, </em>and Sevan K. Greene&#8217;s <em>A is For
-        Ali </em>(2017). In addition to Golden Thread, some of Razavi’s favorite
-        Bay Area collaborations include various productions with Elastic Future,
+    - bio: <strong>SARA RAZAVI (Resident Artist / Director and Actor) </strong>served
+        on the Golden Thread Board of Trustees from 2010-2016. Razavi first
+        collaborated with Golden Thread as a performer in ReOrient 2007. She
+        joined the ReOrient team again in 2009, notably as the monologist in
+        <em>The Monologist Suffers Her Monologue</em> by Yussef El Guindi. In
+        addition to performance, Razavi has also directed several productions as
+        part of ReOrient Festivals, including Mona Mansour and Tala Manassah’s
+        <em>The Letter (2012) </em>and <em>The House</em> (2015), Farzam
+        Farrokhi’s <em>2012 </em>(2012), Nahal Navidar’s <em>Songs of our
+        Childhood</em> (2015), E.H. Benedict&#8217;s <em>War on Terror
+        </em>(2017)<em>, </em>and Sevan K. Greene&#8217;s <em>A is For Ali
+        </em>(2017). In addition to Golden Thread, some of Razavi’s favorite Bay
+        Area collaborations include various productions with Elastic Future,
         Maryam Rostami’s, <em>Persepolis, Texas</em> for CounterPULSE, and Denmo
         Ibrahim’s <em>BABA </em>for Alter Theatre (winner for San Francisco Bay
         Area Theatre Critics Circle award for “Best Original Script” and nominee
@@ -662,8 +641,7 @@ artists:
       credit: Director and Actor
       image: /img/archive/2015/08/Sara-Razavi300x300.jpg
       name: Sara Razavi
-    - bio: >-
-        <strong>LISA TATEOSIAN (Resident Artist / Choreographer and
+    - bio: "<strong>LISA TATEOSIAN (Resident Artist / Choreographer and
         Actor)</strong> has been working with Golden Thread since 2002, when she
         choreographed and performed in the musical <em>Love Missile</em>. She
         has since worn many hats with the company: performer in a number of
@@ -680,12 +658,11 @@ artists:
         schools in the Bay Area, and toured in California in school productions.
         She has enjoyed choreographing for student shows and professional
         theatre. Lisa holds a B.A. in Fine Arts from Mills College and a M.A. in
-        Educational Theatre from New York University.
+        Educational Theatre from New York University."
       credit: Actor and Choreographer
       image: /img/archive/2018/02/Tateosian-Lisa-300x300.jpg
       name: Lisa Tateosian
-    - bio: >-
-        <strong>BELLA WARDA (Resident Artist / Actor and Director),</strong> an
+    - bio: <strong>BELLA WARDA (Resident Artist / Actor and Director),</strong> an
         Iranian-born Berkeley resident, has worn many hats in the world of
         theatre, including acting, directing, and set and costume design. Some
         hats looked better than others. She hopes the hat she is wearing this
@@ -694,8 +671,7 @@ artists:
       credit: Actor and Director
       image: /img/archive/2018/02/Warda-Bella-300x300.jpg
       name: Bella Warda
-    - bio: >-
-        <strong>SHORESH ALAUDINI (Resident Artist / Actor) </strong>is a self-
+    - bio: <strong>SHORESH ALAUDINI (Resident Artist / Actor) </strong>is a self-
         proclaimed mavenous artist, combining ravenous and maven to encompass
         his insatiable desire to express through any possible creative outlet at
         his disposal. He received his B.A. in Performing Arts and Social Justice
@@ -714,8 +690,7 @@ artists:
       credit: Actor
       image: /img/archive/2018/02/Alaudini-Shoresh-300x300.jpg
       name: Shoresh Alaudini
-    - bio: >-
-        <strong>JAMES ARD (Resident Artist / Sound Designer) </strong>Ard is a
+    - bio: '<strong>JAMES ARD (Resident Artist / Sound Designer) </strong>Ard is a
         local San Francisco designer, noisemaker, mechanic, and theatre vagrant,
         who composes soundscapes &amp; music for humans, dogs, parrots, and
         bicycles. Ard’s sound design has been heard at the Public Theater in New
@@ -727,14 +702,13 @@ artists:
         World</em>, and sound design for various plays presented at ReOrient
         Festivals 2015 and 2017.  Ard is a co-founder of SoundPlay.media, and is
         currently producing short plays for podcast at <strong><a
-        href="http://www.barewiretheatre.com">BareWireTheatre.com</a></strong>.
+        href="http://www.barewiretheatre.com">BareWireTheatre.com</a></strong>.'
       credit: Sound Designer
       image: /img/archive/2018/02/Ard-James-300x300.jpg
       name: James Ard
-    - bio: >-
-        <strong>ATOSA MELODY BABAOFF (Resident Artist / Actor) </strong>is
-        thrilled to be on this adventure with her old friends and theatre family
-        at Golden Thread. She was just graduating from the American Conservatory
+    - bio: <strong>ATOSA MELODY BABAOFF (Resident Artist / Actor) </strong>is thrilled
+        to be on this adventure with her old friends and theatre family at
+        Golden Thread. She was just graduating from the American Conservatory
         Theater&#8217;s M.F.A. Program when she dove into her first Golden
         Thread production of <em>Nine Armenians</em> back in the early-2000s.
         She has worked with Golden Thread sporadically ever since, and this last
@@ -752,8 +726,7 @@ artists:
       credit: Actor
       image: /img/archive/2018/02/Babaoff-Atosa-300x300.jpg
       name: Atosa Melody Babaoff
-    - bio: >-
-        <strong>JIM CAVE (Resident Artist / Lighting Designer) </strong>has
+    - bio: "<strong>JIM CAVE (Resident Artist / Lighting Designer) </strong>has
         focused on the development of new theatre and multi-disciplinary and
         site-specific performances for the past 40 years. He has directed and
         designed plays, dance, dance-theater, opera, new music theatre,
@@ -770,12 +743,11 @@ artists:
         Word for Word, Intersection for the Arts, Aurora Theatre Company, Eureka
         Theatre, Woody Woodman’s Finger Palace, Erling Wold, Robert Ernst, Anna
         Halprin, Ruth Zaporah, The Residents, Deborah Slater, Oliver DiCicco and
-        Mobius Operandi, Magic Theatre, Darvag, and Golden Thread.
+        Mobius Operandi, Magic Theatre, Darvag, and Golden Thread."
       credit: Lighting Designer
       image: /img/archive/2018/02/Cave-Jim-300x300.jpg
       name: Jim Cave
-    - bio: >-
-        <strong>NORA EL SAMAHY (Resident Artist / Actor)</strong> began her
+    - bio: <strong>NORA EL SAMAHY (Resident Artist / Actor)</strong> began her
         professional acting career in 1998 as a Fairy in San Francisco
         Shakespeare Festival’s production of <em>A Midsummer Night’s Dream</em>.
         She then went on to work with Campo Santo, Golden Thread Productions,
@@ -791,30 +763,28 @@ artists:
       credit: Actor
       image: /img/archive/2015/08/NoraelSamahy300x300.jpg
       name: Nora el Samahy
-    - bio: >-
-        <strong>DENMO IBRAHIM (Resident Artist / Actor and Playwright)
-        </strong>is an actor and writer based in the San Francisco Bay Area. She
-        originated the role of Nana in the world premiere of <em>A Thousand
-        Splendid Suns</em>(American Conservatory Theatre &amp; Theatre Calgary)
-        and will continue a national tour this time in the role of Mariam
-        opening at The Old Globe in San Diego in May 2018<em>. </em>Recent
-        credits include<em> </em>Kathryn in <em>Splendour </em>at Aurora
-        Theatre, Noor in <em>Our Enemies: Lively Scenes of Love and Combat
-        </em>at Golden Thread Productions (nominated for a SF Bay Area Theatre
-        Critics’ Circle Award)<em>, </em>Claudio in <em>Much Ado About</em>
-        <em>Nothing</em> at California Shakespeare Theater, and Tyra in <em>I
-        Call My Brothers</em> at Crowded Fire Theater Company (Theatre Bay Area
-        Award for Outstanding Female Actor in a Featured Role). Her solo show
-        <em>BABA</em>, funded by the National Endowment for the Arts, won a
-        SFBATCC for best original script. Ibrahim is a founding artistic
-        director of Mugwumpin. She earned her MFA in Lecoq-Based Actor-Created
-        Physical Theatre from Naropa University and a BFA in acting from Boston
-        University. <a href="http://adenmoproject.com/">adenmoproject.com</a>
+    - bio: '<strong>DENMO IBRAHIM (Resident Artist / Actor and Playwright) </strong>is
+        an actor and writer based in the San Francisco Bay Area. She originated
+        the role of Nana in the world premiere of <em>A Thousand Splendid
+        Suns</em>(American Conservatory Theatre &amp; Theatre Calgary) and will
+        continue a national tour this time in the role of Mariam opening at The
+        Old Globe in San Diego in May 2018<em>. </em>Recent credits include<em>
+        </em>Kathryn in <em>Splendour </em>at Aurora Theatre, Noor in <em>Our
+        Enemies: Lively Scenes of Love and Combat </em>at Golden Thread
+        Productions (nominated for a SF Bay Area Theatre Critics’ Circle
+        Award)<em>, </em>Claudio in <em>Much Ado About</em> <em>Nothing</em> at
+        California Shakespeare Theater, and Tyra in <em>I Call My Brothers</em>
+        at Crowded Fire Theater Company (Theatre Bay Area Award for Outstanding
+        Female Actor in a Featured Role). Her solo show <em>BABA</em>, funded by
+        the National Endowment for the Arts, won a SFBATCC for best original
+        script. Ibrahim is a founding artistic director of Mugwumpin. She earned
+        her MFA in Lecoq-Based Actor-Created Physical Theatre from Naropa
+        University and a BFA in acting from Boston University. <a
+        href="http://adenmoproject.com/">adenmoproject.com</a>'
       credit: Actor and Playwright
       image: /img/archive/2016/09/Headshot-Denmo-Ibrahim-300x300.jpg
       name: Denmo Ibrahim
-    - bio: >-
-        <strong>LAWRENCE RADECKER’s (Resident Artist / Actor) </strong>first
+    - bio: <strong>LAWRENCE RADECKER’s (Resident Artist / Actor) </strong>first
         production with Golden Thread was the ReOrient 2003 Festival, which then
         turned into an ongoing relationship with Torange and the company through
         to the most recent ReOrient 2017 Festival. After a few more Festivals,
@@ -827,10 +797,9 @@ artists:
       credit: Actor
       image: /img/archive/2018/02/Radecker-Lawrence-300x300.jpg
       name: Lawrence Radecker
-    - bio: >-
-        <strong>KAREN RUNK (Resident Artist / Stage Manager)</strong> moved to
-        San Francisco with the intention of only staying for a few months&#8230;
-        Two decades later, she&#8217;s still here! This is largely due to the
+    - bio: <strong>KAREN RUNK (Resident Artist / Stage Manager)</strong> moved to San
+        Francisco with the intention of only staying for a few months&#8230; Two
+        decades later, she&#8217;s still here! This is largely due to the
         talented folks at the SF Mime Troupe, where Runk is the resident
         Production Stage Manager, but mostly due to rent control! Runk has also
         stage managed with the Magic Theatre, SF Shakespeare Festival,
@@ -841,8 +810,7 @@ artists:
       credit: Stage Manager
       image: /img/archive/2018/02/Runk-Karen-300x300.jpg
       name: Karen Runk
-    - bio: >-
-        <strong>BENJAMIN SHIU (Resident Artist / Stage Manager) </strong>Golden
+    - bio: "<strong>BENJAMIN SHIU (Resident Artist / Stage Manager) </strong>Golden
         Thread credits: <em>Autobiography of a Terrorist </em>(stage manager),
         <em>Oh My Sweet Land </em>(assistant stage manager), <em>Our Enemies:
         Lively Scenes of Love and Combat </em>(production assistant). Other
@@ -850,17 +818,16 @@ artists:
         of Autumn, You For Me For You, The Shipment, </em>and <em>I Call My
         Brothers </em>at Crowded Fire (assistant stage manager); <em>Chinglish
         </em>at Palo Alto Players (set crew); and <em>Crane </em>at Ferocious
-        Lotus (front of house management). B.A. in Drama, SFSU.
+        Lotus (front of house management). B.A. in Drama, SFSU."
       credit: Stage Manager
       image: /img/archive/2018/02/Shiu-Benjamin-300x300.jpg
       name: Benjamin Shiu
-    - bio: >-
-        <strong>Grisel (GG) Torres</strong> is from the Bay Area by way of
-        migrant parents from Guanajuato, México. She studied Technical Theatre,
-        Light Design, and Props Design at San Francisco State University. She
-        also loves to paint and create movement-based performance art, and sees
-        the two art forms as a vantage point for learning about self-healing.
-        Grisel is the Production Manager and a Resident Artist for Golden Thread
+    - bio: <strong>Grisel (GG) Torres</strong> is from the Bay Area by way of migrant
+        parents from Guanajuato, México. She studied Technical Theatre, Light
+        Design, and Props Design at San Francisco State University. She also
+        loves to paint and create movement-based performance art, and sees the
+        two art forms as a vantage point for learning about self-healing. Grisel
+        is the Production Manager and a Resident Artist for Golden Thread
         Productions, and is also the Venue Manager for the Joe Goode Annex in
         the Mission. She often designs lights for PUSH Dance Company and Queer
         Punk performance artist Keith Hennessy. She is extremely grateful to
@@ -868,8 +835,7 @@ artists:
       credit: Stage Manager and Props Designer
       image: /img/archive/2018/02/Torres-Grisel-300x300.jpg
       name: Grisel (GG) Torres
-    - bio: >-
-        **Evren Odcikin** is the Interim Associate Artistic Director at Oregon
+    - bio: "**Evren Odcikin** is the Interim Associate Artistic Director at Oregon
         Shakespeare Festival, a founder of Maia Directors, and a resident artist
         at Golden Thread. As a director, he's worked at South Coast Rep,
         Berkeley Rep, New York Theater Workshop, Kennedy Center, InterAct
@@ -878,8 +844,8 @@ artists:
         amongst many others. He will direct Heather Raffo's*Nine Parts of
         Desire*at Portland Center Stage next, and he is under commission at Cal
         Shakes with Leila Buck to create*1001 Nights (A Retelling)*, which he
-        will direct in 2020.[odcikin.com](https://www.odcikin.com/)
-      image: 'https://ucarecdn.com/300227b3-3f99-4951-b869-a3cec629c2e3/'
+        will direct in 2020.[odcikin.com](https://www.odcikin.com/)"
+      image: https://ucarecdn.com/300227b3-3f99-4951-b869-a3cec629c2e3/
       name: Evren Odcikin
   text: >
     After years of building a thriving artistic community, we’re finally making
@@ -890,47 +856,26 @@ artists:
 advisors:
   heading: Advisory Board
   items:
-    - credit: >-
-        Director, The Center for Middle Eastern and North African Studies, and
+    - credit: Director, The Center for Middle Eastern and North African Studies, and
         Associate Professor, Near Eastern Studies, University of Michigan
       name: Samer Ali
-      link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
-    - credit: 'Assistant Professor of Theater and Performance Studies, Stanford University'
-      name: Samer Al-Saber
-      link: https://ccsre.stanford.edu/people/samer-al-saber
-    - credit: >-
-        Distinguished Professor, Theatre, Comparative Literature, and Middle
+    - credit: Distinguished Professor, Theatre, Comparative Literature, and Middle
         Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
-      link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
-    - credit: 'Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing'
-      name: Catherine Coray
-      link: https://tisch.nyu.edu/about/directory/drama/94426744
-    - credit: >-
-        Professor, Iranian Studies and Comparative Literature, Columbia
+    - credit: Professor, Iranian Studies and Comparative Literature, Columbia
         University
       name: Hamid Dabashi
-      link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
-    - credit: 'Playwright and Professor, Playwriting, UC Berkeley'
+    - credit: Playwright and Professor, Playwriting, UC Berkeley
       name: Philip Kan Gotanda
-      link: https://tdps.berkeley.edu/people/philip-kan-gotanda
-    - credit: >-
-        Co-Founder, Theatre Without Borders, and Senior Program Associate,
+    - credit: Co-Founder, Theatre Without Borders, and Senior Program Associate,
         Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
-      link: https://www.robertalevitow.com/
-    - credit: >-
-        Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
+    - credit: Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
         Tisch School of the Arts
       name: Ella Shohat
-      link: https://tisch.nyu.edu/about/directory/app/1295710755
-    - credit: >-
-        Founding Faculty, Performing Arts and Social Justice Program, University
+    - credit: Founding Faculty, Performing Arts and Social Justice Program, University
         of San Francisco
       name: Roberto Gutiérrez Varea
-      link: https://www.usfca.edu/faculty/roberto-gutierrez-varea
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
-      link: https://www.naomiwallace.com/
 ---
-
