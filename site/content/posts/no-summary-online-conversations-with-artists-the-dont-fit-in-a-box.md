@@ -1,5 +1,5 @@
 ---
-title: "NO SUMMARY: Online Conversations with Artists the Don't Fit in a Box"
+title: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box"
 date: 2020-09-29T00:05:23.846Z
 description: "We are thrilled to announce an ongoing bi-weekly Series of artists
   in conversation with our visionary artistic director Torange Yeghiazarian
