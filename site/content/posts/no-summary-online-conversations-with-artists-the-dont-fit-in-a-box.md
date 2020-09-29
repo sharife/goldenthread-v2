@@ -12,7 +12,7 @@ description: We are thrilled to announce an ongoing bi-weekly Series of artists
   layered experience that sensationalism or stereotype will never accurately
   encompass. Read on for more information about our first scheduled episodes.
 ---
-**October 7th** – *NO SUMMARY* launches with a conversation with playwright of *The Language of Wild Berries* Naghmeh Samini and members of the creative team from the radio play production. One of Iran’s leading playwrights, Samini’s work has been presented across Europe and Asia but she has never been produced in the US. At a time when US-Iran relations are at an all-time low, hearing directly from artists that create in both countries has never been more vital.\
+**October 7th** – *NO SUMMARY* launches with a conversation with playwright of out upcoming radio play production of *The Language of Wild Berries* Naghmeh Samini and members of the creative team from the radio play production. One of Iran’s leading playwrights, Samini’s work has been presented across Europe and Asia but she has never been produced in the US. At a time when US-Iran relations are at an all-time low, hearing directly from artists that create in both countries has never been more vital.\
 \
 **October 23rd** – The series continues with a conversation with four playwrights of Arab heritage based in the US and the UK: Hassan Abdulrazzak, Tariq Hamami, Hannah Khalil, and Mona Mansour. Golden Thread Productions recently commissioned the group to write new plays exploring vital themes and unique collaborations inspired by our current reality. Abdulrazzak, Khalil, and Mansour will develop a remote collaboration model to co-write a new play, and Hamami will write a play exploring the Black Panthers’ residency in Algeria in the 1960s and 70s.\
 \
