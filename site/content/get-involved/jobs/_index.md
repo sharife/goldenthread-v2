@@ -82,43 +82,6 @@ Please save all your documents as one PDF file and title it as YOURLASTNAME_EADA
 
 The deadline for submission is August 31, 2020. For questions, email NewEADSearch@goldenthread.org. 
 
-### **Marketing & Communications Associate**
-
-SUMMARY OF OPPORTUNITY - Golden Thread Productions seeks a Marketing and Communications Associate to join our small but mighty team to support our ongoing work in diversifying the American theatre by amplifying the voices of underrepresented artists and empowering under served communities. The goal of this position is to implement season and production-specific marketing plans in order to grow the company’s ticket sales, increase online engagement, and build Golden Thread’s visibility and reputation. This is a great early career opportunity with hands-on training and experience building on all aspects of marketing and communications for a non-profit theatre company.
-
-PURPOSE – Under the direct supervision of senior staff members, this critical position will draft copy, perform targeted outreach, and coordinate the preparation of materials laid out in an annual marketing and communications strategy. This team member will aid our audience and donor development goals by providing quality messaging and ensuring branding continuity. Additionally, this role will assist with public relations and community engagement activities. This position reports to the Executive Artistic Director.
-
-Position Responsibilities:
-
-* Online Presence: Update the website, create weekly email announcements, and ongoing social media post
-* Communications: Assist in writing marketing copy targeted to various audiences promoting Golden Thread and individual programs or productions.
-* Community Outreach: Create targeted pitches to communities, including Middle Eastern community organizations and other theatre and arts groups, manage outreach list and invitations.
-* Marketing: Following the season marketing plan, coordinate the creation and distribution of all marketing materials, including postcards, posters, programs, ads, publicity photos and promotional videos.
-* Media Relations: Assist in writing press releases, creating targeted pitches, managing press list and invitations to events and openings.
-* Reporting: Track and report on progress on objectives.
-
-Position Requirements:
-
-1. Excellent verbal and written communication skills and an ability to work with varied communication styles.
-2. Proficiency in basic computer applications, including Word, Excel, Email and Google and a working knowledge of website applications, and email marketing software like Mailchimp.
-3. Proficiency in basic graphic design (Adobe Creative Suite) and/or CRM (Salesforce).
-4. Ability to analyze priorities and manage workflow.
-5. Strategic thinking and analytical skills, with the ability to plan and look ahead.
-6. Strong organizational skills and attention to detail.
-7. Ability to work both independently and on projects with others.
-8. Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. The ideal candidate will be politically aware and sensitive to the plurality of thought and culture both within the Middle East and its world-wide diaspora. 
-9. Must be able to push or pull objects weighing up to 30 pounds, and lift or carry objects weighing up to 15 pounds.
-
-We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. We encourage candidates to review the key responsibilities and qualifications above. If you believe you have the transferable skills necessary to fulfill the responsibilities of this role, we encourage you to apply.
-
-Additional Information:
-
-This is a part time, non-exempt, 20 to 25 hour per week position, reporting to the Artistic Director. Pay will be commensurate with experience and ranges between $18-$22/hour. Our offices are located in San Francisco’s Potrero Hill neighborhood. During productions, some on-site evening and weekend hours will be required. Golden Thread Productions provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, disability, or gender. Golden Thread is a current member of Theater Communications Group’s Equity, Diversity, and Inclusion Institute.
-
-Application Instructions:
-
-Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references, to michelle@goldenthread.org, subject line: Marketing & Communications Associate. Please make sure that references are from current and/or former supervisors and include names, email addresses, phone numbers, and the name of the organization where you worked with each person. Applications will be reviewed on a rolling basis and will the position will remain upon until filled. No phone calls or packets by regular mail, please.
-
 ### **Production, Design & Technical Personnel**
 
 Golden Thread accepts ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)).
