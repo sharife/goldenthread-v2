@@ -29,14 +29,15 @@ items:
       about the Middle East. Whether you are a ticket buyer, annual donor, or a
       Golden Thread groupie, you make this work possible! Without ticket sales,
       we are relying on donations more than ever. We appreciate your generosity!
-  - image: https://ucarecdn.com/40748798-70aa-4ea0-9be0-c986ae713981/
-    subtitle: MENA Theater Makers Alliance is Launched!
-    cta: Learn More
-    link: https://www.menatheatre.org/
-    text: We are proud to announce the launch of the [Middle Eastern and North
-      African Theater Makers Alliance (MENATMA)](https://www.menatheatre.org/),
-      the first national alliance devoted to MENA artists and stories in the
-      American theater. Last year's MENA Theatre Artists Convening, held during
-      ReOrient 2019, served as a pivotal gathering to formalize this growing and
-      vibrant artistic community.
+  - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
+    subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box"
+    cta: Read More Now
+    link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
+    text: We are thrilled to launch *NO SUMMARY*, our new **Live-Stream Series** of
+      artists in conversation with our artistic director Torange Yeghiazarian.
+      These curated digital discussions will invite artists of Middle Eastern
+      and North African heritage to discuss the many layers of their identity
+      and how it impacts their work and artistic choices. We invite you to take
+      pause with us and immerse yourself in these compelling topics and
+      histories that defy a snappy summation.
 ---
