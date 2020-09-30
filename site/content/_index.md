@@ -30,7 +30,7 @@ items:
       Golden Thread groupie, you make this work possible! Without ticket sales,
       we are relying on donations more than ever. We appreciate your generosity!
   - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
-    subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box"
+    subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
     text: We are thrilled to launch *NO SUMMARY*, our new **Live-Stream Series** of
