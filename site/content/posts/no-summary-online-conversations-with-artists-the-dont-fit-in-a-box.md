@@ -20,10 +20,10 @@ background: https://ucarecdn.com/767f78b2-0717-4808-997d-6a8bddeed078/
 
 **Featuring four singular playwrights of Arab heritage**
 
-The series continues with a conversation with four playwrights of Arab heritage based in the US and the UK: **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah Khalil**, and **Mona Mansour**. We recently commissioned this extraordinary group to write new plays exploring vital themes and unique collaborations inspired by our current reality. Abdulrazzak, Khalil, and Mansour will develop a remote collaboration model to co-write a new play, and Hamami will write a play exploring the Black Panthers’ residency in Algeria in the 1960s and 70s. 
+The series continues with a conversation with four playwrights of Arab heritage based in the US and the UK: **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah Khalil**, and **Mona Mansour**. We recently commissioned this extraordinary group to write new plays exploring vital themes and unique collaborations inspired by our current reality. Abdulrazzak, Khalil, and Mansour will develop a remote collaboration model to co-write a new play, and Hamami will write a play exploring the Black Panthers’ residency in Algeria in the 1960s and 70s. [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-playwrights-hassan-abdulrazzak-tariq-hamami-hannah) to watch the livestream on October 23rd.
 
 **Fri November 6th, 11AM PDT**
 
 **Featuring Golden Thread Fairytale Players!**
 
-At Golden Thread we know that representation matters, especially for youth. Join **Simon Bloch**, **Maya Nazzal**, and **Sarah Al-Kassab** as they discuss their experience of creating and performing in Golden Thread's Fairytale Players Production of *Leila's Quest for Flight* which will be released as a radio play on November 5th. Drawn from Palestinian folktales*, Leila's Quest for Flight* is written and directed by Torange Yeghiazarian.
+At Golden Thread we know that representation matters, especially for youth. Join **Simon Bloch**, **Maya Nazzal**, and **Sarah Al-Kassab** as they discuss their experience of creating and performing in Golden Thread's Fairytale Players Production of *Leila's Quest for Flight* which will be released as a radio play on November 5th. Drawn from Palestinian folktales*, Leila's Quest for Flight* is written and directed by Torange Yeghiazarian. [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-golden-threads-fairytale-players) to watch the livestream on November 6th.
