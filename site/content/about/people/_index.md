@@ -67,7 +67,7 @@ staff:
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
     - name: Chris Steele
-      credit: Media & Publicity
+      credit: Marketing & Communications Associate
       image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
       bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
         producer, and playwright. Since studying at Pepperdine University and
