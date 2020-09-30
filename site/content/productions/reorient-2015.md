@@ -755,6 +755,35 @@ cast:
         the world of theater, including acting, directing, set and costume
         design. Some hats looked better than others. She hopes the hat she is
         wearing this time will fit and please you."
+photos:
+  items:
+    - image: https://ucarecdn.com/ea2d87ff-15fe-4e51-b5f6-46cd89a0646c/
+    - image: https://ucarecdn.com/897787b6-4d96-44d0-a8f6-a87601beb500/
+    - image: https://ucarecdn.com/2e1c8e5e-4376-4bfa-bb2e-e6c28e1264b2/
+    - image: https://ucarecdn.com/4632357f-f84d-4f69-bd7a-bae81509ec29/
+    - image: https://ucarecdn.com/5c50874e-9a35-4b5e-8f7c-126c0d970c42/
+    - image: https://ucarecdn.com/19f00c0e-cff4-4e4a-9a2e-eae7e323bc71/
+    - image: https://ucarecdn.com/6a2a793f-db7f-4793-9cf8-41fd3efad306/
+    - image: https://ucarecdn.com/11f2d9f7-b96e-413d-b66f-ee4c3e1d7c9a/
+  heading: Photo Gallery 1
+photos2:
+  items:
+    - image: https://ucarecdn.com/b075d518-89e5-4eca-9f92-6c4ce2f046f5/
+    - image: https://ucarecdn.com/465d0089-d562-4126-97d1-8e73dbafbf2b/
+    - image: https://ucarecdn.com/975d24a7-c3b7-43ba-b579-97e658680f9d/
+    - image: https://ucarecdn.com/656a6a94-67bb-41dd-a99b-0d04300792e2/
+    - image: https://ucarecdn.com/47407955-d25b-4d66-b6b2-5e5906a0fcd6/
+    - image: https://ucarecdn.com/78741bf9-0cbb-45b7-bfd1-dd7a225d7e59/
+    - image: https://ucarecdn.com/d5de4e0d-2be2-4342-86ab-3b962fe5a1d4/
+    - image: https://ucarecdn.com/4013b94a-6a3d-4e26-b685-c81f9dafd5f4/
+  heading: Photo Gallery 2
+photos3:
+  items:
+    - image: https://ucarecdn.com/45d54d11-4d6f-42c2-829e-5633312e9328/
+    - image: https://ucarecdn.com/ddd6d0ed-5297-4212-8ea4-3b72d7e7fc52/
+    - image: https://ucarecdn.com/238630ed-8241-4e34-bb58-2b2f4b9feeb9/
+    - image: https://ucarecdn.com/d3a97590-c998-420e-b991-d5dfc19813f2/
+  heading: Lobby Display & Audience Engagement
 archivevideo: hAyIP_XCX7s
 bottom:
   logos:
