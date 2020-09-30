@@ -66,19 +66,22 @@ staff:
       credit: Program Manager, Golden Thread Fairytale Players
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
-    - bio: "**Aram Krikorian** was born in San Francisco. After attending KZV Armenian
-        School he went on to work in Los Angeles and New York City in television
-        at CBS and theater at the Tres Stage (adjacent to Mashti Malone's
-        Persian Ice Cream Shop). He has worked with director Marc Erdahi in many
-        productions featured in NY Fringe Fest, SF Fringe Fest, MITF and NYMF.
-        Back in the Bay Area he has returned to advocating for Palestinian equal
-        human rights along with other Jerusalem Armenians organizing with Jewish
-        Voice for Peace (JVP) and the Middle Eastern Children's Alliance (MECA).
-        After many years of being a fan, joining in with Golden Thread's family
-        and community has been a fantastic dream come true."
-      credit: Box Office Associate
-      image: https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
-      name: Aram Krikorian
+    - name: Chris Steele
+      credit: Media & Publicity
+      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
+      bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
+        producer, and playwright. Since studying at Pepperdine University and
+        the University of Oklahoma, they have worked professionally in queer and
+        trans inclusion and advocacy across the Bay Area, even beyond the
+        theater industry with UCSF, Sephora, and the Bay Area Nightlife
+        Coalition. As a media and publicity professional, they work regularly
+        with PlayGround as their inaugural Producing Fellow, launched and manage
+        the critically lauded new queer collective Poltergeist Theatre Project
+        (poltergeistproject.org), and manage and produce drag artistry content
+        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
+        at @pollyandpeter). They are passionate about using social media to
+        connect communities, organize activism, and welcome diverse audiences
+        into the behind-the-scenes process of stage artistry.
     - bio: <strong>Navid Ghaem Maghami</strong> (Art Director) is a graphic designer
         based in San Francisco. He began working with Golden Thread in 2008. As
         a design professional and art director he has worked widely in a variety
@@ -109,22 +112,19 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
-    - name: Chris Steele
-      credit: Media & Publicity
-      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
-      bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
-        producer, and playwright. Since studying at Pepperdine University and
-        the University of Oklahoma, they have worked professionally in queer and
-        trans inclusion and advocacy across the Bay Area, even beyond the
-        theater industry with UCSF, Sephora, and the Bay Area Nightlife
-        Coalition. As a media and publicity professional, they work regularly
-        with PlayGround as their inaugural Producing Fellow, launched and manage
-        the critically lauded new queer collective Poltergeist Theatre Project
-        (poltergeistproject.org), and manage and produce drag artistry content
-        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
-        at @pollyandpeter). They are passionate about using social media to
-        connect communities, organize activism, and welcome diverse audiences
-        into the behind-the-scenes process of stage artistry.
+    - bio: "**Aram Krikorian** was born in San Francisco. After attending KZV Armenian
+        School he went on to work in Los Angeles and New York City in television
+        at CBS and theater at the Tres Stage (adjacent to Mashti Malone's
+        Persian Ice Cream Shop). He has worked with director Marc Erdahi in many
+        productions featured in NY Fringe Fest, SF Fringe Fest, MITF and NYMF.
+        Back in the Bay Area he has returned to advocating for Palestinian equal
+        human rights along with other Jerusalem Armenians organizing with Jewish
+        Voice for Peace (JVP) and the Middle Eastern Children's Alliance (MECA).
+        After many years of being a fan, joining in with Golden Thread's family
+        and community has been a fantastic dream come true."
+      credit: Box Office Associate
+      image: https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
+      name: Aram Krikorian
 board:
   heading: Board of Trustees
   items:
