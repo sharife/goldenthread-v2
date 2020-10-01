@@ -11,14 +11,12 @@ items:
     subtitle: "*The Language of Wild Berries* Debuts as a Radio Play!"
     cta: Read More Now
     link: /productions/the-language-of-wild-berries/
-    text: >-
-      We're thrilled to announce that Naghmeh Samini's play, translated and
-      directed by Torange Yeghiazarian, will be released in fall 2020 as a Radio
-      Play. This US premiere will include a special listening party followed by
-      Q&A with the artists.
-
-
-      The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea in this rare glimpse into the lives of contemporary Iranians.
+    text: We're thrilled to announce that Naghmeh Samini's play, translated and
+      directed by Torange Yeghiazarian, is Golden Thread's radio play debut! The
+      past, present, and future collide in the touching story of a couple’s
+      annual road trips to the Caspian Sea in this rare glimpse into the lives
+      of contemporary Iranians. Mark your calendar for the podcast release on
+      Tuesday, October 6!
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
     subtitle: You Give Us Hope for the Future!
     cta: DONATE NOW!
@@ -37,5 +35,6 @@ items:
       artists of Middle Eastern and North African heritage to discuss the many
       layers of their identity and how it impacts their work and artistic
       choices. Immerse yourself in these compelling topics and histories that
-      defy a snappy summation.
+      defy a snappy summation. Mark your calendar for first No Summary event on
+      Wednesday, October 7 at 11am PDT!
 ---
