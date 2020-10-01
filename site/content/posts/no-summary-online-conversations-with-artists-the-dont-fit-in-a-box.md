@@ -1,14 +1,7 @@
 ---
 title: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box"
 date: 2020-09-29T00:05:23.846Z
-description: We are thrilled to launch NO SUMMARY, our new Live-Stream Series of
-  artists in conversation with our artistic director Torange Yeghiazarian. These
-  curated digital discussions will invite artists of Middle Eastern and North
-  African heritage to discuss the many layers of their identity and how it
-  impacts their work and artistic choices. We invite you to take pause with us
-  and immerse yourself in these compelling topics and histories that defy a
-  snappy summation. See below for a preview schedule of our first three
-  episodes!
+description: ""
 background: https://ucarecdn.com/26321d95-3ea8-45db-9d9b-95d79728167a/
 ---
 We are thrilled to launch *NO SUMMARY*, our new **Live-Stream Series** of artists in conversation with our artistic director Torange Yeghiazarian. These curated digital discussions will invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices. We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our first three episodes!
