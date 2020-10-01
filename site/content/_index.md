@@ -33,11 +33,9 @@ items:
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
-    text: We are thrilled to launch *NO SUMMARY*, our new **Live-Stream Series** of
-      artists in conversation with our artistic director Torange Yeghiazarian.
-      These curated digital discussions will invite artists of Middle Eastern
-      and North African heritage to discuss the many layers of their identity
-      and how it impacts their work and artistic choices. We invite you to take
-      pause with us and immerse yourself in these compelling topics and
-      histories that defy a snappy summation.
+    text: Join us for our new series of curated livestream conversations with
+      artists of Middle Eastern and North African heritage to discuss the many
+      layers of their identity and how it impacts their work and artistic
+      choices. Immerse yourself in these compelling topics and histories that
+      defy a snappy summation.
 ---
