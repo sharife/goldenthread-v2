@@ -11,12 +11,15 @@ items:
     subtitle: "*The Language of Wild Berries* Debuts as a Radio Play!"
     cta: Read More Now
     link: /productions/the-language-of-wild-berries/
-    text: We're thrilled to announce that Naghmeh Samini's play, translated and
+    text: >-
+      We're thrilled to announce that Naghmeh Samini's play, translated and
       directed by Torange Yeghiazarian, is Golden Thread's radio play debut! The
       past, present, and future collide in the touching story of a couple’s
       annual road trips to the Caspian Sea in this rare glimpse into the lives
-      of contemporary Iranians. Mark your calendar for the podcast release on
-      Tuesday, October 6!
+      of contemporary Iranians. 
+
+
+      ***Mark your calendar for the podcast release on Tuesday, October 6!***
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
     subtitle: You Give Us Hope for the Future!
     cta: DONATE NOW!
@@ -31,10 +34,13 @@ items:
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
-    text: Join us for our new series of curated livestream conversations with
+    text: >-
+      Join us for our new series of curated livestream conversations with
       artists of Middle Eastern and North African heritage to discuss the many
       layers of their identity and how it impacts their work and artistic
       choices. Immerse yourself in these compelling topics and histories that
-      defy a snappy summation. Mark your calendar for first No Summary event on
-      Wednesday, October 7 at 11am PDT!
+      defy a snappy summation. 
+
+
+      **Mark your calendar for first No Summary event on Wednesday, October 7 at 11am PDT!**
 ---
