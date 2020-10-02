@@ -19,7 +19,7 @@ items:
       of contemporary Iranians. 
 
 
-      *Mark your calendar for the podcast release on Tuesday, October 6!*
+      ***Mark your calendar for the podcast release on Tuesday, October 6!***
   - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
     subtitle: You Give Us Hope for the Future!
     cta: DONATE NOW!
