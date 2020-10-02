@@ -42,5 +42,5 @@ items:
       defy a snappy summation. 
 
 
-      *Mark your calendar for first No Summary event on Wednesday, October 7 at 11am PDT!*
+      ***Mark your calendar for first No Summary event on Wednesday, October 7 at 11am PDT!***
 ---
