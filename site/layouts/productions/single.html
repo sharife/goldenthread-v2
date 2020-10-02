@@ -40,6 +40,13 @@
           </div>-->
         {{ end }}
 
+
+        {{ if .Params.externallink }}
+          <div class="pv2">
+            <a href="{{.Params.externallink}}" class="btn raise">{{ .Params.externallinklabel }}</a>
+          </div>
+        {{ end }}
+
         {{ if .Params.ticketinfo }}
           <p class="f6 mb2">{{ .Params.ticketinfo | markdownify }}</p>
         {{ end }}

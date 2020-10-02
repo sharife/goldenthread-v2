@@ -51,6 +51,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Awards Image", name: "awardsimage", widget: "image", required: false}
       - {label: "Awards Text", name: "awards", widget: "string", required: false}
       - {label: "External Link", name: "externallink", widget: "string", required: false}
+      - {label: "External Link Label", name: "externallinklabel", widget: "string", required: false}
       - {label: "Misc. Text", name: "misc", widget: "text", required: false}
       - label: "Lists"
         name: "lists"
