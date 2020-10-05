@@ -26,6 +26,7 @@ translator: Torange Yeghiazarian
 additional: Original music composed by Mohammad Talani, Sound design by James Ard
 stage: Radio Play listening link will be available here starting October 6th
 address: ""
+visitlink: https://anchor.fm/golden-thread
 ticketlink: ""
 cast:
   heading: Artistic Team
