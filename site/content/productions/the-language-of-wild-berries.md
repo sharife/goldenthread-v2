@@ -24,7 +24,7 @@ director: Torange Yeghiazarian
 featuring: Denmo Ibrahim, Abraham Makany, Sal Mattos
 translator: Torange Yeghiazarian
 additional: Original music composed by Mohammad Talani, Sound design by James Ard
-stage: Radio Play listening link will be available here starting October 6th
+stage: Radio Play link available below!
 address: ""
 visitlink: ""
 ticketlink: ""
