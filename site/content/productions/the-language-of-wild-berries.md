@@ -29,6 +29,7 @@ address: ""
 visitlink: ""
 ticketlink: ""
 externallink: https://anchor.fm/golden-thread
+externallinklabel: Click to Listen!
 cast:
   heading: Artistic Team
   items:
