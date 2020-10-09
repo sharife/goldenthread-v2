@@ -1,8 +1,8 @@
 ---
 title: New Threads Reading Series 2018
-date: 2020-10-09T21:20:59.802Z
-start: 2020-10-09T21:20:59.840Z
-end: 2020-10-09T21:20:59.873Z
+date: 2018-06-01T21:20:00.000Z
+start: 2018-06-01T21:20:00.000Z
+end: 2018-06-30T21:20:00.000Z
 description: Golden Thread’s popular staged reading series returns, introducing
   four vital new plays to the Bay Area. We invite you to laugh, cry, and think
   alongside these beautiful stories from and about the Middle East! Each play is
