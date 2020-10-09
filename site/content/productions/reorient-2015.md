@@ -200,66 +200,108 @@ lists:
     items:
       - subtitle: by Yussef El Guindi, directed by Evren Odcikin
         pre: World Premiere
-        text: Hisham, an archeologist, discovers an ancient perfume bottle in a war
+        text: >-
+          Hisham, an archeologist, discovers an ancient perfume bottle in a war
           zone. As he digs deeper, his poet wife Nisrin questions if it’s worth
           risking his life for history.
+
+
+          **Yussef El-Guindi**’s most recent productions include *The Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New World*(winner of the Steinberg/American Theater Critics Association’s New Play Award in 2012; Gregory Award in 2011) also at ACT, and at Center Repertory Company (Walnut Creek, CA) 2013; and*Language Rooms*(Edgerton Foundation New American Play Award), co-produced by Golden Thread Productions and the Asian American Theater Company in San Francisco; at the Wilma Theater in Philadelphia (premiere), and at the Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love and Combat* was produced by Silk Road Theater Project and won the M. Elizabeth Osborn award. It’s included in the anthology Four Arab American Plays, published by McFarland Books. His plays *Back of the Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s City Pilgrims Musa and Sheri in the New Word* was published in the September, 2012 issue of American Theatre Magazine, and will soon be published by Dramatists Play Service, along with his play, *Jihad Jones and The Kalashnikov Babes*.
         image: https://ucarecdn.com/f310445a-5d38-4f2d-8ac0-6d1e255752d5/
         title: Picking Up the Scent
       - pre: US Premiere
         subtitle: by Silva Semerciyan, directed by Erin Gilley
-        text: Slavery is hidden in plain sight in the wealthy London of the
+        text: >-
+          Slavery is hidden in plain sight in the wealthy London of the
           not-so-distant future. But the players are not who you would expect.
           *(Contains mature content)*
+
+
+          **Silva Semerciyan** is currently a writer on attachment at the UK’s National Theatre. In 2013, she was awarded a BBC Fellowship to be writer on attachment at the Bristol Old Vic where she is under commission to write a new original play. Her plays include The Window (Bristol Old Vic), The Tinderbox (Bristol Old Vic, adapted from the story by Hans Christian Andersen) Gather Ye Rosebuds (Theatre 503) winner, Best New Play, Brighton Fringe Festival, UK; I and the Village, shortlisted for the 2011 Bruntwood Prize; Flashes (Young Vic Theatre, London). Her first radio play, Varanasi, was shortlisted for a BBC audio drama award in 2013. She holds an MPhil (B) in Playwriting from the University of Birmingham, and she lectures in Contemporary Performance for the University of Gloucestershire.
         image: https://ucarecdn.com/b496c886-07d2-4762-96be-451add8dadde/
         title: Turning Tricks
       - subtitle: by Hannah Khalil, directed by Manijeh Mohamedi
         pre: World Premiere
-        text: Maha’s Palestinian family shares their East Jerusalem apartment with an
-          Israeli family, until a surprising letter changes everything—or does
-          it?
+        text: >-
+          Maha’s Palestinian family shares their East Jerusalem apartment with
+          an Israeli family, until a surprising letter changes everything—or
+          does it?
+
+
+          An award-winning Palestinian-Irish writer, **Hannah Khalil**’s first short play, Ring, was selected for Soho Theatre London’s Westminster Prize and her first full- length piece, Leaving Home, was staged at The King’s Head. Further work includes *Plan D*, which was produced at Tristan Bates Theatre and nominated for the Meyer Whitworth Award. Most recently Hannah’s play*Bitterenders*won Sandpit Arts’ Bulbul 2013 competition and was staged at The Nightingale in Brighton. Her monologue *The Worst Cook in the West Bank* was performed as part of an evening of short plays about Arab women in the Arab Spring at the Old Red Lion in London and the Unity Theatre as part of the Liverpool Arabic Arts Festival. Hannah also writes for radio, and her new play *Last of the Pearl Fishers* will be on BBC Radio 4 early next year. In 2015 *Plan D* will be published as part of Inside/Outside: Six plays from Palestine and the Diaspora edited by Naomi Wallace and Ismail Khalidi.
         image: https://ucarecdn.com/db02112d-d286-4cd5-9895-b852ca7a0502/
         title: Bitterenders
       - pre: World Premiere
         subtitle: by Emma Goldman-Sherman, directed by Erin Gilley
-        text: Life goes on for Mr. Hattab and a colorful cast of characters from his
+        text: >-
+          Life goes on for Mr. Hattab and a colorful cast of characters from his
           bustling Baghdad neighborhood despite a bomb going off in front of his
           grocery store.
+
+
+          **Emma Goldman-Sherman** plays include *Wombshot*, *Perfect Women*, *Antigone’s Sister*, and *Abraham’s Daughters*. Her work has been produced in New York City, Washington D.C., Kansas City, Los Angeles, London, and Zagreb by Manhattan Theatre Source, Theatre Conspiracy, Circle Rep Lab, New Georges, Ensemble Studio Theatre, The Women’s Project & Productions and All Out Arts Inc. Her plays have been developed at WordBridge, The Drama League, The Millay Colony for the Arts, The Ragdale Foundation. She earned her MFA from the University of Iowa where she received The Richard Maibaum Award for Plays Addressing Social Justice. Her play *Why Birds Fly* was a finalist at The Cutting Ball Theatre for their 2014 Risk Is This Festival. She is grateful to be included in The ReOrient Festival.
         image: https://ucarecdn.com/86c036d5-7aff-4e0f-9f62-cf975bfd894e/
         title: Counting in Sha’ab
       - title: Lost Kingdom
         pre: US Premiere
         subtitle: by Hassan Abdulrazzak, directed by Michael French
-        text: When a Lebanese-American FBI agent is called in to interrogate a fallen
-          dictator, a twisted tango ensues that complicates black and white
-          notions of good and evil.
+        text: >-
+          When a Lebanese-American FBI agent is called in to interrogate a
+          fallen dictator, a twisted tango ensues that complicates black and
+          white notions of good and evil.
+
+
+          **Hassan Abdulrazzak** is of Iraqi origin, born in Prague and living in London. He trained as a cell and molecular biologist and worked at Imperial College and Harvard University. His first play,*Baghdad Wedding*, premiered at Soho Theatre, London (2007). Other productions were at the Belvoir Theatre, Sydney (2009) and by Akvarious productions in India (2012). It was also broadcast on BBC Radio 3. It will have a staged reading by Golden Thread Theatre in the USA later in 2014. His second play, *The Prophet* was staged at the Gate theatre, London and had a reading by Noor theatre in NYC (2012). He has written several short plays including *The Tale of Sindbad* and *the Old Goat* that was part of the multi-author play Arab Nights (produced by Metta theatre), which premiered at Soho Theatre (2012) then toured the UK and \*You Don’t Have To Be American To Get Laid But It Helps,\*part of \*Waiting for Summer,\*produced and directed by Swivel Theatre Company (2014). He has also written two full-length screenplays and translated several plays for the Royal Court theatre (Arabic to English)
         image: https://ucarecdn.com/7a11ef78-e934-4e79-a447-61a2796cd739/
       - pre: World Premiere
         subtitle: Inspired by Golden Thread’s global theatre collaboration, [Project
           Alo](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/alo/),
           conceived and co-directed by Torange Yeghiazarian, edited and
           co-directed by Erin Gilley
-        text: See what happens when pairs of artists, one based in the US and one in the
-          Middle East, are asked to communicate through video clips captured
+        text: >-
+          See what happens when pairs of artists, one based in the US and one in
+          the Middle East, are asked to communicate through video clips captured
           entirely on cell-phones.
+
+
+          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+
+
+          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/a81760cf-4f4f-49cb-a315-216f66371796/
         title: Reaching Out
       - subtitle: by Ken Kaissar, directed by Evren Odcikin
         pre: West Coast Premiere
-        text: Can a ceasefire allow Israeli and Lebanese soldiers patrolling the border
-          to see each other as something other than enemy?
-        image: https://ucarecdn.com/1e04a1f0-74f9-44cb-ac78-83dc93ba76c8/
+        text: >-
+          Can a ceasefire allow Israeli and Lebanese soldiers patrolling the
+          border to see each other as something other than enemy?
+
+
+          **Ken Kaisar** was born in Ramat Gan, Israel and grew up in Indianapolis, IN. His adaptation of Geoffrey Chaucer’s *The Canterbury Tales* was commissioned by Columbia University in 2008. His play *The Victims or What Do You Want Me to Do About*(an absurdist take on the Israeli-Palestinian conflict) was a runner-up for the 2009 Princess Grace Award and was honored by Golden Thread Productions, Silk Road Rising, and the Lark Play Development Center as part of the Middle East America Play Commission. His play *Chai* was a finalist in the Oxford Theatre’s National Ten Minute Play Contest. His work has been developed by the Philadelphia Theatre Company, Bristol Riverside Theatre, Fusion Theatre Company, and Mildred’s Umbrella. He holds a BFA in directing from Carnegie Mellon University and an MFA in playwriting from Columbia University. He teaches playwriting and theatre history at Rider University and Stockton College.
+        image: https://ucarecdn.com/5dec4435-01b7-4840-946a-74378876e9d2/
         title: Ceasefire
       - subtitle: by Nahal Navidar, directed by Sara Razavi
         pre: World Premiere
-        text: Childhood friends, Mira and Sanaz, work as triage nurses during the
+        text: >-
+          Childhood friends, Mira and Sanaz, work as triage nurses during the
           Iran-Iraq War. But it’s their ideological battles that threaten the
           peace inside the hospital.
+
+
+          **Nahal Navidar** is an Iranian-born playwright who was raised in upstate New York. Her play *110 Flights* has been workshopped at the Kennedy Center Playwriting Intensive and produced at the University at Albany and Proctor’s Theatre New Play Festival. While teaching Speech and Drama internationally in the Micronesian Islands, Nahal founded Fabulous Invalid Theatre Company whose mission was to promote the voices of the Pacific and East Asian Diaspora. Short plays include *‘Flicted* (WAM Theatre, NY), and *The Real Pain* (The Vagrancy, L.A.). In 2015, Nahal will premiere her first opera, *Donia*, written in collaboration with music composer Julia Adolphe. This will mark the team’s first project in their effort to empower female voices on the American stage. Nahal is a member of The Vagrancy Playwright’s Group. She holds an M.F.A. in Dramatic Writing from the University of Southern California, and splits her time between Los Angeles and New York.
         image: https://ucarecdn.com/2c4d254c-809b-4942-8254-49f924ff0dab/
         title: Songs of Our Childhood
       - subtitle: by Tala Manassah and Mona Mansour, directed by Sara Razavi
         pre: West Coast Premiere
-        text: Kamal, a Palestinian-American scientist, and his philosopher daughter Alia
-          put on a play and take an imaginary trip to his childhood home.
+        text: >-
+          Kamal, a Palestinian-American scientist, and his philosopher daughter
+          Alia put on a play and take an imaginary trip to his childhood home.
+
+
+          **Tala Jamal Manassah** is deputy executive director of Morningside Center for Teaching Social Responsibility, the national leader in school-based social and emotional learning programs. As a playwright, she has co-written, with Mona Mansour, *The House*, Noor Theater and the American Institute for Architecture; *The Letter*, Golden Thread/ReOrient Festival; *After Cuny*/Queens College; and *Dressing*, part of Facing Our Truths: Short Plays about Trayvon, Race and Privilege. Manassah and Mansour were awarded a residency at Berkeley Rep’s Ground Floor in 2013 to develop a musical play called *The Wife*. Most recently, they were given an Ensemble Studio Theatre/Sloan commission to write a play about 1970s Iraq. Manassah received her A.B. (honors) in philosophy and A.M. in the humanities at the University of Chicago.
+
+
+          **Mona Mansour’s** *The Way West* had its world premiere in spring 2014 at Steppenwolf, directed by Amy Morton. The play received the 2013 Sky Cooper New American Play Prize from Marin Theatre Company, where it will get its West Coast premiere in 2015. *The Hour of Feeling* (directed by Mark Wing-Davey) premiered at the 2012 Humana Festival, then was part of the High Tide Festival in the U.K.*Urge for Going* received a LAB production in 2011 at the Public Theater, and had its West Coast premiere at Golden Thread (directed by Evren Odcikin). *The Vagrant*, the third play in the trilogy, was workshopped at the 2013 Sundance Theater Institute. Mona was a member of the Public Theater’s Emerging Writers Group and is part of New Dramatists. With Tala Manassah she has written *The House*, *After*, and *The Letter*, and *Dressing*, part of Facing Our Truths: Short Plays about Trayvon, Race and Privilege; they have an EST/Sloan commission to write a play about 1970s Iraq. 2012 Whiting Award. 2014 Middle East America Playwright Award. [monamansour.com](https://goldenthread.org/monamansour.com)
         image: https://ucarecdn.com/808913fe-cf12-4676-bbd0-5ca260320a47/
         title: The House
 grids:
@@ -276,9 +318,9 @@ grids:
 
           **Sun, Oct 4, at 2pm at Z Space (450 Florida Street, SF)**\
           Tickets: $20\
-          This event is**free for children 12 and under**.
-        cta: Buy Now
-        link: http://www.goldenthread.org/tickets/
+          This event is **free for children 12 and under**.
+        cta: ""
+        link: ""
       - pre: For Music Lovers
         title: Arabic Folk Song Recital by Saousan Jarjour
         subtitle: Acclaimed Syrian-American soprano presents a repertoire of Arabic folk
@@ -294,8 +336,8 @@ grids:
           **Sat, Oct 3, at 2pm at Z Space (450 Florida Street, SF)**\
 
           Tickets: $20
-        cta: Buy Now
-        link: http://www.goldenthread.org/tickets/
+        cta: ""
+        link: ""
   - heading: ReOrient 2015 In The Press
     items:
       - text: “Humanity is at the core of ReOrient. **If theater is community, it starts
@@ -767,18 +809,43 @@ photos:
     - image: https://ucarecdn.com/19f00c0e-cff4-4e4a-9a2e-eae7e323bc71/
     - image: https://ucarecdn.com/6a2a793f-db7f-4793-9cf8-41fd3efad306/
     - image: https://ucarecdn.com/11f2d9f7-b96e-413d-b66f-ee4c3e1d7c9a/
-  heading: Photo Gallery 1
+    - image: https://ucarecdn.com/61aa177a-779b-49a2-89d7-b0456e757f80/
+    - image: https://ucarecdn.com/dcc51ce2-8bb7-491d-a459-e22611619907/
+    - image: https://ucarecdn.com/51b74180-1874-4ba9-b84c-21b9fd27a1b7/
+    - image: https://ucarecdn.com/74804a0b-29e7-4fcf-96ab-7234591539e7/
+    - image: https://ucarecdn.com/ebbfa6e7-7d14-4422-b1af-66b0c797ff80/
+    - image: https://ucarecdn.com/a828fc5e-afdd-4279-a396-8ba52d213db6/
+    - image: https://ucarecdn.com/3a858c1e-2206-4ff7-86bb-65b9c2e7eb7c/
+    - image: https://ucarecdn.com/4fcf5802-0dc1-476e-befd-232ceeec19b4/
+  heading: Production Photos
 photos2:
   items:
-    - image: https://ucarecdn.com/b075d518-89e5-4eca-9f92-6c4ce2f046f5/
-    - image: https://ucarecdn.com/465d0089-d562-4126-97d1-8e73dbafbf2b/
-    - image: https://ucarecdn.com/975d24a7-c3b7-43ba-b579-97e658680f9d/
-    - image: https://ucarecdn.com/656a6a94-67bb-41dd-a99b-0d04300792e2/
-    - image: https://ucarecdn.com/47407955-d25b-4d66-b6b2-5e5906a0fcd6/
-    - image: https://ucarecdn.com/78741bf9-0cbb-45b7-bfd1-dd7a225d7e59/
-    - image: https://ucarecdn.com/d5de4e0d-2be2-4342-86ab-3b962fe5a1d4/
-    - image: https://ucarecdn.com/4013b94a-6a3d-4e26-b685-c81f9dafd5f4/
-  heading: Photo Gallery 2
+    - image: https://ucarecdn.com/1dceac1f-1080-45c5-9486-b91547a7ad85/
+    - image: https://ucarecdn.com/2e5943c8-4df8-4020-94eb-a4d8d9dac0a1/
+    - image: https://ucarecdn.com/74c18c47-b1d1-4f47-9d35-03670110c65b/
+    - image: https://ucarecdn.com/e3360b0f-bcfa-4bf6-b60e-5ee136a74785/
+    - image: https://ucarecdn.com/05a8a91c-f88f-4c68-8840-18970de4bd00/
+    - image: https://ucarecdn.com/b46ad577-daf6-47f8-ad46-0f311dfca42b/
+    - image: https://ucarecdn.com/444f4df5-9e45-4a67-b6a7-2426da1ae033/
+    - image: https://ucarecdn.com/03107586-5db3-494f-9f70-27fb96f3aac9/
+    - image: https://ucarecdn.com/099023dd-eba9-477e-8884-1ded934c1364/
+    - image: https://ucarecdn.com/6097d18e-e230-4011-bd3d-3ba89fbdbbbc/
+    - image: https://ucarecdn.com/6d636ea1-3b4c-41b3-b250-fd652641a30e/
+    - image: https://ucarecdn.com/4d68673b-929c-4184-b739-c20422e40611/
+    - image: https://ucarecdn.com/75b6ccbb-bec9-4fce-b786-628bd05e5f5e/
+    - image: https://ucarecdn.com/12b9c707-13c7-41d1-a956-a281dfc6402b/
+    - image: https://ucarecdn.com/1b60be95-b784-49d1-bf4e-ca0bd4ca722b/
+    - image: https://ucarecdn.com/f71700f4-db6b-4ddb-8fd4-c18cf45aeaa5/
+    - image: https://ucarecdn.com/e2f4c13a-b5a2-4240-b863-8f4e9c3e453f/
+    - image: https://ucarecdn.com/201c39c0-2d89-4c8a-92be-ad14757e6809/
+    - image: https://ucarecdn.com/b09e275a-c722-4dc2-be32-ddeee0d1d718/
+    - image: https://ucarecdn.com/5ffe37a7-ed39-4270-8fd9-336cc1c0cab8/
+    - image: https://ucarecdn.com/05a6fa6d-acc0-49b6-a979-b6c8a25b0b48/
+    - image: https://ucarecdn.com/a1381385-0589-4045-8221-525ec9fd798f/
+    - image: https://ucarecdn.com/6932e275-400e-41ad-8bf3-4ac1d9d789d8/
+    - image: https://ucarecdn.com/710bdcc0-3a91-46a8-812a-87454644800e/
+    - image: https://ucarecdn.com/7d5a7c99-45e1-433e-9f10-3f3f1a16fd4b/
+  heading: ReOrient Forum Gallery
 photos3:
   items:
     - image: https://ucarecdn.com/45d54d11-4d6f-42c2-829e-5633312e9328/
