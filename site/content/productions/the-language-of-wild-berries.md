@@ -170,4 +170,6 @@ bottom:
   text: California Arts Council, San Francisco Arts Commission, Venturous Theater
     Fund, a fund of Tides Foundation, and the Zellerbach Family Foundation
 ---
-Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
+We are inspired by the power of online media to connect us regardless of geographical distance. *Please consider financially supporting this project at the same level as the price of a ticket or at an amount that is significant to you*. At a time of unprecedented hardship for the performing arts, your support is crucial for our artistry and advocacy to continue into a new era. Your gift is our future!
+
+**[Click here to donate.](https://goldenthread.org/donate/)**
