@@ -13,7 +13,7 @@ description: >-
   Google Podcast, and Spotify. 
 
 
-  The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English production in the United States.
+  The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English language production in the United States.
 
 
   *Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?*
