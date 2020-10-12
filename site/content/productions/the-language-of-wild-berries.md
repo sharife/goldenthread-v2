@@ -5,20 +5,21 @@ season: 2020
 date: 2019-11-06T22:06:41.267Z
 start: 2020-10-06T22:06:41.302Z
 end: 2021-03-21T22:06:41.319Z
-heading: Join us for an online conversation with the artists on October 7th at
-  11am (PDT)
+heading: Now Released as a Radio Play!
 description: >-
-  We're thrilled to release *The Language of Wild Berries* as a radio play on
-  October 6, 2020. Released as a podcast, the radio play will stream **for
-  free** on multiple platforms such as Apple Podcast, Google Podcast, and
-  Spotify. 
+  We're thrilled to share *The Language of Wild Berries* as our debut radio
+  play, available now! Released as a podcast, the radio play is available to
+  access and to share **for free** on multiple platforms such as Apple Podcast,
+  Google Podcast, and Spotify. 
 
 
   The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians, as well as her first English production in the United States.
+
+
+  *Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?*
 background: https://ucarecdn.com/edc486a6-251b-4b5c-947c-bac1ed21751d/
 titleimage: https://ucarecdn.com/d010b318-152b-485a-9f79-ab352349eec2/
 videos:
-  - id: jdrvjojNEW4
   - id: 3weZzbUsH00
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
