@@ -713,6 +713,6 @@ bottom:
     - image: https://ucarecdn.com/5108cc05-6229-4e02-8b0a-8b61cbd8c197/
     - image: https://ucarecdn.com/8f9b9133-5b68-4318-8abd-796a0a13b734/
     - image: https://ucarecdn.com/e41af77b-c5d7-4af7-84a5-cde8f5a5a877/
-  heading: We are grateful for the support of the following
+  heading: "We are grateful for the support of the following institutions:"
 ---
 With plays, talkbacks, panels, roundtable conversations, a family show, and a recital for Arabic music lovers, ReOrient 2015 is an artistic celebration and political exploration of this transforming region for curious and engaged theatre lovers and those passionate about international themes.
