@@ -5,11 +5,12 @@ season: 2015
 date: 2015-08-11T09:01:00.000Z
 start: 2015-09-11T09:01:00.000Z
 end: 2015-10-05T09:01:00.000Z
-description: "**Think you know the Middle East? Think again!** ReOrient 2015
-  will turn San Francisco into a mecca for innovative, spirited, and
-  thought-provoking theatre from and about the Middle East. Nowhere else will
-  you find plays and artists from Armenia, Egypt, Iraq, Iran, Israel, Lebanon,
-  Palestine, Syria, Turkey, United Kingdom, and the U.S. all on one stage."
+heading: "**Think you know the Middle East? Think again!**"
+description: ReOrient 2015 will turn San Francisco into a mecca for innovative,
+  spirited, and thought-provoking theatre from and about the Middle East.
+  Nowhere else will you find plays and artists from Armenia, Egypt, Iraq, Iran,
+  Israel, Lebanon, Palestine, Syria, Turkey, United Kingdom, and the U.S. all on
+  one stage.
 background: https://ucarecdn.com/3691b35b-b04e-4075-8c6a-fc18af729fd8/
 titleimage: https://ucarecdn.com/f6837eab-a3ef-4322-a469-9ce8a7b126e7/
 program: https://ucarecdn.com/d6b846b6-914f-4622-a440-5e1791237b34/
@@ -669,7 +670,6 @@ photos2:
     - image: https://ucarecdn.com/b46ad577-daf6-47f8-ad46-0f311dfca42b/
     - image: https://ucarecdn.com/444f4df5-9e45-4a67-b6a7-2426da1ae033/
     - image: https://ucarecdn.com/03107586-5db3-494f-9f70-27fb96f3aac9/
-    - image: https://ucarecdn.com/099023dd-eba9-477e-8884-1ded934c1364/
     - image: https://ucarecdn.com/6097d18e-e230-4011-bd3d-3ba89fbdbbbc/
     - image: https://ucarecdn.com/6d636ea1-3b4c-41b3-b250-fd652641a30e/
     - image: https://ucarecdn.com/4d68673b-929c-4184-b739-c20422e40611/
@@ -693,6 +693,8 @@ photos3:
     - image: https://ucarecdn.com/ddd6d0ed-5297-4212-8ea4-3b72d7e7fc52/
     - image: https://ucarecdn.com/238630ed-8241-4e34-bb58-2b2f4b9feeb9/
     - image: https://ucarecdn.com/d3a97590-c998-420e-b991-d5dfc19813f2/
+    - image: https://ucarecdn.com/6c0c829a-dab8-4794-b4ab-a7b9954148ed/
+    - image: https://ucarecdn.com/98012399-6e05-4319-9889-37619f41a94e/
   heading: Lobby Display & Audience Engagement
 archivevideo: hAyIP_XCX7s
 bottom:
@@ -711,5 +713,6 @@ bottom:
     - image: https://ucarecdn.com/5108cc05-6229-4e02-8b0a-8b61cbd8c197/
     - image: https://ucarecdn.com/8f9b9133-5b68-4318-8abd-796a0a13b734/
     - image: https://ucarecdn.com/e41af77b-c5d7-4af7-84a5-cde8f5a5a877/
+  heading: "We are grateful for the support of the following institutions:"
 ---
 With plays, talkbacks, panels, roundtable conversations, a family show, and a recital for Arabic music lovers, ReOrient 2015 is an artistic celebration and political exploration of this transforming region for curious and engaged theatre lovers and those passionate about international themes.
