@@ -5,8 +5,21 @@ season: 2014
 date: 2014-11-05T08:55:00.000Z
 start: 2014-12-05T08:55:00.000Z
 end: 2014-12-08T08:55:00.000Z
-description: ""
-background: https://ucarecdn.com/637ed72d-bb91-4346-a25e-d949041836ec/
+heading: A timeless tale of a 9th century trailblazer!
+description: "Meet Ziryab, the 9th-century musician and cultural icon, in this
+  family-friendly new play with live music: a musical genius, a star of the
+  Baghdad court, and a fashion innovator. ***The Fifth String*** playfully tells
+  the story of his beginnings in Iraq, his life as an immigrant to Cordoba, and
+  his lasting contributions in music, fashion, and culture that continue to
+  reverberate today. Widely credited with adding a fifth string to the oud and
+  with introducing Persian and Arabic influences to Spanish music, his life
+  becomes an inspiration for this modern retelling as a story-within-a-story in
+  the tradition of *1001 Nights*. Written and directed by Torange Yeghiazarian,
+  ***The Fifth String*** is multifaceted performance created collaboratively
+  with an ensemble of actors, clowns, and musicians. Part of Golden Thread’s
+  Islam 101 initiative, the play features original music composed by Faraz
+  Minooei and production design by Mokhtar Paki."
+background: https://ucarecdn.com/ab2acd11-87f8-4d32-9e96-79700fca3d6a/
 videos:
   - id: AOaq-TeKMCE
   - id: cASst1VI3mg
@@ -219,4 +232,6 @@ photos:
     - image: https://ucarecdn.com/b8859bd8-1292-4b9d-a26a-b29da1e3d9ed/
     - image: https://ucarecdn.com/ae83478c-6cb2-4746-b71a-45f826f65062/
 ---
-Meet Ziryab, the 9th-century musician and cultural icon, in this family-friendly new play with live music: a musical genius, a star of the Baghdad court, and a fashion innovator. ***The Fifth String*** playfully tells the story of his beginnings in Iraq, his life as an immigrant to Cordoba, and his lasting contributions in music, fashion, and culture that continue to reverberate today. Widely credited with adding a fifth string to the oud and with introducing Persian and Arabic influences to Spanish music, his life becomes an inspiration for this modern retelling as a story-within-a-story in the tradition of *1001 Nights*. Written and directed by Torange Yeghiazarian, ***The Fifth String*** is multifaceted performance created collaboratively with an ensemble of actors, clowns, and musicians. Part of Golden Thread’s Islam 101 initiative, the play features original music composed by Faraz Minooei and production design by Mokhtar Paki.
+Golden Thread's Islam 101 initiative was launched in 2011 in response to the rising anti-Islamic sentiments in the US. By creating dynamic and entertaining plays insipired by Islamic art and philosophy, Islam 101 aims to shift the dominant negative stereotypes of Islam and provide Muslim families with a cultural experience they can share and take pride in.  
+
+Launche din partnership with the Islamic Cultural center of Northern California, Islam 101 previously premiered *Rumi X 7 = Tales from the Masnavi* by Hafiz Karmali.
