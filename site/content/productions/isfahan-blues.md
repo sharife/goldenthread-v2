@@ -219,6 +219,7 @@ photos:
     - image: https://ucarecdn.com/3956afa5-8bf3-4deb-a43b-ad4ac503c4a1/
     - image: https://ucarecdn.com/16d4d935-5e02-4e51-873d-05dc019a2b76/
     - image: https://ucarecdn.com/e30afb56-11b5-4acf-8011-633294152813/
+  heading: Production Photo Gallery
 bottom:
   text: The development and production of this world premiere is made possible by
     **The Wallace Alexander Gerbode Foundation** and **The William & Flora
