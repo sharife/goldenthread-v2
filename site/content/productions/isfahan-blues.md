@@ -16,6 +16,7 @@ description: Inspired by Duke Ellington Orchestra’s 1963 tour to Iran, *Isfaha
   young Iranian musicians.
 background: https://ucarecdn.com/b296ab9c-90f2-40af-b641-657cd4a09e53/
 titleimage: https://ucarecdn.com/4d9b9b30-4d39-4988-aa88-bdba701f58ce/
+program: ""
 videos:
   - id: FV8LspJJK8s
   - id: Fn4GtjysVIM
