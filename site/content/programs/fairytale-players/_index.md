@@ -6,10 +6,9 @@ intro: >
   Golden Thread Fairytale Players offer a dynamic repertoire of performances for
   young audiences, with plays based on traditions and folklore from across the
   Middle East. 
-description: >-
-  Inspired by popular performance traditions such as *Hakawati*, *Ru-hozi*,
-  *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread Fairytale
-  Players employ epic storytelling, puppetry, song, dance, circus arts
+description: Inspired by popular performance traditions such as *Hakawati*,
+  *Ru-hozi*, *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread
+  Fairytale Players employ epic storytelling, puppetry, song, dance, circus arts
   techniques, and Middle Eastern languages to create engaging performances that
   draw from enriching folk tales and timeless historical texts. <br /><br />Our
   dynamic and humorous shows invite audience participation and make unexpected
@@ -24,9 +23,8 @@ description: >-
   Francisco Unified School District, Berkeley Unified School District, San
   Leandro Unified School District, and Redwood City Unified School District.
 sidebar:
-  heading: >-
-    Golden Thread Fairytale Players have performed for thousands of elementary
-    students.
+  heading: Golden Thread Fairytale Players have performed for thousands of
+    elementary students.
   text: |-
     John Muir Elementary\
     KZV Armenian School\
@@ -75,9 +73,17 @@ lists:
           comedic hero of Armenian folk literature. Touring Bay Area schools in
           April. Performances in Redwood City are made possible in part through
           a generous grant from the Redwood City Civic Cultural Commission.
-        title: 'Princess Tamar Rescues Nazar, the Brave!'
+        title: Princess Tamar Rescues Nazar, the Brave!
       - image: /img/archive/2012/03/21Days-thumb.jpg
-        text: "*21 Days that Change the Year* is a delightful performance frames an ancient tale from Ferdowsi’s Shahnameh within contemporary adventures of a sister and brother eagerly awaiting the coming of Nowruz.\_Starting from spring cleaning and setting a traditional Haft-seen table, to Charshanbeh-suri where children jump over fire, and the Sizdeh-bedar picnic which concludes the rite of spring ceremonies, *21 Days* will introduce audiences to the rituals of the Iranian New Year, Nowruz. \n"
+        text: >
+          *21 Days that Change the Year* is a delightful performance frames an
+          ancient tale from Ferdowsi’s Shahnameh within contemporary adventures
+          of a sister and brother eagerly awaiting the coming of
+          Nowruz. Starting from spring cleaning and setting a traditional
+          Haft-seen table, to Charshanbeh-suri where children jump over fire,
+          and the Sizdeh-bedar picnic which concludes the rite of spring
+          ceremonies, *21 Days* will introduce audiences to the rituals of the
+          Iranian New Year, Nowruz. 
         title: 21 Days that Change the Year
       - image: /img/archive/2012/03/nasrudin-thumb.jpg
         text: >
@@ -100,11 +106,11 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-**[BOOK YOUR SHOW TODAY!](https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g)**
+In person shows have been canceled in response to the ever-evolving Covid crisis. Visit our Season page for *Leila's Quest for Flight* to learn more about our free radio play version, to be released November 6th!
 
 * Ideal for families and children aged 5-15.
-* Shows are 30 minutes and include a post-performance Question & Answer session with the cast.
-* For schools, an informational brochure with background on themes and resources for further learning are provided.
+* The radio play runs 30 minutes.
+* For schools, an interactive digital brochure with background on themes and resources for further learning will be provided.
 
 **Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).**
 
