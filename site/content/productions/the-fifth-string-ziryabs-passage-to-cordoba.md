@@ -20,6 +20,7 @@ description: "Meet Ziryab, the 9th-century musician and cultural icon, in this
   Islam 101 initiative, the play features original music composed by Faraz
   Minooei and production design by Mokhtar Paki."
 background: https://ucarecdn.com/ab2acd11-87f8-4d32-9e96-79700fca3d6a/
+titleimage: https://ucarecdn.com/53606950-32e2-4fe7-84c0-5e7e22a39092/
 videos:
   - id: AOaq-TeKMCE
   - id: cASst1VI3mg
