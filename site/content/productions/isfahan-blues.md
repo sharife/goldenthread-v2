@@ -5,7 +5,7 @@ season: 2015
 date: 2015-04-02T08:30:34.364Z
 start: 2015-05-02T08:30:34.383Z
 end: 2015-05-25T08:30:34.394Z
-heading: ""
+heading: An Iranian Film Star. An American Jazz Musician. The Rest Is History.
 description: Inspired by Duke Ellington Orchestra’s 1963 tour to Iran, *Isfahan
   Blues* imagines an unlikely friendship between an American jazz musician and
   an Iranian actress. As they travel together to Isfahan, “the most beautiful
@@ -21,12 +21,15 @@ videos:
   - id: FV8LspJJK8s
   - id: Fn4GtjysVIM
   - id: ZC0gvHO5r2c
-writer: Torange Yeghiazarian
+writer: Torange Yeghiazarian in collaboration with Vida Ghahremani, L. Peter
+  Callender, Nakissa Etemad, Laura Hope, and Marcus Shelby
 director: Laura Hope
-featuring: In collaboration with Vida Ghahremani, L. Peter Callender, Nakissa
-  Etemad, Laura Hope, and Marcus Shelby
+featuring: Sofia Ahmad*, L. Peter Callender, Vida Ghahremani, Behzad
+  Golemohammadi, Alexander M Lydon, Lawrence Radecker, Mohammad Talani
+dramaturg: Nakissa Etemad
+musicaldirector: Marcus Shelby
 additional: A Co-Production with African-American Shakespeare Company
-stage: Buriel Clay Theatre in San Francisco
+stage: Buriel Clay Theatre
 address: 762 Fulton St, San Francisco, CA 94102
 grids:
   - heading: In the Press
