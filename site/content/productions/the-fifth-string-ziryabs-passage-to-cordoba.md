@@ -235,4 +235,4 @@ photos:
 ---
 Golden Thread's Islam 101 initiative was launched in 2011 in response to the rising anti-Islamic sentiments in the US. By creating dynamic and entertaining plays insipired by Islamic art and philosophy, Islam 101 aims to shift the dominant negative stereotypes of Islam and provide Muslim families with a cultural experience they can share and take pride in.  
 
-Launche din partnership with the Islamic Cultural center of Northern California, Islam 101 previously premiered *Rumi X 7 = Tales from the Masnavi* by Hafiz Karmali.
+Launched in partnership with the Islamic Cultural center of Northern California, Islam 101 previously premiered *Rumi X 7 = Tales from the Masnavi* by Hafiz Karmali.
