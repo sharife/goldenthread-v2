@@ -5,7 +5,7 @@ season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ""
 end: ""
-heading: Soon to be released as a free radio play!
+heading: Soon to be released as a radio play!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -23,6 +23,7 @@ videos:
   - id: IYQFCLj2m5I
 writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
+featuring: Simone Bloch and Maya Nazzal
 additional: "Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
   (Choreographer), Sarah Al-Kassab (Stage Manager)"
 stage: Podcast link released here on November 6th!
@@ -34,15 +35,6 @@ misc: >
   href="https://docs.google.com/forms/d/1H7TdX7cdsuCFg__zic9CAz8ljHUz7w7tHbBTBaeep7g/viewform?edit_requested=true">BOOK
   YOUR SHOW TODAY!</a> 
 lists:
-  - heading: Upcoming Performances
-    items:
-      - cta: Learn More
-        link: https://sccld.org/locations/MI/
-        title: Milpitas Library
-        pre: May 12, 2020 at 7pm
-        subtitle: |-
-          160 N. Main Street\
-          Milpitas, CA 95035
   - heading: Testimonials
     items:
       - subtitle: ""
