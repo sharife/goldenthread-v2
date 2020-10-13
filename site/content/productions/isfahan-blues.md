@@ -14,7 +14,8 @@ description: Inspired by Duke Ellington Orchestra’s 1963 tour to Iran, *Isfaha
   between the US and Iran, this production aims to shed light on a little-known
   historical moment when a uniquely American art form inspired generations of
   young Iranian musicians.
-background: https://ucarecdn.com/308a9d54-e4f2-4e4e-b0ed-653848b3fbb8/
+background: https://ucarecdn.com/b296ab9c-90f2-40af-b641-657cd4a09e53/
+titleimage: https://ucarecdn.com/4d9b9b30-4d39-4988-aa88-bdba701f58ce/
 videos:
   - id: FV8LspJJK8s
   - id: Fn4GtjysVIM
