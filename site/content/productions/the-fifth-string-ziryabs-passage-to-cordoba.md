@@ -226,12 +226,19 @@ cast:
   heading: Cast & Crew
 photos:
   items:
-    - image: https://ucarecdn.com/018113e3-eb9f-4707-aac4-7ac57bd24479/
-    - image: https://ucarecdn.com/216b93a4-a2d7-44f6-bef2-2180ee7ce5ee/
-    - image: https://ucarecdn.com/e2c8ddf1-978d-4e85-98e4-819d0e61bbc3/
-    - image: https://ucarecdn.com/c8af46eb-5ce0-4912-a16d-f763a6ade7d5/
-    - image: https://ucarecdn.com/b8859bd8-1292-4b9d-a26a-b29da1e3d9ed/
-    - image: https://ucarecdn.com/ae83478c-6cb2-4746-b71a-45f826f65062/
+    - image: https://ucarecdn.com/499234f4-5b2d-4b3b-9f76-eb5c91854113/
+    - image: https://ucarecdn.com/d062a28d-9e38-41e3-ba5a-302fc38fe790/
+    - image: https://ucarecdn.com/cff79958-7373-4a13-a6dd-59633438085b/
+    - image: https://ucarecdn.com/8506a24e-da5b-480d-9807-e7aec0905b40/
+    - image: https://ucarecdn.com/759a722c-fe32-4f40-9a87-1a35b3c21d02/
+    - image: https://ucarecdn.com/9b314344-6c12-4eb0-92b1-968128e621d3/
+    - image: https://ucarecdn.com/22193846-4b86-477a-8567-e08b7673cb43/
+    - image: https://ucarecdn.com/ba2dfd49-2f85-4ef4-8558-fbf38ff41d17/
+    - image: https://ucarecdn.com/d7623cce-1ce2-4af3-b039-faa1cd529ee7/
+    - image: https://ucarecdn.com/4f2fe041-1a98-452a-9688-8c7f823cef3f/
+    - image: https://ucarecdn.com/44f872f2-1156-434a-aa8f-11ede13eef2f/
+    - image: https://ucarecdn.com/8437a1fd-08da-4473-bcf7-141820c22ee3/
+  heading: Production Photo Gallery
 ---
 Golden Thread's Islam 101 initiative was launched in 2011 in response to the rising anti-Islamic sentiments in the US. By creating dynamic and entertaining plays insipired by Islamic art and philosophy, Islam 101 aims to shift the dominant negative stereotypes of Islam and provide Muslim families with a cultural experience they can share and take pride in.  
 
