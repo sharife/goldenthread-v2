@@ -227,6 +227,6 @@ bottom:
     project is supported in part by an award from the **National Endowment for
     the Arts** and the **Columbia Foundation**.
 ---
-Everyone is raving about Isfahan Blues!
+***Everyone is raving about Isfahan Blues!***
 
 "As Ray, L. Peter Callender does vibrant but nuanced work. Sofia Ahmad brings a vivacious personality to the young Vida. Ghahremani lends authentic gravitas to the older Vida." - Richard Dodds from [Bay Area Reporter](http://www.ebar.com/arts/art_article.php?sec=theatre&article=1135)
