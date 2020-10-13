@@ -11,8 +11,12 @@ videos:
   - id: AOaq-TeKMCE
   - id: cASst1VI3mg
 writer: Torange Yeghiazarian with the Fifth String Ensemble
+director: Torange Yeghiazarian
+featuring: Munaf Alsafi, Camelia Ascencio Betancourt, Ali Bazyar (percussion),
+  Jamie Coventry, Deborah Eliezer, Gari Haggerty (oud), Majd Murad, Maruf
+  Noyoft, Naima Shalhoub
 musicaldirector: Faraz Minooei
-additional: Mokhtar Paki
+additional: Production design by Mokhtar Paki
 stage: ODC Theatre
 address: 3153 17th Street, SF CA 94110
 misc: "Appropriate for ages 8 and up  |  Running time: Approx. 70 - 80 min"
