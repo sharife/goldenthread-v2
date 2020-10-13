@@ -59,7 +59,17 @@
 <script src="/js/perfundo.min.js"></script>
 {{ if .Params.photos}}
 <script>
-  perfundo('.perfundo');
+  perfundo('.perfundo1');
+</script>
+{{ end }}
+{{ if .Params.photos2}}
+<script>
+  perfundo('.perfundo2');
+</script>
+{{ end }}
+{{ if .Params.photos3}}
+<script>
+  perfundo('.perfundo3');
 </script>
 {{ end }}
 <script type="text/javascript">

@@ -73,6 +73,16 @@
           {{ if .Params.awardsimage }} <img src="{{ .Params.awardsimage }}" class="mw3" alt="" /> {{ end }}
           {{ if .Params.misc }} <hr /><p class="f6 mb1">{{ .Params.misc | markdownify }}</p> {{ end }}
         </div>
+        {{ if .Params.program }}
+          <div class="mb3">
+            <p class="f6 b mb1"><a href="{{.Params.program}}">
+            {{ if .Params.programlabel}}
+              {{ .Params.programlabel }}
+            {{ else }}
+              Read the full production program
+            {{ end }}</a></p>
+          </div>
+        {{ end }}
       </div>
     </div>
     <div class="cms pv3">
@@ -102,7 +112,7 @@
   </div>
   <div>
     <div class="mw7 center ph3">
-      {{ partial "gallery" (dict "photos" .Params.photos "pageUrl" .Permalink) }}
+      {{ partial "gallery" (dict "photos" .Params.photos "pageUrl" .Permalink "galleryID" "1") }}
     </div>
   </div>
   <div>
@@ -114,7 +124,7 @@
   </div>
   <div>
     <div class="mw7 center ph3">
-      {{ partial "gallery" (dict "photos" .Params.photos2 "pageUrl" .Permalink) }}
+      {{ partial "gallery" (dict "photos" .Params.photos2 "pageUrl" .Permalink "galleryID" "2") }}
     </div>
   </div>
   <div>
@@ -126,7 +136,7 @@
   </div>
   <div>
     <div class="mw7 center ph3">
-      {{ partial "gallery" (dict "photos" .Params.photos3 "pageUrl" .Permalink) }}
+      {{ partial "gallery" (dict "photos" .Params.photos3 "pageUrl" .Permalink "galleryID" "3") }}
     </div>
   </div>
   <div>
@@ -140,7 +150,6 @@
           </div>
       {{ end }}
 
-      {{ if .Params.program }} <p class="f6 b mb1"><a href="{{.Params.program}}">Read the full production program</a></p> {{ end }}
 
       {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}
     </div>

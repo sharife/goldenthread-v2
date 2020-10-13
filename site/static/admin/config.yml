@@ -30,7 +30,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro", name: "description", widget: "markdown", required: false}
       - {label: "Header Image", name: "background", widget: "image", required: false}
       - {label: "Title Image", name: "titleimage", widget: "image", required: false}
-      - {label: "Program PDF", name: "program", widget: "file", required: false}
+      - {label: "PDF Label", name: "programlabel", widget: "string", required: false}
+      - {label: "PDF Upload", name: "program", widget: "file", required: false}
       - label: Videos
         name: videos
         widget: list
