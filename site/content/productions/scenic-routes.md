@@ -11,6 +11,8 @@ description: Lana's family is intrigued by her new man, Naguib. Her mother wants
   planting a bomb in a café only to find themselves caught in a web of deception
   and mistrust when their alleged plan is actually played out.
 background: https://ucarecdn.com/d961d019-27b1-43cc-abba-8f8941c50e23/
+programlabel: Read the full production program
+program: https://ucarecdn.com/e7c78107-bd9f-440a-b31e-b4e3ad6ffce1/
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
 stage: EXIT Stage Left
