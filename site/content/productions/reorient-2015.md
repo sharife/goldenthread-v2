@@ -32,11 +32,10 @@ lists:
           artists, scholars, and activists from around the world.
 
 
-
           This year’s Forum features UC Davis Professor Sunaina Maira as Keynote Speaker, and presents panels on ideas of home and language for Palestinian artists around the world (organized by Theatre Without Borders), the intersection of sexual identity with Middle Eastern performance (organized by Shape-Shift Arts & Saboteur Productions), a multigenerational perspective of Iranian-American theatre (organized by Diaspora Arts Connection), and a panel on the future of Bay Area’s culturally-specific theatre companies (organized by Theatre Bay Area), amongst others.
 
 
-          **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2015-forum-panels/).**
+          **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2015/).**
         title: October 3 & 4, 2015
   - heading: ReOrient 2015 Line-up
     items:
