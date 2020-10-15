@@ -14,6 +14,7 @@ description: The play is a fusion of traditional American musical with Middle
   member of Khadra International Dance Theatre and Ballet Afsaneh, and has
   performed with Dance Brigade, CHODERA/dance, and Asian American Dance
   Performances.
+background: https://ucarecdn.com/aa8c5c5f-41a8-4b47-acfe-e00fbae250a8/
 programlabel: Read the full production program
 program: https://ucarecdn.com/ea179eb7-6296-4a23-a24d-037b50ffb983/
 writer: Hal Gelb, Janaki Ranpura, and Torange Yeghiazarian
