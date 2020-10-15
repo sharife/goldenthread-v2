@@ -16,6 +16,7 @@ description: Ardavazt and Alice build a new life in the U.S. in the aftermath of
   his heart?" was the question that began Adriana's two-year journey to develop
   Night Over Erzinga, the inaugural commission of the prestigious Middle East
   America Award.
+background: https://ucarecdn.com/e0c59cc1-ebab-4129-8b9a-b9affb0a07b3/
 titleimage: https://ucarecdn.com/3175eff7-5571-4a42-96f2-8c2e7bc522a3/
 videos:
   - id: ZIvUWcchtJc
@@ -45,7 +46,7 @@ cast:
         Distinguished Playwright Award, which gifted her with a commission, to
         write a play, inspired by her Armenian grandparents' survival of the
         Genocide of 1915."
-      image: https://ucarecdn.com/fc59f3e5-a01f-473a-9b3f-6ee789c22aad/
+      image: https://ucarecdn.com/1e61b0aa-76fe-48d9-97ce-1a2d5c0907c8/
     - name: Hafiz Karmali
       credit: Director
       bio: "After pursuing his MFA (in Directing) at Carnegie-Mellon University School
@@ -101,7 +102,7 @@ cast:
         play NIGHT OVER ERZINGA. He has also been honored by being invited to
         perform in Golden Thread's next production, LANGUAGE ROOMS."
       credit: Older Ardavadzt, Doctor, Aram
-      image: https://ucarecdn.com/80d85c02-8ce2-45d0-a7df-f3151e6aab8e/
+      image: https://ucarecdn.com/d79fbd7a-c69a-4255-a232-b57f44772c34/
     - name: Sarita Ocón
       bio: '**Sarita Ocón** is honored to be part of this powerful and heartfelt
         journey with Golden Thread and an incredible team of artists and
@@ -120,6 +121,7 @@ cast:
         received her BA in Comparative Studies in Race and Ethnicity from
         Stanford University.'
       credit: Sahiba, Nurse, Sarineh, Older Estrella
+      image: https://ucarecdn.com/062e0f4d-a9bf-45ca-b76a-832692ab784f/
     - name: Lawrence Radecker
       bio: "**Lawrence Radecker** is a resident artist with Crowded Fire Theater
         Company where he has developed and debuted roles in the world premieres
@@ -133,7 +135,7 @@ cast:
         Hometown Theatre Show. He can be seen and heard in a variety of
         industrials and voiceovers, as well as a couple of television series."
       credit: Alberto, Cop, Turkish Soldier, Johnnie the SM
-      image: https://ucarecdn.com/d28e84aa-f896-43e0-9082-2c2a9c35fd46/
+      image: https://ucarecdn.com/d074393a-d983-4b4b-9155-2bfc92df70f4/
     - name: Juliet Tanner
       credit: Alice, Ava
       bio: "**Juliet Tanner** has performed in the Bay Area with Crowded Fire,
@@ -143,6 +145,7 @@ cast:
         Players and Word for Word. She appeared in the Bare Bones production of
         NIGHT OVER ERZINGA at the Lark in New York City in June, and is honored
         to be a part of the world premiere."
+      image: https://ucarecdn.com/92970027-1b5f-4258-8b8c-1ecf300228fe/
     - name: Brian Trybom
       credit: Ardavazdt, Benny
       bio: "\"The many stories of loss, survival, and personal triumphs that I found
@@ -155,6 +158,7 @@ cast:
         with Marin Shakespeare Company among others. This winter Brian will be
         appearing in Boxcar Theater's productions of TRUE WEST, AND FOOL FOR
         LOVE. Many thanks to my family, and of course to my wife Stavi."
+      image: https://ucarecdn.com/48440fb7-d2c5-40de-a2c2-f5eb4fd2784d/
     - credit: Estrella, Anoushik, little Alice
       name: Natalie Amanian
       bio: "**Natalie Amanian,** born in October 2002, is a 4th-grade student at KZV
@@ -173,6 +177,7 @@ cast:
         may have been different but the cause was the same. The only way we can
         preserve our heritage is by never forgetting where we actually come
         from.\""
+      image: https://ucarecdn.com/7d0bea4f-ae3f-45d3-beea-5c478ff1d37d/
     - text: >-
         **Design Team:** Jim Cave, Mitchell Greenhill, Michelle Mulholland,
         Valerie M. Niles, Mikiko Uesugi*
