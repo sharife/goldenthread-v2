@@ -21,6 +21,8 @@ description: Golden Thread Productions is proud to present the world premiere of
   of the prestigious New Works Fund Grant, Zellerbach, and Wallace Gerbode
   Foundation, **Ecstasy | a waterfable** is visceral, physical storytelling at
   its best.
+programlabel: Read the full production program
+program: https://ucarecdn.com/9d6d45f3-e82f-464a-a536-ed26cb1031b0/
 writer: Denmo Ibrahim
 director: Evren Odcikin
 stage: The Thick House
