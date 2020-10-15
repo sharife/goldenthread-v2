@@ -1,7 +1,7 @@
 ---
 title: Jihad Jones and the Kalashnikov Babes
-pre: ""
-season: 2008
+pre: NNPN Rolling World Premiere
+season: 2007
 date: 2008-05-05T23:57:00.000Z
 start: 2008-06-05T23:57:00.000Z
 end: 2008-06-29T23:57:00.000Z
@@ -11,6 +11,8 @@ background: https://ucarecdn.com/7459c4b4-e793-4f46-8ef3-1edf136b44a2/
 titleimage: https://ucarecdn.com/6648deb8-e4a0-4431-833d-0767d79ad63f/
 writer: Yussef El Guindi
 director: Mark Routhier
+stage: Potrero Stage (formerly Thick House)
+address: 1695 18th Street, San Francisco
 grids:
   - heading: Read & Listen
     items:
