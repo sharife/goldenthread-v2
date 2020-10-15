@@ -40,22 +40,23 @@ lists:
       - subtitle: ""
         text: >-
           #### "Thank you so much for the best educational program our school
-          has had in years...
-
-
-          "The beautiful messages and cultural awareness in story form is really special! Live theatre is lacking in our elementary education-thank you again for filling in this void in such a lovely and powerful way." *—Teacher, Daniel Webster Elementary School*
+          has had in years...The beautiful messages and cultural awareness in
+          story form is really special! Live theatre is lacking in our
+          elementary education-thank you again for filling in this void in such
+          a lovely and powerful way." *—Teacher, Daniel Webster Elementary
+          School, San Mateo*
 
 
           "Golden Thread has quickly become a favorite presenter of family programs at San Francisco Public Library."  *—Family Engagement Services, San Francisco Public Library*
 
 
-          "The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." *—Teacher, Hawes Elementary*
+          "The students enjoyed the ingenious way the actors changed their parts. The kids went around mimicking the actors for days." *—Teacher, Hawes Elementary, Redwood City*
 
 
-          "I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" *—Parent, Berkwood Hedge School*
+          "I’m so happy these kids are getting such wonderful exposure to Middle Eastern culture, and especially getting to hear the Palestinian voice. And to end it with one of my family’s favorite Fairuz songs was the cherry on top!" *—Parent, Berkwood Hedge School, Berkeley*
 
 
-          "\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. *—Teacher, Cesar Chavez Elementary School*
+          "\[As an educator, I valued] an opportunity for students to experience art especially made by people of color and performers. *—Teacher, Cesar Chavez Elementary School, San Francisco*
 
 
           "Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
@@ -156,7 +157,6 @@ photos:
     - image: /img/archive/2018/07/HoopoeJmeyz.jpg
     - image: /img/archive/2018/07/Debke.jpg
     - image: /img/archive/2018/07/AudienceParticipation.jpg
-    - image: /img/archive/2018/07/Asfour.jpg
 bottom:
   text: Golden Thread Fairytale Players is supported by generous grants from <a
     href="http://nnf.foundation/" target="_blank">Neda Nobari Foundation</a> and
