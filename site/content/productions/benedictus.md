@@ -19,8 +19,8 @@ description: >-
 background: https://ucarecdn.com/b0aab733-ca0e-4d7c-a31e-8fe05b7d0061/
 titleimage: https://ucarecdn.com/e1b6eb97-b938-4c71-9460-31cc76821ba6/
 videos: []
-stage: ""
-address: ""
+stage: Potrero Stage (formerly Thick House)
+address: 1695 18th Street, San Francisco
 misc: Benedictus held performances at The Thick House (1695 18th St., San
   Francisco) and at The New LATC (Theatre 2, 514 S. Spring Street, Los Angeles,
   CA 90013).
