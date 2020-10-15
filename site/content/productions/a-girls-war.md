@@ -26,6 +26,9 @@ description: >-
 titleimage: https://ucarecdn.com/1ffda8e0-8e71-4b50-9ce1-199d79999d2f/
 writer: Joyce Van Dyke
 director: Torange Yeghiazarian
+stage: Potrero Stage (formerly Thick House)
+address: 1695 18th Street, San Francisco
+visitlink: ""
 cast:
   heading: Cast & Crew
   items:
