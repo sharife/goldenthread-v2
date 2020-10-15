@@ -157,7 +157,6 @@ photos:
     - image: /img/archive/2018/07/HoopoeJmeyz.jpg
     - image: /img/archive/2018/07/Debke.jpg
     - image: /img/archive/2018/07/AudienceParticipation.jpg
-    - image: /img/archive/2018/07/Asfour.jpg
 bottom:
   text: Golden Thread Fairytale Players is supported by generous grants from <a
     href="http://nnf.foundation/" target="_blank">Neda Nobari Foundation</a> and
