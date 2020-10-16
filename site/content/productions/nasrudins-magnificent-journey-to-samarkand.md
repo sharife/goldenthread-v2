@@ -8,6 +8,7 @@ end: 2013-02-17T08:54:00.000Z
 background: https://ucarecdn.com/8bb5fc92-ddbe-4a78-a356-2f17434e09c1/
 programlabel: Read the full production program
 program: ""
+writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 featuring: Golden Thread’s Fairytale Players
 stage: San Leandro Public Library
