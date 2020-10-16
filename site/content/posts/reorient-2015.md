@@ -9,7 +9,7 @@ description: >-
 
 
   Nowhere else will you find such an esteemed group of international artists, scholars, and activists leading bold conversations about theatre and the Middle East. All panels are free and open to the public, and will be livestreamed on Howlround.com.
-background: https://ucarecdn.com/11166b9a-f3ad-4273-b704-e292f6b47cf3/
+background: https://ucarecdn.com/11166b9a-f3ad-4273-b704-e292f6b47cf3/-/crop/5177x2943/0,0/-/preview/
 ---
 **ReOrient 2015 Form Panel Schedule:**
 
