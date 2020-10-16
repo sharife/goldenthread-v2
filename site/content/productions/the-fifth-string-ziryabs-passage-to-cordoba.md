@@ -23,10 +23,10 @@ background: https://ucarecdn.com/ab2acd11-87f8-4d32-9e96-79700fca3d6a/
 titleimage: https://ucarecdn.com/53606950-32e2-4fe7-84c0-5e7e22a39092/
 videos:
   - id: cASst1VI3mg
-  - id: https://youtu.be/w1aDsVuXMag
-  - id: https://youtu.be/5jb4aU5PHxs
-  - id: https://youtu.be/8unvfMWo3R8
-  - id: https://youtu.be/Mx1b1Noof00
+  - id: w1aDsVuXMag
+  - id: 5jb4aU5PHxs
+  - id: 8unvfMWo3R8
+  - id: Mx1b1Noof00
 writer: Torange Yeghiazarian with the Fifth String Ensemble
 director: Torange Yeghiazarian
 featuring: Munaf Alsafi, Camelia Ascencio Betancourt, Ali Bazyar (percussion),
