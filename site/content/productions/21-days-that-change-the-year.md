@@ -1,13 +1,15 @@
 ---
 title: 21 Days That Change the Year
 pre: Fairytale Players
-season: 2014
+season: ""
 date: 2015-02-15T08:26:00.000Z
 start: 2015-03-15T08:26:00.000Z
 end: 2015-03-15T08:26:00.000Z
 description: ""
+background: https://ucarecdn.com/3301eac7-0c42-419a-b746-5666212ff7fd/
 videos:
   - id: khGZkZaZqOI
+writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 stage: Berkeley Public Library
 address: 2090 Kittredge St
