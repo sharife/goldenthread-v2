@@ -4,7 +4,7 @@ season: 1997
 date: 1997-05-19T12:22:00.000Z
 start: 1997-06-19T12:22:00.000Z
 end: 1997-06-19T12:22:00.000Z
-background: ""
+background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
 cast:
   heading: Cast & Crew
   items:
