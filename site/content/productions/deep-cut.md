@@ -12,6 +12,10 @@ description: An Inquiry into the limits of cultural tradition and individual
   responsibility as related to such global issues as torture and female genital
   mutilation.
 background: https://ucarecdn.com/1c71a8e9-e103-46f5-8a52-d64fdccc4ebb/
+programlabel: Read the full production program
+program: https://ucarecdn.com/d91f48db-635c-4156-8af5-ee81ec65bb22/
+writer: Karim Alrawi
+director: Hal Gelb
 stage: Thicket House
 address: 1695 18th St. Potrero Hill, San Francisco  Between Carolina & Arkansas St.
 misc: |-
