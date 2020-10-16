@@ -168,11 +168,12 @@ cast:
       image: https://ucarecdn.com/c1a5eb3a-8745-476f-89d1-f5f2233a07a1/
 photos:
   items:
-    - image: https://ucarecdn.com/432fe0c2-348d-4f51-8440-b6533bc45390/
-    - image: https://ucarecdn.com/27e80ec3-bd31-4ddb-9a88-2683583a91ff/
-    - image: https://ucarecdn.com/395ed8f4-a154-4957-8048-1ccefedb6ba1/
     - image: https://ucarecdn.com/bae426f9-101e-4e3f-bf48-f935ba82620b/
     - image: https://ucarecdn.com/5673e356-4c8d-47fa-b0a9-1c12b42e8d23/
+    - image: https://ucarecdn.com/b9fd2ea0-6790-4ca5-8584-14db62db20c5/
+    - image: https://ucarecdn.com/c7bee8c6-120a-4588-9be0-fcb739076501/
+    - image: https://ucarecdn.com/e066b4dd-2dbe-4314-87e0-dbd7cc80ae7e/
+    - image: https://ucarecdn.com/e3c5080a-0fe0-40e0-b497-d12edcb8eb73/
 archivevideo: Qtszrdhpea8
 bottom:
   logos:
@@ -183,8 +184,7 @@ bottom:
     - image: https://ucarecdn.com/516dd3e1-63f7-4d0c-a0ab-3dee86dffb97/
     - image: https://ucarecdn.com/f9800f47-73d9-4a17-80f4-39a34ba08a43/
   heading: We are grateful for the support of the following institutions
-  text: National Endowment for the Arts, Walter and Elise Haas Fund, Zallerbach
-    Family Foundation
+  text: ""
 ---
 Fresh out of a residency at Ground Floor at Berkeley Rep, Playwright **Mona Mansour** says: “I’m excited to look again at this piece that really is fairly autobiographical and very close to my heart…I don’t think stories about the Middle East are being told enough, and they surely aren’t being told truthfully.”
 
