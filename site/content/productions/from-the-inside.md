@@ -10,6 +10,8 @@ description: Golden Thread Productions is pleased to present an original
   multimedia performance collaboratively created by Taraneh Hemami, Antonia
   Smits, Termeh Dimi Yeghiazarian, Torange Yeghiazarian the participants of
   Golden Thread Productions' Acting Workshop led by Antonia Smits.
+background: https://ucarecdn.com/8714fe13-03a2-412f-b2c1-8e0276fd7a1c/
+titleimage: https://ucarecdn.com/9cd3b8ec-f6e0-4976-98fa-c369ba08ee13/
 stage: Open Art Circle
 address: 530 E. 8th St., Oakland (one block east of Laney College)
 misc: ONE PERFORMANCE ONLY!
