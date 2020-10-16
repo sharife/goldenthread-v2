@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2015 Forum Panels
+title: ReOrient Forum 2015
 date: 2015-10-03T21:07:00.000Z
 description: >-
   Forum Exploring the Middle East
