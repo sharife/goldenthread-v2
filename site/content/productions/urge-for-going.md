@@ -12,11 +12,16 @@ description: Jamila, a studious 17-year-old Palestinian girl growing up in a
   Whiting Writers’ Prize and Middle East America honorable mention, Mansour
   offers a feast of personalities and juicy dialogue in this searing and funny
   family story.
-background: https://ucarecdn.com/f40ac146-f04e-4842-9c7b-822b279ebffb/
+background: https://ucarecdn.com/f40ac146-f04e-4842-9c7b-822b279ebffb/-/crop/2705x1655/0,0/-/preview/
 titleimage: https://ucarecdn.com/9f850278-1620-429a-9da8-ef0f8a17aa01/
 program: https://ucarecdn.com/b6441fe6-028d-4e4c-9c27-11c0acda7c80/
 writer: Mona Mansour
 director: Evren Odcikin
+featuring: Munaf Alsafi, Camila Betancourt Ascencio, Tara Blau*, Terry Lamb*,
+  Julian Lopez-Mirrilas*, Wiley Naman Strasser
+additional: "Deasign & Production Team: Brendan Aanes (sound design), Kate Boyd
+  (scenic & lighting design), Michelle Mulholland (costume design), Devon
+  Labelle (props master)"
 stage: Z Below
 address: 470 Florida St., San Francisco, 94110
 lists:
