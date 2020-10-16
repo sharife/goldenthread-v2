@@ -249,7 +249,7 @@ photos2:
     - image: https://ucarecdn.com/1bf3903a-9988-4fd5-a047-354320ae5cde/
     - image: https://ucarecdn.com/974144aa-d18a-4e50-a79d-2aa3ae4ca8ee/
     - image: https://ucarecdn.com/3cd64803-6de9-46e4-b90c-85b60be968f1/
-archivevideo: https://youtu.be/nus2mLeWPrc
+archivevideo: nus2mLeWPrc
 bottom:
   heading: We are grateful for the financial support of the following institutions
   text: California Arts Council, East Bay Community Center, One Nation Bay Area,
