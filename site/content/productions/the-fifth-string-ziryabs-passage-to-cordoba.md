@@ -3,7 +3,7 @@ title: "The Fifth String: Ziryab's Passage to Cordoba"
 pre: World Premiere
 season: 2014
 date: 2014-11-05T08:55:00.000Z
-start: 2014-12-05T08:55:00.000Z
+start: 2014-05-02T07:55:00.000Z
 end: 2014-12-08T08:55:00.000Z
 heading: A timeless tale of a 9th century trailblazer!
 description: "Meet Ziryab, the 9th-century musician and cultural icon, in this
@@ -21,6 +21,7 @@ description: "Meet Ziryab, the 9th-century musician and cultural icon, in this
   Minooei and production design by Mokhtar Paki."
 background: https://ucarecdn.com/ab2acd11-87f8-4d32-9e96-79700fca3d6a/
 titleimage: https://ucarecdn.com/53606950-32e2-4fe7-84c0-5e7e22a39092/
+program: https://ucarecdn.com/afc10338-40a6-4806-a008-d21212242971/
 videos:
   - id: cASst1VI3mg
   - id: w1aDsVuXMag
