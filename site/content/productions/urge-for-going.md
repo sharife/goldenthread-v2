@@ -24,14 +24,7 @@ additional: "Deasign & Production Team: Brendan Aanes (sound design), Kate Boyd
   Labelle (props master)"
 stage: Z Below
 address: 470 Florida St., San Francisco, 94110
-lists:
-  - heading: Mona Mansour in Conversation with Torange Yeghiazarian
-    items:
-      - subtitle: ""
-        cta: Read More
-        text: I’m excited to look again at this piece that really is fairly
-          autobiographical and very close to my heart…
-        link: http://www.goldenthread.org/conversation-with-playwright-mona-mansour-by-torange-yeghiazarian/
+lists: []
 cast:
   heading: Cast & Crew
   items:
