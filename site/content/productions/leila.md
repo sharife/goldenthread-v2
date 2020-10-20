@@ -5,7 +5,7 @@ season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ""
 end: ""
-heading: Soon to be released as a radio play!
+heading: To be released November 10th as a radio play!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -14,9 +14,7 @@ description: >-
   connecting diverse cultural traditions to contemporary themes.
 
 
-
-
-  In response to the success of our in person tour, *Leila's Quest for Flight* will be released in early November as a free radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
+  In response to the success of our in person tour, *Leila's Quest for Flight* will be released November 10th as a free radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
 background: /img/hero-leila.jpg
 titleimage: /img/archive/2018/07/leila-slider.jpg
 videos:
