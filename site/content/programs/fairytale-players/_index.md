@@ -106,7 +106,7 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-In person shows have been canceled in response to the ever-evolving Covid crisis. Visit our Season page for *Leila's Quest for Flight* to learn more about our free radio play version, to be released November 6th!
+In person shows have been canceled in response to the ever-evolving Covid crisis. Visit our Season page for *Leila's Quest for Flight* to learn more about our free radio play version, to be released November 10th!
 
 * Ideal for families and children aged 5-15.
 * The radio play runs 30 minutes.
