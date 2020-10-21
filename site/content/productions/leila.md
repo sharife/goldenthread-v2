@@ -5,7 +5,7 @@ season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ""
 end: ""
-heading: To be released November 10th as a radio play!
+heading: To be released as a radio play!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -24,7 +24,7 @@ director: Torange Yeghiazarian
 featuring: Simone Bloch and Maya Nazzal
 additional: "Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
   (Choreographer), Sarah Al-Kassab (Stage Manager)"
-stage: Podcast link released here on November 6th!
+stage: Podcast link released here on November 10th!
 address: ""
 misc: >
   This radio play runs approximately 30-minutes. Appropriate for families and
