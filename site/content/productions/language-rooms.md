@@ -116,6 +116,12 @@ photos2:
     - image: https://ucarecdn.com/64e5ed6f-900c-42eb-a1df-52f45ed38185/
     - image: https://ucarecdn.com/2f66cffc-4495-42a9-8072-3c9c7f185a10/
     - image: https://ucarecdn.com/ad22f22e-d8fa-45eb-ab7c-d4a9f2c10055/
+photos3:
+  heading: Production Gallery - Los Angeles Theater Center
+  items:
+    - image: https://ucarecdn.com/6f3c8abf-9045-4ccd-9f8d-2e91427475c1/
+    - image: https://ucarecdn.com/c7b79b0f-3a1e-4fd7-bdbf-e30879fa5a46/
+    - image: https://ucarecdn.com/02fd2e48-dd35-40de-8cca-e6412c18622c/
 archivevideo: Cr55Kcs5Av4
 bottom:
   logos:
