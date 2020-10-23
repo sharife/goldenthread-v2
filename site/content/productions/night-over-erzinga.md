@@ -1,6 +1,6 @@
 ---
 title: Night Over Erzinga
-pre: World Premiere
+pre: A Middle East America World Premiere
 season: 2011
 date: 2011-08-15T22:46:00.000Z
 start: 2011-09-15T22:46:00.000Z
@@ -32,11 +32,8 @@ additional: "Design Team: Jim Cave (lighting), Mitchell Greenhill (sound),
 stage: South Side Theatre
 address: Fort Mason Center, San Francisco
 lists:
-  - heading: Off the Grid Fridays!
-    items:
-      - subtitle: If you are in the area to see the show on a Friday, make sure to check
-          out the amazing food at this mobile catering event at Fort Mason!
-        link: http://offthegridsf.com/
+  - heading: ""
+    items: []
 cast:
   heading: Cast & Crew
   items:
@@ -210,5 +207,13 @@ photos:
     - image: https://ucarecdn.com/865572b3-d559-4a8f-b2bb-30c100cc1276/
     - image: https://ucarecdn.com/9c7ca16f-c614-4f48-98d5-bc88b36046aa/
     - image: https://ucarecdn.com/ec19d3d4-bdcc-4cbd-ba3a-f3c0ef87638b/
+archivevideo: ZIvUWcchtJc
+bottom:
+  heading: We are grateful for the support of the following institutions
+  text: San Francisco Arts Commission, Zellerbach Family Foundation
 ---
-NIGHT OVER ERZINGA, written by award winning playwright, Adriana Sevahn Nichols, tells the moving story of an immigrant family of Armenian and Dominican heritage, exploring how a man can lose everything but his heart, and how a grandmother can reach through time, to unearth the untold story, and bring her children "home." Spanning two continents and three generations, from Western Armenia of 1913, to 1930's Massachusetts, to 1960's New York, ancestors are reunited with the living, as they each search for solace, and a way to make peace with the past.
+NIGHT OVER ERZINGA by Adriana Sevahn Nichols, tells the moving story of an immigrant family of Armenian and Dominican heritage, exploring how a man can lose everything but his heart, and how a grandmother can reach through time, to unearth the untold story, and bring her children "home." Spanning two continents and three generations, from Western Armenia of 1913, to 1930's Massachusetts, to 1960's New York, ancestors are reunited with the living, as they each search for solace, and a way to make peace with the past.
+
+Commissioned by Middle East America: A National New Plays Initiative created and managed by Golden Thread Productions, Lark Play Development Center (New York), and Silk Road Theatre Project (Chicago).
+
+This world premiere was made possible in part with significant contribution from Levon der Bedrossian, Roger Strauch & Julie Kulhanjian, David & Christine Balabanian, Adam & Rita Kablanian, Edward & Eleonore Aslanian, and countless other individual donors.
