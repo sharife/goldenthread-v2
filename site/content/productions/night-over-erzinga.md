@@ -6,18 +6,19 @@ date: 2011-08-15T22:46:00.000Z
 start: 2011-09-15T22:46:00.000Z
 end: 2011-10-09T22:46:00.000Z
 heading: An Armenian Family’s Story of Survival and Reconciliation
-description: Ardavazt and Alice build a new life in the U.S. in the aftermath of
-  the Armenian Genocide but the past comes to haunt them in very different ways.
+description: >-
+  Ardavazt and Alice build a new life in the U.S. in the aftermath of the
+  Armenian Genocide but the past comes to haunt them in very different ways.
   Inspired by the playwright's family history, this tender epic spans
   generations and countries in a fluid and magical narrative that will be scored
   with original music by Bulgarian composer, Penka Kouneva; directed by
   international artist, Hafiz Karmali, set design by award-winning Mikiko
-  Uesugi. "How did my grandfather lose two families in one lifetime but not lose
-  his heart?" was the question that began Adriana's two-year journey to develop
-  Night Over Erzinga, the inaugural commission of the prestigious Middle East
-  America Award.
-background: https://ucarecdn.com/e0c59cc1-ebab-4129-8b9a-b9affb0a07b3/
-titleimage: https://ucarecdn.com/3175eff7-5571-4a42-96f2-8c2e7bc522a3/
+  Uesugi. 
+
+
+  "How did my grandfather lose two families in one lifetime but not lose his heart?" was the question that began Adriana's two-year journey to develop Night Over Erzinga, the inaugural commission of the prestigious Middle East America Award.
+background: https://ucarecdn.com/e0c59cc1-ebab-4129-8b9a-b9affb0a07b3/-/crop/4025x2426/0,406/-/preview/
+titleimage: https://ucarecdn.com/da5f5c67-a78f-47db-9af4-dca0019b3fd1/
 program: https://ucarecdn.com/dde60769-4642-43c8-b1b0-7534fe415bdb/
 videos:
   - id: ZIvUWcchtJc
@@ -193,7 +194,6 @@ cast:
         \*Member Actors Equity Association, United Scenic Artists
 photos:
   items:
-    - image: https://ucarecdn.com/70f2fc53-6e8c-4a54-bea4-3a14b917fde3/
     - image: https://ucarecdn.com/02038298-d1d3-49bf-a2b2-2b6d18d0c7fc/
     - image: https://ucarecdn.com/aa37598f-8e76-412d-b353-16a2558f4202/
     - image: https://ucarecdn.com/334652d3-4f4f-491c-abca-baef1bffee90/
@@ -202,15 +202,28 @@ photos:
     - image: https://ucarecdn.com/459a0437-b8b0-4a4f-800c-7ebcda7cc52c/
     - image: https://ucarecdn.com/47fbeb95-34d4-4afe-aeb0-ff37ca533af8/
     - image: https://ucarecdn.com/15375760-b46b-4214-8f60-d4e0ae94cd3a/
-    - image: https://ucarecdn.com/9f0d51fc-d6a2-4439-9d41-3c7aab6c1a9a/
     - image: https://ucarecdn.com/08969d9c-8030-4b29-9bbf-b5855710e91f/
     - image: https://ucarecdn.com/865572b3-d559-4a8f-b2bb-30c100cc1276/
     - image: https://ucarecdn.com/9c7ca16f-c614-4f48-98d5-bc88b36046aa/
     - image: https://ucarecdn.com/ec19d3d4-bdcc-4cbd-ba3a-f3c0ef87638b/
+  heading: Production Photo Gallery
+photos2:
+  heading: Opening Night Reception
+  items:
+    - image: https://ucarecdn.com/1fba50b3-c0c9-4322-87dd-edd2ed0d6d40/
+    - image: https://ucarecdn.com/7a55b966-7bcf-4d0f-bbf6-8457639f3417/
+    - image: https://ucarecdn.com/3092a91a-2a03-4554-a4f1-ac122019504d/-/crop/1485x1264/238,15/-/preview/
+photos3:
+  heading: Development Workshop
+  items:
+    - image: https://ucarecdn.com/ce0a0ffb-b27f-45c3-8b48-d56bc160e63a/
+    - image: https://ucarecdn.com/df520ca1-c083-4330-829f-7a06712ab0bb/
+    - image: https://ucarecdn.com/d80edae9-644d-4143-b109-e15fdf94a473/
 archivevideo: ZIvUWcchtJc
 bottom:
   heading: We are grateful for the support of the following institutions
-  text: San Francisco Arts Commission, Zellerbach Family Foundation
+  text: National Endowment for the Arts, San Francisco Arts Commission, Zellerbach
+    Family Foundation
 ---
 NIGHT OVER ERZINGA by Adriana Sevahn Nichols, tells the moving story of an immigrant family of Armenian and Dominican heritage, exploring how a man can lose everything but his heart, and how a grandmother can reach through time, to unearth the untold story, and bring her children "home." Spanning two continents and three generations, from Western Armenia of 1913, to 1930's Massachusetts, to 1960's New York, ancestors are reunited with the living, as they each search for solace, and a way to make peace with the past.
 
