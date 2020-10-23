@@ -24,12 +24,7 @@ additional: "Design Team: Miyuki Bierlein (costumes), Valerie M. Niles (props),
   Dar Andrew Packard (lighting), Mikiko Uesugi (scenic)"
 stage: Thick House
 address: 1695 18th St. San Francisco
-misc: Language Rooms was originally developed at ACT Theatre, Seattle, WA and
-  Playwrights Foundation In the Rough series, San Francisco, CA. Further
-  developed by New York Stage and Film Company and the Powerhouse Theater in a
-  reading at Vassar on June 29, 2009. The world premiere of Language Rooms was
-  produced by The Wilma Theater. Golden Thread will remount this production at
-  the Los Angeles Theater Center in 2012.
+misc: ""
 lists:
   - items:
       - subtitle: Read the San Francisco Chronicle Interview of Yussef about the play
@@ -125,3 +120,5 @@ bottom:
   heading: We are grateful for the support of the following institutions
 ---
 Yussef El Guindi (*Back of the Throat* and *Jihad Jones and the Kalashnikov Babes*) returns to Golden Thread with this unexpected juxtaposition of a comical political thriller and an American immigrant family story. El Guindi, who has long been a Golden Thread favorite, has recently received national accolades, including the 2011 Middle East America Award and the 2012 Harold and Mimi Steinberg/American Theatre Critics Association New Play Award.
+
+Language Rooms was originally developed at ACT Theatre, Seattle, WA and Playwrights Foundation In the Rough series, San Francisco, CA. Further developed by New York Stage and Film Company and the Powerhouse Theater in a reading at Vassar on June 29, 2009. The world premiere of Language Rooms was produced by The Wilma Theater. Golden Thread will remount this production at the Los Angeles Theater Center in 2012.
