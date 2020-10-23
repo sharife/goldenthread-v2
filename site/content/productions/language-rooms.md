@@ -19,14 +19,17 @@ videos:
   - id: J9uvWLvTfGQ
 writer: Yussef El Guindi
 director: Evren Odcikin
-stage: Los Angeles Theater Center
-address: 514 South Spring St., Los Angeles 90014
-misc: "Language Rooms was originally presented in partnership with the Asian
-  American Theatre Company. Language Rooms was originally developed at ACT
-  Theatre, Seattle, WA and Playwrights Foundation In the Rough series, San
-  Francisco, CA. Further developed by New York Stage and Film Company and the
-  Powerhouse Theater in a reading at Vassar on June 29, 2009. The world premiere
-  of Language Rooms was produced by The Wilma Theater. "
+featuring: Mujahid Abdul-Rashid*, James Asher, Willian Dao, Terry Lamb*
+additional: "Design Team: Miyuki Bierlein (costumes), Valerie M. Niles (props),
+  Dar Andrew Packard (lighting), Mikiko Uesugi (scenic)"
+stage: Thick House
+address: 1695 18th St. San Francisco
+misc: Language Rooms was originally developed at ACT Theatre, Seattle, WA and
+  Playwrights Foundation In the Rough series, San Francisco, CA. Further
+  developed by New York Stage and Film Company and the Powerhouse Theater in a
+  reading at Vassar on June 29, 2009. The world premiere of Language Rooms was
+  produced by The Wilma Theater. Golden Thread will remount this production at
+  the Los Angeles Theater Center in 2012.
 lists:
   - items:
       - subtitle: Read the San Francisco Chronicle Interview of Yussef about the play
@@ -100,15 +103,8 @@ cast:
         Festival he was given the Best Actor award for his role in EyeQ Films’
         Moonlight."
       image: https://ucarecdn.com/d318f056-1988-4ca5-b755-4332be4d529b/
-    - text: >-
-        **Design Team:** Miyuki Bierlein, Alan Chang, Valerie M. Niles, Darl
-        Andrew Packard, Mikiko Uesugi*, Huy Vu
-
-
-        **Production Team:** Karen Runk\*, Aaron Niles, Lannie Gower, Pat Loeb\* (LA Stage Manager), Wan-Yin Tang, Jesse Brownstein
-
-
-        *\*Member Actors Equity Association, United Scenic Artists*
+    - text: "**Production Team:** Karen Runk*, Aaron Niles, Lannie Gower, Wan-Yin
+        Tang"
   heading: Cast & Crew
 photos:
   items:
@@ -118,6 +114,7 @@ photos:
     - image: https://ucarecdn.com/fc4a7604-4925-49ee-a1c8-5e82891e2a96/
     - image: https://ucarecdn.com/c2f49ca4-8eea-4910-b0ce-59df034b482d/
     - image: https://ucarecdn.com/b1eaab76-f40c-4066-bc8b-84dc51399ae4/
+archivevideo: Cr55Kcs5Av4
 bottom:
   logos:
     - image: https://ucarecdn.com/4a4d3c8f-f6b3-452f-a950-26dc781eabbf/
@@ -125,5 +122,6 @@ bottom:
     - image: https://ucarecdn.com/f47c80d1-c7d0-4565-ac99-0789c32ad1ba/
     - image: https://ucarecdn.com/b508ce62-f6a7-4bdc-a872-ff1faff6768e/
     - image: https://ucarecdn.com/6ef5fdbf-8a19-4819-a097-7bf2d0921fec/
+  heading: We are grateful for the support of the following institutions
 ---
 Yussef El Guindi (*Back of the Throat* and *Jihad Jones and the Kalashnikov Babes*) returns to Golden Thread with this unexpected juxtaposition of a comical political thriller and an American immigrant family story. El Guindi, who has long been a Golden Thread favorite, has recently received national accolades, including the 2011 Middle East America Award and the 2012 Harold and Mimi Steinberg/American Theatre Critics Association New Play Award.
