@@ -1,18 +1,22 @@
 ---
 title: Language Rooms
-pre: Presented in association with the Latino Theater Company
-season: 2012
-date: 2012-04-30T22:30:00.000Z
-start: 2012-05-31T22:30:00.000Z
-end: 2012-06-24T22:30:00.000Z
+pre: West Coast Premiere Co-produced with the Asian American Theatre Company
+season: 2011
+date: 2011-09-30T22:30:00.000Z
+start: 2011-11-10T23:30:00.000Z
+end: 2011-12-04T23:30:00.000Z
 heading: Winner of the Edgerton Foundation New American Play Award
-description: >-
-  Golden Thread is heading south with this hit production from last season!
-
-
-  Ahmed is a shining example of the American Dream, working as a translator in a Homeland Security detainment facility. His friend Nasser, the only other Muslim on the compound, soon brings him some bad news—that his loyalties are being called into question. As office politics take a turn for the absurd all around him, Ahmed realizes that much more than just his job hangs in the balance.
-background: https://ucarecdn.com/caf2e92c-a38d-4142-a926-1ea09cf10b3b/
+description: Ahmed is a shining example of the American Dream, working as a
+  translator in a Homeland Security detainment facility. His friend Nasser, the
+  only other Muslim on the compound, soon brings him some bad news—that his
+  loyalties are being called into question. As office politics take a turn for
+  the absurd all around him, Ahmed realizes that much more than just his job
+  hangs in the balance.
+background: https://ucarecdn.com/c4e77697-1780-4c5f-b943-f479d3c57778/-/crop/2609x1568/0,0/-/preview/
 titleimage: https://ucarecdn.com/9cb3623e-7931-4d8b-bf70-b46c0007dab8/
+program: https://ucarecdn.com/dcd7921f-3e48-4fee-bd74-fa17e93023c3/
+videos:
+  - id: J9uvWLvTfGQ
 writer: Yussef El Guindi
 director: Evren Odcikin
 stage: Los Angeles Theater Center
