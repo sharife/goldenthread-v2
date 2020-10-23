@@ -207,6 +207,18 @@ photos:
     - image: https://ucarecdn.com/9c7ca16f-c614-4f48-98d5-bc88b36046aa/
     - image: https://ucarecdn.com/ec19d3d4-bdcc-4cbd-ba3a-f3c0ef87638b/
   heading: Production Photo Gallery
+photos2:
+  heading: Opening Night Reception
+  items:
+    - {}
+    - {}
+    - {}
+photos3:
+  heading: Development Workshop
+  items:
+    - image: https://ucarecdn.com/ce0a0ffb-b27f-45c3-8b48-d56bc160e63a/
+    - image: https://ucarecdn.com/df520ca1-c083-4330-829f-7a06712ab0bb/
+    - image: https://ucarecdn.com/d80edae9-644d-4143-b109-e15fdf94a473/
 archivevideo: ZIvUWcchtJc
 bottom:
   heading: We are grateful for the support of the following institutions
