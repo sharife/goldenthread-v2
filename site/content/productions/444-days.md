@@ -151,7 +151,7 @@ photos:
     - image: https://ucarecdn.com/054c9c0f-a1c4-41ed-a120-042feea1249f/
   heading: Production Photo Gallery
 photos2:
-  heading: 444 Development Workshop
+  heading: Development Workshop
   items:
     - image: https://ucarecdn.com/0571e79a-33a2-4663-a177-516becfe120b/
     - image: https://ucarecdn.com/78c7f43b-de5a-4d26-a008-05136816006a/
