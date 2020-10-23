@@ -19,51 +19,103 @@ director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
 stage: Thick House
 address: 1695 18th Street, San Francisco, CA
 lists:
+  - heading: ReOrient Forum 2009
+    items:
+      - title: December 5 & 6, 2009
+        text: >-
+          A two-day gathering of theatre artists and field specialists engaging
+          in discussions about Middle Eastern-American Theatre, Internet
+          conferencing with theatre artists in the Middle East, and an original
+          play interactively performed in San Francisco and Cairo via the
+          Internet. In addition, Golden Thread is proud to showcase the best of
+          Bay Area Middle Eastern Performing Arts by featuring performances by
+          Ballet Afsaneh and Aswat Bay Area Arabic Choir.
+
+
+          **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
   - heading: ReOrient 2009 Line-up
     items:
-      - text: An American soldier has an unexpected encounter with two afghan sisters
-          who are ready to embark on a new life. Their fate – and his – get more
-          complicated as the line between their different realities becomes
-          dangerously blurred.
+      - text: >-
+          An American soldier has an unexpected encounter with two afghan
+          sisters who are ready to embark on a new life. Their fate – and his –
+          get more complicated as the line between their different realities
+          becomes dangerously blurred.
+
+
+          **Naomi Wallace**’s plays include *One Flea Spare, The Trestle at Pope Lick Creek, Things of Dry Hours, The Fever Chart: Three Vision of the Middle East, And I and Silence,* and *Returning to Haifa* (adapted with Ismail Khalidi). In 2009, *One Flea Spare* was incorporated in the permanent repertoire of the French National Theater, the Comédie- Francaise. Awards: An Obie Award, Kesselring Prize, the Horton Foote Award. She is also a recipient of the MacArthur Fellowship, the inaugural Windham Campbell prize for drama, and an Arts and Letters Award in Literature.
         pre: World Premiere
-        title: ""
-        subtitle: "*No Such Cold Thing* by Naomi Wallace (2009)"
+        title: No Such Cold Thing
+        subtitle: by Naomi Wallace
         image: https://ucarecdn.com/9333d2a8-aacc-4943-9a51-3cee2fb01902/
-      - subtitle: "*Tamam* by Betty Shamieh (2002)"
-        text: "From one of the most highly praised Arab-American playwrights comes this
-          story of a young Palestinian woman: Her name is Tamam; it means
-          enough!"
+      - subtitle: by Betty Shamieh
+        text: >-
+          From one of the most highly praised Arab-American playwrights comes
+          this story of a young Palestinian woman: Her name is Tamam; it means
+          enough!
+
+
+          **Betty Shamieh** is the author of fifteen plays. Productions include *The Strangest* (The Semitic Root), *Fit For the Queen* (Classical Theatre of Harlem), *The Machine* (Naked Angels) *The Black Eyed* (NYTW and Magic Theatre), *Territories* (Magic Theatre), and *Roar* (The New Group). Her works have been translated into seven languages, and her international productions include *Again and Against* (Playhouse Theater, Stockholm), *The Black Eyed* (Fournos Theatre, Athens), and *Territories* (Landes Theatre, Austria). 2016 Guggenheim Fellowship in Drama and Performance Art; Clifton Visiting Artist at Harvard College; Playwriting Fellow at the Radcliffe Institute for Advanced Studies; 2011 UNESCO Young Artist for Intercultural Dialogue in 2011. B.A., Harvard College; M.F.A., Yale School of Drama. [bettyshamieh.com](https://goldenthread.org/bettyshamieh.com)
         image: https://ucarecdn.com/ebe329c0-e141-456e-900b-5bbefaadeb41/
-      - subtitle: "*Coming Home* by Motti Lerner (2003)"
+        title: Tamam
+      - subtitle: by Motti Lerner
         text: A compassionate inquiry into the fragility of the human spirit by one of
           Israel’s most vocal voices against the occupation.
         image: https://ucarecdn.com/2ef37784-2004-4b9a-a733-53edc8b45b14/
-      - subtitle: "*Call Me Mehdi* by Torange Yeghiazarian (2005)"
-        text: A cultural divide erupts in this bedroom comedy between an Iranian woman
-          and her American husband.
+        title: Coming Home
+      - subtitle: by Torange Yeghiazarian
+        text: >-
+          A cultural divide erupts in this bedroom comedy between an Iranian
+          woman and her American husband.
+
+
+          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+
+
+          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/5feb4ecd-f83d-43a2-8407-2b358fa165cf/
-      - subtitle: "*I’m Not a Serial Killer* by Caveh Zahedi (1999)"
+        title: Call Me Mehdi
+      - subtitle: by Caveh Zahedi
         text: From the independent filmmaker responsible for I Am a Sex Addict and I
           don’t Hate Las Vegas Anymore, comes a kooky comedy about a lovable
           loser’s futile attempts at picking up the woman of his dreams.
-      - subtitle: "*Abaga* by Torange Yeghiazarian (2001)"
-        text: A lyrical tale of forbidden love between an Armenian man and a Turkish
+        title: I’m Not a Serial Killer
+      - subtitle: by Torange Yeghiazarian
+        text: >-
+          A lyrical tale of forbidden love between an Armenian man and a Turkish
           woman in Istanbul of 1915 repeats itself in Jerusalem of 1935 when
           their offspring falls for a Jewish immigrant.
+
+
+          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+
+
+          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/64398fc3-bcc0-4b82-91bf-08a81827cebb/
-      - subtitle: "*A Marriage Proposal* by Yussef El Guindi (2001)"
-        text: Chekov’s classic comedy of class conflict and lemons adapted to an
+        title: Abaga
+      - subtitle: by Yussef El Guindi
+        text: >-
+          Chekov’s classic comedy of class conflict and lemons adapted to an
           Egyptian family setting.
+
+
+          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/ab9508e3-9916-48f8-ad9a-518d0685426a/
-      - subtitle: "*Compression of a Casualty* by Kevin Doyle (2004)"
+        title: A Marriage Proposal
+      - subtitle: by Kevin Doyle
         text: Two CNN anchors find themselves stuck in the news report of an American
           soldier’s death in Iraq. They can neither tell the deeper tale, nor
           move on.
-      - subtitle: "*The Monologist Suffers Her Monologue* by Yussef El Guindi (2007)"
-        text: A Palestinian-American explores her identity in this poignant and comedic
-          monologue. In the dialogue of nations, do you ever get the feeling
-          that Palestine is just a monologue?
+        title: Compression of a Casualty
+      - subtitle: by Yussef El Guindi
+        text: >-
+          A Palestinian-American explores her identity in this poignant and
+          comedic monologue. In the dialogue of nations, do you ever get the
+          feeling that Palestine is just a monologue?
+
+
+          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/a2c6bf37-281d-4ce5-8f16-982b3a6fcbd4/
+        title: The Monologist Suffers Her Monologue
 cast:
   heading: Cast & Crew
   items:
