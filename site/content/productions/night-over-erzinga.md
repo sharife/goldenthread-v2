@@ -18,10 +18,17 @@ description: Ardavazt and Alice build a new life in the U.S. in the aftermath of
   America Award.
 background: https://ucarecdn.com/e0c59cc1-ebab-4129-8b9a-b9affb0a07b3/
 titleimage: https://ucarecdn.com/3175eff7-5571-4a42-96f2-8c2e7bc522a3/
+program: https://ucarecdn.com/dde60769-4642-43c8-b1b0-7534fe415bdb/
 videos:
   - id: ZIvUWcchtJc
 writer: Adriana Sevahn Nichols
 director: Hafiz Karmali
+featuring: Natalie Amanian, Neva Hutchinson*, Terry Lamb*, Sarita Ocon, Lawrence
+  Radecker, Juliet Tanner, Brian Trybom
+musicaldirector: Penka Kouneva
+additional: "Design Team: Jim Cave (lighting), Mitchell Greenhill (sound),
+  Michelle Mulholland (costumes), Valerie M. Niles (props), Mikiko Uesugi
+  (scenic)"
 stage: South Side Theatre
 address: Fort Mason Center, San Francisco
 lists:
