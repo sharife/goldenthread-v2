@@ -13,7 +13,7 @@ description: Ahmed is a shining example of the American Dream, working as a
   the absurd all around him, Ahmed realizes that much more than just his job
   hangs in the balance.
 background: https://ucarecdn.com/c4e77697-1780-4c5f-b943-f479d3c57778/-/crop/2609x1568/0,0/-/preview/
-titleimage: https://ucarecdn.com/9cb3623e-7931-4d8b-bf70-b46c0007dab8/
+titleimage: https://ucarecdn.com/8cf63a63-08b7-4174-84c1-b97769557f57/-/crop/1195x1275/0,263/-/preview/
 program: https://ucarecdn.com/dcd7921f-3e48-4fee-bd74-fa17e93023c3/
 videos:
   - id: J9uvWLvTfGQ
@@ -24,12 +24,7 @@ additional: "Design Team: Miyuki Bierlein (costumes), Valerie M. Niles (props),
   Dar Andrew Packard (lighting), Mikiko Uesugi (scenic)"
 stage: Thick House
 address: 1695 18th St. San Francisco
-misc: Language Rooms was originally developed at ACT Theatre, Seattle, WA and
-  Playwrights Foundation In the Rough series, San Francisco, CA. Further
-  developed by New York Stage and Film Company and the Powerhouse Theater in a
-  reading at Vassar on June 29, 2009. The world premiere of Language Rooms was
-  produced by The Wilma Theater. Golden Thread will remount this production at
-  the Los Angeles Theater Center in 2012.
+misc: ""
 lists:
   - items:
       - subtitle: Read the San Francisco Chronicle Interview of Yussef about the play
@@ -114,6 +109,19 @@ photos:
     - image: https://ucarecdn.com/fc4a7604-4925-49ee-a1c8-5e82891e2a96/
     - image: https://ucarecdn.com/c2f49ca4-8eea-4910-b0ce-59df034b482d/
     - image: https://ucarecdn.com/b1eaab76-f40c-4066-bc8b-84dc51399ae4/
+  heading: Production Photo Gallery
+photos2:
+  heading: Opening Night - San Francisco - Photo Gallery
+  items:
+    - image: https://ucarecdn.com/64e5ed6f-900c-42eb-a1df-52f45ed38185/
+    - image: https://ucarecdn.com/2f66cffc-4495-42a9-8072-3c9c7f185a10/
+    - image: https://ucarecdn.com/ad22f22e-d8fa-45eb-ab7c-d4a9f2c10055/
+photos3:
+  heading: Production Gallery - Los Angeles Theater Center
+  items:
+    - image: https://ucarecdn.com/6f3c8abf-9045-4ccd-9f8d-2e91427475c1/
+    - image: https://ucarecdn.com/c7b79b0f-3a1e-4fd7-bdbf-e30879fa5a46/
+    - image: https://ucarecdn.com/02fd2e48-dd35-40de-8cca-e6412c18622c/
 archivevideo: Cr55Kcs5Av4
 bottom:
   logos:
@@ -125,3 +133,5 @@ bottom:
   heading: We are grateful for the support of the following institutions
 ---
 Yussef El Guindi (*Back of the Throat* and *Jihad Jones and the Kalashnikov Babes*) returns to Golden Thread with this unexpected juxtaposition of a comical political thriller and an American immigrant family story. El Guindi, who has long been a Golden Thread favorite, has recently received national accolades, including the 2011 Middle East America Award and the 2012 Harold and Mimi Steinberg/American Theatre Critics Association New Play Award.
+
+Language Rooms was originally developed at ACT Theatre, Seattle, WA and Playwrights Foundation In the Rough series, San Francisco, CA. Further developed by New York Stage and Film Company and the Powerhouse Theater in a reading at Vassar on June 29, 2009. The world premiere of Language Rooms was produced by The Wilma Theater. Golden Thread will remount this production at the Los Angeles Theater Center in 2012.
