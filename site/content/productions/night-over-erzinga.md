@@ -210,9 +210,9 @@ photos:
 photos2:
   heading: Opening Night Reception
   items:
-    - {}
-    - {}
-    - {}
+    - image: https://ucarecdn.com/1fba50b3-c0c9-4322-87dd-edd2ed0d6d40/
+    - image: https://ucarecdn.com/7a55b966-7bcf-4d0f-bbf6-8457639f3417/
+    - image: https://ucarecdn.com/3092a91a-2a03-4554-a4f1-ac122019504d/-/crop/1485x1264/238,15/-/preview/
 photos3:
   heading: Development Workshop
   items:
