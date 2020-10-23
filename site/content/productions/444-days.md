@@ -13,8 +13,8 @@ description: Can anything survive decades of secrecy, broken promises, and
   the U.S. Embassy in Tehran along with 52 other Americans. International
   espionage and family secrets mesh in unexpected ways in this world premiere
   play by Golden Thread’s award-winning Artistic Director.
-background: https://ucarecdn.com/d32f4dad-5bbc-4814-849b-ce64bf83ec92/
-titleimage: https://ucarecdn.com/37b544ef-7c2a-4c53-83a1-dda8710925a1/
+background: https://ucarecdn.com/498dc0a1-1615-49c5-9f86-9c551451c51c/
+titleimage: https://ucarecdn.com/23fc97b7-3769-4925-9d46-202019de0a94/
 writer: Torange Yeghiazarian
 director: Bella Warda
 stage: Z Below
