@@ -15,6 +15,8 @@ description: Can anything survive decades of secrecy, broken promises, and
   play by Golden Thread’s award-winning Artistic Director.
 background: https://ucarecdn.com/498dc0a1-1615-49c5-9f86-9c551451c51c/-/crop/1957x1108/0,0/-/preview/
 titleimage: https://ucarecdn.com/23fc97b7-3769-4925-9d46-202019de0a94/
+videos:
+  - id: wPqU90I5XgM
 writer: Torange Yeghiazarian
 director: Bella Warda
 featuring: Jerri Lynn Cohen*, Sheila Collins, Olivia Rosaldo-Pratt, Michael Shipley*
