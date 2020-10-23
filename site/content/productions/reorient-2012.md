@@ -16,106 +16,146 @@ stage: NOH Space and Z Space
 address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
   Francisco, CA 94110
 lists:
+  - heading: ReOrient Forum 2012
   - items:
-      - subtitle: "***War and Peace*** by Tawfiq al-Hakim, translated by May Jayyusi and
-          David Wright, directed by Hafiz Karmali"
+      - subtitle: by Tawfiq al-Hakim, translated by May Jayyusi and David Wright,
+          directed by Hafiz Karmali
         text: Meet Politica, a vivacious woman, who must choose between her domineering
           husband War and oft-disappointing lover Peace. Funny and subtle, this
           symbolic play by Egypt’s foremost playwright could keep a senior
           seminar in a political science department busy for weeks.
         image: https://ucarecdn.com/b1839764-8309-41ea-8065-32006727ea41/
-      - subtitle: "***The Birds Flew** In* by Yussef el Guindi, directed by Evren
-          Odcikin"
+        title: War and Peace
+      - subtitle: by Yussef el Guindi, directed by Evren Odcikin
         pre: World Premiere
-        text: The mother of a dead soldier cannot reconcile her conflicted feelings
+        text: >-
+          The mother of a dead soldier cannot reconcile her conflicted feelings
           about the Iraqi War. El Guindi, the 2011 winner of the prestigious
           Middle East America Award, paints a tender and complicated portrait of
           the ultimate pain of losing a child.
+
+
+          **Yussef El-Guindi**’s most recent productions include *The Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New World*(winner of the Steinberg/American Theater Critics Association’s New Play Award in 2012; Gregory Award in 2011) also at ACT, and at Center Repertory Company (Walnut Creek, CA) 2013; and*Language Rooms*(Edgerton Foundation New American Play Award), co-produced by Golden Thread Productions and the Asian American Theater Company in San Francisco; at the Wilma Theater in Philadelphia (premiere), and at the Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love and Combat* was produced by Silk Road Theater Project and won the M. Elizabeth Osborn award. It’s included in the anthology Four Arab American Plays, published by McFarland Books. His plays *Back of the Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s City Pilgrims Musa and Sheri in the New Word* was published in the September, 2012 issue of American Theatre Magazine, and will soon be published by Dramatists Play Service, along with his play, *Jihad Jones and The Kalashnikov Babes*.
         image: https://ucarecdn.com/5d3d37b9-d442-47f9-85f0-19d975456264/
-      - subtitle: "***The Letter*** by Mona Mansour and Tala Manassah, directed by Sara
-          Razavi"
+        title: The Birds Flew In
+      - subtitle: by Mona Mansour and Tala Manassah, directed by Sara Razavi
         image: https://ucarecdn.com/9054f998-32a3-4436-a22d-fed596dc9c0c/
-        text: In 2011, Pulitzer Prize–winning playwright Tony Kushner was blocked from
-          receiving an honorary degree from CUNY for his criticism of Israel.
-          Palestinian-American physicist Kamal and his philosopher daughter Alia
-          take their outrage to the stage, but, first, can they really prove
-          that they are human?
+        text: >-
+          In 2011, Pulitzer Prize–winning playwright Tony Kushner was blocked
+          from receiving an honorary degree from CUNY for his criticism of
+          Israel. Palestinian-American physicist Kamal and his philosopher
+          daughter Alia take their outrage to the stage, but, first, can they
+          really prove that they are human?
+
+
+          **Mona Mansour**‘s play *The Hour of Feeling* (directed by Mark Wing-Davey) just received its world premiere in the Humana Festival of New American Plays at Actors Theatre of Louisville. Following that, it was part of the High Tide Festival in the U.K. as part of the Rifle Hall plays. The companion play Urge for Going (directed by Hal Brooks) received a LAB production in the 2011 season at the Public Theater. Mona was a member of the Public Theater’s Emerging Writers Group, and is currently a Core Writer at Minneapolis’ Playwrights Center. Other plays include Across the Water and Broadcast Yourself (part of Headlong’s Decade, which premiered in London). Her play The Way West, about modern-day California, will receive a BareBones workshop production at the Lark in November.  Her work has been developed at Williamstown Theater Festival, New York Stage and Film, and Lincoln Center Directors’ Lab. Television credits include Dead Like Me and Queens Supreme. Honorable mention, 2010 Middle East America Playwright Award.
+
+
+          **Tala Jamal Manassah** is the deputy executive director of the Morningside Center for Teaching Social Responsibility. From 2004–2009, Manassah served as the founding executive director of the Middle East Children’s Institute. Manassah earned her A.B. with honors in philosophy and A.M. in the humanities at the University of Chicago. Plays include The House, which was commissioned by Noor Theater and the American Institute for Architecture and read as part of their Building A New series, and After, which will be produced at CUNY next spring, both cowritten with Mona Mansour.
         pre: World Premiere
+        title: The Letter
       - pre: World Premiere
-        subtitle: "***Stalemate*** by Silva Semerciyan, directed by Desdemona Chiang"
-        text: At a hi-fi shop and a disco in London and a war field in Iraq, the
+        subtitle: by Silva Semerciyan, directed by Desdemona Chiang
+        text: >-
+          At a hi-fi shop and a disco in London and a war field in Iraq, the
           inherent racism and sexism of the bravura male culture is brilliantly
           skewered in this funny and hard-hitting play by the William Saroyan
           Prize winner Silva Semerciyan.
+
+
+          **Silva Semerciyan** was born in Michigan and moved to the UK in 1999.  Her plays include Another Man’s Son (winner of the 2010 William Saroyan Award for Playwriting and currently in development at the UK’s National Theatre Studio), Gather Ye Rosebuds (winner of the 2012 Sandpit Arts Bulbul Competition), I and the Village (shortlisted for the Bruntwood Prize for Playwriting) and Death Row Gourmet (shortlisted for the Seven Devils Conference in Idaho).  This summer, her short play, Juke, was produced by Eyebrow Productions as part of Collision for Latitude Festival and Bestival. She is a member of the Conspirators Theatre Project and is currently part of the Studio Writers’ Group at the Royal Court Theatre.  She holds a Masters in playwriting from the University of Birmingham.
         image: https://ucarecdn.com/e77f99f9-7300-4da0-9e2b-972c1070b6db/
+        title: Stalemate
       - pre: World Premiere
-        subtitle: "***In the Days That Follow*** by Jen Silverman, directed by Christine
-          Young"
-        text: In this poignant play by up-and-coming writer Jen Silverman, former
+        subtitle: by Jen Silverman, directed by Christine Young
+        text: >-
+          In this poignant play by up-and-coming writer Jen Silverman, former
           Israeli soldier Orh follows Lebanese poet Iman to the United States
           mesmerized by the haunting beauty of her poetry. Can their mutual love
           of words heal the personal and political wounds they carry?
+
+
+          **Jen Silverman** studied at Brown University and the Iowa Playwrights Workshop. Crane Story premiered off-Broadway in 2011 with The Playwrights Realm, and Akarui premiered at Cleveland Public Theatre in 2012. She is an affiliated artist with New Georges, a member of Youngblood at Ensemble Studio Theatre and Groundbreakers at terraNova (NYC), and has developed work with the Lark, NY Stage & Film, the Bay Area Playwrights Festival, The Brick (Brooklyn), Leviathan Lab (NYC), and the Seven Devils Playwrights Conference. She has been commissioned by InterAct Theatre for The Dangerous House of Pretty Mbane, the Gallatin School/NYU for Bones at the Gate: An Antigone, and Red Fern Theatre Co for Lex Before Marriage. She held residencies at Hedgebrook, New Harmony, MacDowell, the Millay Colony, and Djerassi (upcoming). In 2011 she was a US Delegate for a China/America Writers Exchange in Beijing. Her play Still won the 2012 Jane Chambers Award.
         image: https://ucarecdn.com/5b3f6130-0f86-43bf-a984-ed039b89b59c/
+        title: In the Days That Follow
       - pre: World Premiere
-        subtitle: "***2012*** by Farzam Farrokhi, directed by Sara Razavi"
+        subtitle: by Farzam Farrokhi, directed by Sara Razavi
         text: Three strangers on cell phones walk into a café. It might sound like a
-          joke, but this could be the end of the world. *Introducing local
-          playwright Farzam Farrokhi.*
+          joke, but this could be the end of the world.
         image: https://ucarecdn.com/8dc36e63-34d3-422d-bbdd-d551269cfbfa/
+        title: "2012"
       - pre: U.S. Premiere
-        subtitle: "***City of Grubs*** by Naomi Wallace, directed by Desdemona Chiang"
-        text: An Arab Jewish immigrant finds a dead man in the seedy hotel he cleans in
-          Camden, NJ, and tells the body of this stranger his deepest secrets.
-          The MacArthur “Genius” Award winner Naomi Wallace returns to the
-          ReOrient Festival for the fourth time with this brilliant monologue.
+        subtitle: by Naomi Wallace, directed by Desdemona Chiang
+        text: >-
+          An Arab Jewish immigrant finds a dead man in the seedy hotel he cleans
+          in Camden, NJ, and tells the body of this stranger his deepest
+          secrets. The MacArthur “Genius” Award winner Naomi Wallace returns to
+          the ReOrient Festival for the fourth time with this brilliant
+          monologue.
+
+
+          **Naomi Wallace** was born in Kentucky. Her plays include One Flea Spare, In the Heart of America, Slaughter City, The Trestle at Pope Lick Creek, Things of Dry Hours, The Fever Chart: Three Visions of the Middle East and The Hard Weather Boating Party. Her work has received the Susan Smith Blackburn Prize, the Kesselring Prize, the Fellowship of Southern Writers Drama Award, and an Obie. She is also a recipient of the MacArthur “Genius” Fellowship.  Wallace is the 2012 winner of the Horton Foote Prize for most promising new American play, The Liquid Plain.
         image: https://ucarecdn.com/f9f711e1-9797-4453-afa7-b84a11b6600b/
+        title: City of Grubs
       - pre: World Premiere
-        subtitle: "***Orhan** b*y E.H. Benedict, directed by Evren Odcikin"
-        text: Young British man Orhan, half Turkish and half black, finds himself
+        subtitle: by E.H. Benedict, directed by Evren Odcikin
+        text: >-
+          Young British man Orhan, half Turkish and half black, finds himself
           incarcerated as a terrorist for being at the wrong place at the wrong
           time. Local writer Elizabeth Benedict explores the deep-rooted
           complications of being mixed race in a culture that defines everything
           as us against them.
+
+
+          **E. H. Benedict** is an actor, novelist, and most recently, playwright, is delighted to be working with Golden Thread. She is a founding member of Actors & Writers, a reader’s theatre near Woodstock, New York, where many of her short plays and screenplays are read. In 2005 her play Jesus in Las Vegas was included in the Bash! Event at the Bay Area Playwrights Festival. In 2006 Jesus in Las Vegas was included in the Z/Magic Monday series at Magic Theatre. That same year, Orhan was included as a staged reading in the 2006 ReOrient Festival for the first time. Another play, American Royals, was selected as a semifinalist for the 2008 O’Neill Conference, the Utah Shakespearean Festival’s New American Playwrights Project, and Pacific Rep’s Hyperion New Plays Competition. In 2009 American Royals received a round-table read at the Lark Play Development Center in New York City.
         image: https://ucarecdn.com/ac692361-7b1a-45dc-96a8-9bbc523588af/
+        title: Orhan
       - pre: World Premiere
-        subtitle: "***Stuck*** by Amir al-Azraki, directed by Torange Yeghiazarian"
-        text: What does it take to get out of Iraq with a Iraqi passport? Iraqi
+        subtitle: by Amir al-Azraki, directed by Torange Yeghiazarian
+        text: >-
+          What does it take to get out of Iraq with a Iraqi passport? Iraqi
           playwright Amir al-Azraqi takes us on the absurd journey of visas,
           rejections, and searches that most Middle Easterners experience at
           airports with this tour-de-force play with movement.
+
+
+          **Amir Al-Azraki** is a lecturer of English drama at the University of Basra. He received his BA in English from the University of Basra, his MA in English literature from Baghdad University, and his PhD in Theatre Studies from York University in Toronto, Canada. In the last four years Al-Azraki has been working on his dissertation “The Representation of Political Violence in Contemporary English and Arabic Plays About Iraq”, and continued to develop a collaboration between the University of Basra and the Central School of Speech and Drama in the University of London on “Transforming the Learning Environment Through Forum Theatre: Developing a Basra University Model.” Al-Azraki is also a performer and playwright and he has presented papers at F.O.O.T., Performing Back: A Conference on Post-Colonial Theatre, and at TCG National Conference. Among his plays are Waiting for Gilgamesh: Scenes from Iraq, Stuck, Notorious Women, Lysistrata in Iraq, and Judgment Day
         image: https://ucarecdn.com/2cd5fcd2-bfb7-4763-9bd6-71e4478502fd/
+        title: Stuck
       - pre: World Premiere
-        subtitle: "***The Voice Room*** by Reza Soroor, translated and directed by
-          Torange Yeghiazarian"
+        subtitle: by Reza Soroor, translated and directed by Torange Yeghiazarian
         text: A novice secret agent is eager to prove himself when he is assigned to spy
           on an underground rebel guerilla team led by Qobad, a high-valued
           prisoner. As this taut spy thriller unravels, will he be able to hold
           onto his skin against all odds?
-        image: https://ucarecdn.com/aa3922fc-8a5c-47e7-b150-7dae00dadeea/
+        image: ""
+        title: The Voice Room
     heading: ReOrient 2012 Line-up
-  - heading: In The Press
-    items:
-      - link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
-        cta: Read More
+grids:
+  - items:
+      - subtitle: ""
         text: What ***American Theatre*** has to say about ReOrient.
-        image: https://ucarecdn.com/271f8362-b099-472d-84f7-52070c342db9/
+        image: https://ucarecdn.com/58bcfe78-7437-4e9f-9868-7f5c467fb6fd/
+        cta: Read More
+        link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
       - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
         cta: Read More
         link: http://www.thearabreview.org/re-orienting-the-story/
-        image: https://ucarecdn.com/46ab8902-0195-4c94-8427-ab8baf055b3d/
+        image: https://ucarecdn.com/9aeb9f7a-0bc0-4986-99b5-01f8ee8f2b78/
       - text: "**KQED** Feature"
         cta: Read More
-        image: https://ucarecdn.com/203fb715-7c26-4e49-94b2-2ef7e789cc38/
-      - link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
-        cta: Listen Here
-        text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
+        image: https://ucarecdn.com/7daa17c9-021c-4c6b-88bc-d2104f421e7f/
+      - text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
-        image: https://ucarecdn.com/39a197e4-720e-4172-a390-0d32374a0533/
+        image: https://ucarecdn.com/f0ca33e4-15bd-41df-a852-e692fefb0e21/
+        link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
+        cta: Listen Here
       - text: "Part II: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
-        link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
+        image: https://ucarecdn.com/9e0ca81a-ed8c-4920-a85a-b8e1b1e9c96a/
         cta: Listen Here
-        image: https://ucarecdn.com/955149b2-d862-4151-869d-29caf109855e/
+        link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
+    heading: ReOrient 2012 In The Press
 cast:
   heading: Cast & Crew
   items:
