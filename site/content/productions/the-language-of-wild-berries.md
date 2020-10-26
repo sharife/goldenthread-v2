@@ -171,7 +171,7 @@ cast:
 photos:
   heading: Photo Gallery
 bottom:
-  heading: We are grateful for the support of the following sponsors:
+  heading: We are grateful for the support of the following sponsors.
   text: California Arts Council, San Francisco Arts Commission, Venturous Theater
     Fund, a fund of Tides Foundation, and the Zellerbach Family Foundation
 ---
