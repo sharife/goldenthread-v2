@@ -16,9 +16,7 @@ We are thrilled to launch *NO SUMMARY*, our new **Live-Stream Series** of artist
 
 [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-playwright-naghmeh-samini) to watch the livestream from October 7th.
 
-
-
-**Fri October 23rd, 11AM PDT**
+**Friday October 23rd, 11AM PDT**
 
 **Featuring four singular playwrights of Arab heritage**
 
@@ -26,12 +24,10 @@ The series continues with a conversation with four playwrights of Arab heritage 
 
 [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-playwrights-hassan-abdulrazzak-tariq-hamami-hannah) to watch the livestream from October 23rd.
 
-
-
-**Fri November 6th, 11AM PDT**
+**Friday November 6th, 11AM PDT**
 
 **Featuring Golden Thread Fairytale Players!**
 
-At Golden Thread we know that representation matters, especially for youth. Join **Simon Bloch**, **Maya Nazzal**, and **Sarah Al-Kassab** as they discuss their experience of creating and performing in Golden Thread's Fairytale Players Production of *Leila's Quest for Flight* which will be released as a radio play on November 10th. Drawn from Palestinian folktales*, Leila's Quest for Flight* is written and directed by Torange Yeghiazarian. 
+At Golden Thread we know that representation matters, especially for youth. Join **Simon Bloch**, **Maya Nazzal**, and **Sarah Al-Kassab** as they discuss their experience of creating and performing in Golden Thread's Fairytale Players Production of *Leila's Quest for Flight* which will be released as a radio play on November 10th. Drawn from Palestinian folktales, *Leila's Quest for Flight* is written and directed by Torange Yeghiazarian. 
 
 [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-golden-threads-fairytale-players) to watch the livestream on November 6th.
