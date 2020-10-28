@@ -138,6 +138,7 @@ staff:
         Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
         collective and Poltergeist Theatre’s artistic cohort. Follow their work
         at [www.lindamgiron.com](www.lindamgiron.com)."
+      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
 board:
   heading: Board of Trustees
   items:
