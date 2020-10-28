@@ -125,6 +125,19 @@ staff:
       credit: Box Office Associate
       image: https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
       name: Aram Krikorian
+    - name: Linda Maria Girón
+      credit: Operations Associate
+      bio: "**Linda Maria Girón** (they/them/*elle*) is a queer Guatemalan-American
+        playwright, performer and visual artist from Los Angeles, California. An
+        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
+        has written, taught and performed for a variety of Bay Area theaters
+        including Berkeley Interactive Theater, Cutting Ball Theater,
+        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
+        Peripatetic Players and the New Conservatory Theater Center.  They are
+        currently in residence at Crowded Fire Theater’s *Resilience &
+        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
+        collective and Poltergeist Theatre’s artistic cohort. Follow their work
+        at [www.lindamgiron.com](www.lindamgiron.com)."
 board:
   heading: Board of Trustees
   items:
