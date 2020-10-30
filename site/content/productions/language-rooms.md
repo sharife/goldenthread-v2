@@ -13,7 +13,7 @@ description: Ahmed is a shining example of the American Dream, working as a
   the absurd all around him, Ahmed realizes that much more than just his job
   hangs in the balance.
 background: https://ucarecdn.com/c4e77697-1780-4c5f-b943-f479d3c57778/-/crop/2609x1568/0,0/-/preview/
-titleimage: https://ucarecdn.com/061bd4a3-0a11-4dda-bb73-5d4db630b254/
+titleimage: https://ucarecdn.com/a5b790ca-d4c4-4781-be8b-e44abf4d4564/
 program: https://ucarecdn.com/dcd7921f-3e48-4fee-bd74-fa17e93023c3/
 videos:
   - id: J9uvWLvTfGQ
