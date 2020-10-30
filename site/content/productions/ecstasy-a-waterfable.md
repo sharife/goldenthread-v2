@@ -33,18 +33,11 @@ additional: "Design Team: Wesley Cabral (scenic & props), Jarrod Fischer
   (lighting), Sarah Al Kassab (costumes)"
 stage: The Thick House
 address: 1695 18th St, San Francisco
-misc: This work was developed with the Water Project Ensemble and made possible
-  by the generous support of the New Work Fund, National Endowment for the Arts,
-  the W.A. Gerbode and Zellerbach Family Foundation. Sponsored by the Center for
-  Middle Eastern Studies at the University of California, Berkeley; Center for
-  Islamic Studies at the Graduate Theological Union; Arab Cultural Center and
-  PARABOLA Magazine, Where Spiritual Traditions Meet.
+misc: "This work was developed with the Water Project Ensemble over two years. "
 cast:
   heading: Cast & Crew
   items:
-    - text: |-
-        **Music Composed by:** Vince Delgado, Roman Kosins**\
-        Design Team:** Wesley Cabral, Jarrod Fischer, Sarah Al Kassab
+    - text: ""
 photos:
   items:
     - image: https://ucarecdn.com/61322a19-c7e0-4f4f-a4c9-e2d62cb3f02c/
@@ -69,6 +62,12 @@ photos:
     - image: https://ucarecdn.com/dfcef24a-8eeb-42bd-af09-0df204a01fbd/
     - image: https://ucarecdn.com/c2feeb39-d3de-4a7b-9494-66dbf4a769e2/
     - image: https://ucarecdn.com/bccb51f6-326c-4749-bea5-44ebc7ce0f03/
+bottom:
+  text: The New Work Fund, National Endowment for the Arts, the W.A. Gerbode and
+    Zellerbach Family Foundation. The Center for Middle Eastern Studies at the
+    University of California, Berkeley; Center for Islamic Studies at the
+    Graduate Theological Union; Arab Cultural Center and PARABOLA Magazine,
+    Where Spiritual Traditions Meet.
 ---
 The ancient Sufi story "When the Waters Were Changed", the inspiration for **Ecstasy**, recounts a time when Khidr, the teacher of Moses, warned that all water that had not been specially hoarded would disappear. It would be renewed with different water, which would drive men mad. On the appointed date, the world dried up. There was a period of waiting. And when the waters came again, only one man heeded the call, only one remembered the warning. In **Ecstasy**, the essence of his struggle bleeds through three times of existence –the ancient, the mythic, and the modern.
 
