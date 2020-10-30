@@ -65,6 +65,7 @@ photos:
     - image: https://ucarecdn.com/dfcef24a-8eeb-42bd-af09-0df204a01fbd/
     - image: https://ucarecdn.com/c2feeb39-d3de-4a7b-9494-66dbf4a769e2/
     - image: https://ucarecdn.com/bccb51f6-326c-4749-bea5-44ebc7ce0f03/
+  heading: Production Photo Gallery
 bottom:
   text: The New Work Fund, National Endowment for the Arts, the W.A. Gerbode and
     Zellerbach Family Foundation. The Center for Middle Eastern Studies at the
