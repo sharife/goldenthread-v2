@@ -18,7 +18,7 @@ description: >-
 
   "How did my grandfather lose two families in one lifetime but not lose his heart?" was the question that began Adriana's two-year journey to develop Night Over Erzinga, the inaugural commission of the prestigious Middle East America Award.
 background: https://ucarecdn.com/e0c59cc1-ebab-4129-8b9a-b9affb0a07b3/-/crop/4025x2426/0,406/-/preview/
-titleimage: https://ucarecdn.com/da5f5c67-a78f-47db-9af4-dca0019b3fd1/
+titleimage: https://ucarecdn.com/4621c8ec-02a4-4b96-ac43-2f9cb146790e/
 program: https://ucarecdn.com/dde60769-4642-43c8-b1b0-7534fe415bdb/
 videos:
   - id: ZIvUWcchtJc
