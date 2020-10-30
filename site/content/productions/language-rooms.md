@@ -100,6 +100,59 @@ cast:
       image: https://ucarecdn.com/d318f056-1988-4ca5-b755-4332be4d529b/
     - text: "**Production Team:** Karen Runk*, Aaron Niles, Lannie Gower, Wan-Yin
         Tang"
+    - name: Yussef El Guindi
+      credit: Playwright
+      bio: "**Yussef El-Guindi**’s most recent productions include *The
+        Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New
+        World*(winner of the Steinberg/American Theater Critics Association’s
+        New Play Award in 2012; Gregory Award in 2011) also at ACT, and at
+        Center Repertory Company (Walnut Creek, CA) 2013; and*Language
+        Rooms*(Edgerton Foundation New American Play Award), co-produced by
+        Golden Thread Productions and the Asian American Theater Company in San
+        Francisco; at the Wilma Theater in Philadelphia (premiere), and at the
+        Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love
+        and Combat* was produced by Silk Road Theater Project and won the M.
+        Elizabeth Osborn award. It’s included in the anthology Four Arab
+        American Plays, published by McFarland Books. His plays *Back of the
+        Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s
+        City Pilgrims Musa and Sheri in the New Word* was published in the
+        September, 2012 issue of American Theatre Magazine, and will soon be
+        published by Dramatists Play Service, along with his play, *Jihad Jones
+        and The Kalashnikov Babes*."
+      image: https://ucarecdn.com/293617ac-2254-4104-aca2-20411a74cf9d/
+    - name: Evren Odcikin
+      credit: Director
+      text: ""
+      bio: "**Evren Odcikin** (Director of Marketing and New Plays) is a
+        Turkish-American director based in San Francisco and the Director New
+        Plays & Marketing for Golden Thread Productions since 2015 where he has
+        been an artistic associate since 2005. For Golden Thread, he directed
+        the premieres of Yussef El Guindi’s LANGUAGE ROOMS, in San Francisco and
+        Los Angeles Theater Center (critic’s pick for LOS ANGELES TIMES), Mona
+        Mansour’s URGE FOR GOING, Denmo Ibrahim’s ECSTASY | A WATERFABLE, as
+        well as short plays by El Guindi, E.H. Benedict, Ken Kaissar, Ignacio
+        Zulueta as part of ReOrient Festivals. For the company, he leads all new
+        play development activities, including the annual new play reading
+        series New Threads, assists in season selection, and helps produce the
+        mainstage season including the biennial ReOrient Festival. His other
+        credits include the world premiere of Christopher Chen’s MUTT: LET’S ALL
+        TALK ABOUT RACE at Impact Theatre and Ferocious Lotus (“Top New Play of
+        2014”, Theater Dogs); the world premiere of Frances Ya-Chu Cowhig’s
+        410\\[GONE] (Production Notebook feature in AMERICAN THEATRE MAGAZINE)
+        and the West Coast premiere of Jonas Hassen Khemiri’s INVASION! for
+        Crowded Fire; his adaptation of Plautus’s THE BRAGGART SOLDIER, OR MAJOR
+        BLOWHARD for Custom Made Theatre Company (Theatre Bay Area Awards
+        Recommended Production, four Bay Area Theatre Critics’ Circle (BATCC)
+        nominations including best director); THE OLDEST PROFESSION (two BATCC
+        nominations) and MACHINAL (three BATCC Award nominations including best
+        director and best production) for Brava Theater Center. A graduate of
+        Princeton University, Evren was awarded the 2015 National Director’s
+        Fellowship by O’Neill Theater Center, National New Plays Network, the
+        Kennedy Center, and SDCF; the 2013 TITAN Award for Directors by Theatre
+        Bay Area; and selected as an Emerging Theatre Leader by TCG for their
+        American Express Leadership
+        Bootcamp. **[odcikin.com](http://www.odcikin.com/)**"
+      image: https://ucarecdn.com/dbf89066-2a86-48fe-abba-384d96ab49ef/
   heading: Cast & Crew
 photos:
   items:
