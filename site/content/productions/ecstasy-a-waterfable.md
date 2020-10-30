@@ -26,6 +26,11 @@ programlabel: Read the full production program
 program: https://ucarecdn.com/9d6d45f3-e82f-464a-a536-ed26cb1031b0/
 writer: Denmo Ibrahim
 director: Evren Odcikin
+featuring: Babak Bakhtiari, Deborah Eliezer, Bora "Max" Koknar, Cec Levinson,
+  Garth Petal, Nora El Samahy*, Alika Spencer, Heidi Wolf
+musicaldirector: Vince Delgado & Roman Kosins
+additional: "Design Team: Wesley Cabral (scenic & props), Jarrod Fischer
+  (lighting), Sarah Al Kassab (costumes)"
 stage: The Thick House
 address: 1695 18th St, San Francisco
 misc: This work was developed with the Water Project Ensemble and made possible
