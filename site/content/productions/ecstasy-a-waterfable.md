@@ -5,8 +5,7 @@ season: 2009
 date: 2009-06-23T23:05:00.000Z
 start: 2009-07-23T23:05:00.000Z
 end: 2009-08-16T23:05:00.000Z
-heading: Water is life. Water is memory. Water constitutes 75% of who we are.
-  What happens when water changes?
+heading: Water is life. Water is memory. What happens when water changes?
 description: Golden Thread Productions is proud to present the world premiere of
   **Ecstasy | a waterfable**, a new play commissioned to Bay Area theatre artist
   Denmo Ibrahim and directed by Evren Odcikin. In **Ecstasy**, stories are
@@ -21,6 +20,8 @@ description: Golden Thread Productions is proud to present the world premiere of
   of the prestigious New Works Fund Grant, Zellerbach, and Wallace Gerbode
   Foundation, **Ecstasy | a waterfable** is visceral, physical storytelling at
   its best.
+background: https://ucarecdn.com/6aeff1f7-b17d-4e72-bb8c-7d34073c52e9/-/crop/1961x1122/0,0/-/preview/
+titleimage: https://ucarecdn.com/6090c569-96e2-4353-9be4-ad44d5e79d1d/
 programlabel: Read the full production program
 program: https://ucarecdn.com/9d6d45f3-e82f-464a-a536-ed26cb1031b0/
 writer: Denmo Ibrahim
