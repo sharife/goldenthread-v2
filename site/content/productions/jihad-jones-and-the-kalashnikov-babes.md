@@ -1,12 +1,15 @@
 ---
 title: Jihad Jones and the Kalashnikov Babes
-pre: NNPN Rolling World Premiere
+pre: A National New Play Network Premiere
 season: 2007
 date: 2008-05-05T23:57:00.000Z
 start: 2008-06-05T23:57:00.000Z
 end: 2008-06-29T23:57:00.000Z
-heading: A National New Plays Rolling World Premiere
-description: ""
+heading: A National New Play Rolling World Premiere
+description: A theatre actor of Middle Eastern descent considers the leap to
+  film stardom when his agent secures a role for him in a film by Hollywood’s
+  most respected director. Should he pass up the chance of a lifetime because
+  the part is that of a machine gun-strapping terrorist?
 background: https://ucarecdn.com/02b86f27-106a-49d6-8e31-3a2a6ca5892c/-/crop/1961x1079/0,226/-/preview/
 titleimage: https://ucarecdn.com/21c3702e-1e03-4de2-af5e-13f51e6780b6/
 program: https://ucarecdn.com/fffdec43-faf0-424c-8372-79f3d0c59747/
@@ -152,7 +155,10 @@ photos:
     - image: https://ucarecdn.com/7d32204e-f4ad-43ef-8550-ab90d3013723/
   heading: Production Photo Gallery
 bottom:
-  text: California Arts Council, San Francisco Arts Commission, The Zellerbach
-    Family Foundation
+  text: California Arts Council, National New Play Network, San Francisco Arts
+    Commission, Z Space/Magic New Work Initiative, The Zellerbach Family
+    Foundation
 ---
-A theatre actor of Middle Eastern descent considers the leap to film stardom when his agent secures a role for him in a film by Hollywood’s most respected director. Should he pass up the chance of a lifetime because the part is that of a machine gun-strapping terrorist?
+Co-presented by the Arab Cultural Center, the Arab Film Festival and La Pena Cultural Center. 
+
+This is the first production in a Rolling National Premiere as part of the National New Play Network’s Continued Life Project, next productions to follow by InterAct Theatre Company in Dallas and Kitchen Dog Theatre Company in Philadelphia.
