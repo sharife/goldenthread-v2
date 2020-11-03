@@ -152,7 +152,8 @@ photos:
     - image: https://ucarecdn.com/7d32204e-f4ad-43ef-8550-ab90d3013723/
   heading: Production Photo Gallery
 bottom:
-  text: California Arts Council, San Francisco Arts Commission, The Zellerbach
-    Family Foundation
+  text: California Arts Council, National New Play Network, San Francisco Arts
+    Commission, Z Space/Magic New Work Initiative, The Zellerbach Family
+    Foundation
 ---
 A theatre actor of Middle Eastern descent considers the leap to film stardom when his agent secures a role for him in a film by Hollywood’s most respected director. Should he pass up the chance of a lifetime because the part is that of a machine gun-strapping terrorist?
