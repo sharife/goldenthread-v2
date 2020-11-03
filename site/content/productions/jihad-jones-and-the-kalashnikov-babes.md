@@ -1,11 +1,11 @@
 ---
 title: Jihad Jones and the Kalashnikov Babes
-pre: NNPN Rolling World Premiere
+pre: A National New Play Network Premiere
 season: 2007
 date: 2008-05-05T23:57:00.000Z
 start: 2008-06-05T23:57:00.000Z
 end: 2008-06-29T23:57:00.000Z
-heading: A National New Plays Rolling World Premiere
+heading: A National New Play Rolling World Premiere
 description: ""
 background: https://ucarecdn.com/02b86f27-106a-49d6-8e31-3a2a6ca5892c/-/crop/1961x1079/0,226/-/preview/
 titleimage: https://ucarecdn.com/21c3702e-1e03-4de2-af5e-13f51e6780b6/
