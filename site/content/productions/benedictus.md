@@ -26,9 +26,8 @@ additional: Created by Mahmood Karimi-Hakak, Motti Lerner, Roberta Levitow,
   Daniel Michaelson, Torange Yeghiazarian
 stage: Thick House
 address: 1695 18th Street, San Francisco
-misc: Benedictus held performances at The Thick House (1695 18th St., San
-  Francisco) and at The New LATC (Theatre 2, 514 S. Spring Street, Los Angeles,
-  CA 90013).
+misc: This production of Benedictus was remounted at The New LATC, Jose Luis
+  Valenzuela artistic director.
 lists:
   - items:
       - title: ""
@@ -181,6 +180,10 @@ photos:
     - image: https://ucarecdn.com/f28f288d-56eb-4b5b-a234-e0030a212101/
     - image: https://ucarecdn.com/8b7ab1fc-317e-4e68-9ed6-d58b1cbfd648/
     - image: https://ucarecdn.com/41eb3c0e-cf63-44d2-810d-15f2620e25ba/
+  heading: Production Photo Gallery
+bottom:
+  text: Walter & Elise Haas Fund, Tournesol Project, Theatre Communications group,
+    Sienna College Creative Arts Department.
 ---
 "...helps to clarify and humanize the multifaceted issues that are drawing our nations into an avoidable conflict" -*[SF Weekly](http://www.sfweekly.com/2007-10-10/culture/benedictus/full)*
 
