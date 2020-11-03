@@ -14,7 +14,7 @@ writer: Yussef El Guindi
 director: Mark Routhier
 featuring: Jessica Kitchens, Kamal Maryati, David Sinaiko, Cat Thompson*, Mark
   Rafael Truitt*
-stage: Potrero Stage (formerly Thick House)
+stage: Thick House
 address: 1695 18th Street, San Francisco
 grids:
   - heading: Read & Listen
@@ -145,30 +145,14 @@ cast:
         Shakespeare Festival); *Comedy of Errors* (San Francisco Shakespeare
         Festival), and is a company member of PlayGround. In September, she can
         be seen as Beatrice in *Much Ado About Nothing* at Marin Shakespeare.
-    - name: Torange Yeghiazarian
-      bio: "**Torange Yeghiazarian** is an Iranian-born theatre artist of Armenian
-        heritage. She writes, directs and performs for theatre. Among her
-        writing and directing credits are *AGABA, Publicly Resting*, *Call Me
-        Mehdi, Behind Glass Windows*, *Dawn at Midnight, Operation No
-        Penetration*, *Lysistrata 97!* and *Waves*. Torange received her
-        Master's degree in Theatre Arts from San Francisco State University
-        where she collaborated with The San Francisco Mime Troupe in creating
-        the melodrama *Torch!* Her plays reflect the perspective of the
-        culturally displaced in tackling today’s world of contradictory
-        realities and values. As a teaching artist, Torange has taught
-        playwriting to at-risk youth as part of the Each One Reach One program,
-        incorporated theatre into social studies in Richmond’s Washington
-        Elementary School as part of East Bay Center for Performing Arts’
-        Learning Without Borders program, and lead acting and play development
-        workshops for Golden Thread Productions. She is the Artistic Director of
-        Golden Thread Productions, where she has devoted her professional life
-        to exploring Middle Eastern cultures and identities through theatre
-        arts."
-      image: https://ucarecdn.com/d6552a1f-c0f4-4db6-8ba9-20b9ecb32a86/
 photos:
   items:
     - image: https://ucarecdn.com/1a873822-2494-42d7-9947-405f891ebac2/
     - image: https://ucarecdn.com/45df8419-bd5f-4d4c-92de-4180553592b2/
     - image: https://ucarecdn.com/7d32204e-f4ad-43ef-8550-ab90d3013723/
+  heading: Production Photo Gallery
+bottom:
+  text: California Arts Council, San Francisco Arts Commission, The Zellerbach
+    Family Foundation
 ---
 A theatre actor of Middle Eastern descent considers the leap to film stardom when his agent secures a role for him in a film by Hollywood’s most respected director. Should he pass up the chance of a lifetime because the part is that of a machine gun-strapping terrorist?
