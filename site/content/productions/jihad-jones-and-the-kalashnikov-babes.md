@@ -7,8 +7,8 @@ start: 2008-06-05T23:57:00.000Z
 end: 2008-06-29T23:57:00.000Z
 heading: A Comedy by Yussef El Guindi
 description: ""
-background: https://ucarecdn.com/7459c4b4-e793-4f46-8ef3-1edf136b44a2/
-titleimage: https://ucarecdn.com/6648deb8-e4a0-4431-833d-0767d79ad63f/
+background: https://ucarecdn.com/02b86f27-106a-49d6-8e31-3a2a6ca5892c/-/crop/1961x1079/0,226/-/preview/
+titleimage: https://ucarecdn.com/21c3702e-1e03-4de2-af5e-13f51e6780b6/
 writer: Yussef El Guindi
 director: Mark Routhier
 stage: Potrero Stage (formerly Thick House)
