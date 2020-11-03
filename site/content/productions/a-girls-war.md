@@ -29,9 +29,11 @@ programlabel: Read the Education Guide
 program: https://ucarecdn.com/b52fb833-afa6-4292-8a33-999726e524e6/
 writer: Joyce Van Dyke
 director: Torange Yeghiazarian
-stage: Potrero Stage (formerly Thick House)
+featuring: Ana Bayat, Adrian Mejia, Zarif Sadiqi, Simon Vance*, Bella Warda
+stage: Thick House
 address: 1695 18th Street, San Francisco
 visitlink: ""
+awards: Winner of John Gassner Playwriting and the Provincetown Playwriting Awards.
 cast:
   heading: Cast & Crew
   items:
@@ -142,6 +144,10 @@ photos:
   items:
     - image: https://ucarecdn.com/4e3cf286-23bb-4d62-a465-be3586eb6e9e/
     - image: https://ucarecdn.com/ea08eff1-0fd6-41e5-8fa5-9984232100ab/
+  heading: Production Photo Gallery
+bottom:
+  text: California Arts Council, San Francisco Arts Commission, The San Francisco
+    Foundation
 ---
 **What the critics say about*A Girl’s War. . .***
 
