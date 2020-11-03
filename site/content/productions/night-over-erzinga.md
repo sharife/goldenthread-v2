@@ -107,7 +107,7 @@ cast:
         play NIGHT OVER ERZINGA. He has also been honored by being invited to
         perform in Golden Thread's next production, LANGUAGE ROOMS."
       credit: Older Ardavadzt, Doctor, Aram
-      image: https://ucarecdn.com/d79fbd7a-c69a-4255-a232-b57f44772c34/
+      image: https://ucarecdn.com/65be0763-5794-4c4a-93eb-cded25dd5571/
     - name: Sarita Ocón
       bio: '**Sarita Ocón** is honored to be part of this powerful and heartfelt
         journey with Golden Thread and an incredible team of artists and
