@@ -23,7 +23,10 @@ description: >-
 
 
   During a stormy fashion shoot, Anna Sarkisian, a New York fashion model, learns that her younger brother has been killed by enemy soldiers in her native Karabakh in the Caucasus Mountains. In the Armenian enclave of Karabakh, formerly part of the Soviet Union, an unresolved civil war still smolders between Armenians and Azerbaijanis. The war has already killed Anna’s older brother and driven her mother into the army. Anna decides to return home to her village for the first time in 15 years. Living with her fiercely partisan Armenian mother in the bombed ruin of her childhood home, Anna defiantly refuses to identify herself with the Armenian cause. Tensions ignite when, Ilyas, a young Azeri deserter shows up, claiming to be a former neighbor. Anna and Ilyas, powerfully drawn to one another, become lovers in secret. The competing desires of love and vengeance, fueled by jealousy, propel the characters toward an explosive climax with tragic consequences.
+background: https://ucarecdn.com/1fbe7e8d-eda0-4335-9426-ac7ad9361242/-/crop/1954x1080/0,8/-/preview/
 titleimage: https://ucarecdn.com/1ffda8e0-8e71-4b50-9ce1-199d79999d2f/
+programlabel: Read the Education Guide
+program: https://ucarecdn.com/b52fb833-afa6-4292-8a33-999726e524e6/
 writer: Joyce Van Dyke
 director: Torange Yeghiazarian
 stage: Potrero Stage (formerly Thick House)
