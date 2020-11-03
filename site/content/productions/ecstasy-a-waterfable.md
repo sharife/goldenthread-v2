@@ -52,7 +52,6 @@ photos:
     - image: https://ucarecdn.com/e26c73ae-905e-4ec8-b64b-087a2b53a8c1/
     - image: https://ucarecdn.com/93edb244-b7fe-450f-8ac9-36410a355df6/
     - image: https://ucarecdn.com/1cdb95cd-a778-4165-b9d0-b06611e3ce26/
-    - image: https://ucarecdn.com/356676d1-d34a-4ca7-868a-1fea87ea1164/
     - image: https://ucarecdn.com/9578c8e5-31fd-4635-9f12-7ed47ca72237/
     - image: https://ucarecdn.com/26d0121d-bc20-48b4-8d12-67d08d7b4aaa/
     - image: https://ucarecdn.com/ce43db84-02b0-4104-96b9-976820b2b813/
