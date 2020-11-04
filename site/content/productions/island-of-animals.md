@@ -60,6 +60,7 @@ photos:
     - image: https://ucarecdn.com/ed580aa3-9b74-4a6e-916e-edcf5e5d7d19/
     - image: https://ucarecdn.com/a57321c2-a839-4d16-b9fe-63203c927786/
     - image: https://ucarecdn.com/0a5c2a0c-c0df-458d-ba54-137cdc8b90dc/
+  heading: Production Photo Gallery
 bottom:
   text: From the historic crossroads of Eurasia to the intersecting diversity of a
     new America, Ballet Afsaneh presents an eloquent testament to the unique
