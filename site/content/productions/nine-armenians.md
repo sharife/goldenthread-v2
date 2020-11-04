@@ -20,7 +20,7 @@ programlabel: Read the full production program
 program: https://ucarecdn.com/c3046355-45d9-4039-be50-363fa56bfd18/
 writer: Leslie Avyazian
 director: Torange Yeghiazarian
-stage: "Magic Theatre "
+stage: Magic Theater
 address: Landmark Building D, Fort Mason Center, 2 Marina Blvd, San Francisco, CA 94123
 misc: "Winner of Roger L. Stevens and the Susan Smith Blackburn Award.
 
