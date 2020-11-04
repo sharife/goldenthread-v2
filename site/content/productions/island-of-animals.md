@@ -17,6 +17,7 @@ description: >-
   Drawing from theatre traditions east & west including Commedia dell arte, vaudeville, Khayal (the art of shadow puppetry evolved at Muslim court entertainments), and featuring world music, Island of Animals promises to be an entertaining performance of cross-cultural dimensions. The writing emulates the famous Sanskrit tales of Bidpai, Kalila wa Dimna and anticipates Attar’s Conference of the Birds by at least one hundred years; the Ikhwan al-Safa’s *Island of Animals* is an enlightening discovery of classical Muslim literature.
 background: https://ucarecdn.com/321ffd81-5597-423e-b351-66145be60af2/
 titleimage: https://ucarecdn.com/ffbbde5e-461e-4f49-b158-4eeced556f98/
+program: https://ucarecdn.com/d943dfbc-2061-4283-936c-a6a98f929d16/
 writer: Ikhwan al-Safa
 director: Hafiz Karmali
 stage: the Thick House
