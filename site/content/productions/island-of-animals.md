@@ -62,22 +62,8 @@ photos:
     - image: https://ucarecdn.com/0a5c2a0c-c0df-458d-ba54-137cdc8b90dc/
   heading: Production Photo Gallery
 bottom:
-  text: From the historic crossroads of Eurasia to the intersecting diversity of a
-    new America, Ballet Afsaneh presents an eloquent testament to the unique
-    Central Asian expressive arts. A program of the Afsaneh Art & Culture
-    Society, Ballet Afsaneh performs both traditional repertory and
-    groundbreaking contemporary works that combine dance, music and poetry of
-    Central Asia. Founded in 1986 by Choreographer-Director Sharlyn Sawyer, the
-    nonprofit professional ensemble performs at major theaters, cultural
-    festivals, museums and universities throughout the U.S. They have received
-    numerous awards and are supported in part by the California Arts Council,
-    the James Irvine Foundation, Community Foundation Silicon Valley, the
-    Christensen Fund and San Francisco Grants for the Arts. For over twenty
-    years Ballet Afsaneh and the Afsaneh Art & Culture Society have presented
-    performances that enhance the visibility of the Central Asian community and
-    provide exemplary family oriented education programs in traditional music,
-    dance, language and visual arts.
-  heading: Ballet Afsaneh and the Afsaneh Art & Culture Society
+  text: The Christensen Fund
+  heading: ""
 ---
 "Eye-catching production is a family-friendly menagerie with real philosophical meat" - *[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)*
 
