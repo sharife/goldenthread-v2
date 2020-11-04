@@ -5,6 +5,7 @@ season: 2006
 date: 2006-03-21T06:49:00.000Z
 start: 2006-04-21T06:49:00.000Z
 end: 2006-05-15T06:49:00.000Z
+heading: The Case of Animals versus Man
 description: >-
   Once upon a time, storm winds cast a ship of diverse nations on the shore of
   an island inhabited by animals living in peace and harmony. The men hunted the
@@ -14,19 +15,18 @@ description: >-
 
   \
 
-  Drawing from theatre traditions east & west including Commedia dell arte, vaudeville, Khayal (the art of shadow puppetry evolved at Muslim court entertainments), and featuring world music, Island of Animals promises to be an entertaining performance of cross-cultural dimensions. The writing emulates the famous Sanskrit tales of Bidpai, Kalila wa Dimna and anticipates Attar’s Conference of the Birds by at least one hundred years; the Ikhwan al-Safa’s *Island of Animals* is an enlightening discovery of classical Muslim literature.
+  Drawing from theatre traditions East & West including Commedia dell arte, vaudeville, Khayal (the art of shadow puppetry evolved at Muslim court entertainments), and featuring world music, *Island of Animals* promises to be an entertaining performance of cross-cultural dimensions. The writing emulates the famous Sanskrit tales of Bidpai, Kalila wa Dimna and anticipates Attar’s Conference of the Birds by at least one hundred years; the Ikhwan al-Safa’s *Island of Animals* is an enlightening discovery of classical Muslim literature.
 background: https://ucarecdn.com/321ffd81-5597-423e-b351-66145be60af2/
 titleimage: https://ucarecdn.com/ffbbde5e-461e-4f49-b158-4eeced556f98/
 program: https://ucarecdn.com/d943dfbc-2061-4283-936c-a6a98f929d16/
-writer: Ikhwan al-Safa
+writer: Hafiz Karmali based on the 10th century Islamic fable by Ikhwan al-Safa
 director: Hafiz Karmali
-stage: the Thick House
+featuring: "Shruti S. Tewari, Drea Bernardi, Carol Ellis, Joseph Estlack, Sahar
+  Hojat, Erika Salazar, John Sousa. Dancers: Aliah Najmabadi, Tara Pandeya."
+stage: Thick House
 address: 1695 18th St., San Francisco, CA
-misc: >-
-  In partnership with the Afghan Coalition and Ballet Afsaneh, and support from
-  the Christensen Fund.
-
-  Featuring for the first time on stage in the US, revered Afghan comic, Azizullah Hadaf
+misc: In partnership with the Afghan Coalition and Ballet Afsaneh, and support
+  from the Christensen Fund.
 cast:
   heading: Cast & Crew
   items:
@@ -55,22 +55,6 @@ cast:
 
         Mr. Karmali is intrigued by the interface between culture and social development as apparent in past assignments as a consultant for the UNDP (Samarkand) and AKTC (the Silk Route Project). Hafiz served as a Relief Officer for Focus Humanitarian Assistance (affiliated with the AKDN) as a member of the pioneering team that implemented Project Afghanistan in Kabul, Pul-i-Khumri & Badakhshan (October 1996 – June 1997 during the Taliban regime). Hafiz also served as a member of the organising team for His Highness the Aga Khan’s visits to Tajikistan (May 1995) & Afghanistan (Sept. 1998). A recipient of an AKF International Scholarship, Hafiz spent one year conducting research in Iran and is currently based in Paris where at Ecole Pratique des Hautes Etudes (Sorbonne) he is finalising his doctorate thesis on classical Ismaili philosophy.
       image: https://ucarecdn.com/92ccd8a5-216c-4042-816b-58cfa0626d4a/
-    - text: >-
-        **Cast:**\
-
-        Drea Bernardi, Carol Ellis, Joseph Estlack, Sahar Hojat, Erika Salazar, John Sousa, Shruti S. Tewari
-    - text: "**Dancers:** Aliah Najmabadi, Tara Pandeya"
-    - text: |-
-        **Stage Manager:** Katherine Schroeder\
-        **Set & Lighting Design:** Kate Boyd**\
-        Costume Design:** Mayu McClat
-
-        **Choreographer:** Sharlyn Sawyer\
-        **Mask Work:** Denmo Ibrahim\
-        **Asst to the Director:** Timor Noori\
-        **Asst to the Set & Lighting Designer:** Keyumars Hakim\
-        **Production Assistant:** Jennifer Atwood\
-        **Filmmaker:** Yussef Sekander
 photos:
   items:
     - image: https://ucarecdn.com/ed580aa3-9b74-4a6e-916e-edcf5e5d7d19/
@@ -94,4 +78,6 @@ bottom:
     dance, language and visual arts.
   heading: Ballet Afsaneh and the Afsaneh Art & Culture Society
 ---
-"Eye-catching production is a family-friendly menagerie with real philosophical meat" -[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)
+"Eye-catching production is a family-friendly menagerie with real philosophical meat" - *[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)*
+
+"Exotic stage pictures,” “Stunning costume design,” “Entertaining and educational" -*San Francisco Bay Times*
