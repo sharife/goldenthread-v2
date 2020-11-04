@@ -14,7 +14,10 @@ description: >-
   freedom.
 
 
-  Given the impossibility of meeting in Iran and the complexities of meeting in Israel, these artists are working in the US to create collaborative theatre in the midst of escalating political conflict amongst their home countries. The piece created offers an opportunity to engage non-violently and creatively with the historical, social, religious and aesthetic dimensions of this crucial inter-relationship. *Benedictus* explores how the relationship among Iran, Israel, and United States is impacting the world. The work began in the summer of 2005 as the *Iran/Israel/US Project*, with a two-week residency at Siena College in upstate New York and has continued over the past two years.
+  *Benedictus* explores how the relationship among Iran, Israel, and United States is impacting the world. The work began in the summer of 2005 as the *Iran/Israel/US Project*, with a two-week residency at Siena College in upstate New York and has continued over the past two years. Given the impossibility of meeting in Iran and the complexities of meeting in Israel, these artists are working in the US to create collaborative theatre in the midst of escalating political conflict amongst their home countries. The piece created offers an opportunity to engage non-violently and creatively with the historical, social, religious and aesthetic dimensions of this crucial inter-relationship. 
+
+
+  After its world premiere in San Francisco, this production of *Benedictus* will be remounted at The Los Angeles Theater Center, Jose Luis Valenzuela artistic director.
 background: https://ucarecdn.com/d4504b4e-42cf-475b-801b-f1a0fa9cd677/-/crop/1937x1150/0,0/-/preview/
 titleimage: https://ucarecdn.com/e1b6eb97-b938-4c71-9460-31cc76821ba6/
 program: https://ucarecdn.com/14fdbd73-8e36-480b-a00b-32bacf9a8b3e/
@@ -26,8 +29,7 @@ additional: Created by Mahmood Karimi-Hakak, Motti Lerner, Roberta Levitow,
   Daniel Michaelson, Torange Yeghiazarian
 stage: Thick House
 address: 1695 18th Street, San Francisco
-misc: This production of Benedictus was remounted at The New LATC, Jose Luis
-  Valenzuela artistic director.
+misc: ""
 lists:
   - items:
       - title: ""
