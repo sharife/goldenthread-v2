@@ -16,6 +16,8 @@ address: 2090 Kittredge St
 misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
   Appropriate for families and children, ages 5-15
+
+  This production toured for two years (2014 & 2015)
 lists:
   - items:
       - text: '"Golden Thread Fairytale Players performance was an extremely fun and
