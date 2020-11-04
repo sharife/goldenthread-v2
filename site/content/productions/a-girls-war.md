@@ -137,15 +137,7 @@ cast:
       credit: Tito/Seryozha
       image: https://ucarecdn.com/4be827b1-2ae3-4e46-85f2-899bb74415bb/
 mentions:
-  text: First produced at Boston Playwrights' Theatre in 2001, ***A Girl’s War***
-    was named one of the "top ten" plays of the year by the Boston Globe. A play
-    about the impact of the Karabakh war on one family, it played to sold-out
-    houses, winning the John Gassner Playwriting Award and the Provincetown
-    Theatre Company Playwriting Award. In 2003, New Repertory Theatre produced
-    the play, again to critical acclaim and sold-out houses. *A Girl’s War* was
-    nominated in 2003 for the prestigious American Theatre Critics Association
-    Steinberg New Play Award, and published in the anthology *Contemporary
-    Armenian American Drama* (Columbia Univ. Press, 2004).
+  text: ""
   heading: Development History
 photos:
   items:
@@ -156,7 +148,9 @@ bottom:
   text: California Arts Council, San Francisco Arts Commission, The San Francisco
     Foundation
 ---
-**What the Critics Say About *A Girl’s War. . .***
+First produced at Boston Playwrights' Theatre in 2001, ***A Girl’s War*** was named one of the "top ten" plays of the year by the Boston Globe. A play about the impact of the Karabakh war on one family, it played to sold-out houses, winning the John Gassner Playwriting Award and the Provincetown Theatre Company Playwriting Award. In 2003, New Repertory Theatre produced the play, again to critical acclaim and sold-out houses. *A Girl’s War* was nominated in 2003 for the prestigious American Theatre Critics Association Steinberg New Play Award, and published in the anthology *Contemporary Armenian American Drama* (Columbia Univ. Press, 2004).
+
+### **What the Critics Say About *A Girl’s War. . .***
 
 . . . the thrilling “A Girl’s War” . . . focuses on individual conflicts as a way to bring us dangerously close to the gunfire. *\- Boston Herald*
 
