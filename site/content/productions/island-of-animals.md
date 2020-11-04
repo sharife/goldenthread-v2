@@ -19,7 +19,7 @@ description: >-
 background: https://ucarecdn.com/321ffd81-5597-423e-b351-66145be60af2/
 titleimage: https://ucarecdn.com/ffbbde5e-461e-4f49-b158-4eeced556f98/
 program: https://ucarecdn.com/d943dfbc-2061-4283-936c-a6a98f929d16/
-writer: Hafiz Karmali based on the 10th century Islamic fable by Ikhwan al-Safa
+writer: Hafiz Karmali (based on the 10th century Islamic fable by Ikhwan al-Safa)
 director: Hafiz Karmali
 featuring: "Shruti S. Tewari, Drea Bernardi, Carol Ellis, Joseph Estlack, Sahar
   Hojat, Erika Salazar, John Sousa. Dancers: Aliah Najmabadi, Tara Pandeya."
@@ -37,7 +37,7 @@ cast:
         astronomy, metaphysics... in short, a Microsoft “Encarta” of its time.
       credit: Playwright
     - name: Hafiz Karmali
-      credit: Director
+      credit: Director & Playwright
       bio: >-
         Hafiz Karmali served an apprenticeship at the American Repertory Theatre
         at Harvard University where he had the good fortune of assisting
