@@ -20,16 +20,16 @@ items:
 
 
       ***Now released as a radio play: free to listen and share!***
-  - image: https://ucarecdn.com/0a9cd94e-3d4d-4d01-bda7-436b4b1f2508/
-    subtitle: You Give Us Hope for the Future!
-    cta: DONATE NOW!
+  - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
+    subtitle: \*Leila's Quest for Flight\* is now a radio play!
+    cta: Click to Learn More!
     link: /donate/
-    text: At Golden Thread, we remain committed to fulfilling our mission, despite
-      the challenges we are all facing, because we believe everyone will find
-      inspiration and a reflection of their own experience in stories from or
-      about the Middle East. Whether you are a ticket buyer, annual donor, or a
-      Golden Thread groupie, you make this work possible! Without ticket sales,
-      we are relying on donations more than ever. We appreciate your generosity!
+    text: After touring to forty Bay Area schools and libraries, we are thrilled to
+      announce a **radio play adaptation** of audience favorite *Leila's Quest
+      for Flight* just in time for the holiday season! To be released **November
+      10th** as a streamable podcast, this inspirational story will be free to
+      access from the comfort of your home and to share with loved ones near and
+      far.
   - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
@@ -42,5 +42,5 @@ items:
       defy a snappy summation. 
 
 
-      ***Mark your calendar for our next NO SUMMARY conversation Friday, October 23rd at 11am PDT!***
+      ***Mark your calendar for our next NO SUMMARY conversation Friday, November 6th at 11am PDT!***
 ---
