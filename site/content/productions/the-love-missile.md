@@ -18,6 +18,11 @@ programlabel: Read the full production program
 program: https://ucarecdn.com/ea179eb7-6296-4a23-a24d-037b50ffb983/
 writer: Hal Gelb, Janaki Ranpura, and Torange Yeghiazarian
 director: Norman Gee
+featuring: Sofia Ahmad, Vida Ghahremani, Lenny Moors*, Andoni Panici, William
+  Todd Tressler*, Kris Welch
+musicaldirector: Johannes Mager
+additional: Dance Choreography by Lisa Tateosian, Puppet Design and Direction by
+  Janaki Ranpura
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th), San Francisco
 misc: ""
