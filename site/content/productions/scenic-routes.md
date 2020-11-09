@@ -34,15 +34,14 @@ cast:
         aired on KTEH. A native of Egypt, Yussef holds an MFA in Playwriting
         from Carnegie-Mellon University and was playwright in-residence at Duke
         University."
-    - bio: |-
-        ***Crew:***\
-        Set Design: Keyumars Hakim\
-        Sound Design: Yvette Jackson\
-        Lighting Design: Rob Anderson\
-        Costume Design: Donna Khorsheed\
-        Stage Manager: Darlene Dhillon\
-        Photography & Video: Farzad Mohr\
-        Graphic Design: Homayoun Makoui
+      image: https://ucarecdn.com/bf8bfd48-35c0-4124-9f3d-3a7312aba448/
+    - bio: "**Torange Yeghiazarian** writes, acts, and directs for the theatre. She is
+        the founder and artistic director of Golden Thread Productions. Born in
+        Iran, Torange received a Masters degree in Theatre Arts from San
+        Francisco State University."
+      name: Torange Yeghiazarian
+      credit: Director
+      image: https://ucarecdn.com/665145c0-79d5-4c7d-9880-713179022999/
   heading: Cast & Crew
 photos:
   items:
