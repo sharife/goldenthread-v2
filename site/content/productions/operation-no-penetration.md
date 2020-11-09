@@ -7,6 +7,7 @@ start: 1997-06-19T12:22:00.000Z
 end: 1997-06-19T12:22:00.000Z
 heading: An Outrageous Comedy about Sex and War
 background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
+titleimage: https://ucarecdn.com/b5365099-db1d-4233-863f-5c55e48c32f5/
 program: https://ucarecdn.com/dcaf62df-3889-4120-ae28-0fa610629b0e/
 writer: Torange Yeghiazarian, adapted from the 5th century classic by Aristophanes
 director: Torange Yeghiazarian
@@ -14,6 +15,9 @@ featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
   Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami,
   Clearance A. Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter
   McCarron, Koorosh Angali
+designteam: Veronica Arana (scenic), Vida Ghahremani (costumes), Jodi Ferguson (lighting)
+additional: Dance choreography by Shahrzad Khorsandi
+stage: Next Stage, 1620 Gaugh Street, San Francisco
 cast:
   heading: Cast & Crew
   items:
