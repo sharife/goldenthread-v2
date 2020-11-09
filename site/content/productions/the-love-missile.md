@@ -1,20 +1,19 @@
 ---
-title: The Love Missile
+title: Love Missile
 pre: World Premiere
 season: 2003
 date: 2003-05-12T11:40:00.000Z
 start: 2003-06-12T11:40:00.000Z
 end: 2003-06-22T11:40:00.000Z
-heading: "An original anti-war musical: A surreal tale of passion, greed, denial
-  and longing involving unnamable body fluids and orifice!"
-description: The play is a fusion of traditional American musical with Middle
-  Eastern undertones as well as fantastical shadow puppetry. Original music is
-  composed by Johaness Mager, Musical Director, composer, and Band Leader for
-  Make\*A\*Circus from 1996 to 2002. Lisa Tateosian, dance choreographer, is a
-  member of Khadra International Dance Theatre and Ballet Afsaneh, and has
-  performed with Dance Brigade, CHODERA/dance, and Asian American Dance
-  Performances.
+heading: An original anti-war musical with puppets!
+description: >-
+  A surreal tale of passion, greed, denial and longing involving unnamable body
+  fluids and orifice!
+
+
+  The play is a fusion of traditional American musical with Middle Eastern undertones as well as fantastical shadow puppetry. Original music is composed by Johaness Mager, Musical Director, composer, and Band Leader for Make\*A\*Circus from 1996 to 2002. Lisa Tateosian, dance choreographer, is a member of Khadra International Dance Theatre and Ballet Afsaneh, and has performed with Dance Brigade, CHODERA/dance, and Asian American Dance Performances.
 background: https://ucarecdn.com/aa8c5c5f-41a8-4b47-acfe-e00fbae250a8/
+titleimage: https://ucarecdn.com/07b7e6c4-b256-4791-a9fe-c59219f1289b/
 programlabel: Read the full production program
 program: https://ucarecdn.com/ea179eb7-6296-4a23-a24d-037b50ffb983/
 writer: Hal Gelb, Janaki Ranpura, and Torange Yeghiazarian
