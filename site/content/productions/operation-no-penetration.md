@@ -15,6 +15,9 @@ featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
   Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami,
   Clearance A. Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter
   McCarron, Koorosh Angali
+designteam: Veronica Arana (scenic), Vida Ghahremani (costumes), Jodi Ferguson (lighting)
+additional: Dance choreography by Shahrzad Khorsandi
+stage: Next Stage, 1620 Gaugh Street, San Francisco
 cast:
   heading: Cast & Crew
   items:
