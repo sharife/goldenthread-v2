@@ -56,9 +56,9 @@
             {{ end }}
           </div>
       </div>
-      {{ if .cast.text }}
+        {{ if .text }}
         <div class="w-100 mb4">
-          <p class="f6 mb0">{{.cast.text | markdownify}}</p>
+          <p class="f6 mb0">{{.text | markdownify}}</p>
         </div>
         {{ end }}
       {{ end }}
