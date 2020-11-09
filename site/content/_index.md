@@ -23,7 +23,7 @@ items:
   - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
     subtitle: "*Leila's Quest for Flight* is now a radio play!"
     cta: Click to Learn More!
-    link: /donate/
+    link: https://goldenthread.org/productions/leila/
     text: After touring to forty Bay Area schools and libraries, our audience
       favorite *Leila's Quest for Flight* is now a radio play releasing just in
       time for the holiday season! To be released November 10th as a streamable
