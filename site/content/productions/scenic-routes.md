@@ -1,6 +1,6 @@
 ---
 title: Scenic Routes
-pre: World Premiere
+pre: West Coast Premiere
 season: 2002
 date: 2002-10-09T11:47:00.000Z
 start: 2002-11-09T11:47:00.000Z
@@ -10,13 +10,15 @@ description: Lana's family is intrigued by her new man, Naguib. Her mother wants
   Arabia. Lana and Naguib get ahead of the stereotypes when they joke about
   planting a bomb in a café only to find themselves caught in a web of deception
   and mistrust when their alleged plan is actually played out.
-background: https://ucarecdn.com/d961d019-27b1-43cc-abba-8f8941c50e23/
+background: https://ucarecdn.com/484f4042-449a-48f8-b5f9-620399ea49a9/-/crop/1935x1016/0,0/-/preview/
+titleimage: https://ucarecdn.com/a77f1dd5-d5ec-48d8-8c47-6b099b691a11/
 programlabel: Read the full production program
 program: https://ucarecdn.com/e7c78107-bd9f-440a-b31e-b4e3ad6ffce1/
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
+featuring: Janak Ramachandran, Maria Mastroyannis-Zalt, Ruby Unger*, Zachary Link
 stage: EXIT Stage Left
-address: 256 Eddy St. (at Taylor), San Francisco. 2 blocks to Powell St. BART.
+address: 256 Eddy St. (at Taylor), San Francisco
 cast:
   items:
     - name: Yussef El-Guindi
@@ -51,4 +53,4 @@ photos:
 ---
 Written in 1992, ***Scenic Routes*** explores the craggy terrain of cultural misunderstandings and misperceptions between an American woman, Lana, and an Egyptian man, Naguib. Beginning almost whimsically as a pick-up in a bar, the relationship soon gets mired in well intentioned but often clumsy attempts to bridge what are perceived as cultural divides. The initial and natural awkwardness of any two intimates getting to know each other soon gets blown up and erroneously labeled as cultural differences between two foreigners.
 
-This quickly leads to resentment and, on the part of Lana’s family, suspicion. Fed up with these fears and loaded questions directed at him, Naguib plays a series of games where he tries to turn these stereotypes on their head and render them harmless. But the opposite effect results. A bomb goes off in the exact area where Naguib and Lana were playing a particularly dangerous game a half hour earlier. Lana is terrified that the bag they left behind had more in it than Naguib let on.... Lana begins to question who she’s really going out with; as Naguib finds himself slowly getting ensnared and lost in other people’s fears and suspicions. These “specters” that he thought he could manage quickly end up haunting and possessing the relationship.... By the end of the play only alienation and fear remain and the potential for human connection is lost.
+The Immigrant Theatre Project presented a staged reading of *Scenic* *Routes* in 2000 as part of the American Dreams: Plays About NY & the Immigrant Experience at the Tenement Theatre. Celia Braxton directed.
