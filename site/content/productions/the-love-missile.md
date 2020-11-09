@@ -118,5 +118,8 @@ photos:
     - image: https://ucarecdn.com/20ac8b47-b6b2-4490-84a7-543b3d4e2f90/
     - image: https://ucarecdn.com/90b22db1-6b7a-443b-8a18-0f3fd5b6ce61/
     - image: https://ucarecdn.com/74c29bd8-b743-4752-8139-ac62909c09c5/
+bottom:
+  heading: This production was made possible by a generous donation from Judy
+    Wilber and Bob Miller
 ---
-When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, the prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives. Ultimately, they find importing the goods is the only option and as it turns out, Distancia has the best goods. The dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President leaving him no alternative but to attack – with Love, a drug developed by Dr. Z and Sharifa that induces universal love. But is Love really all we need? A surreal tale of passion, greed, denial and longing involving unnamable body fluids and orifice.
+When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, the prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives. Ultimately, they find importing the goods is the only option and as it turns out, Distancia has the best goods. The dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President leaving him no alternative but to attack – with Love, a drug developed by Dr. Z and Sharifa that induces universal love. But is Love really all we need? A surreal tale of passion, greed, denial and longing involving un-namable body fluids and orifice.
