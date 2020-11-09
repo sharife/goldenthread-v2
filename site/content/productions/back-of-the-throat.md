@@ -7,10 +7,11 @@ start: 2005-04-22T07:14:00.000Z
 end: 2005-05-16T07:14:00.000Z
 description: ""
 background: https://ucarecdn.com/d80a6bb1-0210-4380-b6cc-7fd456bedd55/
+titleimage: https://ucarecdn.com/e2a5e1b3-a3ad-4342-b023-b541c6d6d6ca/
 writer: Yussef El Guindi
 director: Tony Kelly
-stage: The Thick House
-address: 1695 18th Street (Near California), San Francisco
+stage: Thick House
+address: 1695 18th Street, San Francisco
 cast:
   heading: Cast & Crew
   items:
@@ -71,5 +72,6 @@ photos:
     - image: https://ucarecdn.com/a254827e-e18c-4562-93b0-2ff691f16748/
     - image: https://ucarecdn.com/1b8e8a63-489b-42c8-b5ba-0e48c33bbb24/
     - image: https://ucarecdn.com/9e3850a4-b39c-4650-a9c3-33fe8220c943/
+  heading: ""
 ---
 Khaled, an Arab-American writer, is eager to cooperate with the two Homeland Security agents who visit him in the aftermath of September 11. What begins as a routine check quickly evolves into an uncomfortable interrogation as the two agents begin to assert their power.  At the center of their suspicion is Khaled's involvement with the mysterious Asfoor, presumably one of the terrorists who is now dead.  One by one, a library clerk, a stripper, and Khaled's ex-girlfriend testify to Khaled's acquaintance with Asfoor and possible involvement in terrorist activities.
