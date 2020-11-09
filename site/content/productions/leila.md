@@ -5,7 +5,7 @@ season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ""
 end: ""
-heading: To be released as a radio play!
+heading: Now released as a radio play!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
