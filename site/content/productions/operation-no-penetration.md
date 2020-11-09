@@ -1,10 +1,19 @@
 ---
-title: Operation No Penetration
+title: Operation No Penetration, Lysistrata 1997!
+pre: World Premiere
 season: 1997
 date: 1997-05-19T12:22:00.000Z
 start: 1997-06-19T12:22:00.000Z
 end: 1997-06-19T12:22:00.000Z
+heading: An Outrageous Comedy about Sex and War
 background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
+program: https://ucarecdn.com/dcaf62df-3889-4120-ae28-0fa610629b0e/
+writer: Torange Yeghiazarian, adapted from the 5th century classic by Aristophanes
+director: Torange Yeghiazarian
+featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
+  Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami,
+  Clearance A. Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter
+  McCarron, Koorosh Angali
 cast:
   heading: Cast & Crew
   items:
