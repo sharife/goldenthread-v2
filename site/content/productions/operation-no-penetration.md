@@ -107,5 +107,13 @@ photos:
     - image: https://ucarecdn.com/4cb3483a-6be0-4a5e-bdf0-c10a6fadd1f5/
     - image: https://ucarecdn.com/028b8f39-fefe-4d44-a9d0-ec3b040f1cf2/
     - image: https://ucarecdn.com/9c857c4a-4669-4d48-ba7d-f860c464aa91/
+bottom:
+  heading: "This production woudl not have been possible without the support of
+    the following:"
+  text: The staff at the San Francisco State Theatre Arts Department, Mohammad
+    Kowsar, Darvag Theatre, Mansour & Afsaneh Taeed, Kiumars Hakim, Marcia
+    Kimmel and Lewis Campbel of the Next Stage, Barbara Lubin of Middle East
+    Chidren's Alliance, Emily Shihadeh, Gen Hayashida, Termeh Yeghiazarian,
+    Kamshad Kooshan.
 ---
-A contemporary adaptation of Aristophanes' Lysistrata. This adaptation focuses on the relationship between the U.S. and the Middle East. Islamic Fundamentalism is currently being thrown around as the one remaining enemy, the force that threatens "Democracy" in the world today. In this production Iran is being presented as a background player, with Palestine and Israel as the main warring parties. The play is designed to speak directly to its audience, however. And since it is being produced in the US, it seems important to set the play in the US as well. In this production, the Jewish-American Lysistrata along with the Palestinian-American Kalonike, unite women from around the world, including the Iranian Lampito, to join in on a global sex strike in order to force men to stop war and sign the World Peace treaty. The play attempts to emphasize the global nature of war in our time and the need for a global peace settlement.
+A contemporary adaptation of Aristophanes' Lysistrata focused on the Israeli-Palestinian conflict. In this production, the Jewish-American Lysistrata along with the Palestinian-American Kalonike, unite women from around the world, including the Iranian Lampito, to join in on a global sex strike in order to force men to stop war and sign the World Peace treaty. The play attempts to emphasize the global nature of war in our time and the need for a global peace settlement.
