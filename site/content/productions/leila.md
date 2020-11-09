@@ -24,8 +24,10 @@ director: Torange Yeghiazarian
 featuring: Simone Bloch and Maya Nazzal
 additional: "Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
   (Choreographer), Sarah Al-Kassab (Stage Manager)"
-stage: Podcast link released here on November 10th!
+stage: Radio play link available below!
 address: ""
+externallink: https://anchor.fm/golden-thread
+externallinklabel: Click to Listen!
 misc: >
   This radio play runs approximately 30-minutes. Appropriate for families and
   children, ages 5-15.<br /><br />Questions? Email us at
