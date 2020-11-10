@@ -27,8 +27,7 @@ designteam: Kate Boyd (scenic & lighting), Mayu McCartt (costumes), David Slaza
   (projections)
 stage: Thick House
 address: 1695 18th St., San Francisco, CA
-misc: In partnership with the Afghan Coalition and Ballet Afsaneh, and support
-  from the Christensen Fund.
+misc: ""
 cast:
   heading: Cast & Crew
   items:
@@ -62,6 +61,8 @@ bottom:
     Foundation for the Arts
   heading: ""
 ---
+In partnership with the Afghan Coalition and Ballet Afsaneh, and support from the Christensen Fund.
+
 "Eye-catching production is a family-friendly menagerie with real philosophical meat" - *[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)*
 
 "Exotic stage pictures,” “Stunning costume design,” “Entertaining and educational" -*San Francisco Bay Times*
