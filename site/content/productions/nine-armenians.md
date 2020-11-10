@@ -15,7 +15,7 @@ description: "*Nine Armenians* is the story of three generations of
   acknowledged it.The playwright takes a risk by shedding light on the painful
   recollections of the past.But isn’t this validation the only way to reach
   understanding and restore faith in the future?"
-background: https://ucarecdn.com/bb4fecbe-4802-4e52-95b5-0a800fc06b13/
+background: https://ucarecdn.com/bb4fecbe-4802-4e52-95b5-0a800fc06b13/-/crop/400x196/0,0/-/preview/
 titleimage: https://ucarecdn.com/3f50e4a4-357c-4886-aed9-b78987869901/
 programlabel: Read the full production program
 program: https://ucarecdn.com/c3046355-45d9-4039-be50-363fa56bfd18/
@@ -30,11 +30,7 @@ dramaturg: Hal Gelb
 stage: Magic Theater
 address: Building D, Fort Mason Center, San Francisco
 awards: Winner of Roger L. Stevens and the Susan Smith Blackburn Award.
-misc: "Nine Armenians has been presented at the Mark Taper Forum in LA, the
-  Manhattan Theatre Club and the Intiman Theatre in Seattle.
-
-
-  \ "
+misc: "\n\n "
 cast:
   heading: Cast & Crew
   items:
@@ -66,4 +62,4 @@ photos:
 bottom:
   text: California Arts Council, Gerbode Foundation, Zellerbach Family Foundation
 ---
-The grand parents in the play are survivors of the Armenian genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grandfather is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
+Nine Armenians has been presented at the Mark Taper Forum in LA, the Manhattan Theatre Club and the Intiman Theatre in Seattle.
