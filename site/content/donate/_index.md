@@ -4,7 +4,7 @@ sidebar:
   heading: There are so many ways to participate!
   text: "[**Make your gift today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).\t <br /><br /> Request a match through your employer’s matching gift program and double your gift! <br /><br /> Designate us to receive 0.5% of your Amazon purchases when you shop through [**smile.amazon.com**](http://smile.amazon.com).<br /><br /> **Your generous support is vital to our work.** [**Make your donation today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)\n"
 ---
-[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
@@ -20,6 +20,6 @@ We are doing everything we can to mitigate these losses. We have applied for rel
 
 We’re committed to surviving this crisis, maintaining our essential staff and basic operations, and returning to our regular programming as soon as possible. If you are in a position to contribute, we would be most grateful. With your help, Golden Thread will endure as a vital hub of artistic activism, deep dialogue and thriving community.
 
-[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA)[![Sustaining Donor Button](/img/archive/2015/03/Donate-Button-Sustaining-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbl8AAC) ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI) ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
 [![](https://widgets.guidestar.org/gximage2?o=8177599&l=v4)](https://www.guidestar.org/profile/75-3009451)[![Golden Thread Productions Nonprofit Overview and Reviews on GreatNonprofits](https://cdn.greatnonprofits.org//img/2018-top-rated-awards-badge-embed.png?id=327909)](https://greatnonprofits.org/org/golden-thread-productions)
