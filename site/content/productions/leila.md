@@ -68,8 +68,8 @@ grids:
           core curriculum standards for students K-5. The guide covers a wide
           range of topics from social sciences, to visual arts, and language
           arts for educators, families, and children to enjoy and learn from.
-        cta: Click here
-        image: https://ucarecdn.com/6d3d4763-56bc-497a-bda0-735c22375395/
+        cta: Click here to Explore!
+        image: https://ucarecdn.com/4cbce51a-bc69-4466-9490-bd88077891b3/
     heading: Leila's Quest for Flight Activity Guide
 cast:
   heading: Cast & Crew
