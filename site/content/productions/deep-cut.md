@@ -62,12 +62,12 @@ cast:
         critic for The Nation."
       name: Hal Gelb
       credit: Director
-    - name: "Featuring:"
-      bio: Atosa Babaoff, Terry Lamb, Wayne Lee, Phoebe Moyer, and Louis Parnell
 photos:
   items:
     - image: https://ucarecdn.com/54acd75f-679d-489a-a69f-511cfb034e4b/
     - image: https://ucarecdn.com/eb2e0294-a45c-4022-a880-ecb7a5d2dc39/
+bottom:
+  text: CA Arts Council, Zellerbach Family Fund
 ---
 *Deep Cut* is produced by special arrangement with Bruce Oslier, Bret Adama, LTD, New York. 
 
