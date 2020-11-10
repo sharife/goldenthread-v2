@@ -31,10 +31,11 @@ writer: Denmo Ibrahim
 director: Evren Odcikin
 featuring: Babak Bakhtiari, Deborah Eliezer, Bora "Max" Koknar, Cec Levinson,
   Garth Petal, Nora El Samahy*, Alika Spencer, Heidi Wolf
+designteam: Wesley Cabral (scenic & props), Jarrod Fischer (lighting), Sarah Al
+  Kassab (costumes)
 musicaldirector: Vince Delgado & Roman Kosins
-additional: "Design Team: Wesley Cabral (scenic & props), Jarrod Fischer
-  (lighting), Sarah Al Kassab (costumes)"
-stage: The Thick House
+additional: ""
+stage: Thick House
 address: 1695 18th St, San Francisco
 misc: "This work was developed with the Water Project Ensemble over two years. "
 cast:
