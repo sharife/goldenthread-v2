@@ -17,6 +17,9 @@ program: https://ucarecdn.com/e7c78107-bd9f-440a-b31e-b4e3ad6ffce1/
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
 featuring: Janak Ramachandran, Maria Mastroyannis-Zalt, Ruby Unger*, Zachary Link
+designteam: Keyumars Hakim (scenic), Rob Anderson (lighting), Yvette Jackson
+  (sound), Donna Khorsheed (costumes), Farzad Mohr (video), Termeh Yeghiazarian
+  (city skyline), Loren Fenaille (masks)
 stage: EXIT Stage Left
 address: 256 Eddy St. (at Taylor), San Francisco
 cast:
@@ -47,7 +50,6 @@ photos:
   items:
     - image: https://ucarecdn.com/d34af30a-5bc3-47e4-85b1-0f356a0cca2d/
     - image: https://ucarecdn.com/e072a995-8218-4d21-b07e-990cf194dc9f/
-    - image: https://ucarecdn.com/3bc2e7ad-9017-4d67-bfa5-d37ff599833a/
     - image: https://ucarecdn.com/2baebc0e-8a33-42c5-b0ff-888cf1f36d87/
 bottom:
   text: ""
