@@ -50,7 +50,7 @@ sidebar:
     Bryant Elementary School\
     Live Oak Elementary School
 lists:
-  - heading: Current Touring Shows
+  - heading: Now Available as a Radio Play!
     items:
       - cta: Find out more
         image: /img/feature-leila-thumb.jpg
