@@ -19,7 +19,7 @@ description: >-
 background: https://ucarecdn.com/321ffd81-5597-423e-b351-66145be60af2/
 titleimage: https://ucarecdn.com/ffbbde5e-461e-4f49-b158-4eeced556f98/
 program: https://ucarecdn.com/d943dfbc-2061-4283-936c-a6a98f929d16/
-writer: Hafiz Karmali (based on the 10th century Islamic fable by Ikhwan al-Safa)
+writer: Hafiz Karmali, based on the 10th century Islamic fable by Ikhwan al-Safa
 director: Hafiz Karmali
 featuring: "Shruti S. Tewari, Drea Bernardi, Carol Ellis, Joseph Estlack, Sahar
   Hojat, Erika Salazar, John Sousa. Dancers: Aliah Najmabadi, Tara Pandeya."
@@ -27,8 +27,7 @@ designteam: Kate Boyd (scenic & lighting), Mayu McCartt (costumes), David Slaza
   (projections)
 stage: Thick House
 address: 1695 18th St., San Francisco, CA
-misc: In partnership with the Afghan Coalition and Ballet Afsaneh, and support
-  from the Christensen Fund.
+misc: ""
 cast:
   heading: Cast & Crew
   items:
@@ -62,6 +61,8 @@ bottom:
     Foundation for the Arts
   heading: ""
 ---
+In partnership with the Afghan Coalition and Ballet Afsaneh, and support from the Christensen Fund.
+
 "Eye-catching production is a family-friendly menagerie with real philosophical meat" - *[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)*
 
 "Exotic stage pictures,” “Stunning costume design,” “Entertaining and educational" -*San Francisco Bay Times*
