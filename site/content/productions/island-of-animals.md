@@ -23,6 +23,8 @@ writer: Hafiz Karmali (based on the 10th century Islamic fable by Ikhwan al-Safa
 director: Hafiz Karmali
 featuring: "Shruti S. Tewari, Drea Bernardi, Carol Ellis, Joseph Estlack, Sahar
   Hojat, Erika Salazar, John Sousa. Dancers: Aliah Najmabadi, Tara Pandeya."
+designteam: Kate Boyd (scenic & lighting), Mayu McCartt (costumes), David Slaza
+  (projections)
 stage: Thick House
 address: 1695 18th St., San Francisco, CA
 misc: In partnership with the Afghan Coalition and Ballet Afsaneh, and support
@@ -30,12 +32,6 @@ misc: In partnership with the Afghan Coalition and Ballet Afsaneh, and support
 cast:
   heading: Cast & Crew
   items:
-    - name: Ikhwan al-Safa
-      bio: A group of learned men writing among Ismaili Muslim philosophers of the
-        tenth century formed a society (Brethren of Purity) and composed the
-        Rasa’il, an encyclopaedia of mathematics, physics, geology, ecology,
-        astronomy, metaphysics... in short, a Microsoft “Encarta” of its time.
-      credit: Playwright
     - name: Hafiz Karmali
       credit: Director & Playwright
       bio: >-
@@ -62,7 +58,8 @@ photos:
     - image: https://ucarecdn.com/0a5c2a0c-c0df-458d-ba54-137cdc8b90dc/
   heading: Production Photo Gallery
 bottom:
-  text: The Christensen Fund
+  text: The Christensen Fund, East Bay Community Fund, WESTAF, New England
+    Foundation for the Arts
   heading: ""
 ---
 "Eye-catching production is a family-friendly menagerie with real philosophical meat" - *[San Francisco Bay Guardian](http://www.goldenthread.org/oldsite/content/review_island.html)*
