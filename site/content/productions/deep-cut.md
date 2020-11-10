@@ -5,7 +5,7 @@ season: 2001
 date: 2001-06-14T12:05:00.000Z
 start: 2001-07-14T12:05:00.000Z
 end: 2001-07-29T12:05:00.000Z
-heading: An Inquiry Into Cultural Reletavism
+heading: An Inquiry Into Cultural Relativism
 description: >-
   Social values fall short and cultures clash. A tormented daughter confronts
   her liberal father. Why does their relationship mirror our nation’s selective
