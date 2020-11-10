@@ -6,21 +6,26 @@ date: 2001-06-14T12:05:00.000Z
 start: 2001-07-14T12:05:00.000Z
 end: 2001-07-29T12:05:00.000Z
 heading: An Inquiry Into Cultural Reletavism
-description: Social values fall short and cultures clash. A tormented daughter
-  confronts her liberal father. Why does their relationship mirror our nation’s
-  selective intervention policy?
+description: >-
+  Social values fall short and cultures clash. A tormented daughter confronts
+  her liberal father. Why does their relationship mirror our nation’s selective
+  intervention policy?
+
+
+  Andrew, a liberal American psychiatrist, and Jennifer are a bit anxious about announcing their engagement to Farah, Andrew’s estranged daughter from his first marriage to an Egyptian woman, Nadia who passed away several years ago. Farah is frustrated in an unhappy marriage and has recently learned through therapy that she was circumcised at the age of eight. Farah is shocked by the discovery that her father consented to her circumcision. When she asks why he did nothing to stop it, Andrew explains that it was out of respect for her mother’s culture. As someone who is intensely aware of the horrors that have resulted when one culture imposes its will on another, Andrew firmly believes that it would have been wrong of him to impose his own beliefs on the traditional practices of his wife’s culture. A wider context is brought to bear on the stormy conflict by a young Chinese surgeon and patient of the psychiatrist’s who was tortured during the events at Tiananman Square.
 background: https://ucarecdn.com/d72539d4-3ed9-4881-9504-94b645f0eeb5/-/crop/1963x1160/0,0/-/preview/
 titleimage: https://ucarecdn.com/7a5d0418-4dac-4b51-9dd5-84668a77a486/
 programlabel: Read the full production program
 program: https://ucarecdn.com/d91f48db-635c-4156-8af5-ee81ec65bb22/
 writer: Karim Alrawi
 director: Hal Gelb
-stage: Thicket House
-address: 1695 18th St. Potrero Hill, San Francisco  Between Carolina & Arkansas St.
-misc: |-
-  Winner of Best New Play Award
-
-  Previously produced at La Mama (NY, 1996) and Wooly Mammoth (DC, 1995)
+featuring: Phoebe Moyer*, Terry Lamb*, Wayne Lee, Louis Parnell*, Atosa Babaoff
+designteam: Dave Gardner (scenic), Tom Ontiveros (lighting), Arsham Moadabian
+  (sound), Maria Zamroud (costumes & props)
+stage: Thick House
+address: "1695 18th St., San Francisco  "
+awards: Winner of Best New Play Award
+misc: "\n\n"
 cast:
   heading: Cast & Crew
   items:
@@ -64,4 +69,6 @@ photos:
     - image: https://ucarecdn.com/54acd75f-679d-489a-a69f-511cfb034e4b/
     - image: https://ucarecdn.com/eb2e0294-a45c-4022-a880-ecb7a5d2dc39/
 ---
-Andrew, a liberal American psychiatrist, and Jennifer are a bit anxious about announcing their engagement to Farah, Andrew’s estranged daughter from his first marriage to an Egyptian woman, Nadia who passed away several years ago. Farah is frustrated in an unhappy marriage and has recently learned through therapy that she was circumcised at the age of eight. Farah is shocked by the discovery that her father consented to her circumcision. When she asks why he did nothing to stop it, Andrew explains that it was out of respect for her mother’s culture. As someone who is intensely aware of the horrors that have resulted when one culture imposes its will on another, Andrew firmly believes that it would have been wrong of him to impose his own beliefs on the traditional practices of his wife’s culture. A wider context is brought to bear on the stormy conflict by a young Chinese surgeon and patient of the psychiatrist’s who was tortured during the events at Tiananman Square.
+*Deep Cut* is produced by special arrangement with Bruce Oslier, Bret Adama, LTD, New York. 
+
+Previously produced at La Mama (NY, 1996) and Wooly Mammoth (DC, 1995).
