@@ -22,8 +22,8 @@ videos:
 writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
 featuring: Simone Bloch and Maya Nazzal
-additional: "Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
-  (Choreographer), Sarah Al-Kassab (Stage Manager)"
+designteam: Mokhtar Paki (Production Designer)
+additional: Lisa Tateosian (Choreographer), Sarah Al-Kassab (Stage Manager)
 stage: Radio play link available below!
 address: ""
 externallink: https://anchor.fm/golden-thread
@@ -58,6 +58,16 @@ lists:
 
 
           "Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
+grids:
+  - items:
+      - link: https://cdn.flipsnack.com/widget/v2/widget.html?hash=dpm6if5tk5
+        title: Explore Leila's World with this Interactive Playbook
+        pre: A Golden Thread Fairytale Players Educational Offering
+        subtitle: Filled with fun activities for ages 3 to 18.
+        text: We have gathered a number of activities that are aligned with California
+          education standards from social sciences, to visual arts, and language
+          arts for educators, families, and children to enjoy and learn from.
+        cta: Click here
 cast:
   heading: Cast & Crew
   items:
