@@ -14,7 +14,7 @@ description: >-
   connecting diverse cultural traditions to contemporary themes.
 
 
-  In response to the success of our in person tour, *Leila's Quest for Flight* will be released November 10th as a free radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
+  In response to the success of our in person tour and demand for digital programs during the pandemic, *Leila's Quest for Flight* has been adapted to a radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
 background: /img/hero-leila.jpg
 titleimage: /img/archive/2018/07/leila-slider.jpg
 videos:
@@ -65,7 +65,8 @@ grids:
         pre: A Golden Thread Fairytale Players Educational Offering
         subtitle: Filled with fun activities for ages 3 to 18.
         text: We have gathered a number of activities that are aligned with California
-          education standards from social sciences, to visual arts, and language
+          core curriculum standards for students K-5. The guide covers a wide
+          range of topics from social sciences, to visual arts, and language
           arts for educators, families, and children to enjoy and learn from.
         cta: Click here
         image: https://ucarecdn.com/6d3d4763-56bc-497a-bda0-735c22375395/
