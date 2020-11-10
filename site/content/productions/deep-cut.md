@@ -5,12 +5,10 @@ season: 2001
 date: 2001-06-14T12:05:00.000Z
 start: 2001-07-14T12:05:00.000Z
 end: 2001-07-29T12:05:00.000Z
-heading: Social values fall short and Cultures clash. A tormented daughter
+heading: An Inquiry Into Cultural Relevatism
+description: Social values fall short and cultures clash. A tormented daughter
   confronts her liberal father. Why does their relationship mirror our nation’s
   selective intervention policy?
-description: An Inquiry into the limits of cultural tradition and individual
-  responsibility as related to such global issues as torture and female genital
-  mutilation.
 background: https://ucarecdn.com/1c71a8e9-e103-46f5-8a52-d64fdccc4ebb/
 programlabel: Read the full production program
 program: https://ucarecdn.com/d91f48db-635c-4156-8af5-ee81ec65bb22/
