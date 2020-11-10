@@ -5,7 +5,7 @@ season: 2020
 date: 2019-04-01T15:04:10.000Z
 start: ""
 end: ""
-heading: To be released as a radio play!
+heading: Now released as a radio play!
 description: >-
   When the optometrist shatters little Leila’s dream of becoming a pilot, a
   menagerie of mythic birds gather to help her accomplish her goal. Drawn from
@@ -14,7 +14,7 @@ description: >-
   connecting diverse cultural traditions to contemporary themes.
 
 
-  In response to the success of our in person tour, *Leila's Quest for Flight* will be released November 10th as a free radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
+  In response to the success of our in person tour and demand for digital programs during the pandemic, *Leila's Quest for Flight* has been adapted to a radio play.  Bring this inspirational story home to share with loved ones in a new imaginative format just in time for the holidays. Our digital content is free to access and to share with friends, family, and community.
 background: /img/hero-leila.jpg
 titleimage: /img/archive/2018/07/leila-slider.jpg
 videos:
@@ -22,10 +22,12 @@ videos:
 writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
 featuring: Simone Bloch and Maya Nazzal
-additional: "Creative team: Mokhtar Paki (Production Designer), Lisa Tateosian
-  (Choreographer), Sarah Al-Kassab (Stage Manager)"
-stage: Podcast link released here on November 10th!
+designteam: Mokhtar Paki, production designer
+additional: "Choreographer: Lisa Tateosian, Stage Manager: Sarah Al-Kassab"
+stage: Radio play link available below!
 address: ""
+externallink: https://anchor.fm/golden-thread
+externallinklabel: Click to Listen!
 misc: >
   This radio play runs approximately 30-minutes. Appropriate for families and
   children, ages 5-15.<br /><br />Questions? Email us at
@@ -56,6 +58,19 @@ lists:
 
 
           "Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
+grids:
+  - items:
+      - link: https://cdn.flipsnack.com/widget/v2/widget.html?hash=dpm6if5tk5
+        title: Explore Leila's World with this Interactive Playbook
+        pre: A Golden Thread Fairytale Players Educational Offering
+        subtitle: Filled with fun activities for ages 3 to 18.
+        text: We have gathered a number of activities that are aligned with California
+          core curriculum standards for students K-5. The guide covers a wide
+          range of topics from social sciences, to visual arts, and language
+          arts for educators, families, and children to enjoy and learn from.
+        cta: Click here to Explore!
+        image: https://ucarecdn.com/4cbce51a-bc69-4466-9490-bd88077891b3/
+    heading: "'Leila's Quest for Flight' Activity Guide"
 cast:
   heading: Cast & Crew
   items:

@@ -6,7 +6,15 @@ date: 1997-05-19T12:22:00.000Z
 start: 1997-06-19T12:22:00.000Z
 end: 1997-06-19T12:22:00.000Z
 heading: An Outrageous Comedy about Sex and War
+description: A contemporary adaptation of Aristophanes' Lysistrata focused on
+  the Israeli-Palestinian conflict. In this production, the Jewish-American
+  Lysistrata along with the Palestinian-American Kalonike, unite women from
+  around the world, including the Iranian Lampito, to join in on a global sex
+  strike in order to force men to stop war and sign the World Peace treaty. The
+  play attempts to emphasize the global nature of war in our time and the need
+  for a global peace settlement.
 background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
+titleimage: https://ucarecdn.com/b5365099-db1d-4233-863f-5c55e48c32f5/
 program: https://ucarecdn.com/dcaf62df-3889-4120-ae28-0fa610629b0e/
 writer: Torange Yeghiazarian, adapted from the 5th century classic by Aristophanes
 director: Torange Yeghiazarian
@@ -14,6 +22,9 @@ featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
   Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami,
   Clearance A. Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter
   McCarron, Koorosh Angali
+designteam: Veronica Arana (scenic), Vida Ghahremani (costumes), Jodi Ferguson (lighting)
+additional: Dance choreography by Shahrzad Khorsandi
+stage: Next Stage, 1620 Gaugh Street, San Francisco
 cast:
   heading: Cast & Crew
   items:
@@ -116,4 +127,4 @@ bottom:
     Chidren's Alliance, Emily Shihadeh, Gen Hayashida, Termeh Yeghiazarian,
     Kamshad Kooshan.
 ---
-A contemporary adaptation of Aristophanes' Lysistrata focused on the Israeli-Palestinian conflict. In this production, the Jewish-American Lysistrata along with the Palestinian-American Kalonike, unite women from around the world, including the Iranian Lampito, to join in on a global sex strike in order to force men to stop war and sign the World Peace treaty. The play attempts to emphasize the global nature of war in our time and the need for a global peace settlement.
+Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies.  It followed shortly on a disastrous phase of Athens’s war with Sparta.  Many of Aristophanes plays use a utopian premise to criticize war.  Lysistrata addresses the politics of its time in a variety of ways.  Lampooning the politicians of the time and Athens’s expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand.  Aristophanes was a master at highlighting social hypocrisies.  But at the same time the play is by no means "feminist" in its approach.  Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
