@@ -22,8 +22,8 @@ videos:
 writer: Torange Yeghiazarian drawn from Palestinian folktales
 director: Torange Yeghiazarian
 featuring: Simone Bloch and Maya Nazzal
-designteam: Mokhtar Paki (Production Designer)
-additional: Lisa Tateosian (Choreographer), Sarah Al-Kassab (Stage Manager)
+designteam: Mokhtar Paki, production designer
+additional: "Choreographer: Lisa Tateosian, Stage Manager: Sarah Al-Kassab"
 stage: Radio play link available below!
 address: ""
 externallink: https://anchor.fm/golden-thread
