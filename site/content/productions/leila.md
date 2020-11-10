@@ -68,6 +68,8 @@ grids:
           education standards from social sciences, to visual arts, and language
           arts for educators, families, and children to enjoy and learn from.
         cta: Click here
+        image: https://ucarecdn.com/6d3d4763-56bc-497a-bda0-735c22375395/
+    heading: Leila's Quest for Flight Activity Guide
 cast:
   heading: Cast & Crew
   items:
