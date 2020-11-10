@@ -70,7 +70,7 @@ grids:
           arts for educators, families, and children to enjoy and learn from.
         cta: Click here to Explore!
         image: https://ucarecdn.com/4cbce51a-bc69-4466-9490-bd88077891b3/
-    heading: Leila's Quest for Flight Activity Guide
+    heading: "'Leila's Quest for Flight' Activity Guide"
 cast:
   heading: Cast & Crew
   items:
