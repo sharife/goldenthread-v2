@@ -5,11 +5,12 @@ season: 2001
 date: 2001-06-14T12:05:00.000Z
 start: 2001-07-14T12:05:00.000Z
 end: 2001-07-29T12:05:00.000Z
-heading: An Inquiry Into Cultural Relevatism
+heading: An Inquiry Into Cultural Reletavism
 description: Social values fall short and cultures clash. A tormented daughter
   confronts her liberal father. Why does their relationship mirror our nation’s
   selective intervention policy?
-background: https://ucarecdn.com/1c71a8e9-e103-46f5-8a52-d64fdccc4ebb/
+background: https://ucarecdn.com/d72539d4-3ed9-4881-9504-94b645f0eeb5/-/crop/1963x1160/0,0/-/preview/
+titleimage: https://ucarecdn.com/7a5d0418-4dac-4b51-9dd5-84668a77a486/
 programlabel: Read the full production program
 program: https://ucarecdn.com/d91f48db-635c-4156-8af5-ee81ec65bb22/
 writer: Karim Alrawi
