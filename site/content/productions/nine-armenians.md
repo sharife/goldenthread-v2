@@ -29,10 +29,8 @@ designteam: Zara Houshmand (scenic), Robert Ted Anderson (lighting), Rebecca
 dramaturg: Hal Gelb
 stage: Magic Theater
 address: Building D, Fort Mason Center, San Francisco
-misc: "Winner of Roger L. Stevens and the Susan Smith Blackburn Award.
-
-
-  Nine Armenians has been presented at the Mark Taper Forum in LA, the
+awards: Winner of Roger L. Stevens and the Susan Smith Blackburn Award.
+misc: "Nine Armenians has been presented at the Mark Taper Forum in LA, the
   Manhattan Theatre Club and the Intiman Theatre in Seattle.
 
 
