@@ -1,9 +1,9 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
 pre: Fairytale Players Present
-season: 2012
+season: 2011
 date: 2013-01-17T08:54:00.000Z
-start: 2013-02-17T08:54:00.000Z
+start: 2011-02-17T08:54:00.000Z
 end: 2013-02-17T08:54:00.000Z
 heading: Remember my friend, one who has heaven in his heart is always well-dressed!
 description: >-
