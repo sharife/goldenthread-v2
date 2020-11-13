@@ -1,6 +1,6 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
-pre: Fairytale Players
+pre: Fairytale Players Present
 season: 2012
 date: 2013-01-17T08:54:00.000Z
 start: 2013-02-17T08:54:00.000Z
@@ -10,9 +10,10 @@ programlabel: Read the full production program
 program: ""
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
-featuring: Golden Thread’s Fairytale Players
-stage: San Leandro Public Library
-address: 300 Estudillo Ave., San Leandro, CA
+featuring: Aylin Guvenc, Mahsa Matin
+additional: ""
+stage: Bay Area Schools & Libraries
+address: ""
 cast:
   heading: Cast & Crew
   items:
