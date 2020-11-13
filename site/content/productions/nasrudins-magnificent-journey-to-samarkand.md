@@ -17,7 +17,7 @@ description: >-
 background: https://ucarecdn.com/b79241dd-e310-4e0a-8fdd-e745b8d49369/
 titleimage: https://ucarecdn.com/cf472835-bb5c-495c-bc9e-6bab3079fe98/
 programlabel: ""
-program: ""
+program: https://ucarecdn.com/83043f55-2f7d-4ffb-b33f-edc7c1c72c57/
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 featuring: Aylin Guvenc, Mahsa Matin
@@ -57,3 +57,11 @@ photos:
     - image: https://ucarecdn.com/5d0e5fa2-a898-4f1d-9bb0-2f3546fab842/
 ---
 Adapted from folks tales centered around the wise fool renowned in Central Asia, Turkey and Iran - Mulla Nasrudin or Nasrudin Hoja - *Nasrudin's Magnificent Journey to Samarkand* is a colorful and dynamic performance with dance and music. Nasrudin's clever wisdom and propensity for exposing hypocracy, frequently gets him into trouble.
+
+Recommended reading:
+
+*The Pleasantries of the Incredible Mulla Nasrudin* by Idrsi Shah
+
+*Disturber of Peace* by Leonid Solovyov
+
+*The Hungry Coat* by Demi
