@@ -5,12 +5,19 @@ season: 2012
 date: 2013-01-17T08:54:00.000Z
 start: 2013-02-17T08:54:00.000Z
 end: 2013-02-17T08:54:00.000Z
-description: Will Nasrudin and his faithful donkey ever make it to Samarkand,
-  the center of arts and crafts on the ancient Silk Road? There is only one way
-  to find out!
-background: https://ucarecdn.com/8bb5fc92-ddbe-4a78-a356-2f17434e09c1/
-programlabel: Read the full production program
-program: ""
+heading: Remember my friend, one who has heaven in his heart is always well-dressed!
+description: >-
+  In this performances, we will follow Nasrudin's adventures as he takes a round
+  about path to his final destination through Konya, Bukhara, Damascus, and
+  Isfahan! His travels feature ancient carvansari and bazars on the ancient Silk
+  Road.
+
+
+  Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
+background: https://ucarecdn.com/b79241dd-e310-4e0a-8fdd-e745b8d49369/
+titleimage: https://ucarecdn.com/cf472835-bb5c-495c-bc9e-6bab3079fe98/
+programlabel: ""
+program: https://ucarecdn.com/83043f55-2f7d-4ffb-b33f-edc7c1c72c57/
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 featuring: Aylin Guvenc, Mahsa Matin
@@ -49,4 +56,12 @@ photos:
     - image: https://ucarecdn.com/ae78f89c-eb9b-4d8a-938a-e9f562f71b8e/
     - image: https://ucarecdn.com/5d0e5fa2-a898-4f1d-9bb0-2f3546fab842/
 ---
-This visually colorful performance with dynamic story-telling, dance and music is adapted from several folk tales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey and Iran.
+Adapted from folks tales centered around the wise fool renowned in Central Asia, Turkey and Iran - Mulla Nasrudin or Nasrudin Hoja - *Nasrudin's Magnificent Journey to Samarkand* is a colorful and dynamic performance with dance and music. Nasrudin's clever wisdom and propensity for exposing hypocracy, frequently gets him into trouble.
+
+Recommended reading:
+
+*The Pleasantries of the Incredible Mulla Nasrudin* by Idrsi Shah
+
+*Disturber of Peace* by Leonid Solovyov
+
+*The Hungry Coat* by Demi
