@@ -8,8 +8,9 @@ end: 2013-02-17T08:54:00.000Z
 heading: Remember my friend, one who has heaven in his heart is always well-dressed!
 description: >-
   In this performances, we will follow Nasrudin's adventures as he takes a round
-  about path to Bukhara, through Konya, Damascus, and Isfahan! His travels
-  feature ancient carvansari and bazars on the ancient Silk Road.
+  about path to his final destination through Konya, Bukhara, Damascus, and
+  Isfahan! His travels feature ancient carvansari and bazars on the ancient Silk
+  Road.
 
 
   Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
