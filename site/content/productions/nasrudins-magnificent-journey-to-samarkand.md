@@ -14,8 +14,9 @@ description: >-
 
 
   Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
-background: https://ucarecdn.com/8bb5fc92-ddbe-4a78-a356-2f17434e09c1/
-programlabel: Read the full production program
+background: https://ucarecdn.com/b79241dd-e310-4e0a-8fdd-e745b8d49369/
+titleimage: https://ucarecdn.com/cf472835-bb5c-495c-bc9e-6bab3079fe98/
+programlabel: ""
 program: ""
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
