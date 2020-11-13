@@ -5,6 +5,8 @@
   <div class="mw7 center">
     {{ if .photos.heading }}
       <h2 class="f3 b lh-title mb2">{{.photos.heading}}</h2>
+      {{ else if eq $.galleryID "1"}}
+      <h2 class="f3 b lh-title mb2">Production Photos</h2>
     {{ end }}
     {{ if .photos.text }}
       <p class="cms mb4 mw6">{{.photos.text | markdownify }}</p>
