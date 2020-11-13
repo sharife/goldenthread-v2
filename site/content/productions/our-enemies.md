@@ -1,20 +1,19 @@
 ---
-title: 'Our Enemies: Lively Scenes of Love and Combat'
+title: "Our Enemies: Lively Scenes of Love and Combat"
 season: 2016
 date: 2016-10-28T15:04:10.000Z
 start: 2016-11-20T15:04:10.000Z
 end: 2016-05-29T15:04:10.000Z
 heading: A West Coast Premiere Play by Yussef El Guindi
-description: >-
-  Struggling writer Gamal hates the way his fellow Arab-Americans represent
-  their culture on American media. It’s easy enough to take out his frustration
-  on literature superstar Mohsen and local mosque leader, Sheikh Alfani. But
-  when his own girlfriend and novelist Noor gets an offer from a major publisher
-  backed with a national media campaign, how will Gamal manage his
-  frustration?<br /><br />Award-winning Egyptian-American playwright Yussef El
-  Guindi holds the honor of being the most produced writer at Golden Thread. El
-  Guindi has won the Steinberg/American Theater Critics Association’s New Play
-  Award in 2012, and was the recipient of the 2010 Middle East America
+description: Struggling writer Gamal hates the way his fellow Arab-Americans
+  represent their culture on American media. It’s easy enough to take out his
+  frustration on literature superstar Mohsen and local mosque leader, Sheikh
+  Alfani. But when his own girlfriend and novelist Noor gets an offer from a
+  major publisher backed with a national media campaign, how will Gamal manage
+  his frustration?<br /><br />Award-winning Egyptian-American playwright Yussef
+  El Guindi holds the honor of being the most produced writer at Golden Thread.
+  El Guindi has won the Steinberg/American Theater Critics Association’s New
+  Play Award in 2012, and was the recipient of the 2010 Middle East America
   Distinguished Playwright Award. His previous premieres with the company
   include <em>Language Rooms</em>, <em>Jihad Jones and the Kalashnikov
   Babes</em>, <em>Back of the Throat</em>, <em>Scenic Routes</em>, and many
@@ -22,10 +21,10 @@ description: >-
   City</em> at the Cairo International Festival for Experimental Theatre in
   2004.
 background: /img/hero-our-enemies.jpg
-titleimage: /img/title-our-enemies.jpg
+titleimage: https://ucarecdn.com/fb208870-f658-4048-a5eb-c5ea89cf1ed5/
 writer: Yussef El Guindi
 director: Torange Yeghiazarian
-address: '1695 18th Street, San Francisco'
+address: 1695 18th Street, San Francisco
 awardsimage: /img/tba-recommended-red-square.png
 misc: Strong language and sexual situations.
 grids:
@@ -33,20 +32,20 @@ grids:
     items:
       - cta: Read more
         image: /img/feature-our-enemies-characters.jpg
-        link: 'https://www.goldenthread.org/2016-season/our-enemies-characters/'
+        link: https://www.goldenthread.org/2016-season/our-enemies-characters/
         subtitle: Meet Your “Enemies”
         text: |
           The characters of Our Enemies in their own words
       - cta: Read more
         image: /img/feature-our-enemies-interview.jpg
-        link: 'https://goldenthread.org/posts/yussef-interview/'
+        link: https://goldenthread.org/posts/yussef-interview/
         subtitle: New World vs. Old World
         text: >
           Dr. Michael Najjar interviews award-winning Egyptian-American
           playwright Yussef El Guindi.
       - cta: Read more
         image: /img/feature-our-enemies-market.jpg
-        link: 'https://www.goldenthread.org/2016-season/our-enemies-market/'
+        link: https://www.goldenthread.org/2016-season/our-enemies-market/
         subtitle: The Demands of the Market
         text: >
           Torange Yeghiazarian writes about the challenges of the publishing
@@ -55,24 +54,21 @@ grids:
     items:
       - cta: Read more
         image: /img/feature-our-enemies-torange.jpg
-        link: 'http://www.sfexaminer.com/enemies-asks-speaks-middle-easterners/'
+        link: http://www.sfexaminer.com/enemies-asks-speaks-middle-easterners/
         subtitle: |
           <em>Our Enemies</em> Asks: Who Speaks For Middle Easteners?
-        text: >-
-          Director Torange Yeghiazarian is interviewed by <em>SF
+        text: Director Torange Yeghiazarian is interviewed by <em>SF
           Examiner</em>&#8216;s Jean Schiffman.
       - cta: Read more
         image: /img/feature-our-enemies-yussef.jpg
-        link: 'https://soundcloud.com/arabology/yussefelguindi'
+        link: https://soundcloud.com/arabology/yussefelguindi
         subtitle: |
           Yussef El Guindi on <em>Arabology</em>
-        text: >-
-          Award-winning playwright and producer Evren Odcikin speak to Dr. Ramzi
+        text: Award-winning playwright and producer Evren Odcikin speak to Dr. Ramzi
           Salti about the play.
       - cta: Read more
         image: /img/feature-our-enemies-broadwayworld.jpg
-        link: >-
-          http://www.broadwayworld.com/san-francisco/article/Golden-Thread-Celebrate-their-20th-Anniversary-with-Comedy-Play-OUR-ENEMIES-20160907
+        link: http://www.broadwayworld.com/san-francisco/article/Golden-Thread-Celebrate-their-20th-Anniversary-with-Comedy-Play-OUR-ENEMIES-20160907
         subtitle: >
           Golden Thread Celebrate their 20th Anniversary with Comedy Play,
           <em>Our Enemies</em>
@@ -143,7 +139,7 @@ cast:
         Outstanding Direction), and various shows for Dragon Productions and
         theatre Q, among others. Dale works as the Program Director at Theatre
         Bay Area.
-      credit: 'Earl, Russell, Father Carol'
+      credit: Earl, Russell, Father Carol
       image: /img/profile-dale-albright.jpg
       name: Dale Albright
     - bio: >
