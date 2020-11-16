@@ -1,8 +1,16 @@
 ---
-title: Support Golden Thread
+title: 25 Years of Art, Activism and Family!
 sidebar:
   heading: There are so many ways to participate!
-  text: "[**Make your gift today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).\t <br /><br /> Request a match through your employer’s matching gift program and double your gift! <br /><br /> Designate us to receive 0.5% of your Amazon purchases when you shop through [**smile.amazon.com**](http://smile.amazon.com).<br /><br /> **Your generous support is vital to our work.** [**Make your donation today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)\n"
+  text: >
+    [**Make your gift
+    today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).	 <br
+    /><br /> Request a match through your employer’s matching gift program and
+    double your gift! <br /><br /> Designate us to receive 0.5% of your Amazon
+    purchases when you shop through
+    [**smile.amazon.com**](http://smile.amazon.com).<br /><br /> **Your generous
+    support is vital to our work.** [**Make your donation
+    today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
@@ -10,16 +18,12 @@ sidebar:
 
 # <center>Your support gives us hope for the future.</center>
 
-The COVID virus is impacting each of us in different ways. During these precarious times, we may find ourselves in need one moment and able to help someone else in the next. 
+As the world around us changes, Golden Thread’s commitment to bring you stories from and about the Middle East remains constant. For 25 years, we have been making theatre that broadens perceptions of the Middle East in the US from narrow stereotypes to multi-layered portrayals that reflect its true complexity and rich diversity. 
 
-Dealing with a pandemic is many things, but perhaps mostly it is a reminder that all humans are interconnected. This has long been our philosophy at Golden Thread. We are compelled to share stories from or about the Middle East because we believe every audience will find a reflection of their own experience somewhere in that story. These reflections show, we are not alone.
+Our work is far from done. As Muslims, immigrants, and “minorities”, Middle Easterners in the US are often targeted, harassed and vilified. In addition, Middle Eastern voices are rarely included in US culture, especially in the mainstream American theatre.
+	
+With high-quality artistic programming, a community based approach, and a legacy of inclusion on the American stage, all focused on the Middle East, we are unique among Bay Area theatres. At Golden Thread, celebrating the plurality of Middle East identities and perspectives is an invitation for all of us to find meaningful reflection in someone else’s story, a great necessity, especially in times of profound divisiveness.
 
-Like all of us, Golden Thread is facing great uncertainty. You probably already know that half of our season has been cancelled. This includes the US Premiere of *On the Periphery*, which closed 3.5 weeks early, our annual women's day event *What do the Women Say?*, our second main stage show of the season, *Jogging*, a touring show from Lebanon slated for May, and the full spring school and library tour of Fairytale Players.
+Your continued support is essential as we adapt to the many challenges ahead. Make your contribution today!
 
-We are doing everything we can to mitigate these losses. We have applied for relief funding with the Small Business Association, the city of San Francisco, and the National Endowment for the Arts. And we are grateful for additional support received from our generous Board of Trustees and recent funders.
-
-We’re committed to surviving this crisis, maintaining our essential staff and basic operations, and returning to our regular programming as soon as possible. If you are in a position to contribute, we would be most grateful. With your help, Golden Thread will endure as a vital hub of artistic activism, deep dialogue and thriving community.
-
-[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI) ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
-
-[![](https://widgets.guidestar.org/gximage2?o=8177599&l=v4)](https://www.guidestar.org/profile/75-3009451)[![Golden Thread Productions Nonprofit Overview and Reviews on GreatNonprofits](https://cdn.greatnonprofits.org//img/2018-top-rated-awards-badge-embed.png?id=327909)](https://greatnonprofits.org/org/golden-thread-productions)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
