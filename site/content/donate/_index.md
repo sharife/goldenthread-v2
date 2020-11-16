@@ -16,7 +16,7 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# <center>Your support gives us hope for the future.</center>
+# <center>Another 25 years starts with your donation today!</center>
 
 As the world around us changes, Golden Thread’s commitment to bring you stories from and about the Middle East remains constant. For 25 years, we have been making theatre that broadens perceptions of the Middle East in the US from narrow stereotypes to multi-layered portrayals that reflect its true complexity and rich diversity. 
 
