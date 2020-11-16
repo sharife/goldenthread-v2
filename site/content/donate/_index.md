@@ -2,15 +2,15 @@
 title: 25 Years of Art, Activism and Family!
 sidebar:
   heading: There are so many ways to participate!
-  text: >
-    [**Make your gift
-    today**](https://goldenthread.secure.force.com/donate/?dfId=a0nj0000003z3ikAAA).	 <br
-    /><br /> Request a match through your employer’s matching gift program and
-    double your gift! <br /><br /> Designate us to receive 0.5% of your Amazon
-    purchases when you shop through
-    [**smile.amazon.com**](http://smile.amazon.com).<br /><br /> **Your generous
-    support is vital to our work.** [**Make your donation
-    today.**](https://goldenthread.secure.force.com/donate/?dfId=a0nf100000eMbmuAAC)
+  text: "**[Make your gift
+    today](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQA\
+    I)**.\t <br /><br /> Request a match through your employer’s matching gift
+    program and double your gift! <br /><br /> Designate us to receive 0.5% of
+    your Amazon purchases when you shop through
+    **[smile.amazon.com](http://smile.amazon.com)**.<br /><br /> Your generous
+    support is vital to our work. **[Make your donation
+    today](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQA\
+    I).**"
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
