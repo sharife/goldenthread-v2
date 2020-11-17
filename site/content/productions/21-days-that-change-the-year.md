@@ -1,12 +1,13 @@
 ---
 title: 21 Days That Change the Year
-pre: Fairytale Players
-season: ""
+pre: Fairytale Players Present
+season: 2014
 date: 2015-02-15T08:26:00.000Z
 start: 2015-03-15T08:26:00.000Z
 end: 2015-03-15T08:26:00.000Z
 description: ""
 background: https://ucarecdn.com/3301eac7-0c42-419a-b746-5666212ff7fd/
+titleimage: https://ucarecdn.com/9257ff56-d4ac-4ba0-adaa-d00bcd2fe8ab/-/crop/640x453/0,25/-/preview/
 videos:
   - id: khGZkZaZqOI
 writer: Torange Yeghiazarian
