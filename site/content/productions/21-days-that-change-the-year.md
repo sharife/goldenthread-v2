@@ -111,6 +111,15 @@ cast:
       image: https://ucarecdn.com/0a748e54-461d-43fc-8ea4-da36da52c942/
   heading: Cast & Crew
 photos:
-  items: []
+  items:
+    - image: https://ucarecdn.com/7750735b-5616-4dd4-a39a-e6c8f5b448f1/
+    - image: https://ucarecdn.com/0e451201-d175-4dfb-9ab3-833fa3ec43b7/
+    - image: https://ucarecdn.com/2aec5d7c-e9fd-4e03-aa90-9aaddacc628f/
+photos2:
+  heading: Puppets
+  items:
+    - image: https://ucarecdn.com/5408f438-853a-46b6-8e16-08d7ee89958a/-/crop/421x625/19,15/-/preview/
+    - image: https://ucarecdn.com/906996d9-06b3-4a17-8410-e91f773a3989/-/crop/408x639/20,1/-/preview/
+    - image: https://ucarecdn.com/1f5dc521-cdf1-4655-8642-edced631a645/
 ---
 This delightful performance frames an ancient tale from Ferdowsi’s *Shahnameh* within contemporary adventures of Dara & Sara, a sister and brother eagerly awaiting the coming of *Nowruz*. Guided by their sweet but somewhat hard-of-hearing granny, Dara & Sara learn about spring cleaning, setting a traditional *Haft-seen* table, the fun rituals of *Charshanbeh-suri*, and the *Sizdeh-bedar* picnic which concludes the rite of spring ceremonies. This enriching and humorous presentation includes music, dance, storytelling, puppetry, and audience participation. Fusing history and literature with contemporary arts, ***21 Days That Change the Year*** offers a multi-cultural event providing children and their families with the richness of Middle Eastern arts and culture.
