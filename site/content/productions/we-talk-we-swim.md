@@ -20,13 +20,16 @@ description: While trying to navigate the currents of the Pacific, an
   indelible ripples of war.
 background: /img/hero-weswim.jpg
 titleimage: /img/archive/2018/09/We-Swim-1000x400-tagline.jpg
+program: https://ucarecdn.com/ea51bf06-1a0c-484e-b2aa-7b4fbc9a01d6/
 videos:
   - id: ao3RiAkusqw
 writer: Mona Mansour
 director: Evren Odcikin
+featuring: Tre'Vonne Bell, Joshua Chessin-Yudin, Adam El-Sharkawi*, Sarah Nina Hayon*
 designteam: Cassie Barnes (lighting), Kate Boyd (scenic), Sara Huddleston
   (sound), Mona Kasra (projections), Michelle Mulholland (costumes)
-additional: dramaturgy by Sonia Fernandez
+dramaturg: Sonia Fernandez
+additional: Hala Baki (assisstant director)
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 awardsimage: /img/tba-recommended-red-square.png
@@ -86,13 +89,6 @@ grids:
         text: Director Evren Odcikin interviewed playwright Mona Mansour in advance of
           an earlier workhop of this play at the Lark in New York City.
         link: http://www.larktheatre.org/blog/closer-look-we-talk-we-swim-we-go-war/
-        cta: Read more
-      - subtitle: |
-          Mona Mansour: Urgent Tales and Breakfast-Table Politics
-        image: /img/archive/2012/01/DearProducersFeature.jpg
-        text: Playwright Caridad Svich interviews Mona Mansour for *American Theatre
-          Magazine*.
-        link: https://www.americantheatre.org/2013/09/01/mona-mansour-urgent-tales-and-breakfast-table-politics/
         cta: Read more
 cast:
   heading: Cast & Crew
