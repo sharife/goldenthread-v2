@@ -1,19 +1,23 @@
 ---
 title: Rumi x 7 = Tales From the Masnavi
-pre: A Poetic Circus Extravaganza
+pre: US Premiere
 season: 2012
 date: 2013-02-14T08:44:00.000Z
 start: 2012-09-01T08:44:00.000Z
 end: 2013-05-03T08:44:00.000Z
+heading: A Poetic Circus Extravaganza
+description: Let your imagination soar through this awe-inspiring journey that
+  celebrates the cycle of life and humanity’s universal bond.
 background: https://ucarecdn.com/b3f61866-5515-4819-a3cc-5c040c35d142/
-titleimage: https://ucarecdn.com/503a2025-185d-4606-a047-9489690fa08c/
+titleimage: https://ucarecdn.com/33e98b71-53b2-4f71-af1c-98aa2c999929/
+writer: Based on Rumi's Masnavi
 director: Hafiz Karmali
-featuring: Golden Thread's Fairytale Players
-stage: Toured various Bay Area theaters and community centers
-misc: Rumi x 7 = Tales From the Masnavi was performed in multiple locations,
-  including the Asian Art Museum, San Francisco Day School, Pacific School of
-  Religion - Sacred Snapshots event, La Pena Cultural Center, and the Jewish
-  Community Center of East Bay.
+featuring: Jamie Coventry, Jon Deline, Aylin Guvenc, Mahsa Matin, Aliah
+  Najmabadi, Maruf Noyoft, Carla Pauli
+designteam: Ninva Warda (costumes), Daniel Yelen (props)
+stage: San Francisco Asian Art Museum, Jewish Community Center of East Bay, La
+  Pena Cultural Center, among others
+misc: ""
 grids: []
 cast:
   heading: Cast & Crew
@@ -26,4 +30,4 @@ photos:
     - image: https://ucarecdn.com/e76da3e7-b0d4-438f-be96-67849c558908/
     - image: https://ucarecdn.com/8d991009-b94d-4ae3-9e01-ad054cc56a56/
 ---
-Rumi comes to life as never before through this lively adaptation of one of the world’s greatest poets in *Rumi x 7= Tales from the Masnavi*. Rumi’s timeless tales explore the ties that bind human kind to the natural world, to their dreams and to their infinite potential. Seven breathtaking vignettes fuse classical Persian poetry with a dazzling panorama of circus arts and commedia dell arte. Let your imagination soar through this awe-inspiring journey that celebrates the cycle of life and humanity’s universal bond.
+Rumi comes to life as never before through this lively adaptation of one of the world’s greatest poets in *Rumi x 7= Tales from the Masnavi*. Rumi’s timeless tales explore the ties that bind human kind to the natural world, to their dreams and to their infinite potential. Seven breathtaking vignettes fuse classical Persian poetry with a dazzling panorama of circus arts and commedia dell arte.
