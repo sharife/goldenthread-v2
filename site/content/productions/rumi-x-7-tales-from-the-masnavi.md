@@ -10,6 +10,8 @@ description: Let your imagination soar through this awe-inspiring journey that
   celebrates the cycle of life and humanity’s universal bond.
 background: https://ucarecdn.com/b3f61866-5515-4819-a3cc-5c040c35d142/
 titleimage: https://ucarecdn.com/33e98b71-53b2-4f71-af1c-98aa2c999929/
+programlabel: Study Guide for Educators
+program: https://ucarecdn.com/29777188-d504-4137-8b7e-8a28372cab3a/
 writer: Based on Rumi's Masnavi
 director: Hafiz Karmali
 featuring: Jamie Coventry, Jon Deline, Aylin Guvenc, Mahsa Matin, Aliah
