@@ -8,7 +8,7 @@ end: 2013-05-03T08:44:00.000Z
 heading: A Poetic Circus Extravaganza
 description: Let your imagination soar through this awe-inspiring journey that
   celebrates the cycle of life and humanity’s universal bond.
-background: https://ucarecdn.com/b3f61866-5515-4819-a3cc-5c040c35d142/
+background: https://ucarecdn.com/7b7b4c58-f5e2-403e-a774-b37f9fe0cfff/
 titleimage: https://ucarecdn.com/33e98b71-53b2-4f71-af1c-98aa2c999929/
 programlabel: Study Guide for Educators
 program: https://ucarecdn.com/29777188-d504-4137-8b7e-8a28372cab3a/
