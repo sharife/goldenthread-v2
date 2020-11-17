@@ -31,5 +31,9 @@ photos:
     - image: https://ucarecdn.com/7c6119ef-9784-44ba-b8ae-55445b900624/
     - image: https://ucarecdn.com/e76da3e7-b0d4-438f-be96-67849c558908/
     - image: https://ucarecdn.com/8d991009-b94d-4ae3-9e01-ad054cc56a56/
+bottom:
+  text: East Bay Foundation, San Francisco Arts Commission
 ---
-Rumi comes to life as never before through this lively adaptation of one of the world’s greatest poets in *Rumi x 7= Tales from the Masnavi*. Rumi’s timeless tales explore the ties that bind human kind to the natural world, to their dreams and to their infinite potential. Seven breathtaking vignettes fuse classical Persian poetry with a dazzling panorama of circus arts and commedia dell arte.
+Rumi comes to life as never before through this lively adaptation of one of the world’s greatest poets in *Rumi x 7= Tales from the Masnavi*. Rumi’s timeless tales explore the ties that bind human kind to the natural world, to their dreams and to their infinite potential. Seven breathtaking vignettes fuse classical Persian poetry with a dazzling panorama of circus arts and commedia dell arte. 
+
+*Rumi X 7 = Tales from the Masnavi* is part of Golden Thread's groundbreaking new initiative, Islam 101 to create innovative professional performances based on Islamic arts and philosophy in an eclectic style fusing eastern and westernm tranditions. Offering youth and families an opportunity to experience Islam in an inspiring and entertaining way, Golden Thread aims to provide the general public alternative images of Islam while providing the Muslim community self-affirming narratives that help connect the younger generation with their heritage's playful side.
