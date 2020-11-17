@@ -1,9 +1,9 @@
 ---
 title: Rumi x 7 = Tales From the Masnavi
 pre: A Poetic Circus Extravaganza
-season: 2013
+season: 2012
 date: 2013-02-14T08:44:00.000Z
-start: 2013-03-14T08:44:00.000Z
+start: 2012-09-01T08:44:00.000Z
 end: 2013-05-03T08:44:00.000Z
 background: https://ucarecdn.com/b3f61866-5515-4819-a3cc-5c040c35d142/
 titleimage: https://ucarecdn.com/503a2025-185d-4606-a047-9489690fa08c/
