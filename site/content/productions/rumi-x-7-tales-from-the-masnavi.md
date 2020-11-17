@@ -12,7 +12,7 @@ background: https://ucarecdn.com/7b7b4c58-f5e2-403e-a774-b37f9fe0cfff/
 titleimage: https://ucarecdn.com/33e98b71-53b2-4f71-af1c-98aa2c999929/
 programlabel: Study Guide for Educators
 program: https://ucarecdn.com/29777188-d504-4137-8b7e-8a28372cab3a/
-writer: Based on Rumi's Masnavi
+writer: Hafiz Karmali base on Rumi's Masnavi
 director: Hafiz Karmali
 featuring: Jamie Coventry, Jon Deline, Aylin Guvenc, Mahsa Matin, Aliah
   Najmabadi, Maruf Noyoft, Carla Pauli
@@ -25,12 +25,21 @@ cast:
   heading: Cast & Crew
 photos:
   items:
-    - image: https://ucarecdn.com/d5f2d3b5-399c-440d-b668-c63f299ffa65/
-    - image: https://ucarecdn.com/770ee3f4-e0bd-4a26-99eb-a16f06aca149/
-    - image: https://ucarecdn.com/46dc0ea1-b9f7-4a6e-b532-6d9e437ee749/
-    - image: https://ucarecdn.com/7c6119ef-9784-44ba-b8ae-55445b900624/
-    - image: https://ucarecdn.com/e76da3e7-b0d4-438f-be96-67849c558908/
-    - image: https://ucarecdn.com/8d991009-b94d-4ae3-9e01-ad054cc56a56/
+    - image: https://ucarecdn.com/1d0fcc93-89fb-4b39-b0a1-9d8d52ff038f/
+    - image: https://ucarecdn.com/042a3cf9-cf50-40aa-9205-d30fe3f4f414/
+    - image: https://ucarecdn.com/2d4a9f4a-a859-49f7-b85a-25b580d46dac/
+    - image: https://ucarecdn.com/f49ca2b5-1453-4f1e-9bc9-08d71d10e8c8/
+    - image: https://ucarecdn.com/821b0020-d2e8-4d2e-bac7-ac3c112dab44/
+    - image: https://ucarecdn.com/2996ebe1-715c-4a16-8b1a-b8f49dfe9865/
+    - image: https://ucarecdn.com/b9bb76cc-9f8a-48ce-bb8a-60e50d236f1b/
+    - image: https://ucarecdn.com/4fa9e9ee-03e0-48b5-874d-2ba90a1e0fa5/
+    - image: https://ucarecdn.com/f1423502-17dd-4a16-a4f5-db8145d3415f/
+photos2:
+  heading: Audiences love the show!
+  items:
+    - image: https://ucarecdn.com/f169084d-41b7-4101-9c3b-f658d2767a10/
+    - image: https://ucarecdn.com/2a497ee3-257d-4baf-9799-0ac4494de294/
+    - image: https://ucarecdn.com/762d8b07-8fdb-4288-a9f3-1fec63e642a7/
 bottom:
   text: East Bay Foundation, San Francisco Arts Commission
 ---
