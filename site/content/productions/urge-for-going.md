@@ -18,13 +18,23 @@ program: https://ucarecdn.com/b6441fe6-028d-4e4c-9c27-11c0acda7c80/
 writer: Mona Mansour
 director: Evren Odcikin
 featuring: Munaf Alsafi, Camila Betancourt Ascencio, Tara Blau*, Terry Lamb*,
-  Julian Lopez-Mirrilas*, Wiley Naman Strasser
-additional: "Deasign & Production Team: Brendan Aanes (sound design), Kate Boyd
-  (scenic & lighting design), Michelle Mulholland (costume design), Devon
-  Labelle (props master)"
+  Julian Lopez-Morrilas*, Wiley Naman Strasser
+designteam: Brendan Aanes (sound), Kate Boyd (scenic & lighting), Michelle
+  Mulholland (costumes), Devon LaBelle (props)
+additional: ""
 stage: Z Below
 address: 470 Florida St., San Francisco, 94110
 lists: []
+grids:
+  - heading: In the Press
+    items:
+      - title: "Mona Mansour: Urgent Tales and Breakfast-Table Politics"
+        subtitle: ""
+        link: https://www.americantheatre.org/2013/09/01/mona-mansour-urgent-tales-and-breakfast-table-politics/
+        cta: Read more
+        text: Playwright Caridad Svich interviews Mona Mansour for *American Theatre
+          Magazine*.
+        image: https://ucarecdn.com/eb79fed2-b472-4b12-b83b-611b3ca13790/
 cast:
   heading: Cast & Crew
   items:
@@ -167,6 +177,16 @@ photos:
     - image: https://ucarecdn.com/c7bee8c6-120a-4588-9be0-fcb739076501/
     - image: https://ucarecdn.com/e066b4dd-2dbe-4314-87e0-dbd7cc80ae7e/
     - image: https://ucarecdn.com/e3c5080a-0fe0-40e0-b497-d12edcb8eb73/
+photos2:
+  heading: Lobby Installation of Her Palestinian Family's Passports by Zeina Barakeh
+  items:
+    - image: https://ucarecdn.com/de688c0c-f90e-4251-8852-d931f05e2ba7/
+photos3:
+  heading: Rehearsal
+  items:
+    - image: https://ucarecdn.com/11cfba12-d3c4-4b41-b0fe-769b2f114ade/
+    - image: https://ucarecdn.com/c0e3da97-942f-4301-a7b3-a78cb34d354d/
+    - image: https://ucarecdn.com/55a84d56-c3bd-4dc3-8e77-e6ceb1182a51/
 archivevideo: Qtszrdhpea8
 bottom:
   logos:
