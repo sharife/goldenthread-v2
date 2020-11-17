@@ -180,7 +180,7 @@ photos:
 photos2:
   heading: "Lobby Art Installation: Passports by Zeina Barakeh"
   items:
-    - image: https://ucarecdn.com/de688c0c-f90e-4251-8852-d931f05e2ba7/
+    - image: https://ucarecdn.com/0f023691-e408-484c-912a-1ccbb088634e/
 photos3:
   heading: Rehearsal
   items:
