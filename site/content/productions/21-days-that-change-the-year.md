@@ -12,13 +12,14 @@ videos:
   - id: khGZkZaZqOI
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
-stage: Berkeley Public Library
-address: 2090 Kittredge St
+featuring: Majd Murad, Mohammad Talani
+designteam: Mokhtar Paki (puppets & props)
+additional: Dance choreography by Lisa Tateosian
+stage: Various Bay Area schools & libraries
+address: ""
 misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
   Appropriate for families and children, ages 5-15
-
-  This production toured for two years (2014 & 2015)
 lists:
   - items:
       - text: '"Golden Thread Fairytale Players performance was an extremely fun and
@@ -30,6 +31,7 @@ lists:
           enjoyed the ingenious way the actors changed their parts. The kids
           went around mimicking the actors for days, especially the older
           woman." -Hawes School, Redwood City'
+    heading: Testimonials
 cast:
   items:
     - name: Majd Murad
