@@ -5,6 +5,7 @@ season: 2014
 date: 2015-02-15T08:26:00.000Z
 start: 2015-03-15T08:26:00.000Z
 end: 2015-03-15T08:26:00.000Z
+heading: Have you prepared your Haft-seen this year?
 description: ""
 background: https://ucarecdn.com/3301eac7-0c42-419a-b746-5666212ff7fd/
 titleimage: https://ucarecdn.com/9257ff56-d4ac-4ba0-adaa-d00bcd2fe8ab/-/crop/640x453/0,25/-/preview/
@@ -19,6 +20,7 @@ stage: Various Bay Area schools & libraries
 address: ""
 misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
+
   Appropriate for families and children, ages 5-15
 lists:
   - items:
@@ -131,4 +133,6 @@ photos3:
     - image: https://ucarecdn.com/26140b94-32d1-4662-8d34-2056be12cbf0/
     - image: https://ucarecdn.com/954e4f26-ff6e-4f85-9263-b88434f9433e/
 ---
-This delightful performance frames an ancient tale from Ferdowsi’s *Shahnameh* within contemporary adventures of Dara & Sara, a sister and brother eagerly awaiting the coming of *Nowruz*. Guided by their sweet but somewhat hard-of-hearing granny, Dara & Sara learn about spring cleaning, setting a traditional *Haft-seen* table, the fun rituals of *Charshanbeh-suri*, and the *Sizdeh-bedar* picnic which concludes the rite of spring ceremonies. This enriching and humorous presentation includes music, dance, storytelling, puppetry, and audience participation. Fusing history and literature with contemporary arts, ***21 Days That Change the Year*** offers a multi-cultural event providing children and their families with the richness of Middle Eastern arts and culture.
+This delightful performance frames an ancient tale from Ferdowsi’s *Shahnameh* within contemporary adventures of Dara & Sara, a sister and brother eagerly awaiting the coming of *Nowruz*. Guided by their sweet but somewhat hard-of-hearing granny, Dara & Sara learn about spring cleaning, setting a traditional *Haft-seen* table, the fun rituals of *Charshanbeh-suri*, and the *Sizdeh-bedar* picnic which concludes the rite of spring ceremonies. 
+
+This enriching and humorous presentation includes music, dance, storytelling, puppetry, and audience participation. Fusing history and literature with contemporary arts, ***21 Days That Change the Year*** offers a multi-cultural event providing children and their families with the richness of Iranian arts and culture.
