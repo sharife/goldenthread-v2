@@ -178,7 +178,7 @@ photos:
     - image: https://ucarecdn.com/e066b4dd-2dbe-4314-87e0-dbd7cc80ae7e/
     - image: https://ucarecdn.com/e3c5080a-0fe0-40e0-b497-d12edcb8eb73/
 photos2:
-  heading: Lobby Installation Passports by Zeina Barakeh
+  heading: "Lobby Art Installation: Passports by Zeina Barakeh"
   items:
     - image: https://ucarecdn.com/de688c0c-f90e-4251-8852-d931f05e2ba7/
 photos3:
