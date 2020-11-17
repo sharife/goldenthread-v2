@@ -6,7 +6,9 @@ date: 2015-02-15T08:26:00.000Z
 start: 2015-03-15T08:26:00.000Z
 end: 2015-03-15T08:26:00.000Z
 heading: Have you prepared your Haft-seen this year?
-description: ""
+description: Celebrate Nowruz, the ancient Iranian rite of spring with Golden
+  Thread Fairytale Players latest offering. A fun-filled and adventurous
+  performance that is sure to both entertain and educate the entire family!
 background: https://ucarecdn.com/3301eac7-0c42-419a-b746-5666212ff7fd/
 titleimage: https://ucarecdn.com/9257ff56-d4ac-4ba0-adaa-d00bcd2fe8ab/-/crop/640x453/0,25/-/preview/
 videos:
