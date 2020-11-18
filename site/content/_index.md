@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: 25 Years of Art, Activism, and Family
 subtitle: The next 25 years begins with you.
-background: https://ucarecdn.com/236dbed6-1d95-4332-bbe4-ff8a6a33fdc5/
+background: https://ucarecdn.com/539ef27b-40f4-4428-a794-d4dc48431e24/
 cta: LEARN MORE
 link: https://goldenthread.org/donate/
 items:
