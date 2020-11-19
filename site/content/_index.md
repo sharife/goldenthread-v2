@@ -1,11 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Season of International Women
-subtitle: Golden Thread extends the multifaceted discourse and unique stories of
-  the evolving agency of Middle East women in 2020.
-background: /img/2020_Website_Front.jpg
-cta: LEARN MORE
-link: https://goldenthread.org/season/
+headline: 25 Years of Art, Activism, and Family
+subtitle: The next 25 years begins with you.
+background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
+cta: DONATE NOW
+link: https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
   - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
     subtitle: "*The Language of Wild Berries* Debuts as a radio play!"
