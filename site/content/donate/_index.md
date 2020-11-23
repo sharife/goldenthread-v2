@@ -15,6 +15,8 @@ sidebar:
 
 # <center>Another 25 years starts with your donation today!</center>
 
+As the world around us changes, Golden Thread’s commitment to bring you stories from and about the Middle East remains constant.
+
 For 25 years we've been:
 
 **<center>Enriching the American Theatre<center>**
