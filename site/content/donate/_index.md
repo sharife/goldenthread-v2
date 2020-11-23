@@ -43,6 +43,8 @@ We continuously innovate and make space for artistic risk taking. Back in 2009 w
 
 Our ground-breaking programs like Golden Thread Fairytale Players and Islam 101 bring timeless tales and historical figures to life with dazzling visuals, dance, and music, providing Middle Eastern youth and families the rare opportunity to celebrate their heritage across generations and communities.
 
+
+
 Your continued support is essential as we adapt to the many challenges ahead. Make your contribution today!
 
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
