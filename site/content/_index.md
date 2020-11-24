@@ -40,5 +40,5 @@ items:
       defy a snappy summation. 
 
 
-      ***Mark your calendar for our next NO SUMMARY conversation Friday, November 6th at 11am PDT!***
+      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT!***
 ---
