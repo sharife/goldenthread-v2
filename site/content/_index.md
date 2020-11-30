@@ -40,5 +40,5 @@ items:
       defy a snappy summation. 
 
 
-      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT!***
+      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT featuring Evren Odcikin and Nora el Samahy discussing how to champion Middle Eastern voices during this time of global transition!***
 ---
