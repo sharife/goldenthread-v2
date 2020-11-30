@@ -32,10 +32,10 @@ At Golden Thread we know that representation matters, especially for youth. Join
 
 [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-golden-threads-fairytale-players) to watch the livestream on November 6th.
 
-
-
 **Friday December 4th, 3PM PDT**
 
 **Featuring Evren Odcikin and Nora el Samahy!**
 
 Join us for a chat with Golden Thread Board President and beloved actor **Nora el Samahy** and longtime resident artist **Evren Odcikin,** now serving as the Associate Artistic Director at Oregon Shakespeare Festival. They will discuss **championing Middle Eastern stories** and voices in mainstream American theater, how artists can be centered in this moment of transition for the field, and art-making during a pandemic! Nora and Evren will also discuss their current collaboration with Mona Mansour, a Golden Thread resident artist and 2020 commissioned playwright who was featured in our second NO SUMMARY episode. Evren will discuss his upcoming production of ***This is Who I Am*** by **Amir Nizar Zuabi**, known to Golden Thread audiences as the playwright of *Oh My Sweet Land* in which Nora performed, staged at home and community kitchens. ***This is Who I Am*** is a play written for Zoom and created with an international group of collaborators during the lockdown, running December 5, 2020-January 3, 2021.
+
+[Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-evren-odcikin-and-nora-el-samahy) to watch the livestream on December 4th.
