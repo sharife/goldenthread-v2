@@ -7,7 +7,10 @@ start: 1998-10-16T01:00:00.000Z
 end: 1998-11-09T01:00:00.000Z
 heading: How Far Will You Go For Love?
 description: >-
-  Adapted from The Doll Behind the Curtain by Sadegh Hedayat
+  Everyone thought the strangest thing Behrooz had ever done was to fall in love
+  with a mannequin. But that was just the beginning! Adapted from *The Doll
+  Behind the Curtain* by Sadegh Hedayat, *Behind Glass Windows* is a shattering
+  love stroy that questions our perception of love and reality.
 
 
   The overpowering presence of self-inflicted exile dominates Hedayat's writing. The protagonist in The Doll Behind the Curtain, much like Hedayat himself feels isolated from his society. The protagonist reacts by creating an alternative reality. The universality of this theme, and its resonance to current times with thousands of Iranians living abroad make the stage adaptation of the play particularly timely.
