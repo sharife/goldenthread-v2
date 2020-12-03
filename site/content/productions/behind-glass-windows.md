@@ -10,10 +10,10 @@ description: >-
   Everyone thought the strangest thing Behrooz had ever done was to fall in love
   with a mannequin. But that was just the beginning! Adapted from *The Doll
   Behind the Curtain* by Sadegh Hedayat, *Behind Glass Windows* is a shattering
-  love stroy that questions our perception of love and reality.
+  love story that questions our perception of love and reality.
 
 
-  The overpowering presence of self-inflicted exile dominates Hedayat's writing. The protagonist in The Doll Behind the Curtain, much like Hedayat himself feels isolated from his society. The protagonist reacts by creating an alternative reality. The universality of this theme, and its resonance to current times with thousands of Iranians living abroad make the stage adaptation of the play particularly timely.
+  The overpowering presence of self-inflicted exile dominates Hedayat's writing. The protagonist in *The Doll Behind the Curtain*, much like Hedayat himself feels isolated from his society. The protagonist reacts by creating an alternative reality. This contemporary stage adaptation, focuses on the illusory nature of love and relationships from the perspective of second generation Iranians growing up with dual traditions. Divided between the culture of their society and that of their home, they yearn for the comfort of the familiar while seeking the excitement of the new. Within this context, the play explores the tru meaning of love, freedom, and independence.
 background: https://ucarecdn.com/a896ccc1-7cb3-4125-8ad6-f6a8a02ae866/
 titleimage: https://ucarecdn.com/4dadb661-7048-4e34-be01-7e21bbeabd78/
 writer: Torange Yeghiazarian
