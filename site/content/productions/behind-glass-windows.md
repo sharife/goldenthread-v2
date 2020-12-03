@@ -27,6 +27,37 @@ stage: Adeline St. Theatre
 address: 3201 Adeline St. Berkeley, CA 94703
 cast:
   heading: Cast & Crew
+  items:
+    - name: Sadegh Hedayat
+      image: https://ucarecdn.com/cf7bcb04-78e7-4a13-a5a2-05d1ee535a4b/
+      bio: "Born to an aristocratic family in 1903 in Iran, Hedayat was among those
+        distinguished students sent to Europe by Reza Shah to earn an education
+        with the expectation that they would facilitate the nation's progress
+        towards modernization. Upon his return, Hedayat refused to pursue his
+        study of the sciences and began to study literature. His first
+        collection of short stories, *Zendeh be-gur* was published in Tehran in
+        1930. Soon there after Hedayat co-instituted the Rab'a (The Foursome) a
+        group consisting of young returnees whose progressive ideas antagonized
+        both the literati and the government. The group met in a cafe called
+        Zhaleh and discussed affairs of government, the future of Iran and the
+        role of Islam in it. *Sayeh Roshan*, the collection of short stories
+        that includes *The Doll Behind the Curtain,*  was published in 1933 and
+        is focused on issues surrounding modernization. In 1936 Reza Shah
+        outlawed the Rab'a and incarcerated some of its members. Hedayat left
+        for India where his thoughts on his masterpiece *The Blind Owl*
+        crystallized.  After his return to Iran, Hedayat published another
+        collection of short stories, *The Stray Dog*. While alienation is the
+        predominant theme in this collection, a number of stories are concerned
+        with issues of political consciousness and sharply criticize the Iran of
+        early 1940s. In 1947, Hedayat wrote *The Pearl Cannon*, where he
+        criticizes the meddling of superpowers in the affairs of smaller nations
+        like Iran, at the same time condemning the Iranian government for
+        allowing its people to suffer. Hedayat's last published work, *The
+        Message of Kafka*, bespeaks melancholy and desperation. Crystallized in
+        his work is an overwhelming sense of oppression, lack of trust and
+        denial of freedom of choice. Hedayat committed suicide in 1951, in
+        Paris. - *Hedayat, S.* The Pearl Cannon*, edited by Iraj Bashiri,
+        Lexington, KY: Mazda Publishers, 1986.*"
 photos:
   heading: Production Photos
   items:
