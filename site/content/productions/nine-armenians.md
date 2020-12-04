@@ -59,6 +59,16 @@ photos:
   items:
     - image: https://ucarecdn.com/6da523d4-71a2-4e68-908c-ecb903adfaac/
     - image: https://ucarecdn.com/7c16b41b-5e3a-49ca-9723-0e017a26ab74/
+    - image: https://ucarecdn.com/ca68a3e9-4dc3-439c-9a32-694ad5beadf3/
+photos2:
+  heading: Tech Weekend
+  items:
+    - image: https://ucarecdn.com/b71078df-a813-4178-a098-03960d608fd7/
+    - image: https://ucarecdn.com/fcf62e8a-9950-4d5e-ba78-a7e66b4669bf/
+    - image: https://ucarecdn.com/ce194e5a-c4ab-4e32-82ee-765be834b6be/
+    - image: https://ucarecdn.com/246f0dc4-ed75-41ad-9514-aa9268eecdd1/
+    - image: https://ucarecdn.com/8a05ede5-456b-4a0f-bd2d-f10b7edf229f/
+    - image: https://ucarecdn.com/477a0a6b-e80e-48af-95cd-af0029f1b66c/
 bottom:
   text: California Arts Council, Gerbode Foundation, Zellerbach Family Foundation
 ---
