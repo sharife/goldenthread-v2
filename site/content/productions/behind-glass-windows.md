@@ -16,6 +16,7 @@ description: >-
   The overpowering presence of self-inflicted exile dominates Hedayat's writing. The protagonist in *The Doll Behind the Curtain*, much like Hedayat himself feels isolated from his society. The protagonist reacts by creating an alternative reality. This contemporary stage adaptation, focuses on the illusory nature of love and relationships from the perspective of second generation Iranians growing up with dual traditions. Divided between the culture of their society and that of their home, they yearn for the comfort of the familiar while seeking the excitement of the new. Within this context, the play explores the tru meaning of love, freedom, and independence.
 background: https://ucarecdn.com/a896ccc1-7cb3-4125-8ad6-f6a8a02ae866/
 titleimage: https://ucarecdn.com/4dadb661-7048-4e34-be01-7e21bbeabd78/
+program: https://ucarecdn.com/1c88544c-8d50-47b9-a759-73e1f4a9daab/
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 featuring: (in order of appearance) Dan Sherman, Linda Ayers, Kiran Patel, Colin
@@ -56,8 +57,8 @@ cast:
         Message of Kafka*, bespeaks melancholy and desperation. Crystallized in
         his work is an overwhelming sense of oppression, lack of trust and
         denial of freedom of choice. Hedayat committed suicide in 1951, in
-        Paris. - *Hedayat, S.* The Pearl Cannon*, edited by Iraj Bashiri,
-        Lexington, KY: Mazda Publishers, 1986.*"
+        Paris. - \"Hedayat, S. *The Pearl Cannon*, edited by Iraj Bashiri,
+        Lexington, KY: Mazda Publishers, 1986.\""
 photos:
   heading: Production Photos
   items:
