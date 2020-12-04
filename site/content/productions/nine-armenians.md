@@ -12,8 +12,8 @@ description: "*Nine Armenians* is the story of three generations of
   this award-winning play, Leslie Ayvazian has beautifully depicted the reality
   of facing a horrific past without shame or fear. The Armenian Genocide is a
   particularly sensitive subject, as the Turkish government has never
-  acknowledged it.The playwright takes a risk by shedding light on the painful
-  recollections of the past.But isn’t this validation the only way to reach
+  acknowledged it. The playwright takes a risk by shedding light on the painful
+  recollections of the past. But isn’t this validation the only way to reach
   understanding and restore faith in the future?"
 background: https://ucarecdn.com/bb4fecbe-4802-4e52-95b5-0a800fc06b13/-/crop/400x196/0,0/-/preview/
 titleimage: https://ucarecdn.com/3f50e4a4-357c-4886-aed9-b78987869901/
