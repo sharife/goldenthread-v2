@@ -68,6 +68,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Eyebrow", name: "pre", widget: "string", required: false}
               - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
               - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Start Date", name: "itemstart", widget: "datetime", required: false}
+              - {label: "End Date", name: "itemend", widget: "datetime", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
               - {label: "Call to action", name: "cta", widget: "string", required: false}
               - {label: "Link", name: "link", widget: "string", required: false}
@@ -84,6 +86,8 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Eyebrow", name: "pre", widget: "string", required: false}
               - {label: "Subtitle", name: "subtitle", widget: "markdown", required: false}
               - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Start Date", name: "itemstart", widget: "datetime", required: false}
+              - {label: "End Date", name: "itemend", widget: "datetime", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
               - {label: "Call to action", name: "cta", widget: "string", required: false}
               - {label: "Link", name: "link", widget: "string", required: false}
