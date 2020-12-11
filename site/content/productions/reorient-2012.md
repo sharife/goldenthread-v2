@@ -386,6 +386,19 @@ photos:
     - image: https://ucarecdn.com/27e38ff7-761a-48a4-9aa0-2c43e45f7c7b/
     - image: https://ucarecdn.com/8c2d1e39-f898-417f-a954-92b58d439984/
     - image: https://ucarecdn.com/c2628bca-f79e-49ab-b5eb-7f2c33851be2/
+photos2:
+  heading: ReOrient Forum
+  items:
+    - image: https://ucarecdn.com/d9872091-e843-4662-af21-cc666c49d49c/
+    - image: https://ucarecdn.com/8aa9523e-6615-44a4-b553-e9c8c4a15611/
+    - image: https://ucarecdn.com/b2251b90-9d8c-4f5b-9fb5-0a64a17ade01/
+    - image: https://ucarecdn.com/965e6213-455d-4986-b3ab-f1c93d3486db/
+    - image: https://ucarecdn.com/61458102-01e9-431e-a634-de7e90b1be24/
+    - image: https://ucarecdn.com/e529cc1e-cc49-45ce-84ef-fc4815df3e74/
+photos3:
+  heading: Young Playwright Award
+  items:
+    - image: https://ucarecdn.com/550205fa-ceb3-4ff3-9746-9d8bd8a53659/
 archivevideo: XRPms5T0dJE
 bottom:
   logos:
