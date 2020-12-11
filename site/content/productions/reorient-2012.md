@@ -15,6 +15,10 @@ description: Building on the success of our tenth anniversary festival in 2009,
 background: https://ucarecdn.com/915c1b3f-12ee-48d8-b4de-28b4073378ad/
 titleimage: https://ucarecdn.com/74818699-9f5b-40ed-9122-85f0402893f2/
 program: https://ucarecdn.com/97eec99c-4fe5-425e-b41c-26e4d5fa4874/
+videos:
+  - id: PGEJXcR5FYY
+  - id: H0_Al_jsIeE
+  - id: XExLua6YCHI
 writer: Amir Al-Azraki, E. H. Benedict, Yussef El Guindi, Tawfiq Al-Hakim, Tala
   Jamal Manassah, Mona Mansour, Silva Semerciyan, Jen Silverman, Naomi Wallace
 director: Desdemona Chiang, Hafiz Karmali, Evren Odcikin, Sara Razavi, Torange
