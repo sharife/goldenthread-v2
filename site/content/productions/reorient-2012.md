@@ -1,17 +1,28 @@
 ---
 title: ReOrient 2012
-pre: Festival of Short Plays Exploring the Middle East
+pre: Theatre Festival and Forum Exploring the Middle East
 season: 2012
 date: 2012-10-01T10:02:00.000Z
 start: 2012-11-01T10:02:00.000Z
 end: 2012-11-18T10:02:00.000Z
+heading: '"A crucial space for public consideration and dialogue." - SF Bay Guardian'
 description: Building on the success of our tenth anniversary festival in 2009,
   ReOrient 2012 will turn San Francisco into a Mecca for innovative, spirited,
-  and thought-provoking theatre from and about the Middle East.
-titleimage: https://ucarecdn.com/8642c1bf-820d-4f92-a679-7117f2a54479/
-writer: Amir Al-Azraki, E. H. Benedict, Yussef El Guindi, Tala Jamal Manassah,
-  Mona Mansour, Silva Semerciyan, Jen Silverman, Naomi Wallace
-director: Hafiz Karmali, Evren Odcikin, Sara Razavi
+  and thought-provoking theatre from and about the Middle East. With short plays
+  fromIraq, Iran, Egypt, England, and the U.S. the latest ReOrient promises to
+  be a one-of-a kind exploration of this unique region and its theatre, stories,
+  and artists.
+background: https://ucarecdn.com/915c1b3f-12ee-48d8-b4de-28b4073378ad/
+titleimage: https://ucarecdn.com/74818699-9f5b-40ed-9122-85f0402893f2/
+program: https://ucarecdn.com/97eec99c-4fe5-425e-b41c-26e4d5fa4874/
+writer: Amir Al-Azraki, E. H. Benedict, Yussef El Guindi, Tawfiq Al-Hakim, Tala
+  Jamal Manassah, Mona Mansour, Silva Semerciyan, Jen Silverman, Naomi Wallace
+director: Desdemona Chiang, Hafiz Karmali, Evren Odcikin, Sara Razavi, Torange
+  Yeghiazarian, Christine Young
+featuring: Munaf Alsafi, Shoresh Alaudini, Cory Censoprano, Nora El Samahy*,
+  Lena Hart*, Jesse Horne, Garth Petal*, Roneet Rahamim
+designteam: Alejandro Acosta (lighting), Wesley Cabral (video), Michelle
+  Mulholland (costumes), Tanya Orellana (scenic), Alex Peri (props)
 stage: NOH Space and Z Space
 address: 2840 Mariposa St., San Francisco, CA 94110 \\ 450 Florida St., San
   Francisco, CA 94110
@@ -26,6 +37,8 @@ lists:
           seminar in a political science department busy for weeks.
         image: https://ucarecdn.com/b1839764-8309-41ea-8065-32006727ea41/
         title: War and Peace
+        itemstart: 2020-12-11T18:33:00.272Z
+        itemend: 2020-12-11T18:33:00.471Z
       - subtitle: by Yussef el Guindi, directed by Evren Odcikin
         pre: World Premiere
         text: >-
@@ -38,6 +51,8 @@ lists:
           **Yussef El-Guindi**’s most recent productions include *The Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New World*(winner of the Steinberg/American Theater Critics Association’s New Play Award in 2012; Gregory Award in 2011) also at ACT, and at Center Repertory Company (Walnut Creek, CA) 2013; and*Language Rooms*(Edgerton Foundation New American Play Award), co-produced by Golden Thread Productions and the Asian American Theater Company in San Francisco; at the Wilma Theater in Philadelphia (premiere), and at the Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love and Combat* was produced by Silk Road Theater Project and won the M. Elizabeth Osborn award. It’s included in the anthology Four Arab American Plays, published by McFarland Books. His plays *Back of the Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s City Pilgrims Musa and Sheri in the New Word* was published in the September, 2012 issue of American Theatre Magazine, and will soon be published by Dramatists Play Service, along with his play, *Jihad Jones and The Kalashnikov Babes*.
         image: https://ucarecdn.com/5d3d37b9-d442-47f9-85f0-19d975456264/
         title: The Birds Flew In
+        itemstart: 2020-12-11T18:33:00.661Z
+        itemend: 2020-12-11T18:33:00.842Z
       - subtitle: by Mona Mansour and Tala Manassah, directed by Sara Razavi
         image: https://ucarecdn.com/9054f998-32a3-4436-a22d-fed596dc9c0c/
         text: >-
@@ -54,6 +69,8 @@ lists:
           **Tala Jamal Manassah** is the deputy executive director of the Morningside Center for Teaching Social Responsibility. From 2004–2009, Manassah served as the founding executive director of the Middle East Children’s Institute. Manassah earned her A.B. with honors in philosophy and A.M. in the humanities at the University of Chicago. Plays include The House, which was commissioned by Noor Theater and the American Institute for Architecture and read as part of their Building A New series, and After, which will be produced at CUNY next spring, both cowritten with Mona Mansour.
         pre: World Premiere
         title: The Letter
+        itemstart: 2020-12-11T18:33:01.004Z
+        itemend: 2020-12-11T18:33:01.153Z
       - pre: World Premiere
         subtitle: by Silva Semerciyan, directed by Desdemona Chiang
         text: >-
@@ -66,6 +83,8 @@ lists:
           **Silva Semerciyan** was born in Michigan and moved to the UK in 1999.  Her plays include Another Man’s Son (winner of the 2010 William Saroyan Award for Playwriting and currently in development at the UK’s National Theatre Studio), Gather Ye Rosebuds (winner of the 2012 Sandpit Arts Bulbul Competition), I and the Village (shortlisted for the Bruntwood Prize for Playwriting) and Death Row Gourmet (shortlisted for the Seven Devils Conference in Idaho).  This summer, her short play, Juke, was produced by Eyebrow Productions as part of Collision for Latitude Festival and Bestival. She is a member of the Conspirators Theatre Project and is currently part of the Studio Writers’ Group at the Royal Court Theatre.  She holds a Masters in playwriting from the University of Birmingham.
         image: https://ucarecdn.com/e77f99f9-7300-4da0-9e2b-972c1070b6db/
         title: Stalemate
+        itemstart: 2020-12-11T18:33:01.285Z
+        itemend: 2020-12-11T18:33:01.424Z
       - pre: World Premiere
         subtitle: by Jen Silverman, directed by Christine Young
         text: >-
@@ -78,12 +97,16 @@ lists:
           **Jen Silverman** studied at Brown University and the Iowa Playwrights Workshop. Crane Story premiered off-Broadway in 2011 with The Playwrights Realm, and Akarui premiered at Cleveland Public Theatre in 2012. She is an affiliated artist with New Georges, a member of Youngblood at Ensemble Studio Theatre and Groundbreakers at terraNova (NYC), and has developed work with the Lark, NY Stage & Film, the Bay Area Playwrights Festival, The Brick (Brooklyn), Leviathan Lab (NYC), and the Seven Devils Playwrights Conference. She has been commissioned by InterAct Theatre for The Dangerous House of Pretty Mbane, the Gallatin School/NYU for Bones at the Gate: An Antigone, and Red Fern Theatre Co for Lex Before Marriage. She held residencies at Hedgebrook, New Harmony, MacDowell, the Millay Colony, and Djerassi (upcoming). In 2011 she was a US Delegate for a China/America Writers Exchange in Beijing. Her play Still won the 2012 Jane Chambers Award.
         image: https://ucarecdn.com/5b3f6130-0f86-43bf-a984-ed039b89b59c/
         title: In the Days That Follow
+        itemstart: 2020-12-11T18:33:01.584Z
+        itemend: 2020-12-11T18:33:01.869Z
       - pre: World Premiere
         subtitle: by Farzam Farrokhi, directed by Sara Razavi
         text: Three strangers on cell phones walk into a café. It might sound like a
           joke, but this could be the end of the world.
         image: https://ucarecdn.com/8dc36e63-34d3-422d-bbdd-d551269cfbfa/
         title: "2012"
+        itemstart: 2020-12-11T18:33:02.019Z
+        itemend: 2020-12-11T18:33:02.161Z
       - pre: U.S. Premiere
         subtitle: by Naomi Wallace, directed by Desdemona Chiang
         text: >-
@@ -97,6 +120,8 @@ lists:
           **Naomi Wallace** was born in Kentucky. Her plays include One Flea Spare, In the Heart of America, Slaughter City, The Trestle at Pope Lick Creek, Things of Dry Hours, The Fever Chart: Three Visions of the Middle East and The Hard Weather Boating Party. Her work has received the Susan Smith Blackburn Prize, the Kesselring Prize, the Fellowship of Southern Writers Drama Award, and an Obie. She is also a recipient of the MacArthur “Genius” Fellowship.  Wallace is the 2012 winner of the Horton Foote Prize for most promising new American play, The Liquid Plain.
         image: https://ucarecdn.com/f9f711e1-9797-4453-afa7-b84a11b6600b/
         title: City of Grubs
+        itemstart: 2020-12-11T18:33:02.327Z
+        itemend: 2020-12-11T18:33:02.446Z
       - pre: World Premiere
         subtitle: by E.H. Benedict, directed by Evren Odcikin
         text: >-
@@ -110,6 +135,8 @@ lists:
           **E. H. Benedict** is an actor, novelist, and most recently, playwright, is delighted to be working with Golden Thread. She is a founding member of Actors & Writers, a reader’s theatre near Woodstock, New York, where many of her short plays and screenplays are read. In 2005 her play Jesus in Las Vegas was included in the Bash! Event at the Bay Area Playwrights Festival. In 2006 Jesus in Las Vegas was included in the Z/Magic Monday series at Magic Theatre. That same year, Orhan was included as a staged reading in the 2006 ReOrient Festival for the first time. Another play, American Royals, was selected as a semifinalist for the 2008 O’Neill Conference, the Utah Shakespearean Festival’s New American Playwrights Project, and Pacific Rep’s Hyperion New Plays Competition. In 2009 American Royals received a round-table read at the Lark Play Development Center in New York City.
         image: https://ucarecdn.com/ac692361-7b1a-45dc-96a8-9bbc523588af/
         title: Orhan
+        itemstart: 2020-12-11T18:33:02.571Z
+        itemend: 2020-12-11T18:33:02.709Z
       - pre: World Premiere
         subtitle: by Amir al-Azraki, directed by Torange Yeghiazarian
         text: >-
@@ -122,6 +149,8 @@ lists:
           **Amir Al-Azraki** is a lecturer of English drama at the University of Basra. He received his BA in English from the University of Basra, his MA in English literature from Baghdad University, and his PhD in Theatre Studies from York University in Toronto, Canada. In the last four years Al-Azraki has been working on his dissertation “The Representation of Political Violence in Contemporary English and Arabic Plays About Iraq”, and continued to develop a collaboration between the University of Basra and the Central School of Speech and Drama in the University of London on “Transforming the Learning Environment Through Forum Theatre: Developing a Basra University Model.” Al-Azraki is also a performer and playwright and he has presented papers at F.O.O.T., Performing Back: A Conference on Post-Colonial Theatre, and at TCG National Conference. Among his plays are Waiting for Gilgamesh: Scenes from Iraq, Stuck, Notorious Women, Lysistrata in Iraq, and Judgment Day
         image: https://ucarecdn.com/2cd5fcd2-bfb7-4763-9bd6-71e4478502fd/
         title: Stuck
+        itemstart: 2020-12-11T18:33:02.845Z
+        itemend: 2020-12-11T18:33:02.982Z
       - pre: World Premiere
         subtitle: by Reza Soroor, translated and directed by Torange Yeghiazarian
         text: A novice secret agent is eager to prove himself when he is assigned to spy
@@ -130,6 +159,8 @@ lists:
           onto his skin against all odds?
         image: ""
         title: The Voice Room
+        itemstart: 2020-12-11T18:33:03.112Z
+        itemend: 2020-12-11T18:33:03.244Z
     heading: ReOrient 2012 Line-up
 grids:
   - items:
@@ -138,23 +169,33 @@ grids:
         image: https://ucarecdn.com/58bcfe78-7437-4e9f-9868-7f5c467fb6fd/
         cta: Read More
         link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
+        itemstart: 2020-12-11T18:33:03.373Z
+        itemend: 2020-12-11T18:33:03.483Z
       - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
         cta: Read More
         link: http://www.thearabreview.org/re-orienting-the-story/
         image: https://ucarecdn.com/9aeb9f7a-0bc0-4986-99b5-01f8ee8f2b78/
+        itemstart: 2020-12-11T18:33:03.609Z
+        itemend: 2020-12-11T18:33:03.720Z
       - text: "**KQED** Feature"
         cta: Read More
         image: https://ucarecdn.com/7daa17c9-021c-4c6b-88bc-d2104f421e7f/
+        itemstart: 2020-12-11T18:33:03.831Z
+        itemend: 2020-12-11T18:33:03.943Z
       - text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
         image: https://ucarecdn.com/f0ca33e4-15bd-41df-a852-e692fefb0e21/
         link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
         cta: Listen Here
+        itemstart: 2020-12-11T18:33:04.056Z
+        itemend: 2020-12-11T18:33:04.170Z
       - text: "Part II: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
         image: https://ucarecdn.com/9e0ca81a-ed8c-4920-a85a-b8e1b1e9c96a/
         cta: Listen Here
         link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
+        itemstart: 2020-12-11T18:33:04.286Z
+        itemend: 2020-12-11T18:33:04.403Z
     heading: ReOrient 2012 In The Press
 cast:
   heading: Cast & Crew
@@ -343,5 +384,6 @@ bottom:
     - image: https://ucarecdn.com/48915440-7e05-4555-a06b-8d41277f3f33/
     - image: https://ucarecdn.com/2af29af0-34c1-44c7-83d9-c75a7b281e2d/
     - image: https://ucarecdn.com/9a281e49-6718-4335-8f47-a0445511a814/
+  text: ""
 ---
-With short plays by playwrights from Iraq, Iran, Egypt, England, and the U.S., the latest ReOrient promises to be a one-of-a-kind exploration of this unique region and its theater, stories, and artists.
+To deepen the conversation around art, society, and politics, ReOrient Forum brings together international artistic, activists, and scholars for two days of intercultural exchange and inquiry. Don't miss this year's keynote speech by Hamid Dabashi, professor of Middle Eastern Studies at Columbia University, plus seven panel discussions and three special events.
