@@ -25,6 +25,9 @@
         {{ if .subtitle }}
         <h4 class="f6 mb2 lh-title">{{.subtitle | markdownify}}</h4>
         {{ end }}
+        {{ if .Params.itemstart }}
+          <p class="f4 b mb3">{{ dateFormat "January 2, 2006" .Params.itemstart }} {{ if .Params.itemend }}- {{ dateFormat "January 2, 2006" .Params.itemend }}{{ end }}</p>
+        {{ end }}
         {{ if .text }}
         <p class="cms">{{.text | markdownify }}</p>
         {{ end }}
