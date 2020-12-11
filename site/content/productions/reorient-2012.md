@@ -373,11 +373,8 @@ cast:
       credit: Playwright
       image: https://ucarecdn.com/78033a94-cf92-4711-b90c-4caf710ad67e/
 photos:
-  items:
-    - image: https://ucarecdn.com/f1ee5714-b7b2-475c-86b3-ebfddff37918/
-    - image: https://ucarecdn.com/680b8caa-f60b-4909-8f3f-5cd90032da62/
-    - image: https://ucarecdn.com/43d6fac3-a0ba-4608-9920-8a68cad3a8c1/
-    - image: https://ucarecdn.com/936ed22d-97b4-4942-bc0f-0e13f15f02ec/
+  items: []
+archivevideo: XRPms5T0dJE
 bottom:
   logos:
     - image: https://ucarecdn.com/b531bd89-0f1d-4d45-be36-273f98f91f18/
