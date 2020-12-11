@@ -27,6 +27,8 @@ lists:
 
           featuring **Amin El Gamal***, **Mostafa Elmorsy**, **Islam Meligi**, and **Mohamed Rashad**; stage management by **Benjamin Shiu**
         pre: “What binds us is stronger than sex. It is stronger than love.”
+        itemstart: 2018-06-06T02:00:00.000Z
+        itemend: 2020-12-11T21:03:54.416Z
       - title: FOG
         text: >-
           Tuesday, June 12, 2018 at 7pm
@@ -40,6 +42,8 @@ lists:
           by **Edessa Tailo** \
           directed by **Pirronne Yousefzadeh**
         pre: “Painting is a job! No, I’m not getting paid.”
+        itemstart: 2020-12-11T21:03:54.519Z
+        itemend: 2020-12-11T21:03:54.595Z
       - subtitle: |-
           by **Melis Aker**\
           directed by **Evren Odcikin**
@@ -54,6 +58,8 @@ lists:
           featuring **Rotimi Agbabiaka***, **Atosa Babaoff***, **Aysan Celik***, **Garth Petal***, **Salim Razawi**, and **Vaho**; stage management by **Kenan Arun**
         pre: “Have you seen my Mama? Big ol’ she-wolf. You’d know a she-wolf if you saw
           one, believe you me. Your leader, she was.”
+        itemstart: 2020-12-11T21:03:54.687Z
+        itemend: 2020-12-11T21:03:54.786Z
       - subtitle: >-
           by **Matéi Vişniec**\
 
@@ -76,6 +82,8 @@ lists:
 
 
           featuring **Safinah Chau**, **Alborz Ghandehari**, **Douglas B. Giorgis***, **Zaya Kolia**, **Carolina Morones**, **Matin Nasiriha**, **Lawrence Radecker***, **Mohamed Rashad**, **Marjan Safa**, **Kenny Scott**, **Damien Seperi***, **Ayla Yarkut***, and **Bella Warda**; stage management by **Benjamin Shiu**
+        itemstart: 2020-12-11T21:03:54.876Z
+        itemend: 2020-12-11T21:03:54.950Z
 cast:
   heading: Cast & Crew
 ---
