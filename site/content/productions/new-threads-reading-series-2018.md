@@ -28,7 +28,7 @@ lists:
           featuring **Amin El Gamal***, **Mostafa Elmorsy**, **Islam Meligi**, and **Mohamed Rashad**; stage management by **Benjamin Shiu**
         pre: “What binds us is stronger than sex. It is stronger than love.”
         itemstart: 2018-06-06T02:00:00.000Z
-        itemend: 2020-12-11T21:03:54.416Z
+        itemend: ""
       - title: FOG
         text: >-
           Tuesday, June 12, 2018 at 7pm
