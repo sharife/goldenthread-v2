@@ -33,12 +33,13 @@ items:
     cta: Read More Now
     link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
     text: >-
-      Join us for our new series of curated livestream conversations with
-      artists of Middle Eastern and North African heritage to discuss the many
-      layers of their identity and how it impacts their work and artistic
-      choices. Immerse yourself in these compelling topics and histories that
-      defy a snappy summation. 
+      Join us for our next episode featuring longtime resident artists Evren
+      Odcikin and Nora el Samahy! They will discuss **championing Middle Eastern
+      stories** **and voices in mainstream American theater**, how artists can
+      be centered in this moment of transition for the field, and art-making
+      during a pandemic! Immerse yourself in these compelling topics and
+      histories that defy a snappy summation. 
 
 
-      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT featuring Evren Odcikin and Nora el Samahy discussing how to champion Middle Eastern voices during this time of global transition!***
+      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT!***
 ---
