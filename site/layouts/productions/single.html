@@ -149,10 +149,21 @@
 
       {{ if .Params.archivevideo }}
           <div class="mb3">
-            <p class="b mb1">Watch a short video clip from the production:</p>
+            <p class="b mb1">Watch video from the production:</p>
             {{ partial "youtube" (dict "id" .Params.archivevideo) }}
+
+            {{ if .Params.archivevideo2 }}
+              <br /><br />
+              {{ partial "youtube" (dict "id" .Params.archivevideo2) }}
+            {{ end }}
+
+            {{ if .Params.archivevideo3 }}
+              <br /><br />
+              {{ partial "youtube" (dict "id" .Params.archivevideo3) }}
+            {{ end }}
           </div>
       {{ end }}
+
 
 
       {{ if .Params.bottom }} {{ partial "bottom" (.Params.bottom) }} {{ end }}
