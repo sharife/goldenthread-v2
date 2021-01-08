@@ -189,7 +189,7 @@ grids:
       - text: "Part I: Interview with Torange Yeghiazarian and Munaf Alsafi on
           **KPFK’s** *Letters and Politics*"
         image: https://ucarecdn.com/f0ca33e4-15bd-41df-a852-e692fefb0e21/
-        link: https://web.archive.org/web/20151016125311/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part1_.mp3
+        link: /img/archive/2012/11/letters.and_.politics.interview.part1_.mp3
         cta: Listen Here
         itemstart: 2020-12-11T18:33:04.056Z
         itemend: 2020-12-11T18:33:04.170Z
@@ -197,7 +197,7 @@ grids:
           **KPFK’s** *Letters and Politics*"
         image: https://ucarecdn.com/9e0ca81a-ed8c-4920-a85a-b8e1b1e9c96a/
         cta: Listen Here
-        link: https://web.archive.org/web/20151009053736/http://www.goldenthread.org/wp-content/uploads/2012/11/letters.and_.politics.interview.part2_.mp3
+        link: /img/archive/2012/11/letters.and_.politics.interview.part2_.mp3
         itemstart: 2020-12-11T18:33:04.286Z
         itemend: 2020-12-11T18:33:04.403Z
     heading: ReOrient 2012 In The Press
