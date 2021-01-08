@@ -172,7 +172,7 @@ grids:
         text: What ***American Theatre*** has to say about ReOrient.
         image: https://ucarecdn.com/58bcfe78-7437-4e9f-9868-7f5c467fb6fd/
         cta: Read More
-        link: https://web.archive.org/web/20121115113501/http://www.goldenthread.org/wp-content/uploads/2012/09/ReOrientArticle_ATM_Mar2010.pdf
+        link: https://goldenthread.org/img/archive/2012/09/ReOrientArticle_ATM_Mar2010.pdf
         itemstart: 2020-12-11T18:33:03.373Z
         itemend: 2020-12-11T18:33:03.483Z
       - text: "*Re-Orienting the Story* by Haleh Hatami on the ***Arab Review.***"
