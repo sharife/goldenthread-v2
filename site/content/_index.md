@@ -41,5 +41,5 @@ items:
       histories that defy a snappy summation. 
 
 
-      ***Mark your calendar for our next NO SUMMARY conversation Friday, December 4th at 3pm PDT!***
+      ***Watch ALL of our archived episodes HERE!***
 ---
