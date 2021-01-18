@@ -68,6 +68,8 @@ lists:
 
 
           **For hotel discounts during the convening, click** [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
+        itemstart: 2021-01-18T01:50:22.591Z
+        itemend: 2021-01-18T01:50:22.694Z
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
@@ -89,6 +91,8 @@ lists:
           Artist at Golden Thread Productions.
         title: |
           Brass Knuckles
+        itemstart: 2021-01-18T01:50:22.767Z
+        itemend: 2021-01-18T01:50:22.845Z
       - image: /img/archive/2017/11/Heywood-Rendah-300x300.jpg
         subtitle: by Rendah Heywood, directed by Lisa Marie Rollins
         text: >
@@ -108,6 +112,8 @@ lists:
           Short Plays in New York City.
         title: |
           The Grievance Club
+        itemstart: 2021-01-18T01:50:22.918Z
+        itemend: 2021-01-18T01:50:23.006Z
       - image: /img/archive/2017/11/Issaq-Lameece-300x300.jpg
         subtitle: by Lameece Issaq, directed by Rebecca Novick
         text: >
@@ -130,6 +136,8 @@ lists:
           Finalist in Playwriting/Screenwriting.
         title: |
           Noor and Hadi Go to Hogwarts
+        itemstart: 2021-01-18T01:50:23.095Z
+        itemend: 2021-01-18T01:50:23.211Z
       - image: /img/archive/2017/11/Kaymak-Mustafa-300x300.jpg
         subtitle: by Mustafa Kaymak, directed by Michael French
         text: >
@@ -149,6 +157,8 @@ lists:
           Foundation Award and an Annenberg Foundation Award.
         title: |
           The Basement
+        itemstart: 2021-01-18T01:50:23.358Z
+        itemend: 2021-01-18T01:50:23.494Z
       - image: /img/archive/2017/06/Headshot_BettyShamieh_300x300.jpg
         subtitle: by Betty Shamieh, directed by Michael French
         text: >
@@ -172,6 +182,8 @@ lists:
           School of Drama. [bettyshamieh.com](bettyshamieh.com)
         title: |
           An Echo of Laughter
+        itemstart: 2021-01-18T01:50:23.702Z
+        itemend: 2021-01-18T01:50:23.833Z
       - image: /img/archive/2017/11/Sharei-Niku-300x300.jpg
         subtitle: by Niku Sharei, directed by Lisa Marie Rollins
         text: >
@@ -191,6 +203,8 @@ lists:
           is pursuing her MSc in Sociology at The University of Manchester.
         title: |
           In Spenglic
+        itemstart: 2021-01-18T01:50:23.973Z
+        itemend: 2021-01-18T01:50:24.109Z
       - image: /img/archive/2017/11/Wallace-Naomi-300x300.jpg
         subtitle: by Naomi Wallace, directed by Rebecca Novick
         text: >
@@ -209,6 +223,8 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
+        itemstart: 2021-01-18T01:50:24.213Z
+        itemend: 2021-01-18T01:50:24.316Z
 grids:
   - heading: Dramaturgs Dive Deep in ReOrient 2019
     items:
@@ -219,12 +235,16 @@ grids:
         text: This year's festival cements Golden Thread Productions’ longtime working
           relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
         title: A Homecoming for Golden Thread Alumni
+        itemstart: 2021-01-18T01:50:24.552Z
+        itemend: 2021-01-18T01:50:24.623Z
       - cta: Read more
         image: https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/
         link: https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/
         text: Meet four writers who are brand-new to the festival, all clearly at home
           in ReOrient, celebrating its 20th anniversary this year.
         title: Brave New Voices in ReOrient 2019
+        itemstart: 2021-01-18T01:50:24.691Z
+        itemend: 2021-01-18T01:50:24.775Z
       - cta: Read more
         image: https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
         link: https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
@@ -232,6 +252,8 @@ grids:
         text: The twentieth anniversary of the ReOrient Festival of Short Plays began
           with an incubation weekend that Golden Thread calls “ReOrient Camp.”
         title: Weaving the Golden Thread at ReOrient 2019 Camp
+        itemstart: 2021-01-18T01:50:24.885Z
+        itemend: 2021-01-18T01:50:24.971Z
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
