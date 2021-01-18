@@ -9,8 +9,79 @@ description: Don’t miss this one-of-a-kind annual festival that turns San
   Francisco into a Mecca for innovative and thought-provoking theatre. Now in
   its 8th year, the ReOrient Festival will once again present the best writing
   from or about the Middle East.
+writer: "Simin Behbehani, Yussef El Guindi, Laura Shamas, Naomi F. Wallace,
+  Ignacio Zulueta, "
+director: Arlene Hood, Mark Ruthier, Amy Mueller, Evren Odcikin, Torange Yeghiazarian
 stage: Magic Theatre, Building D
 address: Fort Mason Center, San Francisco
+lists:
+  - items:
+      - itemstart: 2007-01-11T01:59:00.000Z
+        itemend: 2007-02-04T01:59:00.000Z
+        title: The Monologist Suffers for Her Monologue
+        subtitle: by Egyptian-born playwright Yussef El Guindi, directed by Arlene Hood
+        image: https://ucarecdn.com/7d7d707c-27bc-41ea-a602-e2580e64eb24/
+        text: >-
+          A Palestinian-American explores her identity in this poignant and
+          comedic monologue. In the dialogue of nations, do you ever get the
+          feeling that Palestine is just a whiny monologue?
+
+
+          **Yussef El Guindi**'s (Playwright) production *Back of The Throat* was the winner of the 2004 Northwest Playwright’s Competition. It won LA Weekly’s award for Best New Play. It was also nominated for the 2006 American Theater Critics Association’s Steinberg/New Play Award, and was voted Best New Play of 2005 by the Seattle Times. It was first staged by San Francisco ’s Thick Description and Golden Thread Productions; then later presented in various theaters around the country. Another play of his, *Ten Acrobats in An Amazing Leap of Faith*,  staged by Silk Road Theatre Project,  recently won  the ‘After Dark Award’ for best new play in Chicago .  *Back of the Throat*, and two related one-acts, *Such a Beautiful Voice is Sayeda’s*and*Karima’s City*, have been published by Dramatists Play Service.
+      - itemstart: 2021-01-18T02:02:34.099Z
+        itemend: 2021-01-18T02:02:34.242Z
+        title: Pistachio Stories
+        subtitle: by Lebanese-American playwright Laura Shamas, directed by Mark Ruthier
+        text: >-
+          This funny and touching play boils down the issues of government
+          surveillance, censorship and freedom of speech to one simple question:
+          What would you do if you received an unexpected bag of red pistachios
+          from Syria?
+
+
+          **Laura Shamas** (Playwright) is a Lebanese American writer whose plays have been read/developed at many theaters, including Native Earth Performing Arts (October ‘07, Toronto, Canada); “Playwrights Week 2007" at the Lark Theater, New York; Soho Theatre (London, England – ’06 & ‘07); Williamstown Theatre Festival (Guest Artist 2006); Golden Thread Productions (2006) ; The Old Globe (San Diego); The Geva Theater; and The Utah Shakespearean Festival. In November 2007, she was Guest Artist in Residence at the University of Texas A & M/Corpus Christi for a production of her new play Moliere in Love. Her work has been produced by Victory Theater (L.A.), West Coast Ensemble, Philadelphia Theater Company, Walnut Street Theater, Studio Arena, and The Glines (NYC), among others. She has several published plays including *Up to Date, Lady-Like, Picnic at Hanging Rock, Portrait of a Nude, and The Other Shakespeare,* and has been honored with a number of playwriting awards, including a Fringe First Award for Outstanding New Drama (Edinburgh), a Drama-Logue Award, and a 2006-2007 Aurand Harris Fellowship from the Children's Theater Foundation of America. She is thrilled for *Pistachio* *Stories* to be part of ReOrient 2008.
+      - itemstart: 2021-01-18T02:02:34.554Z
+        itemend: 2021-01-18T02:02:34.626Z
+        title: Between This Breath and You
+        subtitle: by Naomi Wallace, MacArthur “Genius” Fellow; directed by Amy Mueller
+        text: >-
+          A Palestinian man refuses to leave a clinic unless he speaks to the
+          Israeli nurse in charge. She soon recognizes a hidden connection
+          between them—a connection much stronger than their cultural divide
+          could ever be. (This play contains some graphic/mature language.)
+
+
+          **Naomi Wallace** (Playwright) is a recipient of the prestigious MacArthur Genius Award. Winner of an Obie Award for best play, Wallace's major plays include Things of Dry Hours, One Flea Spare, The Trestle of Pope Lick Creek, In the Heart of America , Slaughter City , The War Boys, The Inland Sea and Birdy.  Her work  as well as an Obie Award for best play.  Naomi Wallace was born in Kentucky , and presently lives in North Yorkshire, England. Her work has been awarded the Susan Smith Blackburn Prize, the Fellowship of Southern Writers Drama Award, the Kesselring Prize and the Mobil Prize, among others.
+        image: https://ucarecdn.com/39114529-2ac9-4573-b3b6-fded262fd35b/
+      - itemstart: 2021-01-18T02:02:35.560Z
+        itemend: 2021-01-18T02:02:35.742Z
+        title: 22 Minutes Remaining
+        subtitle: by Oakland playwright Ignacio Zulueta, directed by Evren Odcikin
+        text: >-
+          An Israeli soldier is doing his job: warning the residents of a
+          village in Southern Lebanon to vacate before an imminent attack. With
+          only 22 minutes remaining before the next bomb hits, one of the calls
+          he makes is about to alter his world completely.
+
+
+          **Ignacio Zulueta** (Playwright) is an early-career playwright based in Oakland, California. He is a graduate of Brown University’s playwriting honors program, where he studied with Paula Vogel, Nilo Cruz, and Bridget Carpenter. He was a 2004-2005 Tournesol Playwriting Resident at Z Space Studios and a recipient of the 2004 William Morris Society Award. Readings of his plays have been done at the Ashland New Plays Festival in Oregon , the Magic Theatre, the Bus Barn Theatre, and other diverse locations throughout the San Francisco Bay Area.
+      - itemstart: 2021-01-18T02:02:35.824Z
+        itemend: 2021-01-18T02:02:35.950Z
+        title: I Sell Souls
+        subtitle: by Iranian poet Simin Behbehani, directed by Golden Thread Artistic
+          Director Torange Yeghiazarian
+        text: '**Simin Behbahani** (Poet) has expanded the range of traditional Persian
+          verse forms and produced some of the most significant works of Persian
+          literature in the twentieth century. She was nominated for the Nobel
+          Prize in Literature in 1997. Ms. Behbehani was also awarded a Human
+          Rights Watch-Hellman/Hammet grant in 1998, and similarly, in 1999, the
+          Carl von Ossietzky Medal for her struggle for freedom of expression
+          in Iran . Born in 1927 in Tehran , Iran of literary parents, Ms.
+          Behbehani published her first poem at the age of fourteen. She
+          contributed to a historic development in the form of "Ghazal", as she
+          added theatrical subjects, and daily events and conversations into
+          this style of poetry.'
+    heading: REORIENT 2007/08 LINE-UP
 cast:
   heading: Cast & Crew
   items:
@@ -287,17 +358,4 @@ cast:
     - name: Garth Petal
       credit: Soul Ensemble, Ray
 ---
-***\- The Monologist Suffers for Her Monologue* by Egyptian-born playwright Yussef El Guindi, directed by Arlene Hood.** A Palestinian-American explores her identity in this poignant and comedic monologue. In the dialogue of nations, do you ever get the feeling that Palestine is just a whiny monologue?
-
-\
-- ***Pistachio Stories* by Lebanese-American playwright Laura Shamas, directed by Mark Ruthier.** This funny and touching play boils down the issues of government surveillance, censorship and freedom of speech to one simple question: What would you do if you received an unexpected bag of red pistachios from Syria?
-
-\
-- ***Between This Breath and You* by Naomi Wallace, MacArthur “Genius” Fellow, directed by Amy Mueller.**A Palestinian man refuses to leave a clinic unless he speaks to the Israeli nurse in charge. She soon recognizes a hidden connection between them—a connection much stronger than their cultural divide could ever be.(This play contains some graphic/mature language.)
-
-
-
-***\- 22 Minutes Remaining* by Oakland playwright Ignacio Zulueta, directed by Evren Odcikin.**An Israeli soldier is doing his job: warning the residents of a village in Southern Lebanon to vacate before an imminent attack. With only 22 minutes remaining before the next bomb hits, one of the calls he makes is about to alter his world completely.
-
-\
-- ***I Sell Souls* by Iranian poet Simin Behbehani, directed by Golden Thread Artistic Director Torange Yeghiazarian.**
+Don’t miss this one-of-a-kind annual festival that turns San Francisco into a Mecca for innovative and thought-provoking theatre. Now in its 8th year, the ReOrient Festival will once again present the best writing from or about the Middle East.
