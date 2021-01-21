@@ -9,47 +9,116 @@ stage: The Magic Theatre
 address: Fort Mason Center, Bldg. D, 3rd Floor, San Francisco
 lists:
   - items:
-      - subtitle: "*A State of Innocence* by Naomi Wallace, recent MacArthur Genius
-          Fellow (North America premiere); Directed by Isis Saratial Misdary"
+      - subtitle: by Naomi Wallace, recent MacArthur Genius Fellow (North America
+          premiere); Directed by Isis Saratial Misdary
         image: https://ucarecdn.com/47a32442-7980-48a3-a388-54d46840912f/
-        text: "*A Palestinian woman and an Israeli soldier arrive at a new level of
+        text: >-
+          A Palestinian woman and an Israeli soldier arrive at a new level of
           understanding when she visits him at the ruined zoo in Rafah (Gaza
-          Strip).*"
-      - subtitle: "*Parable for a Dark Time* by San Francisco playwright George Crowe,
-          Directed by William Selig"
+          Strip).
+
+
+          **Naomi Wallace** (playwright) is from Kentucky. Her newest play, THE INLAND SEA, will have its world premiere in London this spring, produced by the Oxford Stage Company.  THE TRESTLE AT POPE LICK CREEK premiered at the 1998 Humana Festival at the Actors Theatre of Louisville, was produced in the spring of 1999 by New York Theatre Workshop, and by the Edinburgh Theatre in the spring of 2001. Her play ONE FLEA SPARE was commissioned and produced in October 1995 by the Bush Theatre in London. It received its American premiere at the Humana Festival and was awarded the 1996 Susan Smith Blackburn Prize, the 1996 Fellowship of Southern Writers Drama Award, the 1996 Kesselring Prize, and the 1997 Obie Award for Best Play. It was produced by the New York Shakespeare Festival in March 1997 and is being produced for film by the producer of Four Weddings and a Funeral and Notting Hill. 
+
+
+          BIRDY, an adaptation for the stage of William Wharton's novel, opened on the West End in London at the Comedy Theater in March 1997 and in Athens, Greece, at the same time.
+
+
+          SLAUGHTER CITY was awarded the 1995 Mobil Prize and  received its world premiere in January 1996 at the Royal Shakespeare Company. IN THE HEART OF AMERICA received its world premiere at the Bush and was subsequently produced at the Long Wharf Theater and in Dortmund, Germany. It was published in American Theater magazine and was awarded the 1995 Susan Smith Blackburn Prize. Her plays are published in Great Britain by Faber and Faber, and in the U.S. by Broadway Play Publishing Inc. A collection of her plays, IN THE HEART OF AMERICA AND OTHER PLAYS, was published by TCG in 2001.
+
+
+          Wallace was a 1999 recipient of the prestigious MacArthur Fellowship, the grant popularly known as the genius award.
+
+
+          A published poet in both England and in the United States, she has also received grants from The Kentucky Foundation for Women and The Kentucky Arts Council, and a 1997 N E A grant for poetry. Her book of poetry, To Dance A Stony Field, was published in the United Kingdom in May 1995.
+
+
+          Her film, LAWN DOGS, produced by Duncan Kenworthy, opened successfully in Great Britain, moved to the U S, and has won numerous film awards. Wallace and co-writer Bruce McLeod have adapted her play THE WAR BOYS for film, which is set to be shot this year. She has also adapted with Bruce McLeod for film the novel TOUCHED by Carolyn Haines.
+
+
+          At present, Wallace is under commission by The New York Shakespeare Festival-The Public Theatre, Paines Plough of London, and is also co-writing a film script on the Ludlow massacre of 1913 with Bruce McLeod and the historian Howard Zinn.
+        itemstart: 2021-01-21T07:19:58.267Z
+        itemend: 2021-01-21T07:19:58.399Z
+        title: A State of Innocence
+      - subtitle: by San Francisco playwright George Crowe, Directed by William Selig
         pre: World Premiere
-        text: An abstract poem set to performance where the central character retells
-          his experience of being abducted.
-      - subtitle: "*Sniper* by Egyptian-born playwright Yussef El Guindi, Directed by
-          Hal
-          Gelb[](https://web.archive.org/web/20160816130437/http://www.goldenth\
-          read.org/oldsite/content/whoswho.html#hal_g)"
+        text: >-
+          An abstract poem set to performance where the central character
+          retells his experience of being abducted.
+
+
+          **George Crowe** (playwright) is delighted to be working with Golden Thread. He is a member of the Z Artists Lab at Z Space Studio where "Parable" originated and where he is developing his play "Tailings" set in 1893 San Francisco. Other plays of his have received readings in Berkeley, Santa Rosa, Chicago and New York. His one-page plays have been produced locally by Abydos, the Directors Theater, which commissioned his joint translation/ adaptation of Pierre Marivaux's 1724 play "The False Servant", currently being presented in San Francisco. He is a member of the Dramatists Guild.
+        itemstart: 2021-01-21T07:19:58.467Z
+        itemend: 2021-01-21T07:19:58.537Z
+        title: Parable for a Dark Time
+        image: https://ucarecdn.com/792a8ea1-5bd6-4d00-b19f-553aa3c0f90d/
+      - subtitle: by Egyptian-born playwright Yussef El Guindi, Directed by Hal
+          Gelb[](https://web.archive.org/web/20160816130437/http://www.goldenthread.org/oldsite/content/whoswho.html#hal_g)
         pre: World Premiere
-        text: A peace activist's meeting with a sniper at a cocktail party ignites a
+        text: >-
+          A peace activist's meeting with a sniper at a cocktail party ignites a
           series of questions about the movement's strategies against war.
+
+
+          **Yussef El Guindi** is a playwright living in Seattle. He was playwright-in-residence at Duke University for several years. His most recent productions include *Finishing School*, *So Unlike Me, Trading In My Arab* (in Seattle), *Karima's City* (in San Francisco; and as part of 2004's Cairo International Experimental Theater Festival), *Murder in the Mirror* (a radio play presented by Stage Shadows at the Museum of Television and Radio in New York) and *Men On Mars* (another radio play aired in 2004 by Shoestring Radio Theater). His play *Ten Acrobats in An Amazing Leap of Faith* is scheduled for productions this year in Chicago and Seattle. *Back of The Throat* is also being presented in Seattle by Theater Schmeater.
         image: https://ucarecdn.com/70603243-d26f-4081-b6ec-b537fbd88925/
-      - subtitle: "*Worm* by Shahe Mankerian, an Armenian-American author; Directed by
-          Laura Hope"
+        itemstart: 2021-01-21T07:19:58.609Z
+        itemend: 2021-01-21T07:19:58.671Z
+        title: Sniper
+      - subtitle: by Shahe Mankerian, an Armenian-American author; Directed by Laura Hope
         pre: World Premiere
-        text: In this comedy, four Armenian young men congregate at the men's room of a
-          hotel to lament their friend's decision to marry a non-Armenian. They
-          chastise his lack of commitment to the preservation of Armenian
+        text: >-
+          In this comedy, four Armenian young men congregate at the men's room
+          of a hotel to lament their friend's decision to marry a non-Armenian.
+          They chastise his lack of commitment to the preservation of Armenian
           heritage while fantasizing about spending the night with the
           bridesmaids.
-        image: https://ucarecdn.com/0b660ce3-034d-45e2-a4fa-6fa51ee9cf7c/
-      - subtitle: "*Learn to be Latina* by San Francisco playwright Enrique E. Urueta;
-          Directed by Mary Guzman"
+
+
+          In 1979, at the age of twelve, **Shahe Mankerian** found himself digesting a new language in the Pasadena Unified School District. Away from the Civil War of Lebanon, Shahe began experimenting with written dialogue, both in poetic and dramatic form. Soon after graduating high school, he wrote and staged three plays dealing with a generation of Armenians lost in America. *Teenage Wasteland*, *Youthquaker*, and *The Devil's Children*, comprised a trilogy of dramatic angst against the melting pot of America. During this period of productivity, Mankerian also published a collection of verse entitled *Children of Honey*.\
+
+           \
+
+          Shahe received his graduate degree in English from California State University, Los Angeles in 2000. Los Angeles Poetry Festival recognized him as one of the newer voices of 2001. In 2002, he was featured as a guest poet on *Inspiration House* with Peter Harris on KPFK. That same year, he also won both Erika Mumford Prize and Daniel Varoujan Award from the New England Poetry Club. Writers at Work selected one of his poems for the 2002 Common Prayers project. In 2003, AGBU's Ardavazt Juniors revived Mankerian's 1991 play, *Teenage Wasteland.* Later that year, Edifice Wrecked nominated Mankerian's poem "She's Hiding My Keys" for the 2004 Pushcart Prize. In the summer of 2004 & 2005, Shahe was a recipient of a writing grant from the Los Angeles Writer's Project. His latest one-act play *Vort* (Worm) will be performed at the 2005 ReOrient Festival in San Francisco, and at the same time, it is being adapted into a short film. Shahe is also working on a new project with the Fountain Theatre of Los Angeles. He is co-writing a play about the immigrant community in Hollywood's Little Armenia.\
+
+           \
+
+          Mankerian's publication credits include Ararat, Beyond the Valley of the Contemporary Poets, Crab Orchard Review, Edifice Wrecked, On the Page, Pasadena Star News, and San Gabriel Valley Poetry Quarterly. He is featured in the Armenian-American anthology, *Birthmark*.  \
+
+           \
+
+          Shahe recently accepted the principalship position at Alfred and Marguerite Hovsepian Armenian School in Pasadena.
+        image: https://ucarecdn.com/d5ca0a49-44b1-4363-a7f3-f564879e5dbe/
+        itemstart: 2021-01-21T07:19:58.739Z
+        itemend: 2021-01-21T07:19:58.798Z
+        title: Worm
+      - subtitle: by San Francisco playwright Enrique E. Urueta; Directed by Mary Guzman
         pre: World Premiere
-        text: A hilarious comedy where a Lebanese young singer is told by a music
+        text: >-
+          A hilarious comedy where a Lebanese young singer is told by a music
           industry executive that in order to make it in the music industry, she
           must pretend to be half Latina!
-      - subtitle: "*Call me Mehdi* by San Francisco playwright Torange Yeghiazarian;
-          Directed by Meg Patterson"
+
+
+          Colombian-American, by way of Virginia, **Enrique E. Urueta** grew up with a southern drawl and was educated at The College of William and Mary in Williamsburg where he studied theatre and geology. A Bay Area resident since 2002, Enrique has been a literary intern at Berkeley Repertory Theatre (2002-3), a literary associate at The Playwrights Foundation (2003-4), the literary manager for Impact Theater (2003-4), and is the current literary manager for foolsFURY Theater Company in San Francisco (2004-present). He has studied playwriting with Lois Weaver, Peggy Shaw, Prince Gomolvilas, Erik Ehn, Christine Evans and Liz Duffy Adams. His play *The Johnson Administration* was produced by Impact Theatre in Berkeley in August 2003. His play *The Danger of Bleeding Brown* was presented as a staged reading on June 3, 2005 as part of the National Queer Arts Festival. His one-act play *Learn To Be Latina* received a staged reading in the 2005 Bay Area Playwrights Festival. He is a member of the Literary Managers and Dramaturgs of the Americas and freelances as a production dramaturg for Bay Area theatre companies (currently Chay Yew's *Porcelain* with Crowded Fire). He also works as a developmental dramaturg with Bay Area playwrights in the development of new plays. The playwrights he has advised have gone on to win local and statewide awards, as well as several finalists for the Heideman award, administered by Actors Theatre of Louisville. He is a proud member of NoPassport, a pan-American theatre coalition devoted the advocacy of Latino/a and hemispherically-minded work.
+        itemstart: 2021-01-21T07:19:58.871Z
+        itemend: 2021-01-21T07:19:58.928Z
+        title: Learn to be Latina
+        image: https://ucarecdn.com/12f3dc26-4c5a-4afb-966d-8f9a95807d14/
+      - subtitle: by San Francisco playwright Torange Yeghiazarian; Directed by Meg
+          Patterson
         pre: World Premiere
-        text: An Iranian woman and American man reach for a new level of intimacy by
+        text: >-
+          An Iranian woman and American man reach for a new level of intimacy by
           irreverently exploring their mutually-held cultural stereotypes.
+
+
+          **Torange Yeghiazarian** is the Founder and Artistic Director of Golden Thread Productions in San Francisco, dedicated to theater that explores Middle Eastern culture and identity represented throughout the globe.  Torange is an Iranian-born theatre artist of Armenian heritage, and she writes, directs and performs in the San Francisco Bay Area. She made her directorial debut with **WAVES**,which premiered at the San Francisco Fringe Festival to sold-out audiences and received rave reviews from Bay Area critics.  She has adapted and directed Aristophanes' **Lysistrata** in her production **OPERATION NO PENETRATION, Lysistrata 97!**  Her other directing credits include Albert Camus' **Caligula** and Sadegh Hedayat's **Behind the Glass Window**.  She has performed in Persian in Farhad Ayeesh's **Last Supper Comedy** at the Darvag Theater in Berkeley and Dario Fo's one-woman show **A Woman Alone** at the Live Oak Theater. Torange received her Master's degree in Theatre Arts from San Francisco State University where she collaborated with the San Francisco Mime Troupe in creating the melodrama **TORCH.**
         image: https://ucarecdn.com/43974758-1bb5-44a1-a23a-ea002a1ff843/
-    heading: ReOrient 2005 Line-up
+        itemstart: 2021-01-21T07:19:58.984Z
+        itemend: 2021-01-21T07:19:59.046Z
+        title: Call me Mehdi
+    heading: REORIENT 2005 LINE-UP
 grids:
   - heading: Special Events
     items:
@@ -69,6 +138,8 @@ grids:
 
 
           The Sultan Room, Center for Middle Eastern Studies, 340 Stephens Hall, UC Berkeley
+        itemstart: 2021-01-21T07:19:59.108Z
+        itemend: 2021-01-21T07:19:59.170Z
       - title: '"Berkeley Lecture Series" in partnership with Golden Thread Productions
           presents'
         pre: "A Presentation by Mahmood Karimi Hakkak "
@@ -93,6 +164,8 @@ grids:
 
 
           Suggested Donation: $10.00
+        itemstart: 2021-01-21T07:19:59.229Z
+        itemend: 2021-01-21T07:19:59.282Z
 cast:
   heading: Cast & Crew
   items:
