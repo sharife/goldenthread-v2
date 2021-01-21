@@ -3,6 +3,11 @@ title: ReOrient 2005
 date: 2005-10-13T01:04:00.000Z
 start: 2005-11-13T01:04:00.000Z
 end: 2005-12-05T01:04:00.000Z
+description: "Golden Thread Productions hallmark event, ReOrient: the annual
+  festival of short plays about the Middle East, is back for another
+  thought-provoking and transformative season. For four weeks each year, this
+  one-of-a-kind festival turns San Francisco into a mecca for innovative,
+  spirited, and attention-grabbing theatre from around the world."
 writer: Various Writers
 director: Various Directors
 stage: The Magic Theatre
@@ -346,4 +351,4 @@ cast:
         Set Design: Evren Odcikin\
         Costume Design: Paula Gruber
 ---
-Golden Thread Productions hallmark event, ReOrient: the annual festival of short plays about the Middle East, is back for another thought-provoking and transformative season.For four weeks each year, this one-of-a-kind festival turns San Francisco into a mecca for innovative, spirited, and attention-grabbing theatre from around the world.
+At a time when the Middle East is at the forefront of the news on a daily basis, the ReOrient festival provides a rare opportunity for artists and audiences alike to engage deeply and directly with the Middle East in a creative and supportive setting that displaces misinformation and encourages understanding.  It is a process that has been summed up by the San Francisco Chronicle as being "*haunting and provocative" with "reverberations far beyond its immediate cultural context."*
