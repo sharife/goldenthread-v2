@@ -8,17 +8,18 @@ background: https://ucarecdn.com/4734753b-1648-46a4-830e-1a2e3bd79b19/
 stage: New Langton Arts
 address: 1246 Folsom Street, San Francisco
 lists:
-  - heading: ReOrient 2003 Line-up
+  - heading: REORIENT 2003 LINE-UP
     items:
-      - subtitle: "*Converting St. Francis*, an original shadow puppet play created and
-          directed by Janaki Ranpura"
+      - subtitle: an original shadow puppet play created and directed by Janaki Ranpura
         text: >-
           Depicts St. Francis’ journey to the Sultan offering him salvation, if
           he converts to Christianity.\
 
           Cast: Lynne Soffer\*, Michael Rice\*, Bernadette Quattrone, Deborah Ben-Elizier
-      - subtitle: "*Sahmatah* by Edward Mast & Hanna Eady, directed by Torange
-          Yeghiazarian."
+        itemstart: 2021-01-21T08:27:08.221Z
+        itemend: 2021-01-21T08:27:08.427Z
+        title: Converting St. Francis
+      - subtitle: by Edward Mast & Hanna Eady, directed by Torange Yeghiazarian.
         text: >-
           Developed based on interviews with survivors, the two characters of
           the play channel spirits from the past to retell the story of the
@@ -28,21 +29,30 @@ lists:
           Israel/Palestine.\
 
           Cast: Phil Sheridan, Mark Farrell*
-        image: https://ucarecdn.com/f79c4535-0c78-464d-93d0-77f7ee8870d8/
-      - subtitle: "*Muscle* by Erik Ehn, directed by Hal Gelb."
+        image: ""
+        itemstart: 2021-01-21T08:27:08.503Z
+        itemend: 2021-01-21T08:27:08.579Z
+        title: Sahmatah
+      - subtitle: by Erik Ehn, directed by Hal Gelb.
         text: >-
           The holy month of Ramadan offers this business traveler no peace of
           mind, and the Ramada Inn, no room, and his Moslem woman- isn’t
           interested.\
 
           Cast: Denmo Ibrahim
-      - subtitle: "*Coming Home* by Motti Lerner, directed by Amy Mueller."
+        itemstart: 2021-01-21T08:27:08.655Z
+        itemend: 2021-01-21T08:27:08.747Z
+        title: Muscle
+      - subtitle: by Motti Lerner, directed by Amy Mueller.
         text: >-
           From one of Israel’s most vocal voices against the occupation comes a
           compassionate inquiry into the fragility of the human spirit.\
 
           Cast: Nancy Carlin*, Lawrence Radacker, Brett Holland, Teana David.
-      - subtitle: "*Security* by Israel Horovitz, directed by Hal Gelb"
+        itemstart: 2021-01-21T08:27:08.829Z
+        itemend: 2021-01-21T08:27:08.897Z
+        title: Coming Home
+      - subtitle: by Israel Horovitz, directed by Hal Gelb
         text: >-
           For this Iranian family, increased airport security provides anything
           but. Originally produced by NYC’s Barefoot Theatre Company as part of
@@ -50,20 +60,29 @@ lists:
           playwright.\
 
           Cast: Torange Yeghiazarian, Lawrence Radacker, Michael Rice*, and introducing Eemon Malek-Madani.
-      - subtitle: The Terrorists by Jim Brightwolf, directed by Don Cate
+        itemstart: 2021-01-21T08:27:08.967Z
+        itemend: 2021-01-21T08:27:09.031Z
+        title: Security
+      - subtitle: by Jim Brightwolf, directed by Don Cate
         text: >-
           The international Arms market will never be quite the same again after
           these two “guerillas” discover the truth about their dealer.\
 
           Cast: David Ballog, Brett Holland, Janaki Ranpura.
-      - subtitle: "*Baggage* by Fateh Samih Azzam, directed by Christopher Morrison"
+        itemstart: 2021-01-21T08:27:09.095Z
+        itemend: 2021-01-21T08:27:09.158Z
+        title: The Terrorists
+      - subtitle: by Fateh Samih Azzam, directed by Christopher Morrison
         text: >-
           All he wants to do is to take his stuff with him on the plane. Not so
           simple when your bags are full of unwanted memories.\
 
           Cast: Ali Dadgar
-      - subtitle: "*Karima's City* by Yussef El Guindi adapted from a short story by
-          Salwa Bakr, directed by Arlene Hood."
+        itemstart: 2021-01-21T08:27:09.233Z
+        itemend: 2021-01-21T08:27:09.303Z
+        title: Baggage
+      - subtitle: by Yussef El Guindi adapted from a short story by Salwa Bakr, directed
+          by Arlene Hood.
         text: >-
           From the playwright that created last year’s Such a Beautiful Voice is
           Sayeda’s comes the story of a woman fighting for her individuality and
@@ -73,17 +92,18 @@ lists:
 
           *Actors appearing courtesy of Actors’ Equity Association.
         image: https://ucarecdn.com/7394194e-e176-4c01-ada5-86d3b54babef/
+        itemstart: 2021-01-21T08:27:09.384Z
+        itemend: 2021-01-21T08:27:09.456Z
+        title: Karima's City
 grids:
   - heading: Special Events
     items:
       - subtitle: ""
-        text: >-
-          The Trials & Tribulations of Writing about the Middle East, a
-          Playwrights Symposium\
-
-          Saturday, November 8th, 2 - 5 p.m.\
-
-          At New Langton Arts
+        text: Saturday, November 8th, 2 - 5 p.m. at New Langton Arts
+        itemstart: 2021-01-21T08:27:09.538Z
+        itemend: 2021-01-21T08:27:09.624Z
+        title: The Trials & Tribulations of Writing about the Middle East
+        pre: A Playwrights Symposium
 cast:
   heading: Cast & Crew
   items:
