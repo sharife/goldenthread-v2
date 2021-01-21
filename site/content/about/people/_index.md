@@ -870,26 +870,44 @@ artists:
 advisors:
   heading: Advisory Board
   items:
-    - credit: Director, The Center for Middle Eastern and North African Studies, and
-        Associate Professor, Near Eastern Studies, University of Michigan
+    - credit: >-
+        Director, The Center for Middle Eastern and North African Studies, and Associate Professor, Near Eastern Studies, University of Michigan
       name: Samer Ali
-    - credit: Distinguished Professor, Theatre, Comparative Literature, and Middle
-        Eastern Studies, The Graduate Center, CUNY
+      link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
+    - credit: >-
+        Assistant Professor of Theater and Performance Studies, Stanford University
+      name: Samer Al-Saber
+      link: https://ccsre.stanford.edu/people/samer-al-saber
+    - credit: >-
+        Distinguished Professor, Theatre, Comparative Literature, and Middle Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
-    - credit: Professor, Iranian Studies and Comparative Literature, Columbia
-        University
+      link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
+    - credit: >-
+        Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing
+      name: Catherine Coray
+      link: https://tisch.nyu.edu/about/directory/drama/94426744
+    - credit: >-
+        Professor, Iranian Studies and Comparative Literature, Columbia University
       name: Hamid Dabashi
-    - credit: Playwright and Professor, Playwriting, UC Berkeley
+      link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
+    - credit: >-
+        Playwright and Professor, Playwriting, UC Berkeley
       name: Philip Kan Gotanda
-    - credit: Co-Founder, Theatre Without Borders, and Senior Program Associate,
-        Sundance Institute Middle East North Africa Theatre Program
+      link: https://tdps.berkeley.edu/people/philip-kan-gotanda
+    - credit: >-
+        Co-Founder, Theatre Without Borders, and Senior Program Associate, Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
-    - credit: Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
-        Tisch School of the Arts
+      link: https://www.robertalevitow.com/
+    - credit: >-
+        Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU Tisch School of the Arts
       name: Ella Shohat
-    - credit: Founding Faculty, Performing Arts and Social Justice Program, University
-        of San Francisco
+      link: https://tisch.nyu.edu/about/directory/app/1295710755
+    - credit: >-
+        Founding Faculty, Performing Arts and Social Justice Program, University of San Francisco
       name: Roberto Gutiérrez Varea
-    - credit: Playwright and MacArthur Fellow
+      link: https://www.usfca.edu/faculty/roberto-gutierrez-varea
+    - credit: >-
+        Playwright and MacArthur Fellow
       name: Naomi Wallace
+      link: https://www.naomiwallace.com/
 ---
