@@ -1,6 +1,6 @@
 ---
 title: ReOrient 2002
-season: 1995
+season: 2002
 date: 2002-07-08T23:27:00.000Z
 start: 2002-08-08T23:27:00.000Z
 end: 2002-08-25T23:27:00.000Z
@@ -14,36 +14,52 @@ director: Various Directors
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
 lists:
-  - heading: ReOrient 2002 Line-up
+  - heading: REORIENT 2002 LINE-UP
     items:
-      - subtitle: "***Sewing in Syria*** by Elizabeth Marquis, performed by Pamela
-          Marsh."
+      - subtitle: by Elizabeth Marquis, performed by Pamela Marsh.
         text: An emphatic portrayal of a spinster, a woman caught between cultures.
-      - subtitle: "***Such A Beautiful Voice Is Sayeda’s*** by Yussef El Guindi,
-          directed by Hal Gelb"
+        itemstart: 2021-01-21T08:53:43.134Z
+        itemend: 2021-01-21T08:53:43.321Z
+        title: Sewing in Syria
+      - subtitle: by Yussef El Guindi, directed by Hal Gelb
         image: https://ucarecdn.com/f48407f5-2233-4619-b464-005b121da3cd/
         text: The courage to sing, the freedom to live.
+        itemstart: 2021-01-21T08:53:43.590Z
+        itemend: 2021-01-21T08:53:43.683Z
+        title: Such A Beautiful Voice Is Sayeda’s
       - subtitle: "***Waves*** by Torange Yeghiazarian, directed by Mark Mezadourian
           Hughes."
         text: Two Iranian women ex-revolutionaries dance a tango of betrayal and
           deception.
         image: https://ucarecdn.com/d3bd61ac-7e46-4eb8-a6db-de0654cec41e/
+        itemstart: 2021-01-21T08:53:43.993Z
+        itemend: 2021-01-21T08:53:44.155Z
       - subtitle: "***A Friendly Face*** by Laura McPherson, directed by Mark
           Mezadourian Hughes."
         text: An Iraqi soldier practices... smiling...
+        itemstart: 2021-01-21T08:53:44.251Z
+        itemend: 2021-01-21T08:53:44.333Z
       - subtitle: "***Dual-Use*** by Victoria Stewart, directed by Torange Yeghiazarian"
         text: "Stents and ambulances: tools of destruction, or life-savers?"
         image: https://ucarecdn.com/3b6840dc-a1a7-4544-a150-1f324e72b19f/
+        itemstart: 2021-01-21T08:53:44.401Z
+        itemend: 2021-01-21T08:53:44.473Z
       - subtitle: "***From the Courtyard*** by Catherine Fletcher, directed by Arlene
           Denise Hood."
         text: Take a tour of Morocco with Hassan, a modern storyteller.
+        itemstart: 2021-01-21T08:53:44.552Z
+        itemend: 2021-01-21T08:53:44.673Z
       - subtitle: "***A Tunnel in Palestine*** by Don Monaco, directed by Arlene Denise
           Hood"
         text: The Hasmonian tunnel becomes the setting for an American couple’s
           face-off.
+        itemstart: 2021-01-21T08:53:44.746Z
+        itemend: 2021-01-21T08:53:44.811Z
       - subtitle: "***Tamam*** by Betty Shamieh, directed by Torange Yeghiazarian"
         text: She is Palestinian. Her name is Tamam. It means *enough.*
         image: https://ucarecdn.com/b662ea14-1075-4979-ae73-6b865c938ca8/
+        itemstart: 2021-01-21T08:53:44.899Z
+        itemend: 2021-01-21T08:53:44.966Z
 cast:
   heading: Cast & Crew
   items:
