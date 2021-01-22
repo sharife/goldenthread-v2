@@ -46,7 +46,11 @@ lists:
         itemend: 2021-01-21T08:53:44.155Z
         title: Waves
       - subtitle: " by Laura McPherson, directed by Mark Mezadourian Hughes."
-        text: An Iraqi soldier practices... smiling...
+        text: >-
+          An Iraqi soldier practices... smiling...
+
+
+          **Laura McPherson** is a drummer and cartoonist from Los Angeles, California. She graduated magna cum laude from Princeton University in May of 2000, receiving the Alan Downer thesis prize for The Marks of Men (formerly The Unmaking Mark). Upon graduation, Ms. McPherson worked for the university's Academic Services computing division in the area of web design and development on a team that built Macromedia Flash modules for the online Arabic Poetry Project. Awarded a highly competitive Iowa Arts Fellowship to attend the Playwright's Workshop at the University of Iowa, she currently lives and works in Iowa City.
         itemstart: 2021-01-21T08:53:44.251Z
         itemend: 2021-01-21T08:53:44.333Z
         title: A Friendly Face
@@ -57,13 +61,21 @@ lists:
         itemend: 2021-01-21T08:53:44.473Z
         title: Dual-Use
       - subtitle: by Catherine Fletcher, directed by Arlene Denise Hood.
-        text: Take a tour of Morocco with Hassan, a modern storyteller.
+        text: >-
+          Take a tour of Morocco with Hassan, a modern storyteller.
+
+
+          **Catherine Fletcher** is a playwright living in Brooklyn, NY.  In addition to *From the* Courtyard, her work includes the full-length plays *Bridge*, currently in development with the Powerhouse Theatre in Santa Monica, and *The Promise of Paradise: A California Fable*.  In her previous incarnation, Catherine served on the organizing committee of the Los Angeles based Edge of the World Theater Festival and as the Managing Director of the Ghost Road Company.  Under her leadership as Managing Director, Ghost Road produced *Carrots For Hare* and collaborated with Burglars of Hamm on *Resa Fantastiskt* *Mystisk* and with Theatre of N.O.T.E. on *The Clytemnestra  Project (Clyt At Home),* an LA Weekly Award nominees. She initiated a Cultural Affairs funded series of salons which strive to bring together diverse artistic communities in Los Angeles with an aim towards sharing and collaboration. Other projects have included the films *Thaw* (Los Angeles Film Festival, San Francisco Indie Fest) and *Fever Pitch* (Nashville Independent Film Festival, Milan Film Festival) as well as directing for the theater.
         itemstart: 2021-01-21T08:53:44.552Z
         itemend: 2021-01-21T08:53:44.673Z
         title: From the Courtyard
       - subtitle: by Don Monaco, directed by Arlene Denise Hood
-        text: The Hasmonian tunnel becomes the setting for an American couple’s
+        text: >-
+          The Hasmonian tunnel becomes the setting for an American couple’s
           face-off.
+
+
+          **Don Monaco** has had his Little Red Wagon Painted Blue produced off-off Broadway and in Memphis, Tennessee. He was invited to the Tony Award Winning Utah Shakespearean Festival where his work was present in development and in readings. His Fly in a Circle has won awards and has been produced in Dubuque, Iowa. To the Orangerie, a short play has been produced in New York at several Off-Broadway theatres. It is the second in a series of a single family's experience of the Holocaust. A Tunnel in Palestine is the final chapter in that sequence which begins in Berlin, travels to Vienna, Paris, New York, ending in Jerusalem. Don is the director of a reading series at the Rockland Center of the Arts in New York. He is a member of the Elmwood Playhouse and the Dramatists Guild. He lives in Nyack, New York, with his wife Uli.
         itemstart: 2021-01-21T08:53:44.746Z
         itemend: 2021-01-21T08:53:44.811Z
         title: A Tunnel in Palestine
@@ -205,3 +217,5 @@ cast:
       image: https://ucarecdn.com/68972067-a09a-479b-b569-3f76f6fd7478/
 ---
 The eight plays selected will be presented in two alternating series. **Women** and **War** highlight the themes of this year’s selections.
+
+Golden Thread Productions is a dynamic San Francisco Bay Area ensemble dedicated to the production of theatre works that explore the Middle Eastern culture and identity as represented throughout the globe.
