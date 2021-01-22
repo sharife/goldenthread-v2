@@ -23,43 +23,60 @@ lists:
         title: Sewing in Syria
       - subtitle: by Yussef El Guindi, directed by Hal Gelb
         image: https://ucarecdn.com/f48407f5-2233-4619-b464-005b121da3cd/
-        text: The courage to sing, the freedom to live.
+        text: >-
+          The courage to sing, the freedom to live.
+
+
+          **Yussef El-Guindi**’s most recent productions include *The Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New World*(winner of the Steinberg/American Theater Critics Association’s New Play Award in 2012; Gregory Award in 2011) also at ACT, and at Center Repertory Company (Walnut Creek, CA) 2013; and*Language Rooms*(Edgerton Foundation New American Play Award), co-produced by Golden Thread Productions and the Asian American Theater Company in San Francisco; at the Wilma Theater in Philadelphia (premiere), and at the Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love and Combat* was produced by Silk Road Theater Project and won the M. Elizabeth Osborn award. It’s included in the anthology Four Arab American Plays, published by McFarland Books. His plays *Back of the Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s City Pilgrims Musa and Sheri in the New Word* was published in the September, 2012 issue of American Theatre Magazine, and will soon be published by Dramatists Play Service, along with his play, *Jihad Jones and The Kalashnikov Babes*.
         itemstart: 2021-01-21T08:53:43.590Z
         itemend: 2021-01-21T08:53:43.683Z
         title: Such A Beautiful Voice Is Sayeda’s
-      - subtitle: "***Waves*** by Torange Yeghiazarian, directed by Mark Mezadourian
-          Hughes."
-        text: Two Iranian women ex-revolutionaries dance a tango of betrayal and
+      - subtitle: by Torange Yeghiazarian, directed by Mark Mezadourian Hughes.
+        text: >-
+          Two Iranian women ex-revolutionaries dance a tango of betrayal and
           deception.
+
+
+          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+
+
+          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/d3bd61ac-7e46-4eb8-a6db-de0654cec41e/
         itemstart: 2021-01-21T08:53:43.993Z
         itemend: 2021-01-21T08:53:44.155Z
-      - subtitle: "***A Friendly Face*** by Laura McPherson, directed by Mark
-          Mezadourian Hughes."
+        title: Waves
+      - subtitle: " by Laura McPherson, directed by Mark Mezadourian Hughes."
         text: An Iraqi soldier practices... smiling...
         itemstart: 2021-01-21T08:53:44.251Z
         itemend: 2021-01-21T08:53:44.333Z
-      - subtitle: "***Dual-Use*** by Victoria Stewart, directed by Torange Yeghiazarian"
+        title: A Friendly Face
+      - subtitle: by Victoria Stewart, directed by Torange Yeghiazarian
         text: "Stents and ambulances: tools of destruction, or life-savers?"
-        image: https://ucarecdn.com/3b6840dc-a1a7-4544-a150-1f324e72b19f/
+        image: ""
         itemstart: 2021-01-21T08:53:44.401Z
         itemend: 2021-01-21T08:53:44.473Z
-      - subtitle: "***From the Courtyard*** by Catherine Fletcher, directed by Arlene
-          Denise Hood."
+        title: Dual-Use
+      - subtitle: by Catherine Fletcher, directed by Arlene Denise Hood.
         text: Take a tour of Morocco with Hassan, a modern storyteller.
         itemstart: 2021-01-21T08:53:44.552Z
         itemend: 2021-01-21T08:53:44.673Z
-      - subtitle: "***A Tunnel in Palestine*** by Don Monaco, directed by Arlene Denise
-          Hood"
+        title: From the Courtyard
+      - subtitle: by Don Monaco, directed by Arlene Denise Hood
         text: The Hasmonian tunnel becomes the setting for an American couple’s
           face-off.
         itemstart: 2021-01-21T08:53:44.746Z
         itemend: 2021-01-21T08:53:44.811Z
-      - subtitle: "***Tamam*** by Betty Shamieh, directed by Torange Yeghiazarian"
-        text: She is Palestinian. Her name is Tamam. It means *enough.*
+        title: A Tunnel in Palestine
+      - subtitle: by Betty Shamieh, directed by Torange Yeghiazarian
+        text: >-
+          She is Palestinian. Her name is Tamam. It means *enough.*
+
+
+          **Betty Shamieh** (Playwright, Make No Mistake) is the author of fifteen plays. Credits include The Strangest (The Semitic Root), Fit for the Queen (Classical Theatre of Harlem), The Black Eyed (New York Theatre Workshop, Magic Theatre), Territories (Magic Theatre), and Roar (The New Group). She was a Clifton Visiting Artist at Harvard College, a Playwriting Fellow at the Radcliffe Institute, a UNESCO Young Artist for Intercultural Dialogue, and a Guggenheim Fellow in Drama and Performance Art. M.F.A., Yale School of Drama. [bettyshamieh.com](https://goldenthread.org/bettyshamieh.com).
         image: https://ucarecdn.com/b662ea14-1075-4979-ae73-6b865c938ca8/
         itemstart: 2021-01-21T08:53:44.899Z
         itemend: 2021-01-21T08:53:44.966Z
+        title: Tamam
 cast:
   heading: Cast & Crew
   items:
