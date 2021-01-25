@@ -3,18 +3,18 @@ title: People
 staff:
   heading: Staff
   items:
-    - bio: "<strong>Torange Yeghiazarian</strong> is the Founding Artistic Director of
-        Golden Thread Productions, the first American theatre company focused on
-        the Middle East where she launched such visionary programs as ReOrient
-        Festival, New Threads, Fairytale Players, and What do the Women Say?,
-        and timely initiatives such as Islam 101 and Project Alo? Torange has
-        been recognized by Theatre Bay Area and is one of Theatre Communication
-        Group’s Legacy Leaders of Color. She was honored by the Cairo
-        International Theatre Festival and the Symposium on Equity in the
-        Entertainment Industry at Stanford University. A playwright, director,
-        and translator, Torange contributed a case study chapter to “Casting a
-        Movement”, forthcoming from Routledge, 2019. Her translation and stage
-        adaptation of Nizami’s “Leyla &#038; Majnun” is published on
+    - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
+        Director of Golden Thread Productions, the first American theatre
+        company focused on the Middle East where she launched such visionary
+        programs as ReOrient Festival, New Threads, Fairytale Players, and What
+        do the Women Say?, and timely initiatives such as Islam 101 and Project
+        Alo? Torange has been recognized by Theatre Bay Area and is one of
+        Theatre Communication Group’s Legacy Leaders of Color. She was honored
+        by the Cairo International Theatre Festival and the Symposium on Equity
+        in the Entertainment Industry at Stanford University. A playwright,
+        director, and translator, Torange contributed a case study chapter to
+        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
+        and stage adaptation of Nizami’s “Leyla &#038; Majnun” is published on
         Gleeditions.com. She has been published in The Drama Review, American
         Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
         Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
@@ -37,10 +37,10 @@ staff:
       credit: Executive Artistic Director
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
       name: Torange Yeghiazarian
-    - bio: <strong>Michelle Mulholland</strong> (Managing Director) has more than 17
-        years of non-profit management experience from some of San Francisco’s
-        finest arts and environmental justice organizations, including Theater
-        Artaud, Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
+    - bio: <strong>Michelle Mulholland</strong> *(she/her)* has more than 17 years of
+        non-profit management experience from some of San Francisco’s finest
+        arts and environmental justice organizations, including Theater Artaud,
+        Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
         California, The Coral Reef Alliance and Forests Forever. Since joining
         Golden Thread in 2012, Michelle has been enhancing day-to-day
         operations, enabling the company’s exponential growth by
@@ -55,21 +55,21 @@ staff:
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - bio: <strong>Laura Espino</strong> is an educator and performing artist. As the
-        Program Manager for Fairytale Players, she spearheads the TYA Program at
-        Golden Thread Productions. She is a SFUSD high school teacher at Ruth
-        Asawa School of The Arts. As a performing artist, her work includes
-        credits with Theatreworks Silicon Valley, American Conservatory Theatre,
-        The Magic Theatre, Custom Made Theatre, Playground and California
-        Shakespeare Theatre. She is a Theatre Bay Area Award Nominee, and
-        currently an MLA Candidate at Stanford University.
+    - bio: <strong>Laura Espino</strong> *(she/her)* is an educator and performing
+        artist. As the Program Manager for Fairytale Players, she spearheads the
+        TYA Program at Golden Thread Productions. She is a SFUSD high school
+        teacher at Ruth Asawa School of The Arts. As a performing artist, her
+        work includes credits with Theatreworks Silicon Valley, American
+        Conservatory Theatre, The Magic Theatre, Custom Made Theatre, Playground
+        and California Shakespeare Theatre. She is a Theatre Bay Area Award
+        Nominee, and currently an MLA Candidate at Stanford University.
       credit: Program Manager, Golden Thread Fairytale Players
       image: /img/archive/2018/10/Espino-Laura-300x300.jpg
       name: Laura Espino
     - name: Chris Steele
       credit: Marketing & Communications Associate
       image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
-      bio: Chris Steele (they/them) is a queer trans nonbinary performance artist,
+      bio: Chris Steele *(they/them)* is a queer trans nonbinary performance artist,
         producer, and playwright. Since studying at Pepperdine University and
         the University of Oklahoma, they have worked professionally in queer and
         trans inclusion and advocacy across the Bay Area, even beyond the
@@ -82,9 +82,9 @@ staff:
         at @pollyandpeter). They are passionate about using social media to
         connect communities, organize activism, and welcome diverse audiences
         into the behind-the-scenes process of stage artistry.
-    - bio: <strong>Navid Ghaem Maghami</strong> (Art Director) is a graphic designer
-        based in San Francisco. He began working with Golden Thread in 2008. As
-        a design professional and art director he has worked widely in a variety
+    - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
+        in San Francisco. He began working with Golden Thread in 2008. As a
+        design professional and art director he has worked widely in a variety
         of disciplines and media, while focusing primarily on poster &amp;
         publication design, logo &amp; visual identity and advertising since
         1998. Through his full-service graphic design studio NaMa
@@ -98,36 +98,23 @@ staff:
       credit: Art Director
       image: /img/archive/2012/04/navid_headshot.jpg
       name: Navid Ghaem Maghami
-    - bio: <strong>Vida Ghahremani</strong> began acting in films as a teenager in
-        Iran, where she established the standards of stardom. Some of her
-        Iranian film classics include, CHAHAR RAH HAVADES, TOOFAN DAR SHAHR MA,
-        FARYAD NIMEH-SHAB, FARDA ROWSHAN AST, ATASH VA KHAKESTAR, ESHGH VA
-        ENTEGHAM. In the US, she appeared in the award-winning film by Wayne
-        Wang, ONE THOUSAND YEARS OF GOOD PRAYERS, and THE STONING OF SORAYA M by
-        Cyrus Nowrasteh. Vida has been an artistic associate with Golden Thread
-        since its first production, OPERATION NO PENETRATION, LYSISTRATA 97!
-        Other performances include THE LOVE MISSILE (with Sofia Ahmad as her
-        daughter), ABAGA and NINE ARMENIANS. Ms. Ghahremani is a member of the
-        Screen Actors Guild.
+    - bio: <strong>Vida Ghahremani</strong> *(she/her)* began acting in films as a
+        teenager in Iran, where she established the standards of stardom. Some
+        of her Iranian film classics include, CHAHAR RAH HAVADES, TOOFAN DAR
+        SHAHR MA, FARYAD NIMEH-SHAB, FARDA ROWSHAN AST, ATASH VA KHAKESTAR,
+        ESHGH VA ENTEGHAM. In the US, she appeared in the award-winning film by
+        Wayne Wang, ONE THOUSAND YEARS OF GOOD PRAYERS, and THE STONING OF
+        SORAYA M by Cyrus Nowrasteh. Vida has been an artistic associate with
+        Golden Thread since its first production, OPERATION NO PENETRATION,
+        LYSISTRATA 97! Other performances include THE LOVE MISSILE (with Sofia
+        Ahmad as her daughter), ABAGA and NINE ARMENIANS. Ms. Ghahremani is a
+        member of the Screen Actors Guild.
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
-    - bio: "**Aram Krikorian** was born in San Francisco. After attending KZV Armenian
-        School he went on to work in Los Angeles and New York City in television
-        at CBS and theater at the Tres Stage (adjacent to Mashti Malone's
-        Persian Ice Cream Shop). He has worked with director Marc Erdahi in many
-        productions featured in NY Fringe Fest, SF Fringe Fest, MITF and NYMF.
-        Back in the Bay Area he has returned to advocating for Palestinian equal
-        human rights along with other Jerusalem Armenians organizing with Jewish
-        Voice for Peace (JVP) and the Middle Eastern Children's Alliance (MECA).
-        After many years of being a fan, joining in with Golden Thread's family
-        and community has been a fantastic dream come true."
-      credit: Box Office Associate
-      image: https://ucarecdn.com/0ba6f208-92bf-4447-b4b6-2afb7ca5fc27/-/crop/1242x1546/0,662/-/preview/
-      name: Aram Krikorian
     - name: Linda Maria Girón
       credit: Operations Associate
-      bio: "**Linda Maria Girón** (they/them/*elle*) is a queer Guatemalan-American
+      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
         playwright, performer and visual artist from Los Angeles, California. An
         alumna of UC Berkeley’s Theater & Performance Studies department, Linda
         has written, taught and performed for a variety of Bay Area theaters
@@ -142,48 +129,48 @@ staff:
 board:
   heading: Board of Trustees
   items:
-    - bio: <strong>Nora el Samahy</strong>’s professional acting career began in 1998
-        as a Fairy in San Francisco Shakespeare Festival’s production of A
-        MIDSUMMER NIGHT’S DREAM. She then went on to work with Campo Santo,
-        Golden Thread Productions, Alter Theater, Aurora Theatre, Magic Theatre,
-        foolsFURY, Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit
-        Theater, Theatre Rhinoceros, Woman’s Will, Shotgun Players, African
-        American Shakespeare Company, among others. In 2013, Nora founded a
-        performance company called Affinity Project with Atosa Babaoff, Beatrice
-        Basso, and Emily Hoffman. Nora is a Pilates teacher and co-owner of
-        studio 74 pilates with business partner Jennifer Moulton.  She received
-        her BA in psychology from Wellesley College. Love and thanks to Patrick
-        and Ziyad.
+    - bio: <strong>Nora el Samahy</strong>’s *(she/her)* professional acting career
+        began in 1998 as a Fairy in San Francisco Shakespeare Festival’s
+        production of A MIDSUMMER NIGHT’S DREAM. She then went on to work with
+        Campo Santo, Golden Thread Productions, Alter Theater, Aurora Theatre,
+        Magic Theatre, foolsFURY, Traveling Jewish Theatre, Berkeley Repertory
+        Theatre, Exit Theater, Theatre Rhinoceros, Woman’s Will, Shotgun
+        Players, African American Shakespeare Company, among others. In 2013,
+        Nora founded a performance company called Affinity Project with Atosa
+        Babaoff, Beatrice Basso, and Emily Hoffman. Nora is a Pilates teacher
+        and co-owner of studio 74 pilates with business partner Jennifer
+        Moulton.  She received her BA in psychology from Wellesley College. Love
+        and thanks to Patrick and Ziyad.
       credit: President
       image: /img/archive/2015/08/NoraelSamahy300x300.jpg
       name: Nora el Samahy
-    - bio: "<strong>John Atwood</strong> is a Learning and Development Manager at
-        Google. He partners with engineering leadership to grow engineering
-        talent and scale learning resources globally. During his time at Google,
-        John has worked in the U.S. and Switzerland, and has visited over 10
-        distributed offices across Asia, Europe, and South America. Previous to
-        Google, John performed with a number of Bay Area theatre companies
-        including: California Shakespeare Theater, Crowded Fire Theater, New
-        Conservatory Theatre, Impact Theatre, and Theatre Rhinoceros. John’s
-        passion for theatre stems from his belief that theatre builds community
-        and serves as a catalyst for important dialogue and positive change. He
-        is absolutely thrilled to serve on the board for Golden Thread
-        Productions. John holds an M.S. in Organization Development from
-        Pepperdine University, and earned a Bachelors degree in Communication
-        and Theatre from the University of California, San Diego."
+    - bio: "<strong>John Atwood</strong> *(he/him)* is a Learning and Development
+        Manager at Google. He partners with engineering leadership to grow
+        engineering talent and scale learning resources globally. During his
+        time at Google, John has worked in the U.S. and Switzerland, and has
+        visited over 10 distributed offices across Asia, Europe, and South
+        America. Previous to Google, John performed with a number of Bay Area
+        theatre companies including: California Shakespeare Theater, Crowded
+        Fire Theater, New Conservatory Theatre, Impact Theatre, and Theatre
+        Rhinoceros. John’s passion for theatre stems from his belief that
+        theatre builds community and serves as a catalyst for important dialogue
+        and positive change. He is absolutely thrilled to serve on the board for
+        Golden Thread Productions. John holds an M.S. in Organization
+        Development from Pepperdine University, and earned a Bachelors degree in
+        Communication and Theatre from the University of California, San Diego."
       credit: Secretary
       image: /img/archive/2015/03/JohnAtwood_300x300.jpg
       name: John Atwood
-    - bio: "<strong>Dr. Artin Der Minassians</strong> is the Founding Artistic
-        Director of the Seemorgh Ensemble (of the Bay Area Classical Harmonies)
-        since 2006 and has directed various concerts with a focus on presenting
-        Armenian and Iranian choral music to a wider audience in the Bay Area.
-        He has collaborated with Pro Arts Gallery in Oakland as part of the Last
-        Friday at Pro Arts concert series. In 2009, he was invited to coach
-        &#8220;Chorissima,&#8221; the Grammy-­winning concert, recording, and
-        touring ensemble of the San Francisco Girls Chorus. His Seemorgh
-        Ensemble was invited to join the Oakland Symphony to conclude the
-        &#8220;Notes from Armenia&#8221; concert at the majestic Paramount
+    - bio: "<strong>Dr. Artin Der Minassians</strong> *(he/him)* is the Founding
+        Artistic Director of the Seemorgh Ensemble (of the Bay Area Classical
+        Harmonies) since 2006 and has directed various concerts with a focus on
+        presenting Armenian and Iranian choral music to a wider audience in the
+        Bay Area. He has collaborated with Pro Arts Gallery in Oakland as part
+        of the Last Friday at Pro Arts concert series. In 2009, he was invited
+        to coach &#8220;Chorissima,&#8221; the Grammy-­winning concert,
+        recording, and touring ensemble of the San Francisco Girls Chorus. His
+        Seemorgh Ensemble was invited to join the Oakland Symphony to conclude
+        the &#8220;Notes from Armenia&#8221; concert at the majestic Paramount
         Theatre in 2010. The singing of the chorus in that concert was described
         as “lustily”, “creating panoply of stirring sounds”, and “raising the
         rafters” in <em>San Francisco Classical Voice</em>, <em>San Francisco
@@ -203,9 +190,9 @@ board:
       credit: Treasurer
       image: /img/archive/2012/03/3f40df2.jpg
       name: Artin Der Minassians
-    - bio: <strong>May Allam</strong> is Senior Director of Engineering at TiVo, San
-        Jose CA. She manages an Engineering organization responsible for
-        developing the TiVo experience for set-top boxes at millions of
+    - bio: <strong>May Allam</strong> *(she/her)* is Senior Director of Engineering at
+        TiVo, San Jose CA. She manages an Engineering organization responsible
+        for developing the TiVo experience for set-top boxes at millions of
         households worldwide. Before joining TiVo, May worked at Palm and IBM
         Cairo Scientific Center. Throughout her career, May focused on building
         and empowering technical teams who develop great products. May is
@@ -216,15 +203,15 @@ board:
         opening a dialogue.
       image: /img/archive/2019/02/Allam-May-300x300-2.jpg
       name: May Allam
-    - bio: <strong>Rebecca Novick</strong> is a theatremaker based in San Francisco
-        Bay Area. Recent projects have included <em>Electra</em> at Ten Thousand
-        Things in Minneapolis, the world premiere of <em>A Ghost Town</em> by
-        Juliette Carrillo for Cornerstone Theater in Los Angeles, a production
-        of Shakespeare’s <em>Tempest </em>for California Shakespeare Theater
-        that toured homeless shelters, prisons, and community centers, and a
-        production of Erik Ehn’s <em>Dogsbody</em> that was presented at La Mama
-        in New York City. Rebecca was the founding artistic director of Crowded
-        Fire Theater Company and led the company for ten years. She also
+    - bio: <strong>Rebecca Novick</strong> *(she/her)* is a theatremaker based in San
+        Francisco Bay Area. Recent projects have included <em>Electra</em> at
+        Ten Thousand Things in Minneapolis, the world premiere of <em>A Ghost
+        Town</em> by Juliette Carrillo for Cornerstone Theater in Los Angeles, a
+        production of Shakespeare’s <em>Tempest </em>for California Shakespeare
+        Theater that toured homeless shelters, prisons, and community centers,
+        and a production of Erik Ehn’s <em>Dogsbody</em> that was presented at
+        La Mama in New York City. Rebecca was the founding artistic director of
+        Crowded Fire Theater Company and led the company for ten years. She also
         developed and led the Triangle Lab, a collaboration between California
         Shakespeare Theater and Intersection for the Arts, that explored how art
         can be more deeply integrated into community life, and then went onto
@@ -233,35 +220,36 @@ board:
         support the sharing of diverse stories of the Middle East.
       image: /img/archive/2017/12/Novick-Rebecca.jpg
       name: Rebecca Novick
-    - bio: "<strong>Torange Yeghiazarian</strong> (Executive Artistic Director)
-        founded Golden Thread in 1996 where she launched such visionary programs
-        as ReOrient Festival &#038; Forum, Middle East America (in partnership
-        with the Lark and Silkroad Rising), Islam 101 (with Hafiz Karmali), New
-        Threads, and the Fairytale Players. Torange’s plays include ISFAHAN
-        BLUES, 444 DAYS, THE FIFTH STRING: ZIRYAB’S PASSAGE TO CORDOBA, and CALL
-        ME MEHDI. Awards include the Gerbode-Hewlett Playwright Commission Award
-        (ISFAHAN BLUES) and a commission by the Islamic Cultural Center of
-        Northern California (THE FIFTH STRING). Her short play CALL ME MEHDI is
-        published in the anthology “Salaam. Peace: An Anthology of Middle
-        Eastern-American Drama,” TCG 2009. She adapted the poem, I SELL SOULS by
-        Simin Behbehani to the stage, and directed the premieres of OUR ENEMIES:
-        LIVELY SCENES OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi,
-        THE MYTH OF CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by
-        Amir Al-Azraki and VOICE ROOM by Reza Soroor, amongst others. Her
-        articles on contemporary theatre in Iran have been published in The
-        Drama Review (2012), American Theatre Magazine (2010), and Theatre Bay
-        Area Magazine (2010), and HowlRound. Torange has contributed to the
-        Encyclopedia of Women and Islamic Cultures and Cambridge World
-        Encyclopedia of Stage Actors. Born in Iran and of Armenian heritage,
-        Torange holds a Master’s degree in Theatre Arts from San Francisco State
-        University. Torange has been recognized by Theatre Bay Area and is one
-        of Theatre Communication Group’s Legacy Leaders of Color. She was
-        honored by the Cairo International Theatre Festival (2016) and the
-        Symposium on Equity in the Entertainment Industry (2017)."
+    - bio: "<strong>Torange Yeghiazarian</strong> (Executive Artistic Director;
+        *she/her*) founded Golden Thread in 1996 where she launched such
+        visionary programs as ReOrient Festival &#038; Forum, Middle East
+        America (in partnership with the Lark and Silkroad Rising), Islam 101
+        (with Hafiz Karmali), New Threads, and the Fairytale Players. Torange’s
+        plays include ISFAHAN BLUES, 444 DAYS, THE FIFTH STRING: ZIRYAB’S
+        PASSAGE TO CORDOBA, and CALL ME MEHDI. Awards include the
+        Gerbode-Hewlett Playwright Commission Award (ISFAHAN BLUES) and a
+        commission by the Islamic Cultural Center of Northern California (THE
+        FIFTH STRING). Her short play CALL ME MEHDI is published in the
+        anthology “Salaam. Peace: An Anthology of Middle Eastern-American
+        Drama,” TCG 2009. She adapted the poem, I SELL SOULS by Simin Behbehani
+        to the stage, and directed the premieres of OUR ENEMIES: LIVELY SCENES
+        OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF
+        CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir
+        Al-Azraki and VOICE ROOM by Reza Soroor, amongst others. Her articles on
+        contemporary theatre in Iran have been published in The Drama Review
+        (2012), American Theatre Magazine (2010), and Theatre Bay Area Magazine
+        (2010), and HowlRound. Torange has contributed to the Encyclopedia of
+        Women and Islamic Cultures and Cambridge World Encyclopedia of Stage
+        Actors. Born in Iran and of Armenian heritage, Torange holds a Master’s
+        degree in Theatre Arts from San Francisco State University. Torange has
+        been recognized by Theatre Bay Area and is one of Theatre Communication
+        Group’s Legacy Leaders of Color. She was honored by the Cairo
+        International Theatre Festival (2016) and the Symposium on Equity in the
+        Entertainment Industry (2017)."
       image: /img/archive/2014/03/torange_headshot_tfs.jpg
       name: Torange Yeghiazarian
-    - bio: <strong>Murrey Nelson</strong> is the Director of Development for
-        Chanticleer, a 39-year-old men’s a cappella group based in San
+    - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
+        for Chanticleer, a 39-year-old men’s a cappella group based in San
         Francisco.  Following 20 years in the for-profit sector, primarily doing
         trademark licensing in the fashion industry, she made the decision to be
         a fundraising professional for arts non-profits, and has done so for 11
@@ -278,23 +266,24 @@ board:
         theatre company as Golden Thread.
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
-    - bio: <strong>Babak Sani</strong> is a partner at the law firm of Kilpatrick
-        Townsend &#038; Stockton, where he has been practicing law since 1992.
-        Prior to that, he had an engineering career in Silicon Valley as an
-        integrated circuit designer in the microelectronics industry. He was
-        born in Iran and emigrated to the U.S. at the age of 15. He has been a
-        longtime supporter of a number of non-profits focusing on the arts,
-        education, the environment, and immigration reform, and has provided pro
-        bono legal services for several such organizations. He also serves on
-        the board of The Body Positive, a non-profit focusing on education
-        around body image. His interest in the fine arts, in particular of the
-        type that builds bridges between the Middle East and the West, made him
-        an early supporter of Golden Thread Productions. He believes deeply in
-        the mission of Golden Thread and is delighted to be part of the
-        organization. He received a Bachelor’s degree from UC Berkeley in
-        Electrical Engineering and Computer Sciences, a Master’s degree from
-        Santa Clara University in telecommunications, and his Juris Doctor
-        degree from UC Hastings. He has two daughters and lives in Berkeley, CA.
+    - bio: <strong>Babak Sani</strong> *(he/him)* is a partner at the law firm of
+        Kilpatrick Townsend &#038; Stockton, where he has been practicing law
+        since 1992. Prior to that, he had an engineering career in Silicon
+        Valley as an integrated circuit designer in the microelectronics
+        industry. He was born in Iran and emigrated to the U.S. at the age of
+        15. He has been a longtime supporter of a number of non-profits focusing
+        on the arts, education, the environment, and immigration reform, and has
+        provided pro bono legal services for several such organizations. He also
+        serves on the board of The Body Positive, a non-profit focusing on
+        education around body image. His interest in the fine arts, in
+        particular of the type that builds bridges between the Middle East and
+        the West, made him an early supporter of Golden Thread Productions. He
+        believes deeply in the mission of Golden Thread and is delighted to be
+        part of the organization. He received a Bachelor’s degree from UC
+        Berkeley in Electrical Engineering and Computer Sciences, a Master’s
+        degree from Santa Clara University in telecommunications, and his Juris
+        Doctor degree from UC Hastings. He has two daughters and lives in
+        Berkeley, CA.
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
 artists:
@@ -870,44 +859,41 @@ artists:
 advisors:
   heading: Advisory Board
   items:
-    - credit: >-
-        Director, The Center for Middle Eastern and North African Studies, and Associate Professor, Near Eastern Studies, University of Michigan
+    - credit: Director, The Center for Middle Eastern and North African Studies, and
+        Associate Professor, Near Eastern Studies, University of Michigan
       name: Samer Ali
       link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
-    - credit: >-
-        Assistant Professor of Theater and Performance Studies, Stanford University
+    - credit: Assistant Professor of Theater and Performance Studies, Stanford
+        University
       name: Samer Al-Saber
       link: https://ccsre.stanford.edu/people/samer-al-saber
-    - credit: >-
-        Distinguished Professor, Theatre, Comparative Literature, and Middle Eastern Studies, The Graduate Center, CUNY
+    - credit: Distinguished Professor, Theatre, Comparative Literature, and Middle
+        Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
       link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
-    - credit: >-
-        Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing
+    - credit: Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing
       name: Catherine Coray
       link: https://tisch.nyu.edu/about/directory/drama/94426744
-    - credit: >-
-        Professor, Iranian Studies and Comparative Literature, Columbia University
+    - credit: Professor, Iranian Studies and Comparative Literature, Columbia
+        University
       name: Hamid Dabashi
       link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
-    - credit: >-
-        Playwright and Professor, Playwriting, UC Berkeley
+    - credit: Playwright and Professor, Playwriting, UC Berkeley
       name: Philip Kan Gotanda
       link: https://tdps.berkeley.edu/people/philip-kan-gotanda
-    - credit: >-
-        Co-Founder, Theatre Without Borders, and Senior Program Associate, Sundance Institute Middle East North Africa Theatre Program
+    - credit: Co-Founder, Theatre Without Borders, and Senior Program Associate,
+        Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
       link: https://www.robertalevitow.com/
-    - credit: >-
-        Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU Tisch School of the Arts
+    - credit: Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
+        Tisch School of the Arts
       name: Ella Shohat
       link: https://tisch.nyu.edu/about/directory/app/1295710755
-    - credit: >-
-        Founding Faculty, Performing Arts and Social Justice Program, University of San Francisco
+    - credit: Founding Faculty, Performing Arts and Social Justice Program, University
+        of San Francisco
       name: Roberto Gutiérrez Varea
       link: https://www.usfca.edu/faculty/roberto-gutierrez-varea
-    - credit: >-
-        Playwright and MacArthur Fellow
+    - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
       link: https://www.naomiwallace.com/
 ---
