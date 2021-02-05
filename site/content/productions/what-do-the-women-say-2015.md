@@ -3,7 +3,7 @@ title: What Do the Women Say? 2015
 pre: POETRY OF RESISTANCE, PROSE OF RESILIENCE
 season: 2015
 date: 2015-02-13T09:43:00.000Z
-start: 2015-03-13T09:43:00.000Z
+start: 2015-03-13T06:00:00.000Z
 end: ""
 heading: A Celebration of International Women's Day
 description: Golden Thread will honor over a century of activism by women
