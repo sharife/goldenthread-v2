@@ -1,7 +1,7 @@
 ---
 title: What Do the Women Say? 2017
 pre: "SYRIA MON AMOUR: FOOD, HOME, AND HEALING"
-season: 2007
+season: 2017
 date: 2017-02-09T09:08:00.000Z
 start: 2017-03-09T09:08:00.000Z
 end: 2017-04-05T09:08:00.000Z
