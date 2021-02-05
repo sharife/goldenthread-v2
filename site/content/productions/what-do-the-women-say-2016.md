@@ -3,7 +3,7 @@ title: What Do the Women Say? 2016
 pre: BUILDING COMMUNITY THROUGH ART
 season: 2016
 date: 2016-02-13T09:28:00.000Z
-start: 2016-03-13T09:28:00.000Z
+start: 2016-03-13T06:00:00.000Z
 end: ""
 heading: A Celebration of International Women's Day
 description: >-
