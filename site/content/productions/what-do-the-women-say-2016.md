@@ -4,7 +4,7 @@ pre: BUILDING COMMUNITY THROUGH ART
 season: 2016
 date: 2016-02-13T09:28:00.000Z
 start: 2016-03-13T09:28:00.000Z
-end: 2016-04-13T09:28:00.000Z
+end: ""
 heading: A Celebration of International Women's Day
 description: >-
   Join us in celebrating pioneering Bay Area women artists who have built
@@ -143,10 +143,9 @@ photos:
   heading: Photos
 bottom:
   heading: Sponsors
-  text: "*What Do the Women Say?* is a **[SWAN
-    DAY](https://web.archive.org/web/20170927021325/https://www.womenarts.org/s\
-    wan/)** event and is sponsored by **WomenArts**."
+  text: "*What Do the Women Say?* is a **SWAN DAY** event and is sponsored by
+    **WomenArts**."
   logos:
-    - image: https://ucarecdn.com/d7887a56-9e10-4af9-a6ff-bfad18f1a063/
+    - image: https://ucarecdn.com/806d7f0c-d27f-4307-b662-7ade89acd13f/
 ---
 Each year, Golden Thread Productions celebrates International Women’s Day by showcasing the work of leading Middle Eastern women artists. Previous programs have focused on activism by women artists, artists who explore sex and sexuality, and female solo performers. Previous featured artists include Elmaz Abinader (*This House*, *My Bones*), Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita Amirrezvani (*The Blood of Flowers*, *Equal to the Sun*), Nawal el Saadawi (*Memoirs from the Women’s Prison*), Denmo Ibrahim (*Baba*, *ECSTASY | a waterfable*), Maryam Keshavarz (*Circumstance*), Rohiha Malek (*Unveiled*), Ayesha Mattau (*Love Inshallah*), Zahra Noorbakhsh (*All Atheists are Muslim*, #GoodMuslimBadMuslim), Shahrnush Parsipur (*The Prison Memoirs*, *Women Without Men*), Deema Shehabi (*Thirteen Departures From the Moon*), Seema Sueko (*Remains*), and Rosemary Toohey (*The Body Washer*).
