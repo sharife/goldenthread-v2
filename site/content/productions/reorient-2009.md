@@ -33,7 +33,9 @@ lists:
 
 
           **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
-  - heading: ReOrient 2009 Line-up
+        itemstart: 2021-02-05T09:01:11.229Z
+        itemend: 2021-02-05T09:01:11.387Z
+  - heading: REORIENT 2009 LINE-UP
     items:
       - text: >-
           An American soldier has an unexpected encounter with two afghan
@@ -47,6 +49,8 @@ lists:
         title: No Such Cold Thing
         subtitle: by Naomi Wallace
         image: https://ucarecdn.com/9333d2a8-aacc-4943-9a51-3cee2fb01902/
+        itemstart: 2021-02-05T09:01:11.504Z
+        itemend: 2021-02-05T09:01:11.619Z
       - subtitle: by Betty Shamieh
         text: >-
           From one of the most highly praised Arab-American playwrights comes
@@ -57,11 +61,15 @@ lists:
           **Betty Shamieh** is the author of fifteen plays. Productions include *The Strangest* (The Semitic Root), *Fit For the Queen* (Classical Theatre of Harlem), *The Machine* (Naked Angels) *The Black Eyed* (NYTW and Magic Theatre), *Territories* (Magic Theatre), and *Roar* (The New Group). Her works have been translated into seven languages, and her international productions include *Again and Against* (Playhouse Theater, Stockholm), *The Black Eyed* (Fournos Theatre, Athens), and *Territories* (Landes Theatre, Austria). 2016 Guggenheim Fellowship in Drama and Performance Art; Clifton Visiting Artist at Harvard College; Playwriting Fellow at the Radcliffe Institute for Advanced Studies; 2011 UNESCO Young Artist for Intercultural Dialogue in 2011. B.A., Harvard College; M.F.A., Yale School of Drama. [bettyshamieh.com](https://goldenthread.org/bettyshamieh.com)
         image: https://ucarecdn.com/ebe329c0-e141-456e-900b-5bbefaadeb41/
         title: Tamam
+        itemstart: 2021-02-05T09:01:11.734Z
+        itemend: 2021-02-05T09:01:11.859Z
       - subtitle: by Motti Lerner
         text: A compassionate inquiry into the fragility of the human spirit by one of
           Israel’s most vocal voices against the occupation.
         image: https://ucarecdn.com/2ef37784-2004-4b9a-a733-53edc8b45b14/
         title: Coming Home
+        itemstart: 2021-02-05T09:01:12.002Z
+        itemend: 2021-02-05T09:01:12.110Z
       - subtitle: by Torange Yeghiazarian
         text: >-
           A cultural divide erupts in this bedroom comedy between an Iranian
@@ -74,11 +82,15 @@ lists:
           Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/5feb4ecd-f83d-43a2-8407-2b358fa165cf/
         title: Call Me Mehdi
+        itemstart: 2021-02-05T09:01:12.195Z
+        itemend: 2021-02-05T09:01:12.290Z
       - subtitle: by Caveh Zahedi
         text: From the independent filmmaker responsible for I Am a Sex Addict and I
           don’t Hate Las Vegas Anymore, comes a kooky comedy about a lovable
           loser’s futile attempts at picking up the woman of his dreams.
         title: I’m Not a Serial Killer
+        itemstart: 2021-02-05T09:01:12.395Z
+        itemend: 2021-02-05T09:01:12.494Z
       - subtitle: by Torange Yeghiazarian
         text: >-
           A lyrical tale of forbidden love between an Armenian man and a Turkish
@@ -92,6 +104,8 @@ lists:
           Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/64398fc3-bcc0-4b82-91bf-08a81827cebb/
         title: Abaga
+        itemstart: 2021-02-05T09:01:12.590Z
+        itemend: 2021-02-05T09:01:12.697Z
       - subtitle: by Yussef El Guindi
         text: >-
           Chekov’s classic comedy of class conflict and lemons adapted to an
@@ -101,11 +115,15 @@ lists:
           **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/ab9508e3-9916-48f8-ad9a-518d0685426a/
         title: A Marriage Proposal
+        itemstart: 2021-02-05T09:01:12.810Z
+        itemend: 2021-02-05T09:01:12.956Z
       - subtitle: by Kevin Doyle
         text: Two CNN anchors find themselves stuck in the news report of an American
           soldier’s death in Iraq. They can neither tell the deeper tale, nor
           move on.
         title: Compression of a Casualty
+        itemstart: 2021-02-05T09:01:13.108Z
+        itemend: 2021-02-05T09:01:13.218Z
       - subtitle: by Yussef El Guindi
         text: >-
           A Palestinian-American explores her identity in this poignant and
@@ -116,6 +134,8 @@ lists:
           **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/a2c6bf37-281d-4ce5-8f16-982b3a6fcbd4/
         title: The Monologist Suffers Her Monologue
+        itemstart: 2021-02-05T09:01:13.332Z
+        itemend: 2021-02-05T09:01:13.431Z
 cast:
   heading: Cast & Crew
   items:
