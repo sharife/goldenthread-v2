@@ -549,6 +549,13 @@ collections: # A list of collections the CMS should be able to edit
             fields: 
               - {label: "Heading", name: "heading", widget: "string", required: false}
               - {label: "Text", name: "text", widget: "markdown", required: false}
+      - file: "site/content/about/equity/_index.md"
+        label: "Equity and Social Justice"
+        name: "equity"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: text, required: false}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/get-involved/_index.md"
         label: "Get Involved"
         name: "get-involved"

@@ -111,6 +111,13 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		url = "/about/bill-of-rights"
 		weight = 26
 
+		[[menu.primary]]
+		parent = "about"
+		identifier = "equity"
+		name = "Equity and Social Justice"
+		url = "/about/equity"
+		weight = 27
+
 	[[menu.primary]]
 	identifier = "programs"
 	name = "PROGRAMS"
