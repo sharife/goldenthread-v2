@@ -14,6 +14,16 @@ featuring: Torange Yeghiazarian and Nora El Samahy; confirmed guest artists
   include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer,
   among others.
 visitlink: https://howlround.com
+misc: "Past featured artists include Elmaz Abinader (This House, My Bones),
+  Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita
+  Amirrezvani (The Blood of Flowers, Equal to the Sun), Nawal el Saadawi
+  (Memoirs from the Women’s Prison), Denmo Ibrahim (Baba, ECSTASY | a
+  waterfable), Maryam Keshavarz (Circumstance), Rohiha Malek (Unveiled), Nabila
+  Mango (executive director, Zawaya), Ayesha Mattau (Love Inshallah), Zahra
+  Noorbakhsh (All Atheists are Muslim, #GoodMuslimBadMuslim), Shahrnush Parsipur
+  (The Prison Memoirs, Women Without Men), Betty Shamieh (The Black Eyed,
+  Territories), Deema Shehabi (Thirteen Departures From the Moon), Seema Sueko
+  (Remains), and Rosemary Toohey (The Body Washer), and Dina Zarif. "
 cast:
   heading: Artist Bios
 ---
