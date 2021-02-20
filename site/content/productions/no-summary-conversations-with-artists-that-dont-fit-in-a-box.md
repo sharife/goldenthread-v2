@@ -5,6 +5,8 @@ date: 2021-02-20T03:41:04.513Z
 start: 2021-02-20T03:41:04.533Z
 end: 2021-02-20T03:41:04.553Z
 description: ""
+background: https://ucarecdn.com/8239aa0c-b68d-4521-bf62-27fddd6f1fa2/
+titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
