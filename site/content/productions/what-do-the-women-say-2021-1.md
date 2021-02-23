@@ -22,6 +22,9 @@ externallinklabel: Click Here to Watch!
 misc: ""
 cast:
   heading: Artist Bios
+  items:
+    - name: Torange Yeghiazarian
+      credit: Artistic Director
 mentions:
   text: "Past featured artists include Elmaz Abinader (This House, My Bones),
     Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita
