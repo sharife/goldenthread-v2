@@ -10,6 +10,7 @@ description: Each year, Golden Thread Productions celebrates International
   leading Middle Eastern women artists. Previous programs have focused on
   dismantling patriarchy, the resilience of Syrian women who build community
   through their art, and artists who explore sex and sexuality.
+background: https://ucarecdn.com/4a8529d6-c6f5-415e-a646-abb14bba852d/
 featuring: Torange Yeghiazarian and Nora El Samahy; confirmed guest artists
   include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer,
   among others.
