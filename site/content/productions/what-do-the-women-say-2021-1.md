@@ -24,32 +24,45 @@ cast:
   heading: Artist Bios
   items:
     - name: Torange Yeghiazarian
-      credit: Artistic Director
-      bio: "(she/her; Executive Artistic Director) founded Golden Thread in 1996 where
-        she launched such visionary programs as ReOrient Festival Forum, Middle
-        East America (in partnership with the Lark and Silkroad Rising), Islam
-        101 (with Hafiz Karmali), New Threads, and the Fairytale Players.
-        Torange’s plays include ISFAHAN BLUES, 444 DAYS, THE FIFTH STRING:
-        ZIRYAB’S PASSAGE TO CORDOBA, and CALL ME MEHDI. Awards include the
-        Gerbode-Hewlett Playwright Commission Award (ISFAHAN BLUES) and a
-        commission by the Islamic Cultural Center of Northern California (THE
-        FIFTH STRING). Her short play CALL ME MEHDI is published in the
-        anthology “Salaam. Peace: An Anthology of Middle Eastern-American
-        Drama,” TCG 2009. She adapted the poem, I SELL SOULS by Simin Behbehani
-        to the stage, and directed the premieres of OUR ENEMIES: LIVELY SCENES
-        OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF
-        CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir
-        Al-Azraki and VOICE ROOM by Reza Soroor, amongst others. Her articles on
-        contemporary theatre in Iran have been published in The Drama Review
-        (2012), American Theatre Magazine (2010), and Theatre Bay Area Magazine
-        (2010), and HowlRound. Torange has contributed to the Encyclopedia of
-        Women and Islamic Cultures and Cambridge World Encyclopedia of Stage
-        Actors. Born in Iran and of Armenian heritage, Torange holds a Master’s
-        degree in Theatre Arts from San Francisco State University. Torange has
-        been recognized by Theatre Bay Area and is one of Theatre Communication
-        Group’s Legacy Leaders of Color. She was honored by the Cairo
-        International Theatre Festival (2016) and the Symposium on Equity in the
-        Entertainment Industry (2017)."
+      credit: Executive Artistic Director
+      bio: "(she/her) founded Golden Thread in 1996 where she launched such visionary
+        programs as ReOrient Festival Forum, Middle East America (in partnership
+        with the Lark and Silkroad Rising), Islam 101 (with Hafiz Karmali), New
+        Threads, and the Fairytale Players. Torange’s plays include ISFAHAN
+        BLUES, 444 DAYS, THE FIFTH STRING: ZIRYAB’S PASSAGE TO CORDOBA, and CALL
+        ME MEHDI. Awards include the Gerbode-Hewlett Playwright Commission Award
+        (ISFAHAN BLUES) and a commission by the Islamic Cultural Center of
+        Northern California (THE FIFTH STRING). Her short play CALL ME MEHDI is
+        published in the anthology “Salaam. Peace: An Anthology of Middle
+        Eastern-American Drama,” TCG 2009. She adapted the poem, I SELL SOULS by
+        Simin Behbehani to the stage, and directed the premieres of OUR ENEMIES:
+        LIVELY SCENES OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi,
+        THE MYTH OF CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by
+        Amir Al-Azraki and VOICE ROOM by Reza Soroor, amongst others. Her
+        articles on contemporary theatre in Iran have been published in The
+        Drama Review (2012), American Theatre Magazine (2010), and Theatre Bay
+        Area Magazine (2010), and HowlRound. Torange has contributed to the
+        Encyclopedia of Women and Islamic Cultures and Cambridge World
+        Encyclopedia of Stage Actors. Born in Iran and of Armenian heritage,
+        Torange holds a Master’s degree in Theatre Arts from San Francisco State
+        University. Torange has been recognized by Theatre Bay Area and is one
+        of Theatre Communication Group’s Legacy Leaders of Color. She was
+        honored by the Cairo International Theatre Festival (2016) and the
+        Symposium on Equity in the Entertainment Industry (2017)."
+    - name: Nora el Samahy
+      credit: Board President/Resident Artist
+      bio: "**Nora el Samahy**’s (she/her) professional acting career began in 1998 as
+        a Fairy in San Francisco Shakespeare Festival’s production of A
+        MIDSUMMER NIGHT’S DREAM. She then went on to work with Campo Santo,
+        Golden Thread Productions, Alter Theater, Aurora Theatre, Magic Theatre,
+        foolsFURY, Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit
+        Theater, Theatre Rhinoceros, Woman’s Will, Shotgun Players, African
+        American Shakespeare Company, among others. In 2013, Nora founded a
+        performance company called Affinity Project with Atosa Babaoff, Beatrice
+        Basso, and Emily Hoffman. Nora is a Pilates teacher and co-owner of
+        studio 74 pilates with business partner Jennifer Moulton. She received
+        her BA in psychology from Wellesley College. Love and thanks to Patrick
+        and Ziyad."
 mentions:
   text: "Past featured artists include Elmaz Abinader (This House, My Bones),
     Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita
