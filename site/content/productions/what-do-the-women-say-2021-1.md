@@ -14,7 +14,9 @@ background: https://ucarecdn.com/4a8529d6-c6f5-415e-a646-abb14bba852d/
 featuring: Torange Yeghiazarian and Nora El Samahy; confirmed guest artists
   include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer,
   among others.
-visitlink: https://howlround.com
+visitlink: https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women
+ticketlink: https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women
+ticketinfo: Click Here to Watch
 misc: ""
 cast:
   heading: Artist Bios
