@@ -11,6 +11,19 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
+      - itemstart: 2021-02-25T19:08:57.037Z
+        itemend: 2021-02-25T19:08:57.074Z
+        text: "NO SUMMARY series returns with a conversation with John Eisner, Jamil
+          Khoury, and Torange Yeghiazarian, the founders of Middle East America:
+          A National New Plays Initiative (MEA). They will discuss the program’s
+          lasting impact and the future of Middle Eastern American theatre.
+          Launched in 2008 by The Lark, Silk Road Rising, and Golden Thread, the
+          program supported the development and production of new work such as
+          Night Over Erzinga by Adreana Sevahn Nichols, and We Swim We Talk We
+          Got to War by Mona Mansour. Golden Thread’s Nora El Samahy will
+          facilitate."
+        cta: Click here to watch!
+        title: "Featuring Middle East America: A National New Plays Initiative!"
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
