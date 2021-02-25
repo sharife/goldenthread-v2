@@ -1,6 +1,7 @@
 ---
 title: "No Summary: Conversations with Artists that Don't Fit in a Box!"
 pre: A livestream conversation series with live audience Q&A.
+season: 2021
 date: 2021-02-20T03:41:04.513Z
 start: 2021-02-20T03:41:04.533Z
 end: 2021-02-20T03:41:04.553Z
@@ -10,11 +11,8 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2020-10-07T18:00:52.877Z
+      - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
-        title: Featuring leading Iranian playwright, Naghmeh Samini!
-        subtitle: Aired Wednesday, October 7th, 2021.
-        image: https://ucarecdn.com/2a48cbde-db89-472a-9fe4-8c59e01116ea/
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
           playwright of *The Language of Wild Berries,* which will be released
           as a radio play on October 6th. One of Iran’s leading playwrights,
@@ -23,8 +21,12 @@ lists:
           relations are at an all-time low, hearing directly from artists that
           create in both countries has never been more vital. The cast and
           creative team from the radio play will join the conversation."
-        link: https://howlround.com/happenings/no-summary-playwright-naghmeh-samini
+        itemstart: 2020-10-07T18:00:52.877Z
         cta: Click here to watch!
+        subtitle: Aired Wednesday, October 7th, 2021.
+        title: Featuring leading Iranian playwright, Naghmeh Samini!
+        link: https://howlround.com/happenings/no-summary-playwright-naghmeh-samini
+        image: https://ucarecdn.com/2a48cbde-db89-472a-9fe4-8c59e01116ea/
       - itemstart: 2020-10-23T18:00:10.783Z
         itemend: 2020-10-23T20:00:34.927Z
         title: Featuring four singular playwrights of Arab heritage!
