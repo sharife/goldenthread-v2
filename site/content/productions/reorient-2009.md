@@ -472,7 +472,7 @@ photos:
     - image: https://ucarecdn.com/29cac041-5712-4d7a-8aa5-51f7af8ca709/
     - image: https://ucarecdn.com/2339dc35-84dc-4f32-b70c-347bcd6c6413/
 photos2:
-  heading: The Review by Yussef El Guindi premioered at ReOrient Forum
+  heading: The Review by Yussef El Guindi premiered at ReOrient Forum
   items:
     - image: https://ucarecdn.com/52e8c77d-823d-45f1-841d-7ea34c977f3c/
     - image: https://ucarecdn.com/e21240bf-64cd-4ee8-9b5c-25de14d9ac30/
@@ -484,7 +484,7 @@ bottom:
     Haas Fund, The Puffin Foundation. 
 
 
-    We are grateful for the support of the following Community Partners:
+    Community Partners:
 
 
     UC Berkeley Center for Middle Eastern Studies, University of San Francisco Performance and Social Justice Program, Jewish Community Foundation, Middle East Children's Alliance, Theatre Bay Area, Theatre Communications Group, Omid Foundation, KPFA Radio, The San Francisco Bay Guardian.
