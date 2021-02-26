@@ -360,17 +360,6 @@ cast:
         does voice over work for Link TV’s program,*Mosaic: World News from the
         Middle East.*"
       image: https://ucarecdn.com/8d75ec9c-eb16-4583-a10f-6648fcbc3d0d/
-    - bio: "**Maryam Farnaz Rostami** was born to Iranian parents in the suburbs of
-        Dallas, Texas. She has a BArch and a BA Plan II Honors from the
-        University of Texas at Austin. Maryam has designed affordable
-        multi-family housing at Pyatok Architects for the past 3.5 years, and is
-        currently teaching Architectural Design at University of California at
-        Berkeley. She was last seen in the role of the Mother in Jesse Hewit’s
-        *TOTAL FACTS KNOWN* at Mama Calizo’s Voice Factory, and is a resident DJ
-        at Radio Bar in Oakland. Maryam aspires to contribute to sublime beauty
-        in human experience."
-      name: "Maryam Farnaz Rostami "
-      credit: Performer
     - name: Leah Herman
       credit: Performer
       bio: "**Leah Herman**is thrilled to be working with Golden Thread and this group
@@ -394,17 +383,6 @@ cast:
         their dedication and hard work in putting together a great work of art.
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
-    - bio: >-
-        Leah Herman is thrilled to be working with Golden Thread and this group
-        of good people. She has
-
-        performed, trained, taught, been cast, rejected and waited in LONG cattle calls in (mostly) NY and the Bay Area. Credits include classical and contemporary theater, lots of original works, improv, film, 
-
-        developmental readings, voice-over and a little television. Swell local work includes productions and readings at Magic, Aurora, City Lights and Playwrights Foundation. Leah spent the winter gloriously working with Richard Foreman and teaching a couple of master classes in NY. Thank you
-
-        to Greg, Mum, Sasha, Pie and Matthew, and to you, the audience, for spending time with us today. This is dedicated to Nanny.
-      name: Leah Herman
-      credit: Actor
     - name: Afif Houssain
       credit: Actor
       image: https://ucarecdn.com/91f6ba73-3254-4066-8518-f550e0f4fc8b/
@@ -424,16 +402,17 @@ cast:
       name: Vida Ghahremani
       credit: Actor
       image: https://ucarecdn.com/ddd0045f-3869-47f3-bb2d-0350f321fac9/
-    - bio: Maryam Farnaz Rostami (Actor) was born to Iranian parents in the suburbs of
-        Dallas, Texas. She has a BArch and a BA Plan II Honors from the
-        University of Texas at Austin. Maryam has designed affordable
-        multi-family housing at Pyatok Architects for the past 3.5 years, and is
-        currently teaching Architectural Design at University of California at
-        Berkeley. She was last seen in the role of the Mother in Jesse Hewit’s
-        Total Facts Known at Mama Calizo’s Voice Factory. Maryam aspires to
-        contribute to sublime beauty in human experience.
-      name: Maryam Farnaz Rostami
+    - name: Nora El Samahy
       credit: Actor
+      bio: "Nora el Samahy* (Actor) This is Nora’s second production with Golden
+        Thread after Ecstasy | a waterfable last summer. Since living in the Bay
+        Area she has worked with: Aurora Theatre, Magic Theatre, foolsFURY,
+        Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit Theater,
+        Theatre Rhinoceros, Woman’s Will, Shotgun Players, African American
+        Shakespeare Company, and the San Francisco Shakespeare Festival. Nora is
+        a certified Pilates instructor and co-owner of Studio 74 Pilates with
+        business partner Jennifer Moulton. Love and respect to family, friends,
+        and Patrick."
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
