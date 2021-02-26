@@ -6,16 +6,26 @@ start: 2009-11-20T06:12:00.000Z
 end: 2009-12-14T06:12:00.000Z
 heading: The First Ten Years
 description: >-
-  Golden Thread Productions' hallmark event is ReOrient, a festival of plays
-  exploring the Middle East. Debuted in 1999, more than thirty plays have been
-  presented at the ReOrient festival, majority of them world and or U.S.
-  premieres.
+  Golden Thread Productions celebrates the tenth anniversary of its
+  one-of-a-kind festival of short plays exploring the Middle East featuring a
+  world premiere by MacArthur Genius award-winner, Naomi Wallace, as well as a
+  retrospective of plays from the festival’s past ten years including works by
+  Yussef El Guindi, Motti Lerner, Betty Shamieh, Torange Yeghiazarian and Caveh
+  Zahedi.
 
 
   For four weeks, this one of a kind festival turns San Francisco into a Mecca for innovative, spirited, and thought-provoking theatre from around the world. Providing a rare opportunity for artists and audiences alike to engage deeply and directly with the Middle East in a creative and supportive setting that displaces misinformation and encourages understanding.
+background: https://ucarecdn.com/45f2b56a-5331-488a-adea-b525555f21a7/-/crop/1959x1118/0,188/-/preview/
+titleimage: https://ucarecdn.com/a76c1e92-8f4e-4329-9a7b-1c713a27ae61/
+program: https://ucarecdn.com/fb6ef62e-b3ee-4154-b11e-039b04524438/
 writer: Yussef El Guindi, Naomi Wallace, Torange Yeghiazarian, Caveh Zahedi
 director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
   Yeghiazarian, M. Graham Smith
+featuring: Vida Ghahremani, Leah Herman, Afif Houssain, Charles Isen*, Suraya
+  Keating, Dina Mousawi, Basel Al-Naffouri, George Psarras, Sara Razavi, Maryam
+  Rostami, Nora el Samahy*, Micheal Sommers, Ahou Tabibzadeh, Raffi Wartanian
+designteam: Kate Boyd (scenic), Blake Manship (lighting), Bradford Chapin
+  (sound), Victoria Livingston-Hall (costumes), Mia Baxter (props)
 stage: Thick House
 address: 1695 18th Street, San Francisco, CA
 lists:
@@ -454,5 +464,14 @@ cast:
         **Joe Mizzi** (Technical Director)
 photos:
   heading: ""
+  items:
+    - image: https://ucarecdn.com/3e95f76f-c32a-4c6e-b3bf-57ea0a9b0798/
+    - image: https://ucarecdn.com/157a1efc-59eb-480c-8ac6-8c59351be9ad/
+    - image: https://ucarecdn.com/2ca1042c-0db3-42ce-907a-9f2bacfa4099/
+    - image: https://ucarecdn.com/6e96227c-e817-4a44-9a5e-f8996a40f4e0/
+    - image: https://ucarecdn.com/29cac041-5712-4d7a-8aa5-51f7af8ca709/
+    - image: https://ucarecdn.com/2339dc35-84dc-4f32-b70c-347bcd6c6413/
 ---
 The ReOrient Festival was conceived in 1999 to meet the urgent and ongoing need for Middle Eastern voices in American theatre and to create a home where Middle Eastern artists are nurtured and supported. The festival aims to showcase the vast variety of voices and styles emerging from and inspired by the Middle East and to bring together diverse communities to engage with the region. At the same time, the ReOrient Festival helps to demystify the region by encouraging writing about the Middle East by playwrights from all cultural, ethnic, and national backgrounds. Today, celebrating the festival's tenth anniversary, ReOrient continues to be guided by these principles, serving as a forum for addressing current events and personal experiences.
+
+In association with the festival, Golden Thread will present ReOrient Forum a two-day gathering of theatre artists and field specialists engaging in discussions about Middle Eastern-American Theatre, Internet conferencing with theatre artists in the Middle East, and an original play interactively performed in San Francisco and Cairo via the Internet. In addition, Golden Thread is proud to showcase the best of Bay Area Middle Eastern Arts by featuring performances by Ballet Afsaneh and ASWAT Bay Area Arabic.
