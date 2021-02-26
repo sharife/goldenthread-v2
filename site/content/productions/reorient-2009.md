@@ -413,6 +413,28 @@ cast:
         a certified Pilates instructor and co-owner of Studio 74 Pilates with
         business partner Jennifer Moulton. Love and respect to family, friends,
         and Patrick."
+    - bio: >-
+        Micheal Sommers Mike is excited to be a Golden Thread first timer! He
+        has recently appeared
+
+        as Uncle Buzzy in his creation Uncle Buzzy’s Hometown Theater Show!!, Tell It Slant at The Pear,
+
+        For All the Babies Father’s at the Brava! And in over forty films and TV shows like Stitch In Time, The Evidence, Haiku Tunnel, Revenge of the Wee, Bandits and Nash Bridges! Come see Community Supported AgriComedy- Uncle Buzzy at the Velo Rouge Café this December! It’s sort of a local cross between Mad TV and Flight of the Conchords with live music and comedy! (www.unclebuzzy.
+
+        com) (www.michaelsommers.com)
+      name: Micheal Sommers
+      credit: Actor
+    - bio: >-
+        Ahou Tabibzadeh (Actor) has a B.F.A in Theater (Acting) from the
+        University of Utah. She is very excited to be returning to Golden Thread
+        in ReOrient 2009 as Soledad in Compression of a Casualty
+
+        and in reprising the role of Ziba in Call Me Mehdi. Ahou would like to dedicate her performances to the current human rights and democracy movement inside of Iran to those who have fallen and to those who continue to stand relentlessly, defiantly and heroically against tremendous oppression 
+
+        and censorship for their inalienable personal and political freedoms.
+      name: Ahou Tabibzadeh
+      credit: Actor
+      image: https://ucarecdn.com/47db3294-8cc7-4a3b-ad75-c62f157bf16c/
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
