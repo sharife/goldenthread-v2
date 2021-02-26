@@ -291,6 +291,7 @@ cast:
         studied with Studio ACT, Stanford Continued Studies, and the BATS School
         of Improv. Basel is excited to be performing for the first time with the
         ReOrient festival on its 10th anniversary."
+      image: https://ucarecdn.com/96a2754e-833c-4865-81d0-7a0a884a537f/
     - bio: "**Suraya Susana Keating** is a Bay Area actress, director, Registered
         Drama Therapist and yoga instructor. She was most recently seen in*Zen
         Boyfriends*, *Tony-n-Tina's Wedding*, Marin Shakespeare's production of
@@ -304,6 +305,7 @@ cast:
         suraya.org/)"
       name: Suraya Susana Keating
       credit: Performer
+      image: https://ucarecdn.com/6f70b05e-bb24-4e80-8ba2-bb43808c34c5/
     - name: Dina Mousawi
       credit: Performer
       bio: >-
@@ -313,6 +315,7 @@ cast:
         extensively in TV, theatre and film.\
 
         Theatre credits include: *Jesus Christ & Chocolate Pudding*; *How the Rapist Was Born* (Tristan Bates Theatre, London); *Ali to Karim* (US tour); *The Marriage of Figaro* (New Players Theatre, London); *The Tempest*; *Mandragora King of India*; *Journey to the West*; (Tara Arts UK tours); *When Amar Met Jay* (Lyric Hammersmith, London); *Shakespeare and Tragedy* (European tour); *West Side Story* (Alhambra Theatre, Bradford). Television: Coronation Street; Cold Feet (Granada); Dalziel and Pascoe (BBC); Gold; Wilderness Edge (Granada); King Girl (BBC); Just Us (ITV). Film: King of Bollywood (I Dream Productions); Asylum (Maximize Productions). Presenting: T4 (At It Productions for Channel 4); Freedom Fighting: Capoeira (Satellite Productions); Shakespeare Works! (KJ Films Ltd).
+      image: https://ucarecdn.com/a9479210-7dee-4771-ad98-e64c95e61712/
     - bio: "**George Psarras** is excited to make his debut with Golden Thread
         Productions. George was last seen as *Aramis* in *The Three Musketeers*
         at City Lights Theatre Company. Other City Lights credits include
@@ -327,6 +330,7 @@ cast:
         Theatre Conservatory at Foothill College."
       name: George Psarras
       credit: Performer
+      image: https://ucarecdn.com/9ae4b14a-882f-403a-b1a7-e2a442893c34/
     - name: Sara Razavi
       bio: "**Sara Razavi** is reappearing as Hoda in The *Monologist Suffers Her
         Monologue* from ReOrient Festival 2007. One of the founding members of
@@ -339,6 +343,7 @@ cast:
         ([heysf.org](https://web.archive.org/web/20160827000825/http://heysf.or\
         g/))."
       credit: Performer
+      image: https://ucarecdn.com/2559efcc-8a09-4616-a790-3e851dc76c5e/
     - name: Raffi Wartanina
       credit: Performer
       bio: "**Raffi Wartanian** is a writer, multi-instrumentalist, and activist
@@ -354,17 +359,7 @@ cast:
         performed in Armenian aboard the Armenian Heritage Cruise*.* Raffi also
         does voice over work for Link TV’s program,*Mosaic: World News from the
         Middle East.*"
-    - bio: "**Maryam Farnaz Rostami** was born to Iranian parents in the suburbs of
-        Dallas, Texas. She has a BArch and a BA Plan II Honors from the
-        University of Texas at Austin. Maryam has designed affordable
-        multi-family housing at Pyatok Architects for the past 3.5 years, and is
-        currently teaching Architectural Design at University of California at
-        Berkeley. She was last seen in the role of the Mother in Jesse Hewit’s
-        *TOTAL FACTS KNOWN* at Mama Calizo’s Voice Factory, and is a resident DJ
-        at Radio Bar in Oakland. Maryam aspires to contribute to sublime beauty
-        in human experience."
-      name: "Maryam Farnaz Rostami "
-      credit: Performer
+      image: https://ucarecdn.com/8d75ec9c-eb16-4583-a10f-6648fcbc3d0d/
     - name: Leah Herman
       credit: Performer
       bio: "**Leah Herman**is thrilled to be working with Golden Thread and this group
@@ -388,6 +383,58 @@ cast:
         their dedication and hard work in putting together a great work of art.
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
+    - name: Afif Houssain
+      credit: Actor
+      image: https://ucarecdn.com/91f6ba73-3254-4066-8518-f550e0f4fc8b/
+      bio: >-
+        Afif Houssain (Actor) is a Palestinian, born in 1954. Afif was a high
+        school teacher in Shefa-Amer, his home town in the Galilee, where he
+        taught history of the Middle East for six years until the late-
+
+        1980’s, when he moved to the United States. He has been attracted to theater since the early stages of his life, and was cast for rolls in a few local plays during his youth. In the U.S., he took several drama classes. These classes include a story-telling class and a playwriting class. Besides his passion for theater, he also enjoys writing.
+    - bio: >-
+        Vida Ghahremani began acting in film as a teenager in Iran where she
+        established the standards
+
+        of stardom. A member of the Screen Actors Guild, Vida continued her career in the US appearing in plays by Pari Saberi and Masoud Assadolahi, and films such as Guests of Hotel Astoria and most recently, One Thousand Years of Good Prayers by Wayne Wang. Vida has been an Artistic Associate
+
+        of Golden Thread Productions since its founding. She performed in Abaga in 2001 and Nine Armenians in 2002. Vida is an active member of Golden Thread’s Fairytale Players and currently leads Creative Drama classes at Golestan School in Berkeley as part of Golden Thread’s Education Program.
+      name: Vida Ghahremani
+      credit: Actor
+      image: https://ucarecdn.com/ddd0045f-3869-47f3-bb2d-0350f321fac9/
+    - name: Nora El Samahy
+      credit: Actor
+      bio: "Nora el Samahy* (Actor) This is Nora’s second production with Golden
+        Thread after Ecstasy | a waterfable last summer. Since living in the Bay
+        Area she has worked with: Aurora Theatre, Magic Theatre, foolsFURY,
+        Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit Theater,
+        Theatre Rhinoceros, Woman’s Will, Shotgun Players, African American
+        Shakespeare Company, and the San Francisco Shakespeare Festival. Nora is
+        a certified Pilates instructor and co-owner of Studio 74 Pilates with
+        business partner Jennifer Moulton. Love and respect to family, friends,
+        and Patrick."
+    - bio: >-
+        Micheal Sommers Mike is excited to be a Golden Thread first timer! He
+        has recently appeared
+
+        as Uncle Buzzy in his creation Uncle Buzzy’s Hometown Theater Show!!, Tell It Slant at The Pear,
+
+        For All the Babies Father’s at the Brava! And in over forty films and TV shows like Stitch In Time, The Evidence, Haiku Tunnel, Revenge of the Wee, Bandits and Nash Bridges! Come see Community Supported AgriComedy- Uncle Buzzy at the Velo Rouge Café this December! It’s sort of a local cross between Mad TV and Flight of the Conchords with live music and comedy! (www.unclebuzzy.
+
+        com) (www.michaelsommers.com)
+      name: Micheal Sommers
+      credit: Actor
+    - bio: >-
+        Ahou Tabibzadeh (Actor) has a B.F.A in Theater (Acting) from the
+        University of Utah. She is very excited to be returning to Golden Thread
+        in ReOrient 2009 as Soledad in Compression of a Casualty
+
+        and in reprising the role of Ziba in Call Me Mehdi. Ahou would like to dedicate her performances to the current human rights and democracy movement inside of Iran to those who have fallen and to those who continue to stand relentlessly, defiantly and heroically against tremendous oppression 
+
+        and censorship for their inalienable personal and political freedoms.
+      name: Ahou Tabibzadeh
+      credit: Actor
+      image: https://ucarecdn.com/47db3294-8cc7-4a3b-ad75-c62f157bf16c/
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
