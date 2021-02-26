@@ -1,6 +1,13 @@
 ---
 title: ReOrient Forum 2009
 date: 2009-12-06T09:37:00.000Z
+description: "A two-day gathering of theatre artists and field specialists
+  engaging in discussions about Middle Eastern American Theatre, internet
+  conferencing with theatre artists in the Middle East, and an original play
+  interactively performed in San Francisco and Cairo via the internet. In
+  addition, Golden Thread is proud to showcase the best of the Bay Area Middle
+  Eastern Performing Arts by featuring performances by Ballet Afsaneh and ASWAT
+  Bay Area Arabic Music Ensemble. "
 background: https://ucarecdn.com/4d813ee7-5d41-499a-8149-54c887f62d27/
 ---
 **ReOrient Forum Panel Schedule:**
