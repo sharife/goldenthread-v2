@@ -157,50 +157,6 @@ lists:
 cast:
   heading: Cast & Crew
   items:
-    - name: Yussef El Guindi
-      credit: Playwright
-      bio: "**Yussef El Guindi**’smost recent productions: *Jihad Jones and the
-        Kalashnikov Babes*, produced at Golden Thread Productions in San
-        Francisco, at InterAct Theater in Philadelphia, and at Kitchen Dog
-        theater in Dallas, as part of the National New Play Network. *Our
-        Enemies: Lively Scenes of Love and Combat*, produced by Silk Road
-        Theatre Project in Chicago, where it was Jeff Nominated, and was among
-        the six finalists for the 2009 American Theater Critics Associations
-        Steinberg/ New Play Award. The American Theater Critics Association has
-        also given it the 2009 M. Elizabeth Osborn Award. Other
-        productions:*Back of the Throat* was winner of the 2004 Northwest
-        Playwrights’ Competition held by Theater Schmeater. It won L.A. Weekly’s
-        Excellence in Playwriting Award for 2006. It was also nominated for the
-        2006 American Theater Critics Associations Steinberg/ New Play Award,
-        and was voted Best New Play of 2005 by the Seattle Times. It was first
-        staged by San Francisco’s Thick Description and Golden Thread
-        Productions; then later presented in various theaters around the country
-        including The Flea Theater in New York. Another play of his,*Ten
-        Acrobats in an Amazing Leap of Faith*, staged by Silk Road Theatre
-        Project, won the After Dark Award for Best New Play in Chicago in 2006.
-        His two-related one-acts,*Acts of Desire*, were staged by the Fountain
-        Theatre in Los Angeles.*Back of the Throat*, and the two related
-        one-acts, now titled, Such a *Beautiful Voice is Sayeeda’s* and
-        *Karima’s City*, have been published by Dramatists Play Service. The
-        latter one-acts have also been included in The Best American Short
-        Plays: 2004-2005, published by Applause Books. His play,*Ten Acrobats in
-        an Amazing Leap of Faith*, is to be included in Salaam/Peace: An
-        Anthology of Middle-Eastern-American Playwrights, to be published by TCG
-        in 2009. Yussef holds an MFA from Carnegie-Mellon University and was
-        playwright-in-residence at Duke University."
-    - name: Naomi Wallace
-      credit: Playwright
-      bio: "**Naomi Wallace**'s work has been produced in the United Kingdom, Europe
-        and the United States. Her major plays include One Flea Spare, In the
-        Heart of America, Slaughter City, The Trestle at Pope Lick Creek, Things
-        of Dry Hours and The Fever Chart: Three Short Visions of the Middle
-        East. Her work has received the Susan Smith Blackburn Prize, the
-        Kesselring Prize, the Fellowship of Southern Writers Drama Award, and an
-        Obie. She is also a recipient of the MacArthur \"Genius\" Fellowship.
-        Her award-winning film Lawn Dogs is available on DVD. Her new film, The
-        War Boys, co-written with Bruce Mcleod, will be released in 2009.
-        Wallace is writing new plays for the Public Theatre, Oregon Shakespeare
-        Festival and Clean Break of London."
     - name: Torange Yeghiazarian
       credit: Playwright & Director
       bio: "**Torange Yeghiazarian** writes, directs and acts for the theatre. She is
@@ -225,22 +181,6 @@ cast:
         holds a Master’s degree in Theatre Arts from San Francisco State
         University."
       image: https://ucarecdn.com/6911ff18-a88b-4e4d-a435-5f565c3d7313/
-    - name: Caveh Zahedi
-      credit: Playwright
-      bio: "**Caveh Zahedi** is an autobiographical writer/actor/director who combines
-        both dramatic and documentary elements in his work. His films have won
-        awards at major international film festivals, and have been distributed
-        theatrically, released on DVD, and broadcast on television. He is a
-        Guggenheim recipient, a Rome Prize Fellow, a MacDowell Fellow, and a
-        winner of the 2005 Gotham Award for “Best Film Not Playing at a Theater
-        Near You.” He has received grants from the National Endowment for the
-        Arts, the National Endowment for the Humanities, the American Film
-        Institute, the Sundance Documentary Fund, Creative Capital, and The San
-        Francisco Arts Commission. His films include A Little Stiff (1991), I
-        Don’t Hate Las Vegas Anymore(1994), In The Bathtub of the World (2001),
-        and I Am A Sex Addict (2005). He has also appeared as an actor in Waking
-        Life (2001), A Sign From God (2000), Money Buys Happiness (1999), and
-        Citizen Ruth (1996)."
     - name: Arlene Hood
       bio: "**Arlene Hood**: *The Monologist Suffers Her Monologue, Call Me Mehdi*"
       credit: Director
