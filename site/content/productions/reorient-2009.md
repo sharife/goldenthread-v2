@@ -414,8 +414,26 @@ cast:
         taught history of the Middle East for six years until the late-
 
         1980’s, when he moved to the United States. He has been attracted to theater since the early stages of his life, and was cast for rolls in a few local plays during his youth. In the U.S., he took several drama classes. These classes include a story-telling class and a playwriting class. Besides his passion for theater, he also enjoys writing.
-    - {}
-    - {}
+    - bio: >-
+        Vida Ghahremani began acting in film as a teenager in Iran where she
+        established the standards
+
+        of stardom. A member of the Screen Actors Guild, Vida continued her career in the US appearing in plays by Pari Saberi and Masoud Assadolahi, and films such as Guests of Hotel Astoria and most recently, One Thousand Years of Good Prayers by Wayne Wang. Vida has been an Artistic Associate
+
+        of Golden Thread Productions since its founding. She performed in Abaga in 2001 and Nine Armenians in 2002. Vida is an active member of Golden Thread’s Fairytale Players and currently leads Creative Drama classes at Golestan School in Berkeley as part of Golden Thread’s Education Program.
+      name: Vida Ghahremani
+      credit: Actor
+      image: https://ucarecdn.com/ddd0045f-3869-47f3-bb2d-0350f321fac9/
+    - bio: Maryam Farnaz Rostami (Actor) was born to Iranian parents in the suburbs of
+        Dallas, Texas. She has a BArch and a BA Plan II Honors from the
+        University of Texas at Austin. Maryam has designed affordable
+        multi-family housing at Pyatok Architects for the past 3.5 years, and is
+        currently teaching Architectural Design at University of California at
+        Berkeley. She was last seen in the role of the Mother in Jesse Hewit’s
+        Total Facts Known at Mama Calizo’s Voice Factory. Maryam aspires to
+        contribute to sublime beauty in human experience.
+      name: Maryam Farnaz Rostami
+      credit: Actor
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
