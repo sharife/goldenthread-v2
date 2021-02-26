@@ -39,7 +39,7 @@ lists:
           play interactively performed in San Francisco and Cairo via the
           Internet. In addition, Golden Thread is proud to showcase the best of
           Bay Area Middle Eastern Performing Arts by featuring performances by
-          Ballet Afsaneh and Aswat Bay Area Arabic Choir.
+          Ballet Afsaneh and Aswat Bay Area Arabic Music Ensemble.
 
 
           **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
@@ -74,8 +74,20 @@ lists:
         itemstart: 2021-02-05T09:01:11.734Z
         itemend: 2021-02-05T09:01:11.859Z
       - subtitle: by Motti Lerner
-        text: A compassionate inquiry into the fragility of the human spirit by one of
-          Israel’s most vocal voices against the occupation.
+        text: >-
+          A compassionate inquiry into the fragility of the human spirit by one
+          of Israel’s most vocal voices against the occupation.
+
+
+          Motti Lerner is a playwright and screenwriter, born in Israel in 1949. Motti teaches playwriting at the Kibbutz College in Tel Aviv and has been active in the peace movement in Israel since He frequently lectures at European and American Universities on playwriting, on the Israeli theatre, and especially on the Israeli theatre and the Israeli-Palestinian conflict. Most of his plays and films deal with political issues. He is a recipient of the Meskin Award for the best play (1985), and the Israeli Motion Picture Academy award for the best TV drama in 1995 and in 2004. In 1994 he won the Prime Minister’s of Israel Award for his creative work. His plays have been produced in the US, the UK, Germany, Switzerland, Italy, Austria and Australia. His
+
+          American productions include: The murder of Isaac at Centerstage Theatre, Baltimore, and
+
+          also as part of the New York Now festival at the Public Theatre in NY), Exile in Jerusalem
+
+          (Williamstown Festival – with Julie Harris in the title role, Jewish Ensemble Theatre, Detroit, La Mama Theatre, NY, Theatre J Washington DC) Hard Love – Theatre Or, Durham NC, Victory Gardens, Chicago, and JTS in Atlanta, Passing The Love of Women– Theatre J, Washington DC, Coming Home– Golden Thread Productions, San Francisco, Pangs of the Messiah - Theatre
+
+          J in Washington DC, Silk Road Theatre Project in Chicago and Cleveland Playhouse in Cleveland. Benedictus for Golden Thread Productions in San Francisco, in LATC in Los Angeles, and in Theatre J in Washington DC. His play Pangs of the Messiah was nominated for the Helen Hayes award for the best play of 2008.
         image: https://ucarecdn.com/2ef37784-2004-4b9a-a733-53edc8b45b14/
         title: Coming Home
         itemstart: 2021-02-05T09:01:12.002Z
