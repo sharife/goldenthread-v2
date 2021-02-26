@@ -98,11 +98,10 @@ lists:
           woman and her American husband.
 
 
-          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+          Torange Yeghiazarian writes, directs and acts for the theatre. Born in Iran and of Armenian heritage, Torange holds a Master’s degree in Theatre Arts from San Francisco State University. Her plays (444 Days, Call Me Mehdi, Waves, Dawn at Midnight, Behind Glass Windows, Abaga) reflect the perspective of the culturally displaced in tackling today’s world of contradictory realities and values. As a teaching artist, Torange has taught playwriting to at-risk youth as part of the Each One Reach One program, incorporated theatre into social studies in Richmond’s
 
-
-          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
-        image: https://ucarecdn.com/5feb4ecd-f83d-43a2-8407-2b358fa165cf/
+          Washington Elementary School as part of East Bay Center for Performing Arts’ Learning Without Borders program, and led acting and play development workshops for Golden Thread Productions. Torange would like to dedicate this production to the memory of Laura Stevens. She is greatly missed.
+        image: https://ucarecdn.com/69d87ef3-0967-4dc8-a69f-4cdc860851b7/
         title: Call Me Mehdi
         itemstart: 2021-02-05T09:01:12.195Z
         itemend: 2021-02-05T09:01:12.290Z
