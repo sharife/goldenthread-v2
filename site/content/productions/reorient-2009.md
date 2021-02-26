@@ -463,7 +463,7 @@ cast:
 
         **Joe Mizzi** (Technical Director)
 photos:
-  heading: ""
+  heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
     - image: https://ucarecdn.com/3e95f76f-c32a-4c6e-b3bf-57ea0a9b0798/
     - image: https://ucarecdn.com/157a1efc-59eb-480c-8ac6-8c59351be9ad/
@@ -471,6 +471,12 @@ photos:
     - image: https://ucarecdn.com/6e96227c-e817-4a44-9a5e-f8996a40f4e0/
     - image: https://ucarecdn.com/29cac041-5712-4d7a-8aa5-51f7af8ca709/
     - image: https://ucarecdn.com/2339dc35-84dc-4f32-b70c-347bcd6c6413/
+photos2:
+  heading: The Review by Yussef El Guindi premioered at ReOrient Forum
+  items:
+    - image: https://ucarecdn.com/52e8c77d-823d-45f1-841d-7ea34c977f3c/
+    - image: https://ucarecdn.com/e21240bf-64cd-4ee8-9b5c-25de14d9ac30/
+    - image: https://ucarecdn.com/32564047-0e6f-49c1-8648-3c59cbbad29f/
 ---
 The ReOrient Festival was conceived in 1999 to meet the urgent and ongoing need for Middle Eastern voices in American theatre and to create a home where Middle Eastern artists are nurtured and supported. The festival aims to showcase the vast variety of voices and styles emerging from and inspired by the Middle East and to bring together diverse communities to engage with the region. At the same time, the ReOrient Festival helps to demystify the region by encouraging writing about the Middle East by playwrights from all cultural, ethnic, and national backgrounds. Today, celebrating the festival's tenth anniversary, ReOrient continues to be guided by these principles, serving as a forum for addressing current events and personal experiences.
 
