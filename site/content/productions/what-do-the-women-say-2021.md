@@ -1,9 +1,9 @@
 ---
 title: What Do the Women Say? 2021
 season: 2021
-date: 2021-02-22T03:23:19.010Z
+date: 2021-02-20T03:23:19.010Z
 start: 2021-03-08T19:00:19.064Z
-end: 2021-03-08T23:00:19.096Z
+end: ""
 heading: Celebrating 25 Years of Centering Women Artists
 description: Each year, Golden Thread Productions celebrates International
   Women’s Day with ***What Do the Women Say?***, which showcases the work of

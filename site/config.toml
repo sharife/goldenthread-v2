@@ -3,7 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2020"
+	currentseason = "2021"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -22,45 +22,38 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "on-the-periphery"
-		name = "On the Periphery"
-		url = "/productions/on-the-periphery"
+		identifier = "no-summary"
+		name = "No Summary"
+		url = "/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/"
 		weight = 11
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "jogging"
-		name = "Jogging"
-		url = "/productions/jogging"
+		identifier = "what-do-the-women-say-p"
+		name = "What Do the Women Say? 2021"
+		url = "https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women"
 		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "the-language-of-wild-berries"
 		name = "The Language of Wild Berries"
-		url = "/productions/the-language-of-wild-berries"
+		url = "/productions/the-language-of-wild-berries-2021"
 		weight = 13
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "what-do-the-women-say-p"
-		name = "What Do the Women Say? 2020"
-		url = "/productions/what-do-the-women-say"
-		weight = 14
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "new-threads-reading-series"
-		name = "New Threads Reading Series 2020"
-		url = "/productions/new-threads-reading-series"
-		weight = 15
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "leila"
 		name = "Leila’s Quest For Flight"
-		url = "/productions/leila"
-		weight = 16
+		url = "/productions/leila-2021"
+		weight = 14
+
+		[[menu.primary]]
+		parent = "season"
+		identifier = "new-threads-reading-series"
+		name = "New Threads Reading Series 2021"
+		url = "/productions/new-threads-reading-series"
+		weight = 15
 
 
 	[[menu.primary]]

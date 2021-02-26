@@ -23,7 +23,7 @@
   <h3 class="f3 b">Productions</h3>
   <ul class="flex-ns flex-wrap mhn1-ns pv3">
     {{ $season := .Params.currentseason }}
-      {{ range where (where .Site.Pages "Type" "productions") ".Params.season" $season }}
+      {{ range (where (where .Site.Pages "Type" "productions") ".Params.season" $season) }}
           <div class="w-100-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>

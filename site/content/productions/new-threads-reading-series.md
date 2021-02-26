@@ -2,7 +2,7 @@
 title: New Threads Reading Series 2021
 pre: Four New Plays. Four Singular Voices.
 season: 2021
-date: 2019-09-01T19:37:00.000Z
+date: 2021-02-05T19:37:00.000Z
 start: 2021-08-02T07:00:00.000Z
 end: 2021-08-24T23:37:38.228Z
 description: Golden Thread’s annual staged reading series engages its audience

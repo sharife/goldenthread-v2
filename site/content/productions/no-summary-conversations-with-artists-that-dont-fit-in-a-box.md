@@ -2,10 +2,10 @@
 title: "No Summary: Conversations with Artists that Don't Fit in a Box!"
 pre: A livestream conversation series with live audience Q&A.
 season: 2021
-date: 2021-02-20T03:41:04.513Z
+date: 2021-02-21T03:41:04.513Z
 start: 2021-02-20T03:41:04.533Z
-end: 2021-02-20T03:41:04.553Z
-description: ""
+end: ""
+description: "These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices. "
 background: https://ucarecdn.com/8239aa0c-b68d-4521-bf62-27fddd6f1fa2/
 titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
@@ -97,4 +97,4 @@ cast:
   items: []
   heading: Keep and eye out for more episodes coming soon!
 ---
-We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of artists in conversation with our artistic director Torange Yeghiazarian, and can't wait to continue this interactive free livestream programming with new episodes this year. These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices. We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
+We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of artists in conversation with our artistic director Torange Yeghiazarian, and can't wait to continue this interactive free livestream programming with new episodes this year. We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
