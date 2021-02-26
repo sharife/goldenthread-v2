@@ -324,7 +324,7 @@ cast:
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
     - name: Afif Houssain
-      credit: Actor
+      credit: Performer
       image: https://ucarecdn.com/91f6ba73-3254-4066-8518-f550e0f4fc8b/
       bio: >-
         Afif Houssain (Actor) is a Palestinian, born in 1954. Afif was a high
@@ -340,10 +340,10 @@ cast:
 
         of Golden Thread Productions since its founding. She performed in Abaga in 2001 and Nine Armenians in 2002. Vida is an active member of Golden Thread’s Fairytale Players and currently leads Creative Drama classes at Golestan School in Berkeley as part of Golden Thread’s Education Program.
       name: Vida Ghahremani
-      credit: Actor
+      credit: Performer
       image: https://ucarecdn.com/ddd0045f-3869-47f3-bb2d-0350f321fac9/
     - name: Nora El Samahy
-      credit: Actor
+      credit: Performer
       bio: "Nora el Samahy* (Actor) This is Nora’s second production with Golden
         Thread after Ecstasy | a waterfable last summer. Since living in the Bay
         Area she has worked with: Aurora Theatre, Magic Theatre, foolsFURY,
@@ -363,7 +363,7 @@ cast:
 
         com) (www.michaelsommers.com)
       name: Micheal Sommers
-      credit: Actor
+      credit: Performer
     - bio: >-
         Ahou Tabibzadeh (Actor) has a B.F.A in Theater (Acting) from the
         University of Utah. She is very excited to be returning to Golden Thread
@@ -373,7 +373,7 @@ cast:
 
         and censorship for their inalienable personal and political freedoms.
       name: Ahou Tabibzadeh
-      credit: Actor
+      credit: Performer
       image: https://ucarecdn.com/47db3294-8cc7-4a3b-ad75-c62f157bf16c/
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
