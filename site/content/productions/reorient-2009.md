@@ -106,9 +106,13 @@ lists:
         itemstart: 2021-02-05T09:01:12.195Z
         itemend: 2021-02-05T09:01:12.290Z
       - subtitle: by Caveh Zahedi
-        text: From the independent filmmaker responsible for I Am a Sex Addict and I
+        text: >-
+          From the independent filmmaker responsible for I Am a Sex Addict and I
           don’t Hate Las Vegas Anymore, comes a kooky comedy about a lovable
           loser’s futile attempts at picking up the woman of his dreams.
+
+
+          Caveh Zahedi is an autobiographical writer/actor/director who combines both dramatic and documentary elements in his work. His films have won awards at major international film festivals, and have been distributed theatrically, released on DVD, and broadcast on television. He is a Guggenheim recipient, a Rome Prize Fellow, a MacDowell Fellow, and a winner of the 2005 Gotham Award for “Best Film Not Playing at a Theater Near You.” He has received grants from the National Endowment for the Arts, the National Endowment for the Humanities, the American Film Institute, the Sundance Documentary Fund, Creative Capital, and The San Francisco Arts Commission. His films include A Little Stiff (1991), I Don’t Hate Las Vegas Anymore (1994), In The Bathtub of the World (2001), and I Am A Sex Addict (2005). He has also appeared as an actor in Waking Life (2001), A Sign From God (2000), Money Buys Happiness (1999), and Citizen Ruth (1996).
         title: I’m Not a Serial Killer
         itemstart: 2021-02-05T09:01:12.395Z
         itemend: 2021-02-05T09:01:12.494Z
