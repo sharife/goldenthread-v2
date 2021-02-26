@@ -147,13 +147,9 @@ lists:
         itemstart: 2021-02-05T09:01:13.108Z
         itemend: 2021-02-05T09:01:13.218Z
       - subtitle: by Yussef El Guindi
-        text: >-
-          A Palestinian-American explores her identity in this poignant and
-          comedic monologue. In the dialogue of nations, do you ever get the
-          feeling that Palestine is just a monologue?
-
-
-          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
+        text: A Palestinian-American explores her identity in this poignant and comedic
+          monologue. In the dialogue of nations, do you ever get the feeling
+          that Palestine is just a monologue?
         image: https://ucarecdn.com/a2c6bf37-281d-4ce5-8f16-982b3a6fcbd4/
         title: The Monologist Suffers Her Monologue
         itemstart: 2021-02-05T09:01:13.332Z
