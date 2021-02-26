@@ -291,6 +291,7 @@ cast:
         studied with Studio ACT, Stanford Continued Studies, and the BATS School
         of Improv. Basel is excited to be performing for the first time with the
         ReOrient festival on its 10th anniversary."
+      image: https://ucarecdn.com/96a2754e-833c-4865-81d0-7a0a884a537f/
     - bio: "**Suraya Susana Keating** is a Bay Area actress, director, Registered
         Drama Therapist and yoga instructor. She was most recently seen in*Zen
         Boyfriends*, *Tony-n-Tina's Wedding*, Marin Shakespeare's production of
@@ -304,6 +305,7 @@ cast:
         suraya.org/)"
       name: Suraya Susana Keating
       credit: Performer
+      image: https://ucarecdn.com/6f70b05e-bb24-4e80-8ba2-bb43808c34c5/
     - name: Dina Mousawi
       credit: Performer
       bio: >-
@@ -313,6 +315,7 @@ cast:
         extensively in TV, theatre and film.\
 
         Theatre credits include: *Jesus Christ & Chocolate Pudding*; *How the Rapist Was Born* (Tristan Bates Theatre, London); *Ali to Karim* (US tour); *The Marriage of Figaro* (New Players Theatre, London); *The Tempest*; *Mandragora King of India*; *Journey to the West*; (Tara Arts UK tours); *When Amar Met Jay* (Lyric Hammersmith, London); *Shakespeare and Tragedy* (European tour); *West Side Story* (Alhambra Theatre, Bradford). Television: Coronation Street; Cold Feet (Granada); Dalziel and Pascoe (BBC); Gold; Wilderness Edge (Granada); King Girl (BBC); Just Us (ITV). Film: King of Bollywood (I Dream Productions); Asylum (Maximize Productions). Presenting: T4 (At It Productions for Channel 4); Freedom Fighting: Capoeira (Satellite Productions); Shakespeare Works! (KJ Films Ltd).
+      image: https://ucarecdn.com/a9479210-7dee-4771-ad98-e64c95e61712/
     - bio: "**George Psarras** is excited to make his debut with Golden Thread
         Productions. George was last seen as *Aramis* in *The Three Musketeers*
         at City Lights Theatre Company. Other City Lights credits include
@@ -327,6 +330,7 @@ cast:
         Theatre Conservatory at Foothill College."
       name: George Psarras
       credit: Performer
+      image: https://ucarecdn.com/9ae4b14a-882f-403a-b1a7-e2a442893c34/
     - name: Sara Razavi
       bio: "**Sara Razavi** is reappearing as Hoda in The *Monologist Suffers Her
         Monologue* from ReOrient Festival 2007. One of the founding members of
@@ -339,6 +343,7 @@ cast:
         ([heysf.org](https://web.archive.org/web/20160827000825/http://heysf.or\
         g/))."
       credit: Performer
+      image: https://ucarecdn.com/2559efcc-8a09-4616-a790-3e851dc76c5e/
     - name: Raffi Wartanina
       credit: Performer
       bio: "**Raffi Wartanian** is a writer, multi-instrumentalist, and activist
@@ -354,6 +359,7 @@ cast:
         performed in Armenian aboard the Armenian Heritage Cruise*.* Raffi also
         does voice over work for Link TV’s program,*Mosaic: World News from the
         Middle East.*"
+      image: https://ucarecdn.com/8d75ec9c-eb16-4583-a10f-6648fcbc3d0d/
     - bio: "**Maryam Farnaz Rostami** was born to Iranian parents in the suburbs of
         Dallas, Texas. She has a BArch and a BA Plan II Honors from the
         University of Texas at Austin. Maryam has designed affordable
@@ -388,6 +394,28 @@ cast:
         their dedication and hard work in putting together a great work of art.
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
+    - bio: >-
+        Leah Herman is thrilled to be working with Golden Thread and this group
+        of good people. She has
+
+        performed, trained, taught, been cast, rejected and waited in LONG cattle calls in (mostly) NY and the Bay Area. Credits include classical and contemporary theater, lots of original works, improv, film, 
+
+        developmental readings, voice-over and a little television. Swell local work includes productions and readings at Magic, Aurora, City Lights and Playwrights Foundation. Leah spent the winter gloriously working with Richard Foreman and teaching a couple of master classes in NY. Thank you
+
+        to Greg, Mum, Sasha, Pie and Matthew, and to you, the audience, for spending time with us today. This is dedicated to Nanny.
+      name: Leah Herman
+      credit: Actor
+    - name: Afif Houssain
+      credit: Actor
+      image: https://ucarecdn.com/91f6ba73-3254-4066-8518-f550e0f4fc8b/
+      bio: >-
+        Afif Houssain (Actor) is a Palestinian, born in 1954. Afif was a high
+        school teacher in Shefa-Amer, his home town in the Galilee, where he
+        taught history of the Middle East for six years until the late-
+
+        1980’s, when he moved to the United States. He has been attracted to theater since the early stages of his life, and was cast for rolls in a few local plays during his youth. In the U.S., he took several drama classes. These classes include a story-telling class and a playwriting class. Besides his passion for theater, he also enjoys writing.
+    - {}
+    - {}
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
