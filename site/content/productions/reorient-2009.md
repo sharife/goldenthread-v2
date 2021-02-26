@@ -194,7 +194,7 @@ cast:
         Wallace is writing new plays for the Public Theatre, Oregon Shakespeare
         Festival and Clean Break of London."
     - name: Torange Yeghiazarian
-      credit: Playwright
+      credit: Playwright & Director
       bio: "**Torange Yeghiazarian** writes, directs and acts for the theatre. She is
         the Artistic Director of Golden Thread Productions, where she has
         devoted her professional life to exploring Middle Eastern cultures and
@@ -216,6 +216,7 @@ cast:
         adults for Golden Thread. Born in Iran and of Armenian heritage, Torange
         holds a Master’s degree in Theatre Arts from San Francisco State
         University."
+      image: https://ucarecdn.com/6911ff18-a88b-4e4d-a435-5f565c3d7313/
     - name: Caveh Zahedi
       credit: Playwright
       bio: "**Caveh Zahedi** is an autobiographical writer/actor/director who combines
@@ -252,21 +253,6 @@ cast:
         opportunity. And this too will melt away like snow in May."
       credit: Director
       name: Bella Ramazan-Nia
-    - bio: "**Torange Yeghiazarian**: *Tamam*. A native of Iran and of Armenian
-        heritage, Torange holds a Master’s degree in Theatre Arts from San
-        Francisco State University. Her plays (*Call Me Mehdi, Waves, Dawn at
-        Midnight, Behind Glass Windows, Abaga*) reflect the perspective of the
-        culturally displaced in tackling today’s world of contradictory
-        realities and values. As a teaching artist, Torange has taught
-        playwriting to at-risk youth as part of the Each One Reach One program,
-        incorporated theatre into social studies in Richmond’s Washington
-        Elementary School as part of East Bay Center for Performing Arts’
-        Learning Without Borders program, and lead acting and play development
-        workshops for Golden Thread Productions. She is the Artistic Director of
-        Golden Thread Productions, where she has devoted her professional life
-        to exploring Middle Eastern culture and identity through theatre arts."
-      name: Torange Yeghiazarian
-      credit: Founding Artistic Director, Playwright
     - name: M. Graham Smith
       credit: Director
       bio: "**M. Graham Smith**: *I'm Not a Serial Killer*. Smith is the founder and
@@ -383,58 +369,6 @@ cast:
         gloriously working with Richard Foreman and teaching a couple of master
         classes in NY. Thank you to Greg, Mum, Sasha, Pie and Matthew, and to
         you, the audience, for spending time with us today."
-    - bio: "**Vida Ghahremani, Afif Houssain, Chuck Charles Isen, Nora el Samahy,
-        Michael X. Sommers, Ahou Tabibzadeh**"
-      name: "Performers:"
-    - bio: "**Bradford Chapin** (Sound Designer) is excited to be involved with the
-        10th year of ReOrientation. Bay area credits include *She Stoops to
-        Comedy*(SF Playhouse),*Happy Days*(Cal Shakes)*, Basha Rubenchek from
-        Minsk* (Brookside Repertory Theatre), and assistant designer for *The
-        Creature* (Blackbox Theatre). Chicago credits: *John and Jen* (Apple
-        Tree), *Arrangements* (Pavement Group), and *Seven Doors* (Premiere
-        Theatre and Performance). Bradford holds a degree in Music from
-        University of Wisconsin-Parkside and serves as a sound engineer for Cal
-        Shakes and TheatreWorks."
-      name: Bradford Chapin
-      credit: Sound Designer
-    - bio: |-
-        **Mia Baxter**(Props)
-
-        **Kate Boyd**(Set Designer)
-
-        **Victoria Livingston-Hall**(Costume Designer)
-
-        **Navid G. Maghami**
-
-        **Blake Manship**(Lighting Designer)
-      name: "Design Team:"
-    - name: Serge Bakalian
-      credit: Managing Director
-      bio: "**Serge Bakalian** (Managing Director) joined Golden Thread in October
-        bringing with him years of experience in nonprofit management, as well
-        as a spirit of entrepreneurship. Trained as a chemist, Serge has worked
-        and consulted for several major NGO’s including Greenpeace International
-        and the F.A.O. of the United Nations. He’s been a founding member of
-        organizations such as the Cedre Foundation, the Glendale Greens and the
-        Green Alliance. A native of Lebanon and of Greek-Armenian heritage,
-        Serge holds a B.S. in Chemistry and a B.S and M.S in International
-        Relations from the London School of Economics. A writer and filmmaker,
-        his works have spanned both fiction and nonfiction, currently producing
-        the feature-length film, *Default: the Student Loan Documentary*. His
-        work and activism have led him to many parts of the world, most
-        extensively throughout the Middle East and Latin America."
-    - name: Alycia Dymond
-      credit: Production Manager
-      bio: "**Alycia Dymond** (Production Manager) is a graduate of San Francisco
-        State University, where she earned a degree in Technical Theatre. This
-        is her first production with Golden Thread and as a Production Manager.
-        Her stage management credits include *let the northern lights erase your
-        name* for Campo Santo and *Alice in Wonderland* for Ragged Wing
-        Ensemble, and several shows with Crowded Fire Theater Company where she
-        is an ensemble member. Alycia has also worked with San Francisco
-        SketchFest, C Venues at the Edinburgh Fringe Festival, TheatreWorks, and
-        California Shakespeare Theater. Thanks to friends and family for their
-        continued support on this crazy theatrical ride."
     - name: Mary K. Gabrysiak
       credit: Production Stage Manager
       bio: "**Mary K. Gabrysiak** (Production Stage Manager) is proud to be apart of
@@ -446,22 +380,6 @@ cast:
         their dedication and hard work in putting together a great work of art.
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
-    - name: Junelle-Johannah Taguas
-      credit: Assistant Stage Manager
-      bio: "**Junelle-Johannah Taguas** (Assistant Stage Manager) is a recent graduate
-        of the University of Portland, OR where she obtained a BA in Drama with
-        triple emphases in: production management, performance and lighting
-        design. She is now living back in her hometown of San Francisco working
-        to become an Equity stage manager. Other companies she has worked with
-        are: the San Francisco Mime Troupe, Climate Theatre, The Z Space Studio,
-        and the Nomadic Theatre Company in Portland."
-    - name: Production Team
-      bio: |-
-        **Samia Abouu-Samra** (Production Intern)
-
-        **Lauren Boone** (Assistant Stage Manager)
-
-        **Joe Mizzi** (Technical Director)
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
