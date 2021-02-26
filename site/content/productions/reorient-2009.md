@@ -39,7 +39,7 @@ lists:
           play interactively performed in San Francisco and Cairo via the
           Internet. In addition, Golden Thread is proud to showcase the best of
           Bay Area Middle Eastern Performing Arts by featuring performances by
-          Ballet Afsaneh and Aswat Bay Area Arabic Choir.
+          Ballet Afsaneh and Aswat Bay Area Arabic Music Ensemble.
 
 
           **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
@@ -74,8 +74,20 @@ lists:
         itemstart: 2021-02-05T09:01:11.734Z
         itemend: 2021-02-05T09:01:11.859Z
       - subtitle: by Motti Lerner
-        text: A compassionate inquiry into the fragility of the human spirit by one of
-          Israel’s most vocal voices against the occupation.
+        text: >-
+          A compassionate inquiry into the fragility of the human spirit by one
+          of Israel’s most vocal voices against the occupation.
+
+
+          Motti Lerner is a playwright and screenwriter, born in Israel in 1949. Motti teaches playwriting at the Kibbutz College in Tel Aviv and has been active in the peace movement in Israel since He frequently lectures at European and American Universities on playwriting, on the Israeli theatre, and especially on the Israeli theatre and the Israeli-Palestinian conflict. Most of his plays and films deal with political issues. He is a recipient of the Meskin Award for the best play (1985), and the Israeli Motion Picture Academy award for the best TV drama in 1995 and in 2004. In 1994 he won the Prime Minister’s of Israel Award for his creative work. His plays have been produced in the US, the UK, Germany, Switzerland, Italy, Austria and Australia. His
+
+          American productions include: The murder of Isaac at Centerstage Theatre, Baltimore, and
+
+          also as part of the New York Now festival at the Public Theatre in NY), Exile in Jerusalem
+
+          (Williamstown Festival – with Julie Harris in the title role, Jewish Ensemble Theatre, Detroit, La Mama Theatre, NY, Theatre J Washington DC) Hard Love – Theatre Or, Durham NC, Victory Gardens, Chicago, and JTS in Atlanta, Passing The Love of Women– Theatre J, Washington DC, Coming Home– Golden Thread Productions, San Francisco, Pangs of the Messiah - Theatre
+
+          J in Washington DC, Silk Road Theatre Project in Chicago and Cleveland Playhouse in Cleveland. Benedictus for Golden Thread Productions in San Francisco, in LATC in Los Angeles, and in Theatre J in Washington DC. His play Pangs of the Messiah was nominated for the Helen Hayes award for the best play of 2008.
         image: https://ucarecdn.com/2ef37784-2004-4b9a-a733-53edc8b45b14/
         title: Coming Home
         itemstart: 2021-02-05T09:01:12.002Z
@@ -86,62 +98,58 @@ lists:
           woman and her American husband.
 
 
-          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
+          Torange Yeghiazarian writes, directs and acts for the theatre. Born in Iran and of Armenian heritage, Torange holds a Master’s degree in Theatre Arts from San Francisco State University. Her plays (444 Days, Call Me Mehdi, Waves, Dawn at Midnight, Behind Glass Windows, Abaga) reflect the perspective of the culturally displaced in tackling today’s world of contradictory realities and values. As a teaching artist, Torange has taught playwriting to at-risk youth as part of the Each One Reach One program, incorporated theatre into social studies in Richmond’s
 
-
-          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
-        image: https://ucarecdn.com/5feb4ecd-f83d-43a2-8407-2b358fa165cf/
+          Washington Elementary School as part of East Bay Center for Performing Arts’ Learning Without Borders program, and led acting and play development workshops for Golden Thread Productions. Torange would like to dedicate this production to the memory of Laura Stevens. She is greatly missed.
+        image: https://ucarecdn.com/69d87ef3-0967-4dc8-a69f-4cdc860851b7/
         title: Call Me Mehdi
         itemstart: 2021-02-05T09:01:12.195Z
         itemend: 2021-02-05T09:01:12.290Z
       - subtitle: by Caveh Zahedi
-        text: From the independent filmmaker responsible for I Am a Sex Addict and I
+        text: >-
+          From the independent filmmaker responsible for I Am a Sex Addict and I
           don’t Hate Las Vegas Anymore, comes a kooky comedy about a lovable
           loser’s futile attempts at picking up the woman of his dreams.
+
+
+          Caveh Zahedi is an autobiographical writer/actor/director who combines both dramatic and documentary elements in his work. His films have won awards at major international film festivals, and have been distributed theatrically, released on DVD, and broadcast on television. He is a Guggenheim recipient, a Rome Prize Fellow, a MacDowell Fellow, and a winner of the 2005 Gotham Award for “Best Film Not Playing at a Theater Near You.” He has received grants from the National Endowment for the Arts, the National Endowment for the Humanities, the American Film Institute, the Sundance Documentary Fund, Creative Capital, and The San Francisco Arts Commission. His films include A Little Stiff (1991), I Don’t Hate Las Vegas Anymore (1994), In The Bathtub of the World (2001), and I Am A Sex Addict (2005). He has also appeared as an actor in Waking Life (2001), A Sign From God (2000), Money Buys Happiness (1999), and Citizen Ruth (1996).
         title: I’m Not a Serial Killer
         itemstart: 2021-02-05T09:01:12.395Z
         itemend: 2021-02-05T09:01:12.494Z
       - subtitle: by Torange Yeghiazarian
-        text: >-
-          A lyrical tale of forbidden love between an Armenian man and a Turkish
+        text: A lyrical tale of forbidden love between an Armenian man and a Turkish
           woman in Istanbul of 1915 repeats itself in Jerusalem of 1935 when
           their offspring falls for a Jewish immigrant.
-
-
-          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
-
-
-          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
-        image: https://ucarecdn.com/64398fc3-bcc0-4b82-91bf-08a81827cebb/
+        image: https://ucarecdn.com/801f31ca-8bbe-4e1b-80b1-cc3ce075455c/
         title: Abaga
         itemstart: 2021-02-05T09:01:12.590Z
         itemend: 2021-02-05T09:01:12.697Z
       - subtitle: by Yussef El Guindi
-        text: >-
-          Chekov’s classic comedy of class conflict and lemons adapted to an
+        text: Chekov’s classic comedy of class conflict and lemons adapted to an
           Egyptian family setting.
-
-
-          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/ab9508e3-9916-48f8-ad9a-518d0685426a/
         title: A Marriage Proposal
         itemstart: 2021-02-05T09:01:12.810Z
         itemend: 2021-02-05T09:01:12.956Z
       - subtitle: by Kevin Doyle
-        text: Two CNN anchors find themselves stuck in the news report of an American
-          soldier’s death in Iraq. They can neither tell the deeper tale, nor
-          move on.
+        text: >-
+          Two CNN anchors find themselves stuck in the news report of an
+          American soldier’s death in Iraq. They can neither tell the deeper
+          tale, nor move on.
+
+
+          Kevin Doyle (Playwright) is a writer and director of theatre and film from Brooklyn. Since 2005, he has served as the founding Artistic Director of the Brooklyn-based theatre company, Sponsored By Nobody. A college dropout, he worked for several years at odd jobs throughout New York State while studying art, literature and theatre on his own. Returning to college in
+
+          1999, he graduated with honors from the Drama Studies Program at Purchase College (SUNY) and studied theatre at the graduate level at Brooklyn College (CUNY). In 2004, his plays Styrofoam (Feed The Herd) and Compression of a Casualty (Golden Thread) premiered in New York City and San Francisco to critical acclaim. Since then, Doyle has written and/or directed seven original plays, while working as a music video director in France, Sweden and New
+
+          York City. In 2010, Doyle will be an Artist In Residence at Robert Wilson’s Watermill Center (NY) and the Monty Arts Centre (Belgium) in support of his play ATM or this is \[not] new york. He was recently accepted as a 2010 Resident Artist at the Mabou Mines/Suite Program in New York City.
         title: Compression of a Casualty
         itemstart: 2021-02-05T09:01:13.108Z
         itemend: 2021-02-05T09:01:13.218Z
       - subtitle: by Yussef El Guindi
-        text: >-
-          A Palestinian-American explores her identity in this poignant and
-          comedic monologue. In the dialogue of nations, do you ever get the
-          feeling that Palestine is just a monologue?
-
-
-          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
+        text: A Palestinian-American explores her identity in this poignant and comedic
+          monologue. In the dialogue of nations, do you ever get the feeling
+          that Palestine is just a monologue?
         image: https://ucarecdn.com/a2c6bf37-281d-4ce5-8f16-982b3a6fcbd4/
         title: The Monologist Suffers Her Monologue
         itemstart: 2021-02-05T09:01:13.332Z
@@ -194,7 +202,7 @@ cast:
         Wallace is writing new plays for the Public Theatre, Oregon Shakespeare
         Festival and Clean Break of London."
     - name: Torange Yeghiazarian
-      credit: Playwright
+      credit: Playwright & Director
       bio: "**Torange Yeghiazarian** writes, directs and acts for the theatre. She is
         the Artistic Director of Golden Thread Productions, where she has
         devoted her professional life to exploring Middle Eastern cultures and
@@ -216,6 +224,7 @@ cast:
         adults for Golden Thread. Born in Iran and of Armenian heritage, Torange
         holds a Master’s degree in Theatre Arts from San Francisco State
         University."
+      image: https://ucarecdn.com/6911ff18-a88b-4e4d-a435-5f565c3d7313/
     - name: Caveh Zahedi
       credit: Playwright
       bio: "**Caveh Zahedi** is an autobiographical writer/actor/director who combines
@@ -252,21 +261,6 @@ cast:
         opportunity. And this too will melt away like snow in May."
       credit: Director
       name: Bella Ramazan-Nia
-    - bio: "**Torange Yeghiazarian**: *Tamam*. A native of Iran and of Armenian
-        heritage, Torange holds a Master’s degree in Theatre Arts from San
-        Francisco State University. Her plays (*Call Me Mehdi, Waves, Dawn at
-        Midnight, Behind Glass Windows, Abaga*) reflect the perspective of the
-        culturally displaced in tackling today’s world of contradictory
-        realities and values. As a teaching artist, Torange has taught
-        playwriting to at-risk youth as part of the Each One Reach One program,
-        incorporated theatre into social studies in Richmond’s Washington
-        Elementary School as part of East Bay Center for Performing Arts’
-        Learning Without Borders program, and lead acting and play development
-        workshops for Golden Thread Productions. She is the Artistic Director of
-        Golden Thread Productions, where she has devoted her professional life
-        to exploring Middle Eastern culture and identity through theatre arts."
-      name: Torange Yeghiazarian
-      credit: Founding Artistic Director, Playwright
     - name: M. Graham Smith
       credit: Director
       bio: "**M. Graham Smith**: *I'm Not a Serial Killer*. Smith is the founder and
@@ -383,58 +377,6 @@ cast:
         gloriously working with Richard Foreman and teaching a couple of master
         classes in NY. Thank you to Greg, Mum, Sasha, Pie and Matthew, and to
         you, the audience, for spending time with us today."
-    - bio: "**Vida Ghahremani, Afif Houssain, Chuck Charles Isen, Nora el Samahy,
-        Michael X. Sommers, Ahou Tabibzadeh**"
-      name: "Performers:"
-    - bio: "**Bradford Chapin** (Sound Designer) is excited to be involved with the
-        10th year of ReOrientation. Bay area credits include *She Stoops to
-        Comedy*(SF Playhouse),*Happy Days*(Cal Shakes)*, Basha Rubenchek from
-        Minsk* (Brookside Repertory Theatre), and assistant designer for *The
-        Creature* (Blackbox Theatre). Chicago credits: *John and Jen* (Apple
-        Tree), *Arrangements* (Pavement Group), and *Seven Doors* (Premiere
-        Theatre and Performance). Bradford holds a degree in Music from
-        University of Wisconsin-Parkside and serves as a sound engineer for Cal
-        Shakes and TheatreWorks."
-      name: Bradford Chapin
-      credit: Sound Designer
-    - bio: |-
-        **Mia Baxter**(Props)
-
-        **Kate Boyd**(Set Designer)
-
-        **Victoria Livingston-Hall**(Costume Designer)
-
-        **Navid G. Maghami**
-
-        **Blake Manship**(Lighting Designer)
-      name: "Design Team:"
-    - name: Serge Bakalian
-      credit: Managing Director
-      bio: "**Serge Bakalian** (Managing Director) joined Golden Thread in October
-        bringing with him years of experience in nonprofit management, as well
-        as a spirit of entrepreneurship. Trained as a chemist, Serge has worked
-        and consulted for several major NGO’s including Greenpeace International
-        and the F.A.O. of the United Nations. He’s been a founding member of
-        organizations such as the Cedre Foundation, the Glendale Greens and the
-        Green Alliance. A native of Lebanon and of Greek-Armenian heritage,
-        Serge holds a B.S. in Chemistry and a B.S and M.S in International
-        Relations from the London School of Economics. A writer and filmmaker,
-        his works have spanned both fiction and nonfiction, currently producing
-        the feature-length film, *Default: the Student Loan Documentary*. His
-        work and activism have led him to many parts of the world, most
-        extensively throughout the Middle East and Latin America."
-    - name: Alycia Dymond
-      credit: Production Manager
-      bio: "**Alycia Dymond** (Production Manager) is a graduate of San Francisco
-        State University, where she earned a degree in Technical Theatre. This
-        is her first production with Golden Thread and as a Production Manager.
-        Her stage management credits include *let the northern lights erase your
-        name* for Campo Santo and *Alice in Wonderland* for Ragged Wing
-        Ensemble, and several shows with Crowded Fire Theater Company where she
-        is an ensemble member. Alycia has also worked with San Francisco
-        SketchFest, C Venues at the Edinburgh Fringe Festival, TheatreWorks, and
-        California Shakespeare Theater. Thanks to friends and family for their
-        continued support on this crazy theatrical ride."
     - name: Mary K. Gabrysiak
       credit: Production Stage Manager
       bio: "**Mary K. Gabrysiak** (Production Stage Manager) is proud to be apart of
@@ -446,22 +388,6 @@ cast:
         their dedication and hard work in putting together a great work of art.
         She dedicates this festival to her family and friend who support all of
         her crazy ideas! Samia Abou-Samra."
-    - name: Junelle-Johannah Taguas
-      credit: Assistant Stage Manager
-      bio: "**Junelle-Johannah Taguas** (Assistant Stage Manager) is a recent graduate
-        of the University of Portland, OR where she obtained a BA in Drama with
-        triple emphases in: production management, performance and lighting
-        design. She is now living back in her hometown of San Francisco working
-        to become an Equity stage manager. Other companies she has worked with
-        are: the San Francisco Mime Troupe, Climate Theatre, The Z Space Studio,
-        and the Nomadic Theatre Company in Portland."
-    - name: Production Team
-      bio: |-
-        **Samia Abouu-Samra** (Production Intern)
-
-        **Lauren Boone** (Assistant Stage Manager)
-
-        **Joe Mizzi** (Technical Director)
 photos:
   heading: ReOrient Festival Production photos by Gohar Barseghyan
   items:
