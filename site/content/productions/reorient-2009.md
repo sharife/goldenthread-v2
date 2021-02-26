@@ -117,35 +117,32 @@ lists:
         itemstart: 2021-02-05T09:01:12.395Z
         itemend: 2021-02-05T09:01:12.494Z
       - subtitle: by Torange Yeghiazarian
-        text: >-
-          A lyrical tale of forbidden love between an Armenian man and a Turkish
+        text: A lyrical tale of forbidden love between an Armenian man and a Turkish
           woman in Istanbul of 1915 repeats itself in Jerusalem of 1935 when
           their offspring falls for a Jewish immigrant.
-
-
-          **Torange Yeghiazarian** (Founding Artistic Director; Playwright, Thanks- giving; Adapter, Shelter) founded Golden Thread in 1996, where she has directed Our Enemies: Lively Scenes of Love and Combat and Scenic Routes by Yussef El Guindi, The Myth of Creation by Sadegh Hedayat, Tamam by Betty Shamieh, Stuck by Amir Al-Azraki and Voice Room by Reza Soroor, amongst others. She is also a playwright, whose plays include Isfahan Blues (Gerbode-Hewlett Playwright Commission Award), 444 Days, The Fifth String: Ziryab’s Passage to Cordoba (ICCNC commission), and Call Me Mehdi (published in the TCG anthology “Salaam. Peace: An Anthology of Middle Eastern-American Drama”). Her articles have been published in The Drama Review, American Theatre Magazine, and
-
-
-          Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
-        image: https://ucarecdn.com/64398fc3-bcc0-4b82-91bf-08a81827cebb/
+        image: https://ucarecdn.com/801f31ca-8bbe-4e1b-80b1-cc3ce075455c/
         title: Abaga
         itemstart: 2021-02-05T09:01:12.590Z
         itemend: 2021-02-05T09:01:12.697Z
       - subtitle: by Yussef El Guindi
-        text: >-
-          Chekov’s classic comedy of class conflict and lemons adapted to an
+        text: Chekov’s classic comedy of class conflict and lemons adapted to an
           Egyptian family setting.
-
-
-          **Yussef El Guindi**’s recent productions include *Hostages* at Radial Theater Project; *The Talented Ones* at Artists Repertory Theatre in Portland (Santa Barbara Independent Indy Award); *Our Enemies: Lively Scenes of Love and Combat* at Golden Thread Productions (American Theatre Critics Association’s M. Elizabeth Osborn Award); and *Threesome* at Portland Center Stage, ACT, and at 59E59 (Portland Drammy for Best Original Script). Bloomsbury will publish *Selected Works by Yussef El Guindi* in January 2019. He is a 2018 Core Company playwright member at ACT in Seattle and a Resident Artist at Golden Thread Productions.
         image: https://ucarecdn.com/ab9508e3-9916-48f8-ad9a-518d0685426a/
         title: A Marriage Proposal
         itemstart: 2021-02-05T09:01:12.810Z
         itemend: 2021-02-05T09:01:12.956Z
       - subtitle: by Kevin Doyle
-        text: Two CNN anchors find themselves stuck in the news report of an American
-          soldier’s death in Iraq. They can neither tell the deeper tale, nor
-          move on.
+        text: >-
+          Two CNN anchors find themselves stuck in the news report of an
+          American soldier’s death in Iraq. They can neither tell the deeper
+          tale, nor move on.
+
+
+          Kevin Doyle (Playwright) is a writer and director of theatre and film from Brooklyn. Since 2005, he has served as the founding Artistic Director of the Brooklyn-based theatre company, Sponsored By Nobody. A college dropout, he worked for several years at odd jobs throughout New York State while studying art, literature and theatre on his own. Returning to college in
+
+          1999, he graduated with honors from the Drama Studies Program at Purchase College (SUNY) and studied theatre at the graduate level at Brooklyn College (CUNY). In 2004, his plays Styrofoam (Feed The Herd) and Compression of a Casualty (Golden Thread) premiered in New York City and San Francisco to critical acclaim. Since then, Doyle has written and/or directed seven original plays, while working as a music video director in France, Sweden and New
+
+          York City. In 2010, Doyle will be an Artist In Residence at Robert Wilson’s Watermill Center (NY) and the Monty Arts Centre (Belgium) in support of his play ATM or this is \[not] new york. He was recently accepted as a 2010 Resident Artist at the Mabou Mines/Suite Program in New York City.
         title: Compression of a Casualty
         itemstart: 2021-02-05T09:01:13.108Z
         itemend: 2021-02-05T09:01:13.218Z
