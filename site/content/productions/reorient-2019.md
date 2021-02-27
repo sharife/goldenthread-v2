@@ -27,14 +27,16 @@ titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 program: https://ucarecdn.com/06e82039-aef1-4eaf-b6f2-022ae916e52b/
 videos:
   - id: g1L6QbZCZPg
+writer: Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak, Betty
+  Shamieh, Niku Sharei, and Naomi Wallace
 director: Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian
-featuring: plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa
-  Kaymak, Betty Shamieh, Niku Sharei, and Naomi Wallace
-additional: "Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle
-  Bank, Kate Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman,
-  Scott Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa
-  Mirza, Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk*
-  and Grisel Torres. *Member, Actors' Equity*"
+featuring: Sofia Ahmad*, Atosa Babaoff*, Ali-Moosa Mirza, Lawrence Radecker*,
+  Amitis Rossoukh
+designteam: Kate Boyd (scenic), Dylan Feldman (lighting), James Ard (sound),
+  Brooke Jennings (costumes), Grisel Torres (props)
+dramaturg: Nakissa Etemad (lead dramaturg), Emily DeDakis, Laura Espino, Scott
+  Horstein, Michael Malek Najjar
+additional: "Production Team: Grisel Torres, Tyler Miller, Karen Runk*, Caitlin McFann"
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
@@ -68,6 +70,8 @@ lists:
 
 
           **For hotel discounts during the convening, click** [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
+        itemstart: 2021-01-18T01:50:22.591Z
+        itemend: 2021-01-18T01:50:22.694Z
   - heading: REORIENT 2019 LINE-UP
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
@@ -89,6 +93,8 @@ lists:
           Artist at Golden Thread Productions.
         title: |
           Brass Knuckles
+        itemstart: 2021-01-18T01:50:22.767Z
+        itemend: 2021-01-18T01:50:22.845Z
       - image: /img/archive/2017/11/Heywood-Rendah-300x300.jpg
         subtitle: by Rendah Heywood, directed by Lisa Marie Rollins
         text: >
@@ -108,6 +114,8 @@ lists:
           Short Plays in New York City.
         title: |
           The Grievance Club
+        itemstart: 2021-01-18T01:50:22.918Z
+        itemend: 2021-01-18T01:50:23.006Z
       - image: /img/archive/2017/11/Issaq-Lameece-300x300.jpg
         subtitle: by Lameece Issaq, directed by Rebecca Novick
         text: >
@@ -130,6 +138,8 @@ lists:
           Finalist in Playwriting/Screenwriting.
         title: |
           Noor and Hadi Go to Hogwarts
+        itemstart: 2021-01-18T01:50:23.095Z
+        itemend: 2021-01-18T01:50:23.211Z
       - image: /img/archive/2017/11/Kaymak-Mustafa-300x300.jpg
         subtitle: by Mustafa Kaymak, directed by Michael French
         text: >
@@ -149,6 +159,8 @@ lists:
           Foundation Award and an Annenberg Foundation Award.
         title: |
           The Basement
+        itemstart: 2021-01-18T01:50:23.358Z
+        itemend: 2021-01-18T01:50:23.494Z
       - image: /img/archive/2017/06/Headshot_BettyShamieh_300x300.jpg
         subtitle: by Betty Shamieh, directed by Michael French
         text: >
@@ -172,6 +184,8 @@ lists:
           School of Drama. [bettyshamieh.com](bettyshamieh.com)
         title: |
           An Echo of Laughter
+        itemstart: 2021-01-18T01:50:23.702Z
+        itemend: 2021-01-18T01:50:23.833Z
       - image: /img/archive/2017/11/Sharei-Niku-300x300.jpg
         subtitle: by Niku Sharei, directed by Lisa Marie Rollins
         text: >
@@ -191,6 +205,8 @@ lists:
           is pursuing her MSc in Sociology at The University of Manchester.
         title: |
           In Spenglic
+        itemstart: 2021-01-18T01:50:23.973Z
+        itemend: 2021-01-18T01:50:24.109Z
       - image: /img/archive/2017/11/Wallace-Naomi-300x300.jpg
         subtitle: by Naomi Wallace, directed by Rebecca Novick
         text: >
@@ -209,6 +225,8 @@ lists:
           Award in Literature.
         title: |
           The Book of Mima
+        itemstart: 2021-01-18T01:50:24.213Z
+        itemend: 2021-01-18T01:50:24.316Z
 grids:
   - heading: Dramaturgs Dive Deep in ReOrient 2019
     items:
@@ -219,12 +237,16 @@ grids:
         text: This year's festival cements Golden Thread Productions’ longtime working
           relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
         title: A Homecoming for Golden Thread Alumni
+        itemstart: 2021-01-18T01:50:24.552Z
+        itemend: 2021-01-18T01:50:24.623Z
       - cta: Read more
         image: https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/
         link: https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/
         text: Meet four writers who are brand-new to the festival, all clearly at home
           in ReOrient, celebrating its 20th anniversary this year.
         title: Brave New Voices in ReOrient 2019
+        itemstart: 2021-01-18T01:50:24.691Z
+        itemend: 2021-01-18T01:50:24.775Z
       - cta: Read more
         image: https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
         link: https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
@@ -232,6 +254,8 @@ grids:
         text: The twentieth anniversary of the ReOrient Festival of Short Plays began
           with an incubation weekend that Golden Thread calls “ReOrient Camp.”
         title: Weaving the Golden Thread at ReOrient 2019 Camp
+        itemstart: 2021-01-18T01:50:24.885Z
+        itemend: 2021-01-18T01:50:24.971Z
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
@@ -262,6 +286,18 @@ photos:
     - image: https://ucarecdn.com/df7b8853-3ead-45d0-a560-8e3af26dfa7a/
     - image: https://ucarecdn.com/44fcee0f-0365-4386-af94-059ea5825006/-/crop/1607x1072/0,0/-/preview/
     - image: https://ucarecdn.com/ce129b22-efa2-47c0-99a0-dacd336b6e3a/
+photos2:
+  heading: National Convening of MENA Theatre Artists
+  items:
+    - image: https://ucarecdn.com/f08ea4b4-d9fc-4f6f-84ef-444d52dcd29e/
+    - image: https://ucarecdn.com/1b422618-b6ae-4fa8-a86e-fa64e9392e72/
+    - image: https://ucarecdn.com/447fdaa1-4113-443d-adad-6526b916bcc9/
+photos3:
+  heading: Audience Engagement
+  items:
+    - image: https://ucarecdn.com/636976e4-fe32-4529-ba34-02510573f1d6/
+    - image: https://ucarecdn.com/76d472de-0fd0-43d3-a5c8-6c9df06e15c8/
+    - image: https://ucarecdn.com/c9b9c754-b9b4-4d8a-b106-ff9ada93d2bd/
 archivevideo: XA04R6bdfIE
 bottom:
   text: >-
