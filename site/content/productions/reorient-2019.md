@@ -286,6 +286,12 @@ photos:
     - image: https://ucarecdn.com/df7b8853-3ead-45d0-a560-8e3af26dfa7a/
     - image: https://ucarecdn.com/44fcee0f-0365-4386-af94-059ea5825006/-/crop/1607x1072/0,0/-/preview/
     - image: https://ucarecdn.com/ce129b22-efa2-47c0-99a0-dacd336b6e3a/
+photos2:
+  heading: National Convening of MENA Theatre Artists
+  items:
+    - image: https://ucarecdn.com/f08ea4b4-d9fc-4f6f-84ef-444d52dcd29e/
+    - image: https://ucarecdn.com/1b422618-b6ae-4fa8-a86e-fa64e9392e72/
+    - image: https://ucarecdn.com/447fdaa1-4113-443d-adad-6526b916bcc9/
 archivevideo: XA04R6bdfIE
 bottom:
   text: >-
