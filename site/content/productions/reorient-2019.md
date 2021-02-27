@@ -292,6 +292,12 @@ photos2:
     - image: https://ucarecdn.com/f08ea4b4-d9fc-4f6f-84ef-444d52dcd29e/
     - image: https://ucarecdn.com/1b422618-b6ae-4fa8-a86e-fa64e9392e72/
     - image: https://ucarecdn.com/447fdaa1-4113-443d-adad-6526b916bcc9/
+photos3:
+  heading: Audience Engagement
+  items:
+    - image: https://ucarecdn.com/636976e4-fe32-4529-ba34-02510573f1d6/
+    - image: https://ucarecdn.com/76d472de-0fd0-43d3-a5c8-6c9df06e15c8/
+    - image: https://ucarecdn.com/c9b9c754-b9b4-4d8a-b106-ff9ada93d2bd/
 archivevideo: XA04R6bdfIE
 bottom:
   text: >-
