@@ -27,14 +27,16 @@ titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 program: https://ucarecdn.com/06e82039-aef1-4eaf-b6f2-022ae916e52b/
 videos:
   - id: g1L6QbZCZPg
+writer: Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa Kaymak, Betty
+  Shamieh, Niku Sharei, and Naomi Wallace
 director: Michael French, Rebecca Novick, Lisa Marie Rollins, and Torange Yeghiazarian
-featuring: plays by Yussef El Guindi, Rendah Heywood, Lameece Issaq, Mustafa
-  Kaymak, Betty Shamieh, Niku Sharei, and Naomi Wallace
-additional: "Creative Team: Sofia Ahmad*, James Ard, Atosa Babaoff*, Michelle
-  Bank, Kate Boyd, Emily DeDakis, Laura Espino, Nakissa Etemad, Dylan Feldman,
-  Scott Horstein, Brooke Jennings, Caitlin McFann, Tyler Miller, Ali-Moosa
-  Mirza, Michael Malek Najjar, Lawrence Radecker*, Amitis Rossoukh, Karen Runk*
-  and Grisel Torres. *Member, Actors' Equity*"
+featuring: Sofia Ahmad*, Atosa Babaoff*, Ali-Moosa Mirza, Lawrence Radecker*,
+  Amitis Rossoukh
+designteam: Kate Boyd (scenic), Dylan Feldman (lighting), James Ard (sound),
+  Brooke Jennings (costumes), Grisel Torres (props)
+dramaturg: Nakissa Etemad (lead dramaturg), Emily DeDakis, Laura Espino, Scott
+  Horstein, Michael Malek Najjar
+additional: "Production Team: Grisel Torres, Tyler Miller, Karen Runk*, Caitlin McFann"
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events
