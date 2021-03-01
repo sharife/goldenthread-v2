@@ -27,6 +27,7 @@ lists:
         cta: Click here to watch!
         title: "Featuring Middle East America: A National New Plays Initiative!"
         image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
+        pre: Up Next!
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
