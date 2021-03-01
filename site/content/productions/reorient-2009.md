@@ -162,9 +162,10 @@ grids:
         itemend: 2021-03-01T18:59:49.665Z
         link: https://goldenthread.org/img/archive/2012/09/ReOrientArticle_ATM_Mar2010.pdf
         title: American Theatre Magazine
-        pre: Reorientalism
-        subtitle: A festival of Middle Eastern drama witnesses the emergence of a new
-          immigrant community—and a new category of U.S. theatre.
+        pre: ""
+        subtitle: "Reorientalism: A festival of Middle Eastern drama witnesses the
+          emergence of a new immigrant community—and a new category of U.S.
+          theatre."
         image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
         cta: Read the full article by Randy Gener
     heading: ReOrient 2009 In The Press
