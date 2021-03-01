@@ -5,7 +5,9 @@ season: 2021
 date: 2021-02-21T03:41:04.513Z
 start: 2021-02-20T03:41:04.533Z
 end: ""
-description: "These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices. "
+description: "These curated digital discussions invite artists of Middle Eastern
+  and North African heritage to discuss the many layers of their identity and
+  how it impacts their work and artistic choices. "
 background: https://ucarecdn.com/8239aa0c-b68d-4521-bf62-27fddd6f1fa2/
 titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
@@ -24,6 +26,7 @@ lists:
           Thread’s **Nora El Samahy** will facilitate."
         cta: Click here to watch!
         title: "Featuring Middle East America: A National New Plays Initiative!"
+        image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
