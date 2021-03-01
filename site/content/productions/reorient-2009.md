@@ -1,10 +1,11 @@
 ---
 title: ReOrient 2009
+pre: The First Ten Years!
 season: 2009
 date: 2009-10-10T06:12:00.000Z
 start: 2009-11-20T06:12:00.000Z
 end: 2009-12-14T06:12:00.000Z
-heading: The First Ten Years
+heading: Festival of Short Plays Exploring the Middle East
 description: >-
   Golden Thread Productions celebrates the tenth anniversary of its
   one-of-a-kind festival of short plays exploring the Middle East featuring a
@@ -18,7 +19,8 @@ description: >-
 background: https://ucarecdn.com/45f2b56a-5331-488a-adea-b525555f21a7/-/crop/1959x1118/0,188/-/preview/
 titleimage: https://ucarecdn.com/a76c1e92-8f4e-4329-9a7b-1c713a27ae61/
 program: https://ucarecdn.com/fb6ef62e-b3ee-4154-b11e-039b04524438/
-writer: Yussef El Guindi, Naomi Wallace, Torange Yeghiazarian, Caveh Zahedi
+writer: Yussef El Guindi, Motti Lerner, Betty Shamieh, Naomi Wallace, Torange
+  Yeghiazarian, Caveh Zahedi
 director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
   Yeghiazarian, M. Graham Smith
 featuring: Vida Ghahremani, Leah Herman, Afif Houssain, Charles Isen*, Suraya
@@ -154,6 +156,17 @@ lists:
         title: The Monologist Suffers Her Monologue
         itemstart: 2021-02-05T09:01:13.332Z
         itemend: 2021-02-05T09:01:13.431Z
+grids:
+  - items:
+      - itemstart: 2021-03-01T18:59:49.505Z
+        itemend: 2021-03-01T18:59:49.665Z
+        link: https://goldenthread.org/img/archive/2012/09/ReOrientArticle_ATM_Mar2010.pdf
+        title: American Theatre Magazine
+        pre: Reorientalism
+        subtitle: A festival of Middle Eastern drama witnesses the emergence of a new
+          immigrant community—and a new category of U.S. theatre.
+        image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
+    heading: ReOrient 2009 In The Press
 cast:
   heading: Cast & Crew
   items:
