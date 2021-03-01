@@ -168,6 +168,67 @@ grids:
         image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
         cta: Read the full article by Randy Gener
     heading: ReOrient 2009 In The Press
+  - heading: ReOrient Forum Special Events
+    items:
+      - pre: Saturday 12/5 at 11:15am
+        itemend: 2021-03-01T19:22:24.801Z
+        text: First ever collection of plays by American Middle Eastern playwrights.
+          Published and presented by Theatre Communications Group. Copies
+          available for sale in the lobby.
+        itemstart: 2021-03-01T19:22:24.646Z
+        cta: Purchase your copy today!
+        subtitle: "Salam.Peace: an Anthology of Middle Eastern American Drama"
+        title: Book Launch
+        link: https://www.tcg.org/Default.aspx?TabID=251&productId=1207
+        image: https://www.tcg.org/ProductImages/TCG6097.jpg
+      - itemstart: 2021-03-01T19:22:25.589Z
+        itemend: 2021-03-01T19:22:25.732Z
+        title: Internet Play Performance
+        pre: Saturday 12/5 at 1pm & Sunday 12/6 at 11:30am
+        subtitle: The Review by Yussef El Guindi
+        image: https://ucarecdn.com/b6e941ee-7285-4617-a7fb-9b540281ebdf/
+        text: For the first time in ReOrient history, a play will be performed live via
+          the Internet with one character in San Francisco and the other in the
+          Middle East. Written especially for this occasion, The Review, is a
+          comedy of self-deprecation and painful co-dependency.
+      - itemstart: 2021-03-01T19:22:26.523Z
+        itemend: 2021-03-01T19:22:26.647Z
+        title: Art Exhibit
+        pre: Opening Reception, Sunday 11/22 2-4:30pm
+        subtitle: "PASSAGES: Featuring May Hariri Aboutaam and Zeina Barakeh"
+        image: https://pro2-bar-s3-cdn-cf5.myportfolio.com/30f1b471-2f89-4964-a0b1-9a9c631e5354/6aa5e241-8fd8-41b1-8ec0-734ffeb433ee_rw_1200.jpg?h=904d17fa9fc47842f81e79b41cf956af
+        text: >-
+          Featuring May Hariri Aboutaam and Zeina Barakeh, this interactive
+          exhibit provides an
+
+          opportunity for the audience to participate in creating an alternative view of the Middle East. - Nov. 19th through Dec. 6th - (Opening Reception Sunday 11/22, 2-4:30pm)
+
+          Open to public weekdays 1-3pm except Thanksgiving weekend.
+        link: https://zeinabarakeh.com/2012-the-third-half-passport-collection-me-transit
+      - itemstart: 2021-03-01T19:22:27.224Z
+        itemend: 2021-03-01T19:22:27.366Z
+        title: Music Concert
+        pre: Saturday 12/5 at 4pm
+        subtitle: ASWAT Bay Area Arabic Music Ensemble
+        text: "ASWAT’s large ensemble of singers and musicians will perform classical
+          and folk songs including favorites by Fairuz, Abdel Halim Hafiz, Abdel
+          Wahab, Um Kulthum, as well as Muwashshah hat, a seldom performed music
+          from Andalucía. The program features soloists: Yasmeen Daifallah, Rana
+          Mroue, and Husain Resan."
+        image: https://zawaya.org/site/wp-content/uploads/2009/04/zawayagroup.jpg
+        link: https://zawaya.org/site/aswat-ensemble/
+      - itemstart: 2021-03-01T19:37:06.443Z
+        itemend: 2021-03-01T19:37:06.593Z
+        title: Dance Performance
+        pre: Sunday 12/6 at 3:00pm
+        subtitle: Ballet Afsaneh
+        link: http://www.dancesilkroad.org/about.html
+        text: Ballet Afsaneh has received critical acclaim for presenting the dance,
+          music and poetry of the historic Silk Road. Live music will be
+          performed by Pezhham Akhavass, Neema Hekmat, Kaveh Hedayati, Pourya
+          Khademi, and Moses Sedler, and poetry recitation by Shadi Vaezzadeh.
+          Featured dancers include Miriam Peretz and Mariam Gaibova.
+        image: http://dancesilkroad.org/festivalsilkroad/album/slides/Mariam-Gaibova%20Kulobi%20dance%20with%20Ballet%20Afsaneh.JPG
 cast:
   heading: Cast & Crew
   items:
