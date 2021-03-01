@@ -192,12 +192,8 @@ grids:
           the Internet with one character in San Francisco and the other in the
           Middle East. Written especially for this occasion, The Review, is a
           comedy of self-deprecation and painful co-dependency.
-      - itemstart: 2021-03-01T19:22:26.523Z
+      - pre: Opening Reception, Sunday 11/22 2-4:30pm
         itemend: 2021-03-01T19:22:26.647Z
-        title: Art Exhibit
-        pre: Opening Reception, Sunday 11/22 2-4:30pm
-        subtitle: "PASSAGES: Featuring May Hariri Aboutaam and Zeina Barakeh"
-        image: https://pro2-bar-s3-cdn-cf5.myportfolio.com/30f1b471-2f89-4964-a0b1-9a9c631e5354/6aa5e241-8fd8-41b1-8ec0-734ffeb433ee_rw_1200.jpg?h=904d17fa9fc47842f81e79b41cf956af
         text: >-
           Featuring May Hariri Aboutaam and Zeina Barakeh, this interactive
           exhibit provides an
@@ -205,30 +201,37 @@ grids:
           opportunity for the audience to participate in creating an alternative view of the Middle East. - Nov. 19th through Dec. 6th - (Opening Reception Sunday 11/22, 2-4:30pm)
 
           Open to public weekdays 1-3pm except Thanksgiving weekend.
+        itemstart: 2021-03-01T19:22:26.523Z
+        cta: More about Zeina Barakeh
+        subtitle: "PASSAGES: Featuring May Hariri Aboutaam and Zeina Barakeh"
+        title: Art Exhibit
         link: https://zeinabarakeh.com/2012-the-third-half-passport-collection-me-transit
-      - itemstart: 2021-03-01T19:22:27.224Z
+        image: https://pro2-bar-s3-cdn-cf5.myportfolio.com/30f1b471-2f89-4964-a0b1-9a9c631e5354/6aa5e241-8fd8-41b1-8ec0-734ffeb433ee_rw_1200.jpg?h=904d17fa9fc47842f81e79b41cf956af
+      - pre: Saturday 12/5 at 4pm
         itemend: 2021-03-01T19:22:27.366Z
-        title: Music Concert
-        pre: Saturday 12/5 at 4pm
-        subtitle: ASWAT Bay Area Arabic Music Ensemble
         text: "ASWAT’s large ensemble of singers and musicians will perform classical
           and folk songs including favorites by Fairuz, Abdel Halim Hafiz, Abdel
           Wahab, Um Kulthum, as well as Muwashshah hat, a seldom performed music
           from Andalucía. The program features soloists: Yasmeen Daifallah, Rana
           Mroue, and Husain Resan."
-        image: https://zawaya.org/site/wp-content/uploads/2009/04/zawayagroup.jpg
+        itemstart: 2021-03-01T19:22:27.224Z
+        cta: More about Aswat Ensemble
+        subtitle: ASWAT Bay Area Arabic Music Ensemble
+        title: Music Concert
         link: https://zawaya.org/site/aswat-ensemble/
-      - itemstart: 2021-03-01T19:37:06.443Z
+        image: https://zawaya.org/site/wp-content/uploads/2009/04/zawayagroup.jpg
+      - pre: Sunday 12/6 at 3:00pm
         itemend: 2021-03-01T19:37:06.593Z
-        title: Dance Performance
-        pre: Sunday 12/6 at 3:00pm
-        subtitle: Ballet Afsaneh
-        link: http://www.dancesilkroad.org/about.html
         text: Ballet Afsaneh has received critical acclaim for presenting the dance,
           music and poetry of the historic Silk Road. Live music will be
           performed by Pezhham Akhavass, Neema Hekmat, Kaveh Hedayati, Pourya
           Khademi, and Moses Sedler, and poetry recitation by Shadi Vaezzadeh.
           Featured dancers include Miriam Peretz and Mariam Gaibova.
+        itemstart: 2021-03-01T19:37:06.443Z
+        cta: More about Ballet Afsaneh
+        subtitle: Ballet Afsaneh
+        title: Dance Performance
+        link: http://www.dancesilkroad.org/about.html
         image: http://dancesilkroad.org/festivalsilkroad/album/slides/Mariam-Gaibova%20Kulobi%20dance%20with%20Ballet%20Afsaneh.JPG
 cast:
   heading: Cast & Crew
