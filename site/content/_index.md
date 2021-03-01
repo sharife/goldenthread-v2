@@ -6,19 +6,21 @@ background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
 cta: DONATE NOW
 link: https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
-  - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
-    subtitle: "*The Language of Wild Berries* Debuts as a radio play!"
+  - image: https://ucarecdn.com/9bc9ca91-e9e6-4180-ad4d-0acfb3824f31/
+    subtitle: "*What Do the Women Say?* is now a livestream celebration!"
     cta: Read More Now
-    link: /productions/the-language-of-wild-berries/
+    link: https://goldenthread.org/productions/what-do-the-women-say-2021/
     text: >-
-      We're thrilled to announce that Naghmeh Samini's play, translated and
-      directed by Torange Yeghiazarian, is Golden Thread's radio play debut! The
-      past, present, and future collide in the touching story of a couple’s
-      annual road trips to the Caspian Sea in this rare glimpse into the lives
-      of contemporary Iranians. 
+      Each year, Golden Thread Productions celebrates International Women’s Day
+      with ***What Do the Women Say?***, which showcases the work of leading
+      Middle Eastern women artists. This year’s program features Board president
+      and resident artist, **Nora El Samahy** in conversation with founding
+      artistic director, T**orange Yeghiazarian** on a journey highlighting
+      Golden Thread’s 25-year history of placing Middle Eastern women artists
+      center stage!
 
 
-      ***Now released as a radio play: free to listen and share!***
+      ***Don't miss the livestream on March 8th @ 11AM PST!***
   - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
     subtitle: "*Leila's Quest for Flight* is now a radio play!"
     cta: Click to Learn More!
