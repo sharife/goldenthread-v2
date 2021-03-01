@@ -33,7 +33,7 @@ items:
   - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
-    link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
+    link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
       Join us for our next episode featuring longtime resident artists Evren
       Odcikin and Nora el Samahy! They will discuss **championing Middle Eastern
