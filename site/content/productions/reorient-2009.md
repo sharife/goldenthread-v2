@@ -166,6 +166,7 @@ grids:
         subtitle: A festival of Middle Eastern drama witnesses the emergence of a new
           immigrant community—and a new category of U.S. theatre.
         image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
+        cta: Read the full article by Randy Gener
     heading: ReOrient 2009 In The Press
 cast:
   heading: Cast & Crew
@@ -411,10 +412,7 @@ bottom:
     Haas Fund, The Puffin Foundation. 
 
 
-    Community Partners:
-
-
-    UC Berkeley Center for Middle Eastern Studies, University of San Francisco Performance and Social Justice Program, Jewish Community Foundation, Middle East Children's Alliance, Theatre Bay Area, Theatre Communications Group, Omid Foundation, KPFA Radio, The San Francisco Bay Guardian.
+    Community Partners: UC Berkeley Center for Middle Eastern Studies, University of San Francisco Performance and Social Justice Program, Jewish Community Foundation, Middle East Children's Alliance, Theatre Bay Area, Theatre Communications Group, Omid Foundation, KPFA Radio, The San Francisco Bay Guardian.
 ---
 The ReOrient Festival was conceived in 1999 to meet the urgent and ongoing need for Middle Eastern voices in American theatre and to create a home where Middle Eastern artists are nurtured and supported. The festival aims to showcase the vast variety of voices and styles emerging from and inspired by the Middle East and to bring together diverse communities to engage with the region. At the same time, the ReOrient Festival helps to demystify the region by encouraging writing about the Middle East by playwrights from all cultural, ethnic, and national backgrounds. Today, celebrating the festival's tenth anniversary, ReOrient continues to be guided by these principles, serving as a forum for addressing current events and personal experiences.
 
