@@ -40,7 +40,7 @@ lists:
           creative team from the radio play will join the conversation."
         itemstart: 2020-10-07T18:00:52.877Z
         cta: Click here to watch!
-        subtitle: Aired Wednesday, October 7th, 2021.
+        subtitle: Aired Wednesday, October 7th, 2020.
         title: Featuring leading Iranian playwright, Naghmeh Samini!
         link: https://howlround.com/happenings/no-summary-playwright-naghmeh-samini
         image: https://ucarecdn.com/2a48cbde-db89-472a-9fe4-8c59e01116ea/
