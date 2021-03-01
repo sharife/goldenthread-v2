@@ -166,6 +166,7 @@ grids:
         subtitle: A festival of Middle Eastern drama witnesses the emergence of a new
           immigrant community—and a new category of U.S. theatre.
         image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
+        cta: Read the full article by Randy Gener
     heading: ReOrient 2009 In The Press
 cast:
   heading: Cast & Crew
