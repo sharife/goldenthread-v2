@@ -9,7 +9,7 @@ description: Don’t miss this one-of-a-kind annual festival that turns San
   Francisco into a Mecca for innovative and thought-provoking theatre. Now in
   its 8th year, the ReOrient Festival will once again present the best writing
   from or about the Middle East.
-background: https://ucarecdn.com/90e98e24-32fc-4354-aa5b-10a5a84b1c70/
+background: https://ucarecdn.com/0cd63cd3-faa2-4941-ad32-dabcb98dd2ab/-/crop/1600x954/0,112/-/preview/
 titleimage: https://ucarecdn.com/df415ae5-b17b-44b9-b343-84176dc24551/
 writer: "Simin Behbehani, Yussef El Guindi, Laura Shamas, Naomi F. Wallace,
   Ignacio Zulueta "
@@ -26,7 +26,7 @@ lists:
         itemend: 2007-02-04T01:59:00.000Z
         title: The Monologist Suffers for Her Monologue
         subtitle: by Egyptian-born playwright Yussef El Guindi, directed by Arlene Hood
-        image: https://ucarecdn.com/7d7d707c-27bc-41ea-a602-e2580e64eb24/
+        image: https://ucarecdn.com/160f03ab-16f5-466f-84b8-bca0d51b6570/
         text: >-
           A Palestinian-American explores her identity in this poignant and
           comedic monologue. In the dialogue of nations, do you ever get the
@@ -46,6 +46,7 @@ lists:
 
 
           **Laura Shamas** (Playwright) is a Lebanese American writer whose plays have been read/developed at many theaters, including Native Earth Performing Arts (October ‘07, Toronto, Canada); “Playwrights Week 2007" at the Lark Theater, New York; Soho Theatre (London, England – ’06 & ‘07); Williamstown Theatre Festival (Guest Artist 2006); Golden Thread Productions (2006) ; The Old Globe (San Diego); The Geva Theater; and The Utah Shakespearean Festival. In November 2007, she was Guest Artist in Residence at the University of Texas A & M/Corpus Christi for a production of her new play Moliere in Love. Her work has been produced by Victory Theater (L.A.), West Coast Ensemble, Philadelphia Theater Company, Walnut Street Theater, Studio Arena, and The Glines (NYC), among others. She has several published plays including *Up to Date, Lady-Like, Picnic at Hanging Rock, Portrait of a Nude, and The Other Shakespeare,* and has been honored with a number of playwriting awards, including a Fringe First Award for Outstanding New Drama (Edinburgh), a Drama-Logue Award, and a 2006-2007 Aurand Harris Fellowship from the Children's Theater Foundation of America. She is thrilled for *Pistachio* *Stories* to be part of ReOrient 2008.
+        image: https://ucarecdn.com/23261cf6-8af9-4b76-bf09-6dd2d8aa81ad/
       - itemstart: 2021-01-18T02:02:34.554Z
         itemend: 2021-01-18T02:02:34.626Z
         title: Between This Breath and You
@@ -58,7 +59,7 @@ lists:
 
 
           **Naomi Wallace** (Playwright) is a recipient of the prestigious MacArthur Genius Award. Winner of an Obie Award for best play, Wallace's major plays include Things of Dry Hours, One Flea Spare, The Trestle of Pope Lick Creek, In the Heart of America , Slaughter City , The War Boys, The Inland Sea and Birdy.  Her work  as well as an Obie Award for best play.  Naomi Wallace was born in Kentucky , and presently lives in North Yorkshire, England. Her work has been awarded the Susan Smith Blackburn Prize, the Fellowship of Southern Writers Drama Award, the Kesselring Prize and the Mobil Prize, among others.
-        image: https://ucarecdn.com/39114529-2ac9-4573-b3b6-fded262fd35b/
+        image: https://ucarecdn.com/1345ae1d-87b9-49ff-8527-f963269a720d/
       - itemstart: 2021-01-18T02:02:35.560Z
         itemend: 2021-01-18T02:02:35.742Z
         title: 22 Minutes Remaining
@@ -71,6 +72,7 @@ lists:
 
 
           **Ignacio Zulueta** (Playwright) is an early-career playwright based in Oakland, California. He is a graduate of Brown University’s playwriting honors program, where he studied with Paula Vogel, Nilo Cruz, and Bridget Carpenter. He was a 2004-2005 Tournesol Playwriting Resident at Z Space Studios and a recipient of the 2004 William Morris Society Award. Readings of his plays have been done at the Ashland New Plays Festival in Oregon , the Magic Theatre, the Bus Barn Theatre, and other diverse locations throughout the San Francisco Bay Area.
+        image: https://ucarecdn.com/d9d18a35-abe8-4ec4-8080-1c13afce4a18/
       - itemstart: 2021-01-18T02:02:35.824Z
         itemend: 2021-01-18T02:02:35.950Z
         title: I Sell Souls
@@ -87,7 +89,20 @@ lists:
           contributed to a historic development in the form of "Ghazal", as she
           added theatrical subjects, and daily events and conversations into
           this style of poetry.'
+        image: https://ucarecdn.com/cabb631e-31dc-4c4a-9576-5ad717c6944b/
     heading: REORIENT 2007/08 LINE-UP
+grids:
+  - heading: ReOrient In The Press
+    items:
+      - itemstart: 2021-03-02T18:09:53.324Z
+        itemend: 2021-03-02T18:09:53.461Z
+        pre: Five Plays ‘ReOrient’ Focus
+        title: San Jose Mercury News
+        subtitle: With the Middle East dominating the headlines, ReOrient tries to forge
+          clarity of art out of the 24/7 media chatter.
+        image: https://ucarecdn.com/7483fff0-ea4a-43af-8f89-95c9131d85bb/
+        cta: Read the full article
+        link: https://www.mercurynews.com/2008/01/13/five-plays-reorient-focus/
 cast:
   heading: Cast & Crew
   items:
