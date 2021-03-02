@@ -101,7 +101,7 @@ grids:
         subtitle: With the Middle East dominating the headlines, ReOrient tries to forge
           clarity of art out of the 24/7 media chatter.
         image: https://ucarecdn.com/7483fff0-ea4a-43af-8f89-95c9131d85bb/
-        cta: Read the full article
+        cta: Read the full article by Karen D'Souza
         link: https://www.mercurynews.com/2008/01/13/five-plays-reorient-focus/
 cast:
   heading: Cast & Crew
