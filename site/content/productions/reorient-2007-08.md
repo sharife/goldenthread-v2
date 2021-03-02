@@ -2,9 +2,9 @@
 title: ReOrient 2007/08
 pre: 8th Annual Festival of Short Plays Exploring the Middle East
 season: 2008
-date: 2007-01-02T06:45:00.000Z
-start: 2007-01-21T06:45:00.000Z
-end: 2007-02-04T06:45:00.000Z
+date: 2008-01-11T06:45:00.000Z
+start: 2008-01-11T06:45:00.000Z
+end: 2008-02-04T06:45:00.000Z
 description: Don’t miss this one-of-a-kind annual festival that turns San
   Francisco into a Mecca for innovative and thought-provoking theatre. Now in
   its 8th year, the ReOrient Festival will once again present the best writing
