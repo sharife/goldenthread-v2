@@ -2,9 +2,9 @@
 title: ReOrient 2007/08
 pre: 8th Annual Festival of Short Plays Exploring the Middle East
 season: 2008
-date: 2007-01-02T06:45:00.000Z
-start: 2007-01-21T06:45:00.000Z
-end: 2007-02-04T06:45:00.000Z
+date: 2008-01-11T06:45:00.000Z
+start: 2008-01-11T06:45:00.000Z
+end: 2008-02-04T06:45:00.000Z
 description: Don’t miss this one-of-a-kind annual festival that turns San
   Francisco into a Mecca for innovative and thought-provoking theatre. Now in
   its 8th year, the ReOrient Festival will once again present the best writing
@@ -101,7 +101,7 @@ grids:
         subtitle: With the Middle East dominating the headlines, ReOrient tries to forge
           clarity of art out of the 24/7 media chatter.
         image: https://ucarecdn.com/7483fff0-ea4a-43af-8f89-95c9131d85bb/
-        cta: Read the full article
+        cta: Read the full article by Karen D'Souza
         link: https://www.mercurynews.com/2008/01/13/five-plays-reorient-focus/
 cast:
   heading: Cast & Crew
@@ -384,4 +384,4 @@ photos:
     - image: https://ucarecdn.com/c53887f8-5c00-417e-a954-d8c4d518ae95/
     - image: https://ucarecdn.com/453214a1-d84b-4b05-b00d-501c42ea0762/
 ---
-Don’t miss this one-of-a-kind annual festival that turns San Francisco into a Mecca for innovative and thought-provoking theatre. Now in its 8th year, the ReOrient Festival will once again present the best writing from or about the Middle East.
+At a time when the Middle East is at the forefront of the news on a daily basis, Golden Thread’s ReOrient festival, featuring five world premiere plays, explores the diversity of the region, displacing misinformation and encouraging understanding.  Each performance includes all five plays—for an evening filled with poignancy, a few laughs and a lot of thought-provoking theatre.  Hailed by the San Francisco Bay Guardian as a “Triumph,” the ReOrient Festival is “becoming a Bay Area institution without losing that sense of being a well-kept secret that delights whomever discovers it” (Berkeley Daily Planet).
