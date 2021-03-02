@@ -71,19 +71,7 @@ lists:
           bridesmaids.
 
 
-          In 1979, at the age of twelve, **Shahe Mankerian** found himself digesting a new language in the Pasadena Unified School District. Away from the Civil War of Lebanon, Shahe began experimenting with written dialogue, both in poetic and dramatic form. Soon after graduating high school, he wrote and staged three plays dealing with a generation of Armenians lost in America. *Teenage Wasteland*, *Youthquaker*, and *The Devil's Children*, comprised a trilogy of dramatic angst against the melting pot of America. During this period of productivity, Mankerian also published a collection of verse entitled *Children of Honey*.\
-
-           \
-
-          Shahe received his graduate degree in English from California State University, Los Angeles in 2000. Los Angeles Poetry Festival recognized him as one of the newer voices of 2001. In 2002, he was featured as a guest poet on *Inspiration House* with Peter Harris on KPFK. That same year, he also won both Erika Mumford Prize and Daniel Varoujan Award from the New England Poetry Club. Writers at Work selected one of his poems for the 2002 Common Prayers project. In 2003, AGBU's Ardavazt Juniors revived Mankerian's 1991 play, *Teenage Wasteland.* Later that year, Edifice Wrecked nominated Mankerian's poem "She's Hiding My Keys" for the 2004 Pushcart Prize. In the summer of 2004 & 2005, Shahe was a recipient of a writing grant from the Los Angeles Writer's Project. His latest one-act play *Vort* (Worm) will be performed at the 2005 ReOrient Festival in San Francisco, and at the same time, it is being adapted into a short film. Shahe is also working on a new project with the Fountain Theatre of Los Angeles. He is co-writing a play about the immigrant community in Hollywood's Little Armenia.\
-
-           \
-
-          Mankerian's publication credits include Ararat, Beyond the Valley of the Contemporary Poets, Crab Orchard Review, Edifice Wrecked, On the Page, Pasadena Star News, and San Gabriel Valley Poetry Quarterly. He is featured in the Armenian-American anthology, *Birthmark*.  \
-
-           \
-
-          Shahe recently accepted the principalship position at Alfred and Marguerite Hovsepian Armenian School in Pasadena.
+          In 1979, at the age of twelve, **Shahe Mankerian** found himself digesting a new language in the Pasadena Unified School District. Away from the Civil War of Lebanon, Shahe began experimenting with written dialogue, both in poetic and dramatic form. Soon after graduating high school, he wrote and staged three plays dealing with a generation of Armenians lost in America. *Teenage Wasteland*, *Youthquaker*, and *The Devil’s Children*, comprised a trilogy of dramatic angst against the melting pot of America. During this period of productivity, Mankerian also published a collection of verse entitled *Children of Honey*.
         image: https://ucarecdn.com/d5ca0a49-44b1-4363-a7f3-f564879e5dbe/
         itemstart: 2021-01-21T07:19:58.739Z
         itemend: 2021-01-21T07:19:58.798Z
