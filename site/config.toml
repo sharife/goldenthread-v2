@@ -31,7 +31,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		parent = "season"
 		identifier = "what-do-the-women-say-p"
 		name = "What Do the Women Say? 2021"
-		url = "https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women"
+		url = "/productions/what-do-the-women-say-2021/"
 		weight = 12
 
 		[[menu.primary]]
