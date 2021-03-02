@@ -384,4 +384,4 @@ photos:
     - image: https://ucarecdn.com/c53887f8-5c00-417e-a954-d8c4d518ae95/
     - image: https://ucarecdn.com/453214a1-d84b-4b05-b00d-501c42ea0762/
 ---
-Don’t miss this one-of-a-kind annual festival that turns San Francisco into a Mecca for innovative and thought-provoking theatre. Now in its 8th year, the ReOrient Festival will once again present the best writing from or about the Middle East.
+At a time when the Middle East is at the forefront of the news on a daily basis, Golden Thread’s ReOrient festival, featuring five world premiere plays, explores the diversity of the region, displacing misinformation and encouraging understanding.  Each performance includes all five plays—for an evening filled with poignancy, a few laughs and a lot of thought-provoking theatre.  Hailed by the San Francisco Bay Guardian as a “Triumph,” the ReOrient Festival is “becoming a Bay Area institution without losing that sense of being a well-kept secret that delights whomever discovers it” (Berkeley Daily Planet).
