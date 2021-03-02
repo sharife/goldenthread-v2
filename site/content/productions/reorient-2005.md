@@ -121,10 +121,10 @@ grids:
           November 15th - 5:30pm/Free at The Sultan Room, Center for Middle Eastern Studies, 340 Stephens Hall, UC Berkeley
         itemstart: 2021-01-21T07:19:59.108Z
         itemend: 2021-01-21T07:19:59.170Z
-      - title: '"Berkeley Lecture Series" in partnership with Golden Thread Productions
-          presents'
+      - title: Theatre and Censorship in Contemporary Iran
         pre: "A Presentation by Mahmood Karimi Hakkak "
-        subtitle: Theatre and Censorship in Contemporary Iran
+        subtitle: '"Berkeley Lecture Series" in partnership with Golden Thread
+          Productions presents'
         text: In Feb. 1999, Mahmood Karimi-Hakak staged Shakespeare's *A Midsummer
           Night's Dream* in Tehran, Iran. This production was raided and closed
           down on its fifth night of sold-out performances, and Karimi-Hakak was
