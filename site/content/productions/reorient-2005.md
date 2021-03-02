@@ -10,7 +10,7 @@ description: "Golden Thread Productions hallmark event, ReOrient: the annual
   thought-provoking and transformative season. For four weeks each year, this
   one-of-a-kind festival turns San Francisco into a mecca for innovative,
   spirited, and attention-grabbing theatre from around the world."
-background: https://ucarecdn.com/60bb80e1-e4a1-4adc-ab5e-aa2ef1decda0/
+background: https://ucarecdn.com/60bb80e1-e4a1-4adc-ab5e-aa2ef1decda0/-/crop/2048x1203/0,0/-/preview/
 titleimage: https://ucarecdn.com/6fe88af1-a9bc-4451-b86b-2202527abaef/
 writer: George Crowe, Yussef El Guindi, Shahe Mankerian, Enrique Urueta, Naomi Wallace
 director: Hal Gelb, Mary Guzman, Laura Hope, Amy Mueller, Isis Saratial, Bill
@@ -319,13 +319,7 @@ cast:
         received her Master's degree in Theatre Arts from San Francisco State
         University where she collaborated with the San Francisco Mime Troupe in
         creating the melodrama TORCH."
-    - text: |-
-        Production Manager: Meg Patterson\
-        Stage Managers: Jen Attwood, Tara Backes\
-        Lighting Design: David Robertson\
-        Sound Design: Ian Walker\
-        Set Design: Evren Odcikin\
-        Costume Design: Paula Gruber
+    - text: ""
 photos:
   items:
     - image: https://ucarecdn.com/8f943441-5839-47ba-a0bd-6a44125b50cd/
