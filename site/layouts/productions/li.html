@@ -9,21 +9,13 @@
 	<div class="flex-ns flex-wrap mhn2-ns">
 	  {{ if .Params.titleimage }}
 	  <div class="mr2 w-30-ns">
-	  	{{ if .Params.externallink }}
-	  	<a href="{{.Params.externallink}}">
-	  	{{ else }}
 	    <a href="{{.Permalink}}">
-	    {{ end }}
 	      <img src="{{.Params.titleimage}}" alt="" class="w-60 w-100-ns db mb3">
 	    </a>
 	  </div>
 	  {{ else if .Params.background }}
 	  <div class="mr2 w-30-ns">
-	    <!-- {{ if .Params.externallink }}
-	  	<a href="{{.Params.externallink}}">
-	  	{{ else }} -->
 	    <a href="{{.Permalink}}">
-	    <!-- {{ end }} -->
 	      <img src="{{.Params.background}}" alt="" class="w-60 w-100-ns db mb3">
 	    </a>
 	  </div>
