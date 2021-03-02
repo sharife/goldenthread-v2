@@ -9,9 +9,15 @@ description: Don’t miss this one-of-a-kind annual festival that turns San
   Francisco into a Mecca for innovative and thought-provoking theatre. Now in
   its 8th year, the ReOrient Festival will once again present the best writing
   from or about the Middle East.
+background: https://ucarecdn.com/90e98e24-32fc-4354-aa5b-10a5a84b1c70/
+titleimage: https://ucarecdn.com/df415ae5-b17b-44b9-b343-84176dc24551/
 writer: "Simin Behbehani, Yussef El Guindi, Laura Shamas, Naomi F. Wallace,
-  Ignacio Zulueta, "
+  Ignacio Zulueta "
 director: Arlene Hood, Mark Ruthier, Amy Mueller, Evren Odcikin, Torange Yeghiazarian
+featuring: Sara Razavi, Lynne Soffer*, Garth Petal, Danielle Levin*, Julian
+  Lopez Morillas, Ali El Gassier
+designteam: Liz Seibert (scenic), Jacob Petrie (lighting), Zachary Watkins
+  (sound), Sarah Al-Kassab (costumes)
 stage: Magic Theatre, Building D
 address: Fort Mason Center, San Francisco
 lists:
