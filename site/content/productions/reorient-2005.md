@@ -10,7 +10,7 @@ description: "Golden Thread Productions hallmark event, ReOrient: the annual
   thought-provoking and transformative season. For four weeks each year, this
   one-of-a-kind festival turns San Francisco into a mecca for innovative,
   spirited, and attention-grabbing theatre from around the world."
-background: https://ucarecdn.com/d9ce38c6-14e3-416f-aec9-d1543b81415f/
+background: https://ucarecdn.com/60bb80e1-e4a1-4adc-ab5e-aa2ef1decda0/
 titleimage: https://ucarecdn.com/6fe88af1-a9bc-4451-b86b-2202527abaef/
 writer: George Crowe, Yussef El Guindi, Shahe Mankerian, Enrique Urueta, Naomi Wallace
 director: Hal Gelb, Mary Guzman, Laura Hope, Amy Mueller, Isis Saratial, Bill
@@ -121,30 +121,20 @@ grids:
           November 15th - 5:30pm/Free at The Sultan Room, Center for Middle Eastern Studies, 340 Stephens Hall, UC Berkeley
         itemstart: 2021-01-21T07:19:59.108Z
         itemend: 2021-01-21T07:19:59.170Z
-      - title: '"Berkeley Lecture Series" in partnership with Golden Thread Productions
-          presents'
+      - title: Theatre and Censorship in Contemporary Iran
         pre: "A Presentation by Mahmood Karimi Hakkak "
-        subtitle: "Topic: Theatre and Censorship in Contemporary Iran"
-        text: >-
-          In Feb. 1999, Mahmood Karimi-Hakak staged Shakespeare's *A Midsummer
-          Night's Dream*in Tehran, Iran. This production was raided and closed
+        subtitle: '"Berkeley Lecture Series" in partnership with Golden Thread
+          Productions presents'
+        text: In Feb. 1999, Mahmood Karimi-Hakak staged Shakespeare's *A Midsummer
+          Night's Dream* in Tehran, Iran. This production was raided and closed
           down on its fifth night of sold-out performances, and Karimi-Hakak was
-          charged with "outrage against the public decorum."Although the
+          charged with "outrage against the public decorum." Although the
           official trial was inconclusive, he received anonymous death threats
-          against his wife and twin two-year-old daughters.The family left Iran
-          in June 1999.
-
-
-          Mahmood Karimi-Hakak, Artistic Director of Mahak International Artists Inc., is a poet, theatre director and filmmaker. He has written, produced, directed, designed and acted in over 50 stage and screen productions in the US, Europe and his native Iran. His literary credits include five plays, two books of poetry, several translations from and into Persian and numerous articles and interviews both in English and Persian. Dr. Karimi-Hakak has taught at CUNY, Towson and Southern Methodist universities here in America, as well as universities in Belgium and Iran. At present he serves as Associate Professor of Creative Arts and Producer of Theatre at Siena College where he recently received the Raymond Kennedy Excellence in Scholarship Award.
-
-
-          The program included the presentation of the documentary film *Dream Interrupted* followed by a Question & Answer.
-
-
-          Film in Persian with English Subtitles (Q&A in English and Persian)
-
-
-          Suggested Donation: $10.00
+          against his wife and twin two-year-old daughters. The family left Iran
+          in June 1999. Mahmood Karimi-Hakak currently serves as Associate
+          Professor of Creative Arts and Producer of Theatre at Siena College
+          where he recently received the Raymond Kennedy Excellence in
+          Scholarship Award.
         itemstart: 2021-01-21T07:19:59.229Z
         itemend: 2021-01-21T07:19:59.282Z
   - heading: ReOrient 2005 In the Press
