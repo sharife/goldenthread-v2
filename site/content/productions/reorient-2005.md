@@ -319,13 +319,7 @@ cast:
         received her Master's degree in Theatre Arts from San Francisco State
         University where she collaborated with the San Francisco Mime Troupe in
         creating the melodrama TORCH."
-    - text: |-
-        Production Manager: Meg Patterson\
-        Stage Managers: Jen Attwood, Tara Backes\
-        Lighting Design: David Robertson\
-        Sound Design: Ian Walker\
-        Set Design: Evren Odcikin\
-        Costume Design: Paula Gruber
+    - text: ""
 photos:
   items:
     - image: https://ucarecdn.com/8f943441-5839-47ba-a0bd-6a44125b50cd/
