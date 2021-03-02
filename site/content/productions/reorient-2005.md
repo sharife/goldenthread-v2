@@ -32,25 +32,7 @@ lists:
           Strip).
 
 
-          **Naomi Wallace** (playwright) is from Kentucky. Her newest play, THE INLAND SEA, will have its world premiere in London this spring, produced by the Oxford Stage Company.  THE TRESTLE AT POPE LICK CREEK premiered at the 1998 Humana Festival at the Actors Theatre of Louisville, was produced in the spring of 1999 by New York Theatre Workshop, and by the Edinburgh Theatre in the spring of 2001. Her play ONE FLEA SPARE was commissioned and produced in October 1995 by the Bush Theatre in London. It received its American premiere at the Humana Festival and was awarded the 1996 Susan Smith Blackburn Prize, the 1996 Fellowship of Southern Writers Drama Award, the 1996 Kesselring Prize, and the 1997 Obie Award for Best Play. It was produced by the New York Shakespeare Festival in March 1997 and is being produced for film by the producer of Four Weddings and a Funeral and Notting Hill. 
-
-
-          BIRDY, an adaptation for the stage of William Wharton's novel, opened on the West End in London at the Comedy Theater in March 1997 and in Athens, Greece, at the same time.
-
-
-          SLAUGHTER CITY was awarded the 1995 Mobil Prize and  received its world premiere in January 1996 at the Royal Shakespeare Company. IN THE HEART OF AMERICA received its world premiere at the Bush and was subsequently produced at the Long Wharf Theater and in Dortmund, Germany. It was published in American Theater magazine and was awarded the 1995 Susan Smith Blackburn Prize. Her plays are published in Great Britain by Faber and Faber, and in the U.S. by Broadway Play Publishing Inc. A collection of her plays, IN THE HEART OF AMERICA AND OTHER PLAYS, was published by TCG in 2001.
-
-
-          Wallace was a 1999 recipient of the prestigious MacArthur Fellowship, the grant popularly known as the genius award.
-
-
-          A published poet in both England and in the United States, she has also received grants from The Kentucky Foundation for Women and The Kentucky Arts Council, and a 1997 N E A grant for poetry. Her book of poetry, To Dance A Stony Field, was published in the United Kingdom in May 1995.
-
-
-          Her film, LAWN DOGS, produced by Duncan Kenworthy, opened successfully in Great Britain, moved to the U S, and has won numerous film awards. Wallace and co-writer Bruce McLeod have adapted her play THE WAR BOYS for film, which is set to be shot this year. She has also adapted with Bruce McLeod for film the novel TOUCHED by Carolyn Haines.
-
-
-          At present, Wallace is under commission by The New York Shakespeare Festival-The Public Theatre, Paines Plough of London, and is also co-writing a film script on the Ludlow massacre of 1913 with Bruce McLeod and the historian Howard Zinn.
+          **Naomi Wallace** (playwright) 's work has been produced in both the United Kingdom and the United States.  Her plays include *One Flea Spare, In the Heart of America, Slaughter City, The Inland Sea* and *The Trestle at Pope Lick Creek*.  Her work has received the Susan Smith Blackburn Prize, the Kesselring Prize, the Fellowship of Southern Writers Drama Award, and an Obie. She is also a recipient of the MacArthur "Genius" Fellowship.  Her award-winning film *Lawn Dogs* is available on DVD.  She is presently working on a commission for the Royal National Theatre of London.
         itemstart: 2021-01-21T07:19:58.267Z
         itemend: 2021-01-21T07:19:58.399Z
         title: A State of Innocence
