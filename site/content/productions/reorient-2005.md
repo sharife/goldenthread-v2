@@ -147,6 +147,16 @@ grids:
           Suggested Donation: $10.00
         itemstart: 2021-01-21T07:19:59.229Z
         itemend: 2021-01-21T07:19:59.282Z
+  - heading: ReOrient 2005 In the Press
+    items:
+      - itemstart: 2021-03-02T19:24:33.980Z
+        itemend: 2021-03-02T19:24:34.078Z
+        title: The san Francisco Bay Guardian
+        pre: Short Plays, Deep Impact
+        subtitle: Golden Thread Productions triumphs with the ReOrient Festival
+        image: null
+        link: https://www.dropbox.com/s/uamp0wtdzkeoa7y/ReOrientTiumphs_2005.pdf?dl=0
+        cta: Read the full review by Robert Avila
 cast:
   heading: Cast & Crew
   items:
