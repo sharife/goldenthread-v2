@@ -125,17 +125,16 @@ grids:
           presents'
         pre: "A Presentation by Mahmood Karimi Hakkak "
         subtitle: Theatre and Censorship in Contemporary Iran
-        text: >-
-          In Feb. 1999, Mahmood Karimi-Hakak staged Shakespeare's *A Midsummer
+        text: In Feb. 1999, Mahmood Karimi-Hakak staged Shakespeare's *A Midsummer
           Night's Dream* in Tehran, Iran. This production was raided and closed
           down on its fifth night of sold-out performances, and Karimi-Hakak was
-          charged with "outrage against the public decorum."Although the
+          charged with "outrage against the public decorum." Although the
           official trial was inconclusive, he received anonymous death threats
-          against his wife and twin two-year-old daughtersThe family left Iran
-          in June 1999.
-
-
-          Mahmood Karimi-Hakak currently serves as Associate Professor of Creative Arts and Producer of Theatre at Siena College where he recently received the Raymond Kennedy Excellence in Scholarship Award.
+          against his wife and twin two-year-old daughters. The family left Iran
+          in June 1999. Mahmood Karimi-Hakak currently serves as Associate
+          Professor of Creative Arts and Producer of Theatre at Siena College
+          where he recently received the Raymond Kennedy Excellence in
+          Scholarship Award.
         itemstart: 2021-01-21T07:19:59.229Z
         itemend: 2021-01-21T07:19:59.282Z
   - heading: ReOrient 2005 In the Press
