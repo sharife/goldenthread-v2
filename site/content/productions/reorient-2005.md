@@ -1,5 +1,7 @@
 ---
 title: ReOrient 2005
+pre: Festival of Short Plays Exploring the Middle East
+season: 2005
 date: 2005-10-13T01:04:00.000Z
 start: 2005-11-13T01:04:00.000Z
 end: 2005-12-05T01:04:00.000Z
@@ -8,8 +10,15 @@ description: "Golden Thread Productions hallmark event, ReOrient: the annual
   thought-provoking and transformative season. For four weeks each year, this
   one-of-a-kind festival turns San Francisco into a mecca for innovative,
   spirited, and attention-grabbing theatre from around the world."
-writer: Various Writers
-director: Various Directors
+background: https://ucarecdn.com/d9ce38c6-14e3-416f-aec9-d1543b81415f/
+titleimage: https://ucarecdn.com/6fe88af1-a9bc-4451-b86b-2202527abaef/
+writer: George Crowe, Yussef El Guindi, Shahe Mankerian, Enrique Urueta, Naomi Wallace
+director: Hal Gelb, Mary Guzman, Laura Hope, Amy Mueller, Isis Saratial, Bill
+  Selig, Torange Yeghiazarian
+featuring: Josh Ergas, Joshua Lenn, Lawrence radecker*, Tiffani Sieraa, Ahou
+  Tabibzadeh, Mark Truitt*, Bella warda, Valerie Weak, Carolyn Zola
+designteam: Evren odcikin (scenic), David Robertson (lighting), Ian Walker
+  (sound), Paula Gruber (costumes)
 stage: The Magic Theatre
 address: Fort Mason Center, Bldg. D, 3rd Floor, San Francisco
 lists:
