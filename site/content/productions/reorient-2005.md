@@ -97,7 +97,7 @@ lists:
           irreverently exploring their mutually-held cultural stereotypes.
 
 
-          **Torange Yeghiazarian** is the Founder and Artistic Director of Golden Thread Productions in San Francisco, dedicated to theater that explores Middle Eastern culture and identity represented throughout the globe.  Torange is an Iranian-born theatre artist of Armenian heritage, and she writes, directs and performs in the San Francisco Bay Area. She made her directorial debut with **WAVES**,which premiered at the San Francisco Fringe Festival to sold-out audiences and received rave reviews from Bay Area critics.  She has adapted and directed Aristophanes' **Lysistrata** in her production **OPERATION NO PENETRATION, Lysistrata 97!**  Her other directing credits include Albert Camus' **Caligula** and Sadegh Hedayat's **Behind the Glass Window**.  She has performed in Persian in Farhad Ayeesh's **Last Supper Comedy** at the Darvag Theater in Berkeley and Dario Fo's one-woman show **A Woman Alone** at the Live Oak Theater. Torange received her Master's degree in Theatre Arts from San Francisco State University where she collaborated with the San Francisco Mime Troupe in creating the melodrama **TORCH.**
+          **Torange Yeghiazarian** is the Founder and Artistic Director of Golden Thread Productions in San Francisco, dedicated to theater that explores Middle Eastern culture and identity represented throughout the globe.  Torange is an Iranian-born theatre artist of Armenian heritage, and she writes, directs and performs in the San Francisco Bay Area. She made her directorial debut with WAVES,which premiered at the San Francisco Fringe Festival to sold-out audiences and received rave reviews from Bay Area critics.  She has adapted and directed Aristophanes' Lysistrata in her production OPERATION NO PENETRATION, Lysistrata 97!  Her other directing credits include Albert Camus' Caligula and Sadegh Hedayat's Behind the Glass Window.  She has performed in Persian in Farhad Ayeesh's Last Supper Comedy at the Darvag Theater in Berkeley and Dario Fo's one-woman show A Woman Alone at the Live Oak Theater. Torange received her Master's degree in Theatre Arts from San Francisco State University where she collaborated with the San Francisco Mime Troupe in creating the melodrama TORCH.
         image: https://ucarecdn.com/43974758-1bb5-44a1-a23a-ea002a1ff843/
         itemstart: 2021-01-21T07:19:58.984Z
         itemend: 2021-01-21T07:19:59.046Z
@@ -118,10 +118,7 @@ grids:
           This event is presented in partnership with the Center for Middle Eastern Studies and the Egyptian Consulate of San Francisco.
 
 
-          November 15th - 5:30pm/Free
-
-
-          The Sultan Room, Center for Middle Eastern Studies, 340 Stephens Hall, UC Berkeley
+          November 15th - 5:30pm/Free at The Sultan Room, Center for Middle Eastern Studies, 340 Stephens Hall, UC Berkeley
         itemstart: 2021-01-21T07:19:59.108Z
         itemend: 2021-01-21T07:19:59.170Z
       - title: '"Berkeley Lecture Series" in partnership with Golden Thread Productions
@@ -329,5 +326,7 @@ cast:
         Sound Design: Ian Walker\
         Set Design: Evren Odcikin\
         Costume Design: Paula Gruber
+bottom:
+  text: The James Irvine Foundation
 ---
 At a time when the Middle East is at the forefront of the news on a daily basis, the ReOrient festival provides a rare opportunity for artists and audiences alike to engage deeply and directly with the Middle East in a creative and supportive setting that displaces misinformation and encourages understanding.  It is a process that has been summed up by the San Francisco Chronicle as being "*haunting and provocative" with "reverberations far beyond its immediate cultural context."*
