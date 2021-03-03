@@ -13,7 +13,7 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2021-03-26T18:00:57.037Z
+      - pre: Up Next!
         itemend: 2021-03-26T20:00:57.074Z
         text: "NO SUMMARY series returns with a conversation with **John Eisner**,
           **Jamil Khoury**, and **Torange Yeghiazarian**, the founders of
@@ -24,10 +24,12 @@ lists:
           production of new work such as *Night Over Erzinga* by Adreana Sevahn
           Nichols, and *We Swim We Talk We Got to War* by Mona Mansour. Golden
           Thread’s **Nora El Samahy** will facilitate."
+        itemstart: 2021-03-26T18:00:57.037Z
         cta: Click here to watch!
+        subtitle: Join us March 26th, 2021 @ 11AM PT.
         title: "Featuring Middle East America: A National New Plays Initiative!"
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-john-eisner-jamil-khoury-and-torange-yeghiazarian
         image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
-        pre: Up Next!
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
