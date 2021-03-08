@@ -65,6 +65,8 @@ cast:
         and Ziyad."
 mentions:
   text: ""
+bottom:
+  text: WomenArts
 ---
 **Golden Thread Productions**, the first American theatre company devoted to the Middle East, presents ***What Do the Women Say?*** ***Celebrating 25 Years of Centering Women Artists.*** This year’s program features Board president and resident artist, **Nora El Samahy** in conversation with founding artistic director, T**orange Yeghiazarian** on a journey highlighting Golden Thread's 25-year history of placing Middle Eastern women artists center stage. Guest artists will join Nora and Torange to reflect on the role Golden Thread has played in their artistic trajectory and their hopes for the future. Confirmed guest artists include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer, among others. Join us for this live-stream digital celebration, part of our 25th Anniversary season!
 
