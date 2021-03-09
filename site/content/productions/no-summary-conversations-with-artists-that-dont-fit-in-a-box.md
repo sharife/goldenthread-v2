@@ -21,7 +21,7 @@ lists:
           will discuss the program’s lasting impact and the future of Middle
           Eastern American theatre. Launched in 2008 by The Lark, Silk Road
           Rising, and Golden Thread, the program supported the development and
-          production of new work such as *Night Over Erzinga* by Adreana Sevahn
+          production of new work such as *Night Over Erzinga* by Adriana Sevahn
           Nichols, and *We Swim We Talk We Got to War* by Mona Mansour. Golden
           Thread’s **Nora El Samahy** will facilitate."
         itemstart: 2021-03-26T18:00:57.037Z
