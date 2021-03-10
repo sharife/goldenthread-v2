@@ -101,6 +101,6 @@ lists:
         link: https://howlround.com/happenings/no-summary-evren-odcikin-and-nora-el-samahy
 cast:
   items: []
-  heading: Keep and eye out for more episodes coming soon!
+  heading: Keep an eye out for more episodes coming soon!
 ---
 We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of artists in conversation with our artistic director Torange Yeghiazarian, and can't wait to continue this interactive free livestream programming with new episodes this year. We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
