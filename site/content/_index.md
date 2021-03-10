@@ -20,7 +20,7 @@ items:
       center stage!
 
 
-      ***Don't miss the livestream on March 8th @ 11AM PST!***
+      ***Missed the livestream? Check out our archived recording!***
   - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
     subtitle: "*Leila's Quest for Flight* is now a radio play!"
     cta: Click to Learn More!
@@ -35,13 +35,13 @@ items:
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Join us for our next episode featuring longtime resident artists Evren
-      Odcikin and Nora el Samahy! They will discuss **championing Middle Eastern
-      stories** **and voices in mainstream American theater**, how artists can
-      be centered in this moment of transition for the field, and art-making
-      during a pandemic! Immerse yourself in these compelling topics and
-      histories that defy a snappy summation. 
+      Join us for our next episode featuring **John Eisner**, **Jamil Khoury**,
+      and **Torange Yeghiazarian**, the founders of ***Middle East America: A
+      National New Plays Initiative (MEA)***! They will discuss the program’s
+      lasting impact and the future of Middle Eastern American theatre. Immerse
+      yourself in these compelling topics and histories that defy a snappy
+      summation. 
 
 
-      ***Watch ALL of our archived episodes HERE!***
+      ***Don't miss the Livestream on March 26th, 2021 @ 11AM PT!***
 ---
