@@ -138,8 +138,6 @@ cast:
         her BA in psychology from Wellesley College. Love and thanks to Patrick
         and Ziyad."
       image: https://ucarecdn.com/ff3c4da4-4037-46eb-9046-beefc803632e/-/crop/961x925/580,187/-/preview/
-mentions:
-  text: ""
 bottom:
   text: WomenArts
 ---

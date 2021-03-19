@@ -44,7 +44,7 @@ lists:
           Ballet Afsaneh and Aswat Bay Area Arabic Music Ensemble.
 
 
-          **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
+          **For more information and a full schedule, click [here](/posts/reorient-forum-2009).**
         itemstart: 2021-02-05T09:01:11.229Z
         itemend: 2021-02-05T09:01:11.387Z
   - heading: REORIENT 2009 LINE-UP
