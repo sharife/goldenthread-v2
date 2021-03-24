@@ -14,14 +14,17 @@ description: >-
 
 
   This year, we are speaking about Golden Thread’s legacy and impact with artists whose experience with Golden Thread ranges from one year to more than twenty years. What has Golden Thread’s impact been on these artists’ career? What is their hope for Golden Thread’s next 25 years?
-background: https://ucarecdn.com/4a8529d6-c6f5-415e-a646-abb14bba852d/
+background: https://ucarecdn.com/722c0403-4863-4dd1-86fb-c85d80c1097c/
+titleimage: https://ucarecdn.com/504bffe1-109d-4d8f-929e-7fbbc0e88761/
+videos:
+  - id: https://www.youtube.com/watch?v=0nxd70Ye4bM
 featuring: Torange Yeghiazarian and Nora El Samahy; confirmed guest artists
   include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer,
   among others.
 visitlink: ""
 ticketlink: ""
 ticketinfo: ""
-externallink: https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women
+externallink: https://www.youtube.com/watch?v=0nxd70Ye4bM
 externallinklabel: Click Here to Watch!
 misc: ""
 lists:
