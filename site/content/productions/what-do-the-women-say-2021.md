@@ -17,7 +17,7 @@ description: >-
 background: https://ucarecdn.com/722c0403-4863-4dd1-86fb-c85d80c1097c/
 titleimage: https://ucarecdn.com/504bffe1-109d-4d8f-929e-7fbbc0e88761/
 videos:
-  - id: https://www.youtube.com/watch?v=0nxd70Ye4bM
+  - id: 0nxd70Ye4bM
 featuring: Torange Yeghiazarian and Nora El Samahy; confirmed guest artists
   include Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer,
   among others.
