@@ -13,23 +13,24 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - pre: Up Next!
-        itemend: 2021-03-26T20:00:57.074Z
-        text: "NO SUMMARY series returns with a conversation with **John Eisner**,
-          **Jamil Khoury**, and **Torange Yeghiazarian**, the founders of
-          ***Middle East America: A National New Plays Initiative (MEA)***. They
-          will discuss the program’s lasting impact and the future of Middle
-          Eastern American theatre. Launched in 2008 by The Lark, Silk Road
-          Rising, and Golden Thread, the program supported the development and
-          production of new work such as *Night Over Erzinga* by Adriana Sevahn
-          Nichols, and *We Swim We Talk We Got to War* by Mona Mansour. Golden
-          Thread’s **Nora El Samahy** will facilitate."
-        itemstart: 2021-03-26T18:00:57.037Z
-        cta: Click here to watch!
-        subtitle: Join us March 26th, 2021 @ 11AM PT.
-        title: "Featuring Middle East America: A National New Plays Initiative!"
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-john-eisner-jamil-khoury-and-torange-yeghiazarian
-        image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
+      - itemstart: 2021-03-30T21:27:03.642Z
+        itemend: 2021-03-30T21:27:03.676Z
+        pre: Up Next!
+        text: In an already complicated landscape of Middle Eastern identities, holding
+          up our queerness can prove a challenge. Three artists and one mother
+          discuss how they have navigated these terrains, integrating them in
+          their life and work. **Kenan Arun** is a Turkish makeup designer and
+          Golden Thread resident artist, as well as the Director of Operations
+          at The LGBT Asylum Project. **Amin El Gamal** is an Egyptian American
+          actor active in theatre, film, and television. **Humaira Ghilzai** is
+          an Afghan American writer, activist, and cultural advisor for
+          theatre, film, and television. Iranian American **Sara Razavi**, CEO
+          of non-profit lending entity Working Solutions and Golden Thread
+          resident artist, will facilitate.
+        title: Queering Our Middle Eastern Identities
+        subtitle: Join us on Friday, April 23rd at 11am PDT!
+        image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
+        cta: Watch Link Coming Soon!
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -99,6 +100,23 @@ lists:
           December 5, 2020-January 3, 2021.
         cta: Click here to watch!
         link: https://howlround.com/happenings/no-summary-evren-odcikin-and-nora-el-samahy
+      - pre: ""
+        itemend: 2021-03-26T20:00:57.074Z
+        text: "NO SUMMARY series returns with a conversation with **John Eisner**,
+          **Jamil Khoury**, and **Torange Yeghiazarian**, the founders of
+          ***Middle East America: A National New Plays Initiative (MEA)***. They
+          will discuss the program’s lasting impact and the future of Middle
+          Eastern American theatre. Launched in 2008 by The Lark, Silk Road
+          Rising, and Golden Thread, the program supported the development and
+          production of new work such as *Night Over Erzinga* by Adriana Sevahn
+          Nichols, and *We Swim We Talk We Got to War* by Mona Mansour. Golden
+          Thread’s **Nora El Samahy** will facilitate."
+        itemstart: 2021-03-26T18:00:57.037Z
+        cta: Click here to watch!
+        subtitle: Aired March 26th, 2021 @ 11AM PT.
+        title: "Featuring Middle East America: A National New Plays Initiative!"
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-john-eisner-jamil-khoury-and-torange-yeghiazarian
+        image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
