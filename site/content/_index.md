@@ -28,18 +28,17 @@ items:
       time for the holiday season! Now available as a streamable podcast, this
       inspirational story is free to access from the comfort of your home and to
       share with loved ones near and far.
-  - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
+  - image: https://ucarecdn.com/9506a184-defc-4cfe-a6d1-47af2cb54c0b/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Join us for our next episode featuring **John Eisner**, **Jamil Khoury**,
-      and **Torange Yeghiazarian**, the founders of ***Middle East America: A
-      National New Plays Initiative (MEA)***! They will discuss the program’s
-      lasting impact and the future of Middle Eastern American theatre. Immerse
-      yourself in these compelling topics and histories that defy a snappy
-      summation. 
+      In an already complicated landscape of Middle Eastern identities, holding
+      up our queerness can prove a challenge. Join us for our next episode
+      featuring three artists and one mother discussing how they have navigated
+      these terrains, integrating them in their life and work. Immerse yourself
+      in these compelling topics and histories that defy a snappy summation!
 
 
-      ***Don't miss the Livestream on March 26th, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on April 23rd, 2021 @ 11AM PT!***
 ---
