@@ -13,9 +13,8 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2021-03-30T21:27:03.642Z
+      - pre: Up Next!
         itemend: 2021-03-30T21:27:03.676Z
-        pre: Up Next!
         text: In an already complicated landscape of Middle Eastern identities, holding
           up our queerness can prove a challenge. Three artists and one mother
           discuss how they have navigated these terrains, integrating them in
@@ -27,10 +26,12 @@ lists:
           theatre, film, and television. Iranian American **Sara Razavi**, CEO
           of non-profit lending entity Working Solutions and Golden Thread
           resident artist, will facilitate.
-        title: Queering Our Middle Eastern Identities
+        itemstart: 2021-03-30T21:27:03.642Z
+        cta: Click Here to Watch on April 23rd!
         subtitle: Join us on Friday, April 23rd at 11am PDT!
+        title: Queering Our Middle Eastern Identities
+        link: https://howlround.com/happenings/no-summary-queering-our-middle-eastern-identities
         image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
-        cta: Watch Link Coming Soon!
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
