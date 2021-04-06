@@ -266,24 +266,23 @@ board:
         theatre company as Golden Thread.
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
-    - bio: <strong>Babak Sani</strong> *(he/him)* is a partner at the law firm of
-        Kilpatrick Townsend &#038; Stockton, where he has been practicing law
-        since 1992. Prior to that, he had an engineering career in Silicon
-        Valley as an integrated circuit designer in the microelectronics
+    - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
+        property law since 1992. Prior to that, he had an engineering career in
+        Silicon Valley as an integrated circuit designer in the microelectronics
         industry. He was born in Iran and emigrated to the U.S. at the age of
         15. He has been a longtime supporter of a number of non-profits focusing
         on the arts, education, the environment, and immigration reform, and has
         provided pro bono legal services for several such organizations. He also
         serves on the board of The Body Positive, a non-profit focusing on
         education around body image. His interest in the fine arts, in
-        particular of the type that builds bridges between the Middle East and
-        the West, made him an early supporter of Golden Thread Productions. He
-        believes deeply in the mission of Golden Thread and is delighted to be
-        part of the organization. He received a Bachelor’s degree from UC
-        Berkeley in Electrical Engineering and Computer Sciences, a Master’s
-        degree from Santa Clara University in telecommunications, and his Juris
-        Doctor degree from UC Hastings. He has two daughters and lives in
-        Berkeley, CA.
+        particular of the type that builds bridges between people and cultures
+        with different roots, made him an early supporter of Golden Thread
+        Productions. He believes deeply in the mission of Golden Thread and is
+        delighted to be part of the organization. He received a Bachelor’s
+        degree from UC Berkeley in Electrical Engineering and Computer Sciences,
+        a Master’s degree from Santa Clara University in telecommunications, and
+        his Juris Doctor degree from UC Hastings. He has two daughters and lives
+        in Berkeley, CA.
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
 artists:
