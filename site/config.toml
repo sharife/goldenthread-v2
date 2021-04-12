@@ -36,24 +36,17 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "the-language-of-wild-berries"
-		name = "The Language of Wild Berries"
-		url = "/productions/the-language-of-wild-berries-2021"
-		weight = 13
-
-		[[menu.primary]]
-		parent = "season"
 		identifier = "leila"
 		name = "Leila’s Quest For Flight"
 		url = "/productions/leila-2021"
-		weight = 14
+		weight = 13
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "new-threads-reading-series"
 		name = "New Threads Reading Series 2021"
 		url = "/productions/new-threads-reading-series"
-		weight = 15
+		weight = 14
 
 
 	[[menu.primary]]
