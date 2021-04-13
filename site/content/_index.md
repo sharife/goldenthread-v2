@@ -6,19 +6,22 @@ background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
 cta: DONATE NOW
 link: https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
-  - image: https://ucarecdn.com/7832751a-634c-46b5-8ecc-5625914126f3/
-    subtitle: Golden Thread celebrates *International Theatre Day*!
-    cta: Watch Our Video
-    link: https://www.facebook.com/44414285119/videos/722242895110694
+  - image: https://ucarecdn.com/7da6584f-a3cb-495d-b3d2-e293284e260e/
+    subtitle: Golden Thread introduces 4 commissioned playwrights!
+    cta: Click to Learn More!
+    link: https://goldenthread.org/posts/four-arab-playwrights-respond-to-the-now/
     text: >-
-      Each year, *International Theatre Day* releases a video statement with a
-      provided script, celebrating the Theatre arts and inviting companies
-      worldwide to join. This year, our artist community came together to share
-      this script in a multi-lingual tribute to the resilience and courage of
-      theater artists.
+      We are thrilled to commission four playwrights of Arab heritage to write
+      new plays responding to the pandemic and the call for social justice. Join
+      us in congratulating  **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah
+      Khalil**, and **Mona Mansour**! Each playwright is sponsored by an
+      individual community member and will share updates about the development
+      of the work with their sponsor. This is yet another example of Golden
+      Thread’s commitment to our artists and to engaging the community in the
+      creative process.
 
 
-      ***Check out our video here!***
+      ***Find Out More Below!***
   - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
     subtitle: "*Leila's Quest for Flight* is now a radio play!"
     cta: Click to Learn More!
