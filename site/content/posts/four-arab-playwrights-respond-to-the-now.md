@@ -1,15 +1,11 @@
 ---
 title: Four Arab Playwrights Respond to the Now!
 date: 2021-04-13T19:13:51.377Z
-description: We are thrilled to commission four playwrights of Arab heritage to
-  write new plays responding to the pandemic and the call for social justice.
-  Join us in congratulating  **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah
-  Khalil**, and **Mona Mansour**! Each playwright is sponsored by an individual
-  community member and will share updates about the development of the work with
-  their sponsor. This is yet another example of Golden Thread's commitment to
-  our artists and to engaging the community in the creative process.
+description: ""
 background: https://ucarecdn.com/23fce589-5c92-45f1-a349-9eab23ccd769/
 ---
+We are thrilled to commission four playwrights of Arab heritage to write new plays responding to the pandemic and the call for social justice. Join us in congratulating  **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah Khalil**, and **Mona Mansour**! Each playwright is sponsored by an individual community member and will share updates about the development of the work with their sponsor. This is yet another example of Golden Thread's commitment to our artists and to engaging the community in the creative process.
+
 We are grateful to the following **sponsors** for supporting new adventurous theatre: Youssri Helmy and Fatma Abdelhalim for Hassan Abdulrazzak; Yoriko Kishimoto and Lee Collins for Tariq Hamami; May Allam for Hannah Khalil; Nora El Samahy and Patrick Kaliski for Mona Mansour.\
 \
 **The Projects:**\
@@ -18,8 +14,6 @@ We are grateful to the following **sponsors** for supporting new adventurous t
 **The Arab Tryptic Project** - Award winning playwrights and Golden Thread Resident Artists Hassan Abdulrazzak, Hannah Khalil and Mona Mansour will collaborate on a new play triptych. The trio will be working closely to create an innovative framework in which to develop the piece. Connecting online and taking each other’s ideas as inspiration this will be a truly unique coming together of three exciting writers of Arab heritage. 
 
 We asked our commissioned playwrights a few questions about their projects!
-
-
 
 **What do you enjoy about working with Golden Thread?**
 
@@ -31,8 +25,6 @@ We asked our commissioned playwrights a few questions about their projects!
 
 ***Mona Mansour*** - I love working with Golden Thread because I never have to explain why stories about the Middle East are relevant. I love working with Golden Thread because I am always free to be adventurous with form, as I work on ideas that are important to all of us as we collaborate. I love working with Golden Thread because they have good taste. I love working with Goden Thread because the opening night food is incredible. #MiddleEasternFood
 
-
-
 **What about your commission project most excites you?**
 
 ***Hannah Khalil*** - This commission is incredibly exciting. To have the chance to make a new piece for GT working with two of my favourite writers and collaborators is absolutely thrilling. I’ve long admired Mona’s work so to get closer to her process will be really stimulating. Hassan and I are good friends and I think he’s one of the most imaginative and irreverent writers around. Though we’ve worked together in the past in different ways we have never co- written a piece. Writing can be such an isolated pastime, but this project will allow for dialogue and support between us three writers. I’m so grateful to Golden Thread for this opportunity to make a unique new play with these two brilliant minds.
@@ -42,7 +34,5 @@ We asked our commissioned playwrights a few questions about their projects!
 ***Tariq Hamami*** - The Black Panthers’ residency in Algiers was a coming together of two cultures with the common goal of fighting colonialism. Too often our society tries to divide us. They try to tell us our fight is our own and no one else cares. I’m very excited to have the opportunity to chip away at that narrative. This is a story of cultures coming together. As an Algerian, I’m proud of this and excited to share it.
 
 ***Mona Mansour*** - I'm most excited to work on this commission because I'll be creating something with two writers I admire a great deal -- Hannah Khalil and Hassan Abdulrazzak. I look forward to seeing how our different sensibilities come to play in a joint creation.
-
-
 
 [Click here](https://youtu.be/uv7XpHFod6I) to watch our No Summary conversation with the commissioned playwrights!
