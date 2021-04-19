@@ -59,15 +59,28 @@ lists:
         title: Nine Armenians by Leslie Ayvazian
         link: Link to box office
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
-      - itemstart: 2021-04-16T16:46:45.346Z
+      - pre: June 14-20, 2021
         itemend: 2021-04-16T16:46:45.407Z
+        text: "The play is a fusion of traditional American musical with Middle Eastern
+          undertones as well as fantastical shadow puppetry. The result of
+          collaboration among three playwrights: Hal Gelb, best known for his
+          work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi Rabihavi’s
+          Stoning, Janaki Ranpura, long time contributor to Shadow Lights
+          Theatre Company, and Torange Yeghiazarian, founder & artistic director
+          of Golden Thread Productions, a company dedicated to producing theatre
+          that explores Middle Eastern culture and identity. Original music is
+          composed by Johaness Mager, Musical Director, composer, and Band
+          Leader for Make\\*A\\*Circus from 1996 to 2002. Lisa Tateosian, dance
+          choreographer, is a member of Khadra International Dance Theatre and
+          Ballet Afsaneh, she has performed with Dance Brigade, CHODERA/dance,
+          and Asian American Dance Performances."
+        itemstart: 2021-04-16T16:46:45.346Z
+        cta: Click here to purchase tickets
+        subtitle: An Anti-war comedy musical with puppets
         title: Love Missile! by Hal Gelb, Janaki Ranpura, Torange
           YeghiazarianYeghiazarian, and directed by Norman Gee
-        pre: June 14-20, 2021
-        subtitle: An Anti-war comedy musical with puppets
-        text: credits?
-        cta: Click here to purchase tickets
         link: link to box office
+        image: https://ucarecdn.com/dc9d4388-9162-4d0b-8239-67c594a3c6ac/
     heading: Golden Thread's Vintage Collection
 cast:
   heading: why is this field required?
