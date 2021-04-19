@@ -29,7 +29,25 @@ lists:
         image: https://ucarecdn.com/070b871f-4903-4300-baa6-99ff9b93ad28/
       - pre: June 14-20, 2021
         itemend: 2021-04-16T16:46:44.710Z
-        text: credits go here?
+        text: >-
+          *Nine Armenians* is the story of three generations of
+          Armenian-Americans embracing the future by connecting with their
+          history. In this award-wining play, Leslie Ayvazian has beautifully
+          depicted the reality of facing a horrific past without shame or fear.
+          The Armenian Genocide is a particularly sensitive subject, as the
+          Turkish government has never acknowledged it.  The playwright takes a
+          risk by shedding light on the painful recollections of the past.  But
+          isn’t this validation the only way to reach understanding and restore
+          faith in the future?
+
+
+           The grand parents in the play are survivors of the Armenian genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grand father is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
+
+
+          Featuring Atosa Babaoff\*, Toby Brooks, Valerie de Jose\*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins\*, Earll Kingston\*, Lara Palanjian, Ruby Unger*
+
+
+          *\*Appearing courtesy of Actors' Equity Association*
         itemstart: 2021-04-16T16:46:44.657Z
         cta: Click here to purchase your ticket
         subtitle: Winner of Roger L. Stevens and the Susan Smith Blackburn Award
