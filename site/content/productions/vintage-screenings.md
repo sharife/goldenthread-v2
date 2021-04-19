@@ -27,14 +27,15 @@ lists:
         title: "Operation No Penetration: Lysistrata 97!"
         link: ticket link
         image: https://ucarecdn.com/070b871f-4903-4300-baa6-99ff9b93ad28/
-      - itemstart: 2021-04-16T16:46:44.657Z
+      - pre: June 14-20, 2021
         itemend: 2021-04-16T16:46:44.710Z
-        title: Nine Armenians by Leslie Ayvazian
-        pre: May 24-30
-        subtitle: show description
         text: credits go here?
+        itemstart: 2021-04-16T16:46:44.657Z
         cta: Click here to purchase your ticket
+        subtitle: Winner of Roger L. Stevens and the Susan Smith Blackburn Award
+        title: Nine Armenians by Leslie Ayvazian
         link: Link to box office
+        image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
       - itemstart: 2021-04-16T16:46:45.346Z
         itemend: 2021-04-16T16:46:45.407Z
         title: Love Missile! A Anti-war comedy musical with puppets by Hal Gelb, Janaki
