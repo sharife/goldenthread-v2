@@ -52,7 +52,7 @@ lists:
         cta: Click here to purchase your ticket
         subtitle: >-
           An Armenian-American family's journey towards accepting the past and
-          embracine the future.
+          embracing the future.
 
 
           Winner of Roger L. Stevens and the Susan Smith Blackburn Award
