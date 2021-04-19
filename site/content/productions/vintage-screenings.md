@@ -61,10 +61,10 @@ lists:
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
       - itemstart: 2021-04-16T16:46:45.346Z
         itemend: 2021-04-16T16:46:45.407Z
-        title: Love Missile! A Anti-war comedy musical with puppets by Hal Gelb, Janaki
-          Ranpura, and Torange YeghiazarianYeghiazarian
+        title: Love Missile! by Hal Gelb, Janaki Ranpura, Torange
+          YeghiazarianYeghiazarian, and directed by Norman Gee
         pre: June 14-20, 2021
-        subtitle: marketing blurb
+        subtitle: An Anti-war comedy musical with puppets
         text: credits?
         cta: Click here to purchase tickets
         link: link to box office
