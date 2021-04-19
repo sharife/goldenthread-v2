@@ -62,8 +62,8 @@ lists:
       - itemstart: 2021-04-16T16:46:45.346Z
         itemend: 2021-04-16T16:46:45.407Z
         title: Love Missile! A Anti-war comedy musical with puppets by Hal Gelb, Janaki
-          Ranpura, and Toraneg Yeghiazarian
-        pre: May 31-June 6
+          Ranpura, and Torange YeghiazarianYeghiazarian
+        pre: June 14-20, 2021
         subtitle: marketing blurb
         text: credits?
         cta: Click here to purchase tickets
