@@ -74,6 +74,8 @@ lists:
           2002. Lisa Tateosian, dance choreographer, is a member of Khadra
           International Dance Theatre and Ballet Afsaneh, she has performed with
           Dance Brigade, CHODERA/dance, and Asian American Dance Performances.
+          Scenic and costume design by Oran Bumroongchart and lighting design by
+          Paul Meason.
 
 
           Featuring Sofia Ahmad, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Lisa Tateosian, William Todd Tressler\*, Kris Welch
