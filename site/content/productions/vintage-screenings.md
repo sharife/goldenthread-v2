@@ -61,19 +61,25 @@ lists:
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
       - pre: June 14-20, 2021
         itemend: 2021-04-16T16:46:45.407Z
-        text: "The play is a fusion of traditional American musical with Middle Eastern
-          undertones as well as fantastical shadow puppetry. The result of
-          collaboration among three playwrights: Hal Gelb, best known for his
+        text: >-
+          The play is a fusion of traditional American musical with Middle
+          Eastern undertones as well as fantastical shadow puppetry. The result
+          of collaboration among three playwrights: Hal Gelb, best known for his
           work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi Rabihavi’s
           Stoning, Janaki Ranpura, long time contributor to Shadow Lights
           Theatre Company, and Torange Yeghiazarian, founder & artistic director
-          of Golden Thread Productions, a company dedicated to producing theatre
-          that explores Middle Eastern culture and identity. Original music is
-          composed by Johaness Mager, Musical Director, composer, and Band
-          Leader for Make\\*A\\*Circus from 1996 to 2002. Lisa Tateosian, dance
-          choreographer, is a member of Khadra International Dance Theatre and
-          Ballet Afsaneh, she has performed with Dance Brigade, CHODERA/dance,
-          and Asian American Dance Performances."
+          of Golden Thread Productions. Original music is composed by Johaness
+          Mager, Musical Director, composer, and Band Leader for Make\*A\*Circus
+          from 1996 to 2002. Lisa Tateosian, dance choreographer, is a member of
+          Khadra International Dance Theatre and Ballet Afsaneh, she has
+          performed with Dance Brigade, CHODERA/dance, and Asian American Dance
+          Performances.
+
+
+          Featuring Sofia Ahmad, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Lisa Tateosian, William Todd Tressler\*, Kris Welch
+
+
+          \*Appearing courtesy of Actors' Equity Association
         itemstart: 2021-04-16T16:46:45.346Z
         cta: Click here to purchase tickets
         subtitle: An Anti-war comedy musical with puppets
