@@ -67,13 +67,13 @@ lists:
           of collaboration among three playwrights: Hal Gelb, best known for his
           work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi Rabihavi’s
           Stoning, Janaki Ranpura, long time contributor to Shadow Lights
-          Theatre Company, and Torange Yeghiazarian, founder & artistic director
-          of Golden Thread Productions. Original music is composed by Johaness
-          Mager, Musical Director, composer, and Band Leader for Make\*A\*Circus
-          from 1996 to 2002. Lisa Tateosian, dance choreographer, is a member of
-          Khadra International Dance Theatre and Ballet Afsaneh, she has
-          performed with Dance Brigade, CHODERA/dance, and Asian American Dance
-          Performances.
+          Theatre Company who also designed and directed the puppets, and
+          Torange Yeghiazarian, founder & artistic director of Golden Thread
+          Productions. Original music is composed by Johaness Mager, Musical
+          Director, composer, and Band Leader for Make\*A\*Circus from 1996 to
+          2002. Lisa Tateosian, dance choreographer, is a member of Khadra
+          International Dance Theatre and Ballet Afsaneh, she has performed with
+          Dance Brigade, CHODERA/dance, and Asian American Dance Performances.
 
 
           Featuring Sofia Ahmad, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Lisa Tateosian, William Todd Tressler\*, Kris Welch
