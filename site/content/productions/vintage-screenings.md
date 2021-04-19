@@ -10,17 +10,18 @@ description: As part of our 25th Anniversary celebration, we are thrilled to
   screen three productions from Golden Thread's vintage collection.
 lists:
   - items:
-      - itemstart: 2021-04-16T16:46:43.647Z
+      - pre: Available for viewing June 7-13
         itemend: 2021-04-16T16:46:43.693Z
-        title: "Operation No Penetration: Lysistrata 97!"
-        pre: Available for viewing June 7-13
-        subtitle: In 1997, a year after the Oslo Accords, Torange Yeghiazarian adaptaed
+        text: In 1997, a year after the Oslo Accords, Torange Yeghiazarian adaptaed
           Aristophane's classic Greek comedy where Israeli and Palestinian
           women, supported by a global movement, launch a sex strike to force
           men to sign a peace treaty.
+        itemstart: 2021-04-16T16:46:43.647Z
         cta: Click here to purchase tickets
+        subtitle: ""
+        title: "Operation No Penetration: Lysistrata 97!"
         link: ticket link
-        text: Credits go here?
+        image: https://ucarecdn.com/070b871f-4903-4300-baa6-99ff9b93ad28/
       - itemstart: 2021-04-16T16:46:44.657Z
         itemend: 2021-04-16T16:46:44.710Z
         title: Nine Armenians by Leslie Ayvazian
