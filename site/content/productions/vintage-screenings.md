@@ -50,7 +50,12 @@ lists:
           *\*Appearing courtesy of Actors' Equity Association*
         itemstart: 2021-04-16T16:46:44.657Z
         cta: Click here to purchase your ticket
-        subtitle: Winner of Roger L. Stevens and the Susan Smith Blackburn Award
+        subtitle: >-
+          An Armenian-American family's journey towards accepting the past and
+          embracine the future.
+
+
+          Winner of Roger L. Stevens and the Susan Smith Blackburn Award
         title: Nine Armenians by Leslie Ayvazian
         link: Link to box office
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
