@@ -12,8 +12,8 @@ lists:
   - items:
       - itemstart: 2021-04-16T16:46:43.647Z
         itemend: 2021-04-16T16:46:43.693Z
-        title: "Operation No Penetration, Lysistrata 97! "
-        pre: Available for viewing May 17-23
+        title: "Operation No Penetration: Lysistrata 97!"
+        pre: Available for viewing June 7-13
         subtitle: In 1997, a year after the Oslo Accords, Torange Yeghiazarian adaptaed
           Aristophane's classic Greek comedy where Israeli and Palestinian
           women, supported by a global movement, launch a sex strike to force
