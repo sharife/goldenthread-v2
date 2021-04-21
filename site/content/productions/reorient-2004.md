@@ -253,35 +253,6 @@ cast:
         also co-writing a film script on the Ludlow massacre of 1913 with Bruce
         McLeod and the historian Howard Zinn."
       image: https://ucarecdn.com/6f6aba94-3ce8-476b-a55b-23abb4c14d5a/
-    - text: >-
-        **Cast:** Ann Marie Donahue, Ben Beecroft, Cyrus Tinati, David Fierro,
-        Doyle Ott, Katy Brown, Keahn Malak-Madani, Lisa Tateosian, Maxmillienne
-        Ewalt, Nail Ghechem, Patrick MacKellan, Sara Luna, Sheri Bass, Suha
-        Araj, Tiffany Harrison, Toby Brooks, Vida Ghahremani, Zak Kilberg
-
-
-        **Crew:** \
-
-        Sound Design: Marc Hagan\
-
-        Light Design: Stephen Siegel\
-
-        Set Design: Mikiko Uesugi\
-
-        Costume Design: Keri Fitch\
-
-        Video Artist: Alan Jose
-
-
-        Set Build & Props: Patrick Keene\
-
-        Stage Manager: Diana Strachan\
-
-        Production Ast: Lisa Medina\
-
-        \
-
-        Graphic Design: Miriam Behpour
 photos:
   items:
     - image: https://ucarecdn.com/36d2ce6b-21ec-4905-bfa9-7a8e237bdae0/
@@ -291,5 +262,9 @@ photos:
     - image: https://ucarecdn.com/c0449fd8-cb87-4faf-abb1-3a1d5720dc61/
     - image: https://ucarecdn.com/81567e08-d39e-4597-9237-01047707f52d/
     - image: https://ucarecdn.com/aa77a3e4-a51c-48f1-a41a-ae11580316fa/
+bottom:
+  text: The Puffin Foundation, Walter and Elise Haas Fund, Zellerbach Family
+    Foundation, CA$H Grant, a program of Theatre Bay Area, San Francisco Art
+    Commission.
 ---
 This year's line up includes *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, about an Iraq War veteral; as well as a special performance OPENING WEEK ONLY by Bay Area's own Betty Shamieh, performing excerpts from her critically acclaimed play, *Chocolate in Heat, Growing Up Arab in America.*
