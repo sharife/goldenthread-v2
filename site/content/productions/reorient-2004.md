@@ -144,18 +144,22 @@ grids:
         itemstart: 2021-01-21T08:01:13.688Z
         itemend: 2021-01-21T08:01:13.769Z
         title: The Beauty Inside
-      - subtitle: by Mohsen Yalfani, directed by Torange Yeghiazarian
+        pre: September 29 at Noh Space
+      - subtitle: by Mohsen Yalfani, directed by Torange Yeghiazarian. Featuring Pariv
+          Sayyad & Dariush Irannejad.
         text: A love triangle exposes the political conflict between two friends whose
           paths diverted in pre-revolutionary Iran.
         itemstart: 2021-01-21T08:01:13.862Z
         itemend: 2021-01-21T08:01:13.962Z
         title: Guest of a Few Days
+        pre: October 5 at Magic Theater
       - subtitle: by Joshua Sobol, directed by Amy Mueller
         text: The line between fact and fiction blurs during this overnight film
           shooting by Israeli and Palestinian artists.
         itemstart: 2021-01-21T08:01:14.049Z
         itemend: 2021-01-21T08:01:14.121Z
         title: Shooting Magda
+        pre: October 20th at Ashby Stage
       - subtitle: by Susan Merson, directed by Rebecca Novick
         text: This play follows a delicious afternoon tea party among four Israeli women
           which disintegrates into an exploration of the romantic boundaries of
@@ -163,6 +167,7 @@ grids:
         itemstart: 2021-01-21T08:01:14.209Z
         itemend: 2021-01-21T08:01:14.284Z
         title: Bounty of Lace
+        pre: November 1st at A Traveling Jewish Theater
 cast:
   heading: Cast & Crew
   items:
