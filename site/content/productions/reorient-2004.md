@@ -94,8 +94,12 @@ lists:
         title: Don't Eat the Tomatoes
       - subtitle: by Kevin Doyle, directed by Laura Hope
         image: ""
-        text: CNN news reporters stuck in the narrative of an American soldier's death
-          in Iraq. They can neither tell the deeper tale, nor move on.
+        text: >-
+          CNN news reporters stuck in the narrative of an American soldier's
+          death in Iraq. They can neither tell the deeper tale, nor move on.
+
+
+          *Compression of a Casualty* was written with found material as its direct inspiration. The dialogue of the two news anchors is taken directly from official CNN transcripts of the morning of July 18, 2003. I witnessed the original broadcast live on television. The inspiration for Private Bertoldie’s dialogue is taken from accounts in local Missouri newspapers which appeared in the days and weeks after Bertoldie’s death. Nothing beyond the initial report depicted in this play was broadcast about Bertoldie by CNN that morning. This play is dedicated to the Bertoldie family.
         itemstart: 2021-01-21T08:01:13.060Z
         itemend: 2021-01-21T08:01:13.131Z
         title: Compression of a Casualty
