@@ -178,43 +178,6 @@ cast:
         Survival Tour, London Interaction Theatre, Berlin Stein-Wal Syndicate,
         Imaginary Performance Co. of Santa Fe, Sydney Opera house Troupe, and
         several other seemingly unrelated events in various countries.
-    - bio: >-
-        **Cast:** Lynne Soffer\*, Michael Rice\*, Bernadette Quattrone, Deborah
-        Ben-Elizier, Phil Sheridan, Mark Farrell\*, Denmo Ibrahim, Nancy
-        Carlin\*, Lawrence Radacker, Brett Holland, Teana David, Torange
-        Yeghiazarian, Lawrence Radacker, David Ballog, Brett Holland, Janaki
-        Ranpura, Ali Dadgar, and introducing Eemon Malek-Madani
-
-
-        **Crew:** Sound Design: Steven klems\
-
-        Light Design: Paul Measom\
-
-        Set Design: Chris Venot\
-
-        Costume Design: Keri Fitch\
-
-        Production Manager& Props: Garret Westfall\
-
-        Stage Manager: Coyote Days\
-
-        Assistant Stage Manager: Lisa Medina\
-
-        Master Electrician: Robert Anderson\
-
-        Associate Producer: Don Cate\
-
-        Producer:Torange Yeghiazarian\
-
-        Photography: Farzad Mohr\
-
-        Graphic Design: Miriam Behpour\
-
-        Middle Eastern History Advisor: Maziar Behrooz\
-
-        Dramaturgy: Christopher White\
-
-        Publicity: Vida Ghahremani, Anahita Bakhtiary
 photos:
   items:
     - image: https://ucarecdn.com/1af5ce96-8d77-434e-bbb2-a79c269d6707/
