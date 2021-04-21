@@ -105,4 +105,6 @@ photos2:
 photos3:
   heading: Love Missile
 ---
-What info should we put here?
+Introductory line
+
+Significance of each play in the body of work.
