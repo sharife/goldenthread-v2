@@ -224,6 +224,9 @@ photos2:
     - image: https://ucarecdn.com/2e7dccf5-b92d-473a-992f-034a7886a774/
     - image: https://ucarecdn.com/b7a0ef0e-0c8b-4d4d-a950-5dbc67eccd37/
     - image: https://ucarecdn.com/f6466348-6e45-400e-81e6-7a5d02ae15fd/
+bottom:
+  text: The Zellerbach Family Foundation, the William and Flora Hewlett Foundation
+    and W. A. Gerbode Foundation.
 ---
 Featuring works by internationally acclaimed writer Israel Horovitz, winner of numerous awards including two OBIEs and an EMMY; Motti Lerner, winner of Israel Prime Minister’s Award for Writers and award-winning playwright Yussef El Guindi. The festival also features a play by local favorite, Erik Ehn and an original puppet play developed by company member, Janaki Ranpura. The cast features Nancy Carlin and Lynne Soffer.\
 With ReOrient, Golden Thread Productions turns San Francisco into a little Mecca for innovative and thought-provoking theatre about the Middle East.
