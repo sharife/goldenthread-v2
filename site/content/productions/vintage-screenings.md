@@ -11,7 +11,7 @@ description: As part of our 25th Anniversary celebration, we are thrilled to
 program: ""
 lists:
   - items:
-      - pre: Available for viewing June 7-13
+      - pre: June 7-13
         itemend: 2021-04-16T16:46:43.693Z
         text: >-
           In 1997, a year after the Oslo Accords, this adaptation of the classic
@@ -38,22 +38,18 @@ lists:
         text: >-
           *Nine Armenians* is the story of three generations of
           Armenian-Americans embracing the future by connecting with their
-          history. In this award-wining play, Leslie Ayvazian has beautifully
-          depicted the reality of facing a horrific past without shame or fear.
-          The Armenian Genocide is a particularly sensitive subject, as the
-          Turkish government has never acknowledged it.  The playwright takes a
-          risk by shedding light on the painful recollections of the past.  But
-          isn’t this validation the only way to reach understanding and restore
-          faith in the future?
+          history. Made possible by tremendous support from the Bay Area’s
+          Armenian community, Golden Thread’s production was originally staged
+          at the Magic Theater in 2002.
 
 
-           The grand parents in the play are survivors of the Armenian genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grand father is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
+          In this award-wining play, Leslie Ayvazian has beautifully depicted the reality of facing a horrific past without shame or fear. The grand parents in the play are survivors of the Armenian Genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grand father is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
 
 
           Featuring Atosa Babaoff\*, Toby Brooks, Valerie de Jose\*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins\*, Earll Kingston\*, Lara Palanjian, Ruby Unger*
 
 
-          *\*Appearing courtesy of Actors' Equity Association*
+          Design Team: Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, *Listen to My Heart*, by Datevik Hovanessian.
         itemstart: 2021-04-16T16:46:44.657Z
         cta: Click here to purchase your ticket
         subtitle: >-
@@ -62,7 +58,7 @@ lists:
 
 
           Winner of Roger L. Stevens and the Susan Smith Blackburn Award
-        title: Nine Armenians by Leslie Ayvazian
+        title: Nine Armenians by Leslie Ayvazian, directed by Torange Yeghiazarian
         link: Link to box office
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
       - pre: June 14-20, 2021
