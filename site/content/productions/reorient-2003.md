@@ -5,7 +5,11 @@ season: 2003
 date: 2003-10-01T02:20:00.000Z
 start: 2003-10-31T02:20:00.000Z
 end: 2003-11-24T02:20:00.000Z
-description: "ReOrient 2003: Fifth Annual Festival of Short Plays Exploring the Middle East"
+description: The breathtaking quality of the plays in this year’s ReOrient
+  Festival reflects Golden Thread Productions’ growth in the past five years. We
+  have gone from searching for a voice and seeking legitimacy for Middle Eastern
+  stories to planting our feet firmly on dramatic grounds and proudly declaring,
+  “We are here to stay!”
 background: https://ucarecdn.com/b9a8b2ba-6312-4b6b-86bf-4da62608c29e/-/crop/2010x1346/0,190/-/preview/
 titleimage: https://ucarecdn.com/e90b0d5a-99f7-4006-af12-afdfab8f9aef/
 program: https://ucarecdn.com/ea800509-1fa6-4317-806f-8fddad8a722d/
