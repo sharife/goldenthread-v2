@@ -1,11 +1,19 @@
 ---
 title: ReOrient 2004
+pre: Festival of Short Plays Exploring the Middle East
 season: 2004
 date: 2004-08-17T01:45:00.000Z
 start: 2004-09-17T01:45:00.000Z
 end: 2004-10-25T01:45:00.000Z
-description: "ReOrient 2004: Sixth Annual Festival of Short Plays Exploring the Middle East"
-background: https://ucarecdn.com/3bd37b55-2c9b-4434-b682-7914d71a8e7f/
+description: Golden Thread Productions will present its annual festival of plays
+  about or written by playwrights from the Middle East at Noh Space in San
+  Francisco followed by two weeks at Ashby Stage in Berkeley. Selections include
+  a play by the MacArthur Genius Award recipient, Naomi Wallace. Among the other
+  outstanding works are plays exploring the news coverage of the Iraq War,
+  imagining the last moments of the victims of the 9/11 attack, as well as
+  premieres from Turkish, Iranian and Armenian playwrights.
+background: https://ucarecdn.com/eee0f69f-09c4-4a1f-8a9c-348a0b96c53a/-/crop/2013x1128/0,268/-/preview/
+titleimage: https://ucarecdn.com/6805eefa-1ff3-4006-b1a5-75c58eabb198/
 stage: Performed at the Noh Space and The Ashby Stage
 address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
   Ashby Ave., Berkeley)
