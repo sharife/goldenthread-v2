@@ -4,16 +4,23 @@ pre: Festival of Short Plays Exploring the Middle East
 season: 2004
 date: 2004-08-17T01:45:00.000Z
 start: 2004-09-17T01:45:00.000Z
-end: 2004-10-25T01:45:00.000Z
+end: 2004-10-11T01:45:00.000Z
+heading: Seven Short Plays Presented in Two Alternating Series
 description: Golden Thread Productions will present its annual festival of plays
   about or written by playwrights from the Middle East at Noh Space in San
-  Francisco followed by two weeks at Ashby Stage in Berkeley. Selections include
-  plays exploring the news coverage of the Iraq War, imagining the last moments
-  of the victims of the 9/11 attack, as well as premieres from Turkish, Iranian
-  and Armenian playwrights.
+  Francisco followed by two weeks at Ashby Stage in Berkeley.
 background: https://ucarecdn.com/eee0f69f-09c4-4a1f-8a9c-348a0b96c53a/-/crop/2013x1128/0,268/-/preview/
 titleimage: https://ucarecdn.com/6805eefa-1ff3-4006-b1a5-75c58eabb198/
 program: https://ucarecdn.com/10774236-7f11-4580-a9d5-497165c1c032/
+director: Hal Gelb, Arlene Hood, Amy Mueller, Laura Hope Owen, Meredith Weiss
+  Friedman, Torange Yeghiazarian
+featuring: Patrick Alparone, Suha Araj, Sheri Bass, Ben Beecroft, Toby Brooks,
+  Katy Brown, Ann Marie Donahue, Maxmillienne Ewalt, David Fierro, Nabil
+  Ghachem, Vida Ghahremani, Tiffany Harrison, Patrick A. Keene, Zak Kilberg,
+  Sara Luna, Patrick MacKellan, Keahn Malak-Madani, Doyle Ott, Lisa Tateosian
+  and Cyrus Tinati
+designteam: Mikiko Uesugi (scenic), Stephen Siegel (lighting), Marc Hagan
+  (sound), Keri Fitch (costumes), Miriam Behpour (graphic), Alan Jose (video)
 stage: Performed at the Noh Space and The Ashby Stage
 address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
   Ashby Ave., Berkeley)
@@ -87,8 +94,12 @@ lists:
         title: Don't Eat the Tomatoes
       - subtitle: by Kevin Doyle, directed by Laura Hope
         image: ""
-        text: CNN news reporters stuck in the narrative of an American soldier's death
-          in Iraq. They can neither tell the deeper tale, nor move on.
+        text: >-
+          CNN news reporters stuck in the narrative of an American soldier's
+          death in Iraq. They can neither tell the deeper tale, nor move on.
+
+
+          *Compression of a Casualty* was written with found material as its direct inspiration. The dialogue of the two news anchors is taken directly from official CNN transcripts of the morning of July 18, 2003. I witnessed the original broadcast live on television. The inspiration for Private Bertoldie’s dialogue is taken from accounts in local Missouri newspapers which appeared in the days and weeks after Bertoldie’s death. Nothing beyond the initial report depicted in this play was broadcast about Bertoldie by CNN that morning. This play is dedicated to the Bertoldie family.
         itemstart: 2021-01-21T08:01:13.060Z
         itemend: 2021-01-21T08:01:13.131Z
         title: Compression of a Casualty
@@ -133,18 +144,22 @@ grids:
         itemstart: 2021-01-21T08:01:13.688Z
         itemend: 2021-01-21T08:01:13.769Z
         title: The Beauty Inside
-      - subtitle: by Mohsen Yalfani, directed by Torange Yeghiazarian
+        pre: September 29 at Noh Space
+      - subtitle: by Mohsen Yalfani, directed by Torange Yeghiazarian. Featuring Pariv
+          Sayyad & Dariush Irannejad.
         text: A love triangle exposes the political conflict between two friends whose
           paths diverted in pre-revolutionary Iran.
         itemstart: 2021-01-21T08:01:13.862Z
         itemend: 2021-01-21T08:01:13.962Z
         title: Guest of a Few Days
+        pre: October 5 at Magic Theater
       - subtitle: by Joshua Sobol, directed by Amy Mueller
         text: The line between fact and fiction blurs during this overnight film
           shooting by Israeli and Palestinian artists.
         itemstart: 2021-01-21T08:01:14.049Z
         itemend: 2021-01-21T08:01:14.121Z
         title: Shooting Magda
+        pre: October 20th at Ashby Stage
       - subtitle: by Susan Merson, directed by Rebecca Novick
         text: This play follows a delicious afternoon tea party among four Israeli women
           which disintegrates into an exploration of the romantic boundaries of
@@ -152,6 +167,7 @@ grids:
         itemstart: 2021-01-21T08:01:14.209Z
         itemend: 2021-01-21T08:01:14.284Z
         title: Bounty of Lace
+        pre: November 1st at A Traveling Jewish Theater
 cast:
   heading: Cast & Crew
   items:
@@ -237,43 +253,18 @@ cast:
         also co-writing a film script on the Ludlow massacre of 1913 with Bruce
         McLeod and the historian Howard Zinn."
       image: https://ucarecdn.com/6f6aba94-3ce8-476b-a55b-23abb4c14d5a/
-    - text: >-
-        **Cast:** Ann Marie Donahue, Ben Beecroft, Cyrus Tinati, David Fierro,
-        Doyle Ott, Katy Brown, Keahn Malak-Madani, Lisa Tateosian, Maxmillienne
-        Ewalt, Nail Ghechem, Patrick MacKellan, Sara Luna, Sheri Bass, Suha
-        Araj, Tiffany Harrison, Toby Brooks, Vida Ghahremani, Zak Kilberg
-
-
-        **Crew:** \
-
-        Sound Design: Marc Hagan\
-
-        Light Design: Stephen Siegel\
-
-        Set Design: Mikiko Uesugi\
-
-        Costume Design: Keri Fitch\
-
-        Video Artist: Alan Jose
-
-
-        Set Build & Props: Patrick Keene\
-
-        Stage Manager: Diana Strachan\
-
-        Production Ast: Lisa Medina\
-
-        \
-
-        Graphic Design: Miriam Behpour
 photos:
   items:
-    - image: https://ucarecdn.com/36d2ce6b-21ec-4905-bfa9-7a8e237bdae0/
-    - image: https://ucarecdn.com/b4585e51-fb0e-4e7d-aecb-310a87f6862d/
-    - image: https://ucarecdn.com/bba490ad-c438-4124-a0aa-3b3848b0052d/
-    - image: https://ucarecdn.com/5b45e4b8-69c2-4811-ad79-c507d313f160/
-    - image: https://ucarecdn.com/c0449fd8-cb87-4faf-abb1-3a1d5720dc61/
-    - image: https://ucarecdn.com/81567e08-d39e-4597-9237-01047707f52d/
-    - image: https://ucarecdn.com/aa77a3e4-a51c-48f1-a41a-ae11580316fa/
+    - image: https://ucarecdn.com/1b61dcdb-8d56-4ea6-af9a-f0f7e194bfbf/
+    - image: https://ucarecdn.com/cd0ef972-a9e3-4aaa-a6bd-0430aa2a9010/
+    - image: https://ucarecdn.com/6c66fb7b-52c7-4462-8ee6-767204489037/
+    - image: https://ucarecdn.com/7d067013-0955-424e-80e0-63caad012f11/
+    - image: https://ucarecdn.com/eb627175-2684-4cfa-b1ad-e0671411d853/
+    - image: https://ucarecdn.com/1b598608-973b-4298-8666-e02218932150/
+    - image: https://ucarecdn.com/5fac4e7c-7954-4ef4-a666-91c32a18609a/
+bottom:
+  text: The Puffin Foundation, Walter and Elise Haas Fund, Zellerbach Family
+    Foundation, CA$H Grant, a program of Theatre Bay Area, San Francisco Art
+    Commission.
 ---
 This year's line up includes *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, about an Iraq War veteral; as well as a special performance OPENING WEEK ONLY by Bay Area's own Betty Shamieh, performing excerpts from her critically acclaimed play, *Chocolate in Heat, Growing Up Arab in America.*
