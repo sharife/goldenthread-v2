@@ -61,34 +61,38 @@ lists:
         title: Nine Armenians by Leslie Ayvazian, directed by Torange Yeghiazarian
         link: Link to box office
         image: https://ucarecdn.com/2431df42-5ab6-4428-a5a8-7b2b2ca60cd8/
-      - pre: June 14-20, 2021
+      - pre: June 21-27, 2021
         itemend: 2021-04-16T16:46:45.407Z
         text: >-
-          The play is a fusion of traditional American musical with Middle
-          Eastern undertones as well as fantastical shadow puppetry. The result
-          of collaboration among three playwrights: Hal Gelb, best known for his
-          work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi Rabihavi’s
-          Stoning, Janaki Ranpura, long time contributor to Shadow Lights
-          Theatre Company who also designed and directed the puppets, and
-          Torange Yeghiazarian, founder & artistic director of Golden Thread
-          Productions. Original music is composed by Johaness Mager, Musical
-          Director, composer, and Band Leader for Make\*A\*Circus from 1996 to
-          2002. Lisa Tateosian, dance choreographer, is a member of Khadra
-          International Dance Theatre and Ballet Afsaneh, she has performed with
-          Dance Brigade, CHODERA/dance, and Asian American Dance Performances.
-          Scenic and costume design by Oran Bumroongchart and lighting design by
-          Paul Meason.
+          Originally staged in June 2003 at the New Langton Arts in San
+          Francisco, *Love Missile* is a fusion of traditional American musical
+          with Middle Eastern undertones as well as fantastical shadow puppetry.
+          The result of collaboration among three playwrights: Hal Gelb, best
+          known for his work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi
+          Rabihavi’s Stoning, Janaki Ranpura, long time contributor to Shadow
+          Lights Theatre Company who also designed and directed the puppets, and
+          Torange Yeghiazarian, founding artistic director of Golden Thread
+          Productions. An artistic response to the US invasion of Iraq in the
+          aftermath of the 9/11 attacks, *Love Missile* is Golden Thread’s first
+          commissioned play. The production was made possible by the generous
+          contribution of Judith Wilber and Bob Miller.
 
 
-          Featuring Sofia Ahmad, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Lisa Tateosian, William Todd Tressler\*, Kris Welch
+          When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, the prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives. Ultimately, they find importing the goods is the only option and as it turns out, Distancia has the best goods. The dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President leaving him no alternative but to attack – with Love, a drug developed by Dr. Z and Sharifa that induces universal love. But is Love really all we need? A surreal tale of passion, greed, denial and longing involving unnamable body fluids and orifice.
 
 
-          \*Appearing courtesy of Actors' Equity Association
+          FeaturingSofia Ahmad, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Carmen Elena Sosa\*, William Todd Tressler*, Kris Welch
+
+
+          *\*Appearing courtesy of Actors' Equity Association*
+
+
+          Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. Scenic and costume design by Oran Bumroongchart. Lighting design by Paul Meason. Puppets and graphic art by Janaki Ranpura.
         itemstart: 2021-04-16T16:46:45.346Z
         cta: Click here to purchase tickets
-        subtitle: An Anti-war comedy musical with puppets
-        title: Love Missile! by Hal Gelb, Janaki Ranpura, Torange
-          YeghiazarianYeghiazarian, and directed by Norman Gee
+        subtitle: An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura,
+          Torange Yeghiazarian, and directed by Norman Gee
+        title: ""
         link: link to box office
         image: https://ucarecdn.com/dc9d4388-9162-4d0b-8239-67c594a3c6ac/
     heading: Golden Thread's Vintage Collection
