@@ -209,19 +209,9 @@ cast:
 photos:
   items:
     - image: https://ucarecdn.com/1af5ce96-8d77-434e-bbb2-a79c269d6707/
-    - image: https://ucarecdn.com/5302c586-0f5b-477b-9d90-81d0cbccd3fd/
-    - image: https://ucarecdn.com/0483f5cf-a2bb-46b2-bf50-23495d605681/
-    - image: https://ucarecdn.com/0c647747-374d-4ea2-b9fb-468c8da58b7d/
-    - image: https://ucarecdn.com/dc376d92-31dc-4877-909e-a2d8e4c25613/
     - image: https://ucarecdn.com/f68775d5-2407-4a0d-983a-fd9db74abb96/
     - image: https://ucarecdn.com/62169a04-5e7a-4833-a848-66cee6e95497/
-    - image: https://ucarecdn.com/fc674d9f-054e-4236-b99e-3d998f5a543b/
-    - image: https://ucarecdn.com/9bbbec49-6e32-4abe-bc5c-444297af72ad/
-    - image: https://ucarecdn.com/4c623535-625a-403a-9670-29e8da9dbc3b/
-    - image: https://ucarecdn.com/48772704-bbb7-441c-91b6-5ce8d8b6099d/
-    - image: https://ucarecdn.com/27ceb4b5-0e0b-455e-a7d7-9029430711c6/
-    - image: https://ucarecdn.com/8277744d-98fe-4eb1-a771-991bba100059/
-    - image: https://ucarecdn.com/4ed8db99-24b1-4483-9b12-a7303e8f7b3c/
+  heading: First Rehearsal
 ---
 Featuring works by internationally acclaimed writer Israel Horovitz, winner of numerous awards including two OBIEs and an EMMY; Motti Lerner, winner of Israel Prime Minister’s Award for Writers and award-winning playwright Yussef El Guindi. The festival also features a play by local favorite, Erik Ehn and an original puppet play developed by company member, Janaki Ranpura. The cast features Nancy Carlin and Lynne Soffer.\
 With ReOrient, Golden Thread Productions turns San Francisco into a little Mecca for innovative and thought-provoking theatre about the Middle East.
