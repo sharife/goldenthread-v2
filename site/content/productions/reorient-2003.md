@@ -20,8 +20,8 @@ featuring: David Ballog, Deborah Ben-Elizier, Nancy Carlin*, Ali Dadgar, Téana
   Lawrence Radecker, Janaki Ranpura, Michael Wayne Rice*, Phil Sheridan, Lynne
   Soffer*, Torange Yeghiazarian, and introducing Eemon Malek-Madani
 designteam: "Steven Klems (sound), Paul Measom (lighting), Keri Fitch
-  (costumes), Garrett Westfall (props). Fight choreography: Christopher
-  Morrison."
+  (costumes), Garrett Westfall (props), Miriam Behpour (graphic). Fight
+  choreography: Christopher Morrison."
 stage: New Langton Arts
 address: 1246 Folsom Street, San Francisco
 lists:
