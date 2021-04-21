@@ -1,16 +1,22 @@
 ---
 title: ReOrient 2002
+pre: A Festival of Short Plays about the Middle East
 season: 2002
 date: 2002-07-08T23:27:00.000Z
 start: 2002-08-08T23:27:00.000Z
 end: 2002-08-25T23:27:00.000Z
-heading: A Festival of Short Plays about the Middle East
+heading: Women & War - Eight Plays Presented in Two Alternating Series.
 description: Golden Thread Productions presents its fourth annual festival of
   short plays written by playwrights from, or exploring themes concerning, the
-  **Middle East** (August 8–25, New Langton Arts, 1246 Folsom St., San
-  Francisco).
+  **Middle East.**
+background: https://ucarecdn.com/86743f65-0b72-4f90-9e66-4007d2e9dfb6/-/crop/1708x987/0,139/-/preview/
 writer: Various Writers
-director: Various Directors
+director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
+featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
+  Valerie de Jose, Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette
+  Harrison, Barbara Jaspersen, Maziar Motahari, Ric Prindle *, Bella
+  Ramazan-Nia, Claudia Rosa *
+designteam: Svetlana Pedan, Rob Anderson,
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
 lists:
