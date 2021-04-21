@@ -13,6 +13,15 @@ description: The breathtaking quality of the plays in this year’s ReOrient
 background: https://ucarecdn.com/b9a8b2ba-6312-4b6b-86bf-4da62608c29e/-/crop/2010x1346/0,190/-/preview/
 titleimage: https://ucarecdn.com/e90b0d5a-99f7-4006-af12-afdfab8f9aef/
 program: https://ucarecdn.com/ea800509-1fa6-4317-806f-8fddad8a722d/
+director: Don Cate, Hal Gelb, Arlene Hood, Christopher Morrison, Amy Mueller,
+  Torange Yeghiazarian
+featuring: David Ballog, Deborah Ben-Elizier, Nancy Carlin*, Ali Dadgar, Téana
+  David, Mark Farrell*, Brett Holland, Denmo Ibrahim, Bernadette Quattrone,
+  Lawrence Radecker, Janaki Ranpura, Michael Wayne Rice*, Phil Sheridan, Lynne
+  Soffer*, Torange Yeghiazarian, and introducing Eemon Malek-Madani
+designteam: "Steven Klems (sound), Paul Measom (lighting), Keri Fitch
+  (costumes), Garrett Westfall (props), Miriam Behpour (graphic). Fight
+  choreography: Christopher Morrison."
 stage: New Langton Arts
 address: 1246 Folsom Street, San Francisco
 lists:
@@ -169,59 +178,27 @@ cast:
         Survival Tour, London Interaction Theatre, Berlin Stein-Wal Syndicate,
         Imaginary Performance Co. of Santa Fe, Sydney Opera house Troupe, and
         several other seemingly unrelated events in various countries.
-    - bio: >-
-        **Cast:** Lynne Soffer\*, Michael Rice\*, Bernadette Quattrone, Deborah
-        Ben-Elizier, Phil Sheridan, Mark Farrell\*, Denmo Ibrahim, Nancy
-        Carlin\*, Lawrence Radacker, Brett Holland, Teana David, Torange
-        Yeghiazarian, Lawrence Radacker, David Ballog, Brett Holland, Janaki
-        Ranpura, Ali Dadgar, and introducing Eemon Malek-Madani
-
-
-        **Crew:** Sound Design: Steven klems\
-
-        Light Design: Paul Measom\
-
-        Set Design: Chris Venot\
-
-        Costume Design: Keri Fitch\
-
-        Production Manager& Props: Garret Westfall\
-
-        Stage Manager: Coyote Days\
-
-        Assistant Stage Manager: Lisa Medina\
-
-        Master Electrician: Robert Anderson\
-
-        Associate Producer: Don Cate\
-
-        Producer:Torange Yeghiazarian\
-
-        Photography: Farzad Mohr\
-
-        Graphic Design: Miriam Behpour\
-
-        Middle Eastern History Advisor: Maziar Behrooz\
-
-        Dramaturgy: Christopher White\
-
-        Publicity: Vida Ghahremani, Anahita Bakhtiary
 photos:
   items:
     - image: https://ucarecdn.com/1af5ce96-8d77-434e-bbb2-a79c269d6707/
-    - image: https://ucarecdn.com/5302c586-0f5b-477b-9d90-81d0cbccd3fd/
-    - image: https://ucarecdn.com/0483f5cf-a2bb-46b2-bf50-23495d605681/
-    - image: https://ucarecdn.com/0c647747-374d-4ea2-b9fb-468c8da58b7d/
-    - image: https://ucarecdn.com/dc376d92-31dc-4877-909e-a2d8e4c25613/
     - image: https://ucarecdn.com/f68775d5-2407-4a0d-983a-fd9db74abb96/
     - image: https://ucarecdn.com/62169a04-5e7a-4833-a848-66cee6e95497/
-    - image: https://ucarecdn.com/fc674d9f-054e-4236-b99e-3d998f5a543b/
-    - image: https://ucarecdn.com/9bbbec49-6e32-4abe-bc5c-444297af72ad/
-    - image: https://ucarecdn.com/4c623535-625a-403a-9670-29e8da9dbc3b/
-    - image: https://ucarecdn.com/48772704-bbb7-441c-91b6-5ce8d8b6099d/
-    - image: https://ucarecdn.com/27ceb4b5-0e0b-455e-a7d7-9029430711c6/
-    - image: https://ucarecdn.com/8277744d-98fe-4eb1-a771-991bba100059/
-    - image: https://ucarecdn.com/4ed8db99-24b1-4483-9b12-a7303e8f7b3c/
+  heading: First Rehearsal
+photos2:
+  heading: Production Photos
+  items:
+    - image: https://ucarecdn.com/54ff68b5-5de0-4403-8fd2-ade1cef3e481/
+    - image: https://ucarecdn.com/f2964913-00c9-4c41-9b52-bf72d3c15f68/
+    - image: https://ucarecdn.com/be191bee-786a-4179-85ff-3ae469ee750c/
+    - image: https://ucarecdn.com/5f2c241b-bb19-4e04-8847-15a2aee30b39/
+    - image: https://ucarecdn.com/5096fc2e-7d44-4f3d-a78f-81e14db30b05/
+    - image: https://ucarecdn.com/018db5b3-27bb-41f3-9721-0346199964e1/
+    - image: https://ucarecdn.com/2e7dccf5-b92d-473a-992f-034a7886a774/
+    - image: https://ucarecdn.com/b7a0ef0e-0c8b-4d4d-a950-5dbc67eccd37/
+    - image: https://ucarecdn.com/f6466348-6e45-400e-81e6-7a5d02ae15fd/
+bottom:
+  text: The Zellerbach Family Foundation, the William and Flora Hewlett Foundation
+    and W. A. Gerbode Foundation.
 ---
 Featuring works by internationally acclaimed writer Israel Horovitz, winner of numerous awards including two OBIEs and an EMMY; Motti Lerner, winner of Israel Prime Minister’s Award for Writers and award-winning playwright Yussef El Guindi. The festival also features a play by local favorite, Erik Ehn and an original puppet play developed by company member, Janaki Ranpura. The cast features Nancy Carlin and Lynne Soffer.\
 With ReOrient, Golden Thread Productions turns San Francisco into a little Mecca for innovative and thought-provoking theatre about the Middle East.
