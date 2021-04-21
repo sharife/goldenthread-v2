@@ -8,12 +8,12 @@ end: 2004-10-25T01:45:00.000Z
 description: Golden Thread Productions will present its annual festival of plays
   about or written by playwrights from the Middle East at Noh Space in San
   Francisco followed by two weeks at Ashby Stage in Berkeley. Selections include
-  a play by the MacArthur Genius Award recipient, Naomi Wallace. Among the other
-  outstanding works are plays exploring the news coverage of the Iraq War,
-  imagining the last moments of the victims of the 9/11 attack, as well as
-  premieres from Turkish, Iranian and Armenian playwrights.
+  plays exploring the news coverage of the Iraq War, imagining the last moments
+  of the victims of the 9/11 attack, as well as premieres from Turkish, Iranian
+  and Armenian playwrights.
 background: https://ucarecdn.com/eee0f69f-09c4-4a1f-8a9c-348a0b96c53a/-/crop/2013x1128/0,268/-/preview/
 titleimage: https://ucarecdn.com/6805eefa-1ff3-4006-b1a5-75c58eabb198/
+program: https://ucarecdn.com/10774236-7f11-4580-a9d5-497165c1c032/
 stage: Performed at the Noh Space and The Ashby Stage
 address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
   Ashby Ave., Berkeley)
@@ -276,4 +276,4 @@ photos:
     - image: https://ucarecdn.com/81567e08-d39e-4597-9237-01047707f52d/
     - image: https://ucarecdn.com/aa77a3e4-a51c-48f1-a41a-ae11580316fa/
 ---
-Selections include *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, exploring the news coverage of the Iraq War; as well as a special performance OPENING WEEK ONLY by Bay Area native, Betty Shamieh, performing excerpts from her critically acclaimed play of monologues, *Chocolate in Heat, Growing Up Arab in America.*
+This year's line up includes *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, about an Iraq War veteral; as well as a special performance OPENING WEEK ONLY by Bay Area's own Betty Shamieh, performing excerpts from her critically acclaimed play, *Chocolate in Heat, Growing Up Arab in America.*
