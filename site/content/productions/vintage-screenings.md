@@ -14,11 +14,11 @@ lists:
       - pre: Available for viewing June 7-13
         itemend: 2021-04-16T16:46:43.693Z
         text: >-
-          In 1997, a year after the Oslo Accords, Torange Yeghiazarian adapted
-          Aristophane's classic Greek comedy where Israeli and Palestinian
-          women, supported by a global movement, launch a sex strike to force
-          men to sign a peace treaty. Staged at NEXT Stage in San Francisco,
-          Operation No Penetration is Golden Thread's inaugural production.
+          In 1997, a year after the Oslo Accords, this adaptation of the classic
+          Greek comedy unites Israeli and Palestinian women, supported by a
+          global movement, to launch a sex strike to force men to sign a peace
+          treaty. Staged at NEXT Stage in San Francisco, Operation No
+          Penetration is Golden Thread's inaugural production.
 
 
           Featuring (in order of appearance) Pamela Beitz, Bella Warda, Reema Bahnasy, Jennifer Darya Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami, Clarence A Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter Mc Carron, Koorosh Angali.
