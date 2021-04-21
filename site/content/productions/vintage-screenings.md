@@ -97,7 +97,7 @@ lists:
         image: https://ucarecdn.com/dc9d4388-9162-4d0b-8239-67c594a3c6ac/
     heading: Golden Thread's Vintage Collection
 cast:
-  heading: why is this field required?
+  heading: " "
 photos:
   heading: Operation No Penetration Lysistrata 97!
 photos2:
