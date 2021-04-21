@@ -4,16 +4,23 @@ pre: Festival of Short Plays Exploring the Middle East
 season: 2004
 date: 2004-08-17T01:45:00.000Z
 start: 2004-09-17T01:45:00.000Z
-end: 2004-10-25T01:45:00.000Z
+end: 2004-10-11T01:45:00.000Z
+heading: Seven Short Plays Presented in Two Alternating Series
 description: Golden Thread Productions will present its annual festival of plays
   about or written by playwrights from the Middle East at Noh Space in San
-  Francisco followed by two weeks at Ashby Stage in Berkeley. Selections include
-  plays exploring the news coverage of the Iraq War, imagining the last moments
-  of the victims of the 9/11 attack, as well as premieres from Turkish, Iranian
-  and Armenian playwrights.
+  Francisco followed by two weeks at Ashby Stage in Berkeley.
 background: https://ucarecdn.com/eee0f69f-09c4-4a1f-8a9c-348a0b96c53a/-/crop/2013x1128/0,268/-/preview/
 titleimage: https://ucarecdn.com/6805eefa-1ff3-4006-b1a5-75c58eabb198/
 program: https://ucarecdn.com/10774236-7f11-4580-a9d5-497165c1c032/
+director: Hal Gelb, Arlene Hood, Amy Mueller, Laura Hope Owen, Meredith Weiss
+  Friedman, Torange Yeghiazarian
+featuring: Patrick Alparone, Suha Araj, Sheri Bass, Ben Beecroft, Toby Brooks,
+  Katy Brown, Ann Marie Donahue, Maxmillienne Ewalt, David Fierro, Nabil
+  Ghachem, Vida Ghahremani, Tiffany Harrison, Patrick A. Keene, Zak Kilberg,
+  Sara Luna, Patrick MacKellan, Keahn Malak-Madani, Doyle Ott, Lisa Tateosian
+  and Cyrus Tinati
+designteam: Mikiko Uesugi (scenic), Stephen Siegel (lighting), Marc Hagan
+  (sound), Keri Fitch (costumes), Miriam Behpour (graphic), Alan Jose (video)
 stage: Performed at the Noh Space and The Ashby Stage
 address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
   Ashby Ave., Berkeley)
