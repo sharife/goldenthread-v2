@@ -16,8 +16,8 @@ featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
   Valerie de Jose, Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette
   Harrison, Barbara Jaspersen, Maziar Motahari, Ric Prindle *, Bella
   Ramazan-Nia, Claudia Rosa *
-designteam: Jay Lasnik (scenic), Svetlana Pedan (costumes), Rob Anderson
-  (lighting), Termeh Yeghiazarian (original painted panels)
+designteam: Jay Lasnik (scenic), Rob Anderson (lighting), Michael Santo (sound),
+  Termeh Yeghiazarian (original painted panels)
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
 lists:
