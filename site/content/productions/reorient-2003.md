@@ -27,15 +27,6 @@ address: 1246 Folsom Street, San Francisco
 lists:
   - heading: REORIENT 2003 LINE-UP
     items:
-      - subtitle: an original shadow puppet play created and directed by Janaki Ranpura
-        text: >-
-          Depicts St. Francis’ journey to the Sultan offering him salvation, if
-          he converts to Christianity.\
-
-          Cast: Lynne Soffer\*, Michael Rice\*, Bernadette Quattrone, Deborah Ben-Elizier
-        itemstart: 2021-01-21T08:27:08.221Z
-        itemend: 2021-01-21T08:27:08.427Z
-        title: Converting St. Francis
       - subtitle: by Edward Mast & Hanna Eady, directed by Torange Yeghiazarian.
         text: >-
           Developed based on interviews with survivors, the two characters of
