@@ -8,7 +8,7 @@ end: 2002-08-25T23:27:00.000Z
 heading: Women & War - Eight Plays Presented in Two Alternating Series.
 description: Golden Thread Productions presents its fourth annual festival of
   short plays written by playwrights from, or exploring themes concerning, the
-  **Middle East.**
+  Middle East.
 background: https://ucarecdn.com/86743f65-0b72-4f90-9e66-4007d2e9dfb6/-/crop/1708x987/0,139/-/preview/
 writer: ""
 director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
