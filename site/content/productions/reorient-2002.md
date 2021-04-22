@@ -111,7 +111,7 @@ cast:
         Underground Film Festival and was aired on KTEH. A native of Egypt,
         Yussef holds an MFA in Playwriting from Carnegie-Mellon University and
         was playwright in-residence at Duke University."
-      image: https://ucarecdn.com/6b2ec2db-7c87-41fb-8611-ff34935a043f/
+      image: ""
     - name: Catherine Fletcher
       bio: "**Catherine Fletcher** is a playwright living in Brooklyn, NY. In addition
         to *From the* Courtyard, her work includes the full-length plays
@@ -185,19 +185,6 @@ cast:
         the online Arabic Poetry Project. Awarded a highly competitive Iowa Arts
         Fellowship to attend the Playwright's Workshop at the University of
         Iowa, she currently lives and works in Iowa City."
-    - name: Don Monaco
-      bio: "**Don Monaco** has had his Little Red Wagon Painted Blue produced off-off
-        Broadway and in Memphis, Tennessee. He was invited to the Tony Award
-        Winning Utah Shakespearean Festival where his work was present in
-        development and in readings. His Fly in a Circle has won awards and has
-        been produced in Dubuque, Iowa. To the Orangerie, a short play has been
-        produced in New York at several Off-Broadway theatres. It is the second
-        in a series of a single family's experience of the Holocaust. A Tunnel
-        in Palestine is the final chapter in that sequence which begins in
-        Berlin, travels to Vienna, Paris, New York, ending in Jerusalem. Don is
-        the director of a reading series at the Rockland Center of the Arts in
-        New York. He is a member of the Elmwood Playhouse and the Dramatists
-        Guild. He lives in Nyack, New York, with his wife Uli."
     - bio: "**Betty Shamieh** is a Palestinian-American theatre artist. She received a
         New Dramatists Van Lier Fellowship. She performed Tamam at the Imagine:
         Iraq reading, American Museum of Natural History, City Museum of New
@@ -213,7 +200,7 @@ cast:
         Playwriting from the Yale School of Drama, and is a professor of
         screenwriting at Marymount Manhattan College."
       name: Betty Shamieh
-      image: https://ucarecdn.com/ea17c235-67fa-4575-9026-84049223593b/
+      image: ""
     - bio: "**Torange Yeghiazarian** writes, acts and directs for the theatre and is
         the founder and artistic director of Golden Thread Productions, an
         ensemble dedicated to the production of theatrical works that explore
@@ -221,7 +208,7 @@ cast:
         globe. Born in Iran, Torange received her Masters degree in Theatre Arts
         from San Francisco State University."
       name: Torange Yeghiazarian
-      image: https://ucarecdn.com/68972067-a09a-479b-b569-3f76f6fd7478/
+      image: ""
 photos:
   items:
     - image: https://ucarecdn.com/7fda12c7-d9b3-4669-8975-efc748f05272/
