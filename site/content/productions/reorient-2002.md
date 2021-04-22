@@ -10,7 +10,7 @@ description: Golden Thread Productions presents its fourth annual festival of
   short plays written by playwrights from, or exploring themes concerning, the
   **Middle East.**
 background: https://ucarecdn.com/86743f65-0b72-4f90-9e66-4007d2e9dfb6/-/crop/1708x987/0,139/-/preview/
-writer: Various Writers
+writer: ""
 director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
 featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
   Valerie de Jose, Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette
@@ -246,6 +246,4 @@ photos2:
     - image: https://ucarecdn.com/299e55f9-0904-477a-a0b3-aa2d278b5b16/
     - image: https://ucarecdn.com/5217fcf4-606e-455d-93ce-b77f21641049/
 ---
-The eight plays selected will be presented in two alternating series. **Women** and **War** highlight the themes of this year’s selections.
-
-Golden Thread Productions is a dynamic San Francisco Bay Area ensemble dedicated to the production of theatre works that explore the Middle Eastern culture and identity as represented throughout the globe.
+###### We’re thrilled to bring you this extraordinary selection of plays about the Middle East. What an incredible time it is to be Middle Eastern in America. There are no easy answers, no sure way of determining facts, yet, no way out of the difficult questions. Some of the plays in this year’s festival are attempts at asking the right questions, or maybe just a different question. Sometimes the difficulties we face take on such unfathomable magnitude that solutions seem hopelessly out of reach. Under these circumstances, it is easy to forget that we all share the simple requirements for a fulfilling life: a home, the right to self-expression, love, respect, and forgiveness.
