@@ -1,16 +1,23 @@
 ---
 title: ReOrient 2002
+pre: A Festival of Short Plays about the Middle East
 season: 2002
 date: 2002-07-08T23:27:00.000Z
 start: 2002-08-08T23:27:00.000Z
 end: 2002-08-25T23:27:00.000Z
-heading: A Festival of Short Plays about the Middle East
+heading: Women & War - Eight Plays Presented in Two Alternating Series.
 description: Golden Thread Productions presents its fourth annual festival of
   short plays written by playwrights from, or exploring themes concerning, the
-  **Middle East** (August 8–25, New Langton Arts, 1246 Folsom St., San
-  Francisco).
+  **Middle East.**
+background: https://ucarecdn.com/86743f65-0b72-4f90-9e66-4007d2e9dfb6/-/crop/1708x987/0,139/-/preview/
 writer: Various Writers
-director: Various Directors
+director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
+featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
+  Valerie de Jose, Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette
+  Harrison, Barbara Jaspersen, Maziar Motahari, Ric Prindle *, Bella
+  Ramazan-Nia, Claudia Rosa *
+designteam: Jay Lasnik (scenic), Rob Anderson (lighting), Michael Santo (sound),
+  Termeh Yeghiazarian (original painted panels)
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
 lists:
@@ -215,6 +222,29 @@ cast:
         from San Francisco State University."
       name: Torange Yeghiazarian
       image: https://ucarecdn.com/68972067-a09a-479b-b569-3f76f6fd7478/
+photos:
+  items:
+    - image: https://ucarecdn.com/7fda12c7-d9b3-4669-8975-efc748f05272/
+    - image: https://ucarecdn.com/4c539f13-440f-44be-8b94-a06e5ebe6cd3/
+    - image: https://ucarecdn.com/653f991f-d056-4b98-8ab5-380434d82de7/
+    - image: https://ucarecdn.com/a59df4da-04a7-4a9a-8ee4-00bda0bae554/
+    - image: https://ucarecdn.com/7d11494b-c022-4c9d-a286-dfb53c3e4143/
+    - image: https://ucarecdn.com/94322e3d-87a1-4cc2-97bf-39610c72430e/
+    - image: https://ucarecdn.com/794e2b00-4980-4e74-a6f7-7ce08f0dc225/
+    - image: https://ucarecdn.com/a10b3a9c-37e9-4df2-a71f-3f07fdcaf886/
+    - image: https://ucarecdn.com/a52eebee-e8f3-4eea-b443-24996e889db8/
+    - image: https://ucarecdn.com/144742d1-9f42-4fc9-aabe-5883b0d12738/
+    - image: https://ucarecdn.com/ed386d75-6c81-4bbf-9f33-46739eb848d1/
+    - image: https://ucarecdn.com/bec79af5-e211-46ee-8cb1-3a748381f131/
+    - image: https://ucarecdn.com/15fd1c2f-944f-4b91-9c7b-e0f952eaffd8/
+    - image: https://ucarecdn.com/0bd552d0-0aae-44e2-b9d8-a293be563bbf/
+    - image: https://ucarecdn.com/e72a4b2d-5513-4e94-b5d0-9c62aa5757ed/
+photos2:
+  heading: Rehearsal
+  items:
+    - image: https://ucarecdn.com/eac2affb-77bb-45b2-b520-6a2f910839fe/
+    - image: https://ucarecdn.com/299e55f9-0904-477a-a0b3-aa2d278b5b16/
+    - image: https://ucarecdn.com/5217fcf4-606e-455d-93ce-b77f21641049/
 ---
 The eight plays selected will be presented in two alternating series. **Women** and **War** highlight the themes of this year’s selections.
 
