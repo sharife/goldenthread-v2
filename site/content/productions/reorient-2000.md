@@ -1,12 +1,18 @@
 ---
 title: ReOrient 2000
-season: 2002
+pre: Annual Festival of Short Plays Exploring the Middle East
+season: 2000
 date: 2000-06-16T00:50:00.000Z
 start: 2000-07-16T00:50:00.000Z
 end: 2000-08-20T00:50:00.000Z
-heading: ""
-writer: Various Writers
-director: Various Directors
+heading: From fantastic to poignantly real, steeped in music and drama, this
+  year’s festival is sure to ‘ReOrient’ your senses.
+description: A new collection of works written by playwrights from, or on themes
+  concerning, the Middle East.
+background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/
+writer: ""
+director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
+stage: EXIT Theater
 lists:
   - heading: REORIENT 2000 LINE-UP
     items:
@@ -92,4 +98,4 @@ cast:
 photos:
   items: []
 ---
-A new collection of works written by playwrights from, or on themes concerning, the Middle East. From fantastic to poignantly real, steeped in music and drama, this year's festival is sure to *ReOrient* your senses.
+This year's line up includes *The Myth of Creation* a cartoonish parody of the Adam and Eve tale by Sadegh Hedayat, one of Iran's most respected writers and social critics; *Min El Alb, Lil Alb*, a new play by Tom Coash, winner of the Kennedy Center's Lorraine Hansberry Award; and *The Muse* by Drew Khalouf, ACT alumnus who transports us into the surreal world of creativity and desire blending jazz, poetry, and Arabian melodies.
