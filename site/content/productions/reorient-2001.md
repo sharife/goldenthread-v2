@@ -25,6 +25,9 @@ featuring: Kathleen Antonia, Deborah Davis-Price*, Said Ganji, Vida Gahremani,
   Ted Herzberg, Thomas Lynam, Mani, Yasmine Orangi, Ninos Oshaana, John
   Pennington, Bernadette Quattrone, Claudia Rosa*, Mansour Taeed, Frank Toth,
   Christopher J Vantress, Tariq Yanis
+designteam: Stephen Siegel (lighting), Jeff Gottlieb/Hal Gelb & Kathy Kennedy
+  (sound), Preeti Ranadive (graphic)
+musicaldirector: Ninos Oshaana, Abdul Malik Said, Sabrina Spinaldi, and Kathy Kennedy (voice)
 stage: Yugen-Noh Space
 address: 2840 Mariposa St., San Francisco
 lists:
@@ -134,4 +137,4 @@ photos:
     - image: https://ucarecdn.com/6a4f2993-578b-4468-ade8-3da36d831c03/
     - image: https://ucarecdn.com/117ec36d-4713-4191-bcf8-c7c558aa27ea/
 ---
-Golden Thread Productions presents the third annual festival of short plays in 3 series.
+Featuring new plays by Iranian playwright Ghazi Rabihavi, Egyptian playwright Yussef El Guindi, and Golden Thread's founder, Torange Yeghiazarian. Harold Pinter who produced Rabihavi’s debut in London’s Almeida Theatre described *Stoning* as “A very strong and powerful piece of work, beautifully constructed.” Set during the Iran-Iraq war, Stoning presents the story of a woman accused of adultery. Through a series of 20 vignettes, Rabihavi masterfully reveals the inner workings of human emotions caught in an authoritarian regime where even one’s own flesh and blood cannot be trusted. Presented in the same evening, two plays by El Guindi exemplify the rich palette of contemporary Middle Eastern playwrights bridging the ethnically specific with the universal: Chekhov’s masterful comedy, *A Marriage Proposal* set in an Arab-American immigrant family, and three strangers riding the bus on New Year's eve in *Three Stops*. ReOrient 2001 is pleased to introduce Myles Weber with Expatriates, A quirky snapshot of the life of expatriates in an unnamed desert city where one’s sexual orientation is a more closely guarded secret than the air raid schedule. Weber’s own experience as a Foreign Service officer in Riyadh lend Expatriates greater depth and realism.
