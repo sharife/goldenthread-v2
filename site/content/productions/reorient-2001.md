@@ -132,7 +132,7 @@ cast:
   items:
     - name: Hal Gelb
       credit: Director
-      bio: "HAL GELB (Director: STONING) Among the plays director/writer Hal Gelb has
+      bio: HAL GELB (Director, STONING) Among the plays director/writer Hal Gelb has
         staged are Knuckle (David Hare), Betrayal (Pinter), The Road to Mecca
         (Fugard), Six Degrees of Separation (Guare), Three Cuckolds (Comedia),
         The Maids (Genet) and Ed Bullins’s Salaam, Huey Newton, Salaam for
@@ -144,7 +144,7 @@ cast:
         the Museum of Modern Art (NY). As a writer, Hal was one of a group
         responsible for the R.G.Davis/ Samuel French version of Dario Fo’s We
         Won’t Pay! We Won’t Pay! and is the West Coast theatre critic for The
-        Nation."
+        Nation.
 photos:
   items:
     - image: https://ucarecdn.com/2873dc45-8056-4ca6-945a-52801ed7196a/
