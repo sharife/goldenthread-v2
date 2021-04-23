@@ -1,12 +1,23 @@
 ---
 title: ReOrient 2001
+pre: A Festival of Short Plays Exploring the Middle East
 season: 2001
 date: 2001-08-27T23:52:00.000Z
 start: 2001-09-27T23:52:00.000Z
 end: 2001-10-14T23:52:00.000Z
 heading: Love & Happiness was never so complicated...
-description: ""
+description: "Presented in three series, this year's ReOrient Festival opens
+  less than a month after the horrific events of 9/11. In deciding to move
+  forward, the company issued this statement: Since its inception, Golden Thread
+  Productions has been dedicated to exploring the Middle Eastern culture and
+  identity in all its complexity. Therefore, we feel as a company that now more
+  than ever it is crucial to go forward with a cultural event that we hope will
+  foster a deeper understanding of our shared humanity and shatter the commonly
+  held stereotypes associated with the Middle East. We hope this open exchange
+  will contribute to ending the vicious cycle of retaliation and intolerance."
+background: https://ucarecdn.com/f9d9d9a7-d98e-4e10-9bcb-6308e6efb34e/
 titleimage: https://ucarecdn.com/1954a16d-c3ad-414e-b2da-e5f11d86444a/
+program: https://ucarecdn.com/5d8f89c5-2a7c-43fa-a933-0209296a1076/
 writer: Various Writers
 director: Various Directors
 stage: Yugen-Noh Space
