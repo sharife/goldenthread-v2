@@ -15,7 +15,7 @@ description: "Presented in three series, this year's ReOrient Festival opens
   foster a deeper understanding of our shared humanity and shatter the commonly
   held stereotypes associated with the Middle East. We hope this open exchange
   will contribute to ending the vicious cycle of retaliation and intolerance."
-background: https://ucarecdn.com/f9d9d9a7-d98e-4e10-9bcb-6308e6efb34e/
+background: https://ucarecdn.com/14cfee33-6bb9-4905-9d63-de6f7bb51c57/-/crop/835x422/0,37/-/preview/
 titleimage: https://ucarecdn.com/1954a16d-c3ad-414e-b2da-e5f11d86444a/
 program: https://ucarecdn.com/5d8f89c5-2a7c-43fa-a933-0209296a1076/
 writer: ""
