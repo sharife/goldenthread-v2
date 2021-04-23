@@ -18,8 +18,13 @@ description: "Presented in three series, this year's ReOrient Festival opens
 background: https://ucarecdn.com/f9d9d9a7-d98e-4e10-9bcb-6308e6efb34e/
 titleimage: https://ucarecdn.com/1954a16d-c3ad-414e-b2da-e5f11d86444a/
 program: https://ucarecdn.com/5d8f89c5-2a7c-43fa-a933-0209296a1076/
-writer: Various Writers
-director: Various Directors
+writer: ""
+director: Ana Bayat, Armen Dilanchian, Hal Gelb, Arlene Hood, Zara Houshmand,
+  Torange Yeghiazarian
+featuring: Kathleen Antonia, Deborah Davis-Price*, Said Ganji, Vida Gahremani,
+  Ted Herzberg, Thomas Lynam, Mani, Yasmine Orangi, Ninos Oshaana, John
+  Pennington, Bernadette Quattrone, Claudia Rosa*, Mansour Taeed, Frank Toth,
+  Christopher J Vantress, Tariq Yanis
 stage: Yugen-Noh Space
 address: 2840 Mariposa St., San Francisco
 lists:
