@@ -9,7 +9,7 @@ heading: From fantastic to poignantly real, steeped in music and drama, this
   year’s festival is sure to ‘ReOrient’ your senses.
 description: A new collection of works written by playwrights from, or on themes
   concerning, the Middle East.
-background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/
+background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497x247/0,0/-/preview/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 stage: EXIT Theater
