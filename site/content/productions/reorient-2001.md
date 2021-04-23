@@ -128,13 +128,32 @@ lists:
         itemend: 2021-01-22T07:52:31.238Z
         title: Ukimwi
 cast:
-  heading: Honorary Mentions
-  items: []
+  heading: Cast & Crew
+  items:
+    - name: Hal Gelb
+      credit: Director
+      bio: "HAL GELB (Director: STONING) Among the plays director/writer Hal Gelb has
+        staged are Knuckle (David Hare), Betrayal (Pinter), The Road to Mecca
+        (Fugard), Six Degrees of Separation (Guare), Three Cuckolds (Comedia),
+        The Maids (Genet) and Ed Bullins’s Salaam, Huey Newton, Salaam for
+        Bullins’s BMT Theatre. He began his association with Golden Thread
+        Productions with Ghazi Rabihavi’s Voices staged at ReOrient 2000. Hal’s
+        direction of Deep Cut by Karim Alrawi in June, 2001 was described as
+        ‘Brilliant’ and ‘Flawless’. His media work has been seen on PBS, KTVU,
+        TV20, KQED, at the World Conference on the Environment (Brussels) and
+        the Museum of Modern Art (NY). As a writer, Hal was one of a group
+        responsible for the R.G.Davis/ Samuel French version of Dario Fo’s We
+        Won’t Pay! We Won’t Pay! and is the West Coast theatre critic for The
+        Nation."
 photos:
   items:
     - image: https://ucarecdn.com/2873dc45-8056-4ca6-945a-52801ed7196a/
     - image: https://ucarecdn.com/dc902050-774e-473d-8a57-616a92b00d9f/
     - image: https://ucarecdn.com/6a4f2993-578b-4468-ade8-3da36d831c03/
     - image: https://ucarecdn.com/117ec36d-4713-4191-bcf8-c7c558aa27ea/
+bottom:
+  text: Intersection for the Arts, Many Rivers Theater Project, Theatre Bay Area,
+    and the office of Mayor Willie Brown for their support to move forward with
+    the festival.
 ---
 Featuring new plays by Iranian playwright Ghazi Rabihavi, Egyptian playwright Yussef El Guindi, and Golden Thread's founder, Torange Yeghiazarian. Harold Pinter who produced Rabihavi’s debut in London’s Almeida Theatre described *Stoning* as “A very strong and powerful piece of work, beautifully constructed.” Set during the Iran-Iraq war, Stoning presents the story of a woman accused of adultery. Through a series of 20 vignettes, Rabihavi masterfully reveals the inner workings of human emotions caught in an authoritarian regime where even one’s own flesh and blood cannot be trusted. Presented in the same evening, two plays by El Guindi exemplify the rich palette of contemporary Middle Eastern playwrights bridging the ethnically specific with the universal: Chekhov’s masterful comedy, *A Marriage Proposal* set in an Arab-American immigrant family, and three strangers riding the bus on New Year's eve in *Three Stops*. ReOrient 2001 is pleased to introduce Myles Weber with Expatriates, A quirky snapshot of the life of expatriates in an unnamed desert city where one’s sexual orientation is a more closely guarded secret than the air raid schedule. Weber’s own experience as a Foreign Service officer in Riyadh lend Expatriates greater depth and realism.
