@@ -1,6 +1,6 @@
 ---
-title: Golden Classics Exclusive
-pre: Streaming Vintage Videos from Golden Thread's Vault
+title: Golden Classics Streaming Exclusive
+pre: Vintage Videos from Golden Thread's Vault
 season: 2021
 date: 2021-04-16T16:44:31.141Z
 start: 2021-04-16T16:44:31.215Z
