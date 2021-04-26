@@ -13,6 +13,11 @@ background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497
 titleimage: https://ucarecdn.com/94bb6fa7-ea53-4b67-a7b3-42a55f712e25/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
+featuring: Stephanie Carwin, Rachel Christopherson, Vida Ghahremani, Michael
+  Givler, Nora Ludden, J. Mc Mullen, Saul Montez, George Q Nguyen, Linda
+  Noveroske, Heanine A Robinson, Paul Santiago*, Rassheedah Schelble
+designteam: Harry Robeck (lighting), Andrea Taylor (costumes), Joe Cronin
+  (sound), Pardis Parsa (masks & puppets), Preeti Ranadive (graphic)
 stage: EXIT Theater
 lists:
   - heading: REORIENT 2000 LINE-UP
