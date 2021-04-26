@@ -50,3 +50,5 @@ The following browsers are officially supported:
 * Safari for Mac 8+ (beta)
 
 Other modern browsers will likely work, but are not guaranteed.
+
+We hope you enjoy the show!
