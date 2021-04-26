@@ -19,6 +19,7 @@ featuring: Stephanie Carwin, Rachel Christopherson, Vida Ghahremani, Michael
 designteam: Harry Robeck (lighting), Andrea Taylor (costumes), Joe Cronin
   (sound), Pardis Parsa (masks & puppets), Preeti Ranadive (graphic)
 stage: EXIT Theater
+address: 156 Eddy Street, San Francisco
 lists:
   - heading: REORIENT 2000 LINE-UP
     items:
