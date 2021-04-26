@@ -1,10 +1,7 @@
 ---
 title: Your Guide to the Patron Manager Video on Demand Platform
 date: 2021-04-26T22:22:28.182Z
-description: "Welcome to our video on demand troubleshooting support page! Below
-  you will find answers to many frequently asked questions about our streaming
-  platform. We use Patron Manager to give you access to previously recorded
-  performances for a designated period of viewing. "
+description: ""
 ---
 Welcome to our video on demand troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to previously recorded performances for a designated period of viewing. 
 
@@ -12,11 +9,12 @@ Welcome to our video on demand troubleshooting support page! Below you will find
 
 If you are having trouble viewing your video right now, you can try all of these steps:
 
-1. Refresh your browser by closing all windows and relaunching. 
-2. Use your browser in the 'incognito/private' mode.
-3. Disable any ad-blocking software or browser plugins.Switch to another browser.
-4. Use another device.
-5. Test your internet bandwidth at speedtest.net. Quality video streaming works best at 2.5-3Mbps.
+* Refresh your browser by closing all windows and relaunching. 
+* Use your browser in the 'incognito/private' mode.
+* Disable any ad-blocking software or browser plugins.
+* Switch to another browser.
+* Use another device.
+* Test your internet bandwidth at speedtest.net. Quality video streaming works best at 2.5-3Mbps.
 
 If you’re still experiencing issues, you might want to try turning off the Wi-Fi on your other devices or use an Ethernet cable to connect your device directly to your router for a stronger connection.
 
@@ -44,11 +42,11 @@ If you have questions, you can email us at boxoffice@goldenthread.org.
 
 The following browsers are officially supported:
 
-Chrome for Android 34+
-Chrome for Desktop 34+
-Firefox for Android 41+
-Firefox for Desktop 42+
-Edge for Windows 10+
-Safari for Mac 8+ (beta)
+* Chrome for Android 34+
+* Chrome for Desktop 34+
+* Firefox for Android 41+
+* Firefox for Desktop 42+
+* Edge for Windows 10+
+* Safari for Mac 8+ (beta)
 
 Other modern browsers will likely work, but are not guaranteed.
