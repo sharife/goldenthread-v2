@@ -10,6 +10,7 @@ heading: From fantastic to poignantly real, steeped in music and drama, this
 description: A new collection of works written by playwrights from, or on themes
   concerning, the Middle East.
 background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497x247/0,0/-/preview/
+titleimage: https://ucarecdn.com/94bb6fa7-ea53-4b67-a7b3-42a55f712e25/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 stage: EXIT Theater
