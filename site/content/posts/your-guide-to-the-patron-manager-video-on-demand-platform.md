@@ -6,18 +6,16 @@ description: "Welcome to our video on demand troubleshooting support page! Below
   platform. We use Patron Manager to give you access to previously recorded
   performances for a designated period of viewing. "
 ---
+Welcome to our video on demand troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to previously recorded performances for a designated period of viewing. 
+
 ### Are you having difficulty viewing?
 
 If you are having trouble viewing your video right now, you can try all of these steps:
 
 1. Refresh your browser by closing all windows and relaunching. 
-
 2. Use your browser in the 'incognito/private' mode.
-
 3. Disable any ad-blocking software or browser plugins.Switch to another browser.
-
 4. Use another device.
-
 5. Test your internet bandwidth at speedtest.net. Quality video streaming works best at 2.5-3Mbps.
 
 If you’re still experiencing issues, you might want to try turning off the Wi-Fi on your other devices or use an Ethernet cable to connect your device directly to your router for a stronger connection.
