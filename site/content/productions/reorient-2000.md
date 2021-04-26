@@ -3,7 +3,7 @@ title: ReOrient 2000
 pre: Annual Festival of Short Plays Exploring the Middle East
 season: 2000
 date: 2000-06-16T00:50:00.000Z
-start: 2000-07-16T00:50:00.000Z
+start: 2000-07-14T00:50:00.000Z
 end: 2000-08-20T00:50:00.000Z
 heading: From fantastic to poignantly real, steeped in music and drama, this
   year’s festival is sure to ‘ReOrient’ your senses.
