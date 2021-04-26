@@ -112,5 +112,8 @@ photos3:
     - image: https://ucarecdn.com/cc571a52-6034-4fb3-b557-7a4ffd896c10/
     - image: https://ucarecdn.com/0149a601-07a2-4dd1-89e2-aa11dbb02491/
     - image: https://ucarecdn.com/5120e885-85c6-47eb-be17-bc80681d9948/
+bottom:
+  text: California Arts Council, CA$H grant administered by Theatre Bay Area,
+    Zellerbach Family Foundation
 ---
 This year's line up includes *The Myth of Creation* a cartoonish parody of the Adam and Eve tale by Sadegh Hedayat, one of Iran's most respected writers and social critics; *Min El Alb, Lil Alb*, a new play by Tom Coash, winner of the Kennedy Center's Lorraine Hansberry Award; and *The Muse* by Drew Khalouf, ACT alumnus who transports us into the surreal world of creativity and desire blending jazz, poetry, and Arabian melodies.
