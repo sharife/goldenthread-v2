@@ -45,7 +45,9 @@ lists:
           An Armenian-American family's journey towards accepting the past and embracing the future.
         text: >-
           Nine Armenians is the story of three generations of Armenian-Americans
-          embracing the future by connecting with their history. Made possible
+          embracing the future by connecting with their history. In this
+          award-wining play, Leslie Ayvazian has beautifully depicted the
+          reality of facing a horrific past without shame or fear. Made possible
           by tremendous support from the Bay Area’s Armenian community, Golden
           Thread’s production was originally staged at the Magic Theater in
           2002.
