@@ -20,7 +20,7 @@ lists:
           **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Ferguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
 
 
-          Available for purchase June 7-13, 2021 
+          **Available for purchase June 7-13, 2021** 
 
 
           Tickets are valid for a 48-hour streaming period.
@@ -49,9 +49,6 @@ lists:
           by tremendous support from the Bay Area’s Armenian community, Golden
           Thread’s production was originally staged at the Magic Theater in
           2002.
-
-
-          In this award-wining play, Leslie Ayvazian has beautifully depicted the reality of facing a horrific past without shame or fear. The grand parents in the play are survivors of the Armenian Genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grand father is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
 
 
           **Featuring:** Atosa Babaoff*, Toby Brooks, Valerie de Jose*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins*, Earll Kingston*, Lara Palanjian, Ruby Unger\*
