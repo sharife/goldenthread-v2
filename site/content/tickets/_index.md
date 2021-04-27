@@ -72,6 +72,37 @@ lists:
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XaonUAC
         image: https://ucarecdn.com/0e9c0c49-07ea-40b9-830c-f40925d737ac/
+  - items:
+      - title: "Golden Classics: Love Missile"
+        pre: Vintage Videos From Golden Thread’s Vault
+        subtitle: An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura,
+          Torange Yeghiazarian, and directed by Norman Gee.
+        image: https://ucarecdn.com/ec6654ff-03d3-456a-bff6-2e727ff6faae/
+        text: >-
+          Originally staged in June 2003 at the New Langton Arts in San
+          Francisco, Love Missile is a fusion of traditional American musical
+          with Middle Eastern undertones as well as fantastical shadow puppetry.
+          The result of collaboration among three playwrights: Hal Gelb, best
+          known for his work on Dario Fo’s We Won’t Pay! We Won’t Pay! and Ghazi
+          Rabihavi’s Stoning, Janaki Ranpura, long time contributor to Shadow
+          Lights Theatre Company who also designed and directed the puppets, and
+          Torange Yeghiazarian, founding artistic director of Golden Thread
+          Productions. An artistic response to the US invasion of Iraq in the
+          aftermath of the 9/11 attacks, Love Missile is Golden Thread’s first
+          commissioned play. The production was made possible by the generous
+          contribution of Judith Wilber and Bob Miller.
+
+
+          When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, the prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives. Ultimately, they find importing the goods is the only option and as it turns out, Distancia has the best goods. The dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President leaving him no alternative but to attack – with Love, a drug developed by Dr. Z and Sharifa that induces universal love. But is Love really all we need? A surreal tale of passion, greed, denial and longing involving unnamable body fluids and orifice.
+
+
+          **Featuring:** Sofia Ahmad, Vida Ghahremani, Lenny Moors*, Andoni Panici, Carmen Elena Sosa*, William Todd Tressler*, Kris Welch*
+
+          Appearing courtesy of Actors' Equity Association
+
+
+          **Design Team:** Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. Scenic and costume design by Oran Bumroongchart. Lighting design by Paul Meason. Puppets and graphic art by Janaki Ranpura.
+        cta: Buy Tickets!
 ---
 ----
 
