@@ -51,7 +51,8 @@ lists:
           2002.
 
 
-          **Featuring:** Atosa Babaoff*, Toby Brooks, Valerie de Jose*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins*, Earll Kingston*, Lara Palanjian, Ruby Unger\*
+          **Featuring:** Atosa Babaoff*, Toby Brooks, Valerie de Jose*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins*, Earll Kingston*, Lara Palanjian, Ruby Unger*
+
 
           \*Appearing courtesy of Actors' Equity Association
 
@@ -89,7 +90,10 @@ lists:
           An artistic response to the US invasion of Iraq in the aftermath of the 9/11 attacks, Love Missile is Golden Thread’s first commissioned play. The production was made possible by the generous contribution of Judith Wilber and Bob Miller.
 
 
-          **Featuring:** Sofia Ahmad, Vida Ghahremani, Lenny Moors*,* Andoni Panici*,* Carmen Elena Sosa, William Todd Tressler\*, Kris Welch                                                                                   \*Appearing courtesy of Actors' Equity Association
+          **Featuring:** Sofia Ahmad, Vida Ghahremani, Lenny Moors*,* Andoni Panici*,* Carmen Elena Sosa, William Todd Tressler*, Kris Welch
+
+
+          \*Appearing courtesy of Actors' Equity Association
 
 
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. 
