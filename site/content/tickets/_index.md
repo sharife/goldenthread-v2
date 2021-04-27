@@ -102,7 +102,17 @@ lists:
 
 
           **Design Team:** Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. Scenic and costume design by Oran Bumroongchart. Lighting design by Paul Meason. Puppets and graphic art by Janaki Ranpura.
+
+
+          **Available for purchase June 21-27, 2021**
+
+
+          Tickets are valid for a 48-hourr streaming period.
+
+
+          Rental is good for one device at a time and begins when you press play.
         cta: Buy Tickets!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
 ---
 ----
 
