@@ -2,88 +2,36 @@
 title: Buy Tickets
 lists:
   - items:
-      - image: /img/SedefEcerByHasanDogan_1_small.jpg
-        subtitle: ""
+      - image: https://ucarecdn.com/41e3a94a-8fa5-498b-ad27-0db8cbc072ff/
+        subtitle: An outrageous comedy about sex and war adapted and directed by Torange
+          Yeghiazarian from Kenneth Mc Liesh’s translation of Aristophanes’
+          Lysistrata.
         text: >-
-          For the health and safety of our patrons and artists, we have
-          cancelled the remainder of the run of *On the Periphery* in accordance
-          with the [Governor's newly updated
-          recommendations](https://www.gov.ca.gov/2020/03/11/california-public-health-experts-mass-gatherings-should-be-postponed-or-canceled-statewide-to-slow-the-spread-of-covid-19/)
-          on COVID-19 (coronavirus), effective Saturday March 14.
-
-          Tickets may be exchanged for either company's fall show, refunded, or donated by contacting **<boxoffice@goldenthread.org>**.<hr />
-
-          In the first co-production between Golden Thread Productions and Crowded Fire Theater, Sedef Ecer’s ***On the Periphery*** paints a tender portrayal of the lives of social outcasts in Istanbul’s urban slums mirroring the displacement, migration, and gentrification in the Bay Area.
+          In 1997, a year after the Oslo Accords, this adaptation of the classic
+          Greek comedy unites Israeli and Palestinian women, supported by a
+          global movement, to launch a sex strike to force men to sign a peace
+          treaty. Staged at NEXT Stage in San Francisco, Operation No
+          Penetration is Golden Thread’s inaugural production.   
 
 
-          **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street, San Francisco)\
-
-          $50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd Thursdays | $15 Previews
+          **Featuring:** *(in order of appearance)* Pamela Beitz, Bella Warda, Reema Bahnasy, Jennifer Darya Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami, Clarence A Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter Mc Carron, Koorosh Angali. 
 
 
-          For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
-        title: Golden Classics Streaming Exclusive
-        pre: "Vintage Videos "
-      - image: /img/Panelists-964.jpg
-        text: >-
-          **THIS EVENT HAS BEEN CANCELLED**<br /> Due to the release of
-          aggressive new recommendations against COVID-19 from the SF Department
-          of Public Health to cancel large community events, we have decided to
-          cancel Sunday, March 8th's Women's Day event in the interest of public
-          health. We will refund all tickets in full.<br /><hr /> Each year,
-          Golden Thread celebrates International Women’s Day with What Do the
-          Women Say?, a curated evening showcasing the work of leading Middle
-          Eastern women artists. The 2020 theme is Power, Privilege, and Agency:
-          an artistic exploration of the 100th anniversary of the passage of the
-          19th Amendment, guaranteeing and protecting \[white] women’s
-          constitutional right to vote in the U.S.
+          **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Ferguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
 
 
-          **March 8, 2020** at at Brava Theater Center (2781 24th Street, San Francisco)\
-
-          $50-20 General Admission | $15 Student/Senior 65+
-        title: What Do the Women Say? 2020
-      - image: /img/HananeHajjAli_PointingAngry.jpg
-        text: >-
-          **THIS EVENT HAS BEEN CANCELLED**<br /> With broken hearts we must
-          announce that we have cancelled our upcoming presentation of Hanane
-          Hajj Ali's amazing one woman show, Jogging,﻿ in the interest of public
-          health and in accordance with the extended shelter-in-place ordinance
-          continuing through May 3rd. Tickets may be exchanged, refunded or
-          donated by contact us by email at boxoffice@goldenthread.org.<br /><hr
-          /> **Hanane Hajj Ali**, a fifty-something Lebanese actress and
-          citizen, exercises daily to avoid osteoporosis, obesity, and
-          depression. As her story intertwines with the city’s tumultuous
-          history, Hajj Ali jogs through Beirut revisiting dreams, desires,
-          hopes, and disillusionments. 
+          Available for purchase June 7-13, 2021 
 
 
-          Acclaimed Lebanese writer and performer, Hajj Ali brings her one-woman show to the Bay Area following her celebrated performances at the Kennedy Center and the Guthrie Theater. ***Jogging*** is performed in Arabic with English super titles.
+          Tickets are valid for a 48-hour streaming period.
 
 
-          **May 2, 2020** at Brava Theater Center (2781 24th Street, San Francisco)\
-
-          $50-25 General Admission
-        title: Jogging
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/NaghmehSaminiPhoto1_TicketingPage_website.jpg
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
-        subtitle: ""
-        text: >-
-          The past, present, and future collide in the touching story of a
-          couple’s annual road trips to the Caspian Sea and the mysterious
-          stranger following them. **Naghmeh Samini**’s play is a rare glimpse
-          into the lives of contemporary Iranians, as well as her first English
-          production in the United States.
-
-
-          **October 16–November 15, 2020** at Potrero Stage (1695 18th Street, San Francisco)\
-
-          $50-25 General Admission | $15 Previews
-
-
-          Group of 10 or more? Contact [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for a discount.
-        title: The Language of Wild Berries
+          Rental is good for streaming on one device at a time and begins when you press play.
+        title: "Golden Classics Streaming Exclusive: Operation No Penetration:
+          Lysistrata 97! "
+        pre: Vintage Videos From Golden Thread’s Vault
+        cta: Buy Tickets!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
 ---
 ----
 
