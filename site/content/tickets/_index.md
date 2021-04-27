@@ -68,7 +68,7 @@ lists:
           Tickets are valid for a 48-hourr streaming period.
 
 
-          Rental is good for one device at a time and begins when you press play.
+          Rental is good for streaming on one device at a time and begins when you press play.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XaonUAC
         image: https://ucarecdn.com/0e9c0c49-07ea-40b9-830c-f40925d737ac/
@@ -107,7 +107,7 @@ lists:
           Tickets are valid for a 48-hourr streaming period.
 
 
-          Rental is good for one device at a time and begins when you press play.
+          Rental is good for streaming on one device at a time and begins when you press play.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
 ---
