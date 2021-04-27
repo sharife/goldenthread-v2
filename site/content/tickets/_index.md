@@ -28,11 +28,10 @@ lists:
 
           Rental is good for streaming on one device at a time and begins when you press play.
         title: "Golden Classics: Operation No Penetration: Lysistrata 97! "
-        pre: ""
+        pre: Vintage Videos From Golden Thread’s Vault
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
-    heading: Golden Classics Streaming Exclusive! Vintage Videos From Golden
-      Thread’s Vault
+    heading: Golden Classics Streaming Exclusive!
 ---
 ----
 
