@@ -31,7 +31,7 @@ lists:
         pre: Vintage Videos From Golden Thread’s Vault
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
-    heading: A Golden Thread Classics Streaming Exclusive!
+    heading: ""
 ---
 ----
 
