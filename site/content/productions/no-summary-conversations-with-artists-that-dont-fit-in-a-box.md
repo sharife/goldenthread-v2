@@ -14,24 +14,24 @@ lists:
   - heading: List of Episodes
     items:
       - pre: Up Next!
-        itemend: 2021-03-30T21:27:03.676Z
-        text: In an already complicated landscape of Middle Eastern identities, holding
-          up our queerness can prove a challenge. Three artists and one mother
-          discuss how they have navigated these terrains, integrating them in
-          their life and work. **Kenan Arun** is a Turkish makeup designer and
-          Golden Thread resident artist, as well as the Director of Operations
-          at The LGBT Asylum Project. **Amin El Gamal** is an Egyptian American
-          actor active in theatre, film, and television. **Humaira Ghilzai** is
-          an Afghan American writer, activist, and cultural advisor for
-          theatre, film, and television. Iranian American **Sara Razavi**, CEO
-          of non-profit lending entity Working Solutions and Golden Thread
-          resident artist, will facilitate.
-        itemstart: 2021-03-30T21:27:03.642Z
-        cta: Click Here to Watch on April 23rd!
-        subtitle: Join us on Friday, April 23rd at 11am PDT!
-        title: Queering Our Middle Eastern Identities
-        link: https://howlround.com/happenings/no-summary-queering-our-middle-eastern-identities
-        image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
+        itemend: 2021-04-28T01:43:54.455Z
+        text: Meet Sahar Assaf, Golden Thread’s new Executive Artistic Director in
+          conversation with our Founder, Torange Yeghiazarian where they discuss
+          the company’s legacy and vision for the future. In April, Golden
+          Thread announced its leadership transition after 25 years under the
+          helm of its founder. What is it like for a pioneering organization to
+          change leadership? How does it feel to step in the shoes of a
+          trailblazer? And what is the new leader’s vision for the
+          organization’s future? Tune in to find out! Author, director, theatre
+          professor at University of Oregon, and leading specialist on Middle
+          Eastern and Middle Eastern American theatre, Michael Malek Najjar will
+          facilitate.
+        itemstart: 2021-04-28T01:43:54.427Z
+        cta: Click here to watch!
+        subtitle: Join us Friday, May 28th @ 11AM PDT!
+        title: Bridging the Past to a New Era
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-golden-threads-fairytale-players
+        image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -118,6 +118,25 @@ lists:
         title: "Featuring Middle East America: A National New Plays Initiative!"
         link: https://howlround.com/happenings/livestreaming-conversation-no-summary-john-eisner-jamil-khoury-and-torange-yeghiazarian
         image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
+      - pre: ""
+        itemend: 2021-03-30T21:27:03.676Z
+        text: In an already complicated landscape of Middle Eastern identities, holding
+          up our queerness can prove a challenge. Three artists and one mother
+          discuss how they have navigated these terrains, integrating them in
+          their life and work. **Kenan Arun** is a Turkish makeup designer and
+          Golden Thread resident artist, as well as the Director of Operations
+          at The LGBT Asylum Project. **Amin El Gamal** is an Egyptian American
+          actor active in theatre, film, and television. **Humaira Ghilzai** is
+          an Afghan American writer, activist, and cultural advisor for
+          theatre, film, and television. Iranian American **Sara Razavi**, CEO
+          of non-profit lending entity Working Solutions and Golden Thread
+          resident artist, will facilitate.
+        itemstart: 2021-03-30T21:27:03.642Z
+        cta: Click Here to Watch on April 23rd!
+        subtitle: Aired Friday, April 23rd at 11am PDT.
+        title: Queering Our Middle Eastern Identities
+        link: https://howlround.com/happenings/no-summary-queering-our-middle-eastern-identities
+        image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
