@@ -31,17 +31,20 @@ items:
       time for the holiday season! Now available as a streamable podcast, this
       inspirational story is free to access from the comfort of your home and to
       share with loved ones near and far.
-  - image: https://ucarecdn.com/9506a184-defc-4cfe-a6d1-47af2cb54c0b/
+  - image: https://ucarecdn.com/04d59367-3e11-4870-9aa3-39690f3acbcd/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      In an already complicated landscape of Middle Eastern identities, holding
-      up our queerness can prove a challenge. Join us for our next episode
-      featuring three artists and one mother discussing how they have navigated
-      these terrains, integrating them in their life and work. Immerse yourself
-      in these compelling topics and histories that defy a snappy summation!
+      Meet Sahar Assaf, Golden Thread’s new Executive Artistic Director in
+      conversation with our Founder, Torange Yeghiazarian where they discuss the
+      company’s legacy and vision for the future. In April, Golden Thread
+      announced its leadership transition after 25 years under the helm of its
+      founder. What is it like for a pioneering organization to change
+      leadership? How does it feel to step in the shoes of a trailblazer? And
+      what is the new leader’s vision for the organization’s future? Tune in to
+      find out! 
 
 
-      ***Don't miss the Livestream on April 23rd, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on May 28th, 2021 @ 11AM PT!***
 ---
