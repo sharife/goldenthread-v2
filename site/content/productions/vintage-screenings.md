@@ -107,6 +107,13 @@ photos2:
 photos3:
   heading: Love Missile
 ---
-Introductory line
+The three plays in Golden Classics Streaming Exclusive offer a glimpse into the early years of Golden Thread. They embody our hopes and ambitions for a world where our common humanity supersedes political differences.
 
-Significance of each play in the body of work.
+
+*Operation No Penetration, Lysistrata 97!* was our founder, Torange Yeghiazarian’s Master’s Thesis at San Francisco State University and became Golden Thread’s inaugural production. The adaptation reflects Yeghiazarian’s global perspective and predilection for political content told through a comedic lens. The production and design team are almost entirely made up of SFSU students and the cast features Bella Warda, a Golden Thread resident artist who continues to act and direct at Golden Thread to this day.
+
+
+*Nine Armenians* by Leslie Ayvazian was our largest, most expensive production to date. And for many years, our biggest box office hit, thanks to the Bay Area Armenian community’s enthusiastic response to the play. The cast and production team steeped themselves in Armenian history and culture, gathering at Torange’s house and pouring over picture books, maps, music, and videos that everyone had gathered. Some also attended the annual Armenian church bazaar and other community events. This was our first production that involved extensive community outreach both locally and nationally. We worked with Carol Kazarian’s dance troupe and thanks to Sarine Balian, a Bay Area musician, connect with Datevik Hovanessian whose album, Listen to My Heart became the soundtrack for the play.
+
+
+*Love Missile* was Golden Thread’s first commissioned play and our first musical. We understood that if we are going to change the narrative about the Middle East, we need to invest in telling our own stories and develop voices. The three playwrights on the project split up the work along character lines, Hal Gelb focused on the president, Torange focused on Sharifa and her mother, and Janaki focused on the shadow puppetry scenes. Norman Gee joined the project in the nick of time to put it all together and layer Lisa Tateosian’s dance choreography and Johaness Mader’s music. As the US invasion of Iraq and Afghanistan raged on, producing *Love Missile* was a crucial coping mechanism, along with numerous short plays produced in the ReOrient Festival in the 2000s that presented untold perspectives around the impact of US’ Middle East policy on the everyday lives of people in the Middle East.
