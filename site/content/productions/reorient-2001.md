@@ -151,6 +151,7 @@ photos:
     - image: https://ucarecdn.com/dc902050-774e-473d-8a57-616a92b00d9f/
     - image: https://ucarecdn.com/6a4f2993-578b-4468-ade8-3da36d831c03/
     - image: https://ucarecdn.com/117ec36d-4713-4191-bcf8-c7c558aa27ea/
+    - image: https://ucarecdn.com/697cbc76-290d-4ff2-a3af-3e02f5661bde/
 bottom:
   text: Intersection for the Arts, Many Rivers Theater Project, Theatre Bay Area,
     and the office of Mayor Willie Brown for their support to move forward with
