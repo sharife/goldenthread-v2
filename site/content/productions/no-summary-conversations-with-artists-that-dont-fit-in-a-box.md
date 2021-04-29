@@ -30,7 +30,7 @@ lists:
         cta: Click here to watch!
         subtitle: Join us Friday, May 28th @ 11AM PDT!
         title: Bridging the Past to a New Era
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-golden-threads-fairytale-players
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-bridging-past-new-era
         image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
