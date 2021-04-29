@@ -23,7 +23,7 @@ items:
 
       ***Find Out More Below!***
   - image: https://ucarecdn.com/e8d4be54-8531-41ac-8a81-9d6ddd868927/
-    subtitle: "*Leila's Quest for Flight* is now a radio play!"
+    subtitle: Meet Our New Executive Artistic Director **Sahar Assaf**!
     cta: Click to Learn More!
     link: https://goldenthread.org/posts/meet-sahar-assaf-our-new-executive-artistic-director
     text: "**We are proud to announce that Sahar Assaf is our new Artistic
