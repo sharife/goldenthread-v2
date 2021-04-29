@@ -22,15 +22,15 @@ items:
 
 
       ***Find Out More Below!***
-  - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
+  - image: https://ucarecdn.com/e8d4be54-8531-41ac-8a81-9d6ddd868927/
     subtitle: "*Leila's Quest for Flight* is now a radio play!"
     cta: Click to Learn More!
-    link: https://goldenthread.org/productions/leila/
-    text: After touring to forty Bay Area schools and libraries, our audience
-      favorite *Leila's Quest for Flight* is now a radio play releasing just in
-      time for the holiday season! Now available as a streamable podcast, this
-      inspirational story is free to access from the comfort of your home and to
-      share with loved ones near and far.
+    link: https://goldenthread.org/posts/meet-sahar-assaf-our-new-executive-artistic-director
+    text: "**We are proud to announce that Sahar Assaf is our new Artistic
+      Director.** Following a global search, Sahar has relocated from Lebanon to
+      San Francisco to helm the now 25 year old production company beginning May
+      3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
+      and relocation to San Francisco below!"
   - image: https://ucarecdn.com/04d59367-3e11-4870-9aa3-39690f3acbcd/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
