@@ -11,6 +11,7 @@ description: Golden Thread Productions presents its fourth annual festival of
   Middle East.
 background: https://ucarecdn.com/86743f65-0b72-4f90-9e66-4007d2e9dfb6/-/crop/1708x987/0,139/-/preview/
 titleimage: https://ucarecdn.com/d0a6b99b-47ce-4ba8-a688-54eef9c488f6/
+program: https://ucarecdn.com/96f3b910-360a-4630-9a1a-39d31d88cd1e/
 writer: ""
 director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
 featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
