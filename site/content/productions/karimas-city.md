@@ -68,11 +68,6 @@ cast:
         Eugene where she focused her studies on theatre/dance integration. Ms.
         Demmel currently works full time as director of dance at Moreau Catholic
         High School in Hayward and is a part time lecturer at CSU- Hayward.
-    - name: Torange Yeghiazarian
-      credit: Producer
-      bio: "**Torange Yeghiazarian** writes, acts and directs for the theatre. A
-        graduate of San Francisco State University, she is the founder and
-        artistic director of Golden Thread Productions."
     - name: Bernadette Quattrone
       credit: Karima
       bio: "**Bernadette Quattrone** feels lucky to be able to play Karima once again,
@@ -134,19 +129,15 @@ cast:
         as a stage manager in Oregon. She stage managed the original production
         of *Karima's City* and is thrilled to revive this production in Cairo.
       credit: Stage/Production Manager
-    - text: |-
-        Production Staff:
-
-        Director: Arlene Hood \
-        Choreographer: Angela Demmel \
-        Original Sound Design: Steven Klems\
-        Original Light Design: Paul Measom\
-        Original Props: Garrett Westfall\
-        Original Costume Design: Keri Fitch\
-        Stage Manager: Coyote Days\
-        Sound Operator: Lisa Medina \
-        Producer: Torange Yeghiazarian
   heading: Cast & Crew
+photos:
+  items:
+    - image: https://ucarecdn.com/a8e47bcd-7182-4f1c-910f-910f73d81546/
+    - image: https://ucarecdn.com/b7468b45-51cd-4b8c-acbc-7af17b1b7cea/
+    - image: https://ucarecdn.com/f2297b78-e0b3-4d06-9bf5-48961bd652e1/
+    - image: https://ucarecdn.com/c2d92bcb-4ae9-498f-b98d-96829716a1ea/-/crop/1150x777/203,312/-/preview/
+    - image: https://ucarecdn.com/8342f0b8-78c9-4fc5-99f4-64bc6809f092/
+    - image: https://ucarecdn.com/2a847e83-11a2-4a74-aad0-2a2669140b0d/
 bottom:
   heading: Many thanks to our donors!
   text: Aida Hood, Dave and Judy Quattrone, Richard Beeler, The Yeghiazarian
