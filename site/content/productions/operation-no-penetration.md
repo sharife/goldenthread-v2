@@ -14,7 +14,7 @@ description: A contemporary adaptation of Aristophanes' Lysistrata focused on
   play attempts to emphasize the global nature of war in our time and the need
   for a global peace settlement.
 background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
-titleimage: https://ucarecdn.com/b5365099-db1d-4233-863f-5c55e48c32f5/
+titleimage: https://ucarecdn.com/ed359f33-aeb4-4e3c-a509-61765c2f7330/
 program: https://ucarecdn.com/dcaf62df-3889-4120-ae28-0fa610629b0e/
 writer: Torange Yeghiazarian, adapted from the 5th century classic by Aristophanes
 director: Torange Yeghiazarian
