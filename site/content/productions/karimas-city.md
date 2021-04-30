@@ -5,19 +5,23 @@ season: 2004
 date: 2004-08-01T11:25:00.000Z
 start: 2004-09-01T11:25:00.000Z
 end: 2004-09-30T11:25:00.000Z
+heading: Golden Thread Productions Performs Karima's City by Yussef El Guindi at
+  the 16th Cairo International Festival for Experimental Theatre
 description: >-
-  San Francisco Bay Area's own Golden Thread Productions was the only American
+  San Francisco Bay Area's own Golden Thread Productions is the only American
   company invited to 2004's Cairo International Festival for Experimental
   Theatre. Hailed as the most important of the theatre festivals in the Arab
-  World, 2004 was the sixteenth year of this annual event. The festival opening
-  ceremony on September 20th was directed by Khaled Galal, one of the leading
+  World, 2004 is the sixteenth year of this annual event. The festival opening
+  ceremony on September 20th is directed by Khaled Galal, one of the leading
   figures in the Free Theatre movement in Egypt, signaling a shift towards
   inviting new blood into the festival specifically and possibly, the Egyptian
-  theatre scene in general. The 2004 program boasted of hosting 66 troupes
+  theatre scene in general. The 2004 program boasts of hosting 66 troupes
   representing over 50 nations.
 
 
   As international and broad-based as the Cairo festival is, American companies have rarely been invited to present their work there. In fact, Farouk Hosni, the Egyptian Minister of Culture, was confronted with a minefield of questions about the wisdom of choosing an American theatre academic and practitioner Gilbert Neil Lazier, as the head of the international Jury. According to the festival daily newsletter, *The Experimental*. In this atmosphere perhaps it wasn't surprising that Golden Thread Productions presence in the festival also caused quite a stir.
+background: https://ucarecdn.com/877a0684-dae6-4c51-a2c8-656ae2f8f9a8/
+titleimage: https://ucarecdn.com/a5e531ed-950a-4c3a-9a6e-e03f695a968a/
 cast:
   items:
     - name: Yussef El Guindi
