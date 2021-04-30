@@ -21,7 +21,7 @@ description: >-
 
   As international and broad-based as the Cairo festival is, American companies have rarely been invited to present their work there. In fact, Farouk Hosni, the Egyptian Minister of Culture, was confronted with a minefield of questions about the wisdom of choosing an American theatre academic and practitioner Gilbert Neil Lazier, as the head of the international Jury. According to the festival daily newsletter, *The Experimental*. In this atmosphere perhaps it wasn't surprising that Golden Thread Productions presence in the festival also caused quite a stir.
 background: https://ucarecdn.com/877a0684-dae6-4c51-a2c8-656ae2f8f9a8/
-titleimage: https://ucarecdn.com/a5e531ed-950a-4c3a-9a6e-e03f695a968a/
+titleimage: https://ucarecdn.com/9ed843e4-4cad-4d28-af8d-59c6931b26f1/
 program: https://ucarecdn.com/85f7a9e7-c4ef-437e-9dfa-909c3f416f22/
 writer: Yussef El Guindi
 director: Arlene Hood
