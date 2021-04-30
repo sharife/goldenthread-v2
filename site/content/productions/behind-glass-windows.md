@@ -15,7 +15,7 @@ description: >-
 
   The overpowering presence of self-inflicted exile dominates Hedayat's writing. The protagonist in *The Doll Behind the Curtain*, much like Hedayat himself feels isolated from his society. The protagonist reacts by creating an alternative reality. This contemporary stage adaptation, focuses on the illusory nature of love and relationships from the perspective of second generation Iranians growing up with dual traditions. Divided between the culture of their society and that of their home, they yearn for the comfort of the familiar while seeking the excitement of the new. Within this context, the play explores the tru meaning of love, freedom, and independence.
 background: https://ucarecdn.com/a896ccc1-7cb3-4125-8ad6-f6a8a02ae866/
-titleimage: https://ucarecdn.com/4dadb661-7048-4e34-be01-7e21bbeabd78/
+titleimage: https://ucarecdn.com/167d5e6e-cc34-4b64-af94-8416d579a6fb/-/crop/1343x1783/41,0/-/preview/
 program: https://ucarecdn.com/1c88544c-8d50-47b9-a759-73e1f4a9daab/
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
