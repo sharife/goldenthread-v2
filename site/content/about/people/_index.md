@@ -41,36 +41,23 @@ staff:
       credit: Executive Artistic Director
       image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/
       bio: >-
-        Sahar Assaf (she/her) is a Lebanese theatre maker and teacher. She’s
+        Sahar Assaf (she/her) is a Lebanese theatremaker and professor. She has
         been active in the Lebanese theatre scene since 2003 as an actor,
         director, translator, and producer. She’s presented works in Syria,
         Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago, and
-        NYC. With her long term collaborator playwright Robert Myers, Sahar
-        co-founded the Theater Initiative at the American University of Beirut,
-        an interdisciplinary group of faculty and artists working to facilitate
-        theatre creation and research locally, regionally, and internationally.
-        At the Theater Initiative, she directed Garcia-Lorca’s Blood Wedding as
-        a site-specific promenade performance in the village of Hammana in Mount
-        Lebanon, Shakespeare’s King Lear (co-directed with Rachel Valentine
-        Smith of The Faction ensemble of London) which was the first production
-        of a Shakespearean play in Lebanese colloquial Arabic, The Rape and
-        Rituals of Signs and Transformations by Sa'dallah Wannous, Watch Your
-        Step: Beirut Heritage Walking Tour which was a site-specific devised
-        work on the Lebanese civil war. Sahar is a strong advocate of
-        documentary theatre and recently conceived and directed Meen El Felten,
-        an immersive documentary play on sexual assault in Lebanon as part of
-        the Abaad MENA campaign of 2018 and No Demand No Supply, a documentary
-        play about sex trafficking and prostitution in collaboration with the
-        Kafa organization.
+        NYC. At the American University of Beirut where she headed the minor
+        program in Theater Arts
+
+        and was an Assistant Professor, she co-founded with her long term collaborator playwright Robert Myers, the Theater Initiative, an interdisciplinary group of faculty and artists working to facilitate theatre creation and research locally, regionally, and internationally. Her directing credits for the Theater Initiative include Garcia-Lorca’s Blood Wedding as a site-specific promenade performance in the village of Hammana in Mount Lebanon, Shakespeare’s King Lear (co-directed with Rachel Valentine Smith of The Faction ensemble of London) which was the first production of a Shakespearean play in Lebanese colloquial Arabic, The Rape and Rituals of Signs and Transformations by Sa'dallah Wannous, Watch Your Step: Beirut Heritage Walking Tour which was a site-specific devised work on the Lebanese civil war. Sahar is a strong advocate of documentary theatre and recently conceived and directed Meen El Felten, an immersive documentary play on sexual assault in Lebanon as part of the Abaad MENA campaign of 2018, and No Demand No Supply, a documentary play about sex trafficking and prostitution in collaboration with the Kafa organization.
 
 
         As an actor, Sahar is trained in the Meisner technique and recently started training in Alba Emoting, a somatic approach to acting based in neuroscience. Her acting credits include the role of Karen in the Lebanese adaptation of Dinner with Friends by Donald Margulies directed by Carlos Chahine, the title role in Dario Fo and Franca Rame’s An Arab Woman Speaks produced by The Faction at New Diorama Theatre in London, and of Barbara in the Lebanese adaptation of August: Osage County by Tracy Letts.
 
 
-        She contributes to academic research on theatre through publications of reflections on her work. She has been published in Arab Stages, PAJ: A Journal of Performance and Art, and authored chapters in books including Theatre in the Middle East between Performance and Politics edited by Babak Rahimi, Anthem press, 2020 and The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual edited by Sonja Mejcher-Atassi and Robert Myers, Cambridge University Press 2021.
+        She contributes to academic research on theatre through publications of reflections on her work. She has been published in Arab Stages, PAJ: A Journal of Performance and Art, and authored chapters in books including Theatre in the Middle East between Performance and Politics edited by Babak Rahimi, Anthem press, 2020, and The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual edited by Sonja Mejcher-Atassi and Robert Myers, Cambridge University Press 2021.
 
 
-        Sahar is a recipient of the Fulbright scholarship (2009) and holds an MA in Theatre Studies from Central Washington University (2011) and an MA in Sociology from the American University of Beirut (2005). She is an alumna of Lincoln Center Theater Directors Lab in NYC (2014) and of Directors Lab North in Toronto (2017), and she is the co-founder and Artistic Director of Directors Lab Mediterranean.
+        Sahar is a recipient of the Fulbright scholarship (2009) and holds an MA in Theatre Studies from Central Washington University (2011) and an MA in Sociology from the American University of Beirut (2005). She is an ensemble member of The Faction, a London-based award-winning theatre company, an alumna of Lincoln Center Theater Directors Lab in NYC (2014) and of Directors Lab North in Toronto (2017), and she is the co-founder and Artistic Director of Directors Lab Mediterranean.
 
 
         As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
