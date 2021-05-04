@@ -3,40 +3,6 @@ title: People
 staff:
   heading: Staff
   items:
-    - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
-        Director of Golden Thread Productions, the first American theatre
-        company focused on the Middle East where she launched such visionary
-        programs as ReOrient Festival, New Threads, Fairytale Players, and What
-        do the Women Say?, and timely initiatives such as Islam 101 and Project
-        Alo? Torange has been recognized by Theatre Bay Area and is one of
-        Theatre Communication Group’s Legacy Leaders of Color. She was honored
-        by the Cairo International Theatre Festival and the Symposium on Equity
-        in the Entertainment Industry at Stanford University. A playwright,
-        director, and translator, Torange contributed a case study chapter to
-        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
-        and stage adaptation of Nizami’s “Leyla &#038; Majnun” is published on
-        Gleeditions.com. She has been published in The Drama Review, American
-        Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
-        Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
-        Actors. At Golden Thread, Torange directed OH MY SWEET LAND by Amir
-        Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY SCENES OF LOVE AND
-        COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF CREATION by
-        Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir Al-Azraki, VOICE
-        ROOM by Reza Soroor, and adapted the poem, I SELL SOULS by Simin
-        Behbehani for the stage. Torange was a member of the artistic team that
-        developed BENEDICTUS, a collaboration among Iranian, Israeli, and
-        American artists. She received a Gerbode-Hewlett Playwright Commission
-        Award for ISFAHAN BLUES, a co-production with African American
-        Shakespeare Company, and a commission from the Islamic Cultural Center
-        of Northern California to write THE FIFTH STRING: ZIRYAB’S PASSAGE TO
-        CORDOBA. Other plays include 444 DAYS, WAVES, and CALL ME MEHDI,
-        included in the anthology “Salaam. Peace: An Anthology of Middle
-        Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
-        heritage, Torange holds a Master’s degree in Theatre Arts from San
-        Francisco State University."
-      credit: Founding Artistic Director
-      image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
-      name: Torange Yeghiazarian
     - name: Sahar Assaf
       credit: Executive Artistic Director
       image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/
@@ -95,6 +61,20 @@ staff:
         at @pollyandpeter). They are passionate about using social media to
         connect communities, organize activism, and welcome diverse audiences
         into the behind-the-scenes process of stage artistry.
+    - name: Linda Maria Girón
+      credit: Operations Associate
+      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
+        playwright, performer and visual artist from Los Angeles, California. An
+        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
+        has written, taught and performed for a variety of Bay Area theaters
+        including Berkeley Interactive Theater, Cutting Ball Theater,
+        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
+        Peripatetic Players and the New Conservatory Theater Center.  They are
+        currently in residence at Crowded Fire Theater’s *Resilience &
+        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
+        collective and Poltergeist Theatre’s artistic cohort. Follow their work
+        at [www.lindamgiron.com](www.lindamgiron.com)."
+      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -111,6 +91,40 @@ staff:
       credit: Art Director
       image: /img/archive/2012/04/navid_headshot.jpg
       name: Navid Ghaem Maghami
+    - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
+        Director of Golden Thread Productions, the first American theatre
+        company focused on the Middle East where she launched such visionary
+        programs as ReOrient Festival, New Threads, Fairytale Players, and What
+        do the Women Say?, and timely initiatives such as Islam 101 and Project
+        Alo? Torange has been recognized by Theatre Bay Area and is one of
+        Theatre Communication Group’s Legacy Leaders of Color. She was honored
+        by the Cairo International Theatre Festival and the Symposium on Equity
+        in the Entertainment Industry at Stanford University. A playwright,
+        director, and translator, Torange contributed a case study chapter to
+        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
+        and stage adaptation of Nizami’s “Leyla &#038; Majnun” is published on
+        Gleeditions.com. She has been published in The Drama Review, American
+        Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
+        Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
+        Actors. At Golden Thread, Torange directed OH MY SWEET LAND by Amir
+        Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY SCENES OF LOVE AND
+        COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF CREATION by
+        Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir Al-Azraki, VOICE
+        ROOM by Reza Soroor, and adapted the poem, I SELL SOULS by Simin
+        Behbehani for the stage. Torange was a member of the artistic team that
+        developed BENEDICTUS, a collaboration among Iranian, Israeli, and
+        American artists. She received a Gerbode-Hewlett Playwright Commission
+        Award for ISFAHAN BLUES, a co-production with African American
+        Shakespeare Company, and a commission from the Islamic Cultural Center
+        of Northern California to write THE FIFTH STRING: ZIRYAB’S PASSAGE TO
+        CORDOBA. Other plays include 444 DAYS, WAVES, and CALL ME MEHDI,
+        included in the anthology “Salaam. Peace: An Anthology of Middle
+        Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
+        heritage, Torange holds a Master’s degree in Theatre Arts from San
+        Francisco State University."
+      credit: Founder
+      image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
+      name: Torange Yeghiazarian
     - bio: <strong>Vida Ghahremani</strong> *(she/her)* began acting in films as a
         teenager in Iran, where she established the standards of stardom. Some
         of her Iranian film classics include, CHAHAR RAH HAVADES, TOOFAN DAR
@@ -125,20 +139,6 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
-    - name: Linda Maria Girón
-      credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
-        playwright, performer and visual artist from Los Angeles, California. An
-        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
-        has written, taught and performed for a variety of Bay Area theaters
-        including Berkeley Interactive Theater, Cutting Ball Theater,
-        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
-        Peripatetic Players and the New Conservatory Theater Center.  They are
-        currently in residence at Crowded Fire Theater’s *Resilience &
-        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
-        collective and Poltergeist Theatre’s artistic cohort. Follow their work
-        at [www.lindamgiron.com](www.lindamgiron.com)."
-      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
 board:
   heading: Board of Trustees
   items:
