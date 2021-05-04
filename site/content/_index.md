@@ -3,8 +3,8 @@ title: Middle East Center Stage
 headline: 25 Years of Art, Activism, and Family
 subtitle: The next 25 years begins with you.
 background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
-cta: DONATE NOW
-link: https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI
+cta: Watch the Anniversary Video!
+link: https://youtu.be/wIdjVb91HBM
 items:
   - image: https://ucarecdn.com/7da6584f-a3cb-495d-b3d2-e293284e260e/
     subtitle: Golden Thread introduces 4 commissioned playwrights!
