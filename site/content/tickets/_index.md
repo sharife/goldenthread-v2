@@ -20,13 +20,10 @@ lists:
           **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Ferguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
 
 
-          **Available for purchase June 7-13, 2021** 
+          **Available for Streaming June 7-13, 2021** 
 
 
-          Tickets are valid for a 48-hour streaming period.
-
-
-          Rental is good for streaming on one device at a time and begins when you press play.
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
         title: "Golden Classics: Operation No Penetration: Lysistrata 97! "
         pre: Vintage Videos From Golden Thread’s Vault
         cta: Buy Tickets!
@@ -62,13 +59,10 @@ lists:
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, Listen to My Heart, by Datevik Hovanessian.
 
 
-          **Available for purchase June 14-20, 2021**
+          **Available for Streaming June 14-20, 2021**
 
 
-          Tickets are valid for a 48-hourr streaming period.
-
-
-          Rental is good for streaming on one device at a time and begins when you press play.
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XaonUAC
         image: https://ucarecdn.com/0e9c0c49-07ea-40b9-830c-f40925d737ac/
@@ -101,19 +95,16 @@ lists:
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. 
 
 
-          **Available for purchase June 21-27, 2021**
+          **Available for Streaming June 21-27, 2021**
 
 
-          Tickets are valid for a 48-hourr streaming period.
-
-
-          Rental is good for streaming on one device at a time and begins when you press play.
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
 ---
-----
+- - -
 
-**GOLDEN THREAD TICKETING POLICIES**
+**GOLDEN THREAD TICKETING POLICIES (in-person)**
 
 Tickets for a Golden Thread performance may be purchased online by clicking the *Buy Tickets* link for the show you want to see.
 
@@ -127,9 +118,9 @@ Directions and parking information for various venues and other show information
 
 * The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
 * Online ticket sales will end 4 hours before show time.
-* For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
+* For ticket exchanges, cancellations, and group discounts email **[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)**.
 * Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
 * Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
 * Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
 
-The best way to reach us if you have questions or require assistance is to email us at **<mailto:boxoffice@goldenthread.org>** or call 415.626.4061.
+The best way to reach us if you have questions or require assistance is to email us at **[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)** or call 415.626.4061.
