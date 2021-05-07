@@ -28,6 +28,9 @@ lists:
 
 
           **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Feguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
+
+
+          [Learn More](https://goldenthread.org/productions/operation-no-penetration/) about the original production.
         itemstart: 2021-06-07T07:00:00.000Z
         cta: Buy Tickets
         subtitle: An outrageous comedy about sex and war adapted and directed by Torange
@@ -55,6 +58,9 @@ lists:
 
 
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, *Listen to My Heart*, by Datevik Hovanessian.
+
+
+          [Learn More](https://goldenthread.org/productions/nine-armenians/) about the original production.
         itemstart: 2021-06-14T07:00:00.000Z
         cta: Buy Tickets
         subtitle: >-
@@ -91,6 +97,9 @@ lists:
 
 
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
+
+
+          [Learn More](https://goldenthread.org/productions/the-love-missile/) about the original production.
         itemstart: 2021-04-16T16:46:45.346Z
         cta: Buy Tickets
         subtitle: An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura,
@@ -102,15 +111,14 @@ lists:
 cast:
   heading: " "
 photos:
-  heading: Operation No Penetration Lysistrata 97!
-  items:
-    - image: https://ucarecdn.com/ef6f9802-3aee-49ff-b7c1-245c07b0b617/
-    - image: https://ucarecdn.com/32241399-d0af-47c2-8bc2-5cdfc16c5471/
-    - image: https://ucarecdn.com/5a04558c-3119-4a48-82f5-06436cfd2530/
+  heading: ""
+  items: []
 photos2:
-  heading: Nine Armenians
+  heading: ""
+  items:
+    - {}
 photos3:
-  heading: Love Missile
+  heading: ""
 ---
 The three plays in Golden Classics Streaming Exclusive offer a glimpse into the early years of Golden Thread. They embody our hopes and ambitions for a world where our common humanity supersedes political differences.
 
