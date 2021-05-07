@@ -104,7 +104,9 @@ cast:
 photos:
   heading: Operation No Penetration Lysistrata 97!
   items:
-    - {}
+    - image: https://ucarecdn.com/ef6f9802-3aee-49ff-b7c1-245c07b0b617/
+    - image: https://ucarecdn.com/32241399-d0af-47c2-8bc2-5cdfc16c5471/
+    - image: https://ucarecdn.com/5a04558c-3119-4a48-82f5-06436cfd2530/
 photos2:
   heading: Nine Armenians
 photos3:
