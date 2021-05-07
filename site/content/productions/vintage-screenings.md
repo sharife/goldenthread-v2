@@ -51,7 +51,10 @@ lists:
           Magic Theater in 2002.
 
 
-          **Featuring:** Atosa Babaoff, Toby Brooks, Valerie de Jose, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins, Earll Kingston, Lara Palanjian, Ruby Unger
+          **Featuring:** Atosa Babaoff\*, Toby Brooks, Valerie de Jose\*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins\*, Earll Kingston\*, Lara Palanjian, Ruby Unger*
+
+
+          *\*Appeared courtesy of Actor's Equity Association*
 
 
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, *Listen to My Heart*, by Datevik Hovanessian.
@@ -87,7 +90,10 @@ lists:
           An artistic response to the US invasion of Iraq in the aftermath of the 9/11 attacks, *Love Missile* is Golden Thread’s first commissioned play, originally staged in June 2003 at the New Langton Arts in San Francisco. The production, a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry, was made possible by the generous contribution of Judith Wilber and Bob Miller. 
 
 
-          **Featuring:** Sofia Ahmad, Vida Ghahremani, Lenny Moors, Andoni Panici, Carmen Elena Sosa, William Todd Tressler, Kris Welch
+          **Featuring:** Sofia Ahmad\*, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Carmen Elena Sosa\*, William Todd Tressler\*, Kris Welch
+
+
+          *\*Appeared courtesy of Actor's Equity Association*
 
 
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
