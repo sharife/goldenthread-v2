@@ -4,7 +4,7 @@ pre: Vintage Videos from Golden Thread's Vault
 season: 2021
 date: 2021-04-16T16:44:31.141Z
 start: 2021-06-07T07:00:00.000Z
-end: 2021-06-28T04:00:00.000Z
+end: 2021-06-28T03:00:00.000Z
 heading: Celebrating 25 Years of Centering Middle Eastern Narratives
 description: As part of our 25th Anniversary celebration, we are thrilled to
   screen three productions from Golden Thread's vintage collection.
