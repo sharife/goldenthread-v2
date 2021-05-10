@@ -80,14 +80,12 @@ staff:
         design professional and art director he has worked widely in a variety
         of disciplines and media, while focusing primarily on poster &amp;
         publication design, logo &amp; visual identity and advertising since
-        1998. Through his full-service graphic design studio NaMa
-        (namadesignstudio.com), Navid offers creative solutions as well as
-        design consulting services to numerous arts and cultural institutions,
-        visual artists, independent musicians, theater companies, film
-        festivals, and filmmakers both locally and internationally. Navid holds
-        an MFA in design from California College of the Arts in San Francisco.<a
-        href="http://www.namadesignstudio.com"
-        target="_blank">namadesignstudio.com</a>
+        1998. Through his full-service graphic design studio NaMa, Navid offers
+        creative solutions as well as design consulting services to numerous
+        arts and cultural institutions, visual artists, independent musicians,
+        theater companies, film festivals, and filmmakers both locally and
+        internationally. Navid holds an MFA in design from California College of
+        the Arts in San Francisco.
       credit: Art Director
       image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
       name: Navid Ghaem Maghami
