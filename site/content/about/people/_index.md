@@ -85,9 +85,7 @@ staff:
         design consulting services to numerous arts and cultural institutions,
         visual artists, independent musicians, theater companies, film
         festivals, and filmmakers both locally and internationally. Navid holds
-        an MFA in design from California College of the Arts in San Francisco.<a
-        href="http://www.namadesignstudio.com"
-        target="_blank">namadesignstudio.com</a>
+        an MFA in design from California College of the Arts in San Francisco.
       credit: Art Director
       image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
       name: Navid Ghaem Maghami
