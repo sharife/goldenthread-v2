@@ -89,7 +89,7 @@ staff:
         href="http://www.namadesignstudio.com"
         target="_blank">namadesignstudio.com</a>
       credit: Art Director
-      image: /img/archive/2012/04/navid_headshot.jpg
+      image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
       name: Navid Ghaem Maghami
     - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
         Director of Golden Thread Productions, the first American theatre
