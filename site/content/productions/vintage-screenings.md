@@ -11,7 +11,7 @@ description: As part of our 25th Anniversary celebration, we are thrilled to
 background: https://ucarecdn.com/b356d50c-84d2-49b8-ad66-0f6fe63965c5/
 titleimage: https://ucarecdn.com/db61ede6-d7bc-4af0-bfa9-47981931ba7d/
 program: ""
-visitlink: "none"
+visitlink: none
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 lists:
   - items:
@@ -55,7 +55,7 @@ lists:
           **Featuring:** Atosa Babaoff\*, Toby Brooks, Valerie de Jose\*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins\*, Earll Kingston\*, Lara Palanjian, Ruby Unger*
 
 
-          *\*Appeared courtesy of Actor's Equity Association*
+          *\*Appeared courtesy of Actors' Equity Association*
 
 
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, *Listen to My Heart*, by Datevik Hovanessian.
@@ -94,7 +94,7 @@ lists:
           **Featuring:** Sofia Ahmad\*, Vida Ghahremani, Lenny Moors\*, Andoni Panici, Carmen Elena Sosa\*, William Todd Tressler\*, Kris Welch
 
 
-          *\*Appeared courtesy of Actor's Equity Association*
+          *\*Appeared courtesy of Actors' Equity Association*
 
 
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
@@ -123,8 +123,8 @@ photos3:
 ---
 The three plays in Golden Classics Streaming Exclusive offer a glimpse into the early years of Golden Thread. They embody our hopes and ambitions for a world where our common humanity supersedes political differences.
 
-*Operation No Penetration, Lysistrata 97!* was our founder, Torange Yeghiazarian’s Master’s Thesis at San Francisco State University and became Golden Thread’s inaugural production. The adaptation reflects Yeghiazarian’s global perspective and predilection for political content told through a comedic lens. The production and design team are almost entirely made up of SFSU students and the cast features Bella Warda, a Golden Thread resident artist who continues to act and direct at Golden Thread to this day.
+***Operation No Penetration, Lysistrata 97!*** was our founder, Torange Yeghiazarian’s Master’s Thesis at San Francisco State University and became Golden Thread’s inaugural production. The adaptation reflects Yeghiazarian’s global perspective and predilection for political content told through a comedic lens. The production and design team are almost entirely made up of SFSU students and the cast features Bella Warda, a Golden Thread resident artist who continues to act and direct at Golden Thread to this day.
 
-*Nine Armenians* by Leslie Ayvazian was our largest, most expensive production at the time. For many years it was our biggest box office hit, thanks to the Bay Area Armenian community’s enthusiastic response to the play. The cast and production team steeped themselves in Armenian history and culture, gathering at Torange’s house and pouring over picture books, maps, music, and videos that everyone had gathered. Some also attended the annual Armenian church bazaar and other community events. This was our first production that involved extensive community outreach both locally and nationally. We worked with Carol Kazarian’s dance troupe and thanks to Sarine Balian, a Bay Area musician, connected with Datevik Hovanessian whose album, Listen to My Heart became the soundtrack for the play.
+***Nine Armenians*** by Leslie Ayvazian was our largest, most expensive production at the time. For many years it was our biggest box office hit, thanks to the Bay Area Armenian community’s enthusiastic response to the play. The cast and production team steeped themselves in Armenian history and culture, gathering at Torange’s house and pouring over picture books, maps, music, and videos that everyone had gathered. Some also attended the annual Armenian church bazaar and other community events. This was our first production that involved extensive community outreach both locally and nationally. We worked with Carol Kazarian’s dance troupe and thanks to Sarine Balian, a Bay Area musician, connected with Datevik Hovanessian whose album, Listen to My Heart became the soundtrack for the play.
 
-*Love Missile* was Golden Thread’s first commissioned play and our first musical. We understood that if we were going to change the narrative about the Middle East, we needed to invest in telling our own stories and developing our artistic voices. The three playwrights on the project split their work along character lines, Hal Gelb focused on the president, Torange focused on Sharifa and her mother, and Janaki focused on the shadow puppetry scenes. Norman Gee joined the project in the nick of time to put it all together and layer Lisa Tateosian’s dance choreography and Johaness Mader’s music. As the US invasion of Iraq and Afghanistan raged on, producing *Love Missile* was a crucial coping mechanism, along with other numerous short plays produced in the ReOrient Festival in the 2000s that presented untold perspectives regarding the impact of US’ Middle East policy on the everyday lives of people in the Middle East.
+***Love Missile*** was Golden Thread’s first commissioned play and our first musical. We understood that if we were going to change the narrative about the Middle East, we needed to invest in telling our own stories and developing our artistic voices. The three playwrights on the project split their work along character lines, Hal Gelb focused on the president, Torange focused on Sharifa and her mother, and Janaki focused on the shadow puppetry scenes. Norman Gee joined the project in the nick of time to put it all together and layer Lisa Tateosian’s dance choreography and Johaness Mader’s music. As the US invasion of Iraq and Afghanistan raged on, producing *Love Missile* was a crucial coping mechanism, along with other numerous short plays produced in the ReOrient Festival in the 2000s that presented untold perspectives regarding the impact of US’ Middle East policy on the everyday lives of people in the Middle East.
