@@ -22,31 +22,38 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
+		identifier = "vintage-screenings"
+		name = "Golden Classics Streaming Exclusive"
+		url = "/productions/vintage-screenings/"
+		weight = 11
+
+		[[menu.primary]]
+		parent = "season"
 		identifier = "no-summary"
 		name = "No Summary"
 		url = "/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/"
-		weight = 11
+		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "what-do-the-women-say-p"
 		name = "What Do the Women Say? 2021"
 		url = "/productions/what-do-the-women-say-2021/"
-		weight = 12
+		weight = 13
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "leila"
 		name = "Leila’s Quest For Flight"
 		url = "/productions/leila-2021"
-		weight = 13
+		weight = 14
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "new-threads-reading-series"
 		name = "New Threads Reading Series 2021"
 		url = "/productions/new-threads-reading-series"
-		weight = 14
+		weight = 15
 
 
 	[[menu.primary]]
