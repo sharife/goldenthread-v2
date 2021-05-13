@@ -8,7 +8,7 @@ end: 2021-06-27T19:00:00.000Z
 heading: Celebrating 25 Years of Centering Middle Eastern Narratives
 description: As part of our 25th Anniversary celebration, we are thrilled to
   screen three productions from Golden Thread's vintage collection.
-background: https://ucarecdn.com/b356d50c-84d2-49b8-ad66-0f6fe63965c5/
+background: https://ucarecdn.com/92bfefbf-6045-4cb2-9f2d-9a5fd9a5d905/
 titleimage: https://ucarecdn.com/db61ede6-d7bc-4af0-bfa9-47981931ba7d/
 program: ""
 visitlink: none
