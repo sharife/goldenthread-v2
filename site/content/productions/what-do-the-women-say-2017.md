@@ -4,7 +4,7 @@ pre: "SYRIA MON AMOUR: FOOD, HOME, AND HEALING"
 season: 2017
 date: 2017-02-09T09:08:00.000Z
 start: 2017-03-09T04:00:00.000Z
-end: 2017-03-09T06:00:00.000Z
+end: ""
 heading: Golden Thread’s annual celebration of International Women’s Day is
   dedicated to Syria, and moves to Brava.
 description: "Golden Thread Productions, the first American theatre company
