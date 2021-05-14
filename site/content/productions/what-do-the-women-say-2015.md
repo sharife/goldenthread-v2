@@ -3,31 +3,20 @@ title: What Do the Women Say? 2015
 pre: POETRY OF RESISTANCE, PROSE OF RESILIENCE
 season: 2015
 date: 2015-02-13T09:43:00.000Z
-start: 2015-03-13T06:00:00.000Z
+start: 2015-03-13T03:00:00.000Z
 end: ""
 heading: A Celebration of International Women's Day
-description: Golden Thread will honor over a century of activism by women
-  artists for freedom, self-determination, and justice at its annual
-  International Women’s Day celebration, **What Do the Women Say?**. Presented
-  on Thursday, March 12, at 8pm, at La Peña Cultural Center in Berkeley, this
-  year’s program features the work of Middle Eastern women artists, who counter
-  and shatter stereotypes, and engages in a conversation with history in light
-  of the sweeping changes across the Middle East. Golden Thread is honored to
-  present award-winning Syrian American opera singer **[Saousan
-  Jarjour](https://web.archive.org/web/20170927054719/http://saousanjarjour.com/)**‘s
-  Bay Area debut featuring new work by Nahal Navidar (New Threads 2014) and
-  composer Julia Adolphe, as well as Syrian folk songs. Early 20th-century
-  writings by women from Iraq, Tunisia, and Algeria selected from the anthology,
-  Opening the Gates, A Century of Arab Feminist Writing, will be presented
-  alongside readings in English and Persian by leading Bay Area poets and
-  authors: **[Elmaz
-  Abinader](https://web.archive.org/web/20170927054719/http://www.elmazabinader.com/)** (*This
-  House, My Bones*), **[Anita
-  Amirrezvani](https://web.archive.org/web/20170927054719/http://anitaamirrezvani.com/)** (*The
-  Blood of Flowers*, *Equal to the Sun*), Najia Karim, and **[Deema
-  Shehabi](https://web.archive.org/web/20170927054719/http://imeu.org/article/deema-shehabi-poet-and-editor1)** (*Thirteen
-  Departures From the Moon*). Golden Thread artistic associate Haleh Hatami will
-  facilitate a conversation with the artists following the presentations.
+description: >-
+  Golden Thread will honor over a century of activism by women artists for
+  freedom, self-determination, and justice at its annual International Women’s
+  Day celebration, **What Do the Women Say?**. This year’s program features the
+  work of Middle Eastern women artists, who counter and shatter stereotypes, and
+  engages in a conversation with history in light of the sweeping changes across
+  the Middle East. 
+
+
+  Golden Thread is honored to present award-winning Syrian American opera singer **[Saousan Jarjour](https://web.archive.org/web/20170927054719/http://saousanjarjour.com/)**‘s Bay Area debut featuring new work by Nahal Navidar (New Threads 2014) and composer Julia Adolphe, as well as Syrian folk songs. Early 20th-century writings by women from Iraq, Tunisia, and Algeria selected from the anthology, Opening the Gates, A Century of Arab Feminist Writing, will be presented alongside readings in English and Persian by leading Bay Area poets and authors: **[Elmaz Abinader](https://web.archive.org/web/20170927054719/http://www.elmazabinader.com/)** (*This House, My Bones*), **[Anita Amirrezvani](https://web.archive.org/web/20170927054719/http://anitaamirrezvani.com/)** (*The Blood of Flowers*, *Equal to the Sun*), Najia Karim, and **[Deema Shehabi](https://web.archive.org/web/20170927054719/http://imeu.org/article/deema-shehabi-poet-and-editor1)** (*Thirteen Departures From the Moon*). Golden Thread artistic associate Haleh Hatami will facilitate a conversation with the artists following the presentations.
+titleimage: https://ucarecdn.com/8b9e9657-6a96-4cd4-9cb9-4ece3f34edc2/
 featuring: Elmaz Abinader, Anita Amirrezvani, Saousan Jarjour, Najia Karim and
   Deema K Shehabi
 stage: La Peña Cultural Center
