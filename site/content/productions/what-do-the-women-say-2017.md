@@ -12,7 +12,7 @@ description: "Golden Thread Productions, the first American theatre company
   Healing,* this year’s edition of *What Do the Women Say?*, its annual
   celebration of International Women’s Day. Featuring women artists of Middle
   Eastern descent, the event is dedicated to Syria and the Syrian people."
-background: https://ucarecdn.com/662223a0-34c7-44a7-aab0-cd0847eaa52d/
+background: https://ucarecdn.com/662223a0-34c7-44a7-aab0-cd0847eaa52d/-/crop/1500x922/0,0/-/preview/
 titleimage: https://ucarecdn.com/2c892ac7-7831-4ce8-af47-8801c33a9a9c/
 program: https://ucarecdn.com/4e383d37-85f1-4627-b67f-5d7051254f67/
 featuring: Reem Assil, Sara Maamouri, Amelia Romano, Nora el Samahy, and Dina Zarif
@@ -21,6 +21,27 @@ address: 2781 24th Street, San Francisco
 misc: |-
   Tickets are $15-$20.
   No one will be turned away for lack of funds.
+lists:
+  - items:
+      - itemstart: 2021-05-14T17:49:19.775Z
+        itemend: 2021-05-14T17:49:19.836Z
+        subtitle: ""
+        text: "***Oh My Sweet Land*** is a solo show created by Palestinian writer Amir
+          Nizar Zuabi, founder of Haifa-based theatre company ShiberHu, and
+          German-Syrian actor Corrinne Jaber. Featuring Nora el Samahy and
+          directed by Torange Yeghiazarian, this urgent and extraordinary show
+          explores the crisis in Syria through one woman’s fictional story based
+          on interviews with hundreds of Syrian refugees in Jordan. The play is
+          set in a kitchen and performed as the actor prepares the Syrian
+          delicacy, kibbeh. A presentation of the play will tour Bay Area
+          kitchens in the fall as part of Golden Thread’s 2017 Season."
+      - itemstart: 2021-05-14T17:50:12.973Z
+        itemend: 2021-05-14T17:50:13.034Z
+        text: Documentary film ***We Are Not Princesses*** by Bridgette Auger and Itab
+          Azzam centers on an eight-week drama workshop attended by 35 Syrian
+          women in refugee camps in Lebanon. The workshops culminated in three
+          performances of the resulting play Antigone of Syria at Al Madina
+          Theatre in Hamra, Beirut in December 2014.
 cast:
   heading: Meet the Artists
   items:
@@ -118,5 +139,6 @@ bottom:
   logos:
     - image: https://ucarecdn.com/694473c7-fe04-4195-8f3c-80af4934cd92/
     - image: https://ucarecdn.com/89d8b957-e16e-4d2d-b3a2-33376c2a049e/
+    - image: https://ucarecdn.com/ff351c81-2f9c-4356-a16f-31957cdc0d08/
 ---
 Two extraordinary works of art created by Middle Eastern artists responding to the Syrian refugee crisis anchor the event: an excerpt reading of ***Oh My Sweet Land***, a tour-de-force solo show based on interviews with Syrian refugees in Jordan, and an excerpt from the documentary film ***We Are Not Princesses***, which centers on *Antigone of Syria*, a 2014 drama workshop and performance featuring 35 Syrian women refugees in Lebanon. The event also features music by vocalist **Dina Zarif** accompanied by harpist Amelia Romano, and food for purchase from **Reem’s**, which serves traditional Arab street food made with California love. Founding artistic director Torange Yeghiazarian will lead a conversation and audience Q&A with artists **Nora el Samahy** (Egyptian-American actress of *Oh My Sweet Land*), **Sara Maamouri** (Tunisian-American editor of *We Are Not Princesses*), Iranian vocalist **Dina Zarif**, and Syrian- Palestinian-American chef **Reem Assil**. A portion of the proceeds will benefit **International Rescue Committee Oakland**, which provides essential services to refugees in the Bay Area.
