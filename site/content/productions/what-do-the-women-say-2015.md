@@ -98,6 +98,14 @@ cast:
         Writers (RAWI) between 2007 and 2010."
       name: Deema K Shehabi
       image: https://ucarecdn.com/98c814d3-6860-426f-98db-75a8f2892153/
+photos:
+  items:
+    - image: https://ucarecdn.com/23da9fe5-c523-43a0-9937-a3443d3f3481/
+    - image: https://ucarecdn.com/cf554a0c-80a0-440e-a913-5526f044d063/
+    - image: https://ucarecdn.com/6e356932-c1ee-4556-a112-f4fe6557a830/
+    - image: https://ucarecdn.com/1cb8541a-5628-497a-86a7-36bf390f731c/
+    - image: https://ucarecdn.com/f1b2f876-a516-4208-a3c4-7d0bcdf65e4f/
+    - image: https://ucarecdn.com/f63e2972-93ae-493b-90cc-4b6eb155c4f8/
 bottom:
   heading: Sponsors
   text: ""
