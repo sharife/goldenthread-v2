@@ -144,6 +144,10 @@ cast:
         a Master’s degree in Theatre Arts from San Francisco State University."
 photos:
   heading: Photos
+  items:
+    - image: https://ucarecdn.com/ac9afb2c-5a11-4165-92f0-12fff55e35ba/
+    - image: https://ucarecdn.com/ffdd9782-80f5-4eda-b6a9-83ba36ab7560/
+    - image: https://ucarecdn.com/f6b85924-b9b4-4d47-b9ea-bda840495768/
 bottom:
   heading: Sponsors
   text: "*What Do the Women Say?* is a **SWAN DAY** event and is sponsored by
