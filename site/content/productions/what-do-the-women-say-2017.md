@@ -7,11 +7,13 @@ start: 2017-03-09T06:00:00.000Z
 end: ""
 heading: Golden Thread’s annual celebration of International Women’s Day is
   dedicated to Syria, and moves to Brava.
-description: Program includes excerpts from solo play *Oh My Sweet Land* and
-  documentary film *We Are Not Princesses* that highlight the untold stories of
-  Syrian refugees, along with music by Dina Zarif. Food for purchase by Reem’s
-  Kitchen available in the lobby.
-background: https://ucarecdn.com/78a62ce9-9b44-4601-8730-368ef2d1807e/
+description: "Golden Thread Productions, the first American theatre company
+  devoted to the Middle East, presents *Syria Mon Amour: Food, Home, and
+  Healing,* this year’s edition of *What Do the Women Say?*, its annual
+  celebration of International Women’s Day. Featuring women artists of Middle
+  Eastern descent, the event is dedicated to Syria and the Syrian people."
+background: https://ucarecdn.com/662223a0-34c7-44a7-aab0-cd0847eaa52d/
+titleimage: https://ucarecdn.com/2c892ac7-7831-4ce8-af47-8801c33a9a9c/
 program: https://ucarecdn.com/4e383d37-85f1-4627-b67f-5d7051254f67/
 featuring: Reem Assil, Sara Maamouri, Amelia Romano, Nora el Samahy, and Dina Zarif
 stage: Brava Theater Center
@@ -97,7 +99,20 @@ cast:
         building transmedia narratives to enhance and further engage a
         constantly evolving audience base."
 photos:
-  heading: Photos
+  heading: Photos by Vahid Zamani
+  items:
+    - image: https://ucarecdn.com/75203bab-00d4-4e17-a8b4-45a1afc3ad38/
+    - image: https://ucarecdn.com/caa1ac3c-ae76-4c98-b735-7ac6ba901181/
+    - image: https://ucarecdn.com/08cc193d-8d3d-43db-a653-e7a59d934555/
+    - image: https://ucarecdn.com/39e2c00f-ae44-4223-84cc-66174ffd8f74/
+    - image: https://ucarecdn.com/448e51ae-ff4f-4a55-aae5-313b94ee94a9/
+    - image: https://ucarecdn.com/6ceb9c3e-e149-4b64-b40c-33f8994abd74/
+    - image: https://ucarecdn.com/9bbfe3b3-bfe6-4154-976d-c3c3b9781b12/
+    - image: https://ucarecdn.com/847c4aca-7677-4d6b-a24e-c126b956fe2b/
+    - image: https://ucarecdn.com/f9c5a3ce-064a-4ca0-b7e8-45ccff61329f/
+    - image: https://ucarecdn.com/3812b727-9902-4ac8-bf47-14a0fa8021cb/
+    - image: https://ucarecdn.com/8ba0ef84-bebf-447c-ab2a-e95ff903a312/
+    - image: https://ucarecdn.com/5746acaa-283f-4944-a626-42c29ab0015f/
 bottom:
   heading: ""
   logos:
