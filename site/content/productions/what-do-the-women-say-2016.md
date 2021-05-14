@@ -15,7 +15,10 @@ description: >-
   Afsaneh **Sharlyn Sawyer**. Each artist will present a showcase of their work.
 
 
-  Presentations include a reading from Shamieh’s newest play *The Strangest* by Golden Thread favorite **Nora el Samahy**, and a 30-minute concert by **Aswat Women’s Ensemble** featuring songs from queens of Arabic music Asmahan, Fairouz, Shadia, and Dalida. Timeless classics selected span 1940s to 1980s, and include beloved gems like Sayed Darwish’s “Zuruni” and “El Helwa Di.”
+  Presentations include a reading from Shamieh’s newest play *The Strangest* by Golden Thread **Nora El Samahy**, and a 30-minute concert by **Aswat Women’s Ensemble** featuring songs from queens of Arabic music Asmahan, Fairouz, Shadia, and Dalida. Timeless classics selected span 1940s to 1980s, and include beloved gems like Sayed Darwish’s “Zuruni” and “El Helwa Di.”
+background: https://ucarecdn.com/94291629-a25a-4032-ab76-8cfc1ac5e40f/-/crop/2042x1099/0,185/-/preview/
+titleimage: https://ucarecdn.com/491bea95-574d-4dd4-8d4b-b2044f6a430a/
+program: https://ucarecdn.com/4a4cf451-57ad-4e23-b638-164b69088a01/
 featuring: Taraneh Hemami, Nabila Mango, Sharlyn Sawyer, Betty Shamieh, and
   Torange Yeghiazarian
 stage: "La Peña Cultural Center "
