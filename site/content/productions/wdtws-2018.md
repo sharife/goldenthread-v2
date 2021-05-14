@@ -4,34 +4,32 @@ pre: DISMANTLING PATRIARCHY
 season: 2018
 date: 2018-02-02T15:04:10.000Z
 start: 2018-03-08T15:04:10.000Z
-end: 2020-01-10T04:47:38.367Z
+end: ""
 heading: Golden Thread’s annual celebration of International Women’s Day
-description: >-
-  This year’s program showcases the work of leading Middle Eastern women artists
-  that are working to expose and eradicate toxic masculinity at home, at work,
-  and on the national stage. Featuring a presentation by Yemeni-American visual
-  artist <strong>Yasmine Diaz</strong> about her collage series, <em>One Way or
-  Another</em>; a dramatic reading by <strong>Atosa Melody Babaoff</strong> of
-  the short story &#8220;White Torture&#8221; by Iranian author <strong>Farnoosh
-  Moshiri</strong>; a performance by Lebanese-American singer <strong>Naima
-  Shalhoub</strong> featuring music from her album <em>Live in San Francisco
-  County Jail</em>; and an excerpt from the documentary film <em>The Judge</em>
-  by <strong>Erika Cohn</strong> and <strong>Sara Maamouri</strong> about the
-  Arab world’s first woman Sharia judge. After the presentations, Founding
-  Artistic Director <strong>Torange Yeghiazarian</strong> will facilitate a
-  conversation with the participating artists and the audience.
+description: This year’s program showcases the work of leading Middle Eastern
+  women artists that are working to expose and eradicate toxic masculinity at
+  home, at work, and on the national stage. Featuring a presentation by
+  Yemeni-American visual artist <strong>Yasmine Diaz</strong> about her collage
+  series, <em>One Way or Another</em>; a dramatic reading by <strong>Atosa
+  Melody Babaoff</strong> of the short story &#8220;White Torture&#8221; by
+  Iranian author <strong>Farnoosh Moshiri</strong>; a performance by
+  Lebanese-American singer <strong>Naima Shalhoub</strong> featuring music from
+  her album <em>Live in San Francisco County Jail</em>; and an excerpt from the
+  documentary film <em>The Judge</em> by <strong>Erika Cohn</strong> and
+  <strong>Sara Maamouri</strong> about the Arab world’s first woman Sharia
+  judge. After the presentations, Founding Artistic Director <strong>Torange
+  Yeghiazarian</strong> will facilitate a conversation with the participating
+  artists and the audience.
 titleimage: /img/archive/2018/02/Patriarchy-Slider.jpg
-featuring: >-
-  Atosa Melody Babaoff, Yasmine Diaz, Farnoosh Moshiri, Sara Maamouri, and Naima
-  Shalhoub
+featuring: Atosa Melody Babaoff, Yasmine Diaz, Farnoosh Moshiri, Sara Maamouri,
+  and Naima Shalhoub
 stage: Brava Theater Center
-address: '2781 24th Street, San Francisco'
+address: 2781 24th Street, San Francisco
 misc: The full program is 100 minutes without intermission.
 cast:
   heading: Meet the Artists
   items:
-    - bio: >-
-        <strong>Atosa Melody Babaoff </strong>is a Resident Artist with Golden
+    - bio: <strong>Atosa Melody Babaoff </strong>is a Resident Artist with Golden
         Thread Productions. She was just graduating from the American
         Conservatory Theater&#8217;s M.F.A. Program when she dove into her first
         Golden Thread production of <em>Nine Armenians</em> back in the
@@ -49,8 +47,7 @@ cast:
         is passionate about, in art and in life.
       image: /img/archive/2018/02/Babaoff-Atosa-300x300.jpg
       name: Atosa Melody Babaoff
-    - bio: >-
-        With a focus on gender, bicultural identity, and family, <strong>Yasmine
+    - bio: With a focus on gender, bicultural identity, and family, <strong>Yasmine
         Diaz</strong> works with mixed media on paper, drawing, and collage to
         question and assert her unique experiences as a Yemeni-American artist
         and feminist. Born in Chicago to parents who immigrated from the
@@ -64,8 +61,7 @@ cast:
         href="http://www.yasminediaz.com">yasminediaz.com</a></strong>
       image: /img/archive/2018/02/YasmineDiazHeadshot-300x300.jpg
       name: Yasmine Diaz
-    - bio: >-
-        <strong>Sara Maamouri</strong> is a documentary filmmaker and editor who
+    - bio: <strong>Sara Maamouri</strong> is a documentary filmmaker and editor who
         has explored a diverse range of topics for over 14 years. Her work has
         touched on social, educational and political issues, from a teacher and
         students performing under extraordinary circumstances (<em>The
@@ -88,8 +84,7 @@ cast:
         href="http://www.saramaamouri.com">saramaamouri.com</a></strong>
       image: /img/archive/2017/02/Headshot-SaraMaamouri-300x300.jpg
       name: Sara Maamouri
-    - bio: >-
-        <strong>Farnoosh Moshiri</strong> is an award–winning author and
+    - bio: <strong>Farnoosh Moshiri</strong> is an award–winning author and
         librettist. Her writings include <em>At the Wall of Almighty
         </em><em>(Interlink 1999), The Bathhouse </em><em>(Black Heron Press
         2001, Beacon Press, 2002), The Crazy Dervish and the Pomegranate Tree
@@ -105,8 +100,7 @@ cast:
         href="http://www.farnooshmoshiri.net/">farnooshmoshiri.net</a></strong>
       image: /img/archive/2018/02/FarnooshMoshiri-300x300.jpg
       name: Farnoosh Moshiri
-    - bio: >-
-        <strong>Naima Shalhoub</strong> is a Lebanese-American artist who uses
+    - bio: <strong>Naima Shalhoub</strong> is a Lebanese-American artist who uses
         music as a tool for transformation, liberation, education, and
         self-expression. Her dimensional work as a vocalist, composer,
         performing artist, and educator focuses on the expansive quality of the
