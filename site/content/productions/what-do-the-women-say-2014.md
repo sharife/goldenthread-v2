@@ -3,7 +3,7 @@ title: What Do the Women Say? 2014
 pre: TALKIN 'BOUT SEX
 season: 2014
 date: 2014-02-08T09:53:00.000Z
-start: 2014-03-08T06:00:00.000Z
+start: 2014-03-08T04:00:00.000Z
 end: ""
 heading: A Celebration of International Women’s Day
 description: "**San Francisco Bay Area** – Golden Thread’s annual International
