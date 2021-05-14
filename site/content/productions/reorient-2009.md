@@ -231,8 +231,8 @@ grids:
         cta: More about Ballet Afsaneh
         subtitle: Ballet Afsaneh
         title: Dance Performance
-        link: http://www.dancesilkroad.org/about.html
-        image: /img/Mariam-Gaibova%20Kulobi%20dance%20with%20Ballet%20Afsaneh.JPG
+        link: https://www.dancesilkroad.org/about.html
+        image: /img/Mariam-GaibovaKulobi.jpg
 cast:
   heading: Cast & Crew
   items:
