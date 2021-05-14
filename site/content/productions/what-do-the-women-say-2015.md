@@ -16,7 +16,7 @@ description: >-
 
 
   Golden Thread is honored to present award-winning Syrian American opera singer **[Saousan Jarjour](https://web.archive.org/web/20170927054719/http://saousanjarjour.com/)**‘s Bay Area debut featuring new work by Nahal Navidar (New Threads 2014) and composer Julia Adolphe, as well as Syrian folk songs. Early 20th-century writings by women from Iraq, Tunisia, and Algeria selected from the anthology, Opening the Gates, A Century of Arab Feminist Writing, will be presented alongside readings in English and Persian by leading Bay Area poets and authors: **[Elmaz Abinader](https://web.archive.org/web/20170927054719/http://www.elmazabinader.com/)** (*This House, My Bones*), **[Anita Amirrezvani](https://web.archive.org/web/20170927054719/http://anitaamirrezvani.com/)** (*The Blood of Flowers*, *Equal to the Sun*), Najia Karim, and **[Deema Shehabi](https://web.archive.org/web/20170927054719/http://imeu.org/article/deema-shehabi-poet-and-editor1)** (*Thirteen Departures From the Moon*). Golden Thread artistic associate Haleh Hatami will facilitate a conversation with the artists following the presentations.
-background: https://ucarecdn.com/e8f56a8b-f638-402c-89ba-18925613de0f/
+background: https://ucarecdn.com/e8f56a8b-f638-402c-89ba-18925613de0f/-/crop/1861x1052/0,0/-/preview/
 titleimage: https://ucarecdn.com/8b9e9657-6a96-4cd4-9cb9-4ece3f34edc2/
 program: https://ucarecdn.com/152839ce-a528-485b-ab6d-39cc1acf74ee/
 featuring: Elmaz Abinader, Anita Amirrezvani, Saousan Jarjour, Najia Karim and
