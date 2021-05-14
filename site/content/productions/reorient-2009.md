@@ -232,7 +232,7 @@ grids:
         subtitle: Ballet Afsaneh
         title: Dance Performance
         link: http://www.dancesilkroad.org/about.html
-        image: http://dancesilkroad.org/festivalsilkroad/album/slides/Mariam-Gaibova%20Kulobi%20dance%20with%20Ballet%20Afsaneh.JPG
+        image: /img/Mariam-Gaibova%20Kulobi%20dance%20with%20Ballet%20Afsaneh.JPG
 cast:
   heading: Cast & Crew
   items:
