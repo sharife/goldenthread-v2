@@ -40,7 +40,7 @@ lists:
         text: Documentary film ***We Are Not Princesses*** by Bridgette Auger and Itab
           Azzam centers on an eight-week drama workshop attended by 35 Syrian
           women in refugee camps in Lebanon. The workshops culminated in three
-          performances of the resulting play Antigone of Syria at Al Madina
+          performances of the resulting play *Antigone of Syria* at Al Madina
           Theatre in Hamra, Beirut in December 2014.
 cast:
   heading: Meet the Artists
