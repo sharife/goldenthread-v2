@@ -10,7 +10,7 @@ heading: From fantastic to poignantly real, steeped in music and drama, this
 description: A new collection of works written by playwrights from, or on themes
   concerning, the Middle East.
 background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497x247/0,0/-/preview/
-titleimage: https://ucarecdn.com/94bb6fa7-ea53-4b67-a7b3-42a55f712e25/
+titleimage: https://ucarecdn.com/12079d8e-f5a8-42ab-921c-c63abb3a3ed5/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 featuring: Stephanie Carwin, Rachel Christopherson, Vida Ghahremani, Michael
@@ -69,6 +69,29 @@ lists:
         itemstart: 2021-01-22T08:07:37.387Z
         itemend: 2021-01-22T08:07:37.436Z
         title: Voices
+      - itemstart: 2021-05-07T22:19:11.430Z
+        itemend: 2021-05-07T22:19:11.497Z
+        title: Dear Mama, Love Emily
+        text: This is the story of Emily Shihadeh, a Palestinian woman who at the age of
+          seventeen immigrates to the United States of America to join her
+          husband in San Francisco. 'A friend, told me as I shared with him my
+          life in America, "You came to a country populated by your mother." How
+          true that statement was! So many were so busy, they ignored me and
+          were unable to express any feelings of warmth to me. That was just
+          like my mother! I wanted to tell the people of this country about my
+          people and their beauty and struggle. The devastation that happened in
+          Palestine is known to very few. Through my personal stories I open a
+          glimpse into life in Palestine.' Through a series of short letters
+          addressed to her mother, the audience will share some of the
+          challenges Emily faced coming to a new country trying to understand
+          the people and their rules.
+        subtitle: By Emily Shihadeh, who was born in Jerusalem and has lived in the Bay
+          Area for the past forty-two years. Shihadeh has been presenting her
+          one woman show "Grapes & Figs are in Season, A Palestinian Woman's
+          Story" for ten years now all over the San Francisco Bay Area, the
+          United States and in Tel Aviv, Haifa and
+          Jerusalem. [www.emilyshi.com](https://web.archive.org/web/20160807100056/http://www.emilyshi.com/)
+        image: https://ucarecdn.com/8458a67f-6a84-4cc2-aa32-0e6e0775c9e3/
 cast:
   heading: Cast & Crew
   items:
