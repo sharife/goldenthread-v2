@@ -21,6 +21,27 @@ address: 2781 24th Street, San Francisco
 misc: |-
   Tickets are $15-$20.
   No one will be turned away for lack of funds.
+lists:
+  - items:
+      - itemstart: 2021-05-14T17:49:19.775Z
+        itemend: 2021-05-14T17:49:19.836Z
+        subtitle: ""
+        text: "***Oh My Sweet Land*** is a solo show created by Palestinian writer Amir
+          Nizar Zuabi, founder of Haifa-based theatre company ShiberHu, and
+          German-Syrian actor Corrinne Jaber. Featuring Nora el Samahy and
+          directed by Torange Yeghiazarian, this urgent and extraordinary show
+          explores the crisis in Syria through one woman’s fictional story based
+          on interviews with hundreds of Syrian refugees in Jordan. The play is
+          set in a kitchen and performed as the actor prepares the Syrian
+          delicacy, kibbeh. A presentation of the play will tour Bay Area
+          kitchens in the fall as part of Golden Thread’s 2017 Season."
+      - itemstart: 2021-05-14T17:50:12.973Z
+        itemend: 2021-05-14T17:50:13.034Z
+        text: Documentary film ***We Are Not Princesses*** by Bridgette Auger and Itab
+          Azzam centers on an eight-week drama workshop attended by 35 Syrian
+          women in refugee camps in Lebanon. The workshops culminated in three
+          performances of the resulting play Antigone of Syria at Al Madina
+          Theatre in Hamra, Beirut in December 2014.
 cast:
   heading: Meet the Artists
   items:
