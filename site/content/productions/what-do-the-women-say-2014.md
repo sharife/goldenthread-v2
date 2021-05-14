@@ -6,17 +6,19 @@ date: 2014-02-08T09:53:00.000Z
 start: 2014-03-08T04:00:00.000Z
 end: ""
 heading: A Celebration of International Women’s Day
-description: "**San Francisco Bay Area** – Golden Thread’s annual International
-  Women’s Day celebration will be sizzling hot. An eclectic selection of female
-  artists discuss the pain and pleasure of addressing sex and sensuality:
-  Award-winning filmmaker, Maryam Keshavarz who received overwhelming critical
-  acclaim for her first narrative feature, *Circumstance*; joins standup
-  comedian, Zahra Noorbakhsh and author, Ayesha Mattu, editor of “*Love,
-  InshAllah: The Secret Love Lives of American Muslim Women”,* one of the first
-  collections of writing by Middle Eastern women about sex. The evening will
-  wrap up with excerpts from Bareed Mista’jil Queer Arab Women Stories, selected
-  by Happy/L.A.Hyder.  The conversation will be facilitated by Haleh Hatami."
+description: "Golden Thread’s annual International Women’s Day celebration will
+  be sizzling hot. An eclectic selection of female artists discuss the pain and
+  pleasure of addressing sex and sensuality: Award-winning filmmaker, **Maryam
+  Keshavarz** who received overwhelming critical acclaim for her first narrative
+  feature, *Circumstance*; joins standup comedian, **Zahra Noorbakhsh** and
+  author, **Ayesha Mattu**, editor of “*Love, InshAllah: The Secret Love Lives
+  of American Muslim Women”,* one of the first collections of writing by Middle
+  Eastern women about sex. The evening will wrap up with excerpts from Bareed
+  Mista’jil Queer Arab Women Stories, selected by **Happy/L.A.Hyder**.  The
+  conversation will be facilitated by Haleh Hatami."
+background: https://ucarecdn.com/bf296323-0c73-4628-b114-36db02f4049a/-/crop/1959x1040/0,59/-/preview/
 titleimage: https://ucarecdn.com/e2711333-924e-4a9b-be66-fe919be1550a/
+program: https://ucarecdn.com/5f87476f-1b31-4c2d-8382-0fb24448cb2c/
 featuring: Maryam Keshavarz (Circumstance), Zahra Noorbakhsh & Ayesha Mattu
   (Love Inshallah), and Bareed Mista3jil Queer Arab Women Stories
 stage: La Peña Cultural Center
@@ -143,20 +145,19 @@ cast:
         and working on her debut full-length album."
       image: https://ucarecdn.com/27bf6036-4628-4f23-bcb5-ab05e46858ce/
       name: Naima Shalhoub
+photos:
+  items:
+    - image: https://ucarecdn.com/66da163f-2045-42e4-9982-7cb62e7c8a5e/
+    - image: https://ucarecdn.com/2b1654b5-91e2-4a08-af4c-01f703df46f4/
+    - image: https://ucarecdn.com/fcf0ad3b-17e2-4a77-9898-1049ff0d1702/
 bottom:
   heading: Sponsors
   logos:
     - image: https://ucarecdn.com/6b54f0bc-5f21-4efb-b7bc-de5994b2a0a3/
-  text: Sponsored
-    by **[WomenArts](https://web.archive.org/web/20170926021026/http://www.womenarts.org/
-    "WomenArts")**, a SWAN Day Event
+  text: Sponsored by **WomenArts**, a SWAN Day Event
 ---
 Everyone seems to have an opinion about Muslim women, even (especially!) those who have never met one, say co-editors Ayesha Mattu and Nura Maznavi of *Love, InshAllah: The Secret Love Lives of American Muslim Women,* “it’s about time we heard directly from Muslim women themselves.” Golden Thread’s artistic director, Torange Yeghiazarian couldn’t agree more. “No other territory is coveted and fought over as much as women’s bodies,” Yeghiazarian explains, “from the American Right-wing conservatives to the Taliban and Ayatollahs in Iran, the real battle is over controlling women’s bodies and sexual expression.” Join us for this year’s ***What do the Women Say?*** and find out how this group of Middle Eastern women artists counter and shatter stereotypes.
 
 **Bareed Mista3jil** features 41 stories in Arabic and English, each one originating from interviews with some 150 lesbian/bi/trans/questioning women from various regions of Lebanon.  “The title of the book, Express Mail, really indicates the urgency of the stories and the private nature of them that needed to be told, made public,” explained Nadine Mouawad, a member of the Feminist Collective, involved from the project’s inception. Since 2009, Bareed Mista3jil has been presented in the San Francisco Bay Area, at the AWID Istanbul conference 2012, and at the Aat Festival of Women’s Theater in Amman, Jordan, 2013. The book was produced by Meem, a feminist organization in Beirut with a focus on community building through programming and counseling.
 
-
-
 *An open-mic after-party will follow the event at La Pena Lounge featuring songstress, [Naima Shalhoub](https://web.archive.org/web/20170926021026/http://www.naimashalhoub.com/).*
-
-Each year **Golden Thread Productions** celebrates International Women’s Day by showcasing the work of Middle Eastern women artists. Last year’s program featured **Leila Modirzadeh** and **Kathryn Hadad**. Solo performers, **Denmo Ibrahim**, **Jennifer Jajeh**, **Maryam Rostami** and **Rohiha Malek** were presented in 2011. Bay Area poets **Deema Shehabi**, **Dina Omar**, **Lana Nasser,** **Esther Kamkar**, **Haleh Hatami** and **Elmaz Abinader** have also performed at** *What do the Women Say?*** Past performances include works by Shahrnush Parsipur, Nawal el Saadawi, Rosemary Toohey, and Majeda Al Saqqa.
