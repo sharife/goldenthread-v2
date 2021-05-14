@@ -8,9 +8,11 @@ end: ""
 heading: Golden Thread’s annual celebration of International Women’s Day is
   dedicated to Syria, and moves to Brava.
 description: Program includes excerpts from solo play *Oh My Sweet Land* and
-  documentary *We Are Not Princesses* that highlight the untold stories of
-  Syrian refugees, along with music by Dina Zarif and food for purchase by
-  Reem’s.
+  documentary film *We Are Not Princesses* that highlight the untold stories of
+  Syrian refugees, along with music by Dina Zarif. Food for purchase by Reem’s
+  Kitchen available in the lobby.
+background: https://ucarecdn.com/78a62ce9-9b44-4601-8730-368ef2d1807e/
+program: https://ucarecdn.com/4e383d37-85f1-4627-b67f-5d7051254f67/
 featuring: Reem Assil, Sara Maamouri, Amelia Romano, Nora el Samahy, and Dina Zarif
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco
@@ -97,7 +99,7 @@ cast:
 photos:
   heading: Photos
 bottom:
-  heading: Sponsors
+  heading: ""
   logos:
     - image: https://ucarecdn.com/694473c7-fe04-4195-8f3c-80af4934cd92/
     - image: https://ucarecdn.com/89d8b957-e16e-4d2d-b3a2-33376c2a049e/
