@@ -4,7 +4,7 @@ pre: Fairytale Players Present
 season: 2014
 date: 2015-02-15T08:26:00.000Z
 start: 2014-03-15T08:26:00.000Z
-end: 2015-03-15T08:26:00.000Z
+end: 2014-11-15T09:26:00.000Z
 heading: Have you prepared your Haft-seen?
 description: Celebrate Nowruz, the ancient Iranian rite of spring with Golden
   Thread Fairytale Players latest offering. A fun-filled and adventurous
@@ -31,10 +31,14 @@ lists:
           especially impactful on my students, since one of them was leaving for
           Afghanistan the following day and was not aware of her family
           traditions." -McGill School, Redwood City'
+        itemstart: 2021-05-14T21:54:17.828Z
+        itemend: 2021-05-14T21:54:18.060Z
       - text: '"The Golden Thread Fairytale Players program was excellent. The students
           enjoyed the ingenious way the actors changed their parts. The kids
           went around mimicking the actors for days, especially the older
           woman." -Hawes School, Redwood City'
+        itemstart: 2021-05-14T21:54:18.159Z
+        itemend: 2021-05-14T21:54:18.261Z
     heading: Testimonials
 cast:
   items:
