@@ -6,6 +6,16 @@ start: 1999-08-04T20:42:00.000Z
 end: 1999-08-28T20:42:00.000Z
 heading: A collection of contemporary works ranging from parody to profound
   exploring love, death, revolution and other trivial pursuits.
+description: >-
+  Golden Thread Productions' Festival of One-Acts will present six short works
+  by authors from, or on themes concerning, the Middle East. Most of the
+  productions will be premieres of original plays developed by the company,
+  however, Bay Area theatre lovers will recognize Emily Shihadeh’s *Grapes and
+  Figs are in Season* which has previously toured the Bay Area to remarkable
+  reviews. 
+
+
+  This unusual festival, perhaps the first of its kind in the US, will run in repertory for four weeks in August at the Exit Theatre in San Francisco. Golden Thread Productions, which defines its connection to the Middle East expansively and inclusively, is made up of artists from all parts of the globe.
 stage: Exit Theatre, San Francisco
 lists:
   - heading: "Series 1: Wednesday and Friday evenings"
