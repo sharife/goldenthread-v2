@@ -68,6 +68,10 @@ lists:
         subtitle: Written by Torange Yeghiazarian. Directed by Manijeh Mohamedi
         title: Publicly Resting
         image: https://ucarecdn.com/74f56718-6e78-4205-bb13-e8b13ee372c0/
+        text: A public men's room of an airport becomes the unexpected setting for a
+          suicide and a secret triste. This world premiere dark comedy is all
+          about not getting what you want and the lengths to which we go to
+          change our circumstances.
   - heading: "Series 2: Thursday and Saturday evenings"
     items:
       - itemstart: 2021-05-14T20:50:28.205Z
