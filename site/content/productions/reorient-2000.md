@@ -10,7 +10,7 @@ heading: From fantastic to poignantly real, steeped in music and drama, this
 description: A new collection of works written by playwrights from, or on themes
   concerning, the Middle East.
 background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497x247/0,0/-/preview/
-titleimage: https://ucarecdn.com/12079d8e-f5a8-42ab-921c-c63abb3a3ed5/
+titleimage: https://ucarecdn.com/ac4f00a2-2c5b-424b-95b0-58e94e2c46e6/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 featuring: Stephanie Carwin, Rachel Christopherson, Vida Ghahremani, Michael
