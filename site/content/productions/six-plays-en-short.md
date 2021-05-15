@@ -24,6 +24,10 @@ director: Laura Chakravarty Box, Carl Eye, Manijeh Mohamedi, Victoria Rue,
 featuring: Laura Chakravarty Box, Adam Chipkin, Melissa Culross, Ali Dadgar,
   Greg Denzler, Amahl Khouri, Cec Levinson, Lindsay Martell, Eric Rice, Emily
   Shihadeh, Howard Squires
+designteam: "Bert van Aalsberg (scenic), Alex Lopez (lighting), Silvia Matheus
+  (sound), Pretti Ranadive (graphic) "
+dramaturg: Laura Chakravarty Box
+additional: Soundscape for "The Gangrene" designed by Joseph Cronin
 stage: Exit Theatre, San Francisco
 lists:
   - heading: "Series 1: Wednesday and Friday evenings"
