@@ -54,6 +54,15 @@ lists:
         title: I Am Not A Serial Killer
         subtitle: |
           Written by Caveh Zahedi. Directed by Torange Yeghiazarian
+        image: https://ucarecdn.com/17aefb80-ae2f-4505-a73e-e07311bc4eae/
+        text: >-
+          There is more repetition in our lives than we would like to admit. We
+          crave it, count on it, hope for it. When it comes to matters of the
+          heart, we all hope to meet the “right person” in one of our
+          repetitious cycles. And when we do… then what?
+
+
+          Caveh Zahedi is an independent filmmaker of Iranian descent. His most recent feature, I Don't Hate Las Vegas Anymore, won the critics prize at the Rotterdam Film Festival. With Greg Watkins, he also co-wrote, co-directed, and acted in A Little Stiff.
       - itemstart: 2021-05-14T20:49:10.729Z
         itemend: 2021-05-14T20:49:10.761Z
         subtitle: Written by Torange Yeghiazarian. Directed by Manijeh Mohamedi
