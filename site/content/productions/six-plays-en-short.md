@@ -72,12 +72,29 @@ lists:
           suicide and a secret triste. This world premiere dark comedy is all
           about not getting what you want and the lengths to which we go to
           change our circumstances.
+        pre: World Premiere
   - heading: "Series 2: Thursday and Saturday evenings"
     items:
       - itemstart: 2021-05-14T20:50:28.205Z
         itemend: 2021-05-14T20:50:28.244Z
         title: The Gangrene
         subtitle: Text developed by Laura Chakravarty Box. Directed by Carl Eye
+        pre: World Premiere
+        image: https://ucarecdn.com/1418e3c1-3220-4e09-aa2d-23881cd5df2c/
+        text: >-
+          The text for *The Gangrene* was drawn verbatim from the following
+          sources, and is used with the kind permission of the publishers
+          listed:
+
+          *The Gangrene*, edited by Lyle Stuart and translated by Robert Silvers, Copyright (c) 1960. Courtesy of Les Éditions de Minuit.
+
+          "'Hassiba Ben Bouali, If You Could See Our Algeria': Women in Public Space in Algeria," written by Susan Slyomovics, in Arab Women: Between Defiance and Restraint, edited by Suha Sabbagh. Copyright (c) 1996. Courtesy of the author.
+
+          "Middle Eastern Muslim Women Speak", edited by Elizabeth Warnock Fernea and Basima Qattan Bezirgan, Copyright ©1977. Courtesy of the University of Texas Press.
+
+          "S.O.S. Algeria: Women's Human Rights Under Seige," written by Karima Bennoune, in Faith and Freedom: Women's Human Rights in the Muslim World, edited by Mahnaz Afkhami, Copyright (c) 1995. Courtesy of I.B.Tauris & Co Ltd.
+
+          WRETCHED OF THE EARTH by Frantz Fanon. Used through arrangement with Georges Borchardt, Inc. Copyright (c) 1963by Presence Africaine and copyright (c) 1961 by Francois Maspero editeur S.A.R.L. All rights reserved.
       - itemstart: 2021-05-14T20:50:47.708Z
         itemend: 2021-05-14T20:50:47.746Z
         title: The Revolution Never Ended
