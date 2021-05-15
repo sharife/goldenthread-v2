@@ -99,6 +99,13 @@ lists:
         itemend: 2021-05-14T20:50:47.746Z
         title: The Revolution Never Ended
         subtitle: Written by Tina Ehsanipour. Directed by Torange Yeghiazarian
+        pre: World Premiere
+        image: https://ucarecdn.com/a6387e00-b8e6-482d-833b-8115c5deff2f/
+        text: Revolution has many faces. For those of us who are cast into a
+          "borderland" identity as a result, its face take on a very personal
+          rather than just political shape. This piece hopes to share that while
+          revolution can at first be damaging, it also has the potential to
+          empower us and strengthen our sense of self.
       - itemstart: 2021-05-14T20:51:15.229Z
         itemend: 2021-05-14T20:51:15.265Z
         title: Grapes And Figs Are In Season, A Palestinian Woman’s Story
