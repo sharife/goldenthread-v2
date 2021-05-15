@@ -28,7 +28,8 @@ designteam: "Bert van Aalsberg (scenic), Alex Lopez (lighting), Silvia Matheus
   (sound), Pretti Ranadive (graphic) "
 dramaturg: Laura Chakravarty Box
 additional: Soundscape for "The Gangrene" designed by Joseph Cronin
-stage: Exit Theatre, San Francisco
+stage: Exit Theatre
+address: 156 Eddy Street, San Francisco
 lists:
   - heading: "Series 1: Wednesday and Friday evenings"
     items:
