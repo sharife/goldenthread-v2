@@ -36,8 +36,19 @@ lists:
       - itemstart: 2021-05-14T20:47:47.769Z
         itemend: 2021-05-14T20:47:47.798Z
         title: Rimm, the Gazelle
-        text: ""
+        text: >-
+          *Rimm, la gazelle* was first performed in December 1992 at the Théâtre
+          de la Tête Noire in Saran, France by Compagnie Trait pour Trait
+          D'Orléans. It was reprised at the Festival Avignon-off in July, 1993,
+          with Franςoise Tixier in the title role. Copyright (c) 1993 by
+          Éditións des Quatre-Vents. Used by courtesy of the author.
+
+
+          *Rimm, the Gazelle* is part of an unofficial quasi-autobiographical trilogy by Fatima Gallaire that includes another one-woman one-act, A Burn on the Heart, and also Gallaire’s most famous full-length tragedy, Princesses. In sum, the three plays pay tribute to her family and explore the process
+
+          of dislocation through time and space that accompanies migration. Rimm is going home to Algeria after living for years in France, but can home ever be the place one expects it to be?
         subtitle: Written by Fatima Gallaire. Directed by Laura Chakravarty Box
+        image: https://ucarecdn.com/89796b47-f3b3-445e-a2e5-0dd32d27e7c2/
       - itemstart: 2021-05-14T20:48:39.470Z
         itemend: 2021-05-14T20:48:39.501Z
         title: I Am Not A Serial Killer
