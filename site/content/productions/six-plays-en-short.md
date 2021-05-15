@@ -123,5 +123,30 @@ lists:
           addressed to her mother, the audience will share some of the
           challenges Emily faced coming to a new country trying to understand
           the people and their rules.
+photos:
+  heading: Production Photos
+  items:
+    - image: https://ucarecdn.com/9e971bab-599e-4068-b298-32c6d4a6d06e/
+    - image: https://ucarecdn.com/930c6c00-d86d-4252-8d03-ee709f8d55e1/
+    - image: https://ucarecdn.com/2d6f656c-3990-4fd4-8e7f-994f1fa27b5f/
+    - image: https://ucarecdn.com/7919f8db-ad5b-4bba-a52a-a13c85d1d170/
+    - image: https://ucarecdn.com/d83e5256-4a75-47b6-8cf0-fd79bd987164/
+    - image: https://ucarecdn.com/cc535ee2-2f72-484c-ab1a-4e89a656e301/
+photos2:
+  heading: Cast & Crew Backstage
+  items:
+    - image: https://ucarecdn.com/9f5541f5-f2c5-48bf-bba4-417f565f33af/
+    - image: https://ucarecdn.com/658806cc-ace1-4e31-a9ab-c22193347e65/
+    - image: https://ucarecdn.com/8b9ad923-fd60-4217-afff-c820b4cbf818/
+    - image: https://ucarecdn.com/9ccf42f4-ae37-47f4-8f18-abdbceac1aa2/
+    - image: https://ucarecdn.com/22d51ab4-af85-435f-a792-20a2354684a2/
+    - image: https://ucarecdn.com/313e4f21-884c-440a-ba66-f45fb1e1652b/
+bottom:
+  text: >-
+    California Arts Council, Zellerbach Family Foundation, the Walter & Elise
+    Haas Fund. 
+
+
+    Golden Thread Productions is a fiscally sponsored project of the Intersection for the Arts.
 ---
 In organizing Six Plays- en Short we wanted to explore the political, the sensual, and the absurd. We reached out to local writers and performers, and were delighted to find so many wanting to join us on this adventure. Out of the six works presented in the two series, five are premiers. This is at once challenging and rewarding. At Golden Thread, we have come to understand our role as facilitators. This festival is our first attempt at bringing together a collection of contemporary works that explore what it means to be “from the Middle East.” The baggage we carry is ever present in our work, no matter how subtly.
