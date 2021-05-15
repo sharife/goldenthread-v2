@@ -124,4 +124,4 @@ lists:
           challenges Emily faced coming to a new country trying to understand
           the people and their rules.
 ---
-Body description here...
+In organizing Six Plays- en Short we wanted to explore the political, the sensual, and the absurd. We reached out to local writers and performers, and were delighted to find so many wanting to join us on this adventure. Out of the six works presented in the two series, five are premiers. This is at once challenging and rewarding. At Golden Thread, we have come to understand our role as facilitators. This festival is our first attempt at bringing together a collection of contemporary works that explore what it means to be “from the Middle East.” The baggage we carry is ever present in our work, no matter how subtly.
