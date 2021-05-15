@@ -16,6 +16,14 @@ description: >-
 
 
   This unusual festival, perhaps the first of its kind in the US, will run in repertory for four weeks in August at the Exit Theatre in San Francisco. Golden Thread Productions, which defines its connection to the Middle East expansively and inclusively, is made up of artists from all parts of the globe.
+background: https://ucarecdn.com/027c2d3f-b4c9-48b8-acc9-e4d7f330baf9/-/crop/829x520/0,0/-/preview/
+titleimage: https://ucarecdn.com/642ac991-e03f-4b3b-bd91-d4b746ca6712/
+program: https://ucarecdn.com/b5eb1f56-9f06-419c-825c-6ea0703f4efc/
+director: Laura Chakravarty Box, Carl Eye, Manijeh Mohamedi, Victoria Rue,
+  Torange Yeghiazarian
+featuring: Laura Chakravarty Box, Adam Chipkin, Melissa Culross, Ali Dadgar,
+  Greg Denzler, Amahl Khouri, Cec Levinson, Lindsay Martell, Eric Rice, Emily
+  Shihadeh, Howard Squires
 stage: Exit Theatre, San Francisco
 lists:
   - heading: "Series 1: Wednesday and Friday evenings"
