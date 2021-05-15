@@ -62,11 +62,12 @@ lists:
           repetitious cycles. And when we do… then what?
 
 
-          Caveh Zahedi is an independent filmmaker of Iranian descent. His most recent feature, I Don't Hate Las Vegas Anymore, won the critics prize at the Rotterdam Film Festival. With Greg Watkins, he also co-wrote, co-directed, and acted in A Little Stiff.
+          Caveh Zahedi is an independent filmmaker of Iranian descent. His most recent feature, I Don't Hate Las Vegas Anymore, won the critics prize at the Rotterdam Film Festival. With Greg Watkins, he also co-wrote, co-directed, and acted in *A Little Stiff*.
       - itemstart: 2021-05-14T20:49:10.729Z
         itemend: 2021-05-14T20:49:10.761Z
         subtitle: Written by Torange Yeghiazarian. Directed by Manijeh Mohamedi
         title: Publicly Resting
+        image: https://ucarecdn.com/74f56718-6e78-4205-bb13-e8b13ee372c0/
   - heading: "Series 2: Thursday and Saturday evenings"
     items:
       - itemstart: 2021-05-14T20:50:28.205Z
