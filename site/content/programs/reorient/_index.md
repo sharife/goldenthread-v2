@@ -24,40 +24,31 @@ sidebar:
   text: >-
     [ReOrient 2019](https://goldenthread.org/productions/reorient-2019/)\
 
-    [ReOrient 2017](https://www.goldenthread.org/2017-season/reorient2017)\
+    [ReOrient 2017](https://goldenthread.org/productions/reorient-2017/)\
 
-    [ReOrient 2015](https://www.goldenthread.org/reorient2015)\
+    [ReOrient 2015](https://goldenthread.org/productions/reorient-2015/)\
 
-    [ReOrient
-    2012](https://www.goldenthread.org/programs/reorient-festival-2012/)\
+    [ReOrient 2012](https://goldenthread.org/productions/reorient-2012/)\
 
-    [ReOrient 2009](https://www.goldenthread.org/0809/reorient09.htm)\
+    [ReOrient 2009](https://goldenthread.org/productions/reorient-2009/)\
 
-    [ReOrient 2007-08](https://www.goldenthread.org/0708/reorient2008.htm)\
+    [ReOrient 2007-08](https://goldenthread.org/productions/reorient-2007-08/)\
 
-    [ReOrient
-    2006](https://www.goldenthread.org/oldsite/content/past_prod_reo_06.html)\
+    [ReOrient 2006](https://www.goldenthread.org/oldsite/content/past_prod_reo_06.html)\
 
-    [ReOrient
-    2005](https://www.goldenthread.org/oldsite/content/past_prod_reo_05.html)\
+    [ReOrient 2005](https://goldenthread.org/productions/reorient-2005/)\
 
-    [ReOrient
-    2004](https://www.goldenthread.org/oldsite/content/past_prod_reo_04.html)\
+    [ReOrient 2004](https://goldenthread.org/productions/reorient-2004/)\
 
-    [ReOrient
-    2003](https://www.goldenthread.org/oldsite/content/past_prod_reo_03.html)\
+    [ReOrient 2003](https://goldenthread.org/productions/reorient-2003/)\
 
-    [ReOrient
-    2002](https://www.goldenthread.org/oldsite/content/past_prod_reo_02.html)\
+    [ReOrient 2002](https://goldenthread.org/productions/reorient-2002/)\
 
-    [ReOrient
-    2001](https://www.goldenthread.org/oldsite/content/past_prod_reo_01.html)\
+    [ReOrient 2001](https://goldenthread.org/productions/reorient-2001/)\
 
-    [ReOrient
-    2000](https://www.goldenthread.org/oldsite/content/past_prod_reo.html)\
+    [ReOrient 2000](https://goldenthread.org/productions/reorient-2000/)\
 
-    [Six Plays - en short
-    1999](https://www.goldenthread.org/oldsite/content/past_prod_spes.html)
+    [Six Plays - en short 1999](https://goldenthread.org/productions/six-plays-en-short/)
 grids:
   - heading: Videos
     items:
