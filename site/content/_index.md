@@ -6,19 +6,17 @@ background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
 cta: Watch the Anniversary Video!
 link: https://youtu.be/wIdjVb91HBM
 items:
-  - image: https://ucarecdn.com/7da6584f-a3cb-495d-b3d2-e293284e260e/
-    subtitle: Golden Thread introduces 4 commissioned playwrights!
+  - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
+    subtitle: Stream Golden Classics for a Limited Time!
     cta: Click to Learn More!
     link: https://goldenthread.org/posts/four-arab-playwrights-respond-to-the-now/
     text: >-
-      We are thrilled to commission four playwrights of Arab heritage to write
-      new plays responding to the pandemic and the call for social justice. Join
-      us in congratulating  **Hassan Abdulrazzak**, **Tariq Hamami**, **Hannah
-      Khalil**, and **Mona Mansour**! Each playwright is sponsored by an
-      individual community member and will share updates about the development
-      of the work with their sponsor. This is yet another example of Golden
-      Thread’s commitment to our artists and to engaging the community in the
-      creative process.
+      As part of our 25th Anniversary celebration, we are thrilled to screen
+      three productions from Golden Thread’s vintage collection. The three plays
+      in Golden Classics Streaming Exclusive offer a glimpse into the early
+      years of Golden Thread. These three videos from our archives are only
+      streaming for a **very limited time** so get your tickets now for this
+      rare chance to experience history-in-the-making!
 
 
       ***Find Out More Below!***
