@@ -18,7 +18,7 @@ June 7-13, 2021
 
 ### Operation No Penetration: Lysistrata 97!
 
-#### An outrageous comedy about sex and war adapted and directed by Torange Yeghiazarian from Kenneth Mc Liesh’s translation of Aristophanes' Lysistrata
+###### An outrageous comedy about sex and war adapted and directed by Torange Yeghiazarian from Kenneth Mc Liesh’s translation of Aristophanes' Lysistrata
 
 <!--EndFragment-->
 
@@ -31,5 +31,25 @@ References to: Gendered violence, oppression.
  THE ORIGINAL PLAY: Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies. It followed shortly on a disastrous phase of Athens’s war with Sparta. Many of Aristophanes plays use a utopian premise to criticize war. Lysistrata addresses the politics of its time in a variety of ways. Lampooning the politicians of the time and Athens’s expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand. Aristophanes was a master at highlighting social hypocrisies. But at the same time the play is by no means "feminist" in its approach. Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
 
  THE ADAPTATION: To fully reap the sows of Aristophanes political commentary, a contemporary adaptation needs to address the politics of its own time. Certainly the role of women in our society has changed, albeit slightly!, from Aristophanes' era. This cannot be ignored. War remains, but the players are different. The United States may be the Athens of today; the global leader, economically and militarily. This adaptation focuses on the relationship between the US and the Middle East. Islamic Fundamentalism is currently being thrown around as the one remaining enemy, the force that threatens "Democracy" in the world today. In this production Iran is being presented as a background player, with Palestine and Israel as the main warring parties. The play is really designed to speak directly to its audience, however. And since it is being produced in the US, it seems important to set the play in the US as well. In this production, the Jewish-American Lysistrata along with the Palestinian-American Kalonike, unite women from around the world, including the Iranian Lampito, to join in on a global sex strike in order to force men to stop war and sign the World Peace treaty. The play attempts to emphasize the global nature of war in our time and the need for a global peace settlement.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+June 14-20, 2021
+
+### Nine Armenians
+
+###### by Leslie Ayvazian, directed by Torange Yeghiazarian
+
+###### Winner of Roger L. Stevens and the Susan Smith Blackburn Award
+
+###### An Armenian-American family’s journey towards accepting the past and embracing the future.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+In this award-wining play, Leslie Ayvazian has beautifully depicted the reality of facing a horrific past without shame or fear. The grand parents in the play are survivors of the Armenian Genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grand father is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
 
 <!--EndFragment-->
