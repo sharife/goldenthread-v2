@@ -74,8 +74,6 @@ Satirical depictions of: War, addiction.
 
 References to: Deportation, displacement, family separation, crude language and bathroom humor.
 
- 
-
 *Love Missile* is a fusion of traditional American musical with Middle Eastern undertones as well as fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, the prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives. Ultimately, they find importing the goods is the only option and as it turns out, Distancia has the best goods. The dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President leaving him no alternative but to attack – with Love, a drug developed by Dr. Z and Sharifa that induces universal love. But is Love really all we need? A surreal tale of passion, greed, denial and longing involving unnamable body fluids and orifice.
 
 <!--EndFragment-->
