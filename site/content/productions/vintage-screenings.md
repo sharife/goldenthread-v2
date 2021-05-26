@@ -31,6 +31,14 @@ lists:
           **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Feguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
 
 
+          **Content Advisory:** Satirical depictions of misogyny, sexual coercion, and harassment.
+
+          References to gendered violence and oppression.
+
+
+          [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
           [Learn More](https://goldenthread.org/productions/operation-no-penetration/) about the original production.
         itemstart: 2021-06-07T07:00:00.000Z
         cta: Buy Tickets
@@ -59,6 +67,14 @@ lists:
 
 
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, *Listen to My Heart*, by Datevik Hovanessian.
+
+
+          **Content Advisory:** Realistic depictions of memory loss, aging, and loss/grief.
+
+          References to Armenian genocide, intergenerational trauma, poverty and oppression. 
+
+
+          [Read More](https://goldenthread.org/posts/content-guide/) content information.
 
 
           [Learn More](https://goldenthread.org/productions/nine-armenians/) about the original production.
@@ -98,6 +114,14 @@ lists:
 
 
           **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
+
+
+          **Content Advisory:** Satirical depictions of war and addiction.
+
+          References to deportation, displacement, family separation, crude language and bathroom humor.
+
+
+          [Read More](https://goldenthread.org/posts/content-guide/) content information.
 
 
           [Learn More](https://goldenthread.org/productions/the-love-missile/) about the original production.
