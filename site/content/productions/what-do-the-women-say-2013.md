@@ -67,9 +67,9 @@ cast:
         "www.therealtrubloo.com")'
       image: https://ucarecdn.com/5c92359d-b975-496c-9fb9-32de82f4f6b3/
 bottom:
-  text: WomenArts
+  text: ""
   logos:
-    - {}
+    - image: https://ucarecdn.com/c7050a1a-255e-493f-ad5f-58e5ec5efc97/
 ---
 ***Lubbock or Leave It!*** is the story of Iranian New Yorker Leyla when she accepts a job teaching college in the most conservative town in the US: Lubbock, Texas! Set against a backdrop of American fundamentalism, Leyla and her canine cohort Daisy (played by a hand puppet) learn some hard lessons about xenophobia, nationalism, and dislocation.
 
