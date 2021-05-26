@@ -6,10 +6,11 @@ date: 1999-02-07T12:18:00.000Z
 start: 1999-03-08T03:00:00.000Z
 end: ""
 heading: A multimedia performance event in celebration of the International Women's Day.
-description: Golden Thread Productions is pleased to present an original
-  multimedia performance collaboratively created by Taraneh Hemami, Antonia
-  Smits, Termeh Dimi Yeghiazarian, Torange Yeghiazarian, and the participants of
-  Golden Thread Productions' Acting Workshop led by Antonia Smits.
+description: Golden Thread Productions is pleased to celebrate the International
+  Women's Day with an original multimedia performance collaboratively created by
+  Taraneh Hemami, Antonia Smits, Termeh Dimi Yeghiazarian, Torange Yeghiazarian,
+  and the participants of Golden Thread Productions' Acting Workshop led by
+  Antonia Smits.
 background: https://ucarecdn.com/8714fe13-03a2-412f-b2c1-8e0276fd7a1c/
 titleimage: https://ucarecdn.com/9cd3b8ec-f6e0-4976-98fa-c369ba08ee13/
 stage: Open Art Circle
@@ -36,7 +37,15 @@ cast:
         collaboration with the SF Mime Troupe.
 photos:
   items:
-    - image: https://ucarecdn.com/510a306d-d818-4cf3-a4a4-d072ae2fd877/
+    - image: https://ucarecdn.com/139dcf98-cefd-48fb-ab41-5aecbd1e3639/
+    - image: https://ucarecdn.com/d9e364fb-3794-419b-8034-2ca39123c756/
+    - image: https://ucarecdn.com/e9f038ea-fcf9-43ad-b2f7-f4befe50b506/
+    - image: https://ucarecdn.com/ed301d1e-dd26-4efe-bfdc-3f711f2c21ac/
+    - image: https://ucarecdn.com/31d22914-61a3-4efa-aaa5-a5793d2e6f3c/
+    - image: https://ucarecdn.com/6826fa79-2b43-4c1a-8b7a-4249f170b8c9/
+    - image: https://ucarecdn.com/508e12a6-f829-4478-9b8b-71e063959c0f/
+    - image: https://ucarecdn.com/669671e9-e7d2-4716-8b48-973396a5e59a/
+    - image: https://ucarecdn.com/7da10da3-2f8a-4f31-93f9-3ade108ea942/
 bottom:
   text: California Arts Council, The Clorox Foundation
 ---
