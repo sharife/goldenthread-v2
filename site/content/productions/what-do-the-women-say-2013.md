@@ -13,6 +13,8 @@ description: "**San Francisco Bay Area** –Through comedy and satire, three wo
   the Olive Oil Warrior.* Bay Area hip hop artist, Tru Bloo will perform poetry
   from the recently published anthology, Al-Mutanabbi Street Starts Here, a
   tribute to Baghdad’s famous Bookseller’s Street."
+background: https://ucarecdn.com/151aa9cd-6bb1-4dae-a436-e69cb3bb2082/
+titleimage: https://ucarecdn.com/de2bcacb-c313-4a3c-b023-5e96b7e85225/
 featuring: Leyla Modirzadeh, Kathryn Haddad, and Tru Bloo
 stage: La Peña Cultural Center
 address: 3105 Shattuck Ave. Berkeley, CA
