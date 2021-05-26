@@ -20,6 +20,9 @@ lists:
           **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Ferguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
 
 
+          **Content Advisory:** Satirical depictions of misogyny, sexual coercion, harassment. References to gendered violence, oppression. [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
           **Available for Streaming June 7-13, 2021** 
 
 
@@ -59,6 +62,9 @@ lists:
           **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, Listen to My Heart, by Datevik Hovanessian.
 
 
+          **Content Advisory:** Realistic depictions of memory loss, aging, and loss/grief. References to Armenian genocide, intergenerational trauma, poverty and oppression. [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
           **Available for Streaming June 14-20, 2021**
 
 
@@ -92,7 +98,10 @@ lists:
           \*Appearing courtesy of Actors' Equity Association
 
 
-          **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian. 
+          **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
+
+
+          **Content Advisory:** Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor. [Read More](https://goldenthread.org/posts/content-guide/) content information.
 
 
           **Available for Streaming June 21-27, 2021**
