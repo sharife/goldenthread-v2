@@ -9,7 +9,7 @@ items:
   - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
     subtitle: Stream Golden Classics for a Limited Time!
     cta: Click to Learn More!
-    link: https://goldenthread.org/posts/four-arab-playwrights-respond-to-the-now/
+    link: https://goldenthread.org/productions/vintage-screenings/
     text: >-
       As part of our 25th Anniversary celebration, we are thrilled to screen
       three productions from Golden Thread’s vintage collection. The three plays
