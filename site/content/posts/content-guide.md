@@ -13,7 +13,9 @@ June 7-13, 2021
 
 ### Operation No Penetration: Lysistrata 97!
 
-An outrageous comedy about sex and war, adapted and directed by Torange Yeghiazarian from Kenneth McLiesh's translation of Aristophanes' Lysistrata.
+##### Adapted and directed by Torange Yeghiazarian from Kenneth McLiesh's translation of Aristophanes' Lysistrata
+
+An outrageous comedy about sex and war.
 
 **Content Advisory: Satirical depictions of misogyny, sexual coercion, and harassment. References to gendered violence and oppression.**
 
@@ -25,7 +27,7 @@ June 14-20, 2021
 
 ### Nine Armenians
 
-###### by Leslie Ayvazian, directed by Torange Yeghiazarian. Winner of Roger L. Stevens and the Susan Smith Blackburn Award
+##### by Leslie Ayvazian, directed by Torange Yeghiazarian. Winner of Roger L. Stevens and the Susan Smith Blackburn Award
 
 An Armenian-American family's journey towards accepting the past and embracing the future.
 
@@ -37,7 +39,7 @@ June 21-27, 2021
 
 ### Love Missile
 
-#### An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura, Torange Yeghiazarian, and directed by Norman Gee
+##### An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura, Torange Yeghiazarian, and directed by Norman Gee
 
 A surreal tale of passion, greed, denial and longing involving unspeakable bodily functions.
 
