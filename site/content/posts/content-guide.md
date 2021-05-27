@@ -21,7 +21,7 @@ June 7-13, 2021
 
 <!--StartFragment-->
 
-**Content Advisory: Satirical depictions of misogyny, sexual coercion, and harassment. References to gendered violence, oppression.**
+**Content Advisory: Satirical depictions of misogyny, sexual coercion, and harassment. References to gendered violence and oppression.**
 
 THE ORIGINAL PLAY: Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies. It followed shortly on a disastrous phase of Athens’s war with Sparta. Many of Aristophanes plays use a utopian premise to criticize war. Lysistrata addresses the politics of its time in a variety of ways. Lampooning the politicians of the time and Athens’s expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand. Aristophanes was a master at highlighting social hypocrisies. But at the same time the play is by no means "feminist" in its approach. Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
 
