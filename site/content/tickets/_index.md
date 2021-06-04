@@ -119,7 +119,19 @@ lists:
           Closed captioning is available.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
-  - {}
+  - items:
+      - title: "Golden Classics: Wrap Party"
+        text: >-
+          We're wrapping up our Golden Classics Streaming Exclusive: Vintage
+          Videos from the Vault with a virtual party and community celebration!
+
+
+          Join us for a look back at our formative years and meet some of the seminal artists who have enabled Golden Thread's successful 25-year legacy!
+
+
+          Admission is free, but space is limited. Please register in advance to attend.
+        cta: Register
+        link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events/a0S3Z000007XapvUAC
 ---
 - - -
 
