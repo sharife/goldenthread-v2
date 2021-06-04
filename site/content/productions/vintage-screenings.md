@@ -38,6 +38,9 @@ lists:
 
 
           [Learn More](https://goldenthread.org/productions/operation-no-penetration/) about the original production.
+
+
+          Closed captioning is available.
         itemstart: 2021-06-07T07:00:00.000Z
         cta: Buy Tickets
         subtitle: An outrageous comedy about sex and war adapted and directed by Torange
@@ -74,6 +77,9 @@ lists:
 
 
           [Learn More](https://goldenthread.org/productions/nine-armenians/) about the original production.
+
+
+          Closed captioning is available.
         itemstart: 2021-06-14T07:00:00.000Z
         cta: Buy Tickets
         subtitle: >-
@@ -119,6 +125,9 @@ lists:
 
 
           [Learn More](https://goldenthread.org/productions/the-love-missile/) about the original production.
+
+
+          Closed captioning is available.
         itemstart: 2021-04-16T16:46:45.346Z
         cta: Buy Tickets
         subtitle: An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura,
