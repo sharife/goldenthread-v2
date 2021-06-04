@@ -27,6 +27,9 @@ lists:
 
 
           Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
         title: "Golden Classics: Operation No Penetration: Lysistrata 97! "
         pre: Vintage Videos From Golden Thread’s Vault
         cta: Buy Tickets!
@@ -69,6 +72,9 @@ lists:
 
 
           Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XaonUAC
         image: https://ucarecdn.com/0e9c0c49-07ea-40b9-830c-f40925d737ac/
@@ -108,8 +114,12 @@ lists:
 
 
           Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
+  - {}
 ---
 - - -
 
