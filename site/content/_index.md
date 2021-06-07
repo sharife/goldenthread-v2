@@ -1,7 +1,7 @@
 ---
 title: Middle East Center Stage
-headline: 25 Years of Art, Activism, and Family
-subtitle: The next 25 years begins with you.
+headline: Vintage Videos from Our Vaults
+subtitle: Streaming to your home for a very limited time.
 background: https://ucarecdn.com/a6adce75-94d5-4206-bd5d-56eaf61757a7/
 cta: Watch These Golden Classics!
 link: https://goldenthread.org/productions/vintage-screenings/
