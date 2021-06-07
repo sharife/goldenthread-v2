@@ -2,9 +2,9 @@
 title: Middle East Center Stage
 headline: 25 Years of Art, Activism, and Family
 subtitle: The next 25 years begins with you.
-background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
-cta: Watch the Anniversary Video!
-link: https://youtu.be/wIdjVb91HBM
+background: https://ucarecdn.com/a6adce75-94d5-4206-bd5d-56eaf61757a7/
+cta: Watch These Golden Classics!
+link: https://goldenthread.org/productions/vintage-screenings/
 items:
   - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
     subtitle: Stream Golden Classics for a Limited Time!
