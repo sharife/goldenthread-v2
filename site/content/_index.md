@@ -1,8 +1,8 @@
 ---
 title: Middle East Center Stage
-headline: "Golden Classics: Videos from Our Vaults"
+headline: Vintage Videos from Our Vaults
 subtitle: Streaming to your home for a very limited time.
-background: https://ucarecdn.com/729b222d-5455-4009-958a-44cac772de7e/
+background: https://ucarecdn.com/58e1d054-1a97-4f50-aeab-2bdb11b11753/
 cta: Watch These Golden Classics!
 link: https://goldenthread.org/productions/vintage-screenings/
 items:
