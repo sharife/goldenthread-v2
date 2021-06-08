@@ -13,6 +13,8 @@ titleimage: https://ucarecdn.com/db61ede6-d7bc-4af0-bfa9-47981931ba7d/
 program: ""
 visitlink: none
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+ticketinfo: Tickets are available for Individuals, and for the first time a
+  Household watch pass! Click the Buy Ticket link to purchase tickets today!
 lists:
   - items:
       - pre: June 7-13, 2021
