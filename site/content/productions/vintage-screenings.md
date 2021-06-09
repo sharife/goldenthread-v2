@@ -151,7 +151,7 @@ lists:
 
 
           Admission is free, but space is limited. Please register in advance to attend.
-        cta: Register Today!
+        cta: Register
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events/a0S3Z000007XapvUAC
     heading: "Golden Classics: Vintage Videos from Golden Thread's Vault"
 cast:
