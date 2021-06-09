@@ -30,7 +30,7 @@ lists:
 
 
           Closed captioning is available.
-        title: "Golden Classics: Operation No Penetration: Lysistrata 97! "
+        title: "Golden Classics: Operation No Penetration, Lysistrata 97! "
         pre: Vintage Videos From Golden Thread’s Vault
         cta: Buy Tickets!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
