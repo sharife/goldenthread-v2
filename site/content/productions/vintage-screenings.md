@@ -49,7 +49,7 @@ lists:
         subtitle: An outrageous comedy about sex and war adapted and directed by Torange
           Yeghiazarian from Kenneth Mc Liesh's translation of Aristophanes'
           Lysistrata
-        title: "Operation No Penetration: Lysistrata 97!"
+        title: Operation No Penetration, Lysistrata 97!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
         image: https://ucarecdn.com/070b871f-4903-4300-baa6-99ff9b93ad28/
       - pre: June 14-20, 2021
