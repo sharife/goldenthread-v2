@@ -13,9 +13,8 @@ titleimage: https://ucarecdn.com/db61ede6-d7bc-4af0-bfa9-47981931ba7d/
 program: ""
 visitlink: none
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-ticketinfo: Tickets are available for $20 for Individuals, and for the first
-  time a $50 Household watch pass! Click the Buy Ticket link to purchase tickets
-  today!
+ticketinfo: Tickets are $20 for Individuals or $50 for the Household. Click the
+  Buy Ticket link to purchase tickets today!
 lists:
   - items:
       - pre: June 7-13, 2021
