@@ -138,6 +138,22 @@ lists:
         title: Love Missile
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
         image: https://ucarecdn.com/dc9d4388-9162-4d0b-8239-67c594a3c6ac/
+      - itemstart: 2021-06-09T17:15:07.011Z
+        itemend: 2021-06-09T17:15:07.097Z
+        title: Wrap Party!
+        pre: June 27, 2021 11am PDT
+        image: https://ucarecdn.com/9663fc4f-fd3a-4553-8b73-a7f3cc6f644c/
+        text: >-
+          We’re wrapping up our Golden Classics Streaming Exclusive: Vintage
+          Videos from the Vault with a virtual party and community celebration!
+
+
+          Join us for a look back at our formative years and meet some of the seminal artists who have enabled Golden Thread’s successful 25-year legacy!
+
+
+          Admission is free, but space is limited. Please register in advance to attend.
+        cta: Register Today!
+        link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events/a0S3Z000007XapvUAC
     heading: "Golden Classics: Vintage Videos from Golden Thread's Vault"
 cast:
   heading: " "
