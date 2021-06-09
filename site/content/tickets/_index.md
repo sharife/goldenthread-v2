@@ -132,6 +132,7 @@ lists:
           Admission is free, but space is limited. Please register in advance to attend.
         cta: Register
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events/a0S3Z000007XapvUAC
+        image: https://ucarecdn.com/01bf98ef-4044-4b1d-bfe0-676b5447eb02/
 ---
 - - -
 
