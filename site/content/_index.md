@@ -29,20 +29,19 @@ items:
       San Francisco to helm the now 25 year old production company beginning May
       3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
       and relocation to San Francisco below!"
-  - image: https://ucarecdn.com/04d59367-3e11-4870-9aa3-39690f3acbcd/
+  - image: https://ucarecdn.com/6a393ef4-a3c0-4a42-ae0a-427722811e23/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Meet Sahar Assaf, Golden Thread’s new Executive Artistic Director in
-      conversation with our Founder, Torange Yeghiazarian where they discuss the
-      company’s legacy and vision for the future. In April, Golden Thread
-      announced its leadership transition after 25 years under the helm of its
-      founder. What is it like for a pioneering organization to change
-      leadership? How does it feel to step in the shoes of a trailblazer? And
-      what is the new leader’s vision for the organization’s future? Tune in to
-      find out! 
+      Just in time for LGBTQIA+ Pride Month, A few of our community artivists
+      (artist-activists) will be having a kiki to discuss deviant theatrics!
+      They'll be talking about working as SWANA Queers in various American
+      theater scenes, and sharing what it takes to keep their artivists' bodies
+      and minds in tune. It's all about juggling the entertainment industry of
+      the Western and Eastern Hemispheres, with an LGBTQ+ spin.  Tune in to
+      celebrate our Queer Artist Family!
 
 
-      ***Don't miss the Livestream on May 28th, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on June 25th, 2021 @ 11AM PT!***
 ---
