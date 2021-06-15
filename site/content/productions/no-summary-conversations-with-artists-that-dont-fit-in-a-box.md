@@ -13,25 +13,18 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - pre: Up Next!
-        itemend: 2021-04-28T01:43:54.455Z
-        text: Meet Sahar Assaf, Golden Thread’s new Executive Artistic Director in
-          conversation with our Founder, Torange Yeghiazarian where they discuss
-          the company’s legacy and vision for the future. In April, Golden
-          Thread announced its leadership transition after 25 years under the
-          helm of its founder. What is it like for a pioneering organization to
-          change leadership? How does it feel to step in the shoes of a
-          trailblazer? And what is the new leader’s vision for the
-          organization’s future? Tune in to find out! Author, director, theatre
-          professor at University of Oregon, and leading specialist on Middle
-          Eastern and Middle Eastern American theatre, Michael Malek Najjar will
-          facilitate.
-        itemstart: 2021-04-28T01:43:54.427Z
-        cta: Click here to watch!
-        subtitle: Join us Friday, May 28th @ 11AM PDT!
-        title: Bridging the Past to a New Era
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-bridging-past-new-era
-        image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
+      - itemstart: 2021-06-15T06:56:39.901Z
+        itemend: 2021-06-15T06:56:39.928Z
+        pre: Up Next!
+        title: The SWANA Queer Imagination
+        subtitle: Join us Friday, June 25th @ 11AM PT!
+        image: https://ucarecdn.com/c8efc423-8166-478f-85f4-6776ec75aa9b/
+        text: Just in time for LGBTQIA+ Pride Month, a few of our community artivists
+          will be having a kiki to discuss deviant theatrics. They'll be talking
+          about working as SWANA Queers in various American theater scenes, and
+          sharing what it takes to keep their artivists' bodies and minds in
+          tune. It's all about juggling the entertainment industry of the
+          Western and Eastern Hemispheres, with an LGBTQ+ spin!
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -137,6 +130,25 @@ lists:
         title: Queering Our Middle Eastern Identities
         link: https://howlround.com/happenings/no-summary-queering-our-middle-eastern-identities
         image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
+      - pre: ""
+        itemend: 2021-04-28T01:43:54.455Z
+        text: Meet Sahar Assaf, Golden Thread’s new Executive Artistic Director in
+          conversation with our Founder, Torange Yeghiazarian where they discuss
+          the company’s legacy and vision for the future. In April, Golden
+          Thread announced its leadership transition after 25 years under the
+          helm of its founder. What is it like for a pioneering organization to
+          change leadership? How does it feel to step in the shoes of a
+          trailblazer? And what is the new leader’s vision for the
+          organization’s future? Tune in to find out! Author, director, theatre
+          professor at University of Oregon, and leading specialist on Middle
+          Eastern and Middle Eastern American theatre, Michael Malek Najjar will
+          facilitate.
+        itemstart: 2021-04-28T01:43:54.427Z
+        cta: Click here to watch!
+        subtitle: Join us Friday, May 28th @ 11AM PDT!
+        title: Bridging the Past to a New Era
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-bridging-past-new-era
+        image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
