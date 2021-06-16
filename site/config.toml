@@ -22,23 +22,23 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
+		identifier = "vintage-screenings"
+		name = "Golden Classics Streaming Exclusive"
+		url = "/productions/vintage-screenings/"
+		weight = 11
+
+		[[menu.primary]]
+		parent = "season"
 		identifier = "no-summary"
 		name = "No Summary"
 		url = "/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/"
-		weight = 11
+		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "what-do-the-women-say-p"
 		name = "What Do the Women Say? 2021"
-		url = "https://howlround.com/happenings/livestreaming-conversation-what-do-women-say-celebrating-25-years-centering-women"
-		weight = 12
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "the-language-of-wild-berries"
-		name = "The Language of Wild Berries"
-		url = "/productions/the-language-of-wild-berries-2021"
+		url = "/productions/what-do-the-women-say-2021/"
 		weight = 13
 
 		[[menu.primary]]

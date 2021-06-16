@@ -1,45 +1,47 @@
 ---
 title: Middle East Center Stage
-headline: 25 Years of Art, Activism, and Family
-subtitle: The next 25 years begins with you.
-background: https://ucarecdn.com/f5ad9bff-fa65-4a98-bc6a-3595ae0f9e8e/
-cta: DONATE NOW
-link: https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI
+headline: Vintage Videos from Our Vaults
+subtitle: Streaming to your home for a very limited time.
+background: https://ucarecdn.com/58e1d054-1a97-4f50-aeab-2bdb11b11753/-/crop/1000x340/0,60/-/preview/
+cta: Watch These Golden Classics!
+link: https://goldenthread.org/productions/vintage-screenings/
 items:
-  - image: https://ucarecdn.com/e6d1608f-4e5c-41ec-a6f3-40c516065ed0/
-    subtitle: "*The Language of Wild Berries* Debuts as a radio play!"
-    cta: Read More Now
-    link: /productions/the-language-of-wild-berries/
-    text: >-
-      We're thrilled to announce that Naghmeh Samini's play, translated and
-      directed by Torange Yeghiazarian, is Golden Thread's radio play debut! The
-      past, present, and future collide in the touching story of a couple’s
-      annual road trips to the Caspian Sea in this rare glimpse into the lives
-      of contemporary Iranians. 
-
-
-      ***Now released as a radio play: free to listen and share!***
-  - image: https://ucarecdn.com/ae9947bd-d39e-435b-88dd-2ad9a7f4c0b3/
-    subtitle: "*Leila's Quest for Flight* is now a radio play!"
+  - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
+    subtitle: Stream Golden Classics for a Limited Time!
     cta: Click to Learn More!
-    link: https://goldenthread.org/productions/leila/
-    text: After touring to forty Bay Area schools and libraries, our audience
-      favorite *Leila's Quest for Flight* is now a radio play releasing just in
-      time for the holiday season! Now available as a streamable podcast, this
-      inspirational story is free to access from the comfort of your home and to
-      share with loved ones near and far.
-  - image: https://ucarecdn.com/6a48ae34-b3ed-4fa5-8fdc-b20101d4383a/
+    link: https://goldenthread.org/productions/vintage-screenings/
+    text: >-
+      As part of our 25th Anniversary celebration, we are thrilled to screen
+      three productions from Golden Thread’s vintage collection. The three plays
+      in Golden Classics Streaming Exclusive offer a glimpse into the early
+      years of Golden Thread. These three videos from our archives are only
+      streaming for a **very limited time** so get your tickets now for this
+      rare chance to experience history-in-the-making!
+
+
+      ***Find Out More Below!***
+  - image: https://ucarecdn.com/e8d4be54-8531-41ac-8a81-9d6ddd868927/
+    subtitle: Meet Our New Executive Artistic Director **Sahar Assaf**!
+    cta: Click to Learn More!
+    link: https://goldenthread.org/posts/meet-sahar-assaf-our-new-executive-artistic-director
+    text: "**We are proud to announce that Sahar Assaf is our new Artistic
+      Director.** Following a global search, Sahar has relocated from Lebanon to
+      San Francisco to helm the now 25 year old production company beginning May
+      3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
+      and relocation to San Francisco below!"
+  - image: https://ucarecdn.com/6a393ef4-a3c0-4a42-ae0a-427722811e23/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
-    link: https://goldenthread.org/posts/no-summary-online-conversations-with-artists-the-dont-fit-in-a-box/
+    link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Join us for our next episode featuring longtime resident artists Evren
-      Odcikin and Nora el Samahy! They will discuss **championing Middle Eastern
-      stories** **and voices in mainstream American theater**, how artists can
-      be centered in this moment of transition for the field, and art-making
-      during a pandemic! Immerse yourself in these compelling topics and
-      histories that defy a snappy summation. 
+      Just in time for LGBTQIA+ Pride Month, A few of our community artivists
+      (artist-activists) will be having a kiki to discuss deviant theatrics!
+      They'll be talking about working as SWANA Queers in various American
+      theater scenes, and sharing what it takes to keep their artivists' bodies
+      and minds in tune. It's all about juggling the entertainment industry of
+      the Western and Eastern Hemispheres, with an LGBTQ+ spin.  Tune in to
+      celebrate our Queer Artist Family!
 
 
-      ***Watch ALL of our archived episodes HERE!***
+      ***Don't miss the Livestream on June 25th, 2021 @ 11AM PT!***
 ---

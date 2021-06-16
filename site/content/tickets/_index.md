@@ -1,96 +1,144 @@
 ---
-title: Tickets
+title: Buy Tickets
 lists:
   - items:
-      - image: /img/SedefEcerByHasanDogan_1_small.jpg
-        subtitle: ''
+      - image: https://ucarecdn.com/41e3a94a-8fa5-498b-ad27-0db8cbc072ff/
+        subtitle: An outrageous comedy about sex and war adapted and directed by Torange
+          Yeghiazarian from Kenneth Mc Liesh’s translation of Aristophanes’
+          Lysistrata.
         text: >-
-          For the health and safety of our patrons and artists, we have cancelled the remainder of the run of *On the Periphery* in accordance with the [Governor's newly updated recommendations](https://www.gov.ca.gov/2020/03/11/california-public-health-experts-mass-gatherings-should-be-postponed-or-canceled-statewide-to-slow-the-spread-of-covid-19/) on COVID-19 (coronavirus), effective Saturday March 14.
-
-          Tickets may be exchanged for either company's fall show, refunded, or donated by contacting **<boxoffice@goldenthread.org>**.<hr />
-
-          In the first co-production between Golden Thread Productions and
-          Crowded Fire Theater, Sedef Ecer’s ***On the Periphery*** paints a
-          tender portrayal of the lives of social outcasts in Istanbul’s urban
-          slums mirroring the displacement, migration, and gentrification in the
-          Bay Area.
+          In 1997, a year after the Oslo Accords, this adaptation of the classic
+          Greek comedy unites Israeli and Palestinian women, supported by a
+          global movement, to launch a sex strike to force men to sign a peace
+          treaty. Staged at NEXT Stage in San Francisco, Operation No
+          Penetration is Golden Thread’s inaugural production.   
 
 
-          **February 23 - April 4, 2020** at Potrero Stage (1695 18th Street,
-          San Francisco)\
-
-          $50-38 General Admission | $28 Student/Senior 65+ | $20 1st and 2nd
-          Thursdays | $15 Previews
+          **Featuring:** *(in order of appearance)* Pamela Beitz, Bella Warda, Reema Bahnasy, Jennifer Darya Maghsoudi, Janet Acio, Maria Zamroud, Dylin Redling, Siamak Mirnezami, Clarence A Mitchell, Ali Dadgar, Greg Denzler, Von Scott Bair, Peter Mc Carron, Koorosh Angali. 
 
 
-          For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
-        title: On the Periphery
-      - image: /img/Panelists-964.jpg
+          **Design Team:** Veronica Arana (scenic), Vida Ghahremani (costumes), Jodie Ferguson (lighting). Dance choreography by Shahrzad Khorsandi. Fight choreography by Paul Sherman.
+
+
+          **Content Advisory:** Satirical depictions of misogyny, sexual coercion, harassment. References to gendered violence, oppression. [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
+          **Available for Streaming June 7-13, 2021** 
+
+
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
+        title: "Golden Classics: Operation No Penetration, Lysistrata 97! "
+        pre: Vintage Videos From Golden Thread’s Vault
+        cta: Buy Tickets!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XYpYUAW
+    heading: ""
+  - items:
+      - title: "Golden Classics: Nine Armenians"
+        pre: Vintage Videos From Golden Thread’s Vault
+        subtitle: >-
+          Nine Armenians by Leslie Ayvazian, directed by Torange Yeghiazarian.
+
+
+          Winner of Roger L. Stevens and the Susan Smith Blackburn Award.
+
+
+          An Armenian-American family's journey towards accepting the past and embracing the future.
         text: >-
-          **THIS EVENT HAS BEEN CANCELLED**<br />
-          Due to the release of aggressive new recommendations against COVID-19 from the SF Department of Public Health to cancel large community events, we have decided to cancel Sunday, March 8th's Women's Day event in the interest of public health. We will refund all tickets in full.<br /><hr />
-          Each year, Golden Thread celebrates International Women’s Day with
-          What Do the Women Say?, a curated evening showcasing the work of
-          leading Middle Eastern women artists. The 2020 theme is Power,
-          Privilege, and Agency: an artistic exploration of the 100th
-          anniversary of the passage of the 19th Amendment, guaranteeing and
-          protecting \[white] women’s constitutional right to vote in the U.S.
+          Nine Armenians is the story of three generations of Armenian-Americans
+          embracing the future by connecting with their history. In this
+          award-wining play, Leslie Ayvazian has beautifully depicted the
+          reality of facing a horrific past without shame or fear. Made possible
+          by tremendous support from the Bay Area’s Armenian community, Golden
+          Thread’s production was originally staged at the Magic Theater in
+          2002.
 
 
-          **March 8, 2020** at at Brava Theater Center (2781 24th Street, San
-          Francisco)\
+          **Featuring:** Atosa Babaoff*, Toby Brooks, Valerie de Jose*, Vida Ghahremani, Behzad Golemohammadi, Joe Higgins*, Earll Kingston*, Lara Palanjian, Ruby Unger*
 
-          $50-20 General Admission | $15 Student/Senior 65+
-        title: What Do the Women Say? 2020
-      - image: /img/HananeHajjAli_PointingAngry.jpg
+
+          \*Appearing courtesy of Actors' Equity Association
+
+
+          **Design Team:** Zara Houshmand (scenic), Rebecca Feller (costumes), Robert Ted Anderson (lighting), Saeed Ganji (sound), Homayoun Makui (graphic). Dramaturgy by Hal Gelb. Dance choreography by Carol Kazarian and Nadine Takvorian. Music consultant: Sarine Balian. Original music, Listen to My Heart, by Datevik Hovanessian.
+
+
+          **Content Advisory:** Realistic depictions of memory loss, aging, and loss/grief. References to Armenian genocide, intergenerational trauma, poverty and oppression. [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
+          **Available for Streaming June 14-20, 2021**
+
+
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
+        cta: Buy Tickets!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XaonUAC
+        image: https://ucarecdn.com/0e9c0c49-07ea-40b9-830c-f40925d737ac/
+  - items:
+      - title: "Golden Classics: Love Missile"
+        pre: Vintage Videos From Golden Thread’s Vault
+        subtitle: An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura,
+          Torange Yeghiazarian, and directed by Norman Gee.
+        image: https://ucarecdn.com/ec6654ff-03d3-456a-bff6-2e727ff6faae/
         text: >-
-          **THIS EVENT HAS BEEN CANCELLED**<br />
-          With broken hearts we must announce that we have cancelled our upcoming presentation of Hanane Hajj Ali's amazing one woman show, Jogging,﻿ in the interest of public health and in accordance with the extended shelter-in-place ordinance continuing through May 3rd. Tickets may be exchanged, refunded or donated by contact us by email at boxoffice@goldenthread.org.<br /><hr />
-          **Hanane Hajj Ali**, a fifty-something Lebanese actress and citizen,
-          exercises daily to avoid osteoporosis, obesity, and depression. As her
-          story intertwines with the city’s tumultuous history, Hajj Ali jogs
-          through Beirut revisiting dreams, desires, hopes, and
-          disillusionments. 
+          When a Godzilla attack interrupts the source of Shappa-Imageanna’s
+          addiction to consumer goods, the prominent scientist, Dr Z and his
+          newly arrived assistant Sharifa, a legal immigrant from Distancia,
+          work feverishly to find alternatives. The dictator of Distancia
+          rejects the generous offers made by Shappa-Imageanna’s President
+          leaving him no alternative but to attack – with Love, a drug developed
+          by Dr. Z and Sharifa that induces universal love. But is Love really
+          all we need? 
 
 
-          Acclaimed Lebanese writer and performer, Hajj Ali brings her one-woman
-          show to the Bay Area following her celebrated performances at the
-          Kennedy Center and the Guthrie Theater. ***Jogging*** is performed in
-          Arabic with English super titles.
+          An artistic response to the US invasion of Iraq in the aftermath of the 9/11 attacks, Love Missile is Golden Thread’s first commissioned play. The production was made possible by the generous contribution of Judith Wilber and Bob Miller.
 
 
-          **May 2, 2020** at Brava Theater Center (2781 24th Street, San
-          Francisco)\
+          **Featuring:** Sofia Ahmad, Vida Ghahremani, Lenny Moors*,* Andoni Panici*,* Carmen Elena Sosa, William Todd Tressler*, Kris Welch
 
-          $50-25 General Admission
-        title: Jogging
-      - cta: BUY YOUR TICKETS NOW
-        image: /img/NaghmehSaminiPhoto1_TicketingPage_website.jpg
-        link: >-
-          https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006gbzUUAQ
-        subtitle: ''
+
+          \*Appearing courtesy of Actors' Equity Association
+
+
+          **Design Team:** Oran Bumroongchart (Scenic and costume), Paul Meason (Lighting), Janaki Ranpura (Puppets and graphic art). Original music composed by Johaness Mager. Dance choreography by Lisa Tateosian.
+
+
+          **Content Advisory:** Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor. [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
+          **Available for Streaming June 21-27, 2021**
+
+
+          Tickets are valid for a 48-hour viewing period on one device at a time beginning when you press play.
+
+
+          Closed captioning is available.
+        cta: Buy Tickets!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007XankUAC
+  - items:
+      - title: "Golden Classics: Wrap Party"
         text: >-
-          The past, present, and future collide in the touching story of a
-          couple’s annual road trips to the Caspian Sea and the mysterious
-          stranger following them. **Naghmeh Samini**’s play is a rare glimpse
-          into the lives of contemporary Iranians, as well as her first English
-          production in the United States.
+          We're wrapping up our Golden Classics Streaming Exclusive: Vintage
+          Videos from the Vault with a virtual party and community celebration!
 
 
-          **October 16–November 15, 2020** at Potrero Stage (1695 18th Street,
-          San Francisco)\
-
-          $50-25 General Admission | $15 Previews
+          Join us for a look back at our formative years and meet some of the seminal artists who have enabled Golden Thread's successful 25-year legacy!
 
 
-          Group of 10 or more? Contact
-          [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for a
-          discount.
-        title: The Language of Wild Berries
+          Admission is free, but space is limited. Please register in advance to attend.
+        cta: Register
+        link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/events/a0S3Z000007XapvUAC
+        image: https://ucarecdn.com/01bf98ef-4044-4b1d-bfe0-676b5447eb02/
+        pre: ""
+        subtitle: June 27, 2021 11am PDT
 ---
-----
+- - -
 
-**GOLDEN THREAD TICKETING POLICIES**
+**GOLDEN THREAD TICKETING POLICIES (in-person)**
 
 Tickets for a Golden Thread performance may be purchased online by clicking the *Buy Tickets* link for the show you want to see.
 
@@ -104,9 +152,9 @@ Directions and parking information for various venues and other show information
 
 * The Box Office will open at the venue one hour before the show begins for will call pick-up and day of show sales.
 * Online ticket sales will end 4 hours before show time.
-* For ticket exchanges, cancellations, and group discounts email **<boxoffice@goldenthread.org>**.
+* For ticket exchanges, cancellations, and group discounts email **[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)**.
 * Any guests with hearing, sight, or mobility issues are asked to contact us by email in advance of making reservations so that we may best accommodate your party. Please be aware that we do not offer listening devices.
 * Seating is usually general admission and begins 30 minutes before the performance. There is no late seating.
 * Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
 
-The best way to reach us if you have questions or require assistance is to email us at **<mailto:boxoffice@goldenthread.org>** or call 415.626.4061.
+The best way to reach us if you have questions or require assistance is to email us at **[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)** or call 415.626.4061.

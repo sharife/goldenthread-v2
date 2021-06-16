@@ -3,6 +3,92 @@ title: People
 staff:
   heading: Staff
   items:
+    - name: Sahar Assaf
+      credit: Executive Artistic Director
+      image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/
+      bio: >-
+        Sahar Assaf (she/her) is a Lebanese theatremaker and professor. She has
+        been active in the Lebanese theatre scene since 2003 as an actor,
+        director, translator, and producer. She’s presented works in Syria,
+        Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago, and
+        NYC. At the American University of Beirut where she headed the minor
+        program in Theater Arts
+
+        and was an Assistant Professor, she co-founded with her long term collaborator playwright Robert Myers, the Theater Initiative, an interdisciplinary group of faculty and artists working to facilitate theatre creation and research locally, regionally, and internationally. Her directing credits for the Theater Initiative include Garcia-Lorca’s *Blood Wedding* as a site-specific promenade performance in the village of Hammana in Mount Lebanon, Shakespeare’s *King Lear* (co-directed with Rachel Valentine Smith of The Faction ensemble of London) which was the first production of a Shakespearean play in Lebanese colloquial Arabic, *The Rape and Rituals of Signs and Transformations* by Sa'dallah Wannous, *Watch Your Step: Beirut Heritage Walking Tour* which was a site-specific devised work on the Lebanese civil war. Sahar is a strong advocate of documentary theatre and recently conceived and directed Meen El Felten, an immersive documentary play on sexual assault in Lebanon as part of the Abaad MENA campaign of 2018, and No Demand No Supply, a documentary play about sex trafficking and prostitution in collaboration with the Kafa organization.
+
+
+        As an actor, Sahar is trained in the Meisner technique and recently started training in Alba Emoting, a somatic approach to acting based in neuroscience. Her acting credits include the role of Karen in the Lebanese adaptation of *Dinner with Friends* by Donald Margulies directed by Carlos Chahine, the title role in Dario Fo and Franca Rame’s *An Arab Woman Speaks* produced by The Faction at New Diorama Theatre in London, and of Barbara in the Lebanese adaptation of *August: Osage County* by Tracy Letts.
+
+
+        She contributes to academic research on theatre through publications of reflections on her work. She has been published in Arab Stages, PAJ: A Journal of Performance and Art, and authored chapters in books including Theatre in the Middle East between Performance and Politics edited by Babak Rahimi, Anthem press, 2020, and The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual edited by Sonja Mejcher-Atassi and Robert Myers, Cambridge University Press 2021.
+
+
+        Sahar is a recipient of the Fulbright scholarship (2009) and holds an MA in Theatre Studies from Central Washington University (2011) and an MA in Sociology from the American University of Beirut (2005). She is an ensemble member of The Faction, a London-based award-winning theatre company, an alumna of Lincoln Center Theater Directors Lab in NYC (2014) and of Directors Lab North in Toronto (2017), and she is the co-founder and Artistic Director of Directors Lab Mediterranean.
+
+
+        As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
+    - bio: <strong>Michelle Mulholland</strong> *(she/her)* has more than 17 years of
+        non-profit management experience from some of San Francisco’s finest
+        arts and environmental justice organizations, including Theater Artaud,
+        Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
+        California, The Coral Reef Alliance and Forests Forever. Since joining
+        Golden Thread in 2012, Michelle has been enhancing day-to-day
+        operations, enabling the company’s exponential growth by
+        professionalizing policies and procedures, implementing a fully
+        integrated patron management system and establishing a donor focused
+        individual giving protocol. A freelance costume designer since 2008, she
+        has designed for numerous Bay Area companies, including Crowded Fire
+        Theater, New Conservatory Theatre Center, Golden Thread Productions,
+        Word for Word, African-American Shakespeare Company, Z Space, Lorraine
+        Hansberry Theatre, Cutting Ball Theater, and Brava Theater. She has also
+        worked with Teatro Zinzanni, ACT and the SFMOMA.
+      credit: Managing Director
+      image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
+      name: Michelle Mulholland
+    - name: Chris Steele
+      credit: Marketing & Communications Associate
+      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
+      bio: Chris Steele *(they/them)* is a queer trans nonbinary performance artist,
+        producer, and playwright. Since studying at Pepperdine University and
+        the University of Oklahoma, they have worked professionally in queer and
+        trans inclusion and advocacy across the Bay Area, even beyond the
+        theater industry with UCSF, Sephora, and the Bay Area Nightlife
+        Coalition. As a media and publicity professional, they work regularly
+        with PlayGround as their inaugural Producing Fellow, launched and manage
+        the critically lauded new queer collective Poltergeist Theatre Project
+        (poltergeistproject.org), and manage and produce drag artistry content
+        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
+        at @pollyandpeter). They are passionate about using social media to
+        connect communities, organize activism, and welcome diverse audiences
+        into the behind-the-scenes process of stage artistry.
+    - name: Linda Maria Girón
+      credit: Operations Associate
+      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
+        playwright, performer and visual artist from Los Angeles, California. An
+        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
+        has written, taught and performed for a variety of Bay Area theaters
+        including Berkeley Interactive Theater, Cutting Ball Theater,
+        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
+        Peripatetic Players and the New Conservatory Theater Center.  They are
+        currently in residence at Crowded Fire Theater’s *Resilience &
+        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
+        collective and Poltergeist Theatre’s artistic cohort. Follow their work
+        at [www.lindamgiron.com](www.lindamgiron.com)."
+      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
+    - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
+        in San Francisco. He began working with Golden Thread in 2008. As a
+        design professional and art director he has worked widely in a variety
+        of disciplines and media, while focusing primarily on poster &amp;
+        publication design, logo &amp; visual identity and advertising since
+        1998. Through his full-service graphic design studio NaMa, Navid offers
+        creative solutions as well as design consulting services to numerous
+        arts and cultural institutions, visual artists, independent musicians,
+        theater companies, film festivals, and filmmakers both locally and
+        internationally. Navid holds an MFA in design from California College of
+        the Arts in San Francisco.
+      credit: Art Director
+      image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
+      name: Navid Ghaem Maghami
     - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
         Director of Golden Thread Productions, the first American theatre
         company focused on the Middle East where she launched such visionary
@@ -34,70 +120,9 @@ staff:
         Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
         heritage, Torange holds a Master’s degree in Theatre Arts from San
         Francisco State University."
-      credit: Executive Artistic Director
+      credit: Founder
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
       name: Torange Yeghiazarian
-    - bio: <strong>Michelle Mulholland</strong> *(she/her)* has more than 17 years of
-        non-profit management experience from some of San Francisco’s finest
-        arts and environmental justice organizations, including Theater Artaud,
-        Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
-        California, The Coral Reef Alliance and Forests Forever. Since joining
-        Golden Thread in 2012, Michelle has been enhancing day-to-day
-        operations, enabling the company’s exponential growth by
-        professionalizing policies and procedures, implementing a fully
-        integrated patron management system and establishing a donor focused
-        individual giving protocol. A freelance costume designer since 2008, she
-        has designed for numerous Bay Area companies, including Crowded Fire
-        Theater, New Conservatory Theatre Center, Golden Thread Productions,
-        Word for Word, African-American Shakespeare Company, Z Space, Lorraine
-        Hansberry Theatre, Cutting Ball Theater, and Brava Theater. She has also
-        worked with Teatro Zinzanni, ACT and the SFMOMA.
-      credit: Managing Director
-      image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
-      name: Michelle Mulholland
-    - bio: <strong>Laura Espino</strong> *(she/her)* is an educator and performing
-        artist. As the Program Manager for Fairytale Players, she spearheads the
-        TYA Program at Golden Thread Productions. She is a SFUSD high school
-        teacher at Ruth Asawa School of The Arts. As a performing artist, her
-        work includes credits with Theatreworks Silicon Valley, American
-        Conservatory Theatre, The Magic Theatre, Custom Made Theatre, Playground
-        and California Shakespeare Theatre. She is a Theatre Bay Area Award
-        Nominee, and currently an MLA Candidate at Stanford University.
-      credit: Program Manager, Golden Thread Fairytale Players
-      image: /img/archive/2018/10/Espino-Laura-300x300.jpg
-      name: Laura Espino
-    - name: Chris Steele
-      credit: Marketing & Communications Associate
-      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
-      bio: Chris Steele *(they/them)* is a queer trans nonbinary performance artist,
-        producer, and playwright. Since studying at Pepperdine University and
-        the University of Oklahoma, they have worked professionally in queer and
-        trans inclusion and advocacy across the Bay Area, even beyond the
-        theater industry with UCSF, Sephora, and the Bay Area Nightlife
-        Coalition. As a media and publicity professional, they work regularly
-        with PlayGround as their inaugural Producing Fellow, launched and manage
-        the critically lauded new queer collective Poltergeist Theatre Project
-        (poltergeistproject.org), and manage and produce drag artistry content
-        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
-        at @pollyandpeter). They are passionate about using social media to
-        connect communities, organize activism, and welcome diverse audiences
-        into the behind-the-scenes process of stage artistry.
-    - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
-        in San Francisco. He began working with Golden Thread in 2008. As a
-        design professional and art director he has worked widely in a variety
-        of disciplines and media, while focusing primarily on poster &amp;
-        publication design, logo &amp; visual identity and advertising since
-        1998. Through his full-service graphic design studio NaMa
-        (namadesignstudio.com), Navid offers creative solutions as well as
-        design consulting services to numerous arts and cultural institutions,
-        visual artists, independent musicians, theater companies, film
-        festivals, and filmmakers both locally and internationally. Navid holds
-        an MFA in design from California College of the Arts in San Francisco.<a
-        href="http://www.namadesignstudio.com"
-        target="_blank">namadesignstudio.com</a>
-      credit: Art Director
-      image: /img/archive/2012/04/navid_headshot.jpg
-      name: Navid Ghaem Maghami
     - bio: <strong>Vida Ghahremani</strong> *(she/her)* began acting in films as a
         teenager in Iran, where she established the standards of stardom. Some
         of her Iranian film classics include, CHAHAR RAH HAVADES, TOOFAN DAR
@@ -112,20 +137,6 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
-    - name: Linda Maria Girón
-      credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
-        playwright, performer and visual artist from Los Angeles, California. An
-        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
-        has written, taught and performed for a variety of Bay Area theaters
-        including Berkeley Interactive Theater, Cutting Ball Theater,
-        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
-        Peripatetic Players and the New Conservatory Theater Center.  They are
-        currently in residence at Crowded Fire Theater’s *Resilience &
-        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
-        collective and Poltergeist Theatre’s artistic cohort. Follow their work
-        at [www.lindamgiron.com](www.lindamgiron.com)."
-      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
 board:
   heading: Board of Trustees
   items:
@@ -266,24 +277,23 @@ board:
         theatre company as Golden Thread.
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
-    - bio: <strong>Babak Sani</strong> *(he/him)* is a partner at the law firm of
-        Kilpatrick Townsend &#038; Stockton, where he has been practicing law
-        since 1992. Prior to that, he had an engineering career in Silicon
-        Valley as an integrated circuit designer in the microelectronics
+    - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
+        property law since 1992. Prior to that, he had an engineering career in
+        Silicon Valley as an integrated circuit designer in the microelectronics
         industry. He was born in Iran and emigrated to the U.S. at the age of
         15. He has been a longtime supporter of a number of non-profits focusing
         on the arts, education, the environment, and immigration reform, and has
         provided pro bono legal services for several such organizations. He also
         serves on the board of The Body Positive, a non-profit focusing on
         education around body image. His interest in the fine arts, in
-        particular of the type that builds bridges between the Middle East and
-        the West, made him an early supporter of Golden Thread Productions. He
-        believes deeply in the mission of Golden Thread and is delighted to be
-        part of the organization. He received a Bachelor’s degree from UC
-        Berkeley in Electrical Engineering and Computer Sciences, a Master’s
-        degree from Santa Clara University in telecommunications, and his Juris
-        Doctor degree from UC Hastings. He has two daughters and lives in
-        Berkeley, CA.
+        particular of the type that builds bridges between people and cultures
+        with different roots, made him an early supporter of Golden Thread
+        Productions. He believes deeply in the mission of Golden Thread and is
+        delighted to be part of the organization. He received a Bachelor’s
+        degree from UC Berkeley in Electrical Engineering and Computer Sciences,
+        a Master’s degree from Santa Clara University in telecommunications, and
+        his Juris Doctor degree from UC Hastings. He has two daughters and lives
+        in Berkeley, CA.
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
 artists:

@@ -89,7 +89,5 @@ lists:
         itemstart: 2020-12-11T21:03:54.876Z
         itemend: 2020-12-11T21:03:54.950Z
         image: https://ucarecdn.com/970fb716-5f40-4196-b107-bbf2585d30f8/
-cast:
-  heading: Cast & Crew
 ---
 FREE and open to the public. Reservations are recommended.

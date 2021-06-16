@@ -1,10 +1,11 @@
 ---
 title: ReOrient 2009
+pre: The First Ten Years!
 season: 2009
 date: 2009-10-10T06:12:00.000Z
 start: 2009-11-20T06:12:00.000Z
 end: 2009-12-14T06:12:00.000Z
-heading: The First Ten Years
+heading: Festival of Short Plays Exploring the Middle East
 description: >-
   Golden Thread Productions celebrates the tenth anniversary of its
   one-of-a-kind festival of short plays exploring the Middle East featuring a
@@ -18,7 +19,8 @@ description: >-
 background: https://ucarecdn.com/45f2b56a-5331-488a-adea-b525555f21a7/-/crop/1959x1118/0,188/-/preview/
 titleimage: https://ucarecdn.com/a76c1e92-8f4e-4329-9a7b-1c713a27ae61/
 program: https://ucarecdn.com/fb6ef62e-b3ee-4154-b11e-039b04524438/
-writer: Yussef El Guindi, Naomi Wallace, Torange Yeghiazarian, Caveh Zahedi
+writer: Yussef El Guindi, Motti Lerner, Betty Shamieh, Naomi Wallace, Torange
+  Yeghiazarian, Caveh Zahedi
 director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
   Yeghiazarian, M. Graham Smith
 featuring: Vida Ghahremani, Leah Herman, Afif Houssain, Charles Isen*, Suraya
@@ -42,7 +44,7 @@ lists:
           Ballet Afsaneh and Aswat Bay Area Arabic Music Ensemble.
 
 
-          **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2009/).**
+          **For more information and a full schedule, click [here](/posts/reorient-forum-2009).**
         itemstart: 2021-02-05T09:01:11.229Z
         itemend: 2021-02-05T09:01:11.387Z
   - heading: REORIENT 2009 LINE-UP
@@ -154,6 +156,83 @@ lists:
         title: The Monologist Suffers Her Monologue
         itemstart: 2021-02-05T09:01:13.332Z
         itemend: 2021-02-05T09:01:13.431Z
+grids:
+  - items:
+      - itemstart: 2021-03-01T18:59:49.505Z
+        itemend: 2021-03-01T18:59:49.665Z
+        link: https://goldenthread.org/img/archive/2012/09/ReOrientArticle_ATM_Mar2010.pdf
+        title: American Theatre Magazine
+        pre: ""
+        subtitle: "Reorientalism: A festival of Middle Eastern drama witnesses the
+          emergence of a new immigrant community—and a new category of U.S.
+          theatre."
+        image: https://ucarecdn.com/8b28046f-c842-46d9-81e6-6e60a7674621/
+        cta: Read the full article by Randy Gener
+    heading: ReOrient 2009 In The Press
+  - heading: ReOrient Forum Special Events
+    items:
+      - pre: Saturday 12/5 at 11:15am
+        itemend: 2021-03-01T19:22:24.801Z
+        text: First ever collection of plays by American Middle Eastern playwrights.
+          Published and presented by Theatre Communications Group. Copies
+          available for sale in the lobby.
+        itemstart: 2021-03-01T19:22:24.646Z
+        cta: Purchase your copy today!
+        subtitle: "Salam.Peace: an Anthology of Middle Eastern American Drama"
+        title: Book Launch
+        link: https://www.tcg.org/Default.aspx?TabID=251&productId=1207
+        image: https://www.tcg.org/ProductImages/TCG6097.jpg
+      - itemstart: 2021-03-01T19:22:25.589Z
+        itemend: 2021-03-01T19:22:25.732Z
+        title: Internet Play Performance
+        pre: Saturday 12/5 at 1pm & Sunday 12/6 at 11:30am
+        subtitle: The Review by Yussef El Guindi
+        image: https://ucarecdn.com/b6e941ee-7285-4617-a7fb-9b540281ebdf/
+        text: For the first time in ReOrient history, a play will be performed live via
+          the Internet with one character in San Francisco and the other in the
+          Middle East. Written especially for this occasion, The Review, is a
+          comedy of self-deprecation and painful co-dependency.
+      - pre: Opening Reception, Sunday 11/22 2-4:30pm
+        itemend: 2021-03-01T19:22:26.647Z
+        text: >-
+          Featuring May Hariri Aboutaam and Zeina Barakeh, this interactive
+          exhibit provides an
+
+          opportunity for the audience to participate in creating an alternative view of the Middle East. - Nov. 19th through Dec. 6th - (Opening Reception Sunday 11/22, 2-4:30pm)
+
+          Open to public weekdays 1-3pm except Thanksgiving weekend.
+        itemstart: 2021-03-01T19:22:26.523Z
+        cta: More about Zeina Barakeh
+        subtitle: "PASSAGES: Featuring May Hariri Aboutaam and Zeina Barakeh"
+        title: Art Exhibit
+        link: https://zeinabarakeh.com/2012-the-third-half-passport-collection-me-transit
+        image: https://pro2-bar-s3-cdn-cf5.myportfolio.com/30f1b471-2f89-4964-a0b1-9a9c631e5354/6aa5e241-8fd8-41b1-8ec0-734ffeb433ee_rw_1200.jpg?h=904d17fa9fc47842f81e79b41cf956af
+      - pre: Saturday 12/5 at 4pm
+        itemend: 2021-03-01T19:22:27.366Z
+        text: "ASWAT’s large ensemble of singers and musicians will perform classical
+          and folk songs including favorites by Fairuz, Abdel Halim Hafiz, Abdel
+          Wahab, Um Kulthum, as well as Muwashshah hat, a seldom performed music
+          from Andalucía. The program features soloists: Yasmeen Daifallah, Rana
+          Mroue, and Husain Resan."
+        itemstart: 2021-03-01T19:22:27.224Z
+        cta: More about Aswat Ensemble
+        subtitle: ASWAT Bay Area Arabic Music Ensemble
+        title: Music Concert
+        link: https://zawaya.org/site/aswat-ensemble/
+        image: https://zawaya.org/site/wp-content/uploads/2009/04/zawayagroup.jpg
+      - pre: Sunday 12/6 at 3:00pm
+        itemend: 2021-03-01T19:37:06.593Z
+        text: Ballet Afsaneh has received critical acclaim for presenting the dance,
+          music and poetry of the historic Silk Road. Live music will be
+          performed by Pezhham Akhavass, Neema Hekmat, Kaveh Hedayati, Pourya
+          Khademi, and Moses Sedler, and poetry recitation by Shadi Vaezzadeh.
+          Featured dancers include Miriam Peretz and Mariam Gaibova.
+        itemstart: 2021-03-01T19:37:06.443Z
+        cta: More about Ballet Afsaneh
+        subtitle: Ballet Afsaneh
+        title: Dance Performance
+        link: https://www.dancesilkroad.org/about.html
+        image: /img/Mariam-GaibovaKulobi.jpg
 cast:
   heading: Cast & Crew
   items:
@@ -391,16 +470,14 @@ photos2:
     - image: https://ucarecdn.com/e21240bf-64cd-4ee8-9b5c-25de14d9ac30/
     - image: https://ucarecdn.com/32564047-0e6f-49c1-8648-3c59cbbad29f/
 archivevideo: _1zzL53YjPg
+archivevideo2: 3uooGS3pUAE
 bottom:
   text: >-
     San Francisco Arts Commission, California Arts Council, Walter and Elise
     Haas Fund, The Puffin Foundation. 
 
 
-    Community Partners:
-
-
-    UC Berkeley Center for Middle Eastern Studies, University of San Francisco Performance and Social Justice Program, Jewish Community Foundation, Middle East Children's Alliance, Theatre Bay Area, Theatre Communications Group, Omid Foundation, KPFA Radio, The San Francisco Bay Guardian.
+    Community Partners: UC Berkeley Center for Middle Eastern Studies, University of San Francisco Performance and Social Justice Program, Jewish Community Foundation, Middle East Children's Alliance, Theatre Bay Area, Theatre Communications Group, Omid Foundation, KPFA Radio, The San Francisco Bay Guardian.
 ---
 The ReOrient Festival was conceived in 1999 to meet the urgent and ongoing need for Middle Eastern voices in American theatre and to create a home where Middle Eastern artists are nurtured and supported. The festival aims to showcase the vast variety of voices and styles emerging from and inspired by the Middle East and to bring together diverse communities to engage with the region. At the same time, the ReOrient Festival helps to demystify the region by encouraging writing about the Middle East by playwrights from all cultural, ethnic, and national backgrounds. Today, celebrating the festival's tenth anniversary, ReOrient continues to be guided by these principles, serving as a forum for addressing current events and personal experiences.
 
