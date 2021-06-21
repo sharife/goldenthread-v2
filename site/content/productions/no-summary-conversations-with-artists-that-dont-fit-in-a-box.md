@@ -13,18 +13,20 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2021-06-15T06:56:39.901Z
+      - pre: Up Next!
         itemend: 2021-06-15T06:56:39.928Z
-        pre: Up Next!
-        title: The SWANA Queer Imagination
-        subtitle: Join us Friday, June 25th @ 11AM PT!
-        image: https://ucarecdn.com/c8efc423-8166-478f-85f4-6776ec75aa9b/
         text: Just in time for LGBTQIA+ Pride Month, a few of our community artivists
           will be having a kiki to discuss deviant theatrics. They'll be talking
           about working as SWANA Queers in various American theater scenes, and
           sharing what it takes to keep their artivists' bodies and minds in
           tune. It's all about juggling the entertainment industry of the
           Western and Eastern Hemispheres, with an LGBTQ+ spin!
+        itemstart: 2021-06-15T06:56:39.901Z
+        cta: Click here to watch!
+        subtitle: Join us Friday, June 25th @ 11AM PT!
+        title: The SWANA Queer Imagination
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-swana-queer-imagination
+        image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
