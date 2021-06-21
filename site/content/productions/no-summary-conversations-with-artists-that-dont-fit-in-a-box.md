@@ -26,7 +26,7 @@ lists:
         subtitle: Join us Friday, June 25th @ 11AM PT!
         title: The SWANA Queer Imagination
         link: https://howlround.com/happenings/livestreaming-conversation-no-summary-swana-queer-imagination
-        image: https://ucarecdn.com/c8efc423-8166-478f-85f4-6776ec75aa9b/
+        image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
