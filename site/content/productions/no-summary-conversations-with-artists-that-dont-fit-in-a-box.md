@@ -13,13 +13,8 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2021-07-09T00:27:25.106Z
+      - pre: Up Next!
         itemend: 2021-07-09T00:27:25.144Z
-        title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
-          playwrights!"
-        pre: Up Next!
-        subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
-        image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
         text: "Golden Thread is honored to host the launch of the first and only
           searchable database in the field of MENA Theatre- The Digital Guide to
           Theatre of the Middle East: 21st Century Volume (DGTOME) created by
@@ -32,7 +27,13 @@ lists:
           Director Sahar Assaf about the intersection of digital humanities
           research and MENA theatre and how DGTOME debunks the scarcity
           narrative of MENA playwrights and MENA stories."
+        itemstart: 2021-07-09T00:27:25.106Z
         cta: Click here to watch!
+        subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
+        title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
+          playwrights!"
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-celebration-mena-playwrights
+        image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
