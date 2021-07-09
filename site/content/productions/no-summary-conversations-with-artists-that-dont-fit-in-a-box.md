@@ -13,20 +13,26 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - pre: Up Next!
-        itemend: 2021-06-15T06:56:39.928Z
-        text: Just in time for LGBTQIA+ Pride Month, a few of our community artivists
-          will be having a kiki to discuss deviant theatrics. They'll be talking
-          about working as SWANA Queers in various American theater scenes, and
-          sharing what it takes to keep their artivists' bodies and minds in
-          tune. It's all about juggling the entertainment industry of the
-          Western and Eastern Hemispheres, with an LGBTQ+ spin!
-        itemstart: 2021-06-15T06:56:39.901Z
+      - itemstart: 2021-07-09T00:27:25.106Z
+        itemend: 2021-07-09T00:27:25.144Z
+        title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
+          playwrights!"
+        pre: Up Next!
+        subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
+        image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
+        text: "Golden Thread is honored to host the launch of the first and only
+          searchable database in the field of MENA Theatre- The Digital Guide to
+          Theatre of the Middle East: 21st Century Volume (DGTOME) created by
+          dramaturg and researcher Marjan Moosavi. Marjan will present the
+          DGTOME and speak about this transnational collaboration of experts and
+          artists that led to the emergence of this pioneering archival project.
+          The presentation will be followed by a roundtable discussion with Arts
+          Professor Catherine Coray, playwright Adam El Sayegh and stage
+          director Pirronne Yousefzadeh moderated by our Executive Artistic
+          Director Sahar Assaf about the intersection of digital humanities
+          research and MENA theatre and how DGTOME debunks the scarcity
+          narrative of MENA playwrights and MENA stories."
         cta: Click here to watch!
-        subtitle: Join us Friday, June 25th @ 11AM PT!
-        title: The SWANA Queer Imagination
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-swana-queer-imagination
-        image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -151,6 +157,20 @@ lists:
         title: Bridging the Past to a New Era
         link: https://howlround.com/happenings/livestreaming-conversation-no-summary-bridging-past-new-era
         image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
+      - pre: ""
+        itemend: 2021-06-15T06:56:39.928Z
+        text: Just in time for LGBTQIA+ Pride Month, a few of our community artivists
+          will be having a kiki to discuss deviant theatrics. They'll be talking
+          about working as SWANA Queers in various American theater scenes, and
+          sharing what it takes to keep their artivists' bodies and minds in
+          tune. It's all about juggling the entertainment industry of the
+          Western and Eastern Hemispheres, with an LGBTQ+ spin!
+        itemstart: 2021-06-15T06:56:39.901Z
+        cta: Click here to watch!
+        subtitle: Aired Friday, June 25th @ 11AM PT.
+        title: The SWANA Queer Imagination
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-swana-queer-imagination
+        image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
