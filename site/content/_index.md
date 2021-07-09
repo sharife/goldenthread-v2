@@ -29,19 +29,23 @@ items:
       San Francisco to helm the now 25 year old production company beginning May
       3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
       and relocation to San Francisco below!"
-  - image: https://ucarecdn.com/6a393ef4-a3c0-4a42-ae0a-427722811e23/
+  - image: https://ucarecdn.com/0f3d0680-37dd-4c70-b48f-04c3a035cb66/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Just in time for LGBTQIA+ Pride Month, A few of our community artivists
-      (artist-activists) will be having a kiki to discuss deviant theatrics!
-      They'll be talking about working as SWANA Queers in various American
-      theater scenes, and sharing what it takes to keep their artivists' bodies
-      and minds in tune. It's all about juggling the entertainment industry of
-      the Western and Eastern Hemispheres, with an LGBTQ+ spin.  Tune in to
-      celebrate our Queer Artist Family!
+      Join us in collaboration with The Abbasi Program in Islamic Studies at
+      Stanford University and the Roshan Institute for Persian Studies at the
+      University of Maryland as we celebrate the launch of the first and only
+      searchable database in the field of MENA Theatre: **The Digital Guide to
+      Theatre of the Middle East: 21st Century Volume** (DGTOME) created by
+      dramaturg and researcher Marjan Moosavi. Marjan will present the DGTOME
+      and will be followed by a roundtable discussion with Arts Professor
+      Catherine Coray, playwright Adam El Sayegh, and stage director Pirronne
+      Yousefzadeh, moderated by our Executive Artistic Director Sahar Assaf
+      about the intersection of digital humanities research and MENA theatre!
+      Tune in to celebrate MENA stories and playwrights with us!
 
 
-      ***Don't miss the Livestream on June 25th, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on July 30th, 2021 @ 11AM PT!***
 ---
