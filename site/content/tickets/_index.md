@@ -29,7 +29,7 @@ lists:
           *This event is livestreamed. It will be accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.*
 
 
-          *Space is limited so reservations are recommended.*
+          *Space is limited so register early.*
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
         cta: Register for Free!
       - title: Arab Play Cycle
