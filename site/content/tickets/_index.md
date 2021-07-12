@@ -32,6 +32,20 @@ lists:
           *Space is limited so reservations are recommended.*
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
         cta: Register for Free!
+  - items:
+      - title: Arab Play Cycle
+        subtitle: |-
+          by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour
+
+          directed by Evren Odcikin
+        pre: Tuesday, August 10, at 7pm PDT
+        text: A couple on an uncomfortable mini-break; a pair of mothers with a child
+          who won’t wake up; and two post-COVID 19, post-Capitol riots
+          encounters; form this new play cycle by three acclaimed Arab writers.
+          In Golden Thread’s unique commission, three of the company’s Resident
+          Artists, Hassan Abdulrazzak, Hannah Khalil and Mona Mansour, reflect
+          on the world now.
+        cta: Registration Available 7/19/2021
 ---
 - - -
 
