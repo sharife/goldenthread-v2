@@ -21,28 +21,28 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-I Want to Tell You About… Beirut 
-directed by Sahar Assaf 
+*I Want to Tell You About… Beirut* 
+directed by **Sahar Assaf** 
 
 Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
 
 A bilingual virtual dramatic reading based on testimonies of survivors of the Beirut explosion that happened on August 4th, 2020. The reading will be followed by a roundtable discussion with Zeina Daccashe (Dramatherapist), Ghida Frangieh (Lawyer), Tania El Khoury (Live Artist), and Hamid Sinno (Musician and Writer).  Presented in collaboration with Al Madina Theater and the Legal Agenda in Beirut, Lebanon. 
 
+\
+*Arab Play Cycle* 
+by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
+directed by **Evren Odcikin** 
 
-Arab Play Cycle 
-by Hassan Abulrazzak, Hannah Khalil, and Mona Mansour 
-directed by Evren Odcikin 
-
-Tuesday, August 10, at 7pm (PT)\
+Tuesday, August 10, at 7pm (PT)
 
 A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new play cycle by three acclaimed Arab writers. In Golden Thread’s unique commission, three of the company’s Resident Artists, Hassan Abdulrazzak, Hannah Khalil and Mona Mansour, reflect on the world now. 
 
-
-WE’RE ALL HERE
-by Leslie Kalarchian
-directed by Sahar Assaf\
 \
-Tuesday, August 17, at 7pm (PT)\
+*We're All Here*
+by **Leslie Kalarchian**
+directed by **Sahar Assaf**\
+\
+Tuesday, August 17, at 7pm (PT)
 
 When Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home hires an impassioned artist to help clean out her childhood home, family mysteries unravel as Maro discovers her connection to Armenia’s painfully dark history.
 
