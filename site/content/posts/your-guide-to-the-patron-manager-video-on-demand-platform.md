@@ -3,7 +3,7 @@ title: Your Guide to the Patron Manager Virtual Events Platform
 date: 2021-04-26T22:22:28.182Z
 description: ""
 ---
-Welcome to our virtual events troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to livestream events or  previously recorded performances for a designated period of viewing. 
+Welcome to our virtual events troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to livestream events or  previously recorded material for a designated period of viewing. 
 
 ### Are you having difficulty viewing?
 
