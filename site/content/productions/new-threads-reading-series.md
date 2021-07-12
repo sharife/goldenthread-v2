@@ -21,6 +21,10 @@ cast:
 photos:
   heading: Photo Gallery
 ---
+This year's 3 unique readings will be presented live in person and online! All readings are at Potrero Stage (1695 18th Street San Francisco, CA , 94107) and available for live-stream at a platform TBA. Audiences at Potrero and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading!
+
+
+
 *I Want to Tell You About… Beirut* 
 directed by **Sahar Assaf** 
 
