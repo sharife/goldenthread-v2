@@ -66,7 +66,7 @@ Tickets for a Golden Thread events may be purchased online by clicking the *Buy 
 
 We generally offer discounts for students, seniors 65+ and TBA members as well as groups of 10 or more. Students and TBA members will be asked to show their id or membership cards at will call. Groups of 10 or more should contact us by email to arrange a purchase.
 
-Accessibility needs for hearing, sight, or mobility can be addressed via email (**[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org))**, phone (415-626-4061) or a note in the ticket order.  A request in advance of purchase or attendance will assist us in accommodating your party. Please be aware that we do not offer listening devices.
+Accessibility needs for hearing, sight, or mobility can be addressed via email (**[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org))**, phone (415-626-4061) or a note in the ticket order. A request in advance of purchase or attendance will assist us in accommodating your party. Please be aware that we do not offer listening devices.
 
 Directions and parking information for various venues and other show information can be found on the main production page of the show you wish to see.
 
