@@ -135,6 +135,37 @@ lists:
         image: https://ucarecdn.com/01bf98ef-4044-4b1d-bfe0-676b5447eb02/
         pre: ""
         subtitle: June 27, 2021 11am PDT
+  - heading: New Threads 2021
+    items:
+      - title: I Want To Tell You About Beirut
+        pre: Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
+        subtitle: directed by Sahar Assaf
+        text: >-
+          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear
+          explosions in the history of mankind happened at the port of Beirut,
+          Lebanon. This catastrophic event claimed the lives of more than 200
+          victims, injured 7000 and left 300,000 homeless and caused massive
+          property damage across the city. Golden Thread Productions
+          collaborates with Al Madina Theatre and the Legal Agenda in Lebanon to
+          present ***I Want to Tell You About Beirut***, which commemorates the
+          1-year mark of the explosion that ruined the lives of thousands of
+          innocent civilians. The event will commence with a recorded reading of
+          testimonies presented in English and Arabic by actors based in San
+          Francisco and actors based in Beirut and will be followed by a live
+          roundtable discussion featuring Sahar Assaf (Executive Artistic
+          Director, Golden Thread Productions), Nidal Alashkar (Artistic
+          Director, Al Madina Theatre), Zeina Daccache (Executive Director,
+          Catharsis - Lebanese Center for Drama Therapy), Ghida Frangieh
+          (Lawyer, Legal Agenda), Tania El Khoury (Performance Artist), and
+          Hamid Sinno (Musician and Writer).
+
+
+          *This event is livestreamed. It will be accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.*
+
+
+          *Space is limited so reservations are recommended.*
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
+        cta: Register for Free!
 ---
 - - -
 
