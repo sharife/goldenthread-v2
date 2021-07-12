@@ -1,13 +1,13 @@
 ---
-title: Your Guide to the Patron Manager Video on Demand Platform
+title: Your Guide to the Patron Manager Virtual Events Platform
 date: 2021-04-26T22:22:28.182Z
 description: ""
 ---
-Welcome to our video on demand troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to previously recorded performances for a designated period of viewing. 
+Welcome to our virtual events troubleshooting support page! Below you will find answers to many frequently asked questions about our streaming platform. We use Patron Manager to give you access to livestream events or  previously recorded performances for a designated period of viewing. 
 
 ### Are you having difficulty viewing?
 
-If you are having trouble viewing your video right now, you can try all of these steps:
+If you are having trouble viewing your virtual event right now, you can try all of these steps:
 
 * Refresh your browser by closing all windows and relaunching. 
 * Use your browser in the 'incognito/private' mode.
@@ -18,7 +18,9 @@ If you are having trouble viewing your video right now, you can try all of these
 
 If you’re still experiencing issues, you might want to try turning off the Wi-Fi on your other devices or use an Ethernet cable to connect your device directly to your router for a stronger connection.
 
-Even with a fast internet connection, you will notice a classic camcorder grain effect on our vintage videos as these were recorded before high resolution videos even existed!
+Even with a fast internet connection, you will notice a classic camcorder grain effect on some of our vintage videos as these were recorded before high resolution videos even existed!
+
+Some of our virtual events take place on Zoom. We recommend you install the latest version of Zoom client for meetings. You can download it here: <https://zoom.us/download>
 
 ### Which devices can I use to stream?
 
@@ -30,7 +32,7 @@ While the platform does not support functionality like Smart TV or Apple TV, it 
 
 Unfortunately, with so many variations of Smart TVs and Smart TV software, we aren’t able to provide additional troubleshooting for this type of hardware.
 
-### How do I access my video on demand?
+### How do I access my virtual event?
 
 Once you have made your purchase, you will receive a Ticket Confirmation email with instructions on how to watch. The email will contain a custom ticket link for your viewing on the device of your choosing. Each ticket purchased allows you to access your content on one device at a time.
 
