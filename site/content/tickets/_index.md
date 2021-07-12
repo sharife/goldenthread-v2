@@ -38,25 +38,33 @@ lists:
           by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour
 
           directed by Evren Odcikin
-        text: A couple on an uncomfortable mini-break; a pair of mothers with a child
-          who won’t wake up; and two post-COVID 19, post-Capitol riots
+        text: >-
+          A couple on an uncomfortable mini-break; a pair of mothers with a
+          child who won’t wake up; and two post-COVID 19, post-Capitol riots
           encounters; form this new play cycle by three acclaimed Arab writers.
           In Golden Thread’s unique commission, three of the company’s Resident
           Artists, Hassan Abdulrazzak, Hannah Khalil and Mona Mansour, reflect
           on the world now.
-        cta: Registration Available 7/19/2021
+
+
+          Registration Available 7/19/2021
+        cta: ""
       - title: We're All Here
         pre: Tuesday, August 17, at 7pm PDT
-        text: When Maro Thompson, a widowed music teacher resolved to admitting her
+        text: >-
+          When Maro Thompson, a widowed music teacher resolved to admitting her
           rapidly deteriorating mother, Zada, into a nursing home hires an
           impassioned artist to help clean out her childhood home, family
           mysteries unravel as Maro discovers her connection to Armenia’s
           painfully dark history.
+
+
+          Registration Available 7/19/2021
         subtitle: |-
           by Leslie Kalarchian
 
           directed by Sahar Assaf
-        cta: Registration Available 7/19/2021
+        cta: ""
 ---
 - - -
 
