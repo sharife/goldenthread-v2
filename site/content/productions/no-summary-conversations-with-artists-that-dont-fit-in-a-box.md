@@ -41,11 +41,11 @@ lists:
 
           [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-celebration-mena-playwrights) to watch on Howlround!
         itemstart: 2021-07-09T00:27:25.106Z
-        cta: Click here to watch!
+        cta: Click here to register!
         subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
         title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
           playwrights!"
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-celebration-mena-playwrights
+        link: https://stanford.zoom.us/meeting/register/tJYqd-Grpj0oHNYc7J5akJonuwDLTEJFvD-P
         image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
