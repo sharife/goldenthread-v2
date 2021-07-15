@@ -45,7 +45,7 @@ lists:
           on the world now.
 
 
-          Registration Available 7/19/2021
+          Registration Available 7/26/2021
         cta: ""
       - title: We're All Here
         pre: Tuesday, August 17, at 7pm PDT
@@ -57,7 +57,7 @@ lists:
           painfully dark history.
 
 
-          Registration Available 7/19/2021
+          Registration Available 7/26/2021
         subtitle: |-
           by Leslie Kalarchian
 
