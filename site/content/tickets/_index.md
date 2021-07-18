@@ -27,7 +27,7 @@ lists:
           *Space is limited. Register early for Zoom participation.* 
 
 
-          *This program will also be broadcast on Howlround.tv (Link TBD)*
+          *This program will also be broadcast on [Howlround](https://howlround.com/happenings/livestreaming-performance-and-conversation-i-want-tell-you-about-beirut).*
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
         cta: Register for Free!
       - title: Arab Play Cycle
