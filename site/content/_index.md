@@ -1,22 +1,24 @@
 ---
 title: Middle East Center Stage
-headline: Vintage Videos from Our Vaults
-subtitle: Streaming to your home for a very limited time.
-background: https://ucarecdn.com/58e1d054-1a97-4f50-aeab-2bdb11b11753/-/crop/1000x340/0,60/-/preview/
-cta: Watch These Golden Classics!
-link: https://goldenthread.org/productions/vintage-screenings/
+headline: New Threads Returns with 3 New Plays
+subtitle: Streaming to your home and in person at Potrero Stage!
+background: https://ucarecdn.com/350e3cd6-4047-4c24-8d88-56a08a991918/
+cta: Learn more about New Threads 2021!
+link: https://goldenthread.org/productions/new-threads-reading-series/
 items:
-  - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
-    subtitle: Stream Golden Classics for a Limited Time!
+  - image: https://ucarecdn.com/e43a7913-4fe5-45dc-9738-de7454d8fe4b/
+    subtitle: Our Free Reading Series is Back!
     cta: Click to Learn More!
-    link: https://goldenthread.org/productions/vintage-screenings/
+    link: https://goldenthread.org/productions/new-threads-reading-series/
     text: >-
-      As part of our 25th Anniversary celebration, we are thrilled to screen
-      three productions from Golden Thread’s vintage collection. The three plays
-      in Golden Classics Streaming Exclusive offer a glimpse into the early
-      years of Golden Thread. These three videos from our archives are only
-      streaming for a **very limited time** so get your tickets now for this
-      rare chance to experience history-in-the-making!
+      After a 3 year hiatus, our highly anticipated new play development series
+      is back with three plays-in-process! Back in a special hybrid format, the
+      readings are free and open to the public, all accessible via digital
+      live-stream with limited in person tickets available to join live at
+      Potrero Stage! This year’s line-up includes a very special digital opening
+      docudrama event curated by Sahar Assaf,  the first full-read of our three
+      commissioned Resident Artist playwrights' collaborative Triptych, and
+      acclaimed Brooklyn-based actress and writer Leslie Kalarchian.
 
 
       ***Find Out More Below!***
