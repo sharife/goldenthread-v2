@@ -1,10 +1,11 @@
 ---
 title: New Threads Reading Series 2021
-pre: Three New Plays Reflecting The Now
+pre: ""
 season: 2021
 date: 2021-02-05T19:37:00.000Z
 start: 2021-08-03T07:00:00.000Z
 end: 2021-08-17T23:37:38.228Z
+heading: Three New Plays Reflecting The Now
 description: >-
   Golden Thread’s annual staged reading series engages its audience in the
   process of playmaking and allows writers of Middle Eastern and non-Middle
