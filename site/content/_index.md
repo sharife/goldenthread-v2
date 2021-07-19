@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Vintage Videos from Our Vaults
-subtitle: Streaming to your home for a very limited time.
-background: https://ucarecdn.com/58e1d054-1a97-4f50-aeab-2bdb11b11753/-/crop/1000x340/0,60/-/preview/
-cta: Watch These Golden Classics!
-link: https://goldenthread.org/productions/vintage-screenings/
+headline: New Threads Returns with 3 New Plays
+subtitle: Streaming to your home and in person at Potrero Stage!
+background: https://ucarecdn.com/350e3cd6-4047-4c24-8d88-56a08a991918/
+cta: Learn more about New Threads 2021!
+link: https://goldenthread.org/productions/new-threads-reading-series/
 items:
   - image: https://ucarecdn.com/58063bf1-11f8-4c91-b574-b3098a4512d6/
     subtitle: Stream Golden Classics for a Limited Time!
