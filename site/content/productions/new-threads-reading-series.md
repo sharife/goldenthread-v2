@@ -9,47 +9,81 @@ description: >-
   Golden Thread’s annual staged reading series engages its audience in the
   process of playmaking and allows writers of Middle Eastern and non-Middle
   Eastern descent an authentic and supportive space to develop work about the
-  Middle East.
+  Middle East. Join the creative process of making a new play, and discover
+  brilliant gems never before seen in the Bay Area!
 
 
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
-background: https://ucarecdn.com/bffb024f-c4e5-4366-8e4e-0df632b0cb25/
-stage: ""
-address: ""
+background: https://ucarecdn.com/7334c2eb-e4a8-4b93-bc90-813b2cb14a32/
+stage: Potrero Stage
+address: 1695 18th St, San Francisco
+ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+ticketinfo: Please note the separate links for digital and in-person tickets!
+lists:
+  - items:
+      - pre: Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
+        itemend: 2021-07-19T18:59:49.968Z
+        text: >-
+          ***This special opening event is only available via digital
+          live-stream.***
+
+
+          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion with featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Performance Artist), and **Hamid Sinno** (Musician and Writer). The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+        itemstart: 2021-07-19T18:59:49.947Z
+        cta: Reserve your free watch-link!
+        subtitle: curated by **Sahar Assaf**
+        title: I WANT TO TELL YOU ABOUT BEIRUT
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
+        image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
+      - pre: Tuesday, August 10th, at 7:00 PM
+        itemend: 2021-07-19T18:59:50.740Z
+        text: >-
+          A couple on an uncomfortable mini-break; a pair of mothers with a
+          child who won’t wake up; and two post-COVID 19, post-Capitol riots
+          encounters; form this new play cycle by three acclaimed Arab writers.
+          In Golden Thread’s unique commission, three of the company’s Resident
+          Artists, **Hassan Abdulrazzak**, **Hannah Khalil**,and **Mona
+          Mansour**, reflect on the world now. 
+
+
+          Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change.  The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought. 
+
+
+          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
+        itemstart: 2021-07-19T18:59:50.724Z
+        cta: Reserve free tickets to the in-person event!
+        subtitle: |-
+          by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
+          directed by **Evren Odcikin**
+        title: ARAB PLAY CYCLE
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
+        image: https://ucarecdn.com/a568bf7b-6fa8-497b-acba-e9f713667a8e/
+      - pre: Tuesday, August 17, at 7:00 PM
+        itemend: 2021-07-19T18:59:51.062Z
+        text: >-
+          Maro Thompson, a widowed music teacher resolved to admitting her
+          rapidly deteriorating mother, Zada, into a nursing home, hires Emilio,
+          an impassioned artist in need of a day gig to help clean out the
+          family house. Unbeknownst to Maro, the willful Zada has other plans
+          that evening and invites the family over to celebrate her 84th
+          birthday. The party gets turned on its head when Emilio discovers a
+          cache of abstract paintings hidden away in an upstairs closet. As the
+          mystery behind the decades-old artwork unravels, Maro learns of her
+          connection to Armenia’s painfully dark history.
+
+
+          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
+        itemstart: 2021-07-19T18:59:51.041Z
+        cta: Reserve free tickets to the in-person event!
+        subtitle: |-
+          by **Leslie Kalarchian** 
+          directed by **Sahar Assaf**
+        title: WE'RE ALL HERE
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
+        image: https://ucarecdn.com/bfd96e54-747b-4a01-baa4-177804d6dafe/
 cast:
   heading: ""
 photos:
   heading: Photo Gallery
 ---
-This year's 3 unique readings will be presented live in person and online! All readings are at Potrero Stage (1695 18th Street San Francisco, CA , 94107) and available for live-stream at a platform TBA. Audiences at Potrero and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading!
-
-
-
-*I Want to Tell You About… Beirut* 
-directed by **Sahar Assaf** 
-
-Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
-
-A bilingual virtual dramatic reading based on testimonies of survivors of the Beirut explosion that happened on August 4th, 2020. The reading will be followed by a roundtable discussion with Zeina Daccashe (Dramatherapist), Ghida Frangieh (Lawyer), Tania El Khoury (Live Artist), and Hamid Sinno (Musician and Writer).  Presented in collaboration with Al Madina Theater and the Legal Agenda in Beirut, Lebanon. 
-
-\
-*Arab Play Cycle* 
-by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
-directed by **Evren Odcikin** 
-
-Tuesday, August 10, at 7pm (PT)
-
-A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new play cycle by three acclaimed Arab writers. In Golden Thread’s unique commission, three of the company’s Resident Artists, Hassan Abdulrazzak, Hannah Khalil and Mona Mansour, reflect on the world now. 
-
-\
-*We're All Here*
-by **Leslie Kalarchian**
-directed by **Sahar Assaf**\
-\
-Tuesday, August 17, at 7pm (PT)
-
-When Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home hires an impassioned artist to help clean out her childhood home, family mysteries unravel as Maro discovers her connection to Armenia’s painfully dark history.
-
-We invite you to join the creative process of a new play and discover brilliant gems never before seen in the Bay Area. We invite you to laugh, cry, and think alongside these beautiful stories from and about the Middle East. Each play is teeming with unexpected humor, surprising characters, and important questions about the world we live in today.
-
-**The staged readings are free and open to the public.**
+This year's 3 unique readings will be presented in hybrid format: live in person and online! Audiences at Potrero and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
