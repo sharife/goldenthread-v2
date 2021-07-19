@@ -1,6 +1,6 @@
 ---
 title: New Threads Reading Series 2021
-pre: Four New Plays. Four Singular Voices.
+pre: Three New Plays Reflecting The Now
 season: 2021
 date: 2021-02-05T19:37:00.000Z
 start: 2021-08-02T07:00:00.000Z
