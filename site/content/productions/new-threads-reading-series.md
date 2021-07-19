@@ -15,6 +15,7 @@ description: >-
 
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
 background: https://ucarecdn.com/7334c2eb-e4a8-4b93-bc90-813b2cb14a32/
+titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
 stage: Potrero Stage
 address: 1695 18th St, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
