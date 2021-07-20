@@ -38,7 +38,7 @@ lists:
 
           Fine Art inkjet print on archival paper, 90x120cm.
         itemstart: 2021-07-19T18:59:49.947Z
-        cta: Reserve your free watch-link!
+        cta: Register for the live-stream!
         subtitle: interviews collected by **Nour Annan** and **Sahar Assaf**
         title: I WANT TO TELL YOU ABOUT BEIRUT
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
@@ -60,9 +60,9 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0)!
         itemstart: 2021-07-19T18:59:50.724Z
-        cta: Reserve free tickets to the in-person event!
+        cta: Register here for the in-person event!
         subtitle: |-
           by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
           directed by **Evren Odcikin**
@@ -86,9 +86,9 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC)!
         itemstart: 2021-07-19T18:59:51.041Z
-        cta: Reserve free tickets to the in-person event!
+        cta: Register here for the in-person event!
         subtitle: |-
           by **Leslie Kalarchian** 
           directed by **Sahar Assaf**
