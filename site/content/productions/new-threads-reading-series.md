@@ -5,7 +5,7 @@ season: 2021
 date: 2021-02-05T19:37:00.000Z
 start: 2021-08-03T07:00:00.000Z
 end: 2021-08-17T23:37:38.228Z
-heading: Three New Plays Reflecting The Now
+heading: Three Special Events, Reflecting The Now
 description: >-
   Golden Thread’s annual staged reading series engages its audience in the
   process of playmaking and allows writers of Middle Eastern and non-Middle
@@ -17,7 +17,8 @@ description: >-
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
-stage: Live-Streaming and In Person at Potrero Stage
+additional: d
+stage: Live-Streaming and/or     In Person at Potrero Stage
 address: 1695 18th St, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 ticketinfo: Please note the separate links for digital and in-person tickets!
@@ -30,10 +31,15 @@ lists:
           live-stream.***
 
 
-          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion with featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Performance Artist), and **Hamid Sinno** (Musician and Writer). The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Performance Artist), and **Hamid Sinno** (Musician and Writer). The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+
+
+          Image Credit - **Dia Mrad**, “Oil on Water,” March 27, 2020. \
+
+          Fine Art inkjet print on archival paper, 90x120cm.
         itemstart: 2021-07-19T18:59:49.947Z
         cta: Reserve your free watch-link!
-        subtitle: curated by **Sahar Assaf**
+        subtitle: interviews collected by **Nour Annan** and **Sahar Assaf**
         title: I WANT TO TELL YOU ABOUT BEIRUT
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
         image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
@@ -49,6 +55,9 @@ lists:
 
 
           Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change.  The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought. 
+
+
+          **REGISTRATION BEGINS JULY 26TH**
 
 
           To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
@@ -74,6 +83,9 @@ lists:
           connection to Armenia’s painfully dark history.
 
 
+          **REGISTRATION BEGINS JULY 26TH**
+
+
           To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
         itemstart: 2021-07-19T18:59:51.041Z
         cta: Reserve free tickets to the in-person event!
@@ -88,4 +100,4 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-This year's 3 unique readings will be presented in hybrid format: live in person and online! Audiences at Potrero and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
+This year's program will be presented in hybrid format: all live-streaming online and some limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These presentations and plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
