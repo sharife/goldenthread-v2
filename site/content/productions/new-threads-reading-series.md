@@ -100,4 +100,4 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-This year's program will be presented in a hybrid format: all events are live-streamed online and some have limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading. These presentations and plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
+This year's program will be presented in a hybrid format: all events are live-streamed online and some have limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading. These presentations and plays-in-development are FREE and open to the public. Registration is required as space is limited.
