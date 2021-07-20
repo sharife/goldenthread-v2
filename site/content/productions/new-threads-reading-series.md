@@ -17,6 +17,7 @@ description: >-
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
+additional: d
 stage: Live-Streaming and/or     In Person at Potrero Stage
 address: 1695 18th St, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
@@ -31,9 +32,14 @@ lists:
 
 
           On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Performance Artist), and **Hamid Sinno** (Musician and Writer). The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+
+
+          Image Credit - **Dia Mrad**, “Oil on Water,” March 27, 2020. \
+
+          Fine Art inkjet print on archival paper, 90x120cm.
         itemstart: 2021-07-19T18:59:49.947Z
         cta: Reserve your free watch-link!
-        subtitle: curated by **Sahar Assaf**
+        subtitle: interviews collected by **Nour Annan** and **Sahar Assaf**
         title: I WANT TO TELL YOU ABOUT BEIRUT
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
         image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
@@ -88,4 +94,4 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-This year's 3 unique readings will be presented in hybrid format: live in person and online! Audiences at Potrero and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
+This year's program will be presented in hybrid format: all live-streaming online and some limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These presentations and plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
