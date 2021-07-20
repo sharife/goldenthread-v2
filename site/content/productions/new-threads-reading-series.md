@@ -69,7 +69,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)!
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
@@ -95,14 +95,14 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNefUAG)!
         itemstart: 2021-07-19T18:59:51.041Z
         cta: Register here for the in-person event!
         subtitle: |-
           by **Leslie Kalarchian** 
           directed by **Sahar Assaf**
         title: WE'RE ALL HERE
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNf4UAG
         image: https://ucarecdn.com/bfd96e54-747b-4a01-baa4-177804d6dafe/
 cast:
   heading: ""
