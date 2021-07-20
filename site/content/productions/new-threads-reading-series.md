@@ -57,6 +57,9 @@ lists:
           Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change.  The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought. 
 
 
+          **REGISTRATION BEGINS JULY 26TH**
+
+
           To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Reserve free tickets to the in-person event!
@@ -78,6 +81,9 @@ lists:
           cache of abstract paintings hidden away in an upstairs closet. As the
           mystery behind the decades-old artwork unravels, Maro learns of her
           connection to Armenia’s painfully dark history.
+
+
+          **REGISTRATION BEGINS JULY 26TH**
 
 
           To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
