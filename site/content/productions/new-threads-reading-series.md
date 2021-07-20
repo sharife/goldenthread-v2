@@ -5,7 +5,7 @@ season: 2021
 date: 2021-02-05T19:37:00.000Z
 start: 2021-08-03T07:00:00.000Z
 end: 2021-08-17T23:37:38.228Z
-heading: Three New Plays Reflecting The Now
+heading: Three Special Events, Reflecting The Now
 description: >-
   Golden Thread’s annual staged reading series engages its audience in the
   process of playmaking and allows writers of Middle Eastern and non-Middle
@@ -17,7 +17,7 @@ description: >-
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
-stage: Live-Streaming and In Person at Potrero Stage
+stage: Live-Streaming and/or     In Person at Potrero Stage
 address: 1695 18th St, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 ticketinfo: Please note the separate links for digital and in-person tickets!
