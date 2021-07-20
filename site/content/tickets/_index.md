@@ -17,8 +17,9 @@ lists:
           Assaf (Executive Artistic Director, Golden Thread Productions), Nidal
           Alashkar (Artistic Director, Al Madina Theatre), Zeina Daccache
           (Executive Director, Catharsis - Lebanese Center for Drama Therapy),
-          Ghida Frangieh (Lawyer, Legal Agenda), Tania El Khoury (Performance
-          Artist), and Hamid Sinno (Musician and Writer).
+          Ghida Frangieh (Lawyer, Legal Agenda), Tania El Khoury (Director, OSUN
+          Center for Human Rights and the Arts at Bard), and Hamid Sinno
+          (Musician and Writer).
 
 
           *This event is livestreamed. It will be accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.*
