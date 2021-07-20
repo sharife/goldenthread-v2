@@ -11,15 +11,15 @@ items:
     cta: Click to Learn More!
     link: https://goldenthread.org/productions/new-threads-reading-series/
     text: >-
-      After a 3 year hiatus, our highly anticipated new play development series
+      After a 2 year hiatus, our highly anticipated new play development series
       is back! Presented in a special hybrid format, the readings are free and
-      open to the public, all are accessible via digital live-stream with some
-      limited in person tickets available to join live at Potrero Stage! This
-      year’s line-up includes a very special virtual opening event curated by
-      Sahar Assaf, the first full-read through of the recently commissioned and
-      collaboratively created Triptych play by three of our Resident Artist
-      playwrights, and a play by acclaimed Brooklyn-based actor and writer
-      Leslie Kalarchian.
+      open to the public, and all are accessible via digital live-stream with
+      some limited in person tickets available to join us live at Potrero Stage!
+      This year’s line-up includes a very special virtual opening event curated
+      by Sahar Assaf, the first full-read through of a recently commissioned and
+      collaboratively created triptych play by Golden Thread Resident Artists
+      Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour, and a play by
+      acclaimed Brooklyn-based actor and writer Leslie Kalarchian.
 
 
       ***Find Out More Below!***
