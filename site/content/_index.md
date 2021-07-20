@@ -1,7 +1,7 @@
 ---
 title: Middle East Center Stage
 headline: New Threads Returns, Online and In Person
-subtitle: Three special presentations reflecting the Now!
+subtitle: Three special presentations reflecting the now!
 background: https://ucarecdn.com/350e3cd6-4047-4c24-8d88-56a08a991918/
 cta: Learn more about New Threads 2021!
 link: https://goldenthread.org/productions/new-threads-reading-series/
@@ -13,12 +13,13 @@ items:
     text: >-
       After a 3 year hiatus, our highly anticipated new play development series
       is back! Presented in a special hybrid format, the readings are free and
-      open to the public, all accessible via digital live-stream with limited in
-      person tickets available to join live at Potrero Stage! This year’s
-      line-up includes a very special digital opening event curated by Sahar
-      Assaf,  the first full-read of our three commissioned Resident Artist
-      playwrights' collaborative Triptych, and a play by acclaimed
-      Brooklyn-based actress and writer Leslie Kalarchian.
+      open to the public, all are accessible via digital live-stream with some
+      limited in person tickets available to join live at Potrero Stage! This
+      year’s line-up includes a very special virtual opening event curated by
+      Sahar Assaf, the first full-read through of the recently commissioned and
+      collaboratively created Triptych play by three of our Resident Artist
+      playwrights, and a play by acclaimed Brooklyn-based actor and writer
+      Leslie Kalarchian.
 
 
       ***Find Out More Below!***
