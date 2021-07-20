@@ -16,7 +16,7 @@ items:
       open to the public, and all are accessible via digital live-stream with
       some limited in person tickets available to join us live at Potrero Stage!
       This year’s line-up includes a very special virtual opening event curated
-      by Sahar Assaf, the first full-read through of a recently commissioned and
+      by Sahar Assaf, the first full read through of a recently commissioned and
       collaboratively created triptych play by Golden Thread Resident Artists
       Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour, and a play by
       acclaimed Brooklyn-based actor and writer Leslie Kalarchian.
