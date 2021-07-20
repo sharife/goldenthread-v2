@@ -48,7 +48,7 @@ lists:
           Fine Art inkjet print on archival paper, 90x120cm.
         itemstart: 2021-07-19T18:59:49.947Z
         cta: Register for the live-stream!
-        subtitle: interviews collected by **Nour Annan** and **Sahar Assaf**
+        subtitle: testimonies collected by **Sahar Assaf** and **Nour Annan**
         title: I WANT TO TELL YOU ABOUT BEIRUT
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNJIUA4
         image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
