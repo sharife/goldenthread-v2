@@ -14,7 +14,7 @@ description: >-
   brilliant gems never before seen in the Bay Area!
 
 
-  Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play.
+  Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and other experts that comment on the themes of the play.
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
 additional: ""
@@ -60,7 +60,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
+          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0)!
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Reserve free tickets to the in-person event!
         subtitle: |-
@@ -86,7 +86,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG)!
+          To reserve your free digital live-stream watch link, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC)!
         itemstart: 2021-07-19T18:59:51.041Z
         cta: Reserve free tickets to the in-person event!
         subtitle: |-
@@ -100,4 +100,4 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-This year's program will be presented in hybrid format: all live-streaming online and some limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These presentations and plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
+This year's program will be presented in a hybrid format: all events are live-streamed online and some have limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading! These presentations and plays-in-development are FREE and open to the public. Reservations are recommended as space is limited.
