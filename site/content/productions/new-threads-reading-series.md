@@ -31,7 +31,16 @@ lists:
           live-stream.***
 
 
-          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Director, OSUN Center for Human Rights and the Arts at Bard), and **Hamid Sinno** (Musician and Writer). The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+          On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with **Al Madina Theatre** and the **Legal Agenda** in Lebanon to present *I Want to Tell You About Beirut*, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion featuring **Sahar Assaf** (Executive Artistic Director, Golden Thread Productions), **Nidal Alashkar** (Artistic Director, Al Madina Theatre), **Zeina Daccache** (Executive Director, Catharsis - Lebanese Center for Drama Therapy), **Ghida Frangieh** (Lawyer, Legal Agenda), **Tania El Khoury** (Director, OSUN Center for Human Rights and the Arts at Bard), and **Hamid Sinno** (Musician and Writer). 
+
+
+          The event is accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.
+
+
+          Space is limited. Register early for Zoom participation. 
+
+
+          This program will also be broadcast on [Howlround](https://howlround.com/happenings/livestreaming-performance-and-conversation-i-want-tell-you-about-beirut).
 
 
           Image Credit - **Dia Mrad**, “Oil on Water,” March 27, 2020. \
