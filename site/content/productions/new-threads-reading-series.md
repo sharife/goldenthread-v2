@@ -50,7 +50,7 @@ lists:
         cta: Register for the live-stream!
         subtitle: interviews collected by **Nour Annan** and **Sahar Assaf**
         title: I WANT TO TELL YOU ABOUT BEIRUT
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNJIUA4
         image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
       - pre: Tuesday, August 10th, at 7:00 PM
         itemend: 2021-07-19T18:59:50.740Z
@@ -69,7 +69,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)!
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
@@ -95,14 +95,14 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNefUAG)!
         itemstart: 2021-07-19T18:59:51.041Z
         cta: Register here for the in-person event!
         subtitle: |-
           by **Leslie Kalarchian** 
           directed by **Sahar Assaf**
         title: WE'RE ALL HERE
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNf4UAG
         image: https://ucarecdn.com/bfd96e54-747b-4a01-baa4-177804d6dafe/
 cast:
   heading: ""
