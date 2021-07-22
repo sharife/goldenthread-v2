@@ -73,7 +73,7 @@ lists:
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
-          by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
+          by **Hassan Abdulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
           directed by **Evren Odcikin**
         title: ARAB PLAY CYCLE
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
