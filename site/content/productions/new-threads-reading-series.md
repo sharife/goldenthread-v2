@@ -59,7 +59,7 @@ lists:
           child who won’t wake up; and two post-COVID 19, post-Capitol riots
           encounters; form this new play cycle by three acclaimed Arab writers.
           In Golden Thread’s unique commission, three of the company’s Resident
-          Artists, **Hassan Abdulrazzak**, **Hannah Khalil**,and **Mona
+          Artists, **Hassan Abdulrazzak**, **Hannah Khalil**, and **Mona
           Mansour**, reflect on the world now. 
 
 
