@@ -69,7 +69,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)!
+          To register for the live-stream, click here!
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
