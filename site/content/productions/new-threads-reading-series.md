@@ -19,7 +19,7 @@ background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
 additional: ""
 stage: Live-Streaming to your home and/or In Person at Potrero Stage
-address: 1695 18th St, San Francisco
+address: 1695 18th Street, San Francisco CA 94107
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 ticketinfo: Please note the separate links for digital and in-person tickets!
 lists:
@@ -73,7 +73,7 @@ lists:
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
-          by **Hassan Abulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
+          by **Hassan Abdulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
           directed by **Evren Odcikin**
         title: ARAB PLAY CYCLE
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
