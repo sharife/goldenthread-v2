@@ -52,7 +52,7 @@ lists:
         title: I WANT TO TELL YOU ABOUT BEIRUT
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNJIUA4
         image: https://ucarecdn.com/e4c66d82-a669-4fcc-97dc-21e45fa70256/
-      - pre: Tuesday, August 10th, at 7:00 PM
+      - pre: Tuesday, August 10th, at 7:00 PM PT
         itemend: 2021-07-19T18:59:50.740Z
         text: >-
           A couple on an uncomfortable mini-break; a pair of mothers with a
@@ -78,7 +78,7 @@ lists:
         title: ARAB PLAY CYCLE
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
         image: https://ucarecdn.com/a568bf7b-6fa8-497b-acba-e9f713667a8e/
-      - pre: Tuesday, August 17, at 7:00 PM
+      - pre: Tuesday, August 17, at 7:00 PM PT
         itemend: 2021-07-19T18:59:51.062Z
         text: >-
           Maro Thompson, a widowed music teacher resolved to admitting her
