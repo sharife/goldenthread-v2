@@ -42,12 +42,31 @@ lists:
           child who won’t wake up; and two post-COVID 19, post-Capitol riots
           encounters; form this new play cycle by three acclaimed Arab writers.
           In Golden Thread’s unique commission, three of the company’s Resident
-          Artists, Hassan Abdulrazzak, Hannah Khalil and Mona Mansour, reflect
-          on the world now.
+          Artists, **Hassan Abdulrazzak**, **Hannah Khalil** and **Mona
+          Mansour**, reflect on the world now.
 
 
-          Registration Available 7/26/2021
+          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOTUA0)!
+
+
+          [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q7UAC) for the IN-PERSON event!
+
+
+          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 72 hours is acceptable in the case of medical or religious exemption. Please be prepared to present proof at the theatre.
+
+
+          A well-fitted face covering is required for entry and must be worn at all times.
+
+
+          Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
+
+
+          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click here.
+
+
+          Registration is extremely limited. Please contact the box office if you cannot attend.
         cta: ""
+        link: ""
       - title: We're All Here
         pre: Tuesday, August 17, at 7pm PDT
         text: >-
