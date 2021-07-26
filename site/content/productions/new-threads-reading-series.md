@@ -69,7 +69,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)! **Use the code NT2021 during check-out to register for FREE!**
         itemstart: 2021-07-19T18:59:50.724Z
         cta: Register here for the in-person event!
         subtitle: |-
@@ -95,7 +95,7 @@ lists:
           **REGISTRATION BEGINS JULY 26TH**
 
 
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNefUAG)!
+          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNefUAG)! **Use the code NT2021 during check-out to register for FREE!**
         itemstart: 2021-07-19T18:59:51.041Z
         cta: Register here for the in-person event!
         subtitle: |-
