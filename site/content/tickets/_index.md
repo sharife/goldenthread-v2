@@ -61,7 +61,7 @@ lists:
           Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
 
 
-          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click here.
+          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, [click here](https://goldenthread.org/posts/health-safety-protocols/).
 
 
           Registration is extremely limited. Please contact the box office if you cannot attend.
@@ -92,7 +92,7 @@ lists:
           Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
 
 
-          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click here.
+          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, [click here](https://goldenthread.org/posts/health-safety-protocols/).
 
 
           Registration is extremely limited. Please contact the box office if you cannot attend.
