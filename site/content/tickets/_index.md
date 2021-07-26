@@ -46,7 +46,7 @@ lists:
           Mansour**, reflect on the world now.
 
 
-          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOTUA0)!
+          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOTUA0)! **Use the code NT2021 during check-out to register for FREE!**
 
 
           [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q7UAC) for the IN-PERSON event!
@@ -77,7 +77,7 @@ lists:
           painfully dark history.
 
 
-          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOiUAK)!
+          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOiUAK)! **Use the code NT2021 during check-out to register for FREE!**
 
 
           [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1qMUAS) for the IN-PERSON event!
