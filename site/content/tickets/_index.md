@@ -77,7 +77,25 @@ lists:
           painfully dark history.
 
 
-          Registration Available 7/26/2021
+          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOiUAK)!
+
+
+          [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1qMUAS) for the IN-PERSON event!
+
+
+          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 72 hours is acceptable in the case of medical or religious exemption. Please be prepared to present proof at the theatre.
+
+
+          A well-fitted face covering is required for entry and must be worn at all times.
+
+
+          Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
+
+
+          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click here.
+
+
+          Registration is extremely limited. Please contact the box office if you cannot attend.
         subtitle: |-
           by Leslie Kalarchian
 
