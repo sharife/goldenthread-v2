@@ -1,11 +1,10 @@
 ---
 title: Health & Safety Protocols
 date: 2021-07-26T01:05:54.085Z
-description: The health and safety of our artists, audiences and staff is our
-  highest priority. In addition to the protocols posted here, we are practicing
-  additional measures within our offices and rehearsal halls that further ensure
-  the health and safety of our artists, audiences and staff.
+description: ""
 ---
+The health and safety of our artists, audiences and staff is our highest priority. In addition to the protocols posted here, we are practicing additional measures within our offices and rehearsal halls that further ensure the health and safety of our artists, audiences and staff.
+
 Our health and safety protocols have been adapted to comply with current health and safety protocols provided by the San Francisco Department of Public Health. These are subject to change according to government and health expert recommendations and industry standards.
 
 Our current measures include:
