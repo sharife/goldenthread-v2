@@ -52,7 +52,7 @@ lists:
           [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q7UAC) for the IN-PERSON event!
 
 
-          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 72 hours is acceptable in the case of medical or religious exemption. Please be prepared to present proof at the theatre.
+          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 48 hours is also acceptable. Please be prepared to present proof at the theatre.
 
 
           A well-fitted face covering is required for entry and must be worn at all times.
@@ -83,7 +83,7 @@ lists:
           [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1qMUAS) for the IN-PERSON event!
 
 
-          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 72 hours is acceptable in the case of medical or religious exemption. Please be prepared to present proof at the theatre.
+          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 48 hours is also acceptable. Please be prepared to present proof at the theatre.
 
 
           A well-fitted face covering is required for entry and must be worn at all times.
