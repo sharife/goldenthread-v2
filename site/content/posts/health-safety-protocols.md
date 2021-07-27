@@ -9,7 +9,7 @@ Our health and safety protocols have been adapted to comply with current health 
 
 Our current measures include:
 
-* Requiring proof of full vaccination. A negative COVID-19 test is acceptable in cases of medical or religious exemption.
+* Requiring proof of full vaccination or a negative COVID-19 test result within the 48 hours prior to the event.
 * Mandatory well fitted masks that completely cover nose and mouth, secured with ear loops or head strap (gaiters and bandanas are not acceptable).
 * Increasing space between audience members.
 * A no-touch or low-touch experience at the theater.
@@ -20,7 +20,7 @@ All patrons age 12 and up are required to show proof, prior to admittance, of fu
 
 Full vaccination is defined as completion of the two-dose regimen of Pfizer or Moderna vaccines or one dose of Johnson & Johnson vaccine administered two weeks or more in advance of attendance. Fully vaccinated patrons must bring a paper, photo, or electronic copy of their completed vaccination card or a record of vaccination directly from the healthcare provider who administered the vaccine with an appropriate ID matching the name on the proof of vaccination for entry.
 
-A negative COVID-19 test (a PCR test taken not more than 72 hours before the event or an antigen test taken not more than 24 hours before the event) is acceptable in the case of medical or religious exemption. A paper, photo, or electronic copy of the negative COVID-19 test result with an appropriate ID matching the name on the proof of negative COVID-19 test would be required for entry. Patrons with this exemption should contact the box office in advance to request reasonable accommodation.
+A negative COVID-19 test (a PCR test taken not more than 48 hours before the event or an antigen test taken not more than 24 hours before the event) is also acceptable. A paper, photo, or electronic copy of the negative COVID-19 test result with an appropriate ID matching the name on the proof of negative COVID-19 test would be required for entry.
 
 **WELL-FITTED MASKS**
 A well fitted face covering is required for entry and must be worn at all times. Face masks must completely cover your nose and mouth and have ear loops or head straps to hold it in place. Gaiters and bandannas are not acceptable.
