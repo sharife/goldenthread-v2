@@ -18,7 +18,7 @@ lists:
           Alashkar (Artistic Director, Al Madina Theatre), Zeina Daccache
           (Executive Director, Catharsis - Lebanese Center for Drama Therapy),
           Ghida Frangieh (Lawyer, Legal Agenda), Tania El Khoury (Director, OSUN
-          Center for Human Rights and the Arts at Bard), and Hamid Sinno
+          Center for Human Rights and the Arts at Bard), and Hamed Sinno
           (Musician and Writer).
 
 
