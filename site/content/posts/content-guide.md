@@ -9,6 +9,20 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
+Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
+
+##### New Threads 2021
+
+### I Want To Tell You About Beirut
+
+**directed by Sahar Assaf**
+
+Verbatim testimonies of survivors of the Beirut Port explosion that happened on August 4, 2020
+
+**Content Advisory: The testimonies contain graphic descriptions of physical injury, traumatic experiences, death of a loved one, and material that may be disturbing or traumatizing to some audiences.**
+
+On August 4, 2020, at 6:07 PM one of the biggest non-nuclear explosions in the history of mankind happened at the port of Beirut, Lebanon. This catastrophic event claimed the lives of more than 200 victims, injured 7000 and left 300,000 homeless and caused massive property damage across the city. Golden Thread Productions collaborates with Al Madina Theatre and the Legal Agenda in Lebanon to present I Want to Tell You About Beirut, which commemorates the 1-year mark of the explosion that ruined the lives of thousands of innocent civilians. The event will commence with a recorded reading of testimonies presented in English and Arabic by actors based in San Francisco and actors based in Beirut and will be followed by a live roundtable discussion.
+
 June 7-13, 2021
 
 ### Operation No Penetration: Lysistrata 97!
