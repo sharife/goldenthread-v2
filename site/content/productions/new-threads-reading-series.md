@@ -43,6 +43,9 @@ lists:
           This program will also be broadcast on [Howlround](https://howlround.com/happenings/livestreaming-performance-and-conversation-i-want-tell-you-about-beirut).
 
 
+          [Read More](https://goldenthread.org/posts/content-guide/) content information.
+
+
           Image Credit - **Dia Mrad**, “Oil on Water,” March 27, 2020. \
 
           Fine Art inkjet print on archival paper, 90x120cm.
