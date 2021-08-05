@@ -1,6 +1,17 @@
 ---
 title: Buy Tickets
 lists:
+  - items:
+      - text: The health and safety of our artists, audiences and staff is our highest
+          priority. In response to health and safety developments related to the
+          recent surge of COVID infections in the Bay Area and revised
+          recommendations from city and county health departments along with the
+          CDC, Golden Thread has made the decision to present our New Threads
+          readings solely as digital livestreams. If you already registered for
+          in person or digital attendance, you will be automatically added to
+          our updated Zoom event. We look forward to rejoining you in person at
+          Potrero Stage as soon as is safely possible, and can’t wait to share
+          these vital new plays-in-progress with you virtually!
   - heading: New Threads 2021
     items:
       - title: I Want To Tell You About Beirut
@@ -49,27 +60,9 @@ lists:
           Mansour**, reflect on the world now.
 
 
-          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOTUA0)! **Use the code NT2021 during check-out to register for FREE!**
-
-
-          [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q7UAC) for the IN-PERSON event!
-
-
-          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 48 hours is also acceptable. Please be prepared to present proof at the theatre.
-
-
-          A well-fitted face covering is required for entry and must be worn at all times.
-
-
-          Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
-
-
-          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, [click here](https://goldenthread.org/posts/health-safety-protocols/).
-
-
-          Registration is extremely limited. Please contact the box office if you cannot attend.
-        cta: ""
-        link: ""
+          The IN-PERSON event has been cancelled due to health and safety.
+        cta: Register for the live-stream event!
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0
       - title: We're All Here
         pre: Tuesday, August 17, at 7pm PDT
         text: >-
@@ -80,30 +73,13 @@ lists:
           painfully dark history.
 
 
-          To register for the LIVE-STREAM, [click here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rQvOiUAK)! **Use the code NT2021 during check-out to register for FREE!**
-
-
-          [Register here](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1qMUAS) for the IN-PERSON event!
-
-
-          Proof of vaccination against COVID-19 is required to attend. A negative COVID-19 test within the previous 48 hours is also acceptable. Please be prepared to present proof at the theatre.
-
-
-          A well-fitted face covering is required for entry and must be worn at all times.
-
-
-          Seating will be assigned by the theater after registration to ensure some social distancing between parties. For these readings, we are limiting seating capacity to 50%. Attendees must register in advance. 
-
-
-          By registering for this event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, [click here](https://goldenthread.org/posts/health-safety-protocols/).
-
-
-          Registration is extremely limited. Please contact the box office if you cannot attend.
+          The IN-PERSON event has been cancelled due to health and safety.
         subtitle: |-
           by Leslie Kalarchian
 
           directed by Sahar Assaf
-        cta: ""
+        cta: Register for the live-stream event!
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC
 ---
 - - -
 
