@@ -18,10 +18,11 @@ description: >-
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
 additional: ""
-stage: Live-Streaming to your home and/or In Person at Potrero Stage
-address: 1695 18th Street, San Francisco CA 94107
+stage: Live-Stream Presentation Only
+address: ""
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-ticketinfo: Please note the separate links for digital and in-person tickets!
+ticketinfo: Live-Stream only available. In-Person programming cancelled due to
+  health and safety.
 lists:
   - items:
       - pre: Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
@@ -69,17 +70,14 @@ lists:
           Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change.  The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought. 
 
 
-          **REGISTRATION BEGINS JULY 26TH**
-
-
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNO3UAO)! **Use the code NT2021 during check-out to register for FREE!**
+          The in-person event has been cancelled due to health and safety.
         itemstart: 2021-07-19T18:59:50.724Z
-        cta: Register here for the in-person event!
+        cta: Register here for the live-stream event!
         subtitle: |-
           by **Hassan Abdulrazzak**, **Hannah Khalil**, and **Mona Mansour** 
           directed by **Evren Odcikin**
         title: ARAB PLAY CYCLE
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNepUAG
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0
         image: https://ucarecdn.com/a568bf7b-6fa8-497b-acba-e9f713667a8e/
       - pre: Tuesday, August 17, at 7:00 PM PT
         itemend: 2021-07-19T18:59:51.062Z
@@ -95,17 +93,14 @@ lists:
           connection to Armenia’s painfully dark history.
 
 
-          **REGISTRATION BEGINS JULY 26TH**
-
-
-          To register for the live-stream, [click here](https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNefUAG)! **Use the code NT2021 during check-out to register for FREE!**
+          The in-person event has been cancelled due to health and safety.
         itemstart: 2021-07-19T18:59:51.041Z
-        cta: Register here for the in-person event!
+        cta: Register here for the live-stream event!
         subtitle: |-
           by **Leslie Kalarchian** 
           directed by **Sahar Assaf**
         title: WE'RE ALL HERE
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YNf4UAG
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC
         image: https://ucarecdn.com/bfd96e54-747b-4a01-baa4-177804d6dafe/
 cast:
   heading: ""
