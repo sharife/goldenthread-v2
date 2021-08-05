@@ -66,7 +66,7 @@ lists:
       - title: We're All Here
         pre: Tuesday, August 17, at 7pm PDT
         text: >-
-          When Maro Thompson, a widowed music teacher resolved to admitting her
+          When Maro Thompson, a widowed music teacher resolved to admit her
           rapidly deteriorating mother, Zada, into a nursing home hires an
           impassioned artist to help clean out her childhood home, family
           mysteries unravel as Maro discovers her connection to Armenia’s
