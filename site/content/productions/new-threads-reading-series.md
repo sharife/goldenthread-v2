@@ -107,4 +107,8 @@ cast:
 photos:
   heading: Photo Gallery
 ---
-This year's program will be presented in a hybrid format: all events are live-streamed online and some have limited in person availability! Audiences at Potrero Stage and online will have an opportunity to ask questions and engage the playwrights and the creative team in conversation after each reading. These presentations and plays-in-development are FREE and open to the public. Registration is required as space is limited.
+The health and safety of our artists, audiences and staff is our highest priority. In response to health and safety developments related to the recent surge of COVID infections in the Bay Area and revised recommendations from city and county health departments along with the CDC, Golden Thread has made the decision to present our New Threads readings solely as digital livestreams.
+
+If you already registered for in person or digital attendance, you will be automatically added to our updated Zoom event. We look forward to rejoining you in person at Potrero Stage as soon as is safely possible, and can’t wait to share these vital new plays-in-progress with you virtually!
+
+The readings are FREE, but registration is required as space is limited.
