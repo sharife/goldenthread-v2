@@ -189,4 +189,4 @@ cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
 ---
-We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of artists in conversation with our artistic director Torange Yeghiazarian, and can't wait to continue this interactive free livestream programming with new episodes this year. We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
+We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of MENA artists in conversation, and continue this interactive live-streaming series monthly with exciting new topics and guests! We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
