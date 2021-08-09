@@ -25,7 +25,8 @@ A couple on an uncomfortable mini-break; a pair of mothers with a child who won�
 This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault. \
 \
 ***Only Connect by Mona Mansour***\
-The COVID-19 pandemic and social isolation are a central theme of the play.**\
+The COVID-19 pandemic and social isolation are a central theme of the play.\
+**\
 *The Cure by Hannah Khalil***\
 The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
 
