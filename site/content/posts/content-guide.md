@@ -9,9 +9,28 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
-Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
-
 ##### New Threads 2021
+
+Tuesday, August 10, at 7:00 PM (PT)
+
+### Arab Play Cycle
+
+**written by Hassan Abdulrazzak**, **Hannah Khalil**, **Mona Mansour and** **directed by Evren Odcikin**
+
+A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new triptych play cycle by three acclaimed Arab writers. 
+
+**Content Advisories by play:**
+
+***A Delicate Poison* by Hassan Abdulrazzak**This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault. \
+*\
+**Only***** *Connect* by Mona Mansour**The COVID-19 pandemic and social isolation are a central theme of the play.\
+\
+***The Cure* by Hannah Khalil**\
+The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
+
+Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
+
+Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
 
 ### I Want To Tell You About Beirut
 
