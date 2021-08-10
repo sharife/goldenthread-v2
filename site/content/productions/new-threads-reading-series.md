@@ -17,6 +17,8 @@ description: >-
   Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and other experts that comment on the themes of the play.
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
+programlabel: Read the digital program!
+program: https://ucarecdn.com/b96671de-5ffe-45dc-b0e0-788c69d71410/
 additional: ""
 stage: Live-Stream Presentation Only
 address: ""
