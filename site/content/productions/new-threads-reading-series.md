@@ -18,7 +18,7 @@ description: >-
 background: https://ucarecdn.com/ce518d5b-da25-45d9-b4f1-2b886c620c05/
 titleimage: https://ucarecdn.com/86ee0cca-7cb7-4486-b137-6b166fb9d72f/
 programlabel: Read the digital program!
-program: https://ucarecdn.com/b96671de-5ffe-45dc-b0e0-788c69d71410/
+program: https://ucarecdn.com/c7573d54-999e-4bf2-a2c4-7522876c920c/
 additional: ""
 stage: Live-Stream Presentation Only
 address: ""
