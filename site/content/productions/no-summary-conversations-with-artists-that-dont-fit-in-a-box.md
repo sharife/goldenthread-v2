@@ -61,7 +61,7 @@ lists:
         cta: Click here to watch!
         subtitle: Aired Wednesday, October 7th, 2020.
         title: Featuring leading Iranian playwright, Naghmeh Samini!
-        link: https://howlround.com/happenings/no-summary-playwright-naghmeh-samini
+        link: https://youtu.be/xUu9C-zKY9M
         image: https://ucarecdn.com/2a48cbde-db89-472a-9fe4-8c59e01116ea/
       - itemstart: 2020-10-23T18:00:10.783Z
         itemend: 2020-10-23T20:00:34.927Z
@@ -77,7 +77,7 @@ lists:
           play exploring the Black Panthers’ residency in Algeria in the 1960s
           and 70s.
         cta: Click here to watch!
-        link: https://howlround.com/happenings/no-summary-playwrights-hassan-abdulrazzak-tariq-hamami-hannah-khalil-and-mona-mansour
+        link: https://youtu.be/uv7XpHFod6I
         image: https://ucarecdn.com/e60b689b-a8ef-4b3f-b5e1-6ff02aab18e8/
       - itemstart: 2020-11-06T19:00:26.374Z
         itemend: 2020-11-06T21:00:56.468Z
@@ -92,7 +92,7 @@ lists:
           10th. Drawn from Palestinian folktales, *Leila’s Quest for Flight* is
           written and directed by Torange Yeghiazarian.
         cta: Click here to watch!
-        link: https://howlround.com/happenings/no-summary-golden-thread-fairytale-players
+        link: https://youtu.be/d-GWuDJYzaU
       - itemstart: 2021-02-20T04:20:42.496Z
         itemend: 2021-02-20T04:20:42.529Z
         title: Featuring Evren Odcikin and Nora el Samahy!
@@ -115,7 +115,7 @@ lists:
           international group of collaborators during the lockdown, performed
           December 5, 2020-January 3, 2021.
         cta: Click here to watch!
-        link: https://howlround.com/happenings/no-summary-evren-odcikin-and-nora-el-samahy
+        link: https://youtu.be/OE0n8Sl-Fjo
       - pre: ""
         itemend: 2021-03-26T20:00:57.074Z
         text: "NO SUMMARY series returns with a conversation with **John Eisner**,
@@ -131,7 +131,7 @@ lists:
         cta: Click here to watch!
         subtitle: Aired March 26th, 2021 @ 11AM PT.
         title: "Featuring Middle East America: A National New Plays Initiative!"
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-john-eisner-jamil-khoury-and-torange-yeghiazarian
+        link: https://youtu.be/3rEW8hcXOQw
         image: https://ucarecdn.com/a8043dca-fcd8-4edd-8c08-f0a7fa9a09aa/
       - pre: ""
         itemend: 2021-03-30T21:27:03.676Z
@@ -150,7 +150,7 @@ lists:
         cta: Click Here to Watch on April 23rd!
         subtitle: Aired Friday, April 23rd at 11am PDT.
         title: Queering Our Middle Eastern Identities
-        link: https://howlround.com/happenings/no-summary-queering-our-middle-eastern-identities
+        link: https://youtu.be/O63RslJtl5A
         image: https://ucarecdn.com/191a6368-357d-474a-b941-08632cd58e5e/
       - pre: ""
         itemend: 2021-04-28T01:43:54.455Z
@@ -167,9 +167,9 @@ lists:
           facilitate.
         itemstart: 2021-04-28T01:43:54.427Z
         cta: Click here to watch!
-        subtitle: Join us Friday, May 28th @ 11AM PDT!
+        subtitle: Aired Friday, May 28th @ 11AM PDT!
         title: Bridging the Past to a New Era
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-bridging-past-new-era
+        link: https://youtu.be/3caSoEwTEM4
         image: https://ucarecdn.com/1e453de5-2108-454f-bbed-868298dfbff0/
       - pre: ""
         itemend: 2021-06-15T06:56:39.928Z
@@ -183,7 +183,7 @@ lists:
         cta: Click here to watch!
         subtitle: Aired Friday, June 25th @ 11AM PT.
         title: The SWANA Queer Imagination
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-swana-queer-imagination
+        link: https://youtu.be/G2pTcUqwsrc
         image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
 cast:
   items: []
