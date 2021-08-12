@@ -15,37 +15,27 @@ lists:
     items:
       - pre: Up Next!
         itemend: 2021-07-09T00:27:25.144Z
-        text: >-
-          *NO SUMMARY*is back featuring **a brand new digital platform
-          celebrating MENA Playwrights!** We are honored to host the launch of
-          the first and only searchable database in the field of MENA
-          Theatre: ***The Digital Guide to Theatre of the Middle East: 21st
-          Century Volume*** (DGTOME) created by dramaturg and
-          researcher **Marjan Moosavi**. Marjan will present the DGTOME and
-          speak about this transnational collaboration of experts and artists
-          that led to the emergence of this pioneering archival project. The
-          presentation will be followed by a roundtable discussion with Arts
-          Professor **Catherine Coray**, playwright **Adam El Sayegh,** and
-          stage director **Pirronne Yousefzadeh,** moderated by our Executive
-          Artistic Director **Sahar Assaf** and **Samer Al Saber**, Assistant
-          Professor of Theatre and Performance Studies at Stanford University,
-          about the intersection of digital humanities research and MENA theatre
-          and how DGTOME debunks the scarcity narrative of MENA playwrights and
-          MENA stories.\
-
-          \
-
-          For the first time ever, you can join the Zoom conversation ***live*** by registering for a participatory watch link in advance. At the end of the panel presentation, you'll be invited onscreen to join the lively conversation and ask questions directly of the panelists! \
-
-          \
-
-          [Click here](https://howlround.com/happenings/livestreaming-conversation-no-summary-celebration-mena-playwrights) to watch on Howlround!
+        text: "*NO SUMMARY* is back featuring **a brand new digital platform celebrating
+          MENA Playwrights!** We are honored to host the launch of the first and
+          only searchable database in the field of MENA Theatre: ***The Digital
+          Guide to Theatre of the Middle East: 21st Century Volume*** (DGTOME)
+          created by dramaturg and researcher **Marjan Moosavi**. Marjan will
+          present the DGTOME and speak about this transnational collaboration of
+          experts and artists that led to the emergence of this pioneering
+          archival project. The presentation is followed by a roundtable
+          discussion with Arts Professor **Catherine Coray**, playwright **Adam
+          El Sayegh,** and stage director **Pirronne Yousefzadeh,** moderated by
+          our Executive Artistic Director **Sahar Assaf** and **Samer Al
+          Saber**, Assistant Professor of Theatre and Performance Studies at
+          Stanford University, about the intersection of digital humanities
+          research and MENA theatre and how DGTOME debunks the scarcity
+          narrative of MENA playwrights and MENA stories."
         itemstart: 2021-07-09T00:27:25.106Z
-        cta: Click here to register!
+        cta: Click here to watch!
         subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
         title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
           playwrights!"
-        link: https://stanford.zoom.us/meeting/register/tJYqd-Grpj0oHNYc7J5akJonuwDLTEJFvD-P
+        link: https://youtu.be/C2ic0xLMtTs
         image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
