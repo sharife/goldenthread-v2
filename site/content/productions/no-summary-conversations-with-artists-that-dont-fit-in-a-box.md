@@ -14,29 +14,28 @@ lists:
   - heading: List of Episodes
     items:
       - pre: Up Next!
-        itemend: 2021-07-09T00:27:25.144Z
-        text: "*NO SUMMARY* is back featuring **a brand new digital platform celebrating
-          MENA Playwrights!** We are honored to host the launch of the first and
-          only searchable database in the field of MENA Theatre: ***The Digital
-          Guide to Theatre of the Middle East: 21st Century Volume*** (DGTOME)
-          created by dramaturg and researcher **Marjan Moosavi**. Marjan will
-          present the DGTOME and speak about this transnational collaboration of
-          experts and artists that led to the emergence of this pioneering
-          archival project. The presentation is followed by a roundtable
-          discussion with Arts Professor **Catherine Coray**, playwright **Adam
-          El Sayegh,** and stage director **Pirronne Yousefzadeh,** moderated by
-          our Executive Artistic Director **Sahar Assaf** and **Samer Al
-          Saber**, Assistant Professor of Theatre and Performance Studies at
-          Stanford University, about the intersection of digital humanities
-          research and MENA theatre and how DGTOME debunks the scarcity
-          narrative of MENA playwrights and MENA stories."
-        itemstart: 2021-07-09T00:27:25.106Z
-        cta: Click here to watch!
-        subtitle: Join us *LIVE* Friday, July 30th, at 11AM PT!
-        title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
-          playwrights!"
-        link: https://youtu.be/C2ic0xLMtTs
-        image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
+        itemend: 2021-08-16T20:18:33.487Z
+        text: "In this episode we put the spotlight on three of the emerging SWANA
+          theatre companies in the United States: Dunya Productions in Seattle,
+          Peydah Theatre Company in New York City, and Medina Theater Collective
+          in Chicago, whose work is bravely making space for diverse SWANA
+          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
+          performer, director and the founding Artistic/Executive Director of
+          Art2Action, Inc.) will facilitate this conversation with **Nabra
+          Nelson** (theatre creator and founding company member of Dunya
+          Productions), **Shadi Ghaheri** (director, choreographer, writer and
+          founding member of Peydah Theatre Company), and **Rohina Malik**
+          (playwright and solo performer and Founding Artistic Director of
+          Medina Theater collective) as they tell us about their companies’
+          missions and visions, the projects they’re working on and what it
+          means to be amplifying the voices of marginalized communities in
+          today’s USA."
+        itemstart: 2021-08-16T20:18:33.449Z
+        cta: Click here to register!
+        subtitle: Join us *LIVE* Friday August 24 at 11:00 AM (PT)!
+        title: Emerging SWANA Theatre Companies under the Spotlight
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
+        image: https://ucarecdn.com/f4135e19-64b7-4e09-8e8a-9d9b30776a1e/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -175,6 +174,30 @@ lists:
         title: The SWANA Queer Imagination
         link: https://youtu.be/G2pTcUqwsrc
         image: https://ucarecdn.com/1d861d8c-483d-4043-a676-bdcb63ea8e96/
+      - pre: ""
+        itemend: 2021-07-09T00:27:25.144Z
+        text: "*NO SUMMARY* is back featuring **a brand new digital platform celebrating
+          MENA Playwrights!** We are honored to host the launch of the first and
+          only searchable database in the field of MENA Theatre: ***The Digital
+          Guide to Theatre of the Middle East: 21st Century Volume*** (DGTOME)
+          created by dramaturg and researcher **Marjan Moosavi**. Marjan will
+          present the DGTOME and speak about this transnational collaboration of
+          experts and artists that led to the emergence of this pioneering
+          archival project. The presentation is followed by a roundtable
+          discussion with Arts Professor **Catherine Coray**, playwright **Adam
+          El Sayegh,** and stage director **Pirronne Yousefzadeh,** moderated by
+          our Executive Artistic Director **Sahar Assaf** and **Samer Al
+          Saber**, Assistant Professor of Theatre and Performance Studies at
+          Stanford University, about the intersection of digital humanities
+          research and MENA theatre and how DGTOME debunks the scarcity
+          narrative of MENA playwrights and MENA stories."
+        itemstart: 2021-07-09T00:27:25.106Z
+        cta: Click here to watch!
+        subtitle: Aired Friday, July 30th, at 11AM PT.
+        title: "The Digital Guide to Theatre of the Middle East: A celebration of MENA
+          playwrights!"
+        link: https://youtu.be/C2ic0xLMtTs
+        image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
