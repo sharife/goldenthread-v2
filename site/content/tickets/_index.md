@@ -15,7 +15,7 @@ lists:
   - heading: New Threads 2021
     items:
       - title: We're All Here
-        pre: Tuesday, August 17, at 7pm PDT
+        pre: Tuesday, August 17, at 7pm (PT)
         text: >-
           When Maro Thompson, a widowed music teacher resolved to admit her
           rapidly deteriorating mother, Zada, into a nursing home hires an
@@ -31,6 +31,31 @@ lists:
           directed by Sahar Assaf
         cta: Register for the live-stream event!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC
+  - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
+    items:
+      - title: Emerging SWANA Theatre Companies under the Spotlight
+        pre: Friday, August 24, at 11:00 AM (PT)
+        text: "In this episode we put the spotlight on three of the emerging SWANA
+          theatre companies in the United States: Dunya Productions in Seattle,
+          Peydah Theatre Company in New York City, and Medina Theater Collective
+          in Chicago, whose work is bravely making space for diverse SWANA
+          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
+          performer, director and the founding Artistic/Executive Director of
+          Art2Action, Inc.) will facilitate this conversation with **Nabra
+          Nelson** (theatre creator and founding company member of Dunya
+          Productions), **Shadi Ghaheri** (director, choreographer, writer and
+          founding member of Peydah Theatre Company), and **Rohina
+          Malik** (playwright and solo performer and Founding Artistic Director
+          of Medina Theater collective) as they tell us about their companies’
+          missions and visions, the projects they’re working on and what it
+          means to be amplifying the voices of marginalized communities in
+          today’s USA."
+        cta: Register for the live-stream event!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
+        subtitle: |-
+          Facilitated byAndrea Assaf
+
+          With featured panelists Rohina Malik, Nabra Nelson and Shadi Ghaheri
 ---
 - - -
 
