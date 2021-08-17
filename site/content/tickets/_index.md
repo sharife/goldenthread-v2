@@ -14,57 +14,8 @@ lists:
           these vital new plays-in-progress with you virtually!
   - heading: New Threads 2021
     items:
-      - title: I Want To Tell You About Beirut
-        pre: Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
-        subtitle: directed by Sahar Assaf
-        text: >-
-          Golden Thread Productions collaborates with Al Madina Theatre and the
-          Legal Agenda in Lebanon to present ***I Want to Tell You About
-          Beirut***, which commemorates the 1-year mark of the explosion that
-          ruined the lives of thousands of innocent civilians. The event will
-          commence with a recorded reading of testimonies presented in English
-          and Arabic by actors based in San Francisco and actors based in Beirut
-          and will be followed by a live roundtable discussion featuring Sahar
-          Assaf (Executive Artistic Director, Golden Thread Productions), Nidal
-          Alashkar (Artistic Director, Al Madina Theatre), Zeina Daccache
-          (Executive Director, Catharsis - Lebanese Center for Drama Therapy),
-          Ghida Frangieh (Lawyer, Legal Agenda), Tania El Khoury (Director, OSUN
-          Center for Human Rights and the Arts at Bard), and Hamed Sinno
-          (Musician and Writer).
-
-
-          *This event is livestreamed. It will be accessible for English and Arabic speaking audiences and will last for approximately 90 minutes.*
-
-
-          *Space is limited. Register early for Zoom participation.* 
-
-
-          This program will also be broadcast on [Howlround](https://howlround.com/happenings/livestreaming-performance-and-conversation-i-want-tell-you-about-beirut).
-
-
-          [Read More](https://goldenthread.org/posts/content-guide/) content information.
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1F9UAK
-        cta: Register for Free!
-      - title: Arab Play Cycle
-        pre: Tuesday, August 10, at 7pm PDT
-        subtitle: |-
-          by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour
-
-          directed by Evren Odcikin
-        text: >-
-          A couple on an uncomfortable mini-break; a pair of mothers with a
-          child who won’t wake up; and two post-COVID 19, post-Capitol riots
-          encounters; form this new play cycle by three acclaimed Arab writers.
-          In Golden Thread’s unique commission, three of the company’s Resident
-          Artists, **Hassan Abdulrazzak**, **Hannah Khalil** and **Mona
-          Mansour**, reflect on the world now.
-
-
-          The IN-PERSON event has been cancelled due to health and safety.
-        cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1HFUA0
       - title: We're All Here
-        pre: Tuesday, August 17, at 7pm PDT
+        pre: Tuesday, August 17, at 7pm (PT)
         text: >-
           When Maro Thompson, a widowed music teacher resolved to admit her
           rapidly deteriorating mother, Zada, into a nursing home hires an
@@ -80,6 +31,31 @@ lists:
           directed by Sahar Assaf
         cta: Register for the live-stream event!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC
+  - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
+    items:
+      - title: Emerging SWANA Theatre Companies under the Spotlight
+        pre: Friday, August 24, at 11:00 AM (PT)
+        text: "In this episode we put the spotlight on three of the emerging SWANA
+          theatre companies in the United States: Dunya Productions in Seattle,
+          Peydah Theatre Company in New York City, and Medina Theater Collective
+          in Chicago, whose work is bravely making space for diverse SWANA
+          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
+          performer, director and the founding Artistic/Executive Director of
+          Art2Action, Inc.) will facilitate this conversation with **Nabra
+          Nelson** (theatre creator and founding company member of Dunya
+          Productions), **Shadi Ghaheri** (director, choreographer, writer and
+          founding member of Peydah Theatre Company), and **Rohina
+          Malik** (playwright and solo performer and Founding Artistic Director
+          of Medina Theater collective) as they tell us about their companies’
+          missions and visions, the projects they’re working on and what it
+          means to be amplifying the voices of marginalized communities in
+          today’s USA."
+        cta: Register for the live-stream event!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
+        subtitle: |-
+          Facilitated byAndrea Assaf
+
+          With featured panelists Rohina Malik, Nabra Nelson and Shadi Ghaheri
 ---
 - - -
 
