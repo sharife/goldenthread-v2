@@ -11,6 +11,18 @@ If you wish to know more about the content you see here, please contact the box 
 
 ##### New Threads 2021
 
+Tuesday, August 17, at 7:00 PM (PT)
+
+### We're All Here
+
+**written by Leslie Kalarchian and directed by Sahar Assaf**
+
+Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history. 
+
+ **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.** 
+
+
+
 Tuesday, August 10, at 7:00 PM (PT)
 
 ### Arab Play Cycle
