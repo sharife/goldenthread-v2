@@ -24,7 +24,7 @@ lists:
           painfully dark history.
 
 
-          The IN-PERSON event has been cancelled due to health and safety.
+          **The IN-PERSON event has been cancelled due to health and safety.**
         subtitle: |-
           by Leslie Kalarchian
 
@@ -53,7 +53,7 @@ lists:
         cta: Register for the live-stream event!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
         subtitle: |-
-          Facilitated byAndrea Assaf
+          Facilitated by Andrea Assaf
 
           With featured panelists Rohina Malik, Nabra Nelson and Shadi Ghaheri
 ---
