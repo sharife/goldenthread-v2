@@ -136,7 +136,7 @@ lists:
           of non-profit lending entity Working Solutions and Golden Thread
           resident artist, will facilitate.
         itemstart: 2021-03-30T21:27:03.642Z
-        cta: Click Here to Watch on April 23rd!
+        cta: Click here to watch!
         subtitle: Aired Friday, April 23rd at 11am PDT.
         title: Queering Our Middle Eastern Identities
         link: https://youtu.be/O63RslJtl5A
