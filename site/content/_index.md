@@ -31,23 +31,23 @@ items:
       San Francisco to helm the now 25 year old production company beginning May
       3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
       and relocation to San Francisco below!"
-  - image: https://ucarecdn.com/0f3d0680-37dd-4c70-b48f-04c3a035cb66/
+  - image: https://ucarecdn.com/ed4a9439-27c2-4369-b984-bef8351ccf49/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Join us in collaboration with The Abbasi Program in Islamic Studies at
-      Stanford University and the Roshan Institute for Persian Studies at the
-      University of Maryland as we celebrate the launch of the first and only
-      searchable database in the field of MENA Theatre: **The Digital Guide to
-      Theatre of the Middle East: 21st Century Volume** (DGTOME) created by
-      dramaturg and researcher Marjan Moosavi. Marjan will present the DGTOME
-      and will be followed by a roundtable discussion with Arts Professor
-      Catherine Coray, playwright Adam El Sayegh, and stage director Pirronne
-      Yousefzadeh, moderated by our Executive Artistic Director Sahar Assaf
-      about the intersection of digital humanities research and MENA theatre!
-      Tune in to celebrate MENA stories and playwrights with us!
+      Join us as we shine the spotlight on three of the emerging SWANA theatre
+      companies in the United States: Dunya Productions in Seattle, Peydah
+      Theatre Company in New York City, and Medina Theater Collective in
+      Chicago, whose work is bravely making space for diverse SWANA stories in
+      the U.S. theatre scene. This livestream conversation is facilitated by
+      Artistic Director of Art2Action Andrea Assaf and features Nabra Nelson
+      (theatre creator and founding company member of Dunya Productions), Shadi
+      Ghaheri (director, choreographer, writer and founding member of Peydah
+      Theatre Company), and Rohina Malik (playwright and solo performer and
+      Founding Artistic Director of Medina Theater collective)! Tune in to
+      celebrate MENA stories and playwrights with us!
 
 
-      ***Don't miss the Livestream on July 30th, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on August 27th, 2021 @ 11AM PT!***
 ---
