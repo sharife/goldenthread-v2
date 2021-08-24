@@ -15,7 +15,8 @@ lists:
     items:
       - pre: Up Next!
         itemend: 2021-08-16T20:18:33.487Z
-        text: "In this episode we put the spotlight on three of the emerging SWANA
+        text: >-
+          In this episode we put the spotlight on three of the emerging SWANA
           theatre companies in the United States: Dunya Productions in Seattle,
           Peydah Theatre Company in New York City, and Medina Theater Collective
           in Chicago, whose work is bravely making space for diverse SWANA
@@ -29,7 +30,10 @@ lists:
           Medina Theater collective) as they tell us about their companies’
           missions and visions, the projects they’re working on and what it
           means to be amplifying the voices of marginalized communities in
-          today’s USA."
+          today’s USA.
+
+
+          [Click here](https://howlround.com/happenings/livestreaming-no-summary-emerging-swana-theatre-companies-under-spotlight) to watch on Howlround.
         itemstart: 2021-08-16T20:18:33.449Z
         cta: Click here to register!
         subtitle: Join us *LIVE* Friday August 24 at 11:00 AM (PT)!
