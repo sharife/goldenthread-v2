@@ -90,33 +90,33 @@ staff:
       image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
       name: Navid Ghaem Maghami
     - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
-        Director of Golden Thread Productions, the first American theatre
-        company focused on the Middle East where she launched such visionary
-        programs as ReOrient Festival, New Threads, Fairytale Players, and What
-        do the Women Say?, and timely initiatives such as Islam 101 and Project
-        Alo? Torange has been recognized by Theatre Bay Area and is one of
-        Theatre Communication Group’s Legacy Leaders of Color. She was honored
-        by the Cairo International Theatre Festival and the Symposium on Equity
-        in the Entertainment Industry at Stanford University. A playwright,
-        director, and translator, Torange contributed a case study chapter to
-        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
-        and stage adaptation of Nizami’s “Leyla &#038; Majnun” is published on
-        Gleeditions.com. She has been published in The Drama Review, American
-        Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
-        Women &#038; Islamic Cultures and Cambridge World Encyclopedia of Stage
-        Actors. At Golden Thread, Torange directed OH MY SWEET LAND by Amir
-        Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY SCENES OF LOVE AND
-        COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF CREATION by
-        Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir Al-Azraki, VOICE
-        ROOM by Reza Soroor, and adapted the poem, I SELL SOULS by Simin
-        Behbehani for the stage. Torange was a member of the artistic team that
-        developed BENEDICTUS, a collaboration among Iranian, Israeli, and
-        American artists. She received a Gerbode-Hewlett Playwright Commission
-        Award for ISFAHAN BLUES, a co-production with African American
-        Shakespeare Company, and a commission from the Islamic Cultural Center
-        of Northern California to write THE FIFTH STRING: ZIRYAB’S PASSAGE TO
-        CORDOBA. Other plays include 444 DAYS, WAVES, and CALL ME MEHDI,
-        included in the anthology “Salaam. Peace: An Anthology of Middle
+        Director Emeritus of Golden Thread Productions, the first American
+        theatre company focused on the Middle East where she launched such
+        visionary programs as ReOrient Festival, New Threads, Fairytale Players,
+        and What do the Women Say?, and timely initiatives such as Islam 101 and
+        Project Alo? Torange has been recognized by Theatre Bay Area and is one
+        of Theatre Communication Group’s Legacy Leaders of Color. She was
+        honored by the Cairo International Theatre Festival and the Symposium on
+        Equity in the Entertainment Industry at Stanford University. A
+        playwright, director, and translator, Torange contributed a case study
+        chapter to “Casting a Movement”, forthcoming from Routledge, 2019. Her
+        translation and stage adaptation of Nizami’s “Leyla &#038; Majnun” is
+        published on Gleeditions.com. She has been published in The Drama
+        Review, American Theatre Magazine, AmerAsia Journal, and contributed to
+        Encyclopedia of Women &#038; Islamic Cultures and Cambridge World
+        Encyclopedia of Stage Actors. At Golden Thread, Torange directed OH MY
+        SWEET LAND by Amir Nizar Zuabi, and the premieres of OUR ENEMIES: LIVELY
+        SCENES OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi, THE
+        MYTH OF CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by
+        Amir Al-Azraki, VOICE ROOM by Reza Soroor, and adapted the poem, I SELL
+        SOULS by Simin Behbehani for the stage. Torange was a member of the
+        artistic team that developed BENEDICTUS, a collaboration among Iranian,
+        Israeli, and American artists. She received a Gerbode-Hewlett Playwright
+        Commission Award for ISFAHAN BLUES, a co-production with African
+        American Shakespeare Company, and a commission from the Islamic Cultural
+        Center of Northern California to write THE FIFTH STRING: ZIRYAB’S
+        PASSAGE TO CORDOBA. Other plays include 444 DAYS, WAVES, and CALL ME
+        MEHDI, included in the anthology “Salaam. Peace: An Anthology of Middle
         Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
         heritage, Torange holds a Master’s degree in Theatre Arts from San
         Francisco State University."
@@ -231,34 +231,6 @@ board:
         support the sharing of diverse stories of the Middle East.
       image: /img/archive/2017/12/Novick-Rebecca.jpg
       name: Rebecca Novick
-    - bio: "<strong>Torange Yeghiazarian</strong> (Executive Artistic Director;
-        *she/her*) founded Golden Thread in 1996 where she launched such
-        visionary programs as ReOrient Festival &#038; Forum, Middle East
-        America (in partnership with the Lark and Silkroad Rising), Islam 101
-        (with Hafiz Karmali), New Threads, and the Fairytale Players. Torange’s
-        plays include ISFAHAN BLUES, 444 DAYS, THE FIFTH STRING: ZIRYAB’S
-        PASSAGE TO CORDOBA, and CALL ME MEHDI. Awards include the
-        Gerbode-Hewlett Playwright Commission Award (ISFAHAN BLUES) and a
-        commission by the Islamic Cultural Center of Northern California (THE
-        FIFTH STRING). Her short play CALL ME MEHDI is published in the
-        anthology “Salaam. Peace: An Anthology of Middle Eastern-American
-        Drama,” TCG 2009. She adapted the poem, I SELL SOULS by Simin Behbehani
-        to the stage, and directed the premieres of OUR ENEMIES: LIVELY SCENES
-        OF LOVE AND COMBAT and SCENIC ROUTES by Yussef El Guindi, THE MYTH OF
-        CREATION by Sadegh Hedayat, TAMAM by Betty Shamieh, STUCK by Amir
-        Al-Azraki and VOICE ROOM by Reza Soroor, amongst others. Her articles on
-        contemporary theatre in Iran have been published in The Drama Review
-        (2012), American Theatre Magazine (2010), and Theatre Bay Area Magazine
-        (2010), and HowlRound. Torange has contributed to the Encyclopedia of
-        Women and Islamic Cultures and Cambridge World Encyclopedia of Stage
-        Actors. Born in Iran and of Armenian heritage, Torange holds a Master’s
-        degree in Theatre Arts from San Francisco State University. Torange has
-        been recognized by Theatre Bay Area and is one of Theatre Communication
-        Group’s Legacy Leaders of Color. She was honored by the Cairo
-        International Theatre Festival (2016) and the Symposium on Equity in the
-        Entertainment Industry (2017)."
-      image: /img/archive/2014/03/torange_headshot_tfs.jpg
-      name: Torange Yeghiazarian
     - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
         for Chanticleer, a 39-year-old men’s a cappella group based in San
         Francisco.  Following 20 years in the for-profit sector, primarily doing
