@@ -1,61 +1,29 @@
 ---
 title: Buy Tickets
 lists:
-  - items:
-      - text: The health and safety of our artists, audiences and staff is our highest
-          priority. In response to health and safety developments related to the
-          recent surge of COVID infections in the Bay Area and revised
-          recommendations from city and county health departments along with the
-          CDC, Golden Thread has made the decision to present our New Threads
-          readings solely as digital livestreams. If you already registered for
-          in person or digital attendance, you will be automatically added to
-          our updated Zoom event. We look forward to rejoining you in person at
-          Potrero Stage as soon as is safely possible, and can’t wait to share
-          these vital new plays-in-progress with you virtually!
-  - heading: New Threads 2021
-    items:
-      - title: We're All Here
-        pre: Tuesday, August 17, at 7pm (PT)
-        text: >-
-          When Maro Thompson, a widowed music teacher resolved to admit her
-          rapidly deteriorating mother, Zada, into a nursing home hires an
-          impassioned artist to help clean out her childhood home, family
-          mysteries unravel as Maro discovers her connection to Armenia’s
-          painfully dark history.
-
-
-          **The IN-PERSON event has been cancelled due to health and safety.**
-        subtitle: |-
-          by Leslie Kalarchian
-
-          directed by Sahar Assaf
-        cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rP1q2UAC
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
     items:
-      - title: Emerging SWANA Theatre Companies under the Spotlight
-        pre: Friday, August 24, at 11:00 AM (PT)
-        text: "In this episode we put the spotlight on three of the emerging SWANA
-          theatre companies in the United States: Dunya Productions in Seattle,
-          Peydah Theatre Company in New York City, and Medina Theater Collective
-          in Chicago, whose work is bravely making space for diverse SWANA
-          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
-          performer, director and the founding Artistic/Executive Director of
-          Art2Action, Inc.) will facilitate this conversation with **Nabra
-          Nelson** (theatre creator and founding company member of Dunya
-          Productions), **Shadi Ghaheri** (director, choreographer, writer and
-          founding member of Peydah Theatre Company), and **Rohina
-          Malik** (playwright and solo performer and Founding Artistic Director
-          of Medina Theater collective) as they tell us about their companies’
-          missions and visions, the projects they’re working on and what it
-          means to be amplifying the voices of marginalized communities in
-          today’s USA."
+      - title: Theatre from the Streets of Palestine, India and Venezuela
+        pre: Friday, September 24, at 11:00 AM (PT)
+        text: On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
+          international pilot program aiming to bring forth truthful stories and
+          realities of the people of Palestine, India and Venezuela to contrast
+          biased political and mainstream narratives. No Summary invites writer
+          and theatre critic **Mona Merhi**  to moderate a conversation with two
+          of the project partners, **Iman Aoun**  the co-founder and Artistic
+          Director of Ashtar Theatre in Ramallah, Palestine and  **Melody
+          Brooks**, the founder and Artistic Director of New Perspectives
+          Theatre Company in New York to tell us about this international
+          collaboration, what prompted them to start the project, what are some
+          of their major discoveries and how they are envisioning the future of
+          the program.
         cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rf7c9UAA
         subtitle: |-
-          Facilitated by Andrea Assaf
+          Facilitated by **Mona Merhi**
 
-          With featured panelists Rohina Malik, Nabra Nelson and Shadi Ghaheri
+          With featured panelists **Iman Aoun** and **Melody Brooks**
+        image: https://ucarecdn.com/77181c7d-470b-480e-9f5c-75994fd0d9f1/
 ---
 - - -
 
