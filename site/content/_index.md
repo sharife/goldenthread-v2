@@ -6,19 +6,21 @@ background: https://ucarecdn.com/350e3cd6-4047-4c24-8d88-56a08a991918/
 cta: Learn more about New Threads 2021!
 link: https://goldenthread.org/productions/new-threads-reading-series/
 items:
-  - image: https://ucarecdn.com/e43a7913-4fe5-45dc-9738-de7454d8fe4b/
-    subtitle: Our Free Reading Series is Back!
+  - image: https://ucarecdn.com/671a6456-4d6d-4a11-be94-d89915ab48e4/-/crop/1080x569/0,76/-/preview/
+    subtitle: Support Local Artists with a Matched Donation!
     cta: Click to Learn More!
-    link: https://goldenthread.org/productions/new-threads-reading-series/
+    link: https://www.potrerodogpatch.com/performing-arts-covid-relief-fund
     text: >-
-      After a 2 year hiatus, our highly anticipated new play development series
-      is back! Due to recent changes in local health and safety requirements,
-      all readings are available for live-stream only. This year’s line-up
-      includes a very special virtual opening event curated by Sahar Assaf, the
-      first full read through of a recently commissioned and collaboratively
-      created triptych play by Golden Thread Resident Artists Hassan
-      Abdulrazzak, Hannah Khalil, and Mona Mansour, and a play by acclaimed
-      Brooklyn-based actor and writer Leslie Kalarchian.
+      The Potrero-Dogpatch community is host to some of the Bay Area’s most
+      dynamic performing arts groups, including Crowded Fire Theater, Golden
+      Thread Productions, PlayGround/Potrero Stage, Playwrights Foundation, and
+      Smuin Ballet, among others. Through the generous support of Avenue
+      Greenlight and SFCDMA, PDMA will match 1:1 all donations to the
+      Potrero-Dogpatch Performing Arts COVID Relief Fund up to $15,000, and will
+      distribute the aggregated funds this Fall to neighborhood performing arts
+      organizations in need, helping to fuel their recovery efforts. Support the
+      Potrero-Dogpatch Performing Arts COVID Relief Fund and double your
+      donation today!
 
 
       ***Find Out More Below!***
