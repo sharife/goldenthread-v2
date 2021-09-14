@@ -33,23 +33,28 @@ items:
       San Francisco to helm the now 25 year old production company beginning May
       3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
       and relocation to San Francisco below!"
-  - image: https://ucarecdn.com/ed4a9439-27c2-4369-b984-bef8351ccf49/
+  - image: https://ucarecdn.com/37e93172-3e1f-42f9-a823-53db902a435a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Join us as we shine the spotlight on three of the emerging SWANA theatre
-      companies in the United States: Dunya Productions in Seattle, Peydah
-      Theatre Company in New York City, and Medina Theater Collective in
-      Chicago, whose work is bravely making space for diverse SWANA stories in
-      the U.S. theatre scene. This livestream conversation is facilitated by
-      Artistic Director of Art2Action Andrea Assaf and features Nabra Nelson
-      (theatre creator and founding company member of Dunya Productions), Shadi
-      Ghaheri (director, choreographer, writer and founding member of Peydah
-      Theatre Company), and Rohina Malik (playwright and solo performer and
-      Founding Artistic Director of Medina Theater collective)! Tune in to
-      celebrate MENA stories and playwrights with us!
+      On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
+      international pilot program aiming to bring forth truthful stories and
+      realities of the people of Palestine, India and Venezuela to contrast
+      biased political and mainstream narratives. The program continues on every
+      Sunday through October 17, 2021 hosting readings of short theatre works
+      from the streets to create conversations across borders with global
+      audiences. No Summary invites writer and theatre critic **Mona Merhi** to
+      moderate a conversation with two of the project partners, **Iman
+      Aoun** the co-founder and Artistic Director of Ashtar Theatre in Ramallah,
+      Palestine and **Melody Brooks,** the founder and Artistic Director of New
+      Perspectives Theatre Company in New York to tell us about this
+      international collaboration, what prompted them to start the project, what
+      are some of their major discoveries and how they are envisioning the
+      future of the program.
 
 
-      ***Don't miss the Livestream on August 27th, 2021 @ 11AM PT!***
+
+
+      ***Don't miss the Livestream on September 24th, 2021 @ 11AM PT!***
 ---
