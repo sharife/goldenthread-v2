@@ -13,33 +13,27 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - pre: Up Next!
-        itemend: 2021-08-16T20:18:33.487Z
-        text: >-
-          In this episode we put the spotlight on three of the emerging SWANA
-          theatre companies in the United States: Dunya Productions in Seattle,
-          Peydah Theatre Company in New York City, and Medina Theater Collective
-          in Chicago, whose work is bravely making space for diverse SWANA
-          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
-          performer, director and the founding Artistic/Executive Director of
-          Art2Action, Inc.) will facilitate this conversation with **Nabra
-          Nelson** (theatre creator and founding company member of Dunya
-          Productions), **Shadi Ghaheri** (director, choreographer, writer and
-          founding member of Peydah Theatre Company), and **Rohina Malik**
-          (playwright and solo performer and Founding Artistic Director of
-          Medina Theater collective) as they tell us about their companies’
-          missions and visions, the projects they’re working on and what it
-          means to be amplifying the voices of marginalized communities in
-          today’s USA.
-
-
-          [Click here](https://howlround.com/happenings/livestreaming-no-summary-emerging-swana-theatre-companies-under-spotlight) to watch on Howlround.
-        itemstart: 2021-08-16T20:18:33.449Z
+      - itemstart: 2021-09-14T22:52:19.845Z
+        itemend: 2021-09-14T22:52:19.880Z
+        pre: Up Next!
+        subtitle: Join us *LIVE* Friday September 24 at 11:00 AM (PT)!
+        image: https://ucarecdn.com/b40d680f-1aaf-450e-ad41-cfa5fc58d5a0/
+        title: Theatre from the Streets of Palestine, India, and Venezuela
+        text: "On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
+          international pilot program aiming to bring forth truthful stories and
+          realities of the people of Palestine, India and Venezuela to contrast
+          biased political and mainstream narratives. The program continues on
+          every Sunday through October 17, 2021 hosting readings of short
+          theatre works from the streets to create conversations across borders
+          with global audiences. No Summary invites writer and theatre critic
+          **Mona Merhi** to moderate a conversation with two of the project
+          partners: **Iman Aoun**, the co-founder and Artistic Director of
+          Ashtar Theatre in Ramallah, Palestine and **Melody Brooks**, the
+          founder and Artistic Director of New Perspectives Theatre Company in
+          New York to tell us about this international collaboration, what
+          prompted them to start the project, what are some of their major
+          discoveries and how they are envisioning the future of the program."
         cta: Click here to register!
-        subtitle: Join us *LIVE* Friday August 24 at 11:00 AM (PT)!
-        title: Emerging SWANA Theatre Companies under the Spotlight
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YfrzUAC
-        image: https://ucarecdn.com/f4135e19-64b7-4e09-8e8a-9d9b30776a1e/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -202,6 +196,29 @@ lists:
           playwrights!"
         link: https://youtu.be/C2ic0xLMtTs
         image: https://ucarecdn.com/e38df938-c179-488d-ac80-079206fa68c1/
+      - pre: ""
+        itemend: 2021-08-16T20:18:33.487Z
+        text: "In this episode we put the spotlight on three of the emerging SWANA
+          theatre companies in the United States: Dunya Productions in Seattle,
+          Peydah Theatre Company in New York City, and Medina Theater Collective
+          in Chicago, whose work is bravely making space for diverse SWANA
+          stories in the U.S. theatre scene. **Andrea Assaf** (writer,
+          performer, director and the founding Artistic/Executive Director of
+          Art2Action, Inc.) will facilitate this conversation with **Nabra
+          Nelson** (theatre creator and founding company member of Dunya
+          Productions), **Shadi Ghaheri** (director, choreographer, writer and
+          founding member of Peydah Theatre Company), and **Rohina Malik**
+          (playwright and solo performer and Founding Artistic Director of
+          Medina Theater collective) as they tell us about their companies’
+          missions and visions, the projects they’re working on and what it
+          means to be amplifying the voices of marginalized communities in
+          today’s USA."
+        itemstart: 2021-08-16T20:18:33.449Z
+        cta: ""
+        subtitle: Aired Friday August 27 at 11:00 AM (PT).
+        title: Emerging SWANA Theatre Companies under the Spotlight
+        link: ""
+        image: https://ucarecdn.com/f4135e19-64b7-4e09-8e8a-9d9b30776a1e/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
