@@ -120,7 +120,7 @@ staff:
         Eastern-American Drama,” TCG, 2009. Born in Iran and of Armenian
         heritage, Torange holds a Master’s degree in Theatre Arts from San
         Francisco State University."
-      credit: Founder
+      credit: Founding Artistic Director Emeritus
       image: /img/archive/2014/03/torange_headshot_tfs-e1498076049423.jpg
       name: Torange Yeghiazarian
     - bio: <strong>Vida Ghahremani</strong> *(she/her)* began acting in films as a
