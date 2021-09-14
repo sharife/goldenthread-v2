@@ -13,12 +13,8 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - itemstart: 2021-09-14T22:52:19.845Z
+      - pre: Up Next!
         itemend: 2021-09-14T22:52:19.880Z
-        pre: Up Next!
-        subtitle: Join us *LIVE* Friday September 24 at 11:00 AM (PT)!
-        image: https://ucarecdn.com/b40d680f-1aaf-450e-ad41-cfa5fc58d5a0/
-        title: Theatre from the Streets of Palestine, India, and Venezuela
         text: "On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
           international pilot program aiming to bring forth truthful stories and
           realities of the people of Palestine, India and Venezuela to contrast
@@ -33,7 +29,12 @@ lists:
           New York to tell us about this international collaboration, what
           prompted them to start the project, what are some of their major
           discoveries and how they are envisioning the future of the program."
+        itemstart: 2021-09-14T22:52:19.845Z
         cta: Click here to register!
+        subtitle: Join us *LIVE* Friday September 24 at 11:00 AM (PT)!
+        title: Theatre from the Streets of Palestine, India, and Venezuela
+        link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+        image: https://ucarecdn.com/b40d680f-1aaf-450e-ad41-cfa5fc58d5a0/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
