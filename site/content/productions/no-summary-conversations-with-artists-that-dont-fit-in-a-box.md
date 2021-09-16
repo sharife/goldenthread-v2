@@ -15,7 +15,8 @@ lists:
     items:
       - pre: Up Next!
         itemend: 2021-09-14T22:52:19.880Z
-        text: "On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
+        text: >-
+          On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
           international pilot program aiming to bring forth truthful stories and
           realities of the people of Palestine, India and Venezuela to contrast
           biased political and mainstream narratives. The program continues on
@@ -28,7 +29,10 @@ lists:
           founder and Artistic Director of New Perspectives Theatre Company in
           New York to tell us about this international collaboration, what
           prompted them to start the project, what are some of their major
-          discoveries and how they are envisioning the future of the program."
+          discoveries and how they are envisioning the future of the program.
+
+
+          Click [here](https://howlround.com/happenings/no-summary-theatre-streets-palestine-india-and-venezuela) to watch on Howlround!
         itemstart: 2021-09-14T22:52:19.845Z
         cta: Click here to register!
         subtitle: Join us *LIVE* Friday September 24 at 11:00 AM (PT)!
