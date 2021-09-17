@@ -29,16 +29,14 @@ items:
     cta: Click to Learn More!
     link: https://goldenthread.org/get-involved/
     text: >-
-      **Artistic Producer**
+      **Artistic Producer:** This is an incredible opportunity for an emerging
+      creative arts professional seeking a hands-on position in the day-to-day
+      management of Golden Thread’s artistic programs, ensuring their effective
+      planning, implementation and evaluation. [Learn
+      more](https://goldenthread.org/get-involved/jobs/).
 
 
-      This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the day-to-day management of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation.
-
-
-      **Fairytale Player Program Manager**
-
-
-      This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions.
+      **Fairytale Player Program Manager:** This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. [Learn more](https://goldenthread.org/get-involved/jobs/).
   - image: https://ucarecdn.com/37e93172-3e1f-42f9-a823-53db902a435a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
