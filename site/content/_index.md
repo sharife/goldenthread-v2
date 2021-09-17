@@ -24,15 +24,22 @@ items:
 
 
       ***Find Out More Below!***
-  - image: https://ucarecdn.com/e8d4be54-8531-41ac-8a81-9d6ddd868927/
-    subtitle: Meet Our New Executive Artistic Director **Sahar Assaf**!
+  - image: https://ucarecdn.com/fa6bf5f9-a524-4608-9632-401c8b0d6358/
+    subtitle: Join our team! We're looking for an Artistic Producer and a Fairytale
+      Players Program Manager.
     cta: Click to Learn More!
-    link: https://goldenthread.org/posts/meet-sahar-assaf-our-new-executive-artistic-director
-    text: "**We are proud to announce that Sahar Assaf is our new Artistic
-      Director.** Following a global search, Sahar has relocated from Lebanon to
-      San Francisco to helm the now 25 year old production company beginning May
-      3rd. Learn more about Sahar's artistic history, goals for Golden Thread,
-      and relocation to San Francisco below!"
+    link: https://goldenthread.org/get-involved/
+    text: >-
+      **Artistic Producer**
+
+
+      This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the day-to-day management of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation.
+
+
+      **Fairytale Player Program Manager**
+
+
+      This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions.
   - image: https://ucarecdn.com/37e93172-3e1f-42f9-a823-53db902a435a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
