@@ -59,18 +59,13 @@ Additional duties as assigned by the EAD.
 
 We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. We encourage candidates to review the key responsibilities and qualifications above. If you believe you have the transferable skills necessary to fulfill the responsibilities of this role, we encourage you to apply.
 
-**Additional Information:**
-
-This is a full time, exempt position reporting to the Executive Artistic Director. Annual salary is $58,240. Our offices are located in San Francisco’s Potrero Hill neighborhood. Some on-site evening and weekend hours will be required according to production needs. Benefits include paid time off. Some work may be done remotely. 
+**Additional Information:** This is a full time, exempt position reporting to the Executive Artistic Director. Annual salary is $58,240. Our offices are located in San Francisco’s Potrero Hill neighborhood. Some on-site evening and weekend hours will be required according to production needs. Benefits include paid time off. Some work may be done remotely. 
 
 Golden Thread provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, disability, or gender. Golden Thread is a current member of Theater Communications Group’s Equity, Diversity, and Inclusion Institute.
 
-**Application Instructions:**
-Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to sahar@goldenthread.org, subject line: Artistic Producer. No phone calls or packets by regular mail, please.
+**Application Instructions:** Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to sahar@goldenthread.org, subject line: Artistic Producer. No phone calls or packets by regular mail, please.
 
 Applications will be reviewed on a rolling basis and the position will remain upon until filled. Early submissions are encouraged. Ideal start date: November 15, 2021.
-
-
 
 ### **Fairytale Players Program Manager**
 
@@ -114,14 +109,11 @@ The ideal candidate will be a theatre professional fluent in State and National 
 
 We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. We encourage candidates to review the responsibilities and qualifications above. If you believe you have the transferable skills necessary to fulfill the responsibilities of this role, we encourage you to apply.
 
-**Additional Information:**
-
-This is a part-time, non-exempt, 20 to 25 hour per week position, reporting to the Executive Artistic Director. Pay will be commensurate with experience and ranges between $22-$25/hour. Our offices are located in San Francisco’s Potrero Hill neighborhood. Benefits include paid time off. Some work may be done remotely.
+**Additional Information:** This is a part-time, non-exempt, 20 to 25 hour per week position, reporting to the Executive Artistic Director. Pay will be commensurate with experience and ranges between $22-$25/hour. Our offices are located in San Francisco’s Potrero Hill neighborhood. Benefits include paid time off. Some work may be done remotely.
 
 Golden Thread Productions provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, disability, or gender. Golden Thread is a current member of Theater Communications Group’s Equity, Diversity, and Inclusion Institute.
 
-**Application Instructions:**
-Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to michelle@goldenthread.org, subject line: Fairytale Players Program Manager. No phone calls or packets by regular mail, please.
+**Application Instructions:** Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to michelle@goldenthread.org, subject line: Fairytale Players Program Manager. No phone calls or packets by regular mail, please.
 
 Applications will be reviewed on a rolling basis and will the position will remain upon until filled. Early submissions are encouraged. Ideal start date: October 18, 2021.
 
