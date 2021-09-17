@@ -67,6 +67,8 @@ Golden Thread provides equal employment opportunities (EEO) to all employees and
 
 Applications will be reviewed on a rolling basis and the position will remain upon until filled. Early submissions are encouraged. Ideal start date: November 15, 2021.
 
+![](https://ucarecdn.com/d9615beb-50f9-4499-a983-4b650b89b68d/)
+
 ### **Fairytale Players Program Manager**
 
 Golden Thread Productions seeks a Program Manager to expand the representation of Middle Eastern narratives through our theatre for young audiences program. Golden Thread Fairytale Players uses epic storytelling, puppetry, song, dance, circus arts techniques, and Middle Eastern languages to create engaging performances based on traditions and folklore from the Middle East that draw from enriching folk tales and timeless historical texts. The goal of this position is to successfully manage a robust and impactful program through production and touring activities and implement strategies for long term sustainability. This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to champion a unique and dynamic repertoire of performances that broaden and develop deeper appreciation for diverse cultural traditions. 
@@ -116,8 +118,6 @@ Golden Thread Productions provides equal employment opportunities (EEO) to all e
 **Application Instructions:** Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to michelle@goldenthread.org, subject line: Fairytale Players Program Manager. No phone calls or packets by regular mail, please.
 
 Applications will be reviewed on a rolling basis and will the position will remain upon until filled. Early submissions are encouraged. Ideal start date: October 18, 2021.
-
-
 
 ### **Production, Design & Technical Personnel**
 
