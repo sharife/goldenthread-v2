@@ -25,8 +25,7 @@ items:
 
       ***Find Out More Below!***
   - image: https://ucarecdn.com/fa6bf5f9-a524-4608-9632-401c8b0d6358/
-    subtitle: Join our team! We're looking for an Artistic Producer and a Fairytale
-      Players Program Manager.
+    subtitle: Join our team!
     cta: Click to Learn More!
     link: https://goldenthread.org/get-involved/
     text: >-
