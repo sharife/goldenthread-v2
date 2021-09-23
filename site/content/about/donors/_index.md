@@ -16,21 +16,21 @@ sidebar:
 ---
 ### **LEADERSHIP CIRCLE**
 
-**Season Sponsor ($50,000 and above)**
+**Golden Sponsor ($250,000 and above)**
 
-San Francisco Grants for the Arts
+Doris Duke Charitable Foundation
 
 The William & Flora Hewlett Foundation
 
+**Season Sponsor ($50,000 to $99,000)**
 
+San Francisco Grants for the Arts
 
 **Lead Sponsor ($25,000 to $49,999)**
 
 John Atwood & Sofia Ahmad
 
 San Francisco Arts Commission
-
-
 
 **Program Sponsor ($10,000 to $24,999)**
 
@@ -43,10 +43,6 @@ The Neda Nobari Trust
 The Shubert Foundation
 
 The Zellerbach Family Foundation
-
-
-
-
 
 ### **PRODUCER CIRCLE**
 
@@ -66,8 +62,6 @@ Babak Sani
 
 Venturous Theater Fund of Tides Foundation
 
-
-
 **Lead Producer ($2,500 to $4,999)**
 
 Artin Der Minassians
@@ -79,8 +73,6 @@ Rebecca Novick & Jeffrey Prucher
 The Phyllis C. Wattis Foundation
 
 Torange Yeghiazarian
-
-
 
 **Associate Producer ($1,000 to $2,499)**
 
@@ -136,19 +128,13 @@ Barmak Sani
 
 Jane Swinerton
 
-
-
 **$500 to $999**
 
 Dr. Kian Beyzavi, Jaleh & George Bisharat, Syan & Kayden Davis, Levon Der Bedrossian, Armen & Nelly Der Kiureghian, Hassan Fouda, Terry Griffith & Lila Shadloo, Alexa Hauser in memory of Terry Lamb, Patrick Joseph, Kia Mousavi, Duraid Musleh, Linda Nelson, Evren Odcikin, Josh H. Oliver-Azar Zavvar Philanthropy Fund, Bothaina Salama, Paul Von Stamwitz & Jamileh Davoudi
 
-
-
 **$250 to $499**
 
 Anonymous, Selma Abinader & John Herman in honor of Torange Yeghiazarian, Ruth Alahydoian & Armen Sedrakian, Jack & Mark Aslanian Fund, Kathleen Atwood, Linda Chapman, Earthbody Day Spa, Keith Goldstein, Helen Gregorian, Tracy Grubbs & Richard Taylor, Haleh Hatami, Anne & Conn Hallinan, Judith Helfand, Paul Heller, Kelly Hutzell & Rami el Samahy, Betsy Jasny, Celia Karian, Rebecca J. Kurland & Patrick Mason, Lila LaHood, Pam MacKinnon, Masood Mokhtary, Leyla Mostafavi, Omid Niroumandzadeh, John Potocki, Ray of Light Theatre, Sara Razavi & Jillian Goldstein, Marjan Safa & Ramine Roane, Susan Sawyer, Lila Shadloo, Cindy Shamban & Marge Sussman, Theatre Communications Group
-
-
 
 **$100 to $249**
 
