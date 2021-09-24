@@ -24,7 +24,7 @@ items:
 
 
       ***Find Out More Below!***
-  - image: https://ucarecdn.com/fa6bf5f9-a524-4608-9632-401c8b0d6358/
+  - image: https://ucarecdn.com/3142d051-4ef7-430c-957a-bd54c94c92b1/
     subtitle: Join our team!
     cta: Click to Learn More!
     link: https://goldenthread.org/get-involved/
@@ -36,7 +36,7 @@ items:
       more](https://goldenthread.org/get-involved/jobs/).
 
 
-      **Fairytale Player Program Manager:** We're seeking an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. [Learn more](https://goldenthread.org/get-involved/jobs/).
+      **Fairytale Players Program Manager:** We're seeking an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. [Learn more](https://goldenthread.org/get-involved/jobs/).
   - image: https://ucarecdn.com/37e93172-3e1f-42f9-a823-53db902a435a/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
