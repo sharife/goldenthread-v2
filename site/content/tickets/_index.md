@@ -5,20 +5,16 @@ lists:
     items:
       - title: "Virtually Connecting MENA and SWANA Theatre Makers Coast to Coast "
         pre: "November 5th, 6th, and 7th, 2021. "
-        subtitle: "**MENATMA, the Middle East North African Theatre Makers Alliance**,
+        subtitle: ""
+        text: >-
+          **MENATMA, the Middle East North African Theatre Makers Alliance**,
           holds its virtual fall convening, sponsored by **The Rutherford
           Initiative**, the **University of Oregon**, **Golden Thread
-          Productions**, **Noor Theatre**, and **Art2Action Inc**."
-        text: This event, meant to virtually connect MENA/SWANA Theater Makers from
-          coast to coast, features artist and academic panels, an open mic
-          event, and networking opportunities. Panels include MENA/SWANA
-          Designers in Conversation, Queer Artists in Conversation, Women
-          Playwrights, MENA/SWANA in the Academy, Cross Collaborations with
-          Leaders from Other Theater Communities, and "Beyond the Proscenium," a
-          panel involving MENA artists working in the SWANA region. In addition
-          to panels, there will be virtual gatherings, an open mic event for
-          artists to share their current work, and opportunities to meet
-          and network with theatre professionals.
+          Productions**, **Noor Theatre**, and **Art2Action Inc**.\
+
+          \
+
+          This event, meant to virtually connect MENA/SWANA Theater Makers from coast to coast, features artist and academic panels, an open mic event, and networking opportunities. Panels include MENA/SWANA Designers in Conversation, Queer Artists in Conversation, Women Playwrights, MENA/SWANA in the Academy, Cross Collaborations with Leaders from Other Theater Communities, and "Beyond the Proscenium," a panel involving MENA artists working in the SWANA region. In addition to panels, there will be virtual gatherings, an open mic event for artists to share their current work, and opportunities to meet and network with theatre professionals.
         cta: Register for free now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzcbUAC
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
