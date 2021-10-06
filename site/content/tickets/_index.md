@@ -36,7 +36,7 @@ lists:
           leadership, and nurture joy, belonging and healing in our communities
           and beyond.
         cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzhqUAC
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rvlklUAA
         subtitle: |-
           Facilitated by **Zeina Salame** 
 
