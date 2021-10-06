@@ -19,31 +19,29 @@ lists:
           to panels, there will be virtual gatherings, an open mic event for
           artists to share their current work, and opportunities to meet
           and network with theatre professionals.
-        cta: Register now!
+        cta: Register for free now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzcbUAC
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
     items:
-      - title: Theatre from the Streets of Palestine, India and Venezuela
-        pre: Friday, September 24, at 11:00 AM (PT)
-        text: On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
-          international pilot program aiming to bring forth truthful stories and
-          realities of the people of Palestine, India and Venezuela to contrast
-          biased political and mainstream narratives. No Summary invites writer
-          and theatre critic **Mona Merhi**  to moderate a conversation with two
-          of the project partners, **Iman Aoun**  the co-founder and Artistic
-          Director of Ashtar Theatre in Ramallah, Palestine and  **Melody
-          Brooks**, the founder and Artistic Director of New Perspectives
-          Theatre Company in New York to tell us about this international
-          collaboration, what prompted them to start the project, what are some
-          of their major discoveries and how they are envisioning the future of
-          the program.
+      - title: "MENASA Women Save the Kingdom "
+        pre: Friday, October 29th, at 11:00 AM (PT)
+        text: No Summary returns with ‘Shahrazad Squad,’ a project created and directed
+          by producer Raeshma Razvi in collaboration with theater company Cal
+          Shakes and Squad members.  Golden Thread invites **Zeina Salame**
+          (Artist-Scholar-Educator) to moderate a conversation with **Raeshma
+          Razvi** and **Leila Buck** (Playwright, performer, facilitator,
+          educator) about this project which gathers MENASA women/non-binary
+          creatives, cultural producers and change-makers in person and online
+          to share stories and diasporic experiences, showcase creative work and
+          leadership, and nurture joy, belonging and healing in our communities
+          and beyond.
         cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rf7c9UAA
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzhqUAC
         subtitle: |-
-          Facilitated by **Mona Merhi**
+          Facilitated by **Zeina Salame** 
 
-          With featured panelists **Iman Aoun** and **Melody Brooks**
-        image: https://ucarecdn.com/77181c7d-470b-480e-9f5c-75994fd0d9f1/
+          With featured panelists, **Leila Buck** and **Raeshma Razvi**
+        image: https://ucarecdn.com/9f56a838-f36a-480b-95cf-c3392b93d490/
 ---
 - - -
 
