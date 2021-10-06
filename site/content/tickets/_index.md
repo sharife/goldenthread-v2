@@ -19,7 +19,7 @@ lists:
           to panels, there will be virtual gatherings, an open mic event for
           artists to share their current work, and opportunities to meet
           and network with theatre professionals.
-        cta: Register now!
+        cta: Register for free now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzcbUAC
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
     items:
