@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: New Threads Returns!
-subtitle: Three special presentations reflecting the now!
-background: https://ucarecdn.com/350e3cd6-4047-4c24-8d88-56a08a991918/
-cta: Learn more about New Threads 2021!
-link: https://goldenthread.org/productions/new-threads-reading-series/
+headline: No Summary artist conversations continue!
+subtitle: MENASA Women Save the Kingdom
+background: https://ucarecdn.com/2aaf9f95-ff12-4070-8ec2-f9fa0a69fad2/-/preview/
+cta: Register to join the conversation!
+link: https://goldenthread.org/tickets
 items:
   - image: https://ucarecdn.com/671a6456-4d6d-4a11-be94-d89915ab48e4/-/crop/1080x569/0,76/-/preview/
     subtitle: Support Local Artists with a Matched Donation!
