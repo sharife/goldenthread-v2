@@ -14,6 +14,24 @@ lists:
   - heading: List of Episodes
     items:
       - pre: Up Next!
+        itemend: 2021-10-07T18:53:09.355Z
+        text: No Summary returns with ‘Shahrazad Squad,’ a project created and directed
+          by producer Raeshma Razvi in collaboration with theater company Cal
+          Shakes and Squad members.  Golden Thread invites **Zeina
+          Salame** (Artist-Scholar-Educator) to moderate a conversation with
+          **Raeshma Razvi** and **Leila Buck** (Playwright, performer,
+          facilitator, educator) about this project
+          which gathers MENASA women/non-binary creatives, cultural producers
+          and change-makers in person and online to share stories and diasporic
+          experiences, showcase creative work and leadership, and nurture joy,
+          belonging and healing in our communities and beyond.
+        itemstart: 2021-10-07T18:53:09.323Z
+        cta: Click here to register!
+        subtitle: Join us *LIVE* Friday, October 29th @ 11AM PT!
+        title: "MENASA Women Save the Kingdom "
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rvlklUAA
+        image: https://ucarecdn.com/53443d99-2306-4998-8449-2cfc120b2aba/
+      - pre: ""
         itemend: 2021-09-14T22:52:19.880Z
         text: >-
           On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
@@ -35,7 +53,7 @@ lists:
           Click [here](https://howlround.com/happenings/no-summary-theatre-streets-palestine-india-and-venezuela) to watch on Howlround!
         itemstart: 2021-09-14T22:52:19.845Z
         cta: Click here to register!
-        subtitle: Join us *LIVE* Friday September 24 at 11:00 AM (PT)!
+        subtitle: Aired Friday September 24 at 11:00 AM (PT).
         title: Theatre from the Streets of Palestine, India, and Venezuela
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
         image: https://ucarecdn.com/b40d680f-1aaf-450e-ad41-cfa5fc58d5a0/
