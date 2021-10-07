@@ -1,7 +1,7 @@
 ---
 title: Middle East Center Stage
-headline: MENASA Women Save the Kingdom!
-subtitle: "'No Summary' artist conversations continue..."
+headline: No Summary continues!
+subtitle: " MENASA Women Save the Kingdom"
 background: https://ucarecdn.com/8d5a2bee-9c43-445b-b544-07a2462418e1/
 cta: Register to join the conversation!
 link: https://goldenthread.org/tickets
