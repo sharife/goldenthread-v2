@@ -14,7 +14,54 @@ lists:
 
           \
 
-          This event, meant to virtually connect MENA/SWANA Theater Makers from coast to coast, features artist and academic panels, an open mic event, and networking opportunities. Panels include MENA/SWANA Designers in Conversation, Queer Artists in Conversation, Women Playwrights, MENA/SWANA in the Academy, Cross Collaborations with Leaders from Other Theater Communities, and "Beyond the Proscenium," a panel involving MENA artists working in the SWANA region. In addition to panels, there will be virtual gatherings, an open mic event for artists to share their current work, and opportunities to meet and network with theatre professionals.
+          This event, meant to virtually connect MENA/SWANA Theater Makers from coast to coast, features artist and academic panels, an open mic event, and networking opportunities. Panels include MENA/SWANA Designers in Conversation, Queer Artists in Conversation, Women Playwrights, MENA/SWANA in the Academy, Cross Collaborations with Leaders from Other Theater Communities, and "Beyond the Proscenium," a panel involving MENA artists working in the SWANA region. In addition to panels, there will be virtual gatherings, an open mic event for artists to share their current work, and opportunities to meet and network with theatre professionals.\
+
+          \
+
+          **FRIDAY, November 5, 2021** — **5PM - 7PM (PST) / 8PM - 10PM (EST)**
+
+
+          5PM PST/8PM EST — Welcome Happy Hour               
+
+
+
+
+          **SATURDAY, November 6, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
+
+
+          9AM PST/12PM EST — Women Playwrights   
+
+
+          11AM PST/2PM EST — Queer Artists in Conversation
+
+
+          1:30PM PST/4:30PM EST — Beyond the Proscenium
+
+
+          *—BREAK—*
+
+
+          5:30PM PST/8:30PM EST — Open Mic
+
+
+
+
+          **SUNDAY, November 7, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
+
+
+          9AM PST/12PM EST — Cross Collaboration with Leaders from Other Theatre Communities
+
+
+          11AM PST/2PM EST — Activity/Networking
+
+
+          1:30PM PST/4:30PM EST — Academia and the Next Generation
+
+
+          *—BREAK—*
+
+
+          5:30PM PST/8:30PM EST — Wrap Up Session
         cta: Register for free now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007YzcbUAC
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
