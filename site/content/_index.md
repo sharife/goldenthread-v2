@@ -37,28 +37,22 @@ items:
 
 
       **Fairytale Players Program Manager:** We're seeking an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. [Learn more](https://goldenthread.org/get-involved/jobs/).
-  - image: https://ucarecdn.com/37e93172-3e1f-42f9-a823-53db902a435a/
+  - image: https://ucarecdn.com/0ba9cce6-6619-4f0a-b1e9-8329d0846e88/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      On August 1st, 2021, ‘Theatre from the Streets’ was launched as an
-      international pilot program aiming to bring forth truthful stories and
-      realities of the people of Palestine, India and Venezuela to contrast
-      biased political and mainstream narratives. The program continues on every
-      Sunday through October 17, 2021 hosting readings of short theatre works
-      from the streets to create conversations across borders with global
-      audiences. No Summary invites writer and theatre critic **Mona Merhi** to
-      moderate a conversation with two of the project partners, **Iman
-      Aoun** the co-founder and Artistic Director of Ashtar Theatre in Ramallah,
-      Palestine and **Melody Brooks,** the founder and Artistic Director of New
-      Perspectives Theatre Company in New York to tell us about this
-      international collaboration, what prompted them to start the project, what
-      are some of their major discoveries and how they are envisioning the
-      future of the program.
+      No Summary returns with the ‘Shahrazad Squad,’ a project created and
+      directed by producer Raeshma Razvi in collaboration with theater company
+      Cal Shakes and Squad members.  Golden Thread invites **Zeina
+      Salame** (Artist-Scholar-Educator) to moderate a conversation with
+      **Raeshma Razvi** and **Leila Buck** (Playwright, performer, facilitator,
+      educator) about this project which gathers MENASA women/non-binary
+      creatives, cultural producers and change-makers in person and online
+      to share stories and diasporic experiences, showcase creative work and
+      leadership, and nurture joy, belonging and healing in our communities and
+      beyond.
 
 
-
-
-      ***Don't miss the Livestream on September 24th, 2021 @ 11AM PT!***
+      ***Don't miss the Livestream on October 29th, 2021 @ 11AM PT!***
 ---
