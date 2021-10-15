@@ -1,5 +1,5 @@
 ---
-title: Casting Golden Threads' 2022 Season!
+title: Casting
 sidebar:
   heading: Stay in Touch
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
