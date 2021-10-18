@@ -23,7 +23,7 @@ We accept ongoing resumes with letters of interest in Golden Thread from stage m
 - - -
 
 **CASTING**\
-We have completed casting roles for the 2021 season. Please check back later for 2022 casting. **[Learn more](/get-involved/casting/).**
+We are now accepting video auditions for our 2022 Season, including two mainstage productions, and Fairytale Players program! **[Learn more](/get-involved/casting/).**
 
 - - -
 
