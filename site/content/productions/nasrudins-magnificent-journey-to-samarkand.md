@@ -1,5 +1,5 @@
 ---
-title: Nasrudin's Magnificent Journey to Samarkand
+title: Nasrudin's Magnificent Journey to Samarkand - 2011
 pre: Fairytale Players Present
 season: 2011
 date: 2013-01-17T08:54:00.000Z
