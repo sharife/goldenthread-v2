@@ -14,7 +14,7 @@ If you wish to be considered for a specific role/show, please see our **[2022 Se
 * Submit your audition via [this submission form.](https://forms.gle/WsVmb2ngq1zYETUJ6)
 
   * Please prepare your **headshot, resume** and a **link** to your video submission. Links to Vimeo, Youtube or other hosting sites are fine. *Please, no password protected files!*
-  * **The deadline to submit is November 7th, 2021.**
+  * **The deadline to submit is November 8th, 2021.**
 * Equity and non-Equity actors are invited to audition. *Local (Bay Area) hire only.*
 * Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed.
 
