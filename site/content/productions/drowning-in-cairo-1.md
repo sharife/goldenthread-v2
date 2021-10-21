@@ -1,7 +1,7 @@
 ---
 title: Drowning in Cairo
 pre: World Premiere
-season: 2020
+season: 2022
 date: 2021-10-19T18:10:06.403Z
 start: 2021-10-19T18:10:06.418Z
 end: 2021-10-19T18:10:06.429Z
