@@ -1,7 +1,7 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
 pre: Fairytale Players Present
-season: 2021
+season: 2022
 date: 2021-10-21T21:29:21.519Z
 start: 2021-10-21T21:29:21.531Z
 end: 2021-10-21T21:29:21.543Z
