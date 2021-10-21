@@ -1,15 +1,19 @@
 ---
 title: Drowning in Cairo
-pre: Worl Premiere
+pre: World Premiere
 season: 2020
 date: 2021-10-19T18:10:06.403Z
 start: 2021-10-19T18:10:06.418Z
 end: 2021-10-19T18:10:06.429Z
+description: Originally presented and partially developed as part of New Threads
+  2018, this production is the World Premiere of playwright Adam Ashraf
+  Elsayigh.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
+ticketinfo: Ticketing Information TBA
 cast:
   heading: Artist Bios
   items:
@@ -55,5 +59,3 @@ cast:
         directorial debut at Golden Thread Productions."
 ---
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf El-Sayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
-
-"When I first read Drowning in Cairo by Adam Ashraf El-Sayigh, which was partially developed at New Threads in 2018, it felt like the perfect play for my directorial debut at Golden Thread. Despite the heart-wrenching sorrow it reflects through the story of the three young men, I read it as a story that celebrates love and life, and celebrating love and life in their diversity is what we utterly need after the painful two years." - Sahar Assaf
