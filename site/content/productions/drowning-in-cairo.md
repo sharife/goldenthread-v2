@@ -62,4 +62,4 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-Originally presented and partially developed as part of the New Thread Reading Series in 2018.
+Originally presented and partially developed as part of Golden Thread's New Threads Reading Series in 2018, *Drowning in Cairo* is Adam Ashraf ElSayigh's debut production.
