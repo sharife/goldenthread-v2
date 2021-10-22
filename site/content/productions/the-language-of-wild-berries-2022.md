@@ -3,8 +3,8 @@ title: The Language of Wild Berries
 pre: U.S. Premiere
 season: 2022
 date: 2021-02-16T22:06:41.267Z
-start: 2022-03-08T08:00:00.000Z
-end: 2022-05-02T06:00:00.000Z
+start: 2022-10-14T07:00:00.000Z
+end: 2022-11-07T07:00:00.000Z
 heading: ""
 description: >-
   We're thrilled to announce the U.S Premiere of *The Language of Wild Berries*
