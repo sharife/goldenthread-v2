@@ -62,4 +62,4 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-“I love the play and think it’s a momentous story- there aren’t many Arab plays out there that put queer characters center stage. It offers an alternative to the often simplistic and reductive narrative about being gay in the Middle East. Despite the heart-wrenching sorrow it reflects through the story of the three young men, it is a story that celebrates love and life, and that is what we utterly need after these painful past two years,” says director Sahar Assaf.
+Originally presented and partially developed as part of the New Thread Reading Series in 2018.
