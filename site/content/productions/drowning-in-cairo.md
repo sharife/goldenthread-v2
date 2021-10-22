@@ -5,9 +5,7 @@ season: 2022
 date: 2021-10-19T18:10:06.403Z
 start: 2022-04-08T07:00:00.000Z
 end: 2022-05-02T06:00:00.000Z
-description: Originally presented and partially developed as part of New Threads
-  2018, this production is the World Premiere of playwright Adam Ashraf
-  Elsayigh.
+description: ""
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
