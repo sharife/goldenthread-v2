@@ -3,8 +3,8 @@ title: Drowning in Cairo
 pre: World Premiere
 season: 2022
 date: 2021-10-19T18:10:06.403Z
-start: 2021-10-19T18:10:06.418Z
-end: 2021-10-19T18:10:06.429Z
+start: 2022-04-08T07:00:00.000Z
+end: 2022-05-02T06:00:00.000Z
 description: Originally presented and partially developed as part of New Threads
   2018, this production is the World Premiere of playwright Adam Ashraf
   Elsayigh.
