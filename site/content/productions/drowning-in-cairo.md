@@ -5,7 +5,13 @@ season: 2022
 date: 2021-10-19T18:10:06.403Z
 start: 2022-04-08T07:00:00.000Z
 end: 2022-05-02T06:00:00.000Z
-description: ""
+description: It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are
+  on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected
+  police raid results in the arrest and public humiliation of the attendees, the
+  lives of these young men are altered forever. Adam Ashraf El-Sayigh weaves
+  budding romances, class differences, and familial expectations into a loving
+  portrait of three men who all struggle to rebuild their lives against all
+  odds.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
@@ -56,4 +62,4 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf El-Sayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
+“I love the play and think it’s a momentous story- there aren’t many Arab plays out there that put queer characters center stage. It offers an alternative to the often simplistic and reductive narrative about being gay in the Middle East. Despite the heart-wrenching sorrow it reflects through the story of the three young men, it is a story that celebrates love and life, and that is what we utterly need after these painful past two years,” says director Sahar Assaf.
