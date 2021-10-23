@@ -2,8 +2,8 @@
 title: New Threads Reading Series 2022
 season: 2022
 date: 2021-10-21T21:43:38.425Z
-start: 2021-10-21T21:43:38.440Z
-end: 2021-10-21T21:43:38.451Z
+start: ""
+end: ""
 description: Golden Thread’s annual staged reading series engages its audience
   in the process of playmaking and allows writers of Middle Eastern and
   non-Middle Eastern descent an authentic and supportive space to develop work
