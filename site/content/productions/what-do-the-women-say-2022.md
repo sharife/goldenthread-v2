@@ -2,8 +2,8 @@
 title: What Do The Women Say? 2022
 season: 2022
 date: 2021-10-21T21:49:11.662Z
-start: 2021-10-21T21:49:11.675Z
-end: 2021-10-21T21:49:11.689Z
+start: ""
+end: ""
 description: Golden Thread began producing a Women’s Day event in 1999 titled,
   From the Inside. The event was a multi-media performance involving eight women
   artists including performers and visual artists.
