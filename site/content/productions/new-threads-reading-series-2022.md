@@ -1,5 +1,5 @@
 ---
-title: New Threads Reading Series 2022
+title: New Threads 2022
 season: 2022
 date: 2021-10-21T21:43:38.425Z
 start: ""
