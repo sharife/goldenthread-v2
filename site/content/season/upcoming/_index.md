@@ -1,6 +1,6 @@
 ---
 title: 2022 Season
-currentseason: "2022"
+currentseason: 2022
 intro: >
   To Fight With Love 
 
