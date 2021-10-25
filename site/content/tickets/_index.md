@@ -45,15 +45,13 @@ lists:
           5PM PST/8PM EST — Welcome Happy Hour               
 
 
-
-
           **SATURDAY, November 6, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
 
 
           9AM PST/12PM EST — Women Playwrights   
 
 
-          11AM PST/2PM EST — Queer Artists in Conversation
+          11AM PST/2PM EST — Academia and the Next Generation
 
 
           1:30PM PST/4:30PM EST — Beyond the Proscenium
@@ -62,9 +60,7 @@ lists:
           *—BREAK—*
 
 
-          5:30PM PST/8:30PM EST — Open Mic
-
-
+          5:30PM PST/8:30PM EST — Open Mic ([Sign Up ](https://docs.google.com/forms/d/e/1FAIpQLSfqDs_wlOWJoi5GEkA_Amx8w7af3YmKL8-lIoZ_A2tKJldNGw/viewform)to perform here!)
 
 
           **SUNDAY, November 7, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
@@ -76,7 +72,7 @@ lists:
           11AM PST/2PM EST — Activity/Networking
 
 
-          1:30PM PST/4:30PM EST — Academia and the Next Generation
+          1:30PM PST/4:30PM EST — Queer Artists in Conversation
 
 
           *—BREAK—*
