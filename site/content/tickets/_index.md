@@ -60,7 +60,7 @@ lists:
           *—BREAK—*
 
 
-          5:30PM PST/8:30PM EST — Open Mic ([Sign Up ](https://docs.google.com/forms/d/e/1FAIpQLSfqDs_wlOWJoi5GEkA_Amx8w7af3YmKL8-lIoZ_A2tKJldNGw/viewform)to perform here!)
+          5:30PM PST/8:30PM EST — Open Mic (open [Sign Ups here](https://docs.google.com/forms/d/e/1FAIpQLSfqDs_wlOWJoi5GEkA_Amx8w7af3YmKL8-lIoZ_A2tKJldNGw/viewform))
 
 
           **SUNDAY, November 7, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
