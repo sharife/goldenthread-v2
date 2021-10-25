@@ -1,5 +1,5 @@
 ---
-title: 2022 Season
+title: "2022 Season: A Space for Dialogue, Solidarity, and Innovation"
 currentseason: "2022"
 intro: >
   Announcing our 2022 Season: To Fight with Love!
