@@ -3,7 +3,7 @@ title: "No Summary: Conversations with Artists that Don't Fit in a Box!"
 pre: A livestream conversation series with live audience Q&A.
 season: 2021
 date: 2021-02-21T03:41:04.513Z
-start: 2021-02-20T03:41:04.533Z
+start: ""
 end: ""
 description: "These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
@@ -15,9 +15,10 @@ lists:
     items:
       - pre: Up Next!
         itemend: 2021-10-07T18:53:09.355Z
-        text: No Summary returns with ‘Shahrazad Squad,’ a project created and directed
-          by producer Raeshma Razvi in collaboration with theater company Cal
-          Shakes and Squad members.  Golden Thread invites **Zeina
+        text: >-
+          No Summary returns with ‘Shahrazad Squad,’ a project created and
+          directed by producer Raeshma Razvi in collaboration with theater
+          company Cal Shakes and Squad members.  Golden Thread invites **Zeina
           Salame** (Artist-Scholar-Educator) to moderate a conversation with
           **Raeshma Razvi** and **Leila Buck** (Playwright, performer,
           facilitator, educator) about this project
@@ -25,6 +26,9 @@ lists:
           and change-makers in person and online to share stories and diasporic
           experiences, showcase creative work and leadership, and nurture joy,
           belonging and healing in our communities and beyond.
+
+
+          Click[ here](https://howlround.com/happenings/livestreaming-conversation-no-summary-menasa-women-save-kingdom) to watch on Howlround.
         itemstart: 2021-10-07T18:53:09.323Z
         cta: Click here to register!
         subtitle: Join us *LIVE* Friday, October 29th @ 11AM PT!
