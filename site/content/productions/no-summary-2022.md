@@ -3,8 +3,8 @@ title: No Summary 2022
 pre: Live-stream conversations with audience Q&A.
 season: 2022
 date: 2021-10-21T22:02:19.893Z
-start: 2021-10-21T22:02:19.909Z
-end: 2021-10-21T22:02:19.921Z
+start: ""
+end: ""
 heading: Conversations With Artists that Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
