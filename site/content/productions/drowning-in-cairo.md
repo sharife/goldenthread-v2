@@ -8,7 +8,7 @@ end: 2022-05-02T06:00:00.000Z
 description: It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are
   on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected
   police raid results in the arrest and public humiliation of the attendees, the
-  lives of these young men are altered forever. Adam Ashraf El-Sayigh weaves
+  lives of these young men are altered forever. Adam Ashraf Elsayigh weaves
   budding romances, class differences, and familial expectations into a loving
   portrait of three men who all struggle to rebuild their lives against all
   odds.
