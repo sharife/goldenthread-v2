@@ -6,37 +6,37 @@ background: https://ucarecdn.com/8d5a2bee-9c43-445b-b544-07a2462418e1/
 cta: Register to join the conversation!
 link: https://goldenthread.org/tickets
 items:
-  - image: https://ucarecdn.com/671a6456-4d6d-4a11-be94-d89915ab48e4/-/crop/1080x569/0,76/-/preview/
-    subtitle: Support Local Artists with a Matched Donation!
+  - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
+    subtitle: "Our 2022 Season: To Fight with Love!"
     cta: Click to Learn More!
-    link: https://www.potrerodogpatch.com/performing-arts-covid-relief-fund
+    link: https://goldenthread.org/season/upcoming/
     text: >-
-      The Potrero-Dogpatch community is host to some of the Bay Area’s most
-      dynamic performing arts groups, including Crowded Fire Theater, Golden
-      Thread Productions, PlayGround/Potrero Stage, Playwrights Foundation, and
-      Smuin Ballet, among others. Through the generous support of Avenue
-      Greenlight and SFCDMA, PDMA will match 1:1 all donations to the
-      Potrero-Dogpatch Performing Arts COVID Relief Fund up to $15,000, and will
-      distribute the aggregated funds this Fall to neighborhood performing arts
-      organizations in need, helping to fuel their recovery efforts. Support the
-      Potrero-Dogpatch Performing Arts COVID Relief Fund and double your
-      donation today!
+      We are coming back in 2022 with daring plays that build on Golden Thread’s
+      commitment to creating space for dialogue, solidarity, and innovation.
+      These past two years have deprived us of the ritual of gathering together
+      in a space where we experience the kind of stories that can heal the
+      broken pieces of our hearts. We reclaim this ritual next year with stories
+      that give us space to grieve our losses as well as to celebrate love and
+      life. We can’t wait to return to the theatre with you, where we’ll take
+      all the necessary precautions to ensure everyone’s health and safety as we
+      share stories, celebrate life, and fight with love.
 
 
       ***Find Out More Below!***
-  - image: https://ucarecdn.com/3142d051-4ef7-430c-957a-bd54c94c92b1/
-    subtitle: Join our team!
+  - image: https://ucarecdn.com/1907bf79-c565-4110-9341-05c9aa1c0165/
+    subtitle: Join us onstage!
     cta: Click to Learn More!
-    link: https://goldenthread.org/get-involved/
+    link: https://goldenthread.org/get-involved/casting/
     text: >-
-      **Artistic Producer:** We're looking for an emerging creative arts
-      professional for a hands-on position in the day-to-day management of
-      Golden Thread’s artistic programs, ensuring their effective planning,
-      implementation and evaluation. [Learn
-      more](https://goldenthread.org/get-involved/jobs/).
+      Golden Thread Productions is now accepting **video auditions** for our
+      2022 Season Generals, two mainstage productions, and Fairytale Players
+      program. In-person callbacks for Fairytale Players, *The Language of Wild
+      Berries* and *Drowning in Cairo* will be scheduled on an individual basis
+      between **November 12th - 20th 2021** at the Potrero Stage, 1695 18th
+      Street, San Francisco, CA. 
 
 
-      **Fairytale Players Program Manager:** We're seeking an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. [Learn more](https://goldenthread.org/get-involved/jobs/).
+      **The deadline to submit is November 8th, 2021.** We can't wait to meet you and share space together again!
   - image: https://ucarecdn.com/0ba9cce6-6619-4f0a-b1e9-8329d0846e88/
     subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
     cta: Read More Now
