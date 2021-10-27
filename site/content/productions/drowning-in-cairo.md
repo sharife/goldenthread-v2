@@ -5,13 +5,13 @@ season: 2022
 date: 2021-10-19T18:10:06.403Z
 start: 2022-04-08T07:00:00.000Z
 end: 2022-05-01T07:00:00.000Z
-description: It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are
-  on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected
-  police raid results in the arrest and public humiliation of the attendees, the
-  lives of these young men are altered forever. Adam Ashraf Elsayigh weaves
-  budding romances, class differences, and familial expectations into a loving
-  portrait of three men who all struggle to rebuild their lives against all
-  odds.
+description: >-
+  We're delighted to bring you the World Premiere of Adam Ashraf Elsayigh’s
+  *Drowning in Cairo, o*riginally presented and partially developed as part of
+  Golden Thread's New Threads Reading Series in 2018.
+
+
+  **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
@@ -62,4 +62,4 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-Originally presented and partially developed as part of Golden Thread's New Threads Reading Series in 2018, *Drowning in Cairo* is Adam Ashraf ElSayigh's debut production.
+It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf Elsayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
