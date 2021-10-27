@@ -1,6 +1,6 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
-pre: Fairytale Players Present
+pre: Golden Thread Fairytale Players Present
 season: 2022
 date: 2021-10-26T19:18:20.793Z
 start: ""
@@ -17,7 +17,7 @@ description: >-
 
   Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
 background: https://ucarecdn.com/4f2251b9-bb34-4feb-a1be-1b1f7666d744/
-titleimage: https://ucarecdn.com/41c00060-f3b9-4970-9f1c-e47eb638fba8/
+titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
 writer: Torange Yeghiazarian
 ---
 Golden Thread Fairytale Players offer a dynamic repertoire of performances for young audiences, with plays based on traditions and folklore from across the Middle East.
