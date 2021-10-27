@@ -10,8 +10,7 @@ items:
     subtitle: "Our 2022 Season: To Fight with Love!"
     cta: Click to Learn More!
     link: https://goldenthread.org/season/upcoming/
-    text: >-
-      We are coming back in 2022 with daring plays that build on Golden Thread’s
+    text: We are coming back in 2022 with daring plays that build on Golden Thread’s
       commitment to creating space for dialogue, solidarity, and innovation.
       These past two years have deprived us of the ritual of gathering together
       in a space where we experience the kind of stories that can heal the
@@ -20,9 +19,6 @@ items:
       life. We can’t wait to return to the theatre with you, where we’ll take
       all the necessary precautions to ensure everyone’s health and safety as we
       share stories, celebrate life, and fight with love.
-
-
-      ***Find Out More Below!***
   - image: https://ucarecdn.com/1907bf79-c565-4110-9341-05c9aa1c0165/
     subtitle: Join us onstage!
     cta: Click to Learn More!
@@ -31,7 +27,7 @@ items:
       Golden Thread Productions is now accepting **video auditions** for our
       2022 Season Generals, two mainstage productions, and Fairytale Players
       program. In-person callbacks for Fairytale Players, *The Language of Wild
-      Berries* and *Drowning in Cairo* will be scheduled on an individual basis
+      Berries* and *Drowning in Cairo* will be scheduled by production
       between **November 12th - 20th 2021** at the Potrero Stage, 1695 18th
       Street, San Francisco, CA. 
 
