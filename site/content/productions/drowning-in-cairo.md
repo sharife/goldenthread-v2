@@ -4,7 +4,7 @@ pre: World Premiere
 season: 2022
 date: 2021-10-19T18:10:06.403Z
 start: 2022-04-08T07:00:00.000Z
-end: 2022-05-02T06:00:00.000Z
+end: 2022-05-01T07:00:00.000Z
 description: It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are
   on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected
   police raid results in the arrest and public humiliation of the attendees, the
