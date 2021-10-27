@@ -11,11 +11,13 @@ description: >-
   Mulla Nasrudin or Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey
   and Iran. We follow Nasrudin’s adventures as he travels through caravansaries
   in Konya, Damascus and Isfahan before he arrives at his destination on the
-  ancient Silk Route.
+  ancient Silk Route. Nasrudin's clever wisdom and propensity for exposing
+  hypocracy, frequently get him into trouble.
 
 
   Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
 background: https://ucarecdn.com/4f2251b9-bb34-4feb-a1be-1b1f7666d744/
+titleimage: https://ucarecdn.com/41c00060-f3b9-4970-9f1c-e47eb638fba8/
 writer: Torange Yeghiazarian
 ---
-Adapted from folk tales centered around the wise fool renowned in Central Asia, Turkey and Iran - Mulla Nasrudin or Nasrudin Hoja - Nasrudin's Magnificent Journey to Samarkand is a colorful and dynamic performance with dance and music. Nasrudin's clever wisdom and propensity for exposing hypocracy, frequently gets him into trouble.
+Golden Thread Fairytale Players offer a dynamic repertoire of performances for young audiences, with plays based on traditions and folklore from across the Middle East.
