@@ -13,8 +13,13 @@ items:
     text: >-
       We are coming back in 2022 with daring plays that build on Golden Thread’s
       commitment to creating space for dialogue, solidarity, and innovation.
-
-
+      These past two years have deprived us of the ritual of gathering together
+      in a space where we experience the kind of stories that can heal the
+      broken pieces of our hearts. We reclaim this ritual next year with stories
+      that give us space to grieve our losses as well as to celebrate love and
+      life. We can’t wait to return to the theatre with you, where we’ll take
+      all the necessary precautions to ensure everyone’s health and safety as we
+      share stories, celebrate life, and fight with love.
 
 
       ***Find Out More Below!***
