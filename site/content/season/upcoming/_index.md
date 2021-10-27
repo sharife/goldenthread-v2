@@ -2,7 +2,7 @@
 title: 2022 Season
 currentseason: "2022"
 intro: >
-  TO FIGHT WITH LOVE! - We return in 2022 with daring plays that build on Golden
+  TO FIGHT WITH LOVE! — We return in 2022 with daring plays that build on Golden
   Thread’s commitment to creating space for dialogue, solidarity, and
   innovation. Mark your calendars for exciting new plays from Egypt and Iran.
   Tickets on sale soon! 
