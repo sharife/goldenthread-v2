@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: No Summary continues!
-subtitle: " MENASA Women Save the Kingdom"
-background: https://ucarecdn.com/8d5a2bee-9c43-445b-b544-07a2462418e1/
-cta: Register to join the conversation!
-link: https://goldenthread.org/tickets
+headline: Golden Thread's 2022 Season
+subtitle: To Fight With Love
+background: https://ucarecdn.com/183e4445-34ea-49dd-a180-34bfc97d525f/
+cta: Learn More!
+link: https://goldenthread.org/season/upcoming/
 items:
   - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
     subtitle: "Our 2022 Season: To Fight with Love!"
