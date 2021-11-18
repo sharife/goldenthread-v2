@@ -1,86 +1,27 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: Middle Eastern North African Theatre Makers Alliance Fall Convening
-    items:
-      - title: "Virtually Connecting MENA and SWANA Theatre Makers Coast to Coast "
-        pre: "November 5th, 6th, and 7th, 2021. "
-        subtitle: ""
-        text: >-
-          **MENATMA, the Middle East North African Theatre Makers Alliance**,
-          holds its virtual fall convening, sponsored by **The Rutherford
-          Initiative**, the **University of Oregon**, **Golden Thread
-          Productions**, **Noor Theatre**, and **Art2Action Inc**.\
-
-          \
-
-          This event, meant to virtually connect MENA/SWANA Theater Makers from coast to coast, features artist and academic panels, an open mic event, and networking opportunities. Panels include MENA/SWANA Designers in Conversation, Queer Artists in Conversation, Women Playwrights, MENA/SWANA in the Academy, Cross Collaborations with Leaders from Other Theater Communities, and "Beyond the Proscenium," a panel involving MENA artists working in the SWANA region. In addition to panels, there will be virtual gatherings, an open mic event for artists to share their current work, and opportunities to meet and network with theatre professionals.\
-
-          \
-
-          **FRIDAY, November 5, 2021** — **5PM - 7PM (PST) / 8PM - 10PM (EST)**
-
-
-          5PM PST/8PM EST — Welcome Happy Hour               
-
-
-          **SATURDAY, November 6, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
-
-
-          9AM PST/12PM EST — Women Playwrights   
-
-
-          11AM PST/2PM EST — Academia and the Next Generation
-
-
-          1:30PM PST/4:30PM EST — Beyond the Proscenium
-
-
-          *—BREAK—*
-
-
-          5:30PM PST/8:30PM EST — Open Mic (open [Sign Ups here](https://docs.google.com/forms/d/e/1FAIpQLSfqDs_wlOWJoi5GEkA_Amx8w7af3YmKL8-lIoZ_A2tKJldNGw/viewform))
-
-
-          **SUNDAY, November 7, 2021** — **9AM - 7:30PM (PST) / 12PM - 10:30PM (EST)**
-
-
-          9AM PST/12PM EST — Cross Collaboration with Leaders from Other Theatre Communities
-
-
-          11AM PST/2PM EST — Activity/Networking
-
-
-          1:30PM PST/4:30PM EST — Queer Artists in Conversation
-
-
-          *—BREAK—*
-
-
-          5:30PM PST/8:30PM EST — Wrap Up Session
-        cta: Register for free now!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000ruxpgUAA
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
     items:
-      - title: "MENASA Women Save the Kingdom "
-        pre: Friday, October 29th, at 11:00 AM (PT)
-        text: No Summary returns with ‘Shahrazad Squad,’ a project created and directed
-          by producer Raeshma Razvi in collaboration with theater company Cal
-          Shakes and Squad members.  Golden Thread invites **Zeina Salame**
-          (Artist-Scholar-Educator) to moderate a conversation with **Raeshma
-          Razvi** and **Leila Buck** (Playwright, performer, facilitator,
-          educator) about this project which gathers MENASA women/non-binary
-          creatives, cultural producers and change-makers in person and online
-          to share stories and diasporic experiences, showcase creative work and
-          leadership, and nurture joy, belonging and healing in our communities
-          and beyond.
-        cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rvlklUAA
+      - title: A Conversation with Playwright Adam Ashraf Elsayigh
+        pre: Friday, Decemeber 3rd, at 11:00 AM (PT)
+        text: In this last No Summary episode for 2021, our Executive Artistic
+          Director **Sahar Assaf** will be in conversation with
+          playwright **Adam Ashraf Elsayigh**, author of *Drowning in
+          Cairo*, which will have its world premiere at Golden Thread in the
+          spring of 2022. Growing up in Lebanon and Egypt respectively, Sahar
+          and Adam, both advocates of documentary theatre, will engage in an
+          intimate and open conversation about what made them interested in
+          making theatre. The artists will talk about their theatrical journeys,
+          their processes, and why *Drowning in Cairo*, a play centered on the
+          lives of 3 Arab gay men, is particularly important now.
+        cta: Register now to join the conversation!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZG7sUAG
         subtitle: |-
-          Facilitated by **Zeina Salame** 
+          Facilitated by Sahar **Assaf**
 
-          With featured panelists, **Leila Buck** and **Raeshma Razvi**
-        image: https://ucarecdn.com/9f56a838-f36a-480b-95cf-c3392b93d490/
+          With featured guest **Adam Ashraf Elsayigh**
+        image: https://ucarecdn.com/3514adcc-2f1b-4b68-a718-27ab3c497571/
 ---
 - - -
 
