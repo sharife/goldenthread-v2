@@ -62,25 +62,25 @@ lists:
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000ruxpgUAA
   - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
     items:
-      - title: "MENASA Women Save the Kingdom "
-        pre: Friday, October 29th, at 11:00 AM (PT)
-        text: No Summary returns with ‘Shahrazad Squad,’ a project created and directed
-          by producer Raeshma Razvi in collaboration with theater company Cal
-          Shakes and Squad members.  Golden Thread invites **Zeina Salame**
-          (Artist-Scholar-Educator) to moderate a conversation with **Raeshma
-          Razvi** and **Leila Buck** (Playwright, performer, facilitator,
-          educator) about this project which gathers MENASA women/non-binary
-          creatives, cultural producers and change-makers in person and online
-          to share stories and diasporic experiences, showcase creative work and
-          leadership, and nurture joy, belonging and healing in our communities
-          and beyond.
-        cta: Register for the live-stream event!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rvlklUAA
+      - title: A Conversation with Playwright Adam Ashraf Elsayigh
+        pre: Friday, Decemeber 3rd, at 11:00 AM (PT)
+        text: In this last No Summary episode for 2021, our Executive Artistic
+          Director **Sahar Assaf** will be in conversation with
+          playwright **Adam Ashraf Elsayigh**, author of *Drowning in
+          Cairo*, which will have its world premiere at Golden Thread in the
+          spring of 2022. Growing up in Lebanon and Egypt respectively, Sahar
+          and Adam, both advocates of documentary theatre, will engage in an
+          intimate and open conversation about what made them interested in
+          making theatre. The artists will talk about their theatrical journeys,
+          their processes, and why *Drowning in Cairo*, a play centered on the
+          lives of 3 Arab gay men, is particularly important now.
+        cta: Register now to join the conversation!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZG7sUAG
         subtitle: |-
-          Facilitated by **Zeina Salame** 
+          Facilitated by Sahar **Assaf**
 
-          With featured panelists, **Leila Buck** and **Raeshma Razvi**
-        image: https://ucarecdn.com/9f56a838-f36a-480b-95cf-c3392b93d490/
+          With featured guest **Adam Ashraf Elsayigh**
+        image: https://ucarecdn.com/3514adcc-2f1b-4b68-a718-27ab3c497571/
 ---
 - - -
 
