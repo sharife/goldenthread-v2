@@ -14,11 +14,11 @@ If you wish to be considered for a specific role/show, please see our **[2022 Se
 * Submit your audition via [this submission form.](https://forms.gle/WsVmb2ngq1zYETUJ6)
 
   * Please prepare your **headshot, resume** and a **link** to your video submission. Links to Vimeo, Youtube or other hosting sites are fine. *Please, no password protected files!*
-  * **The deadline to submit is November 8th, 2021.**
-* Equity and non-Equity actors are invited to audition. *Local (Bay Area) hire only.*
+  * **The deadline to submit is now EXTENDED to December 1st, 2021.**
+* Equity and non-Equity actors are invited to audition. **Local Bay Area hire only.**
 * Performers with movement, dance, and music backgrounds are encouraged. Actors of all ages, cultural backgrounds, and abilities are welcomed.
 
-In-person callbacks for Fairytale Players, *The Language of Wild Berries* and *Drowning in Cairo* will be scheduled on an individual basis between **November 12th - 20th 2021** at the Potrero Stage, 1695 18th Street, San Francisco, CA. 
+Callbacks will be held **in-person** at the Potrero Stage, 1695 18th Street, San Francisco, CA. Please see the **[2022 Season Casting Breakdown](https://bit.ly/GTP22casting)** to view individual production callback dates, rehearsal and performance schedules.
 
 ***Please note: Actors who are called back will be required to show proof of vaccination.*** Your final dose must be administered at least 2 weeks prior to the first day of in-person callbacks. If you are not yet vaccinated, please visit [https://myturn.ca.gov](https://myturn.ca.gov/) to schedule an appointment at a vaccination site near you.
 
