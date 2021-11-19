@@ -9,7 +9,7 @@ Golden Thread Productions is now accepting **video auditions** for our 2022 Seas
 
 If this is your first time auditioning for Golden Thread, please submit a two-minute well-rehearsed monologue that showcases your vocal, physical, and emotional range.
 
-If you wish to be considered for a specific role/show, please see our **[2022 Season Casting Breakdown](https://bit.ly/GTP22casting)**.
+If you wish to be considered for a specific role/show, please refer to the audition sides under each production **[listed here.](https://docs.google.com/document/d/1rikF2Fnd5ioKObOMXA3w3RFDZz6P9ouOuupugjBp17g/edit?usp=sharing)**
 
 * Submit your audition via [this submission form.](https://forms.gle/WsVmb2ngq1zYETUJ6)
 
