@@ -17,21 +17,21 @@ sidebar:
 
 The future of Golden Thread is full of possibility as we devise new opportunities, explore fresh ideas, practice artistic invention, and build new connections. As we embark together on Golden Thread’s next chapter, we are excited and inspired to carry on the legacy of our history and mission.  We remain:
 
-#### **<center>Committed to Artistic Excellence<center>**
+### **<center>Committed to Artistic Excellence<center>**
 
 * We make daring artistic choices, take risks, and experiment in the pursuit of high quality productions that build community and cultural empowerment with shows like [Oh My Sweet Land](https://goldenthread.org/productions/sweet-land/), [Scenes From 71* Years](https://goldenthread.org/productions/scenes-from-71-years/), [The Language of Wild Berries](https://goldenthread.org/productions/the-language-of-wild-berries-2022/), and [Drowning in Cairo](https://goldenthread.org/productions/drowning-in-cairo/).
 * We commission new works, facilitating innovative collaborations and initiating unique development processes with a long track record of producing world premieres and collaboratively developing original plays including [Benedictus](https://goldenthread.org/productions/benedictus/), [Ecstasy | a waterfable](https://goldenthread.org/productions/ecstasy-a-waterfable/), [Night Over Erzinga](https://goldenthread.org/productions/night-over-erzinga/), [Isfahan Blues](https://goldenthread.org/productions/isfahan-blues/), and [We Swim, We Talk, We Go to War](https://goldenthread.org/productions/we-talk-we-swim/).
 * We are a vibrant artistic home to artists at various stages of their career and have helped launch the careers of nationally recognized playwrights like Yussef el Guindi, Betty Shamieh, Denmo Ibrahim, Mona Mansour, and Adriana Sevahn Nichols.
 * We are a pioneer in the field of Middle Eastern American theatre, establishing exceptional signature programs unparalleled in the national theatre scene such as the [ReOrient Festival](https://goldenthread.org/programs/reorient/), [Fairytale Players](https://goldenthread.org/programs/fairytale-players/), and [What Do the Women Say?](https://goldenthread.org/programs/what-do-the-women-say/)
 
-#### **<center>Devoted to the Middle East<center>**
+### **<center>Devoted to the Middle East<center>**
 
 * We exist to shift the narrative of the Middle East in American culture, combatting negative stereotypes and narrow perceptions with multi-layered complex portrayals that reflect the rich diversity of the region.
 * We are here to tell our own stories in our own words and to make a place for these stories in the American theatre.
 * We define the Middle East broadly and inclusively, celebrating the plurality of Middle Eastern geographies, languages, religions and cultures as well as embracing American Muslims, of all cultural, ethnic, and racial backgrounds, as members of our Middle Eastern American communities.
 * We stand in solidarity with communities engaged in the struggle for justice and equality, especially BIPOC and LGBTQ communities who like Muslims, immigrants, and “minorities” in the US, are targeted, harassed and vilified.
 
-#### **<center>Rooted in Community<center>**
+### **<center>Rooted in Community<center>**
 
 * We are a company created by, of, and for Middle Eastern artists and communities.
 * We celebrate Middle Eastern women and inspire cultural pride and joy in Middle Eastern youth and families.
