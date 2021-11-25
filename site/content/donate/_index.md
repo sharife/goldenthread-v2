@@ -17,7 +17,7 @@ sidebar:
 
 The future of Golden Thread is full of possibility as we devise new opportunities, explore fresh ideas, practice artistic invention, and build new connections. As we embark together on Golden Thread’s next chapter, we are excited and inspired to carry on the legacy of our history and mission.  We remain:
 
-#### **Committed to Artistic Excellence**
+#### **<center>Committed to Artistic Excellence<center>**
 
 We make daring artistic choices, take risks, and experiment in the pursuit of high quality productions that build community and cultural empowerment.
 
@@ -35,7 +35,7 @@ We are a pioneer in the field of Middle Eastern American theatre, establishing e
 
 * [ReOrient Festival](https://goldenthread.org/programs/reorient/), [Fairytale Players](https://goldenthread.org/programs/fairytale-players/), [What Do the Women Say?](https://goldenthread.org/programs/what-do-the-women-say/)
 
-#### **Devoted to the Middle East**
+#### **<center>Devoted to the Middle East<center>**
 
 We exist to shift the narrative of the Middle East in American culture, combatting negative stereotypes and narrow perceptions with multi-layered complex portrayals that reflect the rich diversity of the region.
 
@@ -45,7 +45,7 @@ We define the Middle East broadly and inclusively, celebrating the plurality of 
 
 We stand in solidarity with communities engaged in the struggle for justice and equality, especially BIPOC and LGBTQ communities who like Muslims, immigrants, and “minorities” in the US, are targeted, harassed and vilified.
 
-#### **Rooted in Community**
+#### **<center>Rooted in Community<center>**
 
 We are a company created by, of, and for Middle Eastern artists and communities.
 
