@@ -35,7 +35,7 @@ The future of Golden Thread is full of possibility as we devise new opportunitie
 
 * We are a company created by, of, and for Middle Eastern artists and communities.
 * We celebrate Middle Eastern women and inspire cultural pride and joy in Middle Eastern youth and families.
-* We are open to all who are committed to our mission and uphold a community that welcomes people of all races, ages, abilities, sexual orientations, genders, socioeconomic backgrounds, citizenship statuses, and religions.
+* We uphold a community that welcomes people of all races, ages, abilities, sexual orientations, genders, socioeconomic backgrounds, citizenship statuses, and religions.
 * We are dedicated to creating dialogue and curating meaningful conversations, acknowledging and celebrating our differences which frequently leads to unexpected similarities that remind us of our shared humanity.
 
 Join us as we enter into a new era of Golden Thread with a contribution today!
