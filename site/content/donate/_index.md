@@ -29,7 +29,7 @@ The future of Golden Thread is full of possibility as we devise new opportunitie
 * We exist to shift the narrative of the Middle East in American culture, combatting negative stereotypes and narrow perceptions with multi-layered complex portrayals that reflect the rich diversity of the region.
 * We are here to tell our own stories in our own words and to make a place for these stories in the American theatre.
 * We define the Middle East broadly and inclusively, celebrating the plurality of Middle Eastern geographies, languages, religions and cultures as well as embracing American Muslims, of all cultural, ethnic, and racial backgrounds, as members of our Middle Eastern American communities.
-* We stand in solidarity with communities engaged in the struggle for justice and equality, especially BIPOC and LGBTQ communities who like Muslims, immigrants, and “minorities” in the US, are targeted, harassed and vilified.
+* We stand in solidarity with communities engaged in the struggle for justice and equality, especially BIPOC and LGBTQ communities who like Muslims, immigrants, and “minorities” in the US, are often targeted, harassed and vilified.
 
 ### **<center>Rooted in Community<center>**
 
