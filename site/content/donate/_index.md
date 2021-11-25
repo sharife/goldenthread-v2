@@ -21,16 +21,16 @@ The future of Golden Thread is full of possibility as we devise new opportunitie
 
 * We make daring artistic choices, take risks, and experiment in the pursuit of high quality productions that build community and cultural empowerment.
 
-  * Oh My Sweet Land, Scenes From 71* Years, The Language of Wild Berries, Drowning in Cairo
+  * [Oh My Sweet Land](https://goldenthread.org/productions/sweet-land/), [Scenes From 71* Years](https://goldenthread.org/productions/scenes-from-71-years/), [The Language of Wild Berries](https://goldenthread.org/productions/the-language-of-wild-berries-2022/), [Drowning in Cairo](https://goldenthread.org/productions/drowning-in-cairo/)
 * We commission new works, facilitating innovative collaborations and initiating unique development processes with a long track record of producing world premieres and collaboratively developing original plays.
 
-  * Benedictus, Ecstasy | a waterfable, Night Over Erzinga, Isfahan Blues, We Swim, We Talk, We Go to War
+  * [Benedictus](https://goldenthread.org/productions/benedictus/), [Ecstasy | a waterfable](https://goldenthread.org/productions/ecstasy-a-waterfable/), [Night Over Erzinga](https://goldenthread.org/productions/night-over-erzinga/), [Isfahan Blues](https://goldenthread.org/productions/isfahan-blues/), [We Swim, We Talk, We Go to War](https://goldenthread.org/productions/we-talk-we-swim/)
 * We are a vibrant artistic home to artists at various stages of their career and have helped launch the careers of nationally recognized playwrights.
 
   * Yussef el Guindi, Betty Shamieh, Denmo Ibrahim, Mona Mansour, Adriana Sevahn Nichols
 * We are a pioneer in the field of Middle Eastern American theatre, establishing exceptional signature programs unparalleled in the national theatre scene.
 
-  * ReOrient Festival, Fairytale Players, What Do the Women Say?
+  * [ReOrient Festival](https://goldenthread.org/programs/reorient/), [Fairytale Players](https://goldenthread.org/programs/fairytale-players/), [What Do the Women Say?](https://goldenthread.org/programs/what-do-the-women-say/)
 
 **<center>Leading the Charge on Equity<center>**
 
