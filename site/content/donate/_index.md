@@ -1,5 +1,5 @@
 ---
-title: 25 Years of Art, Activism and Family!
+title: Support the 2022 Season!
 sidebar:
   heading: There are so many ways to participate!
   text: Your generous support is vital to our work. **[Make your gift
@@ -13,15 +13,24 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# <center>Another 25 years starts with your donation today!</center>
+# <center>A New Era of Golden Thread Begins with You!</center>
 
-As the world around us changes, Golden Thread’s commitment to bring you stories from and about the Middle East remains constant.
+The future of Golden Thread is full of possibility as we devise new opportunities, explore fresh ideas, practice artistic invention, and build new connections. As we embark together on Golden Thread’s next chapter, we are excited and inspired to carry on the legacy of our history and mission.  We remain:
 
-For 25 years we've been:
+**Committed to Artistic Excellence**
 
-**<center>Enriching the American Theatre<center>**
+* We make daring artistic choices, take risks, and experiment in the pursuit of high quality productions that build community and cultural empowerment.
 
-In 25 years, we have premiered more than 120 plays, offering complex and layered representations of the Middle East and its people through new play commissions, ensemble devised work, and local and international collaborations. We have created opportunities for more than 1,000 artists, making deep investment in their work so they may tell their stories in their own words.
+  * Oh My Sweet Land, Scenes From 71* Years, The Language of Wild Berries, Drowning in Cairo
+* We commission new works, facilitating innovative collaborations and initiating unique development processes with a long track record of producing world premieres and collaboratively developing original plays.
+
+  * Benedictus, Ecstasy | a waterfable, Night Over Erzinga, Isfahan Blues, We Swim, We Talk, We Go to War
+* We are a vibrant artistic home to artists at various stages of their career and have helped launch the careers of nationally recognized playwrights.
+
+  * Yussef el Guindi, Betty Shamieh, Denmo Ibrahim, Mona Mansour, Adriana Sevahn Nichols
+* We are a pioneer in the field of Middle Eastern American theatre, establishing exceptional signature programs unparalleled in the national theatre scene.
+
+  * ReOrient Festival, Fairytale Players, What Do the Women Say?
 
 **<center>Leading the Charge on Equity<center>**
 
