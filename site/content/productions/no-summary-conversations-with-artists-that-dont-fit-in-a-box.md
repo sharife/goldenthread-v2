@@ -26,10 +26,10 @@ lists:
           Cairo*, a play centered on the lives of 3 Arab gay men, is
           particularly important now.
         itemstart: 2021-11-17T23:32:59.053Z
-        cta: Click here to Register!
+        cta: Click here to Watch!
         subtitle: Join us *LIVE*, Friday December 3rd, @11AM PT.
         title: A Conversation With Playwright Adam Ashraf Elsayigh
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000suaiQUAQ
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-adam-ashraf-elsayigh
         image: https://ucarecdn.com/4642cbc9-ffb3-48ce-8c21-271b0f6c39aa/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
