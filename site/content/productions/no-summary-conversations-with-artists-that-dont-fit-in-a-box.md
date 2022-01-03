@@ -13,24 +13,6 @@ titleimage: https://ucarecdn.com/00d484d4-9fc1-455d-8c7a-2cd2f4e59457/
 lists:
   - heading: List of Episodes
     items:
-      - pre: Up Next!
-        itemend: 2021-11-17T23:32:59.082Z
-        text: In this last No Summary episode for 2021, our Executive Artistic Director
-          **Sahar Assaf** will be in conversation with playwright **Adam Ashraf
-          Elsayigh**, author of *Drowning in Cairo*, which will have its world
-          premiere at Golden Thread in the spring of 2022. Growing up in Lebanon
-          and Egypt respectively, Sahar and Adam, both advocates of documentary
-          theatre, will engage in an intimate and open conversation about what
-          made them interested in making theatre. The artists will talk about
-          their theatrical journeys, their processes, and why *Drowning in
-          Cairo*, a play centered on the lives of 3 Arab gay men, is
-          particularly important now.
-        itemstart: 2021-11-17T23:32:59.053Z
-        cta: Click here to Watch!
-        subtitle: Join us *LIVE*, Friday December 3rd, @11AM PT.
-        title: A Conversation With Playwright Adam Ashraf Elsayigh
-        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-adam-ashraf-elsayigh
-        image: https://ucarecdn.com/4642cbc9-ffb3-48ce-8c21-271b0f6c39aa/
       - pre: Past Episodes
         itemend: 2020-10-07T20:00:52.908Z
         text: "*NO SUMMARY* launches with a conversation with **Naghmeh Samini**,
@@ -264,6 +246,24 @@ lists:
         title: "MENASA Women Save the Kingdom "
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000rvlklUAA
         image: https://ucarecdn.com/53443d99-2306-4998-8449-2cfc120b2aba/
+      - pre: ""
+        itemend: 2021-11-17T23:32:59.082Z
+        text: In this last No Summary episode for 2021, our Executive Artistic Director
+          **Sahar Assaf** will be in conversation with playwright **Adam Ashraf
+          Elsayigh**, author of *Drowning in Cairo*, which will have its world
+          premiere at Golden Thread in the spring of 2022. Growing up in Lebanon
+          and Egypt respectively, Sahar and Adam, both advocates of documentary
+          theatre, will engage in an intimate and open conversation about what
+          made them interested in making theatre. The artists will talk about
+          their theatrical journeys, their processes, and why *Drowning in
+          Cairo*, a play centered on the lives of 3 Arab gay men, is
+          particularly important now.
+        itemstart: 2021-11-17T23:32:59.053Z
+        cta: Click here to Watch!
+        subtitle: Aired Friday December 3rd, @11AM PT.
+        title: A Conversation With Playwright Adam Ashraf Elsayigh
+        link: https://howlround.com/happenings/livestreaming-conversation-no-summary-adam-ashraf-elsayigh
+        image: https://ucarecdn.com/4642cbc9-ffb3-48ce-8c21-271b0f6c39aa/
 cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
