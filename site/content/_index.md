@@ -4,7 +4,7 @@ headline: Golden Thread's 2022 Season
 subtitle: To Fight With Love
 background: https://ucarecdn.com/df7592da-dac5-4bb3-b785-dbf60a0ba7fc/
 cta: Learn More!
-link: https://goldenthread.org/season/upcoming/
+link: https://goldenthread.org/season/
 items:
   - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
     subtitle: "Our 2022 Season: To Fight with Love!"
