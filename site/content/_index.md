@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: Golden Thread's 2022 Season
 subtitle: To Fight With Love
-background: https://ucarecdn.com/183e4445-34ea-49dd-a180-34bfc97d525f/
+background: https://ucarecdn.com/df7592da-dac5-4bb3-b785-dbf60a0ba7fc/
 cta: Learn More!
 link: https://goldenthread.org/season/upcoming/
 items:
