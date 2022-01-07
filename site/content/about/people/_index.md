@@ -45,6 +45,30 @@ staff:
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
+    - name: Heather Rastovac Akbarzadeh
+      credit: Fairytale Players Program Manager
+      image: https://ucarecdn.com/b7275194-fe81-40c7-b770-69de824fca21/
+      bio: "Heather Rastovac Akbarzadeh (she/her/hers) is a community-engaged scholar,
+        artist, and educator with two decades of experience as a
+        dancer-choreographer, artistic director, curator, and dramaturg among
+        diasporic MENA/SWANA communities. Since 1997, she has performed in
+        street performances, activist circuses, MENA/SWANA cultural events, and
+        full evening dance works on concert stages. Heather earned her Ph.D. in
+        Performance Studies from UC Berkeley with a Designated Emphasis in
+        Women, Gender, and Sexuality, where she completed a dissertation on
+        diasporic Iranian dancers and performance artists. Following her
+        doctoral studies, she was the Mellon Postdoctoral Fellow in Dance
+        Studies in the Department of Theater and Performance Studies at Stanford
+        University (2016 - 2018) and the University of California Chancellor's
+        Postdoctoral Fellow in the Department of Asian American Studies at UC
+        Davis (2018 – 2020). She is currently working on her first book
+        manuscript, Choreographing the Iranian Diaspora: Dance, Spectatorship,
+        and the War on Terror, which has been selected for the Dance Studies
+        Association’s “Series in Dance History” 2019 First-time Author
+        Mentorship Program. Heather’s publications include chapters in Futures
+        of Dance Studies (University of Wisconsin Press, 2020) and in Performing
+        Iran: Cultural Identity and Theatrical Performance (I.B. Tauris Press,
+        2021). [www.heatherrastovac.com](www.heatherrastovac.com)"
     - name: Chris Steele
       credit: Marketing & Communications Associate
       image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
