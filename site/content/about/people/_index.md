@@ -85,33 +85,35 @@ staff:
     - name: Chris Steele
       credit: Marketing & Communications Associate
       image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
-      bio: Chris Steele *(they/them)* is a queer trans nonbinary performance artist,
-        producer, and playwright. Since studying at Pepperdine University and
-        the University of Oklahoma, they have worked professionally in queer and
-        trans inclusion and advocacy across the Bay Area, even beyond the
-        theater industry with UCSF, Sephora, and the Bay Area Nightlife
-        Coalition. As a media and publicity professional, they work regularly
-        with PlayGround as their inaugural Producing Fellow, launched and manage
-        the critically lauded new queer collective Poltergeist Theatre Project
-        (poltergeistproject.org), and manage and produce drag artistry content
-        under their personas Polly Amber Ross and Peter Pansexual (on Instagram
-        at @pollyandpeter). They are passionate about using social media to
-        connect communities, organize activism, and welcome diverse audiences
-        into the behind-the-scenes process of stage artistry.
+      bio: "**Chris Steele** *(they/them)* is a queer trans nonbinary performance
+        artist, producer, and playwright. Since studying at Pepperdine
+        University and the University of Oklahoma, they have worked
+        professionally in queer and trans inclusion and advocacy across the Bay
+        Area, even beyond the theater industry with UCSF, Sephora, and the Bay
+        Area Nightlife Coalition. As a media and publicity professional, they
+        work regularly with PlayGround as their inaugural Producing Fellow,
+        launched and manage the critically lauded new queer collective
+        Poltergeist Theatre Project (poltergeistproject.org), and manage and
+        produce drag artistry content under their personas Polly Amber Ross and
+        Peter Pansexual (on Instagram at @pollyandpeter). They are passionate
+        about using social media to connect communities, organize activism, and
+        welcome diverse audiences into the behind-the-scenes process of stage
+        artistry."
     - name: Linda Maria Girón
       credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them/elle)* is a queer Guatemalan-American
-        playwright, performer and visual artist from Los Angeles, California. An
-        alumna of UC Berkeley’s Theater & Performance Studies department, Linda
-        has written, taught and performed for a variety of Bay Area theaters
-        including Berkeley Interactive Theater, Cutting Ball Theater,
-        AlterTheatre Ensemble, Shotgun Players, BATCO, Idiot String, The
-        Peripatetic Players and the New Conservatory Theater Center.  They are
-        currently in residence at Crowded Fire Theater’s *Resilience &
-        Development Lab*, PlayGround’s 2021 Writer’s Pool, the Latinx Mafia
-        collective and Poltergeist Theatre’s artistic cohort. Follow their work
-        at [www.lindamgiron.com](www.lindamgiron.com)."
-      image: https://ucarecdn.com/57c53031-f694-4644-95a5-62c1a7db3c60/
+      bio: "**Linda Maria Girón** *(they/them)*is a multi-disciplinary theater maker,
+        visual artist and musician from Los Angeles, CA. Their work is informed
+        and inspired by ritual, queerness and anti-racist practice; with a
+        primary focus on examining the neo-colonialism of Latin America and its
+        diasporas. After receiving their Bachelor's in Theater and Performance
+        Studies from the University of California, Berkeley, Linda made their
+        professional theater debut with FaultLine Theater and has since
+        performed, collaborate and written for companies across the Bay Area
+        including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
+        CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
+        New Conservatory Theater Center, CentralWorks, Word4Word & the
+        Peripatetic Players. [www.lindamgiron.com](www.lindamgiron.com)"
+      image: https://ucarecdn.com/426367e0-92cb-4c04-a4e6-7e01b9bc4a9a/-/crop/1391x1647/41,140/-/preview/
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
