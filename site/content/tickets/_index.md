@@ -1,7 +1,7 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "Coming soon: *Drowning in Cairo*"
+  - heading: "*Drowning in Cairo*"
     items:
       - title: "April 8, 2022 - May 1, 2022 "
         pre: Written by **Adam Ashraf Elsayigh**, directed by **Sahar Assaf**
