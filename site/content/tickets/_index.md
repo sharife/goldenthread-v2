@@ -1,22 +1,19 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "Coming soon: Drowning in Cairo"
+  - heading: "Coming soon: *Drowning in Cairo*"
     items:
       - title: ""
         pre: April 8, 2022 - May 1, 2022
         text: >-
-          We’re delighted to bring you the World Premiere of **Adam Ashraf
-          Elsayigh’s** *Drowning in Cairo, o*riginally presented and partially
+          We’re delighted to bring you the World Premiere of Adam Ashraf
+          Elsayigh’s *Drowning in Cairo, o*riginally presented and partially
           developed as part of Golden Thread’s New Threads Reading Series in
-          2018. Adam Ashraf Elsayigh’s debut production is a loving portrait of
-          three young men struggling to rebuild their lives after their arrest
-          and public humiliation on the Queen Boat, a gay nightclub docked on
-          the Nile. 
+          2018. 
 
 
-          *Tickets coming soon!*
-        cta: ""
+          **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
+        cta: "*Check back soon to reserve your tickets!*"
         link: ""
         subtitle: |-
           Written by **Adam Ashraf Elsayigh**
