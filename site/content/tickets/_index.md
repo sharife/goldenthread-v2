@@ -1,10 +1,10 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "*Drowning in Cairo*"
+  - heading: Drowning in Cairo
     items:
-      - title: "April 8, 2022 - May 1, 2022 "
-        pre: Written by **Adam Ashraf Elsayigh**, directed by **Sahar Assaf**
+      - title: ""
+        pre: "April 8, 2022 - May 1, 2022 "
         text: >-
           We’re delighted to bring you the World Premiere of Adam Ashraf
           Elsayigh’s *Drowning in Cairo, o*riginally presented and partially
@@ -15,7 +15,7 @@ lists:
           **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
         cta: "*Check back soon to reserve your tickets!*"
         link: ""
-        subtitle: ""
+        subtitle: Written by **Adam Ashraf Elsayigh**, directed by **Sahar Assaf**
         image: ""
 ---
 - - -
