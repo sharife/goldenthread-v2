@@ -1,27 +1,28 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "No Summary: Conversations with Artists that Don't Fit in a Box!"
+  - heading: "Coming soon: Drowning in Cairo"
     items:
-      - title: A Conversation with Playwright Adam Ashraf Elsayigh
-        pre: Friday, Decemeber 3rd, at 11:00 AM (PT)
-        text: In this last No Summary episode for 2021, our Executive Artistic
-          Director **Sahar Assaf** will be in conversation with
-          playwright **Adam Ashraf Elsayigh**, author of *Drowning in
-          Cairo*, which will have its world premiere at Golden Thread in the
-          spring of 2022. Growing up in Lebanon and Egypt respectively, Sahar
-          and Adam, both advocates of documentary theatre, will engage in an
-          intimate and open conversation about what made them interested in
-          making theatre. The artists will talk about their theatrical journeys,
-          their processes, and why *Drowning in Cairo*, a play centered on the
-          lives of 3 Arab gay men, is particularly important now.
-        cta: Register now to join the conversation!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZG7sUAG
-        subtitle: |-
-          Facilitated by Sahar **Assaf**
+      - title: ""
+        pre: April 8, 2022 - May 1, 2022
+        text: >-
+          We’re delighted to bring you the World Premiere of **Adam Ashraf
+          Elsayigh’s** *Drowning in Cairo, o*riginally presented and partially
+          developed as part of Golden Thread’s New Threads Reading Series in
+          2018. Adam Ashraf Elsayigh’s debut production is a loving portrait of
+          three young men struggling to rebuild their lives after their arrest
+          and public humiliation on the Queen Boat, a gay nightclub docked on
+          the Nile. 
 
-          With featured guest **Adam Ashraf Elsayigh**
-        image: https://ucarecdn.com/3514adcc-2f1b-4b68-a718-27ab3c497571/
+
+          *Tickets coming soon!*
+        cta: ""
+        link: ""
+        subtitle: |-
+          Written by **Adam Ashraf Elsayigh**
+
+          Directed by **Sahar Assaf**
+        image: ""
 ---
 - - -
 
