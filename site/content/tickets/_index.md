@@ -21,7 +21,7 @@ lists:
         cta: ""
         link: ""
         subtitle: Written by **Adam Ashraf Elsayigh**, directed by **Sahar Assaf**
-        image: ""
+        image: https://ucarecdn.com/4da5e1f2-6dc3-40b9-b21b-20421d7cfeb9/
 ---
 - - -
 
