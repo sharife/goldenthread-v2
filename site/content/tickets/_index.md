@@ -13,7 +13,12 @@ lists:
 
 
           **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
-        cta: "*Check back soon to reserve your tickets!*"
+
+
+
+
+          ***Check back soon to reserve your tickets!***
+        cta: ""
         link: ""
         subtitle: Written by **Adam Ashraf Elsayigh**, directed by **Sahar Assaf**
         image: ""
