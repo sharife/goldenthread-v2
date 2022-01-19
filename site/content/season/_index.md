@@ -1,9 +1,7 @@
 ---
-title: 2021 Season
-currentseason: 2021
+title: 2022 Season
+currentseason: 2022
 intro: >
-  25th ANNIVERSARY SEASON – Bridging Legacy with a New Era: Golden Thread
-  celebrates the lasting impact of 25 Years of Art, Activism, and Family while
-  continuing to innovate and evolve with new digital programming!
-background: /img/25th-anni-header.jpg
+  TO FIGHT WITH LOVE! - We return in 2022 with daring plays that build on Golden Thread’s commitment to creating space for dialogue, solidarity, and innovation. Mark your calendars for exciting new plays from Egypt and Iran. Tickets on sale soon!
+background: https://ucarecdn.com/7e44d8b7-8d08-4893-86b7-13560dede3f9/
 ---
