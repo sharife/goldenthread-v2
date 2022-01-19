@@ -54,6 +54,13 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		name = "Drowning in Cairo"
 		url = "/productions/drowning-in-cairo/"
 		weight = 15
+		
+		[[menu.primary]]
+		parent = "season"
+		identifier = "the-language-of-wild-berries-2022"
+		name = "The Language of Wild Berries"
+		url = "/productions/the-language-of-wild-berries-2022/"
+		weight = 16
 
 
 	[[menu.primary]]
