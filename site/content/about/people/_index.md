@@ -82,23 +82,6 @@ staff:
         of Dance Studies (University of Wisconsin Press, 2020) and in Performing
         Iran: Cultural Identity and Theatrical Performance (I.B. Tauris Press,
         2021). [www.heatherrastovac.com](www.heatherrastovac.com)"
-    - name: Chris Steele
-      credit: Marketing & Communications Associate
-      image: https://ucarecdn.com/84106925-1cef-47d2-a2db-3db65a592bec/
-      bio: "**Chris Steele** *(they/them)* is a queer trans nonbinary performance
-        artist, producer, and playwright. Since studying at Pepperdine
-        University and the University of Oklahoma, they have worked
-        professionally in queer and trans inclusion and advocacy across the Bay
-        Area, even beyond the theater industry with UCSF, Sephora, and the Bay
-        Area Nightlife Coalition. As a media and publicity professional, they
-        work regularly with PlayGround as their inaugural Producing Fellow,
-        launched and manage the critically lauded new queer collective
-        Poltergeist Theatre Project (poltergeistproject.org), and manage and
-        produce drag artistry content under their personas Polly Amber Ross and
-        Peter Pansexual (on Instagram at @pollyandpeter). They are passionate
-        about using social media to connect communities, organize activism, and
-        welcome diverse audiences into the behind-the-scenes process of stage
-        artistry."
     - name: Linda Maria Girón
       credit: Operations Associate
       bio: "**Linda Maria Girón** *(they/them)*is a multi-disciplinary theater maker,
