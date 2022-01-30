@@ -5,9 +5,7 @@ season: 2022
 date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
-description: Golden Thread Fairytale Players offer a dynamic repertoire of
-  performances for young audiences, with plays based on traditions and folklore
-  from across the Middle East.
+description: ""
 background: https://ucarecdn.com/4f2251b9-bb34-4feb-a1be-1b1f7666d744/
 titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
 writer: Torange Yeghiazarian
