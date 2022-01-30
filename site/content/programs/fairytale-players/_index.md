@@ -50,11 +50,11 @@ sidebar:
     Bryant Elementary School\
     Live Oak Elementary School
 lists:
-  - heading: Now Available as a Radio Play!
+  - heading: ""
     items:
       - cta: Find out more
         image: /img/feature-leila-thumb.jpg
-        link: /productions/leila
+        link: ""
         text: >
           When the optometrist shatters little Leila's dream of becoming a
           pilot, a menagerie of mythic birds gather to help her accomplish her
@@ -62,7 +62,7 @@ lists:
           Flight_ incorporates music, dance, and physical comedy. These dynamic
           shows are entertaining for all ages, connecting diverse cultural
           traditions to contemporary themes. 
-        title: Leila's Quest For Flight
+        title: ""
   - heading: Past Productions
     items:
       - image: /img/archive/2012/03/TamarNazar-thumb.jpg
@@ -94,6 +94,15 @@ lists:
           centered around the comedic personage, Nasrudin Hoja, a wise fool
           renowned in Central Asia, Turkey, and Iran.
         title: Nasrudin's Magnificent Journey to Samarkand
+      - title: Leila's Quest For Flight
+        text: When the optometrist shatters little Leila's dream of becoming a pilot, a
+          menagerie of mythic birds gather to help her accomplish her
+          goal.  Drawn from beloved Palestinian folk tales, *Leila's Quest for
+          Flight* incorporates music, dance, and physical comedy. These dynamic
+          shows are entertaining for all ages, connecting diverse cultural
+          traditions to contemporary themes.
+        image: https://ucarecdn.com/1aabf334-9180-4618-8532-ceec73c395fa/
+        link: /productions/leila
 grids:
   - items:
       - id: IYQFCLj2m5I
