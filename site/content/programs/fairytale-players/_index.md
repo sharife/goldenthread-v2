@@ -23,20 +23,18 @@ description: Golden Thread Fairytale Players offer a dynamic repertoire of
   Unified School District, San Leandro Unified School District, and Redwood City
   Unified School District.
 sidebar:
-  heading: Golden Thread Fairytale Players have performed for thousands of
-    elementary students.
+  heading: ""
   text: >-
-    John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar
-    Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School,
-    Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary,
-    Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School,
-    Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta
-    Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon
-    Alternative Elementary, George Peabody Elementary, Chinese Immersion School,
-    Bryant Elementary School, Live Oak Elementary School
+    **Questions? Email us at
+    [education@goldenthread.org](mailto:education@goldenthread.org). Ready to
+    book a show? Complete our [booking
+    form](https://forms.gle/vJTevH4HYps8pLwT6).**
 
 
-    **Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org). Ready to book a show? Complete our [booking form](https://forms.gle/vJTevH4HYps8pLwT6).**
+    Golden Thread Fairytale Players have performed for thousands of elementary students.
+
+
+    John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School, Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary, Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School, Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon Alternative Elementary, George Peabody Elementary, Chinese Immersion School, Bryant Elementary School, Live Oak Elementary School
 lists:
   - heading: Past Productions
     items:
