@@ -45,7 +45,7 @@ lists:
           Flight* incorporates music, dance, and physical comedy. These dynamic
           shows are entertaining for all ages, connecting diverse cultural
           traditions to contemporary themes.
-        image: https://ucarecdn.com/1aabf334-9180-4618-8532-ceec73c395fa/
+        image: https://ucarecdn.com/27f4a3ad-7da1-453e-b76f-3a1675d8e842/
         link: /productions/leila
       - image: /img/archive/2012/03/TamarNazar-thumb.jpg
         text: >
