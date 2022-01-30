@@ -22,5 +22,9 @@ director: Sarah Al-Kassab
 designteam: Mokhtar Paki (Production Designer)
 additional: Dance choreography by Lisa Tateosian
 stage: Various Bay Area schools & libraries
+misc: |-
+  This production runs approximately 30-minutes followed by 20-min Q & A session
+
+  Appropriate for families and children, ages 5-15
 ---
 Golden Thread Fairytale Players offer a dynamic repertoire of performances for young audiences, with plays based on traditions and folklore from across the Middle East.
