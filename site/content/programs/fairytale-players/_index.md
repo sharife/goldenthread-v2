@@ -106,11 +106,9 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-In person shows have been canceled in response to the ever-evolving Covid crisis. Visit our Season page for *Leila's Quest for Flight* to learn more about our free radio play version, now available!
+Our 2022 production is a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! 
 
-* Ideal for families and children aged 5-15.
-* The radio play runs 30 minutes.
-* For schools, an interactive digital brochure with background on themes and resources for further learning will be provided.
+Our performances are ideal for children aged 5 - 15. The 50-minute presentation includes a 30-minute performance with audience participation, and a 20-minute Q&A with the artists. Convenient study guides and activities for grades K-5 which incorporate California Educational Standards for Performing Arts, History, Social Studies, and Language Arts are available to enhance the performance.
 
 **Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).**
 
