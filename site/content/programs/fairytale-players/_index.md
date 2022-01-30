@@ -50,10 +50,17 @@ sidebar:
     Bryant Elementary School\
     Live Oak Elementary School
 lists:
-  - heading: ""
-    items: []
   - heading: Past Productions
     items:
+      - title: Leila's Quest For Flight
+        text: When the optometrist shatters little Leila's dream of becoming a pilot, a
+          menagerie of mythic birds gather to help her accomplish her
+          goal.  Drawn from beloved Palestinian folk tales, *Leila's Quest for
+          Flight* incorporates music, dance, and physical comedy. These dynamic
+          shows are entertaining for all ages, connecting diverse cultural
+          traditions to contemporary themes.
+        image: https://ucarecdn.com/1aabf334-9180-4618-8532-ceec73c395fa/
+        link: /productions/leila
       - image: /img/archive/2012/03/TamarNazar-thumb.jpg
         text: >
           Bringing Armenian legends and traditions to life, this new work will
@@ -85,15 +92,6 @@ lists:
           renowned in Central Asia, Turkey, and Iran.
         title: Nasrudin's Magnificent Journey to Samarkand 2011
         link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
-      - title: Leila's Quest For Flight
-        text: When the optometrist shatters little Leila's dream of becoming a pilot, a
-          menagerie of mythic birds gather to help her accomplish her
-          goal.  Drawn from beloved Palestinian folk tales, *Leila's Quest for
-          Flight* incorporates music, dance, and physical comedy. These dynamic
-          shows are entertaining for all ages, connecting diverse cultural
-          traditions to contemporary themes.
-        image: https://ucarecdn.com/1aabf334-9180-4618-8532-ceec73c395fa/
-        link: /productions/leila
 grids:
   - items:
       - id: IYQFCLj2m5I
