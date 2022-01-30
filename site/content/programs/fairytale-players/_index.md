@@ -3,25 +3,28 @@ title: Golden Thread Fairytale Players
 background: /img/hero-fairytale-players-2.jpg
 heading: Multicultural Theatre for Young Audiences
 intro: "\n"
-description: Golden Thread Fairytale Players offer a dynamic repertoire of
-  performances for young audiences, with plays based on traditions and folklore
-  from across the Middle East. Inspired by popular performance traditions such
-  as *Hakawati*, *Ru-hozi*, *Naghalli*, *Karagoz*, and *Commedia dell Arte*,
-  Golden Thread Fairytale Players employ epic storytelling, puppetry, song,
-  dance, circus arts techniques, and Middle Eastern languages to create engaging
-  performances that draw from enriching folk tales and timeless historical
-  texts. <br /><br />Our dynamic and humorous shows invite audience
-  participation and make unexpected connections to contemporary culture. Golden
-  Thread Fairytale Players performances appeal to audiences of all ages, for
-  their highly entertaining value and important capacity to develop deeper
-  appreciation for diverse cultural traditions.<br /><br />Golden Thread
-  Fairytale Players have performed at schools, libraries, festivals, and museums
-  all over the Bay area. A few highlights include Palestine Cultural Day, One
-  World Festival, the SFMOMA, the Hearst Museum and the Asian Art Museum;
-  numerous San Francisco and San Mateo Public Libraries; many private schools;
-  and public schools in the San Francisco Unified School District, Berkeley
-  Unified School District, San Leandro Unified School District, and Redwood City
-  Unified School District.
+description: >-
+  Golden Thread Fairytale Players offer a dynamic repertoire of performances for
+  young audiences, with plays based on traditions and folklore from across the
+  Middle East. Inspired by popular performance traditions such as *Hakawati*,
+  *Ru-hozi*, *Naghalli*, *Karagoz*, and *Commedia dell Arte*, Golden Thread
+  Fairytale Players employ epic storytelling, puppetry, song, dance, circus arts
+  techniques, and Middle Eastern languages to create engaging performances that
+  draw from enriching folk tales and timeless historical texts. <br /><br />Our
+  dynamic and humorous shows invite audience participation and make unexpected
+  connections to contemporary culture. Golden Thread Fairytale Players
+  performances appeal to audiences of all ages, for their highly entertaining
+  value and important capacity to develop deeper appreciation for diverse
+  cultural traditions.<br /><br />Golden Thread Fairytale Players have performed
+  at schools, libraries, festivals, and museums all over the Bay area. A few
+  highlights include Palestine Cultural Day, One World Festival, the SFMOMA, the
+  Hearst Museum and the Asian Art Museum; numerous San Francisco and San Mateo
+  Public Libraries; many private schools; and public schools in the San
+  Francisco Unified School District, Berkeley Unified School District, San
+  Leandro Unified School District, and Redwood City Unified School District.
+
+
+  ![](https://ucarecdn.com/e5d969e2-b877-4e2a-b22c-1961cbb11a25/ "Coming in 2022!")
 sidebar:
   heading: ""
   text: >-
