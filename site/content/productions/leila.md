@@ -1,7 +1,7 @@
 ---
-title: Leila’s Quest For Flight
+title: Leila’s Quest For Flight 2020
 pre: GOLDEN THREAD FAIRYTALE PLAYERS PRESENT
-season: 2020
+season: ""
 date: 2019-12-01T15:04:10.000Z
 start: ""
 end: ""
@@ -58,17 +58,21 @@ lists:
 
 
           "Inspirational. It would be wonderful to bring it to all elementary schools." *—President, Berkeley PTA Council*
+        itemstart: 2022-01-30T22:16:56.881Z
+        itemend: 2022-01-30T22:16:56.965Z
 grids:
   - items:
-      - link: https://cdn.flipsnack.com/widget/v2/widget.html?hash=dpm6if5tk5
-        title: Explore Leila's World with this Interactive Playbook
-        pre: A Golden Thread Fairytale Players Educational Offering
-        subtitle: Filled with fun activities for ages 3 to 18.
+      - pre: A Golden Thread Fairytale Players Educational Offering
+        itemend: 2022-01-30T22:16:57.164Z
         text: We have gathered a number of activities that are aligned with California
           core curriculum standards for students K-5. The guide covers a wide
           range of topics from social sciences, to visual arts, and language
           arts for educators, families, and children to enjoy and learn from.
+        itemstart: 2022-01-30T22:16:57.045Z
         cta: Click here to Explore!
+        subtitle: Filled with fun activities for ages 3 to 18.
+        title: Explore Leila's World with this Interactive Playbook
+        link: https://cdn.flipsnack.com/widget/v2/widget.html?hash=dpm6if5tk5
         image: https://ucarecdn.com/4cbce51a-bc69-4466-9490-bd88077891b3/
     heading: "'Leila's Quest for Flight' Activity Guide"
 cast:
