@@ -50,21 +50,17 @@ sidebar:
     Bryant Elementary School\
     Live Oak Elementary School
 lists:
-  - heading: Now Available as a Radio Play!
-    items:
-      - cta: Find out more
-        image: /img/feature-leila-thumb.jpg
-        link: /productions/leila
-        text: >
-          When the optometrist shatters little Leila's dream of becoming a
-          pilot, a menagerie of mythic birds gather to help her accomplish her
-          goal.  Drawn from beloved Palestinian folk tales, _Leila's Quest for
-          Flight_ incorporates music, dance, and physical comedy. These dynamic
-          shows are entertaining for all ages, connecting diverse cultural
-          traditions to contemporary themes. 
-        title: Leila's Quest For Flight
   - heading: Past Productions
     items:
+      - title: Leila's Quest For Flight
+        text: When the optometrist shatters little Leila's dream of becoming a pilot, a
+          menagerie of mythic birds gather to help her accomplish her
+          goal.  Drawn from beloved Palestinian folk tales, *Leila's Quest for
+          Flight* incorporates music, dance, and physical comedy. These dynamic
+          shows are entertaining for all ages, connecting diverse cultural
+          traditions to contemporary themes.
+        image: https://ucarecdn.com/1aabf334-9180-4618-8532-ceec73c395fa/
+        link: /productions/leila
       - image: /img/archive/2012/03/TamarNazar-thumb.jpg
         text: >
           Bringing Armenian legends and traditions to life, this new work will
@@ -85,6 +81,7 @@ lists:
           ceremonies, *21 Days* will introduce audiences to the rituals of the
           Iranian New Year, Nowruz. 
         title: 21 Days that Change the Year
+        link: https://goldenthread.org/productions/21-days-that-change-the-year/
       - image: /img/archive/2012/03/nasrudin-thumb.jpg
         text: >
           Will Nasrudin and his faithful donkey ever make it to Samarkand, the
@@ -93,7 +90,8 @@ lists:
           story-telling, dance and music is adapted from several folk tales
           centered around the comedic personage, Nasrudin Hoja, a wise fool
           renowned in Central Asia, Turkey, and Iran.
-        title: Nasrudin's Magnificent Journey to Samarkand
+        title: Nasrudin's Magnificent Journey to Samarkand 2011
+        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
 grids:
   - items:
       - id: IYQFCLj2m5I
@@ -106,11 +104,9 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-In person shows have been canceled in response to the ever-evolving Covid crisis. Visit our Season page for *Leila's Quest for Flight* to learn more about our free radio play version, now available!
+Our 2022 production is a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! 
 
-* Ideal for families and children aged 5-15.
-* The radio play runs 30 minutes.
-* For schools, an interactive digital brochure with background on themes and resources for further learning will be provided.
+Our performances are ideal for children aged 5 - 15. The 50-minute presentation includes a 30-minute performance with audience participation, and a 20-minute Q&A with the artists. Convenient study guides and activities for grades K-5 which incorporate California Educational Standards for Performing Arts, History, Social Studies, and Language Arts are available to enhance the performance.
 
 **Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).**
 
