@@ -81,7 +81,7 @@ staff:
         Mentorship Program. Heather’s publications include chapters in Futures
         of Dance Studies (University of Wisconsin Press, 2020) and in Performing
         Iran: Cultural Identity and Theatrical Performance (I.B. Tauris Press,
-        2021). [www.heatherrastovac.com](www.heatherrastovac.com)"
+        2021). www.heatherrastovac.com"
     - name: Linda Maria Girón
       credit: Operations Associate
       bio: "**Linda Maria Girón** *(they/them)*is a multi-disciplinary theater maker,
@@ -95,7 +95,8 @@ staff:
         including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
         CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
         New Conservatory Theater Center, CentralWorks, Word4Word & the
-        Peripatetic Players. www.lindamgiron.com[](www.lindamgiron.com)"
+        Peripatetic Players. Follow their work at
+        www.lindamgiron.com[](www.lindamgiron.com)"
       image: https://ucarecdn.com/821a3ec9-a985-43b6-b6f1-82aab5312c44/
       link: www.lindamgiron.com
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
