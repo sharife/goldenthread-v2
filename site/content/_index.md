@@ -37,22 +37,4 @@ items:
 
 
       **The deadline to submit is November 8th, 2021.** We can't wait to meet you and share space together again!
-  - image: https://ucarecdn.com/0ba9cce6-6619-4f0a-b1e9-8329d0846e88/
-    subtitle: "NO SUMMARY: Online Conversations with Artists that Don't Fit in a Box!"
-    cta: Read More Now
-    link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
-    text: >-
-      No Summary returns with the ‘Shahrazad Squad,’ a project created and
-      directed by producer Raeshma Razvi in collaboration with theater company
-      Cal Shakes and Squad members.  Golden Thread invites **Zeina
-      Salame** (Artist-Scholar-Educator) to moderate a conversation with
-      **Raeshma Razvi** and **Leila Buck** (Playwright, performer, facilitator,
-      educator) about this project which gathers MENASA women/non-binary
-      creatives, cultural producers and change-makers in person and online
-      to share stories and diasporic experiences, showcase creative work and
-      leadership, and nurture joy, belonging and healing in our communities and
-      beyond.
-
-
-      ***Don't miss the Livestream on October 29th, 2021 @ 11AM PT!***
 ---
