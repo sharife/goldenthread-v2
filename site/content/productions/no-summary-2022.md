@@ -26,6 +26,7 @@ lists:
           11, 2022 at Golden Thread.
         cta: Register Now!
         image: https://ucarecdn.com/9775c12d-ea0a-468c-aa21-77e2cc05fd1d/
+        pre: Friday, February 25, 2022 at 11:00AM (PT)
     heading: List of Episodes
 ---
 Every two months join us for *NO SUMMARY*, our **Live-Stream Series** of MENA artists in conversation, featuring live audience Q & A! We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. A schedule of our upcoming episodes TBA soon!
