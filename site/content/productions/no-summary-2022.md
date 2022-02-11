@@ -1,5 +1,5 @@
 ---
-title: "No Summary 2022: Conversations with Artists Who Don't Fit in a Box"
+title: "No Summary: 2022"
 pre: Live-stream conversations with audience Q&A.
 season: 2022
 date: 2021-10-21T22:02:19.893Z
