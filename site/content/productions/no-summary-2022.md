@@ -24,7 +24,7 @@ lists:
           **Wiley Naman Strasser** and learn about their theatre journeys and
           what excites them about *Drowning in Cairo*, which is opening on April
           11, 2022 at Golden Thread.
-        cta: Register Now!
+        cta: Registration Coming Soon!
         image: https://ucarecdn.com/9775c12d-ea0a-468c-aa21-77e2cc05fd1d/
         pre: Friday, February 25, 2022 at 11:00AM (PT)
     heading: List of Episodes
