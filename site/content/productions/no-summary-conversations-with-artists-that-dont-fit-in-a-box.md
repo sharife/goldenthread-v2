@@ -1,5 +1,5 @@
 ---
-title: "No Summary: Conversations with Artists that Don't Fit in a Box!"
+title: "No Summary: Conversations with Artists that Don't Fit in a Box! 2020/21"
 pre: A livestream conversation series with live audience Q&A.
 season: 2021
 date: 2021-02-21T03:41:04.513Z
