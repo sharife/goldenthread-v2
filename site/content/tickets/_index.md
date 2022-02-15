@@ -5,15 +5,15 @@ lists:
     items:
       - pre: Friday, February 25, 2022 11:00 AM (PST)
         subtitle: ""
-        text: Executive Artistic Director of Golden Thread Productions **Sahar Assaf**
-          introduces and interviews the cast members of *Drowning in Cairo*, a
-          world premiere by **Adam Ashraf Elsayigh** centered on three Arab gay
-          men trying to rebuild their lives after their arrest on the Queen
-          Boat, a gay nightclub docked on the Nile in 2001. Join the
-          conversation to meet **Noor Hamdi**, **Martin Yousif Zebari**, and
-          **Wiley Naman Strasser** and learn about their theatre journeys and
-          what excites them about *Drowning in Cairo*, which is opening on April
-          11, 2022 at Golden Thread.
+        text: Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
+          interviews the cast members of *Drowning in Cairo*, a world premiere
+          by Adam Ashraf Elsayigh. The play focuses on the lives of three young
+          men whose lives are forever altered when an unexpected police raid
+          results in the arrest and public humiliation of the attendees of the
+          Queen Boat, a gay nightclub docked on the Nile. Come meet **Noor
+          Hamdi**, **Martin Yousif Zebari**, and **Wiley Naman Strasser** and
+          learn about their theatre journeys and what excites them about this
+          debut production coming up in April 2022 at Golden Thread.
         image: https://ucarecdn.com/af5f41cb-630b-4943-994b-f181641a03d7/
         cta: Register now for free!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000tnmRLUAY
