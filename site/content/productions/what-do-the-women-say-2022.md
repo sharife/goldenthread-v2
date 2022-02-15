@@ -13,6 +13,7 @@ description: A highly anticipated annual offering, Golden Thread Productions
   build community through their art, artists who explore sex and sexuality, and
   artists working at the crossroads of tradition and experimentation.
 background: https://ucarecdn.com/9a866e76-e74f-4e8d-bba1-e32afcaa8d5a/
+titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
 ---
 Golden Thread began producing a Women’s Day event in **1999** titled, ***From the Inside***. The event was a multi-media performance involving eight women artists including performers and visual artists.
 
