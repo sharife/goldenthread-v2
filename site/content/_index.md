@@ -38,16 +38,15 @@ items:
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
     text: >-
-      Executive Artistic Director of Golden Thread Productions Sahar Assaf
-      introduces and interviews the cast members of Drowning in Cairo, a world
-      premiere by Adam Ashraf Elsayigh. When an unexpected police raid of the
-      Queen Boat, a gay nightclub docked on the Nile in 2001, results in the
-      arrest and public humiliation of the attendees, the lives of three young
-      men are altered forever. Join the conversation to meet Noor Hamdi, Martin
-      Yousif Zebari, and Wiley Naman Strasser and learn about their theatre
-      journeys and what excites them about this debut production opening in
-      April 2022 at Golden Thread.
-
+      Executive Artistic Director of Golden Thread Productions **Sahar Assaf**
+      introduces and interviews the cast members of *Drowning in Cairo*, a world
+      premiere by **Adam Ashraf Elsayigh**. When an unexpected police raid of
+      the Queen Boat, a gay nightclub docked on the Nile, results in the arrest
+      and public humiliation of the attendees, the lives of three young men are
+      altered forever. Join the conversation to meet **Noor Hamdi**, **Martin
+      Yousif Zebari**, and **Wiley Naman Strasser** and learn about their
+      theatre journeys and what excites them about this debut production opening
+      in April 2022 at Golden Thread.
 
 
       Don’t miss the Livestream on Friday, February 25, 2022 @ 11AM PT!
