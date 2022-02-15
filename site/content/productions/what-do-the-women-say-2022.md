@@ -5,7 +5,7 @@ season: 2022
 date: 2021-10-21T21:49:11.662Z
 start: 2022-03-09T04:00:00.000Z
 end: 2022-03-09T06:00:00.000Z
-heading: ""
+heading: about Making Home
 description: A highly anticipated annual offering, Golden Thread Productions
   celebrates International Women’s Day with ***What Do the Women Say?***, which
   showcases the work of leading Middle Eastern women artists. Previous programs
