@@ -16,6 +16,7 @@ titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
 bottom:
   logos:
     - image: https://ucarecdn.com/879c8221-bf21-42b9-bc0c-31c9fe5f9c79/
+    - image: https://ucarecdn.com/20ba67e7-7e5b-452d-9aab-c04695d906dd/
 ---
 Showcasing the work of MENA multi-generational women artists who are making home away from home, the program will feature a poetry reading by award-winning Lebanese poet Zeina Hashem Beck, a dramatic reading by Palestinian actor and playwright Hend Ayoub from her one woman show Home?, a performance by Yemeni song writer and Oud artist Layle Omeran, an excerpt from the documentary film by Iranian filmmaker Sabereh Kashi Home Yet Far Away, and a sneak peek into the rehearsal studio of Palestinian dancer Leila Awadallah. Following the presentations, Executive Artistic Director Sahar Assaf will be joined by Afghan writer, speaker and consultant Humaira Ghilzai to facilitate a conversation between the participating artists and the audience. 
 Raeshma Razvi and Maddie Rostami from the Shahrazad Squad will be engaging in-person audiences in the lobby at Brava with story-bites inspired by the 1001 Nights starting at 7:00pm.
