@@ -19,20 +19,16 @@ items:
       can’t wait to return to the theatre with you, where we’ll take all the
       necessary precautions to ensure everyone’s health and safety as we share
       stories, celebrate life, and fight with love.
-  - image: https://ucarecdn.com/1907bf79-c565-4110-9341-05c9aa1c0165/
-    subtitle: Join us onstage!
+  - image: https://ucarecdn.com/d4f90fda-7514-4bca-9421-13b4c85f1475/
+    subtitle: "What Do the Women Say? 2022: Making Home"
     cta: Click to Learn More!
     link: https://goldenthread.org/get-involved/casting/
-    text: >-
-      Golden Thread Productions is now accepting **video auditions** for our
-      2022 Season Generals, two mainstage productions, and Fairytale Players
-      program. In-person callbacks for Fairytale Players, *The Language of Wild
-      Berries* and *Drowning in Cairo* will be scheduled by production
-      between **November 12th - 20th 2021** at the Potrero Stage, 1695 18th
-      Street, San Francisco, CA. 
-
-
-      **The deadline to submit is November 8th, 2021.** We can't wait to meet you and share space together again!
+    text: In celebration of International Women’s Day, What Do the Women Say?
+      returns to the Brava Theater. Showcasing the work of multi-generational
+      MENA women artists who are making home away from home, this year’s program
+      will be presented in a hybrid format with artists appearing in-person and
+      virtually. Audiences will be able to join in-person at the Brava Theater
+      or online for a virtual presentation.
   - image: https://ucarecdn.com/c35c1094-a90d-4ebc-96b8-a7bad3588791/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
     cta: Read More Now
