@@ -3,8 +3,8 @@ title: What Do The Women Say? 2022
 pre: a celebration of International Women's Day
 season: 2022
 date: 2021-10-21T21:49:11.662Z
-start: ""
-end: ""
+start: 2022-03-09T04:00:00.000Z
+end: 2022-03-09T06:00:00.000Z
 heading: ""
 description: A highly anticipated annual offering, Golden Thread Productions
   celebrates International Women’s Day with ***What Do the Women Say?***, which
