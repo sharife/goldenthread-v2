@@ -36,7 +36,7 @@ items:
   - image: https://ucarecdn.com/c35c1094-a90d-4ebc-96b8-a7bad3588791/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
     cta: Read More Now
-    link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
+    link: https://goldenthread.org/productions/no-summary-2022/
     text: >-
       Executive Artistic Director of Golden Thread Productions **Sahar Assaf**
       introduces and interviews the cast members of *Drowning in Cairo*, a world
