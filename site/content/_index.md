@@ -33,7 +33,7 @@ items:
 
 
       **The deadline to submit is November 8th, 2021.** We can't wait to meet you and share space together again!
-  - image: https://ucarecdn.com/0ba9cce6-6619-4f0a-b1e9-8329d0846e88/
+  - image: https://ucarecdn.com/c35c1094-a90d-4ebc-96b8-a7bad3588791/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-conversations-with-artists-that-dont-fit-in-a-box/
