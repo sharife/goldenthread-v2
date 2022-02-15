@@ -10,15 +10,15 @@ items:
     subtitle: "Our 2022 Season: To Fight with Love!"
     cta: Click to Learn More!
     link: https://goldenthread.org/season/upcoming/
-    text: We are coming back in 2022 with daring plays that build on Golden Thread’s
+    text: We're back in 2022 with daring plays that build on Golden Thread’s
       commitment to creating space for dialogue, solidarity, and innovation.
       These past two years have deprived us of the ritual of gathering together
       in a space where we experience the kind of stories that can heal the
-      broken pieces of our hearts. We reclaim this ritual next year with stories
-      that give us space to grieve our losses as well as to celebrate love and
-      life. We can’t wait to return to the theatre with you, where we’ll take
-      all the necessary precautions to ensure everyone’s health and safety as we
-      share stories, celebrate life, and fight with love.
+      broken pieces of our hearts. We reclaim this ritual with stories that give
+      us space to grieve our losses as well as to celebrate love and life. We
+      can’t wait to return to the theatre with you, where we’ll take all the
+      necessary precautions to ensure everyone’s health and safety as we share
+      stories, celebrate life, and fight with love.
   - image: https://ucarecdn.com/1907bf79-c565-4110-9341-05c9aa1c0165/
     subtitle: Join us onstage!
     cta: Click to Learn More!
