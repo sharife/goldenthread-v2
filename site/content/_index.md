@@ -49,5 +49,5 @@ items:
       in April 2022 at Golden Thread.
 
 
-      Don’t miss the Livestream on Friday, February 25, 2022 @ 11AM PT!
+      *Don’t miss the Livestream on Friday, February 25, 2022 @ 11AM PT!*
 ---
