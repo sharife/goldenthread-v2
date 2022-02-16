@@ -22,7 +22,7 @@ items:
   - image: https://ucarecdn.com/d4f90fda-7514-4bca-9421-13b4c85f1475/
     subtitle: "What Do the Women Say? 2022: Making Home"
     cta: Click to Learn More!
-    link: https://goldenthread.org/get-involved/casting/
+    link: https://goldenthread.org/productions/what-do-the-women-say-2022/
     text: >-
       In celebration of International Women’s Day, What Do the Women Say?
       returns to the Brava Theater. Showcasing the work of multi-generational
@@ -32,10 +32,7 @@ items:
       or online for a virtual presentation.
 
 
-      Following the artist presentations, Executive Artistic Director Sahar Assaf will be joined by Afghan writer, speaker and consultant Humaira Ghilzai to facilitate a conversation between the participating artists and the audience.
-
-
-      The full program is 100-minutes without intermission.
+      This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
   - image: https://ucarecdn.com/c35c1094-a90d-4ebc-96b8-a7bad3588791/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
     cta: Read More Now
