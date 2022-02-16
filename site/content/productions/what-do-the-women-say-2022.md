@@ -23,4 +23,4 @@ Showcasing the work of multi-generational MENA women artists who are making home
 
 Raeshma Razvi and Maddie Rostami from the [Shahrazad Squad](https://shahrazadsquad.org/) will be engaging in-person audiences in the lobby at Brava with story-bites inspired by the 1001 Nights starting at 7:00pm.
 
-The full program is 100-minutes without intermission.
+The full program is 100 minutes without intermission.
