@@ -13,6 +13,7 @@ description: In celebration of International Women’s Day, Golden Thread’s Wh
   a virtual presentation.
 background: https://ucarecdn.com/9a866e76-e74f-4e8d-bba1-e32afcaa8d5a/
 titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
+ticketinfo: Tickets are $15-$20. No one will be turned away for lack of funds.
 bottom:
   logos:
     - image: https://ucarecdn.com/879c8221-bf21-42b9-bc0c-31c9fe5f9c79/
