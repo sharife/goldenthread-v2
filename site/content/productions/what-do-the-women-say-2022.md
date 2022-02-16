@@ -13,6 +13,9 @@ description: In celebration of International Women’s Day, Golden Thread’s Wh
   a virtual presentation.
 background: https://ucarecdn.com/9a866e76-e74f-4e8d-bba1-e32afcaa8d5a/
 titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
+featuring: "Presenting Artists: Leila Awadallah, Hend Ayoub, Zeina Hashem Beck,
+  Sabereh Kashi, Layle Omeran. Pre-show Artists: Raeshma Razvi, Maddie Rostami.
+  Conversation Moderators: Humaira Ghilzai, Sahar Assaf."
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco
 visitlink: https://www.brava.org/visit
