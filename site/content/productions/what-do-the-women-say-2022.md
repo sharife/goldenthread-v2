@@ -4,7 +4,7 @@ pre: a celebration of International Women's Day
 season: 2022
 date: 2021-10-21T21:49:11.662Z
 start: 2022-03-09T04:00:00.000Z
-end: 2022-03-09T06:00:00.000Z
+end: ""
 heading: about Making Home
 description: In celebration of International Women’s Day, Golden Thread’s What
   Do the Women Say? returns to the Brava Theater. This year’s program will be
