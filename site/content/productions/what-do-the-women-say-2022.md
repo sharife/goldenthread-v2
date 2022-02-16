@@ -3,7 +3,7 @@ title: What Do The Women Say? 2022
 pre: a celebration of International Women's Day
 season: 2022
 date: 2021-10-21T21:49:11.662Z
-start: 2022-03-09T04:00:00.000Z
+start: 2022-03-08T08:00:00.000Z
 end: ""
 heading: "this year's theme: Making Home"
 description: In celebration of International Women’s Day, Golden Thread’s What
