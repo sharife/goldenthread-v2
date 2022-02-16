@@ -21,7 +21,7 @@ items:
       stories, celebrate life, and fight with love.
   - image: https://ucarecdn.com/d4f90fda-7514-4bca-9421-13b4c85f1475/
     subtitle: "What Do the Women Say? 2022: Making Home"
-    cta: Click to Learn More!
+    cta: Learn More!
     link: https://goldenthread.org/productions/what-do-the-women-say-2022/
     text: >-
       In celebration of International Women’s Day, What Do the Women Say?
