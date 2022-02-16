@@ -19,7 +19,8 @@ featuring: "Presenting Artists: Leila Awadallah, Hend Ayoub, Zeina Hashem Beck,
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco
 visitlink: https://www.brava.org/visit
-ticketinfo: Tickets are $15-$20. No one will be turned away for lack of funds.
+ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
+ticketinfo: Tickets are $15-$50. No one will be turned away for lack of funds.
 bottom:
   logos:
     - image: https://ucarecdn.com/879c8221-bf21-42b9-bc0c-31c9fe5f9c79/
