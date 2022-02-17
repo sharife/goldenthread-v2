@@ -17,15 +17,32 @@ lists:
         image: https://ucarecdn.com/af5f41cb-630b-4943-994b-f181641a03d7/
         cta: Register now for free!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000tnmRLUAY
-  - heading: ""
+  - heading: "What Do the Women Say? 2022: Making Home"
     items:
       - title: ""
         pre: ""
-        text: "***Check back soon to reserve tickets for our upcoming 2022 Season!***"
-        cta: ""
-        link: ""
+        text: In celebration of International Women’s Day, What Do the Women Say?
+          returns to the Brava Theater in a hybrid format with artists appearing
+          in-person and virtually. Audiences can join in-person at the Brava
+          Theater or register online for a virtual presentation. Showcasing the
+          work of multi-generational MENA women artists who are making home away
+          from home, the program will feature a poetry reading by award-winning
+          Lebanese poet Zeina Hashem Beck, a dramatic reading by Palestinian
+          actor and playwright Hend Ayoub from her one woman show Home?, a
+          performance by Yemeni song writer and Oud artist Layle Omeran, an
+          excerpt from the documentary film by Iranian filmmaker Sabereh Kashi
+          Home Yet Far Away, and a sneak peek into the rehearsal studio of
+          Palestinian dancer Leila Awadallah. Following the presentations,
+          Executive Artistic Director Sahar Assaf will be joined by Afghan
+          writer, speaker and consultant Humaira Ghilzai to facilitate a
+          conversation between the participating artists and the audience.
+          Raeshma Razvi and Madeleine Rostami from the Shahrazad Squad will be
+          engaging in-person audiences in the lobby at Brava with story-bites
+          inspired by the 1001 Nights starting at 7:00pm.
+        cta: Buy Now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
         subtitle: ""
-        image: ""
+        image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
 ---
 - - -
 
