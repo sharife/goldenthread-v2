@@ -64,15 +64,21 @@ For assistance with any box office related issue, please email boxoffice@goldent
 * The house opens 30 minutes before the performance and there is no late seating. Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
 
 If you have registered for a virtual event the link to access your virtual program can be found in the confirmation email for your ticket purchase. For troubleshooting tips for viewing, visit https://goldenthread.org/posts/your-guide-to-the-patron-manager-video-on-demand-platform/.
+
 If you have registered for a free event but can no longer attend, please notify the box office so we can accommodate someone else.
-ACCESSIBILITY
+
+**ACCESSIBILITY**
 
 Accessibility for hearing, sight, or mobility can be addressed via email (boxoffice@goldenthread.org), phone (415-626-4061) or by putting a note in your ticket order. A request in advance of purchase or attendance will assist us in accommodating your party. Unfortunately, our venue cannot offer listening devices.
 
 While we are unable to provide gender neutral restrooms in the venues we rent at this time, we embrace gender diversity and maintain an inclusive space where individual identities are respected. All are welcome to use the restroom that is most comfortable for them, including a private single-stall restroom available in our adjacent office, accessible via a staff member.
 
-COVID-19 SAFETY & PROTOCOLS 
-Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events. 
+**COVID-19 SAFETY & PROTOCOLS** 
+
+Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+
 Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
-Seating will be general admission and limited to 75% capacity. Certain seats will be designated to remain empty to ensure some social distancing between parties. Advanced purchase or registration is advised. 
-By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click here.
+
+Seating will be general admission and limited to 75% capacity. Certain seats will be designated to remain empty to ensure some social distancing between parties. Advanced purchase or registration is advised.
+
+By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
