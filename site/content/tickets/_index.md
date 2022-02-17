@@ -20,7 +20,7 @@ lists:
   - heading: "What Do the Women Say? 2022: Making Home"
     items:
       - title: ""
-        pre: ""
+        pre: Tuesday, March 8, 2022 at 8:00pm (PST)
         text: In celebration of International Women’s Day, What Do the Women Say?
           returns to the Brava Theater in a hybrid format with artists appearing
           in-person and virtually. Audiences can join in-person at the Brava
