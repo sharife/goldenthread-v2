@@ -27,18 +27,19 @@ lists:
           Theater or register online for a virtual presentation. Showcasing the
           work of multi-generational MENA women artists who are making home away
           from home, the program will feature a poetry reading by award-winning
-          Lebanese poet Zeina Hashem Beck, a dramatic reading by Palestinian
-          actor and playwright Hend Ayoub from her one woman show Home?, a
-          performance by Yemeni song writer and Oud artist Layle Omeran, an
-          excerpt from the documentary film by Iranian filmmaker Sabereh Kashi
-          Home Yet Far Away, and a sneak peek into the rehearsal studio of
-          Palestinian dancer Leila Awadallah. Following the presentations,
-          Executive Artistic Director Sahar Assaf will be joined by Afghan
-          writer, speaker and consultant Humaira Ghilzai to facilitate a
-          conversation between the participating artists and the audience.
-          Raeshma Razvi and Madeleine Rostami from the Shahrazad Squad will be
-          engaging in-person audiences in the lobby at Brava with story-bites
-          inspired by the 1001 Nights starting at 7:00pm.
+          Lebanese poet **Zeina Hashem Beck**, a dramatic reading by Palestinian
+          actor and playwright **Hend Ayoub** from her one woman show *Home?*, a
+          performance by Yemeni song writer and oud artist **Layle Omeran**, an
+          excerpt from the documentary film by Iranian filmmaker **Sabereh
+          Kashi** *Home Yet Far Away*, and a sneak peek into the rehearsal
+          studio of Palestinian dancer **Leila Awadallah**. Following the
+          presentations, Executive Artistic Director **Sahar Assaf** will be
+          joined by Afghan writer, speaker and consultant **Humaira Ghilzai** to
+          facilitate a conversation between the participating artists and the
+          audience. **Raeshma Razvi** and **Madeleine Rostami** from the
+          **Shahrazad Squad** will be engaging in-person audiences in the lobby
+          at Brava with story-bites inspired by the 1001 Nights starting at
+          7:00pm.
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
         subtitle: ""
