@@ -21,6 +21,21 @@ address: 2781 24th Street, San Francisco
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
 ticketinfo: Tickets are $15-$50. No one will be turned away for lack of funds.
+mentions:
+  text: >-
+    Golden Thread is a fully vaccinated company. All patrons must present proof
+    of vaccination with a booster shot, along with a matching photo ID, and be
+    masked for entry to all in-person events. 
+
+
+    Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
+
+
+    Seating will be general admission and limited to 75% capacity. Certain seats will be designated to remain empty to ensure some social distancing between parties. Advanced purchase or registration is advised. 
+
+
+    By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
+  heading: COVID Health & Safety
 bottom:
   logos:
     - image: https://ucarecdn.com/879c8221-bf21-42b9-bc0c-31c9fe5f9c79/
