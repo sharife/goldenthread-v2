@@ -14,10 +14,10 @@ description: >-
   presentation.
 
 
-  Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature a poetry reading by award-winning Lebanese poet **[Zeina Hashem Beck](www.zeinahashembeck.com/)**, a dramatic reading by Palestinian actor and playwright **[Hend Ayoub](https://www.hendayoub.com/)** from her one woman show *Home?*, a performance by Yemeni song writer and oud artist **[Layle Omeran](https://www.instagram.com/laylomer/?hl=en)** accompanied by cellist and composer **[Crystal Pascucc](https://www.crystalpascucci.com/)i**, an excerpt from the documentary film by Iranian filmmaker **[Sabereh Kashi](https://www.filmmakerscollaborative.org/home-yet-far-away)** *Home Yet Far Away*, and a sneak peek into the rehearsal studio of Palestinian dancer **[Leila Awadallah](https://www.leilaawadallah.com/new-index)**. 
+  Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature a poetry reading by award-winning Lebanese poet **[Zeina Hashem Beck](www.zeinahashembeck.com/)**, a dramatic reading by Palestinian actor and playwright **[Hend Ayoub](https://www.hendayoub.com/)** from her one woman show *Home?*, a performance by Yemeni song writer and oud artist **[Layle Omeran](https://www.instagram.com/laylomer/?hl=en)** accompanied by cellist and composer **[Crystal Pascucci](https://www.crystalpascucci.com/)**, an excerpt from the documentary film by Iranian filmmaker **[Sabereh Kashi](https://www.filmmakerscollaborative.org/home-yet-far-away)** *Home Yet Far Away*, and a sneak peek into the rehearsal studio of Palestinian dancer **[Leila Awadallah](https://www.leilaawadallah.com/new-index)**. 
 
 
-  **Raeshma Razvi** and local members of the **[Shahrazad Squad](https://shahrazadsquad.org/)** will engage in-person audiences in the lobby at Brava with their 1001 Nights-inspired “Conversation Cards,” facilitating the informal sharing of bite-sized stories with other attendees, starting at 7:00pm in person and 7:30pm online.
+  **Raeshma Razvi** and local members of the **[Shahrazad Squad](https://shahrazadsquad.org/)** will engage pre-show audiences with their 1001 Nights-inspired “Conversation Cards,” facilitating the informal sharing of bite-sized stories with other attendees, starting at 7:00pm in person and 7:30pm online.
 
 
   Following the presentations, Executive Artistic Director **Sahar Assaf** will be joined by Afghan writer, speaker and consultant **[Humaira Ghilzai](https://www.humairaghilzai.com/)** to facilitate a conversation between the participating artists and the audience. 
@@ -27,7 +27,7 @@ description: >-
 background: https://ucarecdn.com/9a866e76-e74f-4e8d-bba1-e32afcaa8d5a/
 titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
 featuring: "Presenting Artists: Leila Awadallah, Hend Ayoub, Zeina Hashem Beck,
-  Sabereh Kashi, Layle Omeran. Pre-show Artists: Raeshma Razvi, Maddie Rostami.
+  Sabereh Kashi, Layle Omeran. Pre-show Artists: Raeshma Razvi, Madeleine Rostami.
   Conversation Moderators: Humaira Ghilzai, Sahar Assaf."
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco
