@@ -17,7 +17,7 @@ description: >-
   Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature a poetry reading by award-winning Lebanese poet **[Zeina Hashem Beck](www.zeinahashembeck.com/)**, a dramatic reading by Palestinian actor and playwright **[Hend Ayoub](https://www.hendayoub.com/)** from her one woman show *Home?*, a performance by Yemeni song writer and oud artist **[Layle Omeran](https://www.instagram.com/laylomer/?hl=en)** accompanied by cellist and composer **[Crystal Pascucci](https://www.crystalpascucci.com/)**, an excerpt from the documentary film by Iranian filmmaker **[Sabereh Kashi](https://www.filmmakerscollaborative.org/home-yet-far-away)** *Home Yet Far Away*, and a sneak peek into the rehearsal studio of Palestinian dancer **[Leila Awadallah](https://www.leilaawadallah.com/new-index)**. 
 
 
-  **Raeshma Razvi** and local members of the **[Shahrazad Squad](https://shahrazadsquad.org/)** will engage pre-show audiences with their 1001 Nights-inspired “Conversation Cards,” facilitating the informal sharing of bite-sized stories with other attendees, starting at 7:00pm in person and 7:30pm online.
+  **Raeshma Razvi** and **Madeleine Rostami** of the **[Shahrazad Squad](https://shahrazadsquad.org/)** will engage pre-show audiences with their 1001 Nights-inspired “Conversation Cards,” facilitating the informal sharing of bite-sized stories with other attendees, starting at 7:00pm in person and 7:30pm online.
 
 
   Following the presentations, Executive Artistic Director **Sahar Assaf** will be joined by Afghan writer, speaker and consultant **[Humaira Ghilzai](https://www.humairaghilzai.com/)** to facilitate a conversation between the participating artists and the audience. 
