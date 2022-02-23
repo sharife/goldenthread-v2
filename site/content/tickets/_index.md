@@ -10,11 +10,11 @@ lists:
           by Adam Ashraf Elsayigh. The play focuses on the lives of three young
           men whose lives are forever altered when an unexpected police raid
           results in the arrest and public humiliation of the attendees of the
-          Queen Boat, a gay nightclub docked on the Nile. Come meet **Noor
-          Hamdi**, **Martin Yousif Zebari**, and **Wiley Naman Strasser** and
-          learn about their theatre journeys and what excites them about this
-          debut production coming up in April 2022 at Golden Thread.
-        image: https://ucarecdn.com/af5f41cb-630b-4943-994b-f181641a03d7/
+          Queen Boat, a gay nightclub docked on the Nile. Come meet **Martin
+          Yousif Zebari**, and **Wiley Naman Strasser** and learn about their
+          theatre journeys and what excites them about this debut production
+          coming up in April 2022 at Golden Thread.
+        image: https://ucarecdn.com/d784825f-b9e0-4183-b6da-77710dc02e6f/
         cta: Register now for free!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000tnmRLUAY
   - heading: "What Do the Women Say? 2022: Making Home"
