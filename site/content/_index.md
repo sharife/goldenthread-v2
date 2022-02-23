@@ -33,7 +33,7 @@ items:
 
 
       This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
-  - image: https://ucarecdn.com/c35c1094-a90d-4ebc-96b8-a7bad3588791/
+  - image: https://ucarecdn.com/d50a9081-9336-41b9-a6f7-79f7ba294810/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
     cta: Read More Now
     link: https://goldenthread.org/productions/no-summary-2022/
@@ -43,10 +43,10 @@ items:
       Adam Ashraf Elsayigh. The play focuses on the lives of three young men
       whose lives are forever altered when an unexpected police raid results in
       the arrest and public humiliation of the attendees of the Queen Boat, a
-      gay nightclub docked on the Nile. Come meet **Noor Hamdi**, **Martin
-      Yousif Zebari**, and **Wiley Naman Strasser** and learn about their
-      theatre journeys and what excites them about this debut production coming
-      up in April 2022 at Golden Thread. 
+      gay nightclub docked on the Nile. Come meet **Martin Yousif Zebari**, and
+      **Wiley Naman Strasser** and learn about their theatre journeys and what
+      excites them about this debut production coming up in April 2022 at Golden
+      Thread. 
 
 
       *Don’t miss the Livestream on Friday, February 25, 2022 @ 11AM PT!*
