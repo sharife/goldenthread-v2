@@ -22,7 +22,7 @@ lists:
           three young men whose lives are forever altered when an unexpected
           police raid results in the arrest and public humiliation of the
           attendees of the Queen Boat, a gay nightclub docked on the Nile. Come
-          meet **Martin Yousif Zebari**, and **Wiley Naman Strasser** and learn
+          meet **Martin Yousif Zebari** and **Wiley Naman Strasser** and learn
           about their theatre journeys and what excites them about this debut
           production coming up in April 2022 at Golden Thread.
 
