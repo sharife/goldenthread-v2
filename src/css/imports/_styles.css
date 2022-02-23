@@ -95,7 +95,7 @@ html,body {
 
 .deco-border {
 	min-height: 18px;
-	background: black url("/img/border.png") repeat-x center;
+	/*background: black url("/img/border.png") repeat-x center;*/
 }
 
 .nav {
