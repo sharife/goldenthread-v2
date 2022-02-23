@@ -9,7 +9,7 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
   how it impacts their work and artistic choices.
-background: https://ucarecdn.com/df0483c8-380f-4f27-83e3-1a88aed5e2f4/
+background: https://ucarecdn.com/0c25b4c5-e3ae-489e-af85-c1b26c018ed7/
 lists:
   - items:
       - itemstart: 2022-02-11T00:56:31.923Z
@@ -22,15 +22,14 @@ lists:
           three young men whose lives are forever altered when an unexpected
           police raid results in the arrest and public humiliation of the
           attendees of the Queen Boat, a gay nightclub docked on the Nile. Come
-          meet **Noor Hamdi**, **Martin Yousif Zebari**, and **Wiley Naman
-          Strasser** and learn about their theatre journeys and what excites
-          them about this debut production coming up in April 2022 at Golden
-          Thread.
+          meet **Martin Yousif Zebari**, and **Wiley Naman Strasser** and learn
+          about their theatre journeys and what excites them about this debut
+          production coming up in April 2022 at Golden Thread.
 
 
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
         cta: Register Now!
-        image: https://ucarecdn.com/9775c12d-ea0a-468c-aa21-77e2cc05fd1d/
+        image: https://ucarecdn.com/5db01299-51de-48eb-b5fe-5be8bf1c8da4/
         pre: Friday, February 25, 2022 at 11:00AM (PT)
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000tnmRLUAY
     heading: List of Episodes
