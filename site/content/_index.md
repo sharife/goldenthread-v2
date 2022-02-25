@@ -8,7 +8,7 @@ link: https://goldenthread.org/season/
 items:
   - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
     subtitle: "Our 2022 Season: To Fight with Love!"
-    cta: Click to Learn More!
+    cta: Learn More!
     link: https://goldenthread.org/season/upcoming/
     text: We're back in 2022 with daring plays that build on Golden Thread’s
       commitment to creating space for dialogue, solidarity, and innovation.
@@ -35,7 +35,7 @@ items:
       This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
   - image: https://ucarecdn.com/d50a9081-9336-41b9-a6f7-79f7ba294810/
     subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
-    cta: Read More Now
+    cta: Learn More
     link: https://goldenthread.org/productions/no-summary-2022/
     text: >-
       Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
