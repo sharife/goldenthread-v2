@@ -70,7 +70,7 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-### COVID Health & Safety
+### <center>COVID Health & Safety</center>
 
 Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
 
