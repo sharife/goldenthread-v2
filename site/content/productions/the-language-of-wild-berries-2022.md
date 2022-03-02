@@ -89,7 +89,7 @@ cast:
       image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
 photos:
-  heading: Photo Gallery
+  heading: ""
 bottom:
   heading: ""
   text: ""
