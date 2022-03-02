@@ -12,7 +12,7 @@ description: >-
   Yeghiazarian. 
 
 
-  The past, present, and future collide in the touching story of a couple’s annual road trips to the Caspian Sea and the mysterious stranger following them. **Naghmeh Samini**’s play is a rare glimpse into the lives of contemporary Iranians.
+  Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The past, present, and future collide in **Naghmeh Samini**’s touching play, offering a rare glimpse into the lives of contemporary Iranians.
 background: https://ucarecdn.com/04b5fe61-b128-4ccb-ae73-3092977ec67c/
 titleimage: https://ucarecdn.com/70072ca2-3b57-421f-b737-9bf42c828f93/
 programlabel: Images and Information on Iran
@@ -27,8 +27,8 @@ additional: ""
 stage: Potrero Stage
 address: 1695 18th St, San Francisco, CA
 visitlink: ""
-ticketlink: ""
-ticketinfo: Ticketing Information TBA.
+ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+ticketinfo: Tickets On Sale Soon! $20-$100
 externallink: ""
 externallinklabel: ""
 cast:
@@ -89,9 +89,17 @@ cast:
       image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
 photos:
-  heading: Photo Gallery
+  heading: ""
 bottom:
   heading: ""
   text: ""
 ---
-Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
+### <center>COVID Health & Safety</center>
+
+Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+
+Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
+
+Seating will be general admission and limited to 75% capacity. Certain seats will be designated to remain empty to ensure some social distancing between parties. Advanced purchase or registration is advised.
+
+By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
