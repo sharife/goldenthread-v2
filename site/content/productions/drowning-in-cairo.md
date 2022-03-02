@@ -13,8 +13,11 @@ description: >-
 
   **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
+titleimage: https://ucarecdn.com/7ebc58c9-6ba0-4e85-8250-7938060960f5/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
+featuring: Amin El Gamal*, Wiley Naman Strasser*, and Martin Zebari
+dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketinfo: Ticketing Information TBA
