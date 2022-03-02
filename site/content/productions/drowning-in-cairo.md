@@ -17,6 +17,10 @@ titleimage: https://ucarecdn.com/7ebc58c9-6ba0-4e85-8250-7938060960f5/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, and Martin Zebari
+designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
+  Boyd (Lighting Design), Tyler Miller (Production Manager), George Psarras
+  (Sound Design), Karen Runk* (Stage Manager), Chris Swartzell (Technical
+  Director), Mikiko Uesugi (Set Design)
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
