@@ -25,7 +25,7 @@ dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZVd5UAG
-ticketinfo: Ticketing Information TBA
+ticketinfo: Tickets On Sale Soon!
 cast:
   heading: Artist Bios
   items:
