@@ -25,8 +25,9 @@ dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-ticketinfo: Tickets On Sale Soon! Tickets $20-$100 - In Person Performances
-  April 8 through May 1, 2022 - Video On Demand April 25 through May 1, 2022
+ticketinfo: <p>Tickets On Sale Soon!</p> <p>Tickets $20-$100</p> <p>In Person
+  Performances April 8 through May 1, 2022</p> <p>Video On Demand April 25
+  through May 1, 2022</p>
 cast:
   heading: Artist Bios
   items:
