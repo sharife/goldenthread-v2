@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Golden Thread's 2022 Season
-subtitle: To Fight With Love
-background: https://ucarecdn.com/df7592da-dac5-4bb3-b785-dbf60a0ba7fc/
+headline: What Do the Women Say? 2020
+subtitle: Making Home
+background: https://ucarecdn.com/5c4ac8fd-f870-4690-a82d-8bdd9211de4c/
 cta: Learn More!
-link: https://goldenthread.org/season/
+link: https://goldenthread.org/productions/what-do-the-women-say-2022/
 items:
   - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
     subtitle: "Our 2022 Season: To Fight with Love!"
