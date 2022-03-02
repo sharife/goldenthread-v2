@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: What Do the Women Say? 2020
+headline: What Do the Women Say? 2022
 subtitle: Making Home
 background: https://ucarecdn.com/5c4ac8fd-f870-4690-a82d-8bdd9211de4c/
 cta: Learn More!
