@@ -7,13 +7,13 @@ start: 2022-04-08T07:00:00.000Z
 end: 2022-05-01T07:00:00.000Z
 description: >-
   We're delighted to bring you the World Premiere of Adam Ashraf Elsayigh’s
-  *Drowning in Cairo, o*riginally presented and partially developed as part of
+  *Drowning in Cairo,* originally presented and partially developed as part of
   Golden Thread's New Threads Reading Series in 2018.
 
 
   **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
-titleimage: https://ucarecdn.com/7ebc58c9-6ba0-4e85-8250-7938060960f5/
+titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Zebari
