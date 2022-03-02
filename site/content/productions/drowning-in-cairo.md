@@ -11,7 +11,7 @@ description: >-
   Golden Thread's New Threads Reading Series in 2018.
 
 
-  **Adam Ashraf Elsayigh’s** debut production is a loving portrait of three young men struggling to rebuild their lives after their arrest and public humiliation on the Queen Boat, a gay nightclub docked on the Nile.
+  It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. **Adam Ashraf Elsayigh’s** debut production weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
 background: https://ucarecdn.com/0c0ad630-a608-4d0c-a30a-50fa82486a9c/
 titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
 writer: Adam Ashraf Elsayigh
@@ -24,7 +24,8 @@ designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
-ticketinfo: Ticketing Information TBA
+ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZVd5UAG
+ticketinfo: Tickets On Sale Soon!
 cast:
   heading: Artist Bios
   items:
@@ -69,4 +70,12 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 ---
-It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf Elsayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
+### <center>COVID Health & Safety</center>
+
+Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+
+Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
+
+Seating will be general admission and limited to 75% capacity. Certain seats will be designated to remain empty to ensure some social distancing between parties. Advanced purchase or registration is advised.
+
+By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
