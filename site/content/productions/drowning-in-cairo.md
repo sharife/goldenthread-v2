@@ -24,7 +24,7 @@ designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
-ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZVd5UAG
+ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 ticketinfo: Tickets On Sale Soon!
 cast:
   heading: Artist Bios
