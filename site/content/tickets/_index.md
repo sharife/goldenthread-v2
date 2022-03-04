@@ -1,9 +1,9 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "What Do the Women Say? 2022: Making Home"
+  - heading: ""
     items:
-      - title: Tuesday, March 8, 2022 at 8:00pm (PST)
+      - title: "What Do the Women Say? 2022: Making Home"
         pre: ""
         text: >-
           In celebration of International Women’s Day, What Do the Women Say?
@@ -18,7 +18,7 @@ lists:
           This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
-        subtitle: ""
+        subtitle: Tuesday, March 8, 2022 at 8:00pm (PST)
         image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
   - heading: Drowning in Cairo
     items:
@@ -32,9 +32,11 @@ lists:
           It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf Elsayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
 
 
-          **April 8–May 1, 2022 | Potrero Stage (1695 18th Street, San Francisco)
+          **April 8–May 1, 2022 | Potrero Stage (1695 18th Street, San Francisco)**
 
-          Video On Demand April 25 through May 1, 2022**
+
+          **Video On Demand April 25 through May 1, 2022**
+
 
           Tickets are $15-$100
         cta: Buy Now!
