@@ -6,7 +6,7 @@ background: https://ucarecdn.com/5c4ac8fd-f870-4690-a82d-8bdd9211de4c/
 cta: Learn More!
 link: https://goldenthread.org/productions/what-do-the-women-say-2022/
 items:
-  - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
+  - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
@@ -29,21 +29,15 @@ items:
 
 
       This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
-  - image: https://ucarecdn.com/d50a9081-9336-41b9-a6f7-79f7ba294810/
-    subtitle: "NO SUMMARY: Online Conversations with Artists Who Don't Fit in a Box!"
+  - image: https://ucarecdn.com/acc78b21-e40e-49bf-b9fa-5f4494f1cbab/
+    subtitle: Drowning In Cairo Starts April 8th!
     cta: Learn More
-    link: https://goldenthread.org/productions/no-summary-2022/
-    text: >-
-      Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
-      interviews the cast members of *Drowning in Cairo*, a world premiere by
-      Adam Ashraf Elsayigh. The play focuses on the lives of three young men
-      whose lives are forever altered when an unexpected police raid results in
-      the arrest and public humiliation of the attendees of the Queen Boat, a
-      gay nightclub docked on the Nile. Come meet **Martin Yousif Zebari** and
-      **Wiley Naman Strasser** and learn about their theatre journeys and what
-      excites them about this debut production coming up in April 2022 at Golden
-      Thread. 
-
-
-      *Don’t miss the Livestream on Friday, February 25, 2022 @ 11AM PT!*
+    link: https://goldenthread.org/productions/drowning-in-cairo/
+    text: Join us for the World Premiere of Egyptian playwright Adam Ashraf
+      Elsayigh's *Drowning in Cairo*, directed by Sahar Assaf. Featuring Amin El
+      Gamal\*, Wiley Naman Strasser\*, and Martin Zebari, the play focuses on
+      the lives of three young men whose lives are forever altered when an
+      unexpected police raid results in the arrest and public humiliation of the
+      attendees of the Queen Boat, a gay nightclub docked on the Nile. Previews
+      begin April 8th!
 ---
