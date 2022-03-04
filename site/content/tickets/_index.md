@@ -22,15 +22,11 @@ lists:
         image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
   - heading: Drowning in Cairo
     items:
-      - pre: April 8 through May 1, 2022
+      - pre: World Premiere
         image: https://ucarecdn.com/fbdb0c48-f580-4b28-85e5-c8d7c6aae007/
-        title: by Adam Ashraf Elsayigh
+        title: April 8 through May 1, 2022
         text: >-
-          World Premiere
-
-          **DROWNING IN CAIRO
-
-          by Adam Ashraf Elsayigh**, Directed by Sahar Assaf
+          **By Adam Ashraf Elsayigh**, Directed by Sahar Assaf
 
 
           It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. Adam Ashraf Elsayigh weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
@@ -45,15 +41,11 @@ lists:
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
   - heading: The Language of Wild Berries
     items:
-      - title: by Naghmeh Samini
-        pre: October 14 through November 6, 2022
+      - title: October 14 through November 6, 2022
+        pre: U.S. Premiere
         image: https://ucarecdn.com/688b22d2-7e14-4c97-a2d8-1b20526c0ff4/
         text: >-
-          U.S. Premiere
-
-          **THE LANGUAGE OF WILD BERRIES
-
-          by Naghmeh Samini**, Directed by Torange Yeghiazarian
+          **By Naghmeh Samini**, Translated and directed by Torange Yeghiazarian
 
 
           Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
