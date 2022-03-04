@@ -6,7 +6,7 @@ background: https://ucarecdn.com/5c4ac8fd-f870-4690-a82d-8bdd9211de4c/
 cta: Learn More!
 link: https://goldenthread.org/productions/what-do-the-women-say-2022/
 items:
-  - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
+  - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
