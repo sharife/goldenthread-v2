@@ -12,7 +12,7 @@ description: >-
 
 
   It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. **Adam Ashraf Elsayigh’s** debut production weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
-background: https://ucarecdn.com/87db3be6-ba8f-4f5b-8a68-8766d7bae2cd/
+background: https://ucarecdn.com/38fccb21-c012-405c-9b46-1a1d0c17e6e7/
 titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
