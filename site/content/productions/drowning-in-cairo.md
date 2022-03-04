@@ -18,15 +18,16 @@ writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Zebari
 designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
-  Boyd (Lighting Design), Tyler Miller (Production Manager), George Psarras
+  Boyd (Lighting Design), Maya Herbsman (Intimacy Choreographer), Tyler Miller
+  (Production Manager), Carla Pantoja (Fight Choreographer), George Psarras
   (Sound Design), Karen Runk* (Stage Manager), Chris Swartzell (Technical
   Director), Mikiko Uesugi (Set Design)
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-ticketinfo: <p>Tickets On Sale Soon! $20-$100</p> <p>In-Person Performances
-  April 8-May 1, 2022</p> <p>Video On Demand April 25-May 1, 2022</p>
+ticketinfo: <p>Tickets $20-$100</p> <p>In-Person Performances April 8-May 1,
+  2022</p> <p>Video On Demand April 25-May 1, 2022</p>
 cast:
   heading: Artist Bios
   items:
