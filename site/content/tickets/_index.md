@@ -63,6 +63,23 @@ lists:
     items:
       - title: by Naghmeh Samini
         pre: October 14 through November 6, 2022
+        image: https://ucarecdn.com/688b22d2-7e14-4c97-a2d8-1b20526c0ff4/
+        text: >-
+          U.S. Premiere
+
+          **THE LANGUAGE OF WILD BERRIES
+
+          by Naghmeh Samini**, Directed by Torange Yeghiazarian
+
+
+          Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
+
+
+          **Oct 14–Nov 6, 2022 | Potrero Stage (1695 18th Street, San Francisco)**
+
+          Tickets are $15-$100
+        cta: Buy Now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZpRWUA0
 ---
 - - -
 
