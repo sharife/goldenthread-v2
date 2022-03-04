@@ -49,7 +49,7 @@ lists:
     items:
       - title: The Language of Wild Berries
         pre: U.S. Premiere
-        image: https://ucarecdn.com/688b22d2-7e14-4c97-a2d8-1b20526c0ff4/
+        image: https://ucarecdn.com/ef6b5b8b-7a3a-4144-8009-05672827b2b8/
         text: >-
           Donya and Davood celebrate their wedding anniversary by traveling to
           the same sea side town where they spent their honeymoon. But on this
