@@ -3,8 +3,8 @@ title: Buy Tickets
 lists:
   - heading: "What Do the Women Say? 2022: Making Home"
     items:
-      - title: ""
-        pre: Tuesday, March 8, 2022 at 8:00pm (PST)
+      - title: Tuesday, March 8, 2022 at 8:00pm (PST)
+        pre: ""
         text: >-
           In celebration of International Women’s Day, What Do the Women Say?
           returns to the Brava Theater. Showcasing the work of
