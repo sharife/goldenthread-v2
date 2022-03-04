@@ -7,15 +7,15 @@ start: 2022-10-14T07:00:00.000Z
 end: 2022-11-06T07:00:00.000Z
 heading: ""
 description: >-
-  We're thrilled to announce the U.S Premiere of *The Language of Wild Berries*
-  by Naghmeh Samini in a new English-language translation by Torange
-  Yeghiazarian. 
+  We're thrilled to announce the long awaited U.S. Premiere of *The Language of
+  Wild Berries* by Naghmeh Samini in a new English-language translation by
+  Torange Yeghiazarian. 
 
 
   Donya and Davood celebrate their wedding anniversary by traveling to the same sea side town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage? The past, present, and future collide in **Naghmeh Samini**’s touching play, offering a rare glimpse into the lives of contemporary Iranians.
 
 
-  In 2020, Golden Thread's planned production of The Language of Wild Berries was cancelled due to the corona virus and we produced an audio recording of the play instead. Check out the very first episode from our digital series NO SUMMARY: Conversations with Artists Who Don't Fit in a Box, which featured Naghmeh Samini and Torange Yeghiazarian in conversation on October 7, 2020.
+  In 2020, Golden Thread's planned production of The Language of Wild Berries was postponed due to the corona virus and we produced an audio recording of the play instead. Watch the very first episode of our digital series NO SUMMARY: Conversations with Artists Who Don't Fit in a Box, which featured Naghmeh Samini and Torange Yeghiazarian in conversation on October 7, 2020, to learn more.
 background: https://ucarecdn.com/04b5fe61-b128-4ccb-ae73-3092977ec67c/
 titleimage: https://ucarecdn.com/70072ca2-3b57-421f-b737-9bf42c828f93/
 programlabel: Images and Information on Iran
@@ -31,7 +31,7 @@ stage: Potrero Stage
 address: 1695 18th St, San Francisco, CA
 visitlink: ""
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-ticketinfo: Tickets On Sale Soon! $20-$100
+ticketinfo: Tickets $20-$100
 externallink: ""
 externallinklabel: ""
 cast:
