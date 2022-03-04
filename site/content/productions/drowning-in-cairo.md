@@ -18,7 +18,8 @@ writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Zebari
 designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
-  Boyd (Lighting Design), Tyler Miller (Production Manager), George Psarras
+  Boyd (Lighting Design), Maya Herbsman (Intimacy Choreographer), Tyler Miller
+  (Production Manager), Carla Pantoja (Fight Choreographer), George Psarras
   (Sound Design), Karen Runk* (Stage Manager), Chris Swartzell (Technical
   Director), Mikiko Uesugi (Set Design)
 dramaturg: Salma Zohdi
