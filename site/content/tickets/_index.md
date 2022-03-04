@@ -23,7 +23,7 @@ lists:
   - heading: ""
     items:
       - pre: World Premiere
-        image: https://ucarecdn.com/fbdb0c48-f580-4b28-85e5-c8d7c6aae007/
+        image: https://ucarecdn.com/c2b2e648-a76f-4ed5-b146-2def0b2c24be/
         title: Drowning in Cairo
         text: >-
           It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on
