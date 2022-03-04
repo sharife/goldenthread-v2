@@ -21,11 +21,11 @@ items:
     link: https://goldenthread.org/productions/what-do-the-women-say-2022/
     text: >-
       In celebration of International Women’s Day, What Do the Women Say?
-      returns to the Brava Theater. Showcasing the work of multi-generational
-      MENA women artists who are making home away from home, this year’s program
-      will be presented in a hybrid format with artists appearing in-person and
-      virtually. Audiences will be able to join in-person at the Brava Theater
-      or online for a virtual presentation.
+      returns to the Brava Theater on Tuesday, March 8th @ 8pm. Showcasing the
+      work of multi-generational MENA women artists who are making home away
+      from home, this year’s program will be presented in a hybrid format with
+      artists appearing in-person and virtually. Audiences will be able to join
+      in-person at the Brava Theater or online for a virtual presentation.
 
 
       This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
