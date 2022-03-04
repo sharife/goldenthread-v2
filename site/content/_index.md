@@ -7,18 +7,14 @@ cta: Learn More!
 link: https://goldenthread.org/productions/what-do-the-women-say-2022/
 items:
   - image: https://ucarecdn.com/35b7cfda-341b-4674-be75-57a5c7ea877a/
-    subtitle: "Our 2022 Season: To Fight with Love!"
-    cta: Learn More!
-    link: https://goldenthread.org/season/upcoming/
-    text: We're back in 2022 with daring plays that build on Golden Thread’s
-      commitment to creating space for dialogue, solidarity, and innovation.
-      These past two years have deprived us of the ritual of gathering together
-      in a space where we experience the kind of stories that can heal the
-      broken pieces of our hearts. We reclaim this ritual with stories that give
-      us space to grieve our losses as well as to celebrate love and life. We
-      can’t wait to return to the theatre with you, where we’ll take all the
-      necessary precautions to ensure everyone’s health and safety as we share
-      stories, celebrate life, and fight with love.
+    subtitle: Season Tickets On Sale Now!
+    cta: Buy Tickets!
+    link: https://goldenthread.org/tickets/
+    text: >-
+      Tickets for our 2022 mainstage productions are on sale now! These include
+      the World Premiere of
+
+      Egyptian playwright Adam Ashraf Elsayigh's Drowning in Cairo, directed by Sahar Assaf and the long-awaited U.S. Premiere of celebrated Iranian playwright Naghmeh Samini's The Language of Wild Berries, translated and directed by Torange Yeghiazarian. Check out our new and improved ticketing! In our continuing efforts to provide an equitable and accessible theatre experience for all, we recently revised our ticketing policies and pricing structure to better reflect the fundamental values we hold that we believe foster a just, inclusive and community-driven space. Visit the [Buy Tickets](https://goldenthread.org/tickets/) page for more information.
   - image: https://ucarecdn.com/d4f90fda-7514-4bca-9421-13b4c85f1475/
     subtitle: "What Do the Women Say? 2022: Making Home"
     cta: Learn More!
