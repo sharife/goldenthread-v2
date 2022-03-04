@@ -38,7 +38,7 @@ lists:
         image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
   - heading: Drowning in Cairo
     items:
-      - pre: April 8 through May 1, 2021
+      - pre: April 8 through May 1, 2022
         image: https://ucarecdn.com/fbdb0c48-f580-4b28-85e5-c8d7c6aae007/
         title: by Adam Ashraf Elsayigh
         text: >-
@@ -59,6 +59,10 @@ lists:
           Tickets are $15-$100
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+  - heading: The Language of Wild Berries
+    items:
+      - title: by Naghmeh Samini
+        pre: October 14 through November 6, 2022
 ---
 - - -
 
