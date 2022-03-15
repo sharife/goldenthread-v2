@@ -16,8 +16,10 @@ items:
 
       Egyptian playwright Adam Ashraf Elsayigh's Drowning in Cairo, directed by Sahar Assaf and the long-awaited U.S. Premiere of celebrated Iranian playwright Naghmeh Samini's The Language of Wild Berries, translated and directed by Torange Yeghiazarian. Check out our new and improved ticketing! In our continuing efforts to provide an equitable and accessible theatre experience for all, we recently revised our ticketing policies and pricing structure to better reflect the fundamental values we hold that we believe foster a just, inclusive and community-driven space. Visit the [Buy Tickets](https://goldenthread.org/tickets/) page for more information.
   - image: https://ucarecdn.com/d4f90fda-7514-4bca-9421-13b4c85f1475/
-    subtitle: "What Do the Women Say? 2022: Making Home Video on Demand now
-      available March 15 through 22, 2022!"
+    subtitle: |-
+      What Do the Women Say? 2022: Making Home
+
+      Video on Demand now available March 15 through 22, 2022!
     cta: Buy Tickets!
     link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000toc1OUAQ
     text: >-
