@@ -3,25 +3,6 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - title: "What Do the Women Say? 2022: Making Home"
-        pre: ""
-        text: >-
-          In celebration of International Women’s Day, What Do the Women Say?
-          returns to the Brava Theater. Showcasing the work of
-          multi-generational MENA women artists who are making home away from
-          home, this year’s program will be presented in a hybrid format with
-          artists appearing in-person and virtually. Audiences will be able to
-          join in-person at the Brava Theater or online for a virtual
-          presentation.
-
-
-          This 100-minute program (without intermission) features artist presentations followed by a facilitated conversation between the participating artists and the audience.
-        cta: Buy Now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZfF3UAK
-        subtitle: Tuesday, March 8, 2022 at 8:00pm (PST)
-        image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
-  - heading: ""
-    items:
       - pre: World Premiere
         image: https://ucarecdn.com/c2b2e648-a76f-4ed5-b146-2def0b2c24be/
         title: Drowning in Cairo
@@ -45,6 +26,24 @@ lists:
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
         subtitle: "**By Adam Ashraf Elsayigh**, Directed by Sahar Assaf"
+  - heading: ""
+    items:
+      - title: Video On Demand - What Do the Women Say? 2022
+        pre: ""
+        text: >-
+          In celebration of International Women’s Day, ***What Do the Women
+          Say?*** returns to the Brava Theater. Showcasing the work of
+          multi-generational MENA women artists who are making home away from
+          home, presented in a hybrid format with artists appearing in-person
+          and virtually, followed by a facilitated conversation between the
+          participating artists and the audience.
+
+
+          This is the **Video On-Demand** of this year’s *What Do the Women Say?* livestream, recorded on March 8th, 2022 at the Brava Theater Center.
+        cta: Buy Now!
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000toc1OUAQ
+        subtitle: "**Available to stream:** March 15 - 22, 2022"
+        image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
   - heading: ""
     items:
       - title: The Language of Wild Berries
