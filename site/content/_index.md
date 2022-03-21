@@ -19,13 +19,13 @@ items:
     subtitle: |-
       What Do the Women Say? 2022: Making Home
 
-      Video on Demand now available March 15 through 22, 2022!
+      Video on Demand streaming ***NOW EXTENDED*** through March 31, 2022!
     cta: Buy Tickets!
     link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000toc1OUAQ
     text: >-
       Want to relive the celebration? Have friends who couldn't make the show?
       We're offering a Video On Demand of our What Do the Women Say? 2022
-      livestream recording, available to view March 15 - 22 only!
+      livestream recording, available to view March 15 - 31 only!
 
 
       Our celebration of International Women’s Day, What Do the Women Say? was livestreamed from the Brava Theater on Tuesday, March 8th @ 8pm and showcases the work of multi-generational MENA women artists who are making home away from home. Originally presented in a hybrid format with artists appearing in-person and virtually, audiences were able to join in-person at the Brava Theater or online for a virtual presentation.
