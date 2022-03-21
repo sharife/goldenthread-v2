@@ -42,7 +42,7 @@ lists:
           This is the **Video On-Demand** of this year’s *What Do the Women Say?* livestream, recorded on March 8th, 2022 at the Brava Theater Center.
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000toc1OUAQ
-        subtitle: "**Available to stream:** March 15 - 22, 2022"
+        subtitle: "**NOW EXTENDED** through March 31, 2022!"
         image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
   - heading: ""
     items:
