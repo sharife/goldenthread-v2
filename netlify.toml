@@ -11,3 +11,7 @@
 [dev]
   command = "npm run start"
   targetPort = 8888
+
+[[redirects]]
+  from = "/survey"
+  to = "https://survey.alchemer.com/s3/6807408/EL-Drowning-in-Cairo"
