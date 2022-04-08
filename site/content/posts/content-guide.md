@@ -9,6 +9,20 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
+
+
+April 8 - May 1, 2022
+
+### Drowning in Cairo
+
+**written by Adam Ashraf Elsayigh and directed by Sahar Assaf**
+
+It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
+
+ **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+
+
+
 ##### New Threads 2021
 
 Tuesday, August 17, at 7:00 PM (PT)
@@ -20,8 +34,6 @@ Tuesday, August 17, at 7:00 PM (PT)
 Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history. 
 
  **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.** 
-
-
 
 Tuesday, August 10, at 7:00 PM (PT)
 
