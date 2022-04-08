@@ -6,11 +6,12 @@ date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
 description: ""
-background: https://ucarecdn.com/4f2251b9-bb34-4feb-a1be-1b1f7666d744/
+background: https://ucarecdn.com/bb5b1272-dec6-44c5-abab-a2f8927dd413/
 titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
 writer: Torange Yeghiazarian
 director: Sarah Al-Kassab
-designteam: Mokhtar Paki (Production Designer)
+featuring: Bidalia Albanese, Leyla Modirzadeh
+designteam: Scenic & Prop Design by Mokhtar Paki
 additional: Dance choreography by Lisa Tateosian
 stage: Various Bay Area schools & libraries
 misc: |-
