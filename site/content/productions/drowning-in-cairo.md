@@ -12,8 +12,16 @@ description: >-
 
 
   It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever. **Adam Ashraf Elsayigh’s** debut production weaves budding romances, class differences, and familial expectations into a loving portrait of three men who all struggle to rebuild their lives against all odds.
+
+
+  Adam says: "Golden Thread was my first artistic home in the U.S.; my experience workshopping an early draft of Drowning in Cairo at Golden Thread showed me that there was a space for my voice and artistry in this country. That the same play gets to have its world premiere here, four years later, especially under the brilliant direction and artistry of Sahar Assaf, feels like a true blessing and homecoming."
+
+
+  Check out this episode of our digital series NO SUMMARY: Conversations with Artists Who Don’t Fit in a Box, which featured Adam in conversation with Drowning in Cairo director and Golden Thread Executive Artistic Director Sahar Assaf on December 3, 2021, to learn more.
 background: https://ucarecdn.com/38fccb21-c012-405c-9b46-1a1d0c17e6e7/
 titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
+videos:
+  - id: 3DaV7S32aO4
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Zebari
