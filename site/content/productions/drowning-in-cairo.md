@@ -71,6 +71,14 @@ cast:
         (2019), and a Fulbright alumnus with an MA in Theater Studies from
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
+bottom:
+  logos:
+    - image: https://ucarecdn.com/c3c8ce85-5651-4a7f-b422-791c9622bfb9/
+    - image: https://ucarecdn.com/4aad869e-6b55-4696-82a0-f4990d576229/
+    - image: https://ucarecdn.com/39fb9c35-7a19-48ee-91e5-0d55b6bf444c/
+    - image: https://ucarecdn.com/91012bfe-b528-4d4d-a595-f6187583c8a0/
+    - image: https://ucarecdn.com/7831a369-8db0-41fc-8ea7-f4a064602a33/
+    - image: https://ucarecdn.com/2f2b5c96-44f3-4dde-8a5e-29f1e847749a/
 ---
 ### <center>COVID Health & Safety</center>
 
