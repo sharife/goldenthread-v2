@@ -20,6 +20,8 @@ description: >-
   Check out this episode of our digital series NO SUMMARY: Conversations with Artists Who Don’t Fit in a Box, which featured Adam in conversation with Drowning in Cairo director and Golden Thread Executive Artistic Director Sahar Assaf on December 3, 2021, to learn more.
 background: https://ucarecdn.com/38fccb21-c012-405c-9b46-1a1d0c17e6e7/
 titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
+programlabel: Download the digital program!
+program: https://ucarecdn.com/33a41509-b7ed-454c-b88a-4a232f113b7a/
 videos:
   - id: 3DaV7S32aO4
 writer: Adam Ashraf Elsayigh
