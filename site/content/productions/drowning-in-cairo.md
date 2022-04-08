@@ -88,7 +88,7 @@ bottom:
     - image: https://ucarecdn.com/39fb9c35-7a19-48ee-91e5-0d55b6bf444c/
     - image: https://ucarecdn.com/91012bfe-b528-4d4d-a595-f6187583c8a0/
     - image: https://ucarecdn.com/7831a369-8db0-41fc-8ea7-f4a064602a33/
-    - image: https://ucarecdn.com/2f2b5c96-44f3-4dde-8a5e-29f1e847749a/
+    - image: https://ucarecdn.com/8d2975a0-b37c-45ca-a084-07494cf2c581/
 ---
 ### <center>COVID Health & Safety</center>
 
