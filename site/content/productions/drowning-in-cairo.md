@@ -17,11 +17,13 @@ titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Zebari
-designteam: Kenan Arun (Make-up Design), Becky Bodurtha (Costume Design), Kate
-  Boyd (Lighting Design), Maya Herbsman (Intimacy Choreographer), Tyler Miller
-  (Production Manager), Carla Pantoja (Fight Choreographer), George Psarras
-  (Sound Design), Karen Runk* (Stage Manager), Chris Swartzell (Technical
-  Director), Mikiko Uesugi (Set Design)
+designteam: Kenan Arun (Make-up Design), Atusa Assadi (Assistant Stage Manager),
+  Becky Bodurtha (Costume Design), Kate Boyd (Lighting Design), Peet Cocke
+  (Props Design), Maya Herbsman (Intimacy Choreographer), Yang Li (Wardrobe
+  Assistant), Crystal Liu (Board Op), Tyler Miller (Production Manager), Carla
+  Pantoja (Fight Choreographer), George Psarras (Sound Design), Karen Runk*
+  (Stage Manager), Chris Swartzell (Technical Director), Mikiko Uesugi (Set
+  Design)
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
