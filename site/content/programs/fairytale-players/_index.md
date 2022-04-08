@@ -24,7 +24,7 @@ description: >-
   Leandro Unified School District, and Redwood City Unified School District.
 
 
-  ![](https://ucarecdn.com/e5d969e2-b877-4e2a-b22c-1961cbb11a25/)
+  ![](https://ucarecdn.com/f86a5465-127b-4728-92b4-727b82da67f8/)
 sidebar:
   heading: ""
   text: >-
