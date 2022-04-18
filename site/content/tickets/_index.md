@@ -28,24 +28,6 @@ lists:
         subtitle: "**By Adam Ashraf Elsayigh**, Directed by Sahar Assaf"
   - heading: ""
     items:
-      - title: Video On Demand - What Do the Women Say? 2022
-        pre: ""
-        text: >-
-          In celebration of International Women’s Day, ***What Do the Women
-          Say?*** returns to the Brava Theater. Showcasing the work of
-          multi-generational MENA women artists who are making home away from
-          home, presented in a hybrid format with artists appearing in-person
-          and virtually, followed by a facilitated conversation between the
-          participating artists and the audience.
-
-
-          This is the **Video On-Demand** of this year’s *What Do the Women Say?* livestream, recorded on March 8th, 2022 at the Brava Theater Center.
-        cta: Buy Now!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000toc1OUAQ
-        subtitle: "**NOW EXTENDED** through March 31, 2022!"
-        image: https://ucarecdn.com/702d5924-cc28-48a7-a100-60ed83b2e92d/
-  - heading: ""
-    items:
       - title: The Language of Wild Berries
         pre: U.S. Premiere
         image: https://ucarecdn.com/ef6b5b8b-7a3a-4144-8009-05672827b2b8/
