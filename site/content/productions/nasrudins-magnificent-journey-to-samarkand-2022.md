@@ -6,7 +6,7 @@ date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
 description: ""
-background: https://ucarecdn.com/bb5b1272-dec6-44c5-abab-a2f8927dd413/
+background: https://ucarecdn.com/564df1be-5f9e-4684-aa74-87bf2ccb4de1/
 titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
 writer: Torange Yeghiazarian
 director: Sarah Al-Kassab
