@@ -17,17 +17,20 @@ items:
       Egyptian playwright Adam Ashraf Elsayigh's Drowning in Cairo, directed by Sahar Assaf and the long-awaited U.S. Premiere of celebrated Iranian playwright Naghmeh Samini's The Language of Wild Berries, translated and directed by Torange Yeghiazarian. Check out our new and improved ticketing! In our continuing efforts to provide an equitable and accessible theatre experience for all, we recently revised our ticketing policies and pricing structure to better reflect the fundamental values we hold that we believe foster a just, inclusive and community-driven space. Visit the [Buy Tickets](https://goldenthread.org/tickets/) page for more information.
   - image: https://ucarecdn.com/71c2612b-bab6-4aa4-a15f-c68ba801c225/
     subtitle: |-
-      Thursday, April 28, at 11:00AM (PST)
+      **No Summary:** ***Tap In, Tap Out: On Dangerous Storytelling***
 
-      Next on *No Summary:* featuringthe creative team of *Drowning in Cairo.*
+      Thursday, April 28, at 11:00AM (PST)
     cta: Register now!
     link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000ri7viUAA
-    text: >-
-      Facilitated by **Kholoud Nasser** and featuring **Maya Herbsman**,
-      and **Carla Pantoja**.
-
-
-      Golden Thread invites Kholoud Nasser, a theatre artist and trauma-informed therapist to host a conversation with *Drowning in Cairo’s* Intimacy Coordinator Maya Herbsman and Fight Director Carla Pantoja. When violence, abuse and intimate content are part of the storytelling, how can we ensure safety and protection in the rehearsal room and the performance space? Maya and Carla will discuss their creative process and their role in safely driving the story forward. The artists will offer us insights into the protocols of touch and contact between actors and how such protocols affirm trust and creativity.
+    text: Golden Thread invites Kholoud Nasser, a theatre artist and trauma-informed
+      therapist to host a conversation with *Drowning in Cairo’s* Intimacy
+      Coordinator Maya Herbsman and Fight Director Carla Pantoja. When violence,
+      abuse and intimate content are part of the storytelling, how can we ensure
+      safety and protection in the rehearsal room and the performance space?
+      Maya and Carla will discuss their creative process and their role in
+      safely driving the story forward. The artists will offer us insights into
+      the protocols of touch and contact between actors and how such protocols
+      affirm trust and creativity.
   - image: https://ucarecdn.com/acc78b21-e40e-49bf-b9fa-5f4494f1cbab/
     subtitle: Drowning In Cairo Starts April 8th!
     cta: Learn More
