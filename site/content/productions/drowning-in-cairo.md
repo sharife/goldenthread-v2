@@ -18,6 +18,9 @@ description: >-
 
 
   Check out this episode of our digital series NO SUMMARY: Conversations with Artists Who Don’t Fit in a Box, which featured Adam in conversation with Drowning in Cairo director and Golden Thread Executive Artistic Director Sahar Assaf on December 3, 2021, to learn more.
+
+
+  For content advisories and additional information visit our content [guide](https://goldenthread.org/posts/content-guide/).
 background: https://ucarecdn.com/38fccb21-c012-405c-9b46-1a1d0c17e6e7/
 titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
 programlabel: Download the digital program!
@@ -40,6 +43,7 @@ address: 1695 18th Street, San Francisco
 ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
 ticketinfo: <p>Tickets $20-$100</p> <p>In-Person Performances April 8-May 1,
   2022</p> <p>Video On Demand April 25-May 1, 2022</p>
+misc: ""
 cast:
   heading: Artist Bios
   items:
