@@ -19,7 +19,7 @@ items:
     subtitle: |-
       **No Summary:** ***Tap In, Tap Out: On Dangerous Storytelling***
 
-      Thursday, April 28, at 11:00AM (PST)
+      Thursday, April 28, at 11 AM - 12 PM (PST)
     cta: Register now!
     link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000ri7viUAA
     text: Golden Thread invites Kholoud Nasser, a theatre artist and trauma-informed
@@ -32,14 +32,17 @@ items:
       the protocols of touch and contact between actors and how such protocols
       affirm trust and creativity.
   - image: https://ucarecdn.com/acc78b21-e40e-49bf-b9fa-5f4494f1cbab/
-    subtitle: Drowning In Cairo Starts April 8th!
+    subtitle: "*Drowning In Cairo* closing May 1st"
     cta: Learn More
     link: https://goldenthread.org/productions/drowning-in-cairo/
-    text: Join us for the World Premiere of Egyptian playwright Adam Ashraf
+    text: >-
+      Join us for the World Premiere of Egyptian playwright Adam Ashraf
       Elsayigh's *Drowning in Cairo*, directed by Sahar Assaf. Featuring Amin El
       Gamal\*, Wiley Naman Strasser\*, and Martin Zebari, the play focuses on
       the lives of three young men whose lives are forever altered when an
       unexpected police raid results in the arrest and public humiliation of the
-      attendees of the Queen Boat, a gay nightclub docked on the Nile. Previews
-      begin April 8th!
+      attendees of the Queen Boat, a gay nightclub docked on the Nile.
+
+
+      ***[Video On Demand Now Available: April 25th - May 1st!](https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE)***
 ---
