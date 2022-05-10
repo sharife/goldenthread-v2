@@ -3,31 +3,6 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - pre: World Premiere
-        image: https://ucarecdn.com/c2b2e648-a76f-4ed5-b146-2def0b2c24be/
-        title: Drowning in Cairo
-        text: >-
-          It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on
-          the Queen Boat, a gay nightclub docked on the Nile. When an unexpected
-          police raid results in the arrest and public humiliation of the
-          attendees, the lives of these young men are altered forever. Adam
-          Ashraf Elsayigh weaves budding romances, class differences, and
-          familial expectations into a loving portrait of three men who all
-          struggle to rebuild their lives against all odds.
-
-
-          **April 8–May 1, 2022 | Potrero Stage (1695 18th Street, San Francisco)**
-
-
-          **[Video On Demand April 25 through May 1, 2022](https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE)**
-
-
-          Tickets are $15-$100
-        cta: Buy Now!
-        link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
-        subtitle: "**By Adam Ashraf Elsayigh**, Directed by Sahar Assaf"
-  - heading: ""
-    items:
       - title: The Language of Wild Berries
         pre: U.S. Premiere
         image: https://ucarecdn.com/ef6b5b8b-7a3a-4144-8009-05672827b2b8/
