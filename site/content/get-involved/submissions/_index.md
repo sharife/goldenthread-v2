@@ -39,7 +39,7 @@ Produced once every two-years, ReOrient Festival showcases the diversity of voic
 
 **Deadline:** July 30, 2022 
 
-**For Inquires please email:**
+**For Inquiries please email:**
 submissions@goldenthread.org
 Subject Line: ReOrient 2023
 
