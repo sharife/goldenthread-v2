@@ -7,7 +7,7 @@ cta: Learn More!
 link: https://goldenthread.org/productions/drowning-in-cairo/
 items:
   - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
-    subtitle: "### **Submission open for ReOrient Festival of Short Plays 2023!**"
+    subtitle: "##### **Submission open for ReOrient Festival of Short Plays 2023!**"
     cta: Submit your play!
     link: https://goldenthread.org/get-involved/submissions/
     text: Golden Thread Productions is seeking short plays for consideration in
