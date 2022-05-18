@@ -29,7 +29,7 @@ items:
 
 
       ***[Video On Demand Now Available: April 25th - May 1st!](https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE)***
-  - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/
+  - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
