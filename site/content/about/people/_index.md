@@ -45,19 +45,6 @@ staff:
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - name: Nadine Bedrossian
-      credit: Artistic Producer
-      image: https://ucarecdn.com/5d7758dc-ee40-40c0-8593-414eb93be624/
-      bio: "**Nadine Bedrossian** *(she/her)* is an educator, activist, and producer
-        of short play festivals, new works readings, immersive multimedia
-        experiences, and educational theatre workshops, with extensive
-        experience creating in unconventional spaces, including empty
-        auditoriums in marginalized communities, juvenile detention facilities,
-        and site-specific works. Her core belief is that every story deserves to
-        be told. Nadine has built a career using personal storytelling as a
-        powerful tool for restorative justice. As threats to the security of her
-        Motherland Armenia continue, she is collecting family stories to create
-        an anthology for future generations to reference."
     - name: Heather Rastovac Akbarzadeh
       credit: Fairytale Players Program Manager
       image: https://ucarecdn.com/b7275194-fe81-40c7-b770-69de824fca21/
