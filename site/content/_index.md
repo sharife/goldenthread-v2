@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: ReOrient 2023 Submissions Now Open!
+headline: ReOrient 2023 Submissions Now Open
 subtitle: ""
 background: https://ucarecdn.com/cf31d412-8929-472d-aca8-c9775af140da/-/crop/1040x498/0,250/-/preview/
 cta: Learn More!
