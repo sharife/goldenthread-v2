@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Drowning in Cairo
-subtitle: by Adam Ashraf Elsayigh
-background: https://ucarecdn.com/82f714cd-2c50-4ff1-a132-138203a35b04/
+headline: ReOrient 2023 Submissions Now Open
+subtitle: ""
+background: https://ucarecdn.com/cf31d412-8929-472d-aca8-c9775af140da/-/crop/1040x498/0,250/-/preview/
 cta: Learn More!
-link: https://goldenthread.org/productions/drowning-in-cairo/
+link: https://goldenthread.org/get-involved/submissions
 items:
   - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
     subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
