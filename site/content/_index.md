@@ -6,15 +6,6 @@ background: https://ucarecdn.com/b8c0fcfa-b0ab-49cf-aef4-eb4feae6907d/
 cta: Learn More!
 link: https://goldenthread.org/get-involved/submissions
 items:
-  - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
-    subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
-    cta: Submit your play!
-    link: https://goldenthread.org/get-involved/submissions/
-    text: Golden Thread Productions is seeking short plays for consideration in
-      ReOrient Festival of Short Plays 2023. ReOrient Festival showcases the
-      diversity of voices and aesthetics from the Middle East and its worldwide
-      diaspora in a curated festival of short plays produced biennially in San
-      Francisco. The submission deadline for consideration is **July 30, 2022.**
   - image: https://ucarecdn.com/22c73bc0-f882-405d-905a-ac4df7b5fbc6/
     subtitle: "***No Summary: What can the wise fool Nasrudin teach us?*** Bringing
       Middle Eastern storytelling to young audiences"
@@ -28,6 +19,15 @@ items:
 
 
       Featuring guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer, and costume designer), **Sabria Hassan** (program manager with the American Association of Yemeni Students and Professionals), and **Angela Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
+  - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
+    subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
+    cta: Submit your play!
+    link: https://goldenthread.org/get-involved/submissions/
+    text: Golden Thread Productions is seeking short plays for consideration in
+      ReOrient Festival of Short Plays 2023. ReOrient Festival showcases the
+      diversity of voices and aesthetics from the Middle East and its worldwide
+      diaspora in a curated festival of short plays produced biennially in San
+      Francisco. The submission deadline for consideration is **July 30, 2022.**
   - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
