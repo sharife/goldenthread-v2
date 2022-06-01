@@ -18,7 +18,7 @@ lists:
           they discuss the production and reception of Fairytale Players’ 2022
           tour of *Nasrudin’s Magnificent Journey to Samarkand*, written by
           Torange Yeghiazarian and directed by Sarah Al-Kassab.
-        cta: RVSP to join the conversation!
+        cta: Register now!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000udtHEUAY
         subtitle: Friday, June 24, 2022, at 11:00AM (PST)
   - heading: ""
