@@ -15,20 +15,19 @@ items:
       diversity of voices and aesthetics from the Middle East and its worldwide
       diaspora in a curated festival of short plays produced biennially in San
       Francisco. The submission deadline for consideration is **July 30, 2022.**
-  - image: https://ucarecdn.com/acc78b21-e40e-49bf-b9fa-5f4494f1cbab/
-    subtitle: "*Drowning In Cairo* closing May 1st"
-    cta: Learn More
-    link: https://goldenthread.org/productions/drowning-in-cairo/
+  - image: https://ucarecdn.com/22c73bc0-f882-405d-905a-ac4df7b5fbc6/
+    subtitle: "***No Summary: What can the wise fool Nasrudin teach us?*** Bringing
+      Middle Eastern storytelling to young audiences"
+    cta: Learn more and join the conversation!
+    link: https://goldenthread.org/tickets/
     text: >-
-      Join us for the World Premiere of Egyptian playwright Adam Ashraf
-      Elsayigh's *Drowning in Cairo*, directed by Sahar Assaf. Featuring Amin El
-      Gamal\*, Wiley Naman Strasser\*, and Martin Zebari, the play focuses on
-      the lives of three young men whose lives are forever altered when an
-      unexpected police raid results in the arrest and public humiliation of the
-      attendees of the Queen Boat, a gay nightclub docked on the Nile.
+      Join Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
+      Akbarzadeh**, in discussing the production and reception of Fairytale
+      Players’ 2022 tour of *Nasrudin’s Magnificent Journey to Samarkand*,
+      written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
 
 
-      ***[Video On Demand Now Available: April 25th - May 1st!](https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE)***
+      Featuring guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer, and costume designer), **Sabria Hassan** (program manager with the American Association of Yemeni Students and Professionals), and **Angela Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
   - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
