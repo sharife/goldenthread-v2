@@ -1,6 +1,26 @@
 ---
 title: Buy Tickets
 lists:
+  - items:
+      - title: "No Summary: What can the wise fool Nasrudin teach us? "
+        pre: Bringing Middle Eastern storytelling to young audiences
+        image: https://ucarecdn.com/765594cd-bbe5-4795-8174-1627b2e6a1ae/
+        text: Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
+          Akbarzadeh**, hosts a panel of arts, culture, and education
+          professionals to discuss Golden Thread’s theatre for young audiences
+          program. In this particular moment of divisive politics, and as we
+          struggle to emerge from a global pandemic, what possibilities emerge
+          from bringing Middle Eastern storytelling to young audiences? Join
+          **Sarah Al-Kassab** (Jordanian-American actor, producer, and costume
+          designer), **Sabria Hassan** (program manager with the American
+          Association of Yemeni Students and Professionals), and **Angela Norton
+          Tyler** (teacher at Fruitvale Elementary School in Oakland, CA) as
+          they discuss the production and reception of Fairytale Players’ 2022
+          tour of *Nasrudin’s Magnificent Journey to Samarkand*, written by
+          Torange Yeghiazarian and directed by Sarah Al-Kassab.
+        cta: RVSP to join the conversation!
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000udtHEUAY
+        subtitle: Friday, June 24, 2022, at 11:00AM (PST)
   - heading: ""
     items:
       - title: The Language of Wild Berries
