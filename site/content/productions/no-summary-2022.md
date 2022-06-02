@@ -16,7 +16,7 @@ lists:
         itemend: 2022-06-24T20:00:24.182Z
         title: "What can the wise fool Nasrudin teach us? Bringing Middle Eastern
           storytelling to young audiences  "
-        pre: Friday, June 24, 2022 at 11:00AM (PT)
+        pre: Friday, June 24, 2022 at 11:00AM (PST)
         image: https://ucarecdn.com/08686bca-b54c-45d1-8b87-faff97eae2e7/
         text: >-
           Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
@@ -41,7 +41,7 @@ lists:
           UAY\t "
       - itemstart: 2022-04-28T18:00:00.000Z
         itemend: 2022-04-28T19:00:21.954Z
-        pre: Thursday, April 28, at 11:00AM (PST)
+        pre: Thursday, April 28, 2022 at 11:00AM (PST)
         image: https://ucarecdn.com/d0b2df46-62a9-4b85-b489-b28b95fa74eb/
         text: Golden Thread invites **Kholoud Nasser**, a theatre artist and
           trauma-informed therapist to host a conversation with *Drowning in
@@ -70,7 +70,7 @@ lists:
           coming up in April 2022 at Golden Thread.
         cta: Watch the full episode
         image: https://ucarecdn.com/5db01299-51de-48eb-b5fe-5be8bf1c8da4/
-        pre: Friday, February 25, 2022 at 11:00AM (PT)
+        pre: Friday, February 25, 2022 at 11:00AM (PST)
         link: https://www.youtube.com/watch?v=tgxrsXnIm1M
     heading: List of Episodes
 ---
