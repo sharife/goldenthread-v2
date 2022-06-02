@@ -9,7 +9,7 @@ items:
   - image: https://ucarecdn.com/22c73bc0-f882-405d-905a-ac4df7b5fbc6/
     subtitle: "***No Summary: What can the wise fool Nasrudin teach us?*** Bringing
       Middle Eastern storytelling to young audiences"
-    cta: Learn more and join the conversation!
+    cta: Register now!
     link: https://goldenthread.org/tickets/
     text: >-
       Join Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
@@ -19,6 +19,9 @@ items:
 
 
       Featuring guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer, and costume designer), **Sabria Hassan** (program manager with the American Association of Yemeni Students and Professionals), and **Angela Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
+
+
+      Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
   - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
     subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
     cta: Submit your play!
