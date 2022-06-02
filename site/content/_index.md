@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: Submissions Now Open
+headline: Submissions Open
 subtitle: ""
 background: https://ucarecdn.com/b8c0fcfa-b0ab-49cf-aef4-eb4feae6907d/
 cta: Learn More!
@@ -10,15 +10,16 @@ items:
     subtitle: "***No Summary: What can the wise fool Nasrudin teach us?*** Bringing
       Middle Eastern storytelling to young audiences"
     cta: Register now!
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000udtHEUAY
     text: >-
       Join Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
       Akbarzadeh**, in discussing the production and reception of Fairytale
       Players’ 2022 tour of *Nasrudin’s Magnificent Journey to Samarkand*,
-      written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
-
-
-      Featuring guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer, and costume designer), **Sabria Hassan** (program manager with the American Association of Yemeni Students and Professionals), and **Angela Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
+      written by Torange Yeghiazarian and directed by Sarah Al-Kassab. Featuring
+      guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer,
+      and costume designer), **Sabria Hassan** (program manager with the
+      American Association of Yemeni Students and Professionals), and **Angela
+      Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
 
 
       Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
