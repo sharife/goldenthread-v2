@@ -36,8 +36,8 @@ lists:
 
 
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
-        cta: Register Now!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000udtHEUAY
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=zKaT1C5nSlA
       - itemstart: 2022-04-28T18:00:00.000Z
         itemend: 2022-04-28T19:00:21.954Z
         pre: Thursday, April 28, 2022 at 11:00AM (PST)
