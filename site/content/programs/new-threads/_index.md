@@ -13,6 +13,20 @@ intro: >
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
 grids:
+  - heading: New Threads 2021
+    items:
+      - title: Arab Play Cycle (or A Triptych of Plays)
+        pre: August 10, 2021
+        subtitle: ""
+        text: by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour; directed by Evren
+          Odcikin
+      - title: We're All Here
+        pre: August 17, 2021
+        text: by Leslie Kalarchian; directed by Sahar Assaf
+      - title: I Want To Tell You About Beirut
+        pre: August 3, 2021
+        text: A bilingual reading of survivors’ testimonies by actors based in San
+          Francisco and in Beirut curated and directed by Sahar Assaf.
   - heading: New Threads 2018
     items:
       - title: Drowning in Cairo
@@ -170,20 +184,6 @@ grids:
         subtitle: June 28, 2011
         text: |
           by Mona Mansour; directed by Evren Odcikin
-  - heading: New Threads 2021
-    items:
-      - title: Arab Play Cycle (or A Triptych of Plays)
-        pre: August 10, 2021
-        subtitle: ""
-        text: by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour; directed by Evren
-          Odcikin
-      - title: We're All Here
-        pre: August 17, 2021
-        text: by Leslie Kalarchian; directed by Sahar Assaf
-      - title: I Want To Tell You About Beirut
-        pre: August 3, 2021
-        text: A bilingual reading of survivors’ testimonies by actors based in San
-          Francisco and in Beirut curated and directed by Sahar Assaf.
 date: 2015-12-30 20:05:42+00:00
 comments: false
 title: New Threads Reading Series
