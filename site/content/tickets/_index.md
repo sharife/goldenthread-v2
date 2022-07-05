@@ -92,9 +92,9 @@ lists:
           **Tuesday, August 30, 2022 at 7:00 PM | Z Space**
         cta: Register now for free!
     heading: New Threads 2022
-  - heading: ""
+  - heading: The Language of Wild Berries
     items:
-      - title: The Language of Wild Berries
+      - title: ""
         pre: U.S. Premiere
         image: https://ucarecdn.com/ef6b5b8b-7a3a-4144-8009-05672827b2b8/
         text: >-
