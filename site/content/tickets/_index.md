@@ -91,7 +91,7 @@ lists:
 
           **Tuesday, August 30, 2022 at 7:00 PM | Z Space**
         cta: Register now for free!
-    heading: New Threads 2022
+    heading: New Threads Reading Series 2022
   - heading: The Language of Wild Berries
     items:
       - title: ""
