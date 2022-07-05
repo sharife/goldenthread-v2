@@ -4,7 +4,7 @@ lists:
   - items:
       - title: "A Thousand Strange Places: Anthony Shadid and the Middle East"
         pre: ""
-        image: ""
+        image: https://ucarecdn.com/b7c4043b-427e-4cfd-b953-b7400d4d04f2/
         text: >-
           The play dramatizes the life and career of the Pulitzer Prize-winning,
           Lebanese-American journalist Anthony Shadid during the tumultuous
@@ -17,9 +17,7 @@ lists:
           world from every walk of life.
 
 
-
-
-          **Tuesday, August 9, 2022, at 7 PM | Potrero Stage**
+          **Tuesday, August 9, 2022, at 7 PM | Potrero Stage (1695 18th St, San Francisco, CA 94107)**
         cta: Register now for free!
         link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYVMUA4
         subtitle: by Robert Myers, directed by Sahar Assaf
@@ -43,12 +41,11 @@ lists:
           play simulates the unexpected.
 
 
-
-
-          **Tuesday, August 16, 2022, at 7 PM | Brava Theater Center**
+          **Tuesday, August 16, 2022, at 7 PM | Brava Theater Center (2781 24th St., San Francisco, CA  94110)**
         cta: Register now for free!
         link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCZEL\
           UA4 "
+        image: https://ucarecdn.com/2e314e23-2690-43b9-a1c1-f57355a2a3ca/
       - title: Pilgrimage
         pre: ""
         subtitle: by Humaira Ghilzai and Bridgette Portman, directed by Aidaa Peerzada
@@ -66,12 +63,11 @@ lists:
           them apart?
 
 
-
-
-          **Tuesday, August 23, 2022 at 7:00 PM | Z Space**
+          **Tuesday, August 23, 2022 at 7 PM | Z Space (450 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
         link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYWA\
           UA4 "
+        image: https://ucarecdn.com/05f5ee59-02c6-4b03-8773-c6a72e9655a2/
       - title: HOME?
         link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYW5\
           UAO "
@@ -87,10 +83,9 @@ lists:
           about her search for the place that many of us take for granted: Home.
 
 
-
-
-          **Tuesday, August 30, 2022 at 7:00 PM | Z Space**
+          **Tuesday, August 30, 2022 at 7 PM | Z Space (450 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
+        image: https://ucarecdn.com/f6eaa19b-7132-4042-9322-4773a2056e42/
     heading: New Threads Reading Series 2022
   - heading: The Language of Wild Berries
     items:
