@@ -19,7 +19,7 @@ lists:
 
           **Tuesday, August 9, 2022, at 7 PM | Potrero Stage (1695 18th St, San Francisco, CA 94107)**
         cta: Register now for free!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYVMUA4
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007Uwl6UAC
         subtitle: by Robert Myers, directed by Sahar Assaf
       - title: What to Expect When You're Simulating Expecting
         pre: ""
@@ -43,8 +43,7 @@ lists:
 
           **Tuesday, August 16, 2022, at 7 PM | Brava Theater Center (2781 24th St., San Francisco, CA  94110)**
         cta: Register now for free!
-        link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCZEL\
-          UA4 "
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwnqUAC
         image: https://ucarecdn.com/2e314e23-2690-43b9-a1c1-f57355a2a3ca/
       - title: Pilgrimage
         pre: ""
@@ -65,12 +64,10 @@ lists:
 
           **Tuesday, August 23, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
-        link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYWA\
-          UA4 "
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlfUAC
         image: https://ucarecdn.com/05f5ee59-02c6-4b03-8773-c6a72e9655a2/
       - title: HOME?
-        link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYW5\
-          UAO "
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlVUAS
         subtitle: by Hend Ayoub, directed by Carey Perloff
         pre: ""
         text: >-
