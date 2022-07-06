@@ -34,7 +34,7 @@ lists:
           Seattle’s floods and wildfires, and a nuclear family to settle down
           with – things don’t seem to be going as planned. As she waits for her
           husband Ahmed to adopt a child from Egypt to round out their family,
-          she starts getting pains that her Doctor can’t explain, and she meets
+          she starts getting pains that her doctor can’t explain, and she meets
           an intriguing new friend named JeeYoung. The clock ticks as the Big
           One approaches to wash away Hoda’s plans, but she is determined to fly
           away in time. An intense yet comedic experience, this near-futuristic
@@ -63,7 +63,7 @@ lists:
           them apart?
 
 
-          **Tuesday, August 23, 2022 at 7 PM | Z Space (450 Florida St, San Francisco, CA 94110)**
+          **Tuesday, August 23, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
         link: "https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vCYWA\
           UA4 "
@@ -83,7 +83,7 @@ lists:
           about her search for the place that many of us take for granted: Home.
 
 
-          **Tuesday, August 30, 2022 at 7 PM | Z Space (450 Florida St, San Francisco, CA 94110)**
+          **Tuesday, August 30, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
         image: https://ucarecdn.com/f6eaa19b-7132-4042-9322-4773a2056e42/
     heading: New Threads Reading Series 2022
