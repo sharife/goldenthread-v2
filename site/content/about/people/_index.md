@@ -85,7 +85,7 @@ staff:
         Peripatetic Players. Follow their work at:
         www.lindamgiron.com[](www.lindamgiron.com)"
       image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/
-      link: https://www.lindamgiron.com/
+      link: ""
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
