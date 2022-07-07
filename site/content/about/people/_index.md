@@ -82,10 +82,10 @@ staff:
         including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
         CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
         New Conservatory Theater Center, CentralWorks, Word4Word & the
-        Peripatetic Players. Follow their work at
+        Peripatetic Players. Follow their work at:
         www.lindamgiron.com[](www.lindamgiron.com)"
-      image: https://ucarecdn.com/821a3ec9-a985-43b6-b6f1-82aab5312c44/
-      link: www.lindamgiron.com
+      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/
+      link: https://www.lindamgiron.com/
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -225,23 +225,6 @@ board:
         opening a dialogue.
       image: /img/archive/2019/02/Allam-May-300x300-2.jpg
       name: May Allam
-    - bio: <strong>Rebecca Novick</strong> *(she/her)* is a theatremaker based in San
-        Francisco Bay Area. Recent projects have included <em>Electra</em> at
-        Ten Thousand Things in Minneapolis, the world premiere of <em>A Ghost
-        Town</em> by Juliette Carrillo for Cornerstone Theater in Los Angeles, a
-        production of Shakespeare’s <em>Tempest </em>for California Shakespeare
-        Theater that toured homeless shelters, prisons, and community centers,
-        and a production of Erik Ehn’s <em>Dogsbody</em> that was presented at
-        La Mama in New York City. Rebecca was the founding artistic director of
-        Crowded Fire Theater Company and led the company for ten years. She also
-        developed and led the Triangle Lab, a collaboration between California
-        Shakespeare Theater and Intersection for the Arts, that explored how art
-        can be more deeply integrated into community life, and then went onto
-        serve as California Shakespeare Theater’s associate artistic director.
-        She is thrilled to join the Golden Thread Board of Trustees, and to
-        support the sharing of diverse stories of the Middle East.
-      image: /img/archive/2017/12/Novick-Rebecca.jpg
-      name: Rebecca Novick
     - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
         for Chanticleer, a 39-year-old men’s a cappella group based in San
         Francisco.  Following 20 years in the for-profit sector, primarily doing
@@ -279,6 +262,19 @@ board:
         in Berkeley, CA.
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
+    - name: Humaira Ghilzai
+      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/
+      bio: >-
+        HUMAIRA GHILZAI (she/her)
+
+
+        Humaira Ghilzai is a writer, speaker, producer and Afghanistan cultural advisor. Humaira co-founded the non-profit Afghan Friends Network and instituted the Sister City relationship between Hayward, California and Ghazni, Afghanistan where she has done extensive work for the past 18 years to improve education for girls, boys, and women. 
+
+
+        Humaira is a sought-after cultural expert who has worked with notable professional theatres authors, playwrights, and artists, utilizing her extensive knowledge of Afghan people, culture, religion, and history to bring authenticity to their creative work relating to Afghanistan and the Islamic world. Humaira made her Broadway debut in 2022 with the production of the Kite Runner.
+
+
+        Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
 artists:
   heading: Resident Artists
   items:
