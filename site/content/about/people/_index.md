@@ -82,10 +82,10 @@ staff:
         including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
         CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
         New Conservatory Theater Center, CentralWorks, Word4Word & the
-        Peripatetic Players. Follow their work at
+        Peripatetic Players. Follow their work at:
         www.lindamgiron.com[](www.lindamgiron.com)"
-      image: https://ucarecdn.com/821a3ec9-a985-43b6-b6f1-82aab5312c44/
-      link: www.lindamgiron.com
+      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/
+      link: https://www.lindamgiron.com/
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
