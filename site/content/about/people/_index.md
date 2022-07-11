@@ -151,98 +151,6 @@ staff:
 board:
   heading: Board of Trustees
   items:
-    - bio: <strong>Nora el Samahy</strong>’s *(she/her)* professional acting career
-        began in 1998 as a Fairy in San Francisco Shakespeare Festival’s
-        production of A MIDSUMMER NIGHT’S DREAM. She then went on to work with
-        Campo Santo, Golden Thread Productions, Alter Theater, Aurora Theatre,
-        Magic Theatre, foolsFURY, Traveling Jewish Theatre, Berkeley Repertory
-        Theatre, Exit Theater, Theatre Rhinoceros, Woman’s Will, Shotgun
-        Players, African American Shakespeare Company, among others. In 2013,
-        Nora founded a performance company called Affinity Project with Atosa
-        Babaoff, Beatrice Basso, and Emily Hoffman. Nora is a Pilates teacher
-        and co-owner of studio 74 pilates with business partner Jennifer
-        Moulton.  She received her BA in psychology from Wellesley College. Love
-        and thanks to Patrick and Ziyad.
-      credit: President
-      image: /img/archive/2015/08/NoraelSamahy300x300.jpg
-      name: Nora el Samahy
-    - bio: "<strong>John Atwood</strong> *(he/him)* is a Learning and Development
-        Manager at Google. He partners with engineering leadership to grow
-        engineering talent and scale learning resources globally. During his
-        time at Google, John has worked in the U.S. and Switzerland, and has
-        visited over 10 distributed offices across Asia, Europe, and South
-        America. Previous to Google, John performed with a number of Bay Area
-        theatre companies including: California Shakespeare Theater, Crowded
-        Fire Theater, New Conservatory Theatre, Impact Theatre, and Theatre
-        Rhinoceros. John’s passion for theatre stems from his belief that
-        theatre builds community and serves as a catalyst for important dialogue
-        and positive change. He is absolutely thrilled to serve on the board for
-        Golden Thread Productions. John holds an M.S. in Organization
-        Development from Pepperdine University, and earned a Bachelors degree in
-        Communication and Theatre from the University of California, San Diego."
-      credit: Secretary
-      image: /img/archive/2015/03/JohnAtwood_300x300.jpg
-      name: John Atwood
-    - bio: "<strong>Dr. Artin Der Minassians</strong> *(he/him)* is the Founding
-        Artistic Director of the Seemorgh Ensemble (of the Bay Area Classical
-        Harmonies) since 2006 and has directed various concerts with a focus on
-        presenting Armenian and Iranian choral music to a wider audience in the
-        Bay Area. He has collaborated with Pro Arts Gallery in Oakland as part
-        of the Last Friday at Pro Arts concert series. In 2009, he was invited
-        to coach &#8220;Chorissima,&#8221; the Grammy-­winning concert,
-        recording, and touring ensemble of the San Francisco Girls Chorus. His
-        Seemorgh Ensemble was invited to join the Oakland Symphony to conclude
-        the &#8220;Notes from Armenia&#8221; concert at the majestic Paramount
-        Theatre in 2010. The singing of the chorus in that concert was described
-        as “lustily”, “creating panoply of stirring sounds”, and “raising the
-        rafters” in <em>San Francisco Classical Voice</em>, <em>San Francisco
-        Chronicle</em>, <em>Oakland Tribune</em>, <em>San Jose Mercury
-        News</em>, and <em>Contra Costa Times</em>. &#8220;A Transcendent
-        Homage: A Choral Tribute to the House of Torgom&#8221; concert of the
-        Seemorgh Ensemble toured the Bay Area and the Central Valley in 2010. He
-        directed &#8220;A Komitas Wedding project&#8221; — a collaboration
-        between acting crew and acappella chorus — in San Francisco in 2011. In
-        July 2016, he was selected to join the National Chamber Choir of Armenia
-        as part of an intensive masterclass/workshop organized by the Armenian
-        General Benevolent Union (AGBU). Artin holds a PhD degree from UC
-        Berkeley in Electrical Engineering and Computer Sciences, and is the
-        Engineering Director at Empower Semiconductor, a Bay Area startup
-        company. He has been a board member of the UC Berkeley Armenian Alumni
-        (UCBAA) and the Bay Area Classical Harmonies (BACH)."
-      credit: Treasurer
-      image: /img/archive/2012/03/3f40df2.jpg
-      name: Artin Der Minassians
-    - bio: <strong>May Allam</strong> *(she/her)* is Senior Director of Engineering at
-        TiVo, San Jose CA. She manages an Engineering organization responsible
-        for developing the TiVo experience for set-top boxes at millions of
-        households worldwide. Before joining TiVo, May worked at Palm and IBM
-        Cairo Scientific Center. Throughout her career, May focused on building
-        and empowering technical teams who develop great products. May is
-        passionate about performing arts and believes in the power and impact of
-        performing arts in widening of visions and spreading of genuine human
-        values. May is thrilled to support Golden Thread’s mission of building
-        bridges between the Middle East and the West by sharing stories and
-        opening a dialogue.
-      image: /img/archive/2019/02/Allam-May-300x300-2.jpg
-      name: May Allam
-    - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
-        for Chanticleer, a 39-year-old men’s a cappella group based in San
-        Francisco.  Following 20 years in the for-profit sector, primarily doing
-        trademark licensing in the fashion industry, she made the decision to be
-        a fundraising professional for arts non-profits, and has done so for 11
-        years, mostly in the field of classical music.  Murrey got to know
-        Golden Thread when they were a tenant of Z Space, where she served on
-        the board for 11 years; and got to know them more intimately when she
-        provided fundraising consulting services to the organization in
-        2014.  She has served on three theatre boards, and is currently serving
-        on the board of Sojourn, the multi-faith volunteer chaplaincy at
-        Zuckerberg San Francisco General Hospital.  She is also on the Vestry of
-        Trinity Saint Peters Episcopal Church and is the Chair of the Phillips
-        Academy (Andover) Northern California Regional Alumni
-        Association.  Murrey is delighted to bring her expertise to such a fine
-        theatre company as Golden Thread.
-      image: /img/archive/2017/08/MurreyNelson-300x300.jpg
-      name: Murrey Nelson
     - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
         property law since 1992. Prior to that, he had an engineering career in
         Silicon Valley as an integrated circuit designer in the microelectronics
@@ -262,6 +170,53 @@ board:
         in Berkeley, CA.
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
+      credit: President
+    - bio: <strong>May Allam</strong> *(she/her)* is Senior Director of Engineering at
+        TiVo, San Jose CA. She manages an Engineering organization responsible
+        for developing the TiVo experience for set-top boxes at millions of
+        households worldwide. Before joining TiVo, May worked at Palm and IBM
+        Cairo Scientific Center. Throughout her career, May focused on building
+        and empowering technical teams who develop great products. May is
+        passionate about performing arts and believes in the power and impact of
+        performing arts in widening of visions and spreading of genuine human
+        values. May is thrilled to support Golden Thread’s mission of building
+        bridges between the Middle East and the West by sharing stories and
+        opening a dialogue.
+      image: /img/archive/2019/02/Allam-May-300x300-2.jpg
+      name: May Allam
+      credit: Treasurer
+    - bio: <strong>Nora el Samahy</strong>’s *(she/her)* professional acting career
+        began in 1998 as a Fairy in San Francisco Shakespeare Festival’s
+        production of A MIDSUMMER NIGHT’S DREAM. She then went on to work with
+        Campo Santo, Golden Thread Productions, Alter Theater, Aurora Theatre,
+        Magic Theatre, foolsFURY, Traveling Jewish Theatre, Berkeley Repertory
+        Theatre, Exit Theater, Theatre Rhinoceros, Woman’s Will, Shotgun
+        Players, African American Shakespeare Company, among others. In 2013,
+        Nora founded a performance company called Affinity Project with Atosa
+        Babaoff, Beatrice Basso, and Emily Hoffman. Nora is a Pilates teacher
+        and co-owner of studio 74 pilates with business partner Jennifer
+        Moulton.  She received her BA in psychology from Wellesley College. Love
+        and thanks to Patrick and Ziyad.
+      credit: Secretary
+      image: /img/archive/2015/08/NoraelSamahy300x300.jpg
+      name: Nora el Samahy
+    - bio: "<strong>John Atwood</strong> *(he/him)* is a Learning and Development
+        Manager at Google. He partners with engineering leadership to grow
+        engineering talent and scale learning resources globally. During his
+        time at Google, John has worked in the U.S. and Switzerland, and has
+        visited over 10 distributed offices across Asia, Europe, and South
+        America. Previous to Google, John performed with a number of Bay Area
+        theatre companies including: California Shakespeare Theater, Crowded
+        Fire Theater, New Conservatory Theatre, Impact Theatre, and Theatre
+        Rhinoceros. John’s passion for theatre stems from his belief that
+        theatre builds community and serves as a catalyst for important dialogue
+        and positive change. He is absolutely thrilled to serve on the board for
+        Golden Thread Productions. John holds an M.S. in Organization
+        Development from Pepperdine University, and earned a Bachelors degree in
+        Communication and Theatre from the University of California, San Diego."
+      credit: ""
+      image: /img/archive/2015/03/JohnAtwood_300x300.jpg
+      name: John Atwood
     - name: Humaira Ghilzai
       image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/
       bio: >-
@@ -275,6 +230,24 @@ board:
 
 
         Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
+    - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
+        for Chanticleer, a 39-year-old men’s a cappella group based in San
+        Francisco.  Following 20 years in the for-profit sector, primarily doing
+        trademark licensing in the fashion industry, she made the decision to be
+        a fundraising professional for arts non-profits, and has done so for 11
+        years, mostly in the field of classical music.  Murrey got to know
+        Golden Thread when they were a tenant of Z Space, where she served on
+        the board for 11 years; and got to know them more intimately when she
+        provided fundraising consulting services to the organization in
+        2014.  She has served on three theatre boards, and is currently serving
+        on the board of Sojourn, the multi-faith volunteer chaplaincy at
+        Zuckerberg San Francisco General Hospital.  She is also on the Vestry of
+        Trinity Saint Peters Episcopal Church and is the Chair of the Phillips
+        Academy (Andover) Northern California Regional Alumni
+        Association.  Murrey is delighted to bring her expertise to such a fine
+        theatre company as Golden Thread.
+      image: /img/archive/2017/08/MurreyNelson-300x300.jpg
+      name: Murrey Nelson
 artists:
   heading: Resident Artists
   items:
