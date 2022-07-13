@@ -9,7 +9,7 @@ description: Golden Thread’s annual staged reading series engages its audience
   non-Middle Eastern descent an authentic and supportive space to develop work
   about the Middle East. Join the creative process of making a new play, and
   discover brilliant gems never before seen in the Bay Area!
-background: https://ucarecdn.com/b5c2d5b9-0973-4a2b-8f67-25215a69b6ca/
+background: https://ucarecdn.com/c29128a9-0de0-4750-a698-9c4b94075a6c/
 ---
 Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and other experts that comment on the themes of the play.
 
