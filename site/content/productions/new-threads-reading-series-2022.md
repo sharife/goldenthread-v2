@@ -7,9 +7,9 @@ end: 2022-08-30T07:00:00.000Z
 description: >-
   Golden Thread Productions, the first American theatre company devoted to the
   Middle East, returns with **New Threads 2022**, its popular and free staged
-  reading series. The four staged readings will take place **Tuesdays**,
-  **August 9**, **16**, **23** and **30** in a tour of three different San
-  Francisco theatre venues. All readings are at **7pm** and **FREE**. 
+  reading series. The four staged readings will take place **Tuesdays, August 9,
+  16, 23 and 30** in a tour of three different San Francisco theatre venues. All
+  readings are at **7pm and FREE**. 
 
 
   Seating is limited, therefore reservations are highly recommended.
