@@ -24,12 +24,15 @@ lists:
         itemend: ""
         title: "A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE EAST"
         pre: Tuesday, August 9, at 7pm
-        subtitle: |-
+        subtitle: >-
           by **Robert Myers**
 
+
           directed by **Sahar Assaf**
-        text: >-
-          Pulitzer Prize-winning, Lebanese-American journalist [Anthony
+
+
+          Potrero Stage - [1695 18th St., San Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/)
+        text: Pulitzer Prize-winning, Lebanese-American journalist [Anthony
           Shadid](https://www.pulitzer.org/winners/anthony-shadid) is wounded in
           Palestine, awaits the American invasion of Iraq in Baghdad, covers the
           Israeli invasion of Lebanon in 2006, the fall of Mubarak in Tahrir
@@ -37,8 +40,6 @@ lists:
           there. He re-defined the role of a reporter and was one of the only
           correspondents who covered the lives of people from the Arab world
           from every walk of life.
-
-           @ Potrero Stage - [1695 18th St., San Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/)
         cta: "Register for A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE
           EAST"
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007Uwl6UAC
@@ -46,14 +47,14 @@ lists:
         itemend: ""
         title: WHAT TO EXPECT WHEN YOU’RE SIMULATING EXPECTING
         pre: Tuesday, August 16, at 7pm
-        subtitle: |-
+        subtitle: >-
           by **Nabra Nelson**
+
 
           directed by **Susannah Martin**
 
-          Brava Theater Studio
 
-          [2781 24th St., San Francisco, CA 94110](https://www.brava.org/visit)
+          Brava Theater Studio- [2781 24th St., San Francisco, CA 94110](https://www.brava.org/visit)
         text: In the year 2080, the new normal involves taboos on pregnancy, car
           ownership, red meat, and suburban homes. It involves travel
           restrictions, a mixed-race majority, ongoing climate disasters, and
@@ -75,10 +76,7 @@ lists:
           directed by **Aidaa Peerzada**
 
 
-          Z Below
-
-
-          [470 Florida St., San Francisco, CA 94110](http://www.zspace.org/directions)
+          Z Below - [470 Florida St., San Francisco, CA 94110](http://www.zspace.org/directions)
         text: Five Muslim American women embark on a pilgrimage to Mecca. Noor is an
           Afghan American immigrant with a secret. Her tech CEO daughter Maryam
           is struggling with legal woes, while Noor’s nieces, the estranged
@@ -99,10 +97,7 @@ lists:
           directed by **Carey Perloff**
 
 
-          Z Below 
-
-
-          [470 Florida St., San Francisco, CA 94110](http://www.zspace.org/directions)
+          Z Below - [470 Florida St., San Francisco, CA 94110](http://www.zspace.org/directions)
         text: >-
           Presented in collaboration with Z Space and San Francisco Playhouse.
 
