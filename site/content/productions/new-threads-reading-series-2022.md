@@ -104,3 +104,13 @@ lists:
     heading: New Threads 2022 Lineup
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
+
+### <center>COVID Health & Safety</center>
+
+Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+
+Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
+
+Seating will be general admission and limited to 75% capacity. Advanced purchase or registration is advised.
+
+By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
