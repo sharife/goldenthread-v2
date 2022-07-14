@@ -20,7 +20,7 @@ ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE. Click the link to make your reservation.
 lists:
   - items:
-      - itemstart: 2022-08-10T03:59:27.554Z
+      - itemstart: 2022-08-10T03:59:00.000Z
         itemend: ""
         title: "A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE EAST"
         pre: Tuesday, August 9, at 7pm
@@ -92,7 +92,7 @@ lists:
           secrets, rivalries, and old wounds tear them apart?
         cta: Register for PILGRIMAGE
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlfUAC
-      - itemstart: 2022-08-31T04:18:12.599Z
+      - itemstart: ""
         itemend: ""
         title: HOME?
         pre: Tuesday, August 30, at 7pm
@@ -111,8 +111,8 @@ lists:
           Presented in collaboration with Z Space and San Francisco Playhouse.
 
           Through a panoply of vivid characters—from a five-year-old who just wants to join the neighborhood's Purim party to a casting director in Egypt who can't forget where she comes from, to her dying mother who longs for her to find a place in the world—Hend shares a deeply personal and true story about her search for the place that many of us take for granted: Home.
+        cta: Register for HOME?
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlVUAS
     heading: New Threads 2022 Lineup
 ---
-Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. The readings are accompanied by talkbacks with the artists and other experts that comment on the themes of the play.
-
-Show selections and artist information TBA.
+New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
