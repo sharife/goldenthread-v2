@@ -33,6 +33,7 @@ lists:
 
           by **Robert Myers**
 
+
           directed by **Sahar Assaf**
         text: Pulitzer Prize-winning, Lebanese-American journalist [Anthony
           Shadid](https://www.pulitzer.org/winners/anthony-shadid) is wounded in
@@ -55,6 +56,7 @@ lists:
           [2781 24th St., San Francisco, CA 94110](https://www.brava.org/visit)
 
           by **Nabra Nelson**
+
           directed by **Susannah Martin**
         text: In the year 2080, the new normal involves taboos on pregnancy, car
           ownership, red meat, and suburban homes. It involves travel
@@ -79,6 +81,7 @@ lists:
 
           by **Humaira Ghilzai** and **Bridgette Dutta Portman**
 
+
           directed by **Aidaa Peerzada**
         text: Five Muslim American women embark on a pilgrimage to Mecca. Noor is an
           Afghan American immigrant with a secret. Her tech CEO daughter Maryam
@@ -101,6 +104,7 @@ lists:
 
 
           by **Hend Ayoub**
+
 
           directed by **Carey Perloff**
         text: >-
