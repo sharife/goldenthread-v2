@@ -23,18 +23,12 @@ lists:
       - itemstart: ""
         itemend: ""
         title: "A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE EAST"
-        pre: Tuesday, August 9, at 7pm
-        subtitle: >-
+        pre: Tuesday, August 9, at 7pm @ **Potrero Stage** - [1695 18th St., San
+          Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/)
+        subtitle: |-
           by **Robert Myers**
 
-
           directed by **Sahar Assaf**
-
-
-          Potrero Stage 
-
-
-          [1695 18th St., San Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/)
         text: Pulitzer Prize-winning, Lebanese-American journalist [Anthony
           Shadid](https://www.pulitzer.org/winners/anthony-shadid) is wounded in
           Palestine, awaits the American invasion of Iraq in Baghdad, covers the
