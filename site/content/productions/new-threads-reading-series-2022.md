@@ -20,7 +20,7 @@ ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE. Click the link to make your reservation.
 lists:
   - items:
-      - itemstart: 2022-08-10T03:59:00.000Z
+      - itemstart: ""
         itemend: ""
         title: "A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE EAST"
         pre: Tuesday, August 9, at 7pm
@@ -46,7 +46,7 @@ lists:
         cta: "Register for A THOUSAND STRANGE PLACES: ANTHONY SHADID AND THE MIDDLE
           EAST"
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007Uwl6UAC
-      - itemstart: 2022-08-17T04:04:13.597Z
+      - itemstart: ""
         itemend: ""
         title: WHAT TO EXPECT WHEN YOU’RE SIMULATING EXPECTING
         pre: Tuesday, August 16, at 7pm
@@ -68,7 +68,7 @@ lists:
           simulates the unexpected.
         cta: Register for WHAT TO EXPECT WHEN YOU’RE SIMULATING EXPECTING
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwnqUAC
-      - itemstart: 2022-08-24T04:14:38.666Z
+      - itemstart: ""
         itemend: ""
         title: PILGRIMAGE
         pre: Tuesday, August 23, at 7pm
