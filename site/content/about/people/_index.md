@@ -5,7 +5,7 @@ staff:
   items:
     - name: Sahar Assaf
       credit: Executive Artistic Director
-      image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/
+      image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/-/crop/866x872/101,93/-/preview/
       bio: >-
         Sahar Assaf (she/her) is a Lebanese theatremaker and professor. She has
         been active in the Lebanese theatre scene since 2003 as an actor,
@@ -47,7 +47,7 @@ staff:
       name: Michelle Mulholland
     - name: Heather Rastovac Akbarzadeh
       credit: Fairytale Players Program Manager
-      image: https://ucarecdn.com/b7275194-fe81-40c7-b770-69de824fca21/
+      image: https://ucarecdn.com/b7275194-fe81-40c7-b770-69de824fca21/-/crop/1391x1450/0,76/-/preview/
       bio: "Heather Rastovac Akbarzadeh (she/her/hers) is a community-engaged scholar,
         artist, and educator with two decades of experience as a
         dancer-choreographer, artistic director, curator, and dramaturg among
@@ -84,7 +84,7 @@ staff:
         New Conservatory Theater Center, CentralWorks, Word4Word & the
         Peripatetic Players. Follow their work at:
         www.lindamgiron.com[](www.lindamgiron.com)"
-      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/
+      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/-/crop/1249x1349/57,329/-/preview/
       link: ""
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
@@ -218,7 +218,7 @@ board:
       image: /img/archive/2015/03/JohnAtwood_300x300.jpg
       name: John Atwood
     - name: Humaira Ghilzai
-      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/-/crop/1280x1234/303,52/-/preview/
+      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/-/crop/797x811/535,52/-/preview/
       bio: >-
         HUMAIRA GHILZAI (she/her)
 
