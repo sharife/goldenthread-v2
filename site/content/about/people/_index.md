@@ -218,7 +218,7 @@ board:
       image: /img/archive/2015/03/JohnAtwood_300x300.jpg
       name: John Atwood
     - name: Humaira Ghilzai
-      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/
+      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/-/crop/1280x1234/303,52/-/preview/
       bio: >-
         HUMAIRA GHILZAI (she/her)
 
