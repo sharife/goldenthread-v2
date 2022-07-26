@@ -230,22 +230,19 @@ board:
 
 
         Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
-    - bio: <strong>Murrey Nelson</strong> *(she/her)* is the Director of Development
-        for Chanticleer, a 39-year-old men’s a cappella group based in San
-        Francisco.  Following 20 years in the for-profit sector, primarily doing
-        trademark licensing in the fashion industry, she made the decision to be
-        a fundraising professional for arts non-profits, and has done so for 11
-        years, mostly in the field of classical music.  Murrey got to know
-        Golden Thread when they were a tenant of Z Space, where she served on
-        the board for 11 years; and got to know them more intimately when she
-        provided fundraising consulting services to the organization in
-        2014.  She has served on three theatre boards, and is currently serving
-        on the board of Sojourn, the multi-faith volunteer chaplaincy at
-        Zuckerberg San Francisco General Hospital.  She is also on the Vestry of
-        Trinity Saint Peters Episcopal Church and is the Chair of the Phillips
-        Academy (Andover) Northern California Regional Alumni
-        Association.  Murrey is delighted to bring her expertise to such a fine
-        theatre company as Golden Thread.
+    - bio: "**Murrey Nelson** (she/her) is the Director of Development for
+        Chanticleer, a GRAMMY® award winning men’s a'capella group based in San
+        Francisco, now in its 45th year. Following 20 years in the for-profit
+        sector, primarily doing trademark licensing for fashion brands, she made
+        the decision to be a fundraising professional in the non-profit arts
+        sector, and has done so for fifteen years, mostly in the field of
+        classical music. Murrey got to know Golden Thread when they were a
+        tenant of Z Space, where she served on the board for 11 years; and got
+        to know them more intimately when she provided fundraising consulting
+        services to the organization in 2014. She has served on three theatre
+        boards, as well as boards and committees in other areas. Murrey is proud
+        to serve on the board of such an excellent theatre company as Golden
+        Thread."
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
 artists:
