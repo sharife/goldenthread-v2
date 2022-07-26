@@ -89,15 +89,3 @@ An Armenian-American family's journey towards accepting the past and embracing t
 ###### **Content Advisory: Realistic depictions of memory loss, aging, and loss/grief. References to Armenian genocide, intergenerational trauma, poverty and oppression.**
 
 In this award-wining play, Leslie Ayvazian has beautifully depicted the reality of facing a horrific past without shame or fear. The grandparents in the play are survivors of the Armenian genocide who never taught their children how to speak Armenian because they wanted them to be real Americans. But now, as the grandfather is facing his own mortality, he feels an urgency to impart the truth to the next generation. His death in the first scene is the impetus for the eldest daughter to travel to Armenia for the first time. She must see with her own eyes what she has only been told about all her life.
-
-June 21-27, 2021
-
-### Love Missile
-
-##### An Anti-war comedy musical with puppets by Hal Gelb, Janaki Ranpura, Torange Yeghiazarian, and directed by Norman Gee
-
-A surreal tale of passion, greed, denial and longing involving unspeakable bodily functions.
-
-**Content Advisory: Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor.**
-
-*Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital “natural” resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
