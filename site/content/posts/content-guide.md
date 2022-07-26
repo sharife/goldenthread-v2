@@ -1,14 +1,13 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description:
+description: null
 ---
-Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
+Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
 We have tried to include content that is considered to be of a sensitive nature, but this list does not necessarily cover every subject of concern. Some content may be only briefly mentioned, while other content may be a more major theme or central aspect of the play.
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
-
 
 
 April 8 - May 1, 2022
@@ -19,7 +18,7 @@ April 8 - May 1, 2022
 
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
 
- **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+**Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
 
 
 
@@ -33,7 +32,7 @@ Tuesday, August 17, at 7:00 PM (PT)
 
 Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history.
 
- **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.**
+**Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.**
 
 Tuesday, August 10, at 7:00 PM (PT)
 
@@ -104,4 +103,4 @@ A surreal tale of passion, greed, denial and longing involving unspeakable bodil
 
 **Content Advisory: Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor.**
 
-*Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital “natural” resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
+*Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital "natural" resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
