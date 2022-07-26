@@ -41,13 +41,13 @@ A couple on an uncomfortable mini-break; a pair of mothers with a child who wonâ
 
 **Content Advisories by play:**
 
-***A Delicate Poison* by Hassan Abdulrazzak**\
+***A Delicate Poison* by Hassan Abdulrazzak**
 This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault.  
 
-***Only Connect by Mona Mansour***\
+***Only Connect by Mona Mansour***
 The COVID-19 pandemic and social isolation are a central theme of the play.  
 
-***The Cure by Hannah Khalil***\
+***The Cure by Hannah Khalil***
 The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
 
 Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each otherâ€™s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
