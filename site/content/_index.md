@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: Submissions Open
+headline: Submissions Now Open
 subtitle: ""
 background: https://ucarecdn.com/b8c0fcfa-b0ab-49cf-aef4-eb4feae6907d/
 cta: Learn More!
