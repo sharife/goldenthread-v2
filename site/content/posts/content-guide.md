@@ -1,7 +1,7 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description: "\n"
+description:
 ---
 Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
@@ -19,7 +19,7 @@ April 8 - May 1, 2022
 
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
 
- **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+ **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
 
 
 
@@ -31,27 +31,27 @@ Tuesday, August 17, at 7:00 PM (PT)
 
 **written by Leslie Kalarchian and directed by Sahar Assaf**
 
-Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history. 
+Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history.
 
- **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.** 
+ **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.**
 
 Tuesday, August 10, at 7:00 PM (PT)
 
 ### Arab Play Cycle
 
-**written by Hassan Abdulrazzak**, **Hannah Khalil**, **Mona Mansour and** **directed by Evren Odcikin**
+**written by Hassan Abdulrazzak**, **Hannah Khalil**, **Mona Mansour and** **directed by Evren Odcikin**
 
-A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new triptych play cycle by three acclaimed Arab writers. 
+A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new triptych play cycle by three acclaimed Arab writers. 
 
 **Content Advisories by play:**
 
-***A Delicate Poison* by Hassan Abdulrazzak**\
-This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault. \
-\
-***Only Connect by Mona Mansour***\
-The COVID-19 pandemic and social isolation are a central theme of the play.\
-**\
-*The Cure by Hannah Khalil***\
+***A Delicate Poison* by Hassan Abdulrazzak**  
+This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault.  
+
+***Only Connect by Mona Mansour***  
+The COVID-19 pandemic and social isolation are a central theme of the play.  
+
+***The Cure by Hannah Khalil***  
 The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
 
 Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
