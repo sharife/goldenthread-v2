@@ -1,15 +1,13 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description:
+description: Welcome to Golden Thread’s content guide.
 ---
-Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
+Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
 We have tried to include content that is considered to be of a sensitive nature, but this list does not necessarily cover every subject of concern. Some content may be only briefly mentioned, while other content may be a more major theme or central aspect of the play.
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
-
-
 
 April 8 - May 1, 2022
 
@@ -20,8 +18,6 @@ April 8 - May 1, 2022
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
 
  **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
-
-
 
 ##### New Threads 2021
 
@@ -45,13 +41,13 @@ A couple on an uncomfortable mini-break; a pair of mothers with a child who won�
 
 **Content Advisories by play:**
 
-***A Delicate Poison* by Hassan Abdulrazzak**  
+***A Delicate Poison* by Hassan Abdulrazzak**\
 This play is an absurdist comedy dealing with difficult and triggering topics, and includes in action and language: racialized microaggressions and gaslighting; misogyny; xenophobia; violence against Muslims; drug use; and sexual assault.  
 
-***Only Connect by Mona Mansour***  
+***Only Connect by Mona Mansour***\
 The COVID-19 pandemic and social isolation are a central theme of the play.  
 
-***The Cure by Hannah Khalil***  
+***The Cure by Hannah Khalil***\
 The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
 
 Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
