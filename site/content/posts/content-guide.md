@@ -1,9 +1,9 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description: "\n"
+description: "Welcome to Golden Thread’s content guide. "
 ---
-Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
+Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
 We have tried to include content that is considered to be of a sensitive nature, but this list does not necessarily cover every subject of concern. Some content may be only briefly mentioned, while other content may be a more major theme or central aspect of the play.
 
@@ -105,4 +105,3 @@ A surreal tale of passion, greed, denial and longing involving unspeakable bodil
 **Content Advisory: Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor.**
 
 *Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital “natural” resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
-
