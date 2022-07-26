@@ -1,7 +1,7 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description:
+description: null
 ---
 Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
@@ -19,7 +19,7 @@ April 8 - May 1, 2022
 
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
 
- **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+**Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
 
 
 
