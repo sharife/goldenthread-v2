@@ -23,8 +23,6 @@ The play dramatizes the life and career of the Pulitzer Prize-winning, Lebanese-
 
 **Content Advisories: Reference to war. Depictions of physical injury. Sounds of bombs. Graphic description of violence caused by war. Death of children due to war. Description of wartime sexual violence. Reference to animal cruelty. Projections of real war photos.**
 
-
-
 August 16, 2022
 
 ## What to Expect When You Are Simulating Expecting
@@ -35,8 +33,6 @@ In the year 2080, the new normal involves taboos on pregnancy, car ownership, re
 
 **Content Advisories: Profanity. Depictions of pregnancy complications and birthing. Mention of abortion.**
 
-
-
 August 23, 2022
 
 ## Pilgrimage
@@ -45,9 +41,7 @@ written by Humaira Ghilzai and Bridgette Dutta Portman, directed by Aidaa Peerza
 
 Five Muslim American women embark on an Umrah, a minor pilgrimage, to Mecca. Noor, an Afghan American immigrant with a secret, hopes the journey will give her the absolution she desperately seeks. Her tech CEO daughter Maryam, struggling with legal woes, sees the trip as a way to rebrand herself, while Noor’s nieces, the estranged sisters Sosan and Nadia, work to mend their fractured relationship while fulfilling the Umrah rituals as a requisite to receive their inheritance. Meanwhile, Fatima, a Black Muslim convert, hopes to find her biological mother. Will these five women find the spiritual reawakening they seek, or will secrets, rivalries, and old wounds tear them apart?
 
-Content Advisories: References to death of a family member. References to bullying and prejudice. References to political violence. Themes of grief, family dysfunction, and abandonment.
-
-
+**Content Advisories: References to death of a family member. References to bullying and prejudice. References to political violence. Themes of grief, family dysfunction, and abandonment.**
 
 August 30, 2022
 
