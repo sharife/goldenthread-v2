@@ -1,14 +1,13 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description: null
+description: ""
 ---
-Welcome to Golden Thread’s content guide. Here you’ll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
+Welcome to Golden Thread’s content guide. Here you'll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
 We have tried to include content that is considered to be of a sensitive nature, but this list does not necessarily cover every subject of concern. Some content may be only briefly mentioned, while other content may be a more major theme or central aspect of the play.
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
-
 
 
 April 8 - May 1, 2022
@@ -19,7 +18,7 @@ April 8 - May 1, 2022
 
 It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
 
- **Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+**Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
 
 
 
@@ -31,7 +30,7 @@ Tuesday, August 17, at 7:00 PM (PT)
 
 **written by Leslie Kalarchian and directed by Sahar Assaf**
 
-Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia’s painfully dark history.
+Maro Thompson, a widowed music teacher resolved to admitting her rapidly deteriorating mother, Zada, into a nursing home, hires Emilio, an impassioned artist in need of a day gig to help clean out the family house. Unbeknownst to Maro, the willful Zada has other plans that evening and invites the family over to celebrate her 84th birthday. The party gets turned on its head when Emilio discovers a cache of abstract paintings hidden away in an upstairs closet. As the mystery behind the decades-old artwork unravels, Maro learns of her connection to Armenia's painfully dark history.
 
 **Content Advisories: Realistic depictions of an elderly struggling with Dementia. Realistic depictions of belittling and racialized microaggressions. References to the Armenian Genocide. Use of a gun and a gunshot.**
 
@@ -41,7 +40,7 @@ Tuesday, August 10, at 7:00 PM (PT)
 
 **written by Hassan Abdulrazzak**, **Hannah Khalil**, **Mona Mansour and** **directed by Evren Odcikin**
 
-A couple on an uncomfortable mini-break; a pair of mothers with a child who won’t wake up; and two post-COVID 19, post-Capitol riots encounters; form this new triptych play cycle by three acclaimed Arab writers. 
+A couple on an uncomfortable mini-break; a pair of mothers with a child who won't wake up; and two post-COVID 19, post-Capitol riots encounters; form this new triptych play cycle by three acclaimed Arab writers. 
 
 **Content Advisories by play:**
 
@@ -54,7 +53,7 @@ The COVID-19 pandemic and social isolation are a central theme of the play.
 ***The Cure by Hannah Khalil***  
 The play has depictions and descriptions of ailing and injured children, as well as references to bombings.
 
-Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other’s ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
+Despite being in different countries (Hassan and Hannah in the UK and Mona in the US) the trio worked closely, connecting online and taking each other's ideas as inspiration. They spent time talking about what felt important and resonant after this time of change. The result is a series of satirical, moving and poignant vignettes that will give audiences much food for thought.
 
 Tuesday, August 3, at 11:00 AM (PT) and 9:00 PM (Beirut)
 
@@ -78,7 +77,7 @@ An outrageous comedy about sex and war.
 
 **Content Advisory: Satirical depictions of misogyny, sexual coercion, and harassment. References to gendered violence and oppression.**
 
-THE ORIGINAL PLAY: Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies. It followed shortly on a disastrous phase of Athens’s war with Sparta. Many of Aristophanes plays use a utopian premise to criticize war. Lysistrata addresses the politics of its time in a variety of ways. Lampooning the politicians of the time and Athens’s expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand. Aristophanes was a master at highlighting social hypocrisies. But at the same time the play is by no means "feminist" in its approach. Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
+THE ORIGINAL PLAY: Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies. It followed shortly on a disastrous phase of Athens's war with Sparta. Many of Aristophanes plays use a utopian premise to criticize war. Lysistrata addresses the politics of its time in a variety of ways. Lampooning the politicians of the time and Athens's expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand. Aristophanes was a master at highlighting social hypocrisies. But at the same time the play is by no means "feminist" in its approach. Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
 
 THE ADAPTATION: To fully reap the sows of Aristophanes political commentary, a contemporary adaptation needs to address the politics of its own time. Certainly the role of women in our society has changed, albeit slightly!, from Aristophanes' era. This cannot be ignored. War remains, but the players are different. The United States may be the Athens of today; the global leader, economically and militarily. This adaptation focuses on the relationship between the US and the Middle East. Islamic Fundamentalism is currently being thrown around as the one remaining enemy, the force that threatens "Democracy" in the world today. In this production Iran is being presented as a background player, with Palestine and Israel as the main warring parties. The play is really designed to speak directly to its audience, however. And since it is being produced in the US, it seems important to set the play in the US as well. In this production, the Jewish-American Lysistrata along with the Palestinian-American Kalonike, unite women from around the world, including the Iranian Lampito, to join in on a global sex strike in order to force men to stop war and sign the World Peace treaty. The play attempts to emphasize the global nature of war in our time and the need for a global peace settlement.
 
@@ -104,4 +103,4 @@ A surreal tale of passion, greed, denial and longing involving unspeakable bodil
 
 **Content Advisory: Satirical depictions of war and addiction. References to deportation, displacement, family separation, crude language and bathroom humor.**
 
-*Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna’s addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital “natural” resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna’s President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
+*Love Missile* is a fusion of a traditional American musical with Middle Eastern undertones and fantastical shadow puppetry. When a Godzilla attack interrupts the source of Shappa-Imageanna's addiction to consumer goods, their President uses it as an excuse to wage war on Distancia, a far-off dictatorship that had nothing to do with the attack – but happens to have a whole lot of a vital "natural" resource (aka human excrement!). The prominent scientist, Dr Z and his newly arrived assistant Sharifa, a legal immigrant from Distancia, work feverishly to find alternatives, but ultimately importing the goods is the only option and as it turns out, Distancia has the best goods! When the dictator of Distancia rejects the generous offers made by Shappa-Imageanna's President, he has no alternative but to attack – with Love, a drug that induces universal love developed by Dr. Z and Sharifa, who is manipulated into developing the missiles that will rain down on her own country. Is Love all we really need?
