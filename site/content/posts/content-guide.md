@@ -1,7 +1,7 @@
 ---
 title: Content Guide
 date: 2021-05-21T02:49:07.877Z
-description: ""
+description: Test
 ---
 Welcome to Golden Thread’s content guide. Here you'll find a more in-depth descriptions of productions as well as other content information intended to help our patrons engage with our work as they choose.
 
