@@ -52,3 +52,15 @@ written and performed by Hend Ayoub, directed by Carey Perloff
 An autobiographical solo show about a young woman's journey to retrieve and imagine a new sense of home. Through a panoply of vivid characters—from a five-year-old who just wants to join the neighborhood's Purim party to a casting director in Egypt who can't forget where she comes from, to her dying mother who longs for her to find a place in the world—Hend shares a deeply personal and true story about her search for the place that many of us take for granted: Home.
 
 **Content Advisories: Description of ethnic discrimination. Death of a parent.**
+
+![](https://ucarecdn.com/5978a7dd-74a1-4d39-b118-ab469b7e03cb/)
+
+April 8 - May 1, 2022
+
+# Drowning in Cairo
+
+written by Adam Ashraf Elsayigh and directed by Sahar Assaf
+
+It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
+
+**Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
