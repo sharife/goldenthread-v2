@@ -13,11 +13,11 @@ items:
     text: "**New Threads 2022**, our popular and free staged reading series,
       introduces four new vital plays in development from or about the Middle
       East. This year's selections include stories and artists from Afghanistan,
-      Egypt, Lebanon, Pakistan, Palestine, and the United States.The four staged
-      readings will take place **Tuesdays, August 9, 16, 23 and 30** in a tour
-      of three different San Francisco theatre venues. All readings are at **7pm
-      and FREE**. Reservations are recommended; COVID Safety Protocols remain in
-      place."
+      Egypt, Lebanon, Pakistan, Palestine, and the United States. The four
+      staged readings will take place **Tuesdays, August 9, 16, 23 and 30** in a
+      tour of three different San Francisco theatre venues. All readings are at
+      **7pm and FREE**. Reservations are recommended; COVID Safety Protocols
+      remain in place."
   - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
     subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
     cta: Submit your play!
