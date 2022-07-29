@@ -7,12 +7,7 @@ cta: Learn More!
 link: https://goldenthread.org/get-involved/submissions
 items:
   - image: https://ucarecdn.com/1d3f5353-1225-4f6a-88f8-161ad9138fdb/
-    subtitle: |-
-      ***Golden Thread's New Threads 2022 Reading Series***
-
-      ***introduces Four Vital New Plays in development***
-
-      ***from or about the Middle East***
+    subtitle: "**New Threads Staged Reading Series returns!**"
     cta: Register now!
     link: https://goldenthread.org/tickets/
     text: Golden Thread Productions, the first American theatre company devoted to
