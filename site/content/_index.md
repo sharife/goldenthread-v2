@@ -6,23 +6,21 @@ background: https://ucarecdn.com/b8c0fcfa-b0ab-49cf-aef4-eb4feae6907d/
 cta: Learn More!
 link: https://goldenthread.org/get-involved/submissions
 items:
-  - image: https://ucarecdn.com/22c73bc0-f882-405d-905a-ac4df7b5fbc6/
-    subtitle: "***No Summary: What can the wise fool Nasrudin teach us?*** Bringing
-      Middle Eastern storytelling to young audiences"
+  - image: https://ucarecdn.com/1d3f5353-1225-4f6a-88f8-161ad9138fdb/
+    subtitle: |-
+      ***Golden Thread's New Threads 2022 Reading Series***
+
+      ***introduces Four Vital New Plays in development***
+
+      ***from or about the Middle East***
     cta: Register now!
-    link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000udtHEUAY
-    text: >-
-      Join Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
-      Akbarzadeh**, in discussing the production and reception of Fairytale
-      Players’ 2022 tour of *Nasrudin’s Magnificent Journey to Samarkand*,
-      written by Torange Yeghiazarian and directed by Sarah Al-Kassab. Featuring
-      guest panelists: **Sarah Al-Kassab** (Jordanian-American actor, producer,
-      and costume designer), **Sabria Hassan** (program manager with the
-      American Association of Yemeni Students and Professionals), and **Angela
-      Norton Tyler** (teacher at Fruitvale Elementary School in Oakland, CA).
-
-
-      Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
+    link: https://goldenthread.org/tickets/
+    text: Golden Thread Productions, the first American theatre company devoted to
+      the Middle East, returns with **New Threads 2022**, its popular and free
+      staged reading series. The four staged readings will take place
+      **Tuesdays, August 9, 16, 23 and 30** in a tour of three different San
+      Francisco theatre venues. All readings are at **7pm and FREE**.
+      Reservations are recommended.
   - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
     subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
     cta: Submit your play!
