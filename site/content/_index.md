@@ -32,10 +32,10 @@ items:
       translated and directed by **Torange Yeghiazarian** 
 
 
-      US Premiere
+      **US Premiere**
 
 
-      Oct. 14 - Nov. 6, 2022
+      **Oct. 14 - Nov. 6, 2022**
 
 
       Donya and Davood celebrate their wedding anniversary by traveling to the same seaside town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
