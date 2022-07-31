@@ -26,10 +26,10 @@ items:
     cta: Buy Tickets!
     link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
     text: >-
-      by Naghmeh Samini 
+      by **Naghmeh Samini** 
 
 
-      translated and directed by Torange Yeghiazarian 
+      translated and directed by **Torange Yeghiazarian** 
 
 
       US Premiere
