@@ -21,15 +21,24 @@ items:
 
 
       Proof of vaccination with booster and a mask are required for entry.
-  - image: https://ucarecdn.com/301962a8-0b5e-4602-b8e2-b636c83e777e/
-    subtitle: "**Submissions open for ReOrient Festival of Short Plays 2023**"
-    cta: Submit your play!
-    link: https://goldenthread.org/get-involved/submissions/
-    text: Golden Thread Productions is seeking short plays for consideration in
-      ReOrient Festival of Short Plays 2023. ReOrient Festival showcases the
-      diversity of voices and aesthetics from the Middle East and its worldwide
-      diaspora in a curated festival of short plays produced biennially in San
-      Francisco. The submission deadline for consideration is **July 30, 2022.**
+  - image: https://ucarecdn.com/1cfd2755-5e07-4e9e-bfd4-d5c67b2d22f7/
+    subtitle: "**The Language of Wild Berries**"
+    cta: Buy Tickets!
+    link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+    text: >-
+      by Naghmeh Samini 
+
+
+      translated and directed by Torange Yeghiazarian 
+
+
+      US Premiere
+
+
+      Oct. 14 - Nov. 6, 2022
+
+
+      Donya and Davood celebrate their wedding anniversary by traveling to the same seaside town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
   - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
     subtitle: Season Tickets On Sale Now!
     cta: Buy Tickets!
