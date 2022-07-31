@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: Submissions Open
 subtitle: ""
-background: https://ucarecdn.com/fc629689-6f36-42a7-ae87-4501e1454923/
+background: https://ucarecdn.com/98ccb281-2435-4337-bf40-6915ca207a68/
 cta: Learn More!
 link: https://goldenthread.org/get-involved/submissions
 items:
