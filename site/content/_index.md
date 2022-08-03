@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: New Threads Reading Series 2022
 subtitle: ""
 background: https://ucarecdn.com/75cc899f-67d9-4f1b-9edf-2bdea5ccdbbe/-/crop/2286x509/0,167/-/preview/
-cta: Reserve Free Tickets!
+cta: Register Now for Free Tickets!
 link: https://goldenthread.org/tickets/
 items:
   - image: https://ucarecdn.com/1d3f5353-1225-4f6a-88f8-161ad9138fdb/
@@ -24,7 +24,7 @@ items:
   - image: https://ucarecdn.com/1cfd2755-5e07-4e9e-bfd4-d5c67b2d22f7/
     subtitle: "**The Language of Wild Berries**"
     cta: Buy Tickets!
-    link: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+    link: https://goldenthread.org/productions/the-language-of-wild-berries-2022/
     text: >-
       by **Naghmeh Samini** 
 
