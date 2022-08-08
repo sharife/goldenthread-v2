@@ -1,5 +1,5 @@
 ---
-title: New Threads Reading Series 2022
+title: New Threads Staged Reading Series 2022
 season: 2022
 date: 2021-10-21T21:43:38.425Z
 start: 2022-08-09T07:00:00.000Z
@@ -12,6 +12,8 @@ description: Golden Thread Productions, the first American theatre company
   limited, therefore registration is highly recommended.
 background: https://ucarecdn.com/c29128a9-0de0-4750-a698-9c4b94075a6c/
 titleimage: https://ucarecdn.com/19afa223-31d6-4630-9575-e506ae6b3cad/
+programlabel: Download the digital program!
+program: https://ucarecdn.com/0b90b296-959d-4997-b280-665835138fa2/
 stage: Potrero Stage, Z Below, Brava Theater
 ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
