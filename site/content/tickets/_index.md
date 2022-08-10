@@ -2,25 +2,6 @@
 title: Buy Tickets
 lists:
   - items:
-      - title: "A Thousand Strange Places: Anthony Shadid and the Middle East"
-        pre: ""
-        image: https://ucarecdn.com/b7c4043b-427e-4cfd-b953-b7400d4d04f2/
-        text: >-
-          The play dramatizes the life and career of the Pulitzer Prize-winning,
-          Lebanese-American journalist Anthony Shadid during the tumultuous
-          decade of 2002-2012. He is wounded in Palestine, awaits the American
-          invasion of Iraq in Baghdad, covers the Israeli invasion of Lebanon in
-          2006, the fall of Mubarak in Tahrir Square, and is kidnapped in Libya
-          while reporting on the civil war there. As an Arabic speaker and a
-          brilliant writer, he re-defined the role of a reporter and was one of
-          the only correspondents who covered the lives of people from the Arab
-          world from every walk of life.
-
-
-          **Tuesday, August 9, 2022, at 7 PM | Potrero Stage (1695 18th St, San Francisco, CA 94107)**
-        cta: Register now for free!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007Uwl6UAC
-        subtitle: by Robert Myers, directed by Sahar Assaf
       - title: What to Expect When You're Simulating Expecting
         pre: ""
         subtitle: by Nabra Nelson, directed by Susannah Martin
@@ -83,7 +64,7 @@ lists:
           **Tuesday, August 30, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
         image: https://ucarecdn.com/f6eaa19b-7132-4042-9322-4773a2056e42/
-    heading: New Threads Reading Series 2022
+    heading: New Threads Staged Reading Series 2022
   - heading: The Language of Wild Berries
     items:
       - title: ""
