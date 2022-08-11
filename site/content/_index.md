@@ -47,7 +47,7 @@ items:
     text: >-
       **Meet the Cast of *The Language of Wild Berries***\
 
-      **Thursday, September 1st, 11:00 AM PST**
+      **Thursday, Sept. 1st, 11:00 AM PST**
 
 
       Golden Thread's Marketing & Engagement Manager **Sheila Devitt** introduces and interviews cast members of ***The Language of Wild Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers **Zaya Kolia**, **Damien Seperi** and **Dina Zarif** and learn about their theatre journeys and what excites them about this production coming up in October 2022 at Golden Thread.
