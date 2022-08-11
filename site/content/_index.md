@@ -40,12 +40,19 @@ items:
 
       Donya and Davood celebrate their wedding anniversary by traveling to the same seaside town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
   - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
-    subtitle: Season Tickets On Sale Now!
-    cta: Buy Tickets!
-    link: https://goldenthread.org/tickets/
-    text: >-
-      Tickets for our 2022 mainstage productions are on sale now! These include
-      the World Premiere of
+    subtitle: >-
+      New Episode of No Summary: Conversations with Artists Who Don't Fit in a
+      Box\
 
-      Egyptian playwright Adam Ashraf Elsayigh's Drowning in Cairo, directed by Sahar Assaf and the long-awaited U.S. Premiere of celebrated Iranian playwright Naghmeh Samini's The Language of Wild Berries, translated and directed by Torange Yeghiazarian. Check out our new and improved ticketing! In our continuing efforts to provide an equitable and accessible theatre experience for all, we recently revised our ticketing policies and pricing structure to better reflect the fundamental values we hold that we believe foster a just, inclusive and community-driven space. Visit the [Buy Tickets](https://goldenthread.org/tickets/) page for more information.
+      Meet the cast of The Language of Wild Berries\
+
+      Thursday, September 1st, 11:00 AM PST
+    cta: Register Now!
+    link: https://goldenthread.org/tickets/
+    text: Golden Thread's Marketing & Engagement Manager **Sheila Devitt**
+      introduces and interviews cast members of ***The Language of Wild
+      Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers **Zaya
+      Kolia**, **Damien Seperi** and **Dina Zarif** and learn about their
+      theatre journeys and what excites them about this production coming up in
+      October 2022 at Golden Thread.
 ---
