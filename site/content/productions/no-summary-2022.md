@@ -9,9 +9,26 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
   how it impacts their work and artistic choices.
-background: https://ucarecdn.com/0d6a9f9e-3a58-4b1c-beb0-a62905ba33e0/
+background: https://ucarecdn.com/4f00757d-2b58-4a80-86eb-0148b5a657c4/
 lists:
   - items:
+      - itemstart: 2022-09-01T18:00:00.000Z
+        itemend: 2022-09-01T20:00:31.994Z
+        title: Meet the Cast of The Language of Wild Berries
+        text: >-
+          Golden Thread's Marketing & Engagement Manager **Sheila Devitt**
+          introduces and interviews cast members of ***The Language of Wild
+          Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers
+          **Zaya Kolia**, **Damien Seperi** and **Dina Zarif** and learn about
+          their theatre journeys and what excites them about this production
+          coming up in October 2022 at Golden Thread. 
+
+
+          Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
+        cta: Register now!
+        image: https://ucarecdn.com/113a85e5-fcca-4135-8efb-e71520b6614c/
+        pre: Thursday, September 1, 2022 at 11:00AM (PST)
+        link: https://goldenthread.org/tickets/
       - itemstart: 2022-06-24T18:00:24.122Z
         itemend: 2022-06-24T20:00:24.182Z
         title: "What can the wise fool Nasrudin teach us? Bringing Middle Eastern
@@ -55,22 +72,6 @@ lists:
         title: Tap In, Tap Out, On Dangerous Storytelling
         cta: Watch the full episode
         link: https://www.youtube.com/watch?v=jDddosh0bic
-      - itemstart: 2022-02-24T19:00:00.000Z
-        itemend: 2022-02-24T21:00:31.994Z
-        title: Meet the Cast of Drowning in Cairo
-        text: Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
-          interviews the cast members of *Drowning in Cairo*, a world premiere
-          by Adam Ashraf Elsayigh. The play focuses on the lives of three young
-          men whose lives are forever altered when an unexpected police raid
-          results in the arrest and public humiliation of the attendees of the
-          Queen Boat, a gay nightclub docked on the Nile. Come meet **Martin
-          Yousif Zebari** and **Wiley Naman Strasser** and learn about their
-          theatre journeys and what excites them about this debut production
-          coming up in April 2022 at Golden Thread.
-        cta: Watch the full episode
-        image: https://ucarecdn.com/5db01299-51de-48eb-b5fe-5be8bf1c8da4/
-        pre: Friday, February 25, 2022 at 11:00AM (PST)
-        link: https://www.youtube.com/watch?v=tgxrsXnIm1M
     heading: List of Episodes
 ---
 We are thrilled to continue our livestream series NO SUMMARY with new artists and fresh conversations, featuring live audience Q&A! We invite you to join in the conversation and immerse yourself in these exciting topics and compelling artists who defy a snappy summation. See below for a preview schedule of our upcoming episodes!
