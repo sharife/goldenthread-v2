@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: New Threads Reading Series 2022
 subtitle: ""
-background: https://ucarecdn.com/75cc899f-67d9-4f1b-9edf-2bdea5ccdbbe/-/crop/2286x509/0,167/-/preview/
+background: https://ucarecdn.com/29f171ce-19ac-4f9c-9cb0-bf5311ea5bfd/
 cta: Register Now for Free Tickets!
 link: https://goldenthread.org/tickets/
 items:
