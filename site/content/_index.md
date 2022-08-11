@@ -39,20 +39,16 @@ items:
 
 
       Donya and Davood celebrate their wedding anniversary by traveling to the same seaside town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
-  - image: https://ucarecdn.com/c22f9e92-779b-4e9f-9caf-87750aab5536/-/crop/750x365/0,0/-/preview/
-    subtitle: >-
-      New Episode of No Summary: Conversations with Artists Who Don't Fit in a
-      Box\
-
-      Meet the cast of The Language of Wild Berries\
-
-      Thursday, September 1st, 11:00 AM PST
+  - image: https://ucarecdn.com/a340cea0-e0f2-44e7-9f75-d2392e2b2878/
+    subtitle: "New Episode of No Summary: Conversations with Artists Who Don't Fit
+      in a Box"
     cta: Register Now!
     link: https://goldenthread.org/tickets/
-    text: Golden Thread's Marketing & Engagement Manager **Sheila Devitt**
-      introduces and interviews cast members of ***The Language of Wild
-      Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers **Zaya
-      Kolia**, **Damien Seperi** and **Dina Zarif** and learn about their
-      theatre journeys and what excites them about this production coming up in
-      October 2022 at Golden Thread.
+    text: >-
+      **Meet the Cast of The Language of Wild Berries**\
+
+      **Thursday, September 1st, 11:00 AM PST**
+
+
+      Golden Thread's Marketing & Engagement Manager **Sheila Devitt** introduces and interviews cast members of ***The Language of Wild Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers **Zaya Kolia**, **Damien Seperi** and **Dina Zarif** and learn about their theatre journeys and what excites them about this production coming up in October 2022 at Golden Thread.
 ---
