@@ -86,6 +86,38 @@ staff:
         www.lindamgiron.com[](www.lindamgiron.com)"
       image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/-/crop/1249x1349/57,329/-/preview/
       link: ""
+    - name: Sheila Devitt
+      credit: Marketing & Engagement Manager
+      image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
+      bio: Sheila Devitt is a San Francisco-based performer, educator, director and
+        producer. She is a graduate of the University of New Mexico, with a
+        focus on bilingual performances of Federico Garcia Lorca’s pastoral
+        trilogy, and was a founding member of Tricklock Theatre Company. She has
+        trained with Augosto Boal in Theatre of the Oppressed; Moscow Art
+        Theatre School in Stanislavsky technique and Chekhov; Viewpoints with
+        Mary Overlie; Lunatique Fantastique in found-object puppetry; Theatre of
+        Yugen and Theatre Nohgaku in classical Japanese Noh drama and Kyogen
+        comedy. She has performed nationally and internationally, including the
+        GALA Choruses Festival,  Edinburgh Fringe Festival, and the Hosho Noh
+        Theatre, Tokyo. She has collaborated with playwrights Erik Ehn, Chiori
+        Miyagawa and Katie Pearl, among others. Some favorite roles include
+        Hippolyta/ Titania in *A Midsummer Night’s Dream*, Gertrude in *Hamlet*,
+        Nurse in *Romeo and Juliet*, Hermione in *A Winter’s Tale*, La Luna in
+        *Blood Wedding*, Elizabeth Proctor in *The Crucible*, Estelle Rigault in
+        *No Exit*, Cecily Pigeon in *The Odd Couple*, and Brother of Woman with
+        Tragic Hair in the world premier of *This Lingering Life*. As a drama
+        instructor, she has taught students from pre-school through college. She
+        has served on the Board of Directors at the Vortex Theatre, ABQ;
+        produced Reading the Kilroys List; served as founding member and
+        Managing Director of Bacchus Players, summer Shakespeare at Coppola
+        Winery; Assistant Managing Director at Theatre of Yugen; Communications
+        Manager for the Bay Area Consortium of Ensemble Theatres;  a co-producer
+        of the 2020 Bay Area Women’s Theatre Festival; regional coordinator of
+        the StateraArts mentorship program. She is equally excited by classical,
+        multilingual, new and devised plays, and joyously collaborates with
+        living writers, with a special emphasis on female playwrights. She is a
+        member of Theatre Bay Area since 2003 and Theatre Communications Group
+        since 1997.
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -148,38 +180,7 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
-    - name: Sheila Devitt
-      credit: Marketing & Engagement Manager
-      image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
-      bio: Sheila Devitt is a San Francisco-based performer, educator, director and
-        producer. She is a graduate of the University of New Mexico, with a
-        focus on bilingual performances of Federico Garcia Lorca’s pastoral
-        trilogy, and was a founding member of Tricklock Theatre Company. She has
-        trained with Augosto Boal in Theatre of the Oppressed; Moscow Art
-        Theatre School in Stanislavsky technique and Chekhov; Viewpoints with
-        Mary Overlie; Lunatique Fantastique in found-object puppetry; Theatre of
-        Yugen and Theatre Nohgaku in classical Japanese Noh drama and Kyogen
-        comedy. She has performed nationally and internationally, including the
-        GALA Choruses Festival,  Edinburgh Fringe Festival, and the Hosho Noh
-        Theatre, Tokyo. She has collaborated with playwrights Erik Ehn, Chiori
-        Miyagawa and Katie Pearl, among others. Some favorite roles include
-        Hippolyta/ Titania in *A Midsummer Night’s Dream*, Gertrude in *Hamlet*,
-        Nurse in *Romeo and Juliet*, Hermione in *A Winter’s Tale*, La Luna in
-        *Blood Wedding*, Elizabeth Proctor in *The Crucible*, Estelle Rigault in
-        *No Exit*, Cecily Pigeon in *The Odd Couple*, and Brother of Woman with
-        Tragic Hair in the world premier of *This Lingering Life*. As a drama
-        instructor, she has taught students from pre-school through college. She
-        has served on the Board of Directors at the Vortex Theatre, ABQ;
-        produced Reading the Kilroys List; served as founding member and
-        Managing Director of Bacchus Players, summer Shakespeare at Coppola
-        Winery; Assistant Managing Director at Theatre of Yugen; Communications
-        Manager for the Bay Area Consortium of Ensemble Theatres;  a co-producer
-        of the 2020 Bay Area Women’s Theatre Festival; regional coordinator of
-        the StateraArts mentorship program. She is equally excited by classical,
-        multilingual, new and devised plays, and joyously collaborates with
-        living writers, with a special emphasis on female playwrights. She is a
-        member of Theatre Bay Area since 2003 and Theatre Communications Group
-        since 1997.
+    - name: Wendy Reyes
 board:
   heading: Board of Trustees
   items:
