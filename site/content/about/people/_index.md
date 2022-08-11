@@ -90,12 +90,12 @@ staff:
       credit: Marketing & Engagement Manager
       image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
       bio: >-
-        Sheila Devitt is a San Francisco-based performer, educator, director and
-        producer. She has served on the Board of Directors at the Vortex
-        Theatre, ABQ; produced Reading the Kilroys List; served as founding
-        member and Managing Director of Bacchus Players, summer Shakespeare at
-        Coppola Winery; Assistant Managing Director at Theatre of Yugen;
-        Communications Manager for the Bay Area Consortium of Ensemble
+        Sheila Devitt (she/her) is a San Francisco-based performer, educator,
+        director and producer. She has served on the Board of Directors at the
+        Vortex Theatre, ABQ; produced Reading the Kilroys List; served as
+        founding member and Managing Director of Bacchus Players, summer
+        Shakespeare at Coppola Winery; Assistant Managing Director at Theatre of
+        Yugen; Communications Manager for the Bay Area Consortium of Ensemble
         Theatres;  a co-producer of the 2020 Bay Area Women’s Theatre Festival;
         regional coordinator of the StateraArts mentorship program. As a drama
         instructor, she has taught students from pre-school through college. 
