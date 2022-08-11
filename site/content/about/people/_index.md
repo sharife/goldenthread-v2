@@ -181,6 +181,7 @@ staff:
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
     - name: Wendy Reyes
+      credit: Production Associate
 board:
   heading: Board of Trustees
   items:
