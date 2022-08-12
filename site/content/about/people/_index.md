@@ -110,6 +110,16 @@ staff:
         She is a graduate of the University of New Mexico, with a focus on bilingual performances of Federico Garcia Lorca’s pastoral trilogy, and was a founding member of Tricklock Theatre Company. She is a member of Theatre Bay Area since 2003 and Theatre Communications Group since 1997.
     - name: Wendy Reyes
       credit: Production Associate
+      image: https://ucarecdn.com/2f9929a3-48e5-49bb-aa5f-b40e8e22909d/
+      bio: Wendy Reyes is a Mexican-American, multimedia artist from St. Louis,
+        Missouri. She received her Bachelor in Media Studies, minor in
+        Chicanx-Latinx Studies from the University of San Francisco. With her
+        skills in video and audio production, she aims to create engaging and
+        educational material that brings awareness to social injustices in order
+        to promote a healthy and just path for marginalized communities. Wendy
+        is now based in the Bay Area and is the Production Associate at Golden
+        Thread Productions and a current participant of KALW’s radio journalism
+        program in San Francisco, CA.
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
