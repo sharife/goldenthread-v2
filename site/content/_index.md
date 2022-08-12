@@ -21,7 +21,7 @@ items:
 
 
       Proof of vaccination with booster and a mask are required for entry.
-  - image: https://ucarecdn.com/a340cea0-e0f2-44e7-9f75-d2392e2b2878/
+  - image: https://ucarecdn.com/8b6409cb-bed1-4ad6-a227-ac0e3f45d6bd/
     subtitle: "**New Episode of No Summary: Conversations with Artists Who Don't Fit
       in a Box**"
     cta: Register Now!
