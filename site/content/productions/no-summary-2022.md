@@ -26,9 +26,9 @@ lists:
 
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
         cta: Register now!
-        image: https://ucarecdn.com/113a85e5-fcca-4135-8efb-e71520b6614c/
+        image: https://ucarecdn.com/e3650759-5e6d-4956-9084-b92cbd70468e/
         pre: Thursday, September 1, 2022 at 11:00AM (PST)
-        link: https://goldenthread.org/tickets/
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007VG5xUAG
       - itemstart: 2022-06-24T18:00:24.122Z
         itemend: 2022-06-24T20:00:24.182Z
         title: "What can the wise fool Nasrudin teach us? Bringing Middle Eastern
