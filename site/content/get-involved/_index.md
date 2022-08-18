@@ -12,10 +12,6 @@ intro: >
 
 This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the day-to-day management of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation. **[Learn more](/get-involved/jobs/).**
 
-**Fairytale Players Program Manager**
-
-This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to manage a unique and dynamic theatre for young audience program through the production and touring of plays that broaden and develop deeper appreciation for diverse cultural traditions. **[Learn more](/get-involved/jobs/).**
-
 **Production, Design & Technical Personnel**
 
 We accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
@@ -23,7 +19,7 @@ We accept ongoing resumes with letters of interest in Golden Thread from stage m
 - - -
 
 **CASTING**\
-We are now accepting video auditions for our 2022 Season, including two mainstage productions, and Fairytale Players program! **[Learn more](/get-involved/casting/).**
+We have closed auditions for our 2022 Season, including two mainstage productions, and Fairytale Players program. Stay tuned for our 2023 season announcement! **[Learn more](/get-involved/casting/).**
 
 - - -
 
