@@ -23,12 +23,14 @@ misc: |-
 photos:
   items:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
+    - image: https://ucarecdn.com/4e633dae-d0fb-4632-9386-c82a47e5aff5/
+    - image: https://ucarecdn.com/5cb98226-2645-4b7e-a8d1-55583c7277d4/
 photos2:
   items:
-    - image: https://ucarecdn.com/8f644991-5619-4c54-ab0e-4073b4407ace/
+    - image: ""
 photos3:
   items:
-    - image: https://ucarecdn.com/8b9b9c53-d104-416a-849b-881873a8c041/
+    - image: ""
 ---
 Our 2022 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
 
