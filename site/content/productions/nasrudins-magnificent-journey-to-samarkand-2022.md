@@ -20,6 +20,15 @@ misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
 
   Appropriate for families and children, ages 5-15
+photos:
+  items:
+    - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
+photos2:
+  items:
+    - image: https://ucarecdn.com/8f644991-5619-4c54-ab0e-4073b4407ace/
+photos3:
+  items:
+    - image: https://ucarecdn.com/8b9b9c53-d104-416a-849b-881873a8c041/
 ---
 Our 2022 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
 
