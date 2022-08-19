@@ -5,9 +5,9 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
-### **Now Accepting Submissions for ReOrient Festival of Short Plays 2023**
+### **THANK YOU for your Submissions to ReOrient Festival of Short Plays 2023**
 
-Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission deadline for consideration in **ReOrient Festival 2023** is **July 30, 2022.**
+Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission period for **ReOrient Festival 2023** is **now closed.**
 
 **Eligibility:**
 
@@ -16,12 +16,6 @@ Produced once every two-years, ReOrient Festival showcases the diversity of voic
 • Plays about the Middle East by playwrights of any cultural heritage
 
 • Plays must be in English
-
-**Submission Guidelines:**
-
-• Complete the **[ReOrient Festival of Short Plays Submission Form](https://forms.gle/TKEbqE1A3FaUuxVd6).**
-
-• Upload a pdf of your play to the Play Submission Form.
 
 • Length: 10-30 minutes. One submission only per playwright 
 
@@ -37,11 +31,7 @@ Produced once every two-years, ReOrient Festival showcases the diversity of voic
 
 • Exploration of Middle Eastern performance traditions
 
-**Deadline:** July 30, 2022 
-
-**For Inquiries please email:**
-submissions@goldenthread.org
-Subject Line: ReOrient 2023
+**In 2024, we will open submissions for ReOrient 2025.**
 
 ![](https://ucarecdn.com/f5278e9a-140a-455a-914a-818fc36aff5b/)
 
