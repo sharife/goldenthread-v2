@@ -28,6 +28,7 @@ photos:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
     - image: https://ucarecdn.com/4e633dae-d0fb-4632-9386-c82a47e5aff5/
     - image: https://ucarecdn.com/5cb98226-2645-4b7e-a8d1-55583c7277d4/
+  heading: "Photos from Spring 2022 tour. Photo Credit: Amal B Photography"
 photos2:
   items:
     - image: ""
