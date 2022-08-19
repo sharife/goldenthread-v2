@@ -5,9 +5,9 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
-### **Thank You for your Submissions to ReOrient Festival of Short Plays 2023**
+### **THANK YOU for your Submissions to ReOrient Festival of Short Plays 2023**
 
-Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. Submissions for **ReOrient Festival 2023** is **now closed.**
+Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission period for **ReOrient Festival 2023** is **now closed.**
 
 **Eligibility:**
 
