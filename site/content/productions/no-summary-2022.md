@@ -9,7 +9,7 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
   how it impacts their work and artistic choices.
-background: https://ucarecdn.com/4f00757d-2b58-4a80-86eb-0148b5a657c4/
+background: https://ucarecdn.com/900e43e8-8af1-4b5b-9984-9e2b325e4a52/
 lists:
   - items:
       - itemstart: 2022-09-01T18:00:00.000Z
