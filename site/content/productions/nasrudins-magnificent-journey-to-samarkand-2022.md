@@ -8,6 +8,7 @@ end: ""
 description: ""
 background: https://ucarecdn.com/564df1be-5f9e-4684-aa74-87bf2ccb4de1/
 titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
+videos: []
 writer: Torange Yeghiazarian
 director: Sarah Al-Kassab
 featuring: Bidalia Albanese, Leyla Modirzadeh
@@ -18,6 +19,18 @@ misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
 
   Appropriate for families and children, ages 5-15
+photos:
+  items:
+    - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
+    - image: https://ucarecdn.com/4e633dae-d0fb-4632-9386-c82a47e5aff5/
+    - image: https://ucarecdn.com/5cb98226-2645-4b7e-a8d1-55583c7277d4/
+  heading: "Photos from Spring 2022 tour. "
+photos2:
+  items:
+    - image: ""
+photos3:
+  items:
+    - image: ""
 ---
 Our 2022 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
 
