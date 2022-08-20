@@ -52,8 +52,10 @@ lists:
         subtitle: by Hend Ayoub, directed by Carey Perloff
         pre: ""
         text: >-
-          An autobiographical solo show about a young woman's journey to
-          retrieve and imagine a new sense of home. Through a panoply of vivid
+          In Israel, she’s a Palestinian. In the Arab world, she's an Israeli.
+          In America, she's an Other. Home? If only she can find it. An
+          autobiographical solo show about a young woman's journey to retrieve
+          and imagine a new sense of home. Through a panoply of vivid
           characters—from a five-year-old who just wants to join the
           neighborhood's Purim party to a casting director in Egypt who can't
           forget where she comes from, to her dying mother who longs for her to
