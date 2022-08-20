@@ -100,6 +100,9 @@ lists:
           Presented in collaboration with Z Space and San Francisco Playhouse.
 
 
+          In Israel, she’s a Palestinian. In the Arab world, she's an Israeli. In America, she's an Other. Home? If only she can find it. 
+
+
           Through a panoply of vivid characters—from a five-year-old who just wants to join the neighborhood's Purim party to a casting director in Egypt who can't forget where she comes from, to her dying mother who longs for her to find a place in the world—Hend shares a deeply personal and true story about her search for the place that many of us take for granted: Home.
         cta: Register for HOME?
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlVUAS
