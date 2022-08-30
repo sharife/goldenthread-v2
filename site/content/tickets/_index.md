@@ -2,51 +2,6 @@
 title: Buy Tickets
 lists:
   - items:
-      - title: What to Expect When You're Simulating Expecting
-        pre: ""
-        subtitle: by Nabra Nelson, directed by Susannah Martin
-        text: >-
-          In the year 2080, the new normal involves taboos on pregnancy, car
-          ownership, red meat, and suburban homes. It involves travel
-          restrictions, a mixed-race majority, ongoing climate disasters, and
-          constant uncertainty. But other than that, everything is the old
-          normal. Except for Hoda’s experimental pregnancy. As Hoda gets
-          ever-closer to her dream life – a home safe in Canada, away from
-          Seattle’s floods and wildfires, and a nuclear family to settle down
-          with – things don’t seem to be going as planned. As she waits for her
-          husband Ahmed to adopt a child from Egypt to round out their family,
-          she starts getting pains that her doctor can’t explain, and she meets
-          an intriguing new friend named JeeYoung. The clock ticks as the Big
-          One approaches to wash away Hoda’s plans, but she is determined to fly
-          away in time. An intense yet comedic experience, this near-futuristic
-          play simulates the unexpected.
-
-
-          **Tuesday, August 16, 2022, at 7 PM | Brava Theater Center (2781 24th St., San Francisco, CA  94110)**
-        cta: Register now for free!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwnqUAC
-        image: https://ucarecdn.com/2e314e23-2690-43b9-a1c1-f57355a2a3ca/
-      - title: Pilgrimage
-        pre: ""
-        subtitle: by Humaira Ghilzai and Bridgette Portman, directed by Aidaa Peerzada
-        text: >-
-          Five Muslim American women embark on an Umrah, a minor pilgrimage, to
-          Mecca. Noor, an Afghan American immigrant with a secret, hopes the
-          journey will give her the absolution she desperately seeks. Her tech
-          CEO daughter Maryam, struggling with legal woes, sees the trip as a
-          way to rebrand herself, while Noor’s nieces, the estranged sisters
-          Sosan and Nadia, work to mend their fractured relationship while
-          fulfilling the Umrah rituals as a requisite to receive their
-          inheritance. Meanwhile, Fatima, a Black Muslim convert, hopes to find
-          her biological mother. Will these five women find the spiritual
-          reawakening they seek, or will secrets, rivalries, and old wounds tear
-          them apart?
-
-
-          **Tuesday, August 23, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
-        cta: Register now for free!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlfUAC
-        image: https://ucarecdn.com/05f5ee59-02c6-4b03-8773-c6a72e9655a2/
       - title: HOME?
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007UwlVUAS
         subtitle: by Hend Ayoub, directed by Carey Perloff
@@ -65,7 +20,7 @@ lists:
 
           **Tuesday, August 30, 2022 at 7 PM | Z Below (470 Florida St, San Francisco, CA 94110)**
         cta: Register now for free!
-        image: https://ucarecdn.com/f6eaa19b-7132-4042-9322-4773a2056e42/
+        image: https://ucarecdn.com/56528e79-0e03-4b1b-bcff-d4646e6e2d6c/
     heading: New Threads Staged Reading Series 2022
   - heading: "No Summary: Conversations with Artists Who Don't Fit in a Box"
     items:
