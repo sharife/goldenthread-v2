@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: New Threads Reading Series 2022
+headline: The Language of Wild Berries
 subtitle: ""
 background: https://ucarecdn.com/cdd2151d-50f1-47f2-a93b-8d7492889b75/
 cta: Buy Tickets!
