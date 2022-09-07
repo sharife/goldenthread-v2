@@ -121,6 +121,25 @@ cast:
         like to give a big thanks to the cast and crew of this quaint production
         and to all supporters of the arts.
       image: https://ucarecdn.com/8b061aa4-3bd2-4d44-bdaf-1956b269584d/
+    - name: Dina Zarif
+      credit: Donya
+      image: https://ucarecdn.com/a5ed0ac0-1b6f-41a7-ab1e-2a30602018d0/
+      bio: >-
+        Born and raised in Iran, Dina Zarif is a San Francisco based
+        multidisciplinary performing artist, designer, curator and art activist.
+
+
+        As an actress, Zarif has worked and trained under Bahram Beyzai, the critically acclaimed Master at Stanford Iranian Studies Department and appeared in *Ardaviraf’s Report*, as the role of Dancer/Singer in *Tarabnameh* musical, and the Nurse in *Crossroads*. She is proud to play the title role Marjan in the current Beyzai production, *Dash Akol According to Marjan*. She performed as Leyla with Golden Thread Productions in the *Leyla & Majnun* staged reading, opening for the world premiere of the Mark Morris Dance Group and Silk Road Ensemble collaboration at Cal Performances.
+
+
+        She is the title role of the full length feature film “MITRA” 2021, which was premiered in International Film Festival Rotterdam in February 2021.
+
+        She was the shadow actress, Princess Roudabeh, as well as costume designer in the Cinematic shadow play *Feathers of Fire, a Persian Epic*. This received the 2019 UNIMA award for excellence in live performance and design which had more than 100 performances nationally and internationally.
+
+        As a singer she combines western classical singing with Middle Eastern styles inspired from her Persian roots to develop her unique sound. Some of her vocal credits include Brava Theatre, Yerba Buena Gardens Festival, SF International Arts Festival, Palace of Fine Art and Asian Art Museum. 
+
+
+        Dina is the Artistic and Managing Director at Red Poppy Art House which is an incubator for artists of multiple disciplines in San Francisco. Dina received her MA in Landscape Architecture from the University Of Tehran, College Of Fine Arts.
 photos:
   heading: ""
 bottom:
