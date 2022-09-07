@@ -112,6 +112,14 @@ cast:
         Ballet Theater as Sky Masterson. He just participated in the Hollywood
         Fringe Festival and a tour of *Romeo and Juliet*! Zaya is very excited
         to share this very important story with you all!
+    - name: Damien Seperi
+      credit: Davood
+      bio: Damien Seperi is a San Francisco Bay Area local actor with over a a dozen
+        theatre credits. He was last seen with Golden Thread as Saïd in
+        *Autobiography of a Terrorist*. Damien has also performed with San
+        Francisco Shakespeare, Marin Shakespeare and off Broadway West. He would
+        like to give a big thanks to the cast and crew of this quaint production
+        and to all supporters of the arts.
 photos:
   heading: ""
 bottom:
