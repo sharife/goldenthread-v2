@@ -98,7 +98,13 @@ photos:
   heading: ""
 bottom:
   heading: ""
-  text: ""
+  text: >-
+    Golden Thread thanks the **Sam Mazza Foundation**, the **William and Flora
+    Hewlett Foundation**, and the **Doris Duke Charitable Foundation** for their
+    support.
+
+
+    Golden Thread is a resident company of Potrero Stage, operated by PlayGround. This production is made possible in part through the Potrero Stage Presenting Program.
 ---
 ### <center>COVID Health & Safety</center>
 
