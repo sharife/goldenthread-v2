@@ -24,8 +24,11 @@ videos:
   - id: 3weZzbUsH00
 writer: Naghmeh Samini
 director: Torange Yeghiazarian
-featuring: ""
+featuring: Zaya Kolia, Damien Seperi, Dina Zarif
+designteam: Samantha Alexa (props), Cassie Barnes (lights), Kate Boyd (scenic),
+  Brooke Jennings (costumes), Derel Schmidt (sound)
 translator: Torange Yeghiazarian
+dramaturg: "Heather Rastovac Akbarzadeh "
 additional: ""
 stage: Potrero Stage
 address: 1695 18th St, San Francisco, CA
