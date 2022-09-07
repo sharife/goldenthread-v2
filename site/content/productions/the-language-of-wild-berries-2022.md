@@ -120,6 +120,7 @@ cast:
         Francisco Shakespeare, Marin Shakespeare and off Broadway West. He would
         like to give a big thanks to the cast and crew of this quaint production
         and to all supporters of the arts.
+      image: https://ucarecdn.com/8b061aa4-3bd2-4d44-bdaf-1956b269584d/
 photos:
   heading: ""
 bottom:
