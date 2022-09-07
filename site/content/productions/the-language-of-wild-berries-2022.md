@@ -94,6 +94,24 @@ cast:
       credit: Director / Translator
       image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
+    - name: Zaya Kolia
+      credit: Danial
+      image: https://ucarecdn.com/8373efb4-973c-44bd-8ce9-45b27e94142f/
+      bio: Zaya Kolia is an Assyrian Bay Area native. He received his Bachelor in Fine
+        Arts in Acting from the Academy of Art University where his credits
+        include Flan in *Six Degrees of Separation*, Joshua and Martin in *Cloud
+        Nine*, Barnett in *Crimes of the Heart*, Aldolpho in *The Drowsy
+        Chaperone* and Kevin Rosario in *In the Heights*. Other credits include
+        Frank Jr. in *Saturday Night Fever* at Broadway by the Bay, *The Wizard
+        of Oz* at Berkeley Playhouse, Khadim in *The North Pool* at Bread &
+        Butter, The Captain in *Anything Goes* at Hillbarn Theatre, Ludovic and
+        Augenti in *Passion*, Harry and Martin in *Cloud Nine* both at The
+        Custom Made Theatre Company, Azad in *On the Periphery* with Golden
+        Thread and Crowded Fire Theatre Company, *Tiny Beautiful Things* at Los
+        Altos Stage Company and most recently *Guys and Dolls* at Peninsula
+        Ballet Theater as Sky Masterson. He just participated in the Hollywood
+        Fringe Festival and a tour of *Romeo and Juliet*! Zaya is very excited
+        to share this very important story with you all!
 photos:
   heading: ""
 bottom:
