@@ -38,7 +38,7 @@ ticketinfo: Tickets $20-$100
 externallink: ""
 externallinklabel: ""
 cast:
-  heading: Artistic Team
+  heading: Creative Team
   items:
     - bio: "Naghmeh Samini is an award-winning playwright, scriptwriter and Assistant
         Professor in Dramatic Literature at the Faculty of Music and Performing
