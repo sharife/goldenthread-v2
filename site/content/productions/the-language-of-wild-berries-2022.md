@@ -94,11 +94,71 @@ cast:
       credit: Director / Translator
       image: https://ucarecdn.com/5b45721f-6a3d-4468-9639-59c68981e488/-/crop/2968x3264/1079,0/-/preview/
       name: Torange Yeghiazarian
+    - name: Zaya Kolia
+      credit: Danial
+      image: https://ucarecdn.com/8373efb4-973c-44bd-8ce9-45b27e94142f/
+      bio: Zaya Kolia is an Assyrian Bay Area native. He received his Bachelor in Fine
+        Arts in Acting from the Academy of Art University where his credits
+        include Flan in *Six Degrees of Separation*, Joshua and Martin in *Cloud
+        Nine*, Barnett in *Crimes of the Heart*, Aldolpho in *The Drowsy
+        Chaperone* and Kevin Rosario in *In the Heights*. Other credits include
+        Frank Jr. in *Saturday Night Fever* at Broadway by the Bay, *The Wizard
+        of Oz* at Berkeley Playhouse, Khadim in *The North Pool* at Bread &
+        Butter, The Captain in *Anything Goes* at Hillbarn Theatre, Ludovic and
+        Augenti in *Passion*, Harry and Martin in *Cloud Nine* both at The
+        Custom Made Theatre Company, Azad in *On the Periphery* with Golden
+        Thread and Crowded Fire Theatre Company, *Tiny Beautiful Things* at Los
+        Altos Stage Company and most recently *Guys and Dolls* at Peninsula
+        Ballet Theater as Sky Masterson. He just participated in the Hollywood
+        Fringe Festival and a tour of *Romeo and Juliet*! Zaya is very excited
+        to share this very important story with you all!
+    - name: Damien Seperi
+      credit: Davood
+      bio: Damien Seperi is a San Francisco Bay Area local actor with over a a dozen
+        theatre credits. He was last seen with Golden Thread as Saïd in
+        *Autobiography of a Terrorist*. Damien has also performed with San
+        Francisco Shakespeare, Marin Shakespeare and off Broadway West. He would
+        like to give a big thanks to the cast and crew of this quaint production
+        and to all supporters of the arts.
+      image: https://ucarecdn.com/8b061aa4-3bd2-4d44-bdaf-1956b269584d/
+    - name: Dina Zarif
+      credit: Donya
+      image: https://ucarecdn.com/a5ed0ac0-1b6f-41a7-ab1e-2a30602018d0/
+      bio: >-
+        Born and raised in Iran, Dina Zarif is a San Francisco based
+        multidisciplinary performing artist, designer, curator and art activist.
+
+
+        As an actress, Zarif has worked and trained under Bahram Beyzai, the critically acclaimed Master at Stanford Iranian Studies Department and appeared in *Ardaviraf’s Report*, as the role of Dancer/Singer in *Tarabnameh* musical, and the Nurse in *Crossroads*. She is proud to play the title role Marjan in the current Beyzai production, *Dash Akol According to Marjan*. She performed as Leyla with Golden Thread Productions in the *Leyla & Majnun* staged reading, opening for the world premiere of the Mark Morris Dance Group and Silk Road Ensemble collaboration at Cal Performances.
+
+
+        She is the title role of the full length feature film “MITRA” 2021, which was premiered in International Film Festival Rotterdam in February 2021.
+
+        She was the shadow actress, Princess Roudabeh, as well as costume designer in the Cinematic shadow play *Feathers of Fire, a Persian Epic*. This received the 2019 UNIMA award for excellence in live performance and design which had more than 100 performances nationally and internationally.
+
+        As a singer she combines western classical singing with Middle Eastern styles inspired from her Persian roots to develop her unique sound. Some of her vocal credits include Brava Theatre, Yerba Buena Gardens Festival, SF International Arts Festival, Palace of Fine Art and Asian Art Museum. 
+
+
+        Dina is the Artistic and Managing Director at Red Poppy Art House which is an incubator for artists of multiple disciplines in San Francisco. Dina received her MA in Landscape Architecture from the University Of Tehran, College Of Fine Arts.
+mentions:
+  heading: Creative Team
+  text: "**Samantha Alexa** (Props Design), **Atusa Assadi** (Assistant Stage
+    Manager), **Cassie Barnes** (Lighting Design), **Kate Boyd** (Scenic
+    Design), **Megan Hillard** (Technical Director), **Dan Holland** (Production
+    Manager), **Brooke Jennings** (Costume Design), **Camille La'akea Wong**
+    (Stage Manager), **Heather Rastovac Akbarzadeh** (Dramaturg), **Derek
+    Schmidt** (Sound Design)"
 photos:
   heading: ""
 bottom:
   heading: ""
-  text: ""
+  text: >-
+    Golden Thread thanks the **Sam Mazza Foundation**, the **William and Flora
+    Hewlett Foundation**, and the **Doris Duke Charitable Foundation** for their
+    support.
+
+
+    Golden Thread is a resident company of Potrero Stage, operated by PlayGround. This production is made possible in part through the Potrero Stage Presenting Program.
 ---
 ### <center>COVID Health & Safety</center>
 
