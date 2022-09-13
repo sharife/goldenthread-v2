@@ -102,6 +102,7 @@ cast:
 
 
         On stage, he has appeared in productions and workshops at the NY Public Theater, Cincinnati Playhouse in the Park, Musical Theatre West, A Noise Within, and the Pasadena Playhouse. He is a graduate of Stanford and USC's MFA in Acting Program.
+      link: https://www.aminelgamal.com/
 photos:
   heading: "Photo Gallery: production"
   items:
