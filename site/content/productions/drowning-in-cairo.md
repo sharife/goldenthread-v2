@@ -88,6 +88,20 @@ cast:
         (2019), and a Fulbright alumnus with an MA in Theater Studies from
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
+    - name: Amin El Gamal*
+      credit: Moody
+      image: https://ucarecdn.com/6ad9da6b-6236-4ab2-a0fd-c7a37e63857a/
+      bio: >-
+        Amin El Gamal is a first-generation Egyptian American actor originally
+        from the Bay Area. He’s best known for playing Cyclops on Fox's Prison
+        Break revival—which made him the first openly queer Muslim actor to play
+        a leading role on television. 
+
+
+        Amin’s other TV work includes The Newsroom, Shameless, Transparent, The Librarians, Everything's Gonna Be Okay, and Good Trouble. His film work includes Message from the King (opposite Chadwick Boseman), Namour, First Love, the upcoming Spring Bloom, and the gay Muslim rom-com Breaking Fast (now on Hulu). 
+
+
+        On stage, he has appeared in productions and workshops at the NY Public Theater, Cincinnati Playhouse in the Park, Musical Theatre West, A Noise Within, and the Pasadena Playhouse. He is a graduate of Stanford and USC's MFA in Acting Program.
 photos:
   heading: "Photo Gallery: production"
   items:
