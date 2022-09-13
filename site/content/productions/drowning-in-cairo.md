@@ -103,6 +103,21 @@ cast:
 
         On stage, he has appeared in productions and workshops at the NY Public Theater, Cincinnati Playhouse in the Park, Musical Theatre West, A Noise Within, and the Pasadena Playhouse. He is a graduate of Stanford and USC's MFA in Acting Program.
       link: https://www.aminelgamal.com/
+    - name: Wiley Naman Strasser*
+      credit: Khalid
+      image: https://ucarecdn.com/9c45e003-4bfd-45c5-b2e6-f05029761d9e/
+      bio: Wiley Naman Strasser is an Armenian-American performer native to the San
+        Francisco Bay Area. Most recently he appeared in the Broadway national
+        tour of *A Christmas Carol* at the Golden Gate Theater in San Francisco,
+        a Tony Award-winning production originally conceived at the Old Vic in
+        London. Other credits include work with Golden Thread Productions, San
+        Francisco Playhouse, Shotgun Players, Aurora Theatre Company, Berkeley
+        Rep and world premieres with Detour Dance, Hope Mohr Dance, 
+        Magic Theatre, Cutting Ball, Crowded Fire, and the Los Angeles Theater
+        Center. He has trained internationally with Teatr Zar and Teatro
+        Yuyachkani, and received his degree from UCLA's School of Theater, Film
+        and Television.
+      link: http://www.wileynamanstrasser.com/
 photos:
   heading: "Photo Gallery: production"
   items:
