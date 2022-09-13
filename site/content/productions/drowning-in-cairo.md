@@ -118,6 +118,23 @@ cast:
         Yuyachkani, and received his degree from UCLA's School of Theater, Film
         and Television.
       link: http://www.wileynamanstrasser.com/
+    - name: Martin Yousif Zebari
+      credit: Taha
+      image: https://ucarecdn.com/eab6b84f-f184-4165-b78d-13261dc80ae8/-/crop/1840x1306/119,0/-/preview/
+      bio: "Martin Zebari (he/they) is an Iraqi, Assyrian-American actor, playwright
+        and recent Los Angeles transplant. As an actor, he has worked with
+        Goodman Theatre (*The Winter’s Tale*, *Yasmina’s Necklace*), Steppenwolf
+        Theatre Company (*Guards at the Taj*), Chicago Shakespeare Theatre
+        (*Mary Stuart*), Court Theatre (*The Hard Problem*), Atlantic Theatre
+        Company (*For the Right Reasons*), National Queer Theatre
+        (*Mosque4Mosque*), The Angle Project (*Unpitied*, *Lost and Guided*),
+        Broken Nose Theatre Company (*Human Terrain*), Milwaukee Repertory
+        Theatre (*A Christmas Carol*, *Dreamgirls*), Illinois Shakespeare
+        Festival (*Macbeth*, *The Comedy of Errors*, *Failure: A Love Story*,
+        *The Magical Mind of Billy Shakespeare*) and has appeared on
+        NBC’s Chicago Med. Martin holds a BFA in Acting from the Arts University
+        of Bournemouth, England and is represented by Stewart Talent Chicago."
+      link: https://www.martinyousifzebari.com/
 photos:
   heading: "Photo Gallery: production"
   items:
