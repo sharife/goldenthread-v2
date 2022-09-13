@@ -147,10 +147,10 @@ photos:
 photos2:
   items:
     - image: https://ucarecdn.com/373ffb37-61af-44aa-aeab-62cbe1d3e0f0/
+    - image: https://ucarecdn.com/4bef3b17-9006-4ec6-b8f9-4ab5b9bed027/
     - image: https://ucarecdn.com/b93a7089-3132-4fc2-9779-139a2efb62c2/
     - image: https://ucarecdn.com/4040f967-a7d8-4d85-9ed9-e7e9bc7cee98/
     - image: https://ucarecdn.com/3955393d-e57e-4704-83be-ddf0de9f74d7/
-    - image: https://ucarecdn.com/4bef3b17-9006-4ec6-b8f9-4ab5b9bed027/
   heading: "Photo Gallery: publicity"
 bottom:
   logos:
