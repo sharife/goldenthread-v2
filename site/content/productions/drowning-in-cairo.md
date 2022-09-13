@@ -88,6 +88,70 @@ cast:
         (2019), and a Fulbright alumnus with an MA in Theater Studies from
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
+    - name: Amin El Gamal*
+      credit: Moody
+      image: https://ucarecdn.com/6ad9da6b-6236-4ab2-a0fd-c7a37e63857a/
+      bio: >-
+        Amin El Gamal is a first-generation Egyptian American actor originally
+        from the Bay Area. He’s best known for playing Cyclops on Fox's Prison
+        Break revival—which made him the first openly queer Muslim actor to play
+        a leading role on television. 
+
+
+        Amin’s other TV work includes The Newsroom, Shameless, Transparent, The Librarians, Everything's Gonna Be Okay, and Good Trouble. His film work includes Message from the King (opposite Chadwick Boseman), Namour, First Love, the upcoming Spring Bloom, and the gay Muslim rom-com Breaking Fast (now on Hulu). 
+
+
+        On stage, he has appeared in productions and workshops at the NY Public Theater, Cincinnati Playhouse in the Park, Musical Theatre West, A Noise Within, and the Pasadena Playhouse. He is a graduate of Stanford and USC's MFA in Acting Program.
+      link: https://www.aminelgamal.com/
+    - name: Wiley Naman Strasser*
+      credit: Khalid
+      image: https://ucarecdn.com/9c45e003-4bfd-45c5-b2e6-f05029761d9e/
+      bio: Wiley Naman Strasser is an Armenian-American performer native to the San
+        Francisco Bay Area. Most recently he appeared in the Broadway national
+        tour of *A Christmas Carol* at the Golden Gate Theater in San Francisco,
+        a Tony Award-winning production originally conceived at the Old Vic in
+        London. Other credits include work with Golden Thread Productions, San
+        Francisco Playhouse, Shotgun Players, Aurora Theatre Company, Berkeley
+        Rep and world premieres with Detour Dance, Hope Mohr Dance, 
+        Magic Theatre, Cutting Ball, Crowded Fire, and the Los Angeles Theater
+        Center. He has trained internationally with Teatr Zar and Teatro
+        Yuyachkani, and received his degree from UCLA's School of Theater, Film
+        and Television.
+      link: http://www.wileynamanstrasser.com/
+    - name: Martin Yousif Zebari
+      credit: Taha
+      image: https://ucarecdn.com/eab6b84f-f184-4165-b78d-13261dc80ae8/-/crop/1840x1306/119,0/-/preview/
+      bio: "Martin Zebari (he/they) is an Iraqi, Assyrian-American actor, playwright
+        and recent Los Angeles transplant. As an actor, he has worked with
+        Goodman Theatre (*The Winter’s Tale*, *Yasmina’s Necklace*), Steppenwolf
+        Theatre Company (*Guards at the Taj*), Chicago Shakespeare Theatre
+        (*Mary Stuart*), Court Theatre (*The Hard Problem*), Atlantic Theatre
+        Company (*For the Right Reasons*), National Queer Theatre
+        (*Mosque4Mosque*), The Angle Project (*Unpitied*, *Lost and Guided*),
+        Broken Nose Theatre Company (*Human Terrain*), Milwaukee Repertory
+        Theatre (*A Christmas Carol*, *Dreamgirls*), Illinois Shakespeare
+        Festival (*Macbeth*, *The Comedy of Errors*, *Failure: A Love Story*,
+        *The Magical Mind of Billy Shakespeare*) and has appeared on
+        NBC’s Chicago Med. Martin holds a BFA in Acting from the Arts University
+        of Bournemouth, England and is represented by Stewart Talent Chicago."
+      link: https://www.martinyousifzebari.com/
+photos:
+  heading: "Photo Gallery: production"
+  items:
+    - image: https://ucarecdn.com/9167177e-4cf2-4e9d-98b0-308a46546514/
+    - image: https://ucarecdn.com/6d8fb1fa-bf7f-4e2a-be2a-679b89c72a55/
+    - image: https://ucarecdn.com/86105653-d179-4c45-8554-148de9f96935/
+    - image: https://ucarecdn.com/12245418-09b9-41f0-a779-31ae107586b6/
+    - image: https://ucarecdn.com/7c495a71-abc9-42e2-a7c2-c3ee86f9a883/
+    - image: https://ucarecdn.com/0b56713e-112b-44d2-87ec-abef0cbdd1de/
+photos2:
+  items:
+    - image: https://ucarecdn.com/373ffb37-61af-44aa-aeab-62cbe1d3e0f0/
+    - image: https://ucarecdn.com/b93a7089-3132-4fc2-9779-139a2efb62c2/
+    - image: https://ucarecdn.com/4040f967-a7d8-4d85-9ed9-e7e9bc7cee98/
+    - image: https://ucarecdn.com/3955393d-e57e-4704-83be-ddf0de9f74d7/
+    - image: https://ucarecdn.com/4bef3b17-9006-4ec6-b8f9-4ab5b9bed027/
+  heading: "Photo Gallery: publicity"
 bottom:
   logos:
     - image: https://ucarecdn.com/c3c8ce85-5651-4a7f-b422-791c9622bfb9/
