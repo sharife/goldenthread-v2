@@ -89,7 +89,7 @@ cast:
         Central Washington University (2011). Drowning in Cairo is Sahar’s
         directorial debut at Golden Thread Productions."
 photos:
-  heading: Photo Gallery
+  heading: "Photo Gallery: production"
   items:
     - image: https://ucarecdn.com/9167177e-4cf2-4e9d-98b0-308a46546514/
     - image: https://ucarecdn.com/6d8fb1fa-bf7f-4e2a-be2a-679b89c72a55/
@@ -97,6 +97,14 @@ photos:
     - image: https://ucarecdn.com/12245418-09b9-41f0-a779-31ae107586b6/
     - image: https://ucarecdn.com/7c495a71-abc9-42e2-a7c2-c3ee86f9a883/
     - image: https://ucarecdn.com/0b56713e-112b-44d2-87ec-abef0cbdd1de/
+photos2:
+  items:
+    - image: https://ucarecdn.com/373ffb37-61af-44aa-aeab-62cbe1d3e0f0/
+    - image: https://ucarecdn.com/b93a7089-3132-4fc2-9779-139a2efb62c2/
+    - image: https://ucarecdn.com/4040f967-a7d8-4d85-9ed9-e7e9bc7cee98/
+    - image: https://ucarecdn.com/3955393d-e57e-4704-83be-ddf0de9f74d7/
+    - image: https://ucarecdn.com/4bef3b17-9006-4ec6-b8f9-4ab5b9bed027/
+  heading: "Photo Gallery: publicity"
 bottom:
   logos:
     - image: https://ucarecdn.com/c3c8ce85-5651-4a7f-b422-791c9622bfb9/
