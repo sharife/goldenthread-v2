@@ -22,7 +22,7 @@ description: >-
   In September 2022, our 17th episode of NO SUMMARY: Conversations with Artists Who Don't Fit in a Box features the cast of our 2022 production: **Zaya Kolia**, **Damien Seperi**, **Dina Zarif**.
 background: https://ucarecdn.com/04b5fe61-b128-4ccb-ae73-3092977ec67c/
 titleimage: https://ucarecdn.com/70072ca2-3b57-421f-b737-9bf42c828f93/
-programlabel: Learn more about Iran in the digital dramaturgy packet
+programlabel: View the digital dramaturgy packet
 program: https://ucarecdn.com/09ca6dd1-25e6-48ab-8bc0-798a1afa38a0/
 videos:
   - id: 3weZzbUsH00
