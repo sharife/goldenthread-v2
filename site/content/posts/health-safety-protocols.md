@@ -9,16 +9,15 @@ Our health and safety protocols have been adapted to comply with current health 
 
 Our current measures include:
 
-* Requiring proof of full vaccination with a booster shot.
+* Requiring proof of full vaccination.
 * Mandatory well fitted masks that completely cover nose and mouth, secured with ear loops or head strap (gaiters and bandanas are not acceptable).
-* Reduced capacity in our performance spaces.
 * A no-touch or low-touch experience at the theater.
 * Additional cleaning before and after performances.
 
 **PROOF OF FULL VACCINATION**
 All patrons age 12 and up are required to show proof, prior to admittance, of full, up to date COVID vaccination.
 
-Full, up to date vaccination is defined as completion of the two-dose regimen of Pfizer or Moderna vaccines or one dose of Johnson & Johnson vaccine administered two weeks or more in advance of attendance along with a booster vaccination when eligible. Fully vaccinated patrons must bring a paper, photo, or electronic copy of their completed vaccination card or a record of vaccination directly from the healthcare provider who administered the vaccine with an appropriate ID matching the name on the proof of vaccination for entry.
+Full, up to date vaccination is defined as completion of the two-dose regimen of Pfizer or Moderna vaccines or one dose of Johnson & Johnson vaccine administered two weeks or more in advance of attendance. Bo along with a booster vaccination when eligible. Fully vaccinated patrons must bring a paper, photo, or electronic copy of their completed vaccination card or a record of vaccination directly from the healthcare provider who administered the vaccine with an appropriate ID matching the name on the proof of vaccination for entry
 
 **WELL-FITTED MASKS**
 A well-fitted face covering is required for entry and must be worn at all times. Face masks must completely cover your nose and mouth and have ear loops or head straps to hold it in place. Gaiters and bandannas are not acceptable.
