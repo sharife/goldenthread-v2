@@ -167,10 +167,10 @@ bottom:
 ---
 ### <center>COVID Health & Safety</center>
 
-Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+Golden Thread is a fully vaccinated company. All patrons must present proof of full vaccination, along with a matching photo ID, and be masked for entry to all in-person events.
 
 Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
 
-Seating will be general admission and limited to 75% capacity. Advanced purchase or registration is advised.
+Seating is currently general admission with no reduction in capacity. Advanced purchase or registration is advised.
 
 By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
