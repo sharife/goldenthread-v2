@@ -1,7 +1,7 @@
 ---
 title: "We Stand in Solidarity with Women in Iran "
 date: 2022-10-13T05:07:08.386Z
-background: https://ucarecdn.com/dba7495f-9a76-4f94-ac49-576d84e1bc99/
+background: https://ucarecdn.com/a9d05699-cd9f-4898-affb-17e98dbb16a3/
 ---
 To our Iranian communities in the Bay Area and our friends everywhere,
 
