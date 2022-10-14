@@ -86,6 +86,16 @@
             {{ end }}</a></p>
           </div>
         {{ end }}
+        {{ if .Params.pdf }}
+          <div class="mb3">
+            <p class="f6 b mb1"><a href="{{.Params.pdf}}">
+            {{ if .Params.pdflabel}}
+              {{ .Params.pdflabel }}
+            {{ else }}
+              View PDF
+            {{ end }}</a></p>
+          </div>
+        {{ end }}
 
         <div class="mb3"><a href="https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI"><img class="w-100 mw5" src="/img/archive/2015/03/Donate-Button-400.jpg" /></a>
         </div>
