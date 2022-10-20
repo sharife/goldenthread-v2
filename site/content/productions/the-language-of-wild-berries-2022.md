@@ -33,7 +33,8 @@ writer: Naghmeh Samini
 director: Torange Yeghiazarian
 featuring: Zaya Kolia, Damien Seperi, Dina Zarif
 designteam: Samantha Alexa (props), Cassie Barnes (lights), Kate Boyd (scenic),
-  Brooke Jennings (costumes), Derek Schmidt (sound)
+  Brooke Jennings (costumes), Derek Schmidt (sound), Mohammad Talani (music
+  composition)
 translator: Torange Yeghiazarian
 dramaturg: "Heather Rastovac Akbarzadeh "
 additional: ""
@@ -154,7 +155,7 @@ mentions:
     Design), **Megan Hillard** (Technical Director), **Dan Holland** (Production
     Manager), **Brooke Jennings** (Costume Design), **Camille La'akea Wong**
     (Stage Manager), **Heather Rastovac Akbarzadeh** (Dramaturg), **Derek
-    Schmidt** (Sound Design)"
+    Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition)"
 photos:
   heading: ""
 bottom:
