@@ -25,7 +25,7 @@ titleimage: https://ucarecdn.com/70072ca2-3b57-421f-b737-9bf42c828f93/
 programlabel: View the digital dramaturgy packet
 program: https://ucarecdn.com/09ca6dd1-25e6-48ab-8bc0-798a1afa38a0/
 pdflabel: Download our digital program
-pdf: https://ucarecdn.com/e114c722-65f8-4ad9-aaa6-0ff46a1690d2/
+pdf: https://ucarecdn.com/b17daedb-bb21-41a1-957e-043cb4addc66/
 videos:
   - id: 3weZzbUsH00
   - id: G6yGr2TBbg0
