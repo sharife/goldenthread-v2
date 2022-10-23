@@ -285,11 +285,11 @@ board:
     - name: Rita Hovakimian
       image: https://ucarecdn.com/39b70a9c-e435-4206-b8ba-c396408db037/
       bio: >-
-        **Rita Hovakimian** (she/her) is a Business Coach and Prosperity Mentor.
-        She invites her clients to think big; to imagine all that is possible
-        for their lives and businesses. Approaching success from a spirit-driven
-        place, she challenges business owners to get out of their own way and to
-        start living the miraculous.
+        **Rita Hovakimian** *(she/her)* is a Business Coach and Prosperity
+        Mentor. She invites her clients to think big; to imagine all that is
+        possible for their lives and businesses. Approaching success from a
+        spirit-driven place, she challenges business owners to get out of their
+        own way and to start living the miraculous.
 
         Rita helps small businesses to co-create an inclusive, effective and inspiring work culture with their staff. For more than 25 years she has been helping entrepreneurs, business owners and their staff connect with their purpose, identify their business vision and goals, and achieve financial success. 
 
