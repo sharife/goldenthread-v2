@@ -282,6 +282,25 @@ board:
         Thread."
       image: /img/archive/2017/08/MurreyNelson-300x300.jpg
       name: Murrey Nelson
+    - name: Rita Hovakimian
+      image: https://ucarecdn.com/39b70a9c-e435-4206-b8ba-c396408db037/
+      bio: >-
+        **Rita Hovakimian** *(she/her)* is a Business Coach and Prosperity
+        Mentor. She invites her clients to think big; to imagine all that is
+        possible for their lives and businesses. Approaching success from a
+        spirit-driven place, she challenges business owners to get out of their
+        own way and to start living the miraculous.
+
+        Rita helps small businesses to co-create an inclusive, effective and inspiring work culture with their staff. For more than 25 years she has been helping entrepreneurs, business owners and their staff connect with their purpose, identify their business vision and goals, and achieve financial success. 
+
+        Rita understands the path to success involves our relationship with money, and how we charge for our services correlates to our self-worth. Deeply-entrenched limiting beliefs often play a role, so much of Rita’s work centers around identifying those beliefs and installing more empowering ones. Her clients confidently own their value and increase their financial prosperity with ease.  
+
+        Rita is a certified Professional Coach through New Ventures West with extensive training in the Enneagram system of personality development and awareness. She holds a Bachelor’s Degree from San Francisco State University, graduating with honors. Additional training includes four years of intuitive training held at Bastyr University as well as masters-level certification in Neurolinguistic Programing (NLP) in London, England. She has studied with the best mentors in her field, embodying the principles she has learned and sharing them with those she has coached over the last 25 years.
+
+        Rita created a unique body of work called “Women, Power and Body Esteem: Being a Woman in the 21st Century,” in 1991, which she lead for 11 years to over 2,000 women throughout the US and in Canada. She now certifies women as Women, Power and Body Esteem coaches around the world in this deep, empowering work. Her vision is that women be able to embrace all that they are, and all they aspire to be in a powerful and authentic way.
+
+
+        Rita is always engaged in growth and development, both personally and professionally, and has been a daily meditator for over 2 decades. She sits on the Board of Trustees of Golden Thread Productions, whose mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. Being a philanthropist and being of service gives her the greatest joy. Her husband Robert is her biggest supporter in work and in life.
 artists:
   heading: Resident Artists
   items:
