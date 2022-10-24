@@ -7,12 +7,14 @@ sidebar:
   text: >-
     **Thank you to these corporations for their Matching Gift programs:**
 
+
     Amazon, Chevron, Google, Netflix, San Francisco State University Center for Iranian Diaspora Studies, WomenArts, Xperi  
 
 
     **Thank you to the following for their In-Kind support:**
 
-    Humaira Ghilzai
+
+    Humaira Ghilzai\
 
     Murrey E. Nelson\
 
