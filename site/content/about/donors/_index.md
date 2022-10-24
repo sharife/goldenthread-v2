@@ -2,7 +2,7 @@
 title: Donors
 intro: We are privileged to recognize the generous individuals and institutions
   that support our mission and make our programming possible. (Combined gifts
-  from 07/01/2019 through 03/01/2021)
+  from 03/01/2021 through 09/16/2022)
 sidebar:
   text: >-
     **Thank you to these corporations for their Matching Gift programs:** \
@@ -14,134 +14,86 @@ sidebar:
 
     Melike Akkol, Atif Naqvi, Murrey Nelson
 ---
-### **LEADERSHIP CIRCLE**
+## **LEADERSHIP CIRCLE**
 
-**Golden Sponsor ($250,000 and above)**
 
+**Golden Sponsor ($250,000 & Above)**
 Doris Duke Charitable Foundation
-
-The William & Flora Hewlett Foundation
+William and Flora Hewlett Foundation
 
 **Season Sponsor ($50,000 to $99,000)**
-
+Gerbode Foundation
+National Endowment for the Arts
+San Francisco Arts Commission
 San Francisco Grants for the Arts
 
-**Lead Sponsor ($25,000 to $49,999)**
+**Lead Sponsor ($25,000 to $49,000)**
+Sam Mazza Foundation
+Shubert Foundation
+U.S. Small Business Association
 
+
+
+## **PRODUCER CIRCLE**
+
+
+**Season Producer ($10,000 to $24,999)**
 John Atwood & Sofia Ahmad
-
-San Francisco Arts Commission
-
-**Program Sponsor ($10,000 to $24,999)**
-
-Robert Miller & Judith Wilber Fund
-
-National Endowment for the Arts
-
-The Neda Nobari Trust
-
-The Shubert Foundation
-
+Merrill Family Charitable Foundation, Inc.
+Robert Miller & Judith Wilber
+The State of California
 The Zellerbach Family Foundation
 
-### **PRODUCER CIRCLE**
-
 **Executive Producer ($5,000 to $9,999)**
-
-May Allam
-
-Nora el Samahy & Patrick Kaliski
-
-The Fleishhacker Family Foundation
-
-Harbor Point Charitable Foundation
-
-Amy Merrill
-
-Babak Sani
-
-Venturous Theater Fund of Tides Foundation
-
-**Lead Producer ($2,500 to $4,999)**
-
-Artin Der Minassians
-
+Nora El Samahy & Patrick Kaliski
+Fleishhacker Foundation
 Murrey E. Nelson
 
-Rebecca Novick & Jeffrey Prucher
-
-The Phyllis C. Wattis Foundation
-
-Torange Yeghiazarian
+**Lead Producer ($2,500 to $4,999)**
+May Allam
+Artin Der Minassians
+Potrero Dogpatch Merchants Association
+Babak Sani
 
 **Associate Producer ($1,000 to $2,499)**
-
-Anonymous (x2)
-
-Kedar Adour
-
-American Theatre Wing
-
-Reema Bahnasy
-
-Tom Bell & Nina Ghandi
-
-Jean & Fergus Bordewich
-
-Farah & Fabio Bullara
-
-Monica Cappuccini Fund
-
-Linda Chang & Emin Maltepe
-
-Jack King Choi
-
-Yoriko Kishimoto & Lee Collins
-
-Liana & Dan Crosby
-
-Catherine & Ahmed El Samahy
-
-Dina Ezzeddine
-
-Shahnaz & Tim Graham
-
-Youssri & Fatma Helmy
-
+Anonymous
+Tom Bell and Nina Ghandi
+Ahmed & Catherine El Samahy
+Hassan Fouda
+Evan Jernagan\
 Rita Hovakimian
-
-Evan Jernagan
-
-Raymond Kaliski & Carla Daro
-
-Gaguik Khachatourian
-
-Jane & Richard Nahass
-
-James Nickelsen
-
-Gloria Principe & John O'Farrrell
-
-Martha Richards
-
-Barmak Sani
-
-Jane Swinerton
+Emin Maltepe & Linda Chang
+Amy Merrill
+Duraid Musleh
+Rebecca Novick & Jeff Prucher
+Evren Odcikin & King Choi
+Gabrielle & Jalal Saad
 
 **$500 to $999**
-
-Dr. Kian Beyzavi, Jaleh & George Bisharat, Syan & Kayden Davis, Levon Der Bedrossian, Armen & Nelly Der Kiureghian, Hassan Fouda, Terry Griffith & Lila Shadloo, Alexa Hauser in memory of Terry Lamb, Patrick Joseph, Kia Mousavi, Duraid Musleh, Linda Nelson, Evren Odcikin, Josh H. Oliver-Azar Zavvar Philanthropy Fund, Bothaina Salama, Paul Von Stamwitz & Jamileh Davoudi
+Anonymous (x7), Sahar Assaf, Anna & Amer Budayr, Alexa Hauser in memory of Terry Lamb, Mona Masri, Jumana Muwafi, Tarik Muwafi, John O'Farrell & Gloria Principe, Jeffrey Prucher, Sara Razavi & Jillian Goldstein, The Wallace Foundation, Torange Yeghiazarian			
 
 **$250 to $499**
-
-Anonymous, Selma Abinader & John Herman in honor of Torange Yeghiazarian, Ruth Alahydoian & Armen Sedrakian, Jack & Mark Aslanian Fund, Kathleen Atwood, Linda Chapman, Earthbody Day Spa, Keith Goldstein, Helen Gregorian, Tracy Grubbs & Richard Taylor, Haleh Hatami, Anne & Conn Hallinan, Judith Helfand, Paul Heller, Kelly Hutzell & Rami el Samahy, Betsy Jasny, Celia Karian, Rebecca J. Kurland & Patrick Mason, Lila LaHood, Pam MacKinnon, Masood Mokhtary, Leyla Mostafavi, Omid Niroumandzadeh, John Potocki, Ray of Light Theatre, Sara Razavi & Jillian Goldstein, Marjan Safa & Ramine Roane, Susan Sawyer, Lila Shadloo, Cindy Shamban & Marge Sussman, Theatre Communications Group
+Selma Abinader & John Herman, Ruth Alahydoian & Armen Sedrakian, Mr. & Mrs. Richard Nahass, Kathleen Atwood, Kristina Bedrossian, Dr. Kian Beyzavi, Kate Boyd, Elaine Brown, Amer & Anna Budayr, Winnie Chu, John Clinton Eisner & Jennifer Dorr White, Waeil Elbhassi, Nabil Hissen, Ramsey Hissen, Ray & Carla Kaliski, Lila LaHood, Linda Nelson & Bob Kaliski, Alexa Rubinov, Ziad Saba, Houda Soubra, Jane Swinerton, Richard Taylor, Paul Von Stamwitz & Jamileh Davoudi
 
 **$100 to $249**
+Anonymous (x5), David Ahle, Zahwa Amad, The Edward and Eleonore Aslanian Family Foundation, Jerry Austin in honor of Ruby Unger, Amer & Maram Bata, Janelle & Joe Becerra in memory of Gloria Riordan, Jeff Becerra, Levon Der Bedrossian, Jesse Brownstein, Reza Fiyouzat & Erin Butler, Melissa Cefkin & Mazyar Lotfalian, Linda Chapman, Nancy Chemaly, Jeanette Cool & Georges Lammam, Catherine Coray, Carolyn Cox, Anastacia Powers Cuellar, Jaleh Doane, Gilles & Jill Eberhard, Suzanne El Gamal, Tanya Flint, Humaira Ghilzai, Anna Ghosh, Zahra Mahloudji & Michael Goldbach, Terry Griffith & Lila Shadloo, Anne Hallinan, Haleh Hatami, Judy Helfand, Paul Heller, George Heymont, Charles Hoefer in honor of Ruby Unger, Armineh Hovanesian, Robyn Im, Deena Jamal, Ghada Jamil, Betsy Jasny, Arzhang Kalbali, Mohammed Kashani-Sabet & Shekufeh Samii, Emily Keyishian, Tehmina Khan, Jamil Khoury & Malik Gillani, D. A. Konecky, Rebecca Kurland & Patrick Mason, Athena Kyle in honor of Torange Yeghiazarian, Linda Lucero in memory of Jose Guadalupe Saucedo, Pam MacKinnon, Nabila Mango, Sami Masri, Leila Masri, Masood Mokhtary, Phoebe Elinor Moyer, Michelle Mulholland in honor of Torange Yeghiazarian, Majd Murad in honor of Torange Yeghiazarian, Jaleh Niazi, Zanoon Nissar, Sibyl O'Malley, Kara Owens, Andrew Page, Andoni Panici, Frances N. Phillips in honor of Wonderful Torange, Lawrence Radecker, Abeer N. Rafidi, Donald Raphael, Karen Runk, David Rutan, Kathy Saade Kenny in honor of Torange, Susan Frances Sawyer, Maha Selim, Susan & Jack Shay, Basil Stamos on behalf of Nabil & Zeina Hissen, Ruby & Alan Unger, Bella Warda, Dr. Allyson Washburn, JoAnne Winter & Adrian Elfenbaum, Anush Yegyazarian, Anna Yoo, Azar Zavvar & Josh Oliver, Iraj & Fariba Zolnasr
 
-Anonymous (x4), Debórah & Noor Adabachi in honor of Torange Yeghiazarian, David Ahle. Yusser Al-Qazwini, Kathleen Antonia in honor of Torange Yeghiazarian, The Edward & Eleonore Aslanian Foundation, Azam Babaoff in honor of Atosa Babaoff, Mehdi Banijamaly, Laura Baum, Nora Bayani, Elizabeth Benedict, Raymond Bobgan, Kate R. Boyd, Jesse Brownstein, Angie Cantelmi, Melissa Cefkin & Mazyar Lotfalian, Winnie Chu, Jeanette Cool in honor of Helena Amorfia Kasapoglous Lammam, Helen Davaran in memory of Dr. Ardavan Davaran, Josh Dazel, Rasha Dessouki, Laila El Dafashy, Yussef El Guindi, Gilles & Jill Eberhard, Paky Elhossamy, Mohsen Emaminouri & Taraneh Hemami, Joseph Engelman & Debra Murov, Jaleh & Nakissa Etemad, Reza Fiyouzat, Rod Freebairn-Smith, Humaira Ghilzai, Jennifer Grady, Roxanne Gould, Mazen Haddad, George Heymont, Armineh Hovanesian, Robyn Im, Vicky Kamahele, Arzhang Kalbali, Mohammed Kashani & Shekufeh Samii, Nazy Kaviani, Juliet Nelson Kelley, Emily Keyishian & Edward McNulty, Nathalie Khankan & Basil Ayish, James G. Lucas, Linda Lucero in memory of José Guadalupe Saucedo, Elizabeth Macken, Zahra Mahloudji & Michael Goldbach, Tamar & Ken Mahru, Abraham Makany, Rosemary Matossian, Stuart Matthews for Alexa Hauser in memory of Terry Lamb, Laura Miller, Sara Morency, S. Murphy, Jaleh Niazi, Rana Orangi, Haiganoush Preisler, Doug Peckler & Evelyn Jean Pine in memory of Andrew Heard, Lawrence Radecker, Bella Ramazannia, Mallory Rivera, Margaret Salimi, Shekufeh Samii, Guenet Sebsibe, Ali Sheikholeslami & Mehrnoosh Paya, Pepi Ross, Diane Shortsleeve, Gae Shulman, Ileana Luisa Soto, Martha B. Tilyard, Lisa A. Urry, Pauline Homsi Vinson, Allyson Washburn, Kelly Whiteside, Joanne Winter & Adrian Elfenbaum, Bijan Yaminafshar, Jinoos Yazdany & Arash Anoshiravani, Anush Yegyazarian in memory of Sest & Neusa Yegyazarian, Rochelle Zak, Iraj Zolnasr, Miriam Zouzounis
+**$99 & under**
+Anonymous (x8), Soudy Abbasi, Hassan Abdulrazzak, Helen Abel, Debórah & Noor Adabachi in honor of Torange Yeghiazarian, Zachary Awang, Mehdi Banijamaly, Jeremy Barcan, Alana Barraj, Andrea Baruch de la Pardo, Charles Belov, Ines Betancourt, Zeina Hachem Bey, Annette Blanchard, Leila Buck, Farah Bullara, J. Dolan Byrnes, Bill Cawley, Melissa Chin-Parker, Betsey Cutler in honor of Ruby Unger, Stefan Dasho, Helen Davaran in memory of Dr. Ardavan Davaran, Suzette Davidson, Susan Detwiler, Barbara Deutsch, Suzanne Diers, Libby Dietrich, Farahnas Doost, Fran Dreier, Edma Dumanian, Susan Dunn, Elaine Eger, Amin El Gamal in honor of Torange Yeghiazarian, Annie Elias & David Sinaiko, Suzi Elnaggar, Sarah Lucy Estephan, Kevin Filocamo, Krystyna Finlayson, Jeanne Fitzpatrick, Katelin Foley, Marion Gedeon, Linda Maria Girón, Emma Goldman-Sherman, Kim Harris, Jeanette Harrison, Barbara Harrison, Maureen Haverty, Hannah Henderson, Bryan Herndon, Fariha Hilaly, Susan J. Holliday, Wardah Jamil, Lori Johnson, Shahrazad Junblat, Nada Kaissi, Leslie Kalarchian & Baylen Thomas, Nida Khalil, Rami Khouri, Raksak Kongseng, Suzanne Lampert, Domenique Lozano, Eman Magzoub, Tamar & Ken Mahru, Ruth Mankin, Pierre Emmanuel Mariaca, Amy Marr, Susannah Martin, Michael McGinley, Diane Montella, Elias Moradi, Mina Morita in honor of Torange, Brigid Morris, Rana Mroue, David Mulholland, Debra Murov, Laura Nabity, Deanna Naman, Nagi Nammour, Vance Nesbitt, Omid Niroumandzadeh, Joe Novak, Vicki Oswald, Nisha Patel, Doug Peckler & Evelyn Jean Pine, Jacob Picheny, Allan Pleaner, David Seth Rachleff, Kamini Ramani, Marwan Rammah, Janaki Ranpura, Linda Ray, Azad Rayyes, Virginia Reed, Margarite Reynolds in honor of Torange Yeghiazarian, Brian Rivera, Nora Roman, Olivia Rosaldo-Pratt in honor of Torange Yeghiazarian, Josh Saboorizadeh, Abby Schrock, Corinna Schulenburg, Dina Selim, Katie Simpson, Jeffrey Smyser, Regina Sneed, Dore Stein, Wendy Tokuda in honor of Ruby Unger, Mikiko Uesugi honor of Torange Yeghiazarian, Sophia Unger, Holly Wake-Shinoff, Jackie Wolfe in honor of Ruby Unger, Ayla Yarkut, Kathy Zarur in memory of Yusuf Zarur, Sophie Ziegler, Salma S. Zohdi	
 
-**$99 and under**
-Anonymous (x8), Maria Abdelazim, Sami Abdelazim, Helen Abel, Elmaz Abinader, Nagwa Allam, Erik Anderson, Marine Arakelians, Soha Athanasios, Houman Azarm, Hala Baki, Andrea Baruch de la Pardo, Julie Baum, M J Bogatin & Karen Racavelli, Dorothy Burk, Cal Shakes -- for the ReOrient Tix!, Tom Clement & Sabrina Klein in honor of Torange Yeghiazarian, Edris Cooper, Sherif Danish, Rob Dario, Suzette Davidson, Yasmin Decuire, Carol Dorf in memory of Annette PDH, C.S. Drury, Ayman E, Sahar El-Etr, Amina Elfiki, Claire Epperly, Gigi Farag, Krystyna Finlayson, Kathy Foley, Sarah Garcia, Elizabeth A. Gjelten, Simón Adinia Hanukai, Jeanette Harrison in honor of Valerie Weak, Hoda Hassan, Cariwyl Hebert, Aya Hoja, Arlene Hood, Arti Ishak, Niosha Nafei Jamali, Tamara Kalo, Nadia Kamar, Persis Karim, Leila Kashani-Sabet, Suzanne Lampert, Carol Lashof, Matt Leibel, Linda K. Lester, Wendy Lin, Suzanna Loper, Catherine Luedtke, Reza Memar, Anu Menon, Henry Milich, Sepi Hejazi Moghadam, Elias Moradi, Mohamed Morsy, Michelle Mulholland, Majd Murad, Laura S. Murphy, A. Murray, Jack & Kerry Novick, Julie Obbard, Andrew Page, Mokhtar Paki, Anish Patel, Jessica & Sean Pocalyko, Sean Purcell, Kamini Ramani, Hazem Rashed, Linda Ray, Candice Reimers, Margarite Reynolds, Connie Robinson, Nora Roman, Josh Saboorizadeh, Ramzi Salti, Jacqueline Salzinger in honor of Sarah Hegazi, Dina Selim, Maha Selim, Susan Shay, David Sinaiko & Annie Elias, Mark Singleton, Chris Sims, Emilia Smart-Denson, Lennon Smith, Saramanda Swigart, Vavi Toran, Alan & Ruby Unger, Raffi Joe Wartanian in honor of 2009 ReOrient Family!, Maia Werner-Avidon & Jacob Avidon, Erik Westre, Sara Witsch, Kathy Zarur in memory of Yusuf Zarur, Heba Zohni
+**Thank you to these corporations for their Matching Gift programs:**
+Amazon
+Chevron
+Google
+Netflix
+San Francisco State University Center for Iranian Diaspora Studies
+WomenArts
+Xperi
+
+**Thank you to the following for their In-Kind support:**
+Humaira Ghilzai
+Murrey E. Nelson\
+H﻿elen, Wayne & Alex Nowak
 
 - - -
 
