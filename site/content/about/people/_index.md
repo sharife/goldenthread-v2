@@ -7,11 +7,11 @@ staff:
       credit: Executive Artistic Director
       image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/-/crop/866x872/101,93/-/preview/
       bio: >-
-        Sahar Assaf *(she/her)* is a Lebanese theatremaker and professor. She
-        has been active in the Lebanese theatre scene since 2003 as an actor,
-        director, translator, and producer. She’s presented works in Syria,
-        Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago, and
-        NYC. At the American University of Beirut where she headed the minor
+        **Sahar Assaf** *(she/her)* is a Lebanese theatremaker and professor.
+        She has been active in the Lebanese theatre scene since 2003 as an
+        actor, director, translator, and producer. She’s presented works in
+        Syria, Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago,
+        and NYC. At the American University of Beirut where she headed the minor
         program in Theater Arts
 
         and was an Assistant Professor, she co-founded with her long term collaborator playwright Robert Myers, the Theater Initiative, an interdisciplinary group of faculty and artists working to facilitate theatre creation and research locally, regionally, and internationally. Her directing credits for the Theater Initiative include Garcia-Lorca’s *Blood Wedding* as a site-specific promenade performance in the village of Hammana in Mount Lebanon, Shakespeare’s *King Lear* (co-directed with Rachel Valentine Smith of The Faction ensemble of London) which was the first production of a Shakespearean play in Lebanese colloquial Arabic, *The Rape and Rituals of Signs and Transformations* by Sa'dallah Wannous, *Watch Your Step: Beirut Heritage Walking Tour* which was a site-specific devised work on the Lebanese civil war. Sahar is a strong advocate of documentary theatre and recently conceived and directed Meen El Felten, an immersive documentary play on sexual assault in Lebanon as part of the Abaad MENA campaign of 2018, and No Demand No Supply, a documentary play about sex trafficking and prostitution in collaboration with the Kafa organization.
@@ -48,8 +48,8 @@ staff:
     - name: Heather Rastovac Akbarzadeh
       credit: Fairytale Players Program Manager
       image: https://ucarecdn.com/b7275194-fe81-40c7-b770-69de824fca21/-/crop/1391x1450/0,76/-/preview/
-      bio: "Heather Rastovac Akbarzadeh (she/her/hers) is a community-engaged scholar,
-        artist, and educator with two decades of experience as a
+      bio: "**Heather Rastovac Akbarzadeh** *(she/her)* is a community-engaged
+        scholar, artist, and educator with two decades of experience as a
         dancer-choreographer, artistic director, curator, and dramaturg among
         diasporic MENA/SWANA communities. Since 1997, she has performed in
         street performances, activist circuses, MENA/SWANA cultural events, and
@@ -71,7 +71,7 @@ staff:
         2021). www.heatherrastovac.com"
     - name: Linda Maria Girón
       credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them)*is a multi-disciplinary theater maker,
+      bio: "**Linda Maria Girón** *(they/them)* is a multi-disciplinary theater maker,
         visual artist and musician from Los Angeles, CA. Their work is informed
         and inspired by ritual, queerness and anti-racist practice; with a
         primary focus on examining the neo-colonialism of Latin America and its
@@ -89,40 +89,40 @@ staff:
     - name: Sheila Devitt
       credit: Marketing & Engagement Manager
       image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
-      bio: Sheila Devitt (she/her) is a San Francisco-based performer, educator,
-        director and producer. She has served on the Board of Directors at the
-        Vortex Theatre, ABQ; produced Reading the Kilroys List; served as
-        founding member and Managing Director of Bacchus Players, summer
-        Shakespeare at Coppola Winery; Assistant Managing Director at Theatre of
-        Yugen; Communications Manager for the Bay Area Consortium of Ensemble
-        Theatres;  a co-producer of the 2020 Bay Area Women’s Theatre Festival;
-        regional coordinator of the StateraArts mentorship program. She has
-        performed nationally and internationally, including the GALA Choruses
-        Festival,  Edinburgh Fringe Festival, and the Hosho Noh Theatre, Tokyo.
-        She has collaborated with playwrights Erik Ehn, Chiori Miyagawa and
-        Katie Pearl, among others. She has trained with Augosto Boal in Theatre
-        of the Oppressed; Moscow Art Theatre School in Stanislavsky technique
-        and Chekhov; Viewpoints with Mary Overlie; Lunatique Fantastique in
-        found-object puppetry; Theatre of Yugen and Theatre Nohgaku in classical
-        Japanese Noh drama and Kyogen comedy. She is equally excited by
-        classical, multilingual, new and devised plays, and joyously
-        collaborates with living writers, with a special emphasis on female
-        playwrights. She is a graduate of the University of New Mexico, with a
-        focus on bilingual performances of Federico Garcia Lorca’s pastoral
-        trilogy. She is a member of Theatre Bay Area since 2003 and Theatre
-        Communications Group since 1997.
+      bio: "**Sheila Devitt** *(she/her)* is a San Francisco-based performer,
+        educator, director and producer. She has served on the Board of
+        Directors at the Vortex Theatre, ABQ; produced Reading the Kilroys List;
+        served as founding member and Managing Director of Bacchus Players,
+        summer Shakespeare at Coppola Winery; Assistant Managing Director at
+        Theatre of Yugen; Communications Manager for the Bay Area Consortium of
+        Ensemble Theatres;  a co-producer of the 2020 Bay Area Women’s Theatre
+        Festival; regional coordinator of the StateraArts mentorship program.
+        She has performed nationally and internationally, including the GALA
+        Choruses Festival,  Edinburgh Fringe Festival, and the Hosho Noh
+        Theatre, Tokyo. She has collaborated with playwrights Erik Ehn, Chiori
+        Miyagawa and Katie Pearl, among others. She has trained with Augosto
+        Boal in Theatre of the Oppressed; Moscow Art Theatre School in
+        Stanislavsky technique and Chekhov; Viewpoints with Mary Overlie;
+        Lunatique Fantastique in found-object puppetry; Theatre of Yugen and
+        Theatre Nohgaku in classical Japanese Noh drama and Kyogen comedy. She
+        is equally excited by classical, multilingual, new and devised plays,
+        and joyously collaborates with living writers, with a special emphasis
+        on female playwrights. She is a graduate of the University of New
+        Mexico, with a focus on bilingual performances of Federico Garcia
+        Lorca’s pastoral trilogy. She is a member of Theatre Bay Area since 2003
+        and Theatre Communications Group since 1997."
     - name: Wendy Reyes
       credit: Production Associate
       image: https://ucarecdn.com/2f9929a3-48e5-49bb-aa5f-b40e8e22909d/
-      bio: Wendy Reyes is a Mexican-American, multimedia artist from St. Louis,
-        Missouri. She received her Bachelor in Media Studies, minor in
-        Chicanx-Latinx Studies from the University of San Francisco. With her
+      bio: "**Wendy Reyes** *(she/her)* is a Mexican-American, multimedia artist from
+        St. Louis, Missouri. She received her Bachelor in Media Studies, minor
+        in Chicanx-Latinx Studies from the University of San Francisco. With her
         skills in video and audio production, she aims to create engaging and
         educational material that brings awareness to social injustices in order
         to promote a healthy and just path for marginalized communities. Wendy
         is now based in the Bay Area and is the Production Associate at Golden
         Thread Productions and a current participant of KALW’s radio journalism
-        program in San Francisco, CA.
+        program in San Francisco, CA."
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
