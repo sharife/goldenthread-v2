@@ -7,8 +7,8 @@ staff:
       credit: Executive Artistic Director
       image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/-/crop/866x872/101,93/-/preview/
       bio: >-
-        Sahar Assaf (she/her) is a Lebanese theatremaker and professor. She has
-        been active in the Lebanese theatre scene since 2003 as an actor,
+        Sahar Assaf *(she/her)* is a Lebanese theatremaker and professor. She
+        has been active in the Lebanese theatre scene since 2003 as an actor,
         director, translator, and producer. She’s presented works in Syria,
         Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago, and
         NYC. At the American University of Beirut where she headed the minor
