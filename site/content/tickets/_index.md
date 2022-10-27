@@ -19,6 +19,9 @@ lists:
           **Oct 14–Nov 6, 2022 | Potrero Stage (1695 18th Street, San Francisco)**
 
 
+          *Due to unforeseen circumstances, our* ***Thursday, Oct 27** performance has been cancelled. We apologize for any inconvenience this may cause. To request an exchange, refund, or donation on your tickets please email us directly at [](mailto:boxoffice@goldenthread.org)[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)*
+
+
           Tickets are $15-$100
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZpRWUA0
