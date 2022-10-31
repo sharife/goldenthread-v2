@@ -30,6 +30,29 @@ lists:
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZpRWUA0
         subtitle: "**By Naghmeh Samini**, Translated and directed by Torange
           Yeghiazarian"
+  - heading: No Summary
+    items:
+      - image: https://ucarecdn.com/81ced150-93ad-48c1-bbf6-0c15a04e356a/
+        pre: Friday, November 11 2022, at 11:00AM (PST)
+        subtitle: ""
+        cta: Join the conversation!
+        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vbU1YUAU
+        text: >-
+          Golden Thread invites **Sarah Fahmy**, a scholar and devising artist
+          to moderate a conversation on the reception of MENA productions in the
+          U.S. today with **Kareem Fahmy**, a theatre director, playwright, and
+          screenwriter whose work is produced at nationally acclaimed theatre
+          companies this year, and **Malek Najjar,** a director, playwright, and
+          scholar of Arab American and Middle-Eastern American theatre and
+          Associate Professor of Theatre Arts at the University of Oregon. When
+          Middle Eastern North African stories are constantly subjected to the
+          white gaze and are performed in front of a predominantly white-US
+          audience, how do MENA creative teams grapple with an authentic
+          representation of their artistry, languages, and cultures?
+
+
+           This conversation is produced and hosted by Golden Thread Productions in collaboration with the **MENATMA convening** taking place at the Arab American National Museum, November 10-12, 2022.
+        title: "Critiquing the Critics: The Reception of MENA Productions"
 ---
 - - -
 
