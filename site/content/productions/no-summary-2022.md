@@ -29,7 +29,7 @@ lists:
           representation of their artistry, languages, and cultures?
 
 
-          This conversation is produced and hosted by Golden Thread Productions in collaboration with the MENATMA convening taking place at the Arab American National Museum, November 10-12, 2022.
+          This conversation is produced and hosted by Golden Thread Productions in collaboration with the MENATMA Convening taking place at the Arab American National Museum, November 10-12, 2022.
 
 
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
@@ -97,6 +97,22 @@ lists:
         title: Tap In, Tap Out, On Dangerous Storytelling
         cta: Watch the full episode
         link: https://www.youtube.com/watch?v=jDddosh0bic
+      - itemstart: 2022-11-04T03:47:07.410Z
+        itemend: 2022-11-04T03:47:07.433Z
+        title: Meet the Cast of Drowning in Cairo
+        pre: Friday, February 25, 2022 at 11:00AM (PDT)
+        image: https://ucarecdn.com/e1d405f2-bafb-4f96-ae90-e8892ff585aa/
+        text: Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
+          interviews cast members of *Drowning in Cairo*, a world premiere by
+          Adam Ashraf Elsayigh. The play focuses on three young men whose lives
+          are forever altered when an unexpected police raid results in the
+          arrest and public humiliation of the attendees of the Queen Boat, a
+          gay nightclub docked on the Nile. Come meet **Martin Yousif Zebari**
+          and **Wiley Naman Strasser** and learn about their theatre journeys
+          and what excites them about this debut production coming up in April
+          2022 at Golden Thread.
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=tgxrsXnIm1M&t=253s
     heading: List of Episodes
 ---
 We are thrilled to continue our livestream series NO SUMMARY with new artists and fresh conversations, featuring live audience Q&A! We invite you to join in the conversation and immerse yourself in these exciting topics and compelling artists who defy a snappy summation. See below for a preview schedule of our upcoming episodes!
