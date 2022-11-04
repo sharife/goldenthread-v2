@@ -9,7 +9,7 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
   how it impacts their work and artistic choices.
-background: https://ucarecdn.com/900e43e8-8af1-4b5b-9984-9e2b325e4a52/
+background: https://ucarecdn.com/4a91e552-4e00-4956-a017-c253dab18095/
 lists:
   - items:
       - itemstart: 2022-09-01T18:00:00.000Z
@@ -72,6 +72,28 @@ lists:
         title: Tap In, Tap Out, On Dangerous Storytelling
         cta: Watch the full episode
         link: https://www.youtube.com/watch?v=jDddosh0bic
+      - itemstart: 2022-11-04T03:31:53.886Z
+        itemend: 2022-11-04T03:31:53.905Z
+        title: "Critiquing the Critics: the Reception of MENA Productions"
+        text: >-
+          Golden Thread invites **Sarah Fahmy**, a scholar and devising artist
+          to moderate a conversation on the reception of MENA productions in the
+          U.S. today with **Kareem Fahmy**, a theatre director, playwright, and
+          screenwriter whose work is produced at nationally acclaimed theatre
+          companies this year, and **Malek Najjar**, a director, playwright, and
+          scholar of Arab American and Middle-Eastern American theatre and
+          Associate Professor of Theatre Arts at the University of Oregon. When
+          Middle Eastern North African stories are constantly subjected to the
+          white gaze and are performed in front of a predominantly white-US
+          audience, how do MENA creative teams grapple with an authentic
+          representation of their artistry, languages, and cultures?
+
+
+          This conversation is produced and hosted by Golden Thread Productions in collaboration with the MENATMA convening taking place at the Arab American National Museum, November 10-12, 2022.
+        cta: Register in advance for free and join us on the Zoom webinar to ask your
+          questions directly of the panelists!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007VG5xUAG
+        pre: Friday, November 11, 2022 at 11:00AM (PST)
     heading: List of Episodes
 ---
 We are thrilled to continue our livestream series NO SUMMARY with new artists and fresh conversations, featuring live audience Q&A! We invite you to join in the conversation and immerse yourself in these exciting topics and compelling artists who defy a snappy summation. See below for a preview schedule of our upcoming episodes!
