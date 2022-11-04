@@ -101,7 +101,7 @@ lists:
         itemend: 2022-11-04T03:47:07.433Z
         title: Meet the Cast of Drowning in Cairo
         pre: Friday, February 25, 2022 at 11:00AM (PDT)
-        image: https://ucarecdn.com/e1d405f2-bafb-4f96-ae90-e8892ff585aa/
+        image: https://ucarecdn.com/e9d8b16d-20cc-48b7-97ad-a8c7b4f3bc39/
         text: Golden Thread's Executive Artistic Director **Sahar Assaf** introduces and
           interviews cast members of *Drowning in Cairo*, a world premiere by
           Adam Ashraf Elsayigh. The play focuses on three young men whose lives
