@@ -52,13 +52,13 @@ lists:
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
         cta: Watch the full episode
         image: https://ucarecdn.com/e3650759-5e6d-4956-9084-b92cbd70468e/
-        pre: Thursday, September 1, 2022 at 11:00AM (PST)
+        pre: Thursday, September 1, 2022 at 11:00AM (PDT)
         link: https://www.youtube.com/watch?v=G6yGr2TBbg0&t=46s
       - itemstart: 2022-06-24T18:00:24.122Z
         itemend: 2022-06-24T20:00:24.182Z
         title: "What can the wise fool Nasrudin teach us? Bringing Middle Eastern
           storytelling to young audiences  "
-        pre: Friday, June 24, 2022 at 11:00AM (PST)
+        pre: Friday, June 24, 2022 at 11:00AM (PDT)
         image: https://ucarecdn.com/08686bca-b54c-45d1-8b87-faff97eae2e7/
         text: >-
           Golden Thread’s Fairytale Players Program Manager, **Heather Rastovac
