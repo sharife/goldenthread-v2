@@ -82,7 +82,7 @@ lists:
         link: https://www.youtube.com/watch?v=zKaT1C5nSlA
       - itemstart: 2022-04-28T18:00:00.000Z
         itemend: 2022-04-28T19:00:21.954Z
-        pre: Thursday, April 28, 2022 at 11:00AM (PST)
+        pre: Thursday, April 28, 2022 at 11:00AM (PDT)
         image: https://ucarecdn.com/d0b2df46-62a9-4b85-b489-b28b95fa74eb/
         text: Golden Thread invites **Kholoud Nasser**, a theatre artist and
           trauma-informed therapist to host a conversation with *Drowning in
