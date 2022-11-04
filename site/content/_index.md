@@ -21,18 +21,21 @@ items:
 
 
       Proof of vaccination with booster and a mask are required for entry.
-  - image: https://ucarecdn.com/8b6409cb-bed1-4ad6-a227-ac0e3f45d6bd/
+  - image: https://ucarecdn.com/bfb66258-3528-4730-9a4d-25beb32d5d6a/
     subtitle: "**New Episode of No Summary: Conversations with Artists Who Don't Fit
       in a Box**"
     cta: Register Now!
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007VG5xUAG
     text: >-
-      **Meet the Cast of *The Language of Wild Berries***\
+      **Critiquing the Critics: the Reception of MENA Productions**\
 
-      **Thursday, Sept. 1st, 11:00 AM PST**
+      **Friday, Nov. 11th, 11:00 AM PST**
 
 
-      Golden Thread's Marketing & Engagement Manager **Sheila Devitt** introduces and interviews cast members of ***The Language of Wild Berries***, a U.S. premiere by Naghmeh Samini. Come meet performers **Zaya Kolia**, **Damien Seperi** and **Dina Zarif** and learn about their theatre journeys and what excites them about this production coming up in October 2022 at Golden Thread. 
+      Golden Thread invites **Sarah Fahmy**, a scholar and devising artist to moderate a conversation on the reception of MENA productions in the U.S. today with **Kareem Fahmy**, a theatre director, playwright, and screenwriter, and **Malek Najjar**, a director, playwright, and scholar of Arab American and Middle-Eastern American theatre. When Middle Eastern North African stories are constantly subjected to the white gaze and are performed in front of a predominantly white-US audience, how do MENA creative teams grapple with an authentic representation of their artistry, languages, and cultures?
+
+
+      This conversation is produced and hosted by Golden Thread Productions in collaboration with the MENATMA convening taking place at the Arab American National Museum, November 10-12, 2022. 
 
 
       Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
