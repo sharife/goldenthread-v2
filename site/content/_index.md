@@ -42,19 +42,28 @@ items:
 
 
       Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
-  - image: https://ucarecdn.com/1d3f5353-1225-4f6a-88f8-161ad9138fdb/
-    subtitle: "**New Threads Staged Reading Series returns!**"
-    cta: Register now!
-    link: https://goldenthread.org/tickets/
+  - subtitle: We Stand in Solidarity with Women in Iran
     text: >-
-      **New Threads 2022**, our popular and free staged reading series,
-      introduces four new vital plays in development from or about the Middle
-      East. This year's selections include stories and artists from Afghanistan,
-      Egypt, Lebanon, Pakistan, Palestine, and the United States. The four
-      staged readings will take place **Tuesdays, August 9, 16, 23 and 30** in a
-      tour of three different San Francisco theatre venues. All readings are at
-      **7pm and FREE**. Reservations are recommended. 
+      To our Iranian communities in the Bay Area and our friends everywhere,
 
 
-      Proof of vaccination with booster and a mask are required for entry.
+
+      We, at Golden Thread Productions, stand in solidarity with women who are fighting to assert their rights over their bodies, everywhere, from the U.S. to Iran. Consistent with our mission, we are committed to uplifting the voices of those fighting for justice and equality. 
+
+
+      Using the words of our founder, Iranian playwright and director Torange Yeghiazarian, “Women are the backbone of our communities \[…] Women have been organizing and building communities for centuries. They may do it quietly but they are consistent and committed.” 
+
+
+      No doubt Iranian women have been consistent and committed to their fight for equality but today they are fighting loudly and we must hear them. We are humbled by the fearless, powerful and peaceful acts of women cutting their hair and burning their scarves in public squares. May we all have their courage to do the acts of change we are committed to in our communities. Their bravery serves all of us, everywhere, and it’s a striking reminder that none of us are free until all of us are free.
+
+
+
+      In solidarity and with gratitude, 
+
+
+
+      Golden Thread Team
+    image: https://ucarecdn.com/77104927-1f74-4954-b92f-3837365b201a/
+    cta: Read our full statement.
+    link: https://goldenthread.org/posts/we-stand-in-solidarity-with-women-in-iran/
 ---
