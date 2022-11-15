@@ -60,6 +60,8 @@ items:
 
       In solidarity and with gratitude, 
 
+
+
       Golden Thread Team
     image: https://ucarecdn.com/77104927-1f74-4954-b92f-3837365b201a/
     cta: Read our full statement.
