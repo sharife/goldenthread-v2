@@ -8,9 +8,9 @@ intro: >
 
 **JOB OPENINGS**
 
-**Artistic Producer**
+**D﻿evelopment and Patron Services Associate**
 
-This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the day-to-day management of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation. **[Learn more](/get-involved/jobs/).**
+A unique opportunity ideal for a candidate interested in a career in non-profit arts management. This is a full-time, shared administrative position serving Golden Thread Productions and Crowded Fire Theater, who operate in partnership with each other, having shared functions including rehearsal and administrative space, artistic programming, vendors, services, and audience outreach efforts. [Learn more.](https://goldenthread.org/get-involved/)
 
 **Production, Design & Technical Personnel**
 
