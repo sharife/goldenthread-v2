@@ -28,22 +28,13 @@ Golden Thread Productions and Crowded Fire Theater are seeking a Development and
 * Preparing pre/post show patron emails
 * Building ticketing events, running box office reports, and maintaining comp ticket lists
 
-**Administration:**
+**Additional duties may include:**
 
-* Work with the MD to administer union agreements, artist contracts, production and employment paperwork.
-* Prepare production reports for Equity, budget, program impact, production and design meetings.
-* Contribute to short and long term planning by participating in strategic planning, artistic visioning, and annual budget creation.
-* Assist the EAD and the MD in project grant-writing and fundraising efforts.
-* Participate in community outreach and audience engagement efforts by developing relationships with MENA community organizations through meaningful dialogue, creative partnerships, and attendance at public events.
-* Support audience engagement activities including lobby activities, audience surveys, post show talk backs, pre-show events, artist conversations and gatherings.
-
-**Public Relations and Marketing:**
-
-* Participate in developing and disseminating strategies with the EAD, MD, and Marketing & Communications Associate for company, production and special event marketing and promotion plans.
-* Coordinate the documentation and archival of productions and events and maintain artistic digital files.
-* Represent and promote the organization through attendance at development and marketing events and participation in Bay Area theatre community as required.
-
-Additional duties as assigned by the EAD.
+* Assisting with grants management activities such as maintaining annual calendar, conducting research, and supporting applications and reporting
+* Supporting marketing, outreach, and engagement activities by distributing materials, posting on social media, or representing both theaters at events
+* Supporting Night of Show and Front of House duties on-site during performances as needed
+* Participating in special projects and providing administrative support under the direction of the leadership team and in collaboration with other team members
+* Working collaboratively with the teams of both theaters to updold organizational culture of Equity, Diversity, and Inclusion
 
 **Qualifications and Skills:**
 
