@@ -38,16 +38,12 @@ Golden Thread Productions and Crowded Fire Theater are seeking a Development and
 
 **Qualifications and Skills:**
 
-* An understanding of the process, challenges, and demands of a producing theatre with at least 5 years professional experience in regional non-profit theatre production and/or new play development.
-* Awareness of local and national theatrical ecology with a particular understanding of MENA theatre.
-* Proven organizational and time management skills, attention to detail, strategic and analytical thinking with an ability to manage multiple projects at once, set priorities, and meet deadlines.
-* A collaborative spirit, self-motivating and adaptable approach with a positive attitude. 
-* Excellent interpersonal, verbal and written communication skills and an ability to work with varied communication styles.
-* Technical theater knowledge preferred, but not required.
-* A dedication to working within the guiding vision of the company including a passion for transformative stories, perspectives, and voices, respect for an artist-centered and MENA focused approach, and an appreciation for health and balance in our art practice and our lives.
-* A commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. Political awareness of and sensitivity to the plurality of thought and culture both within the Middle East and its world-wide diaspora is preferred.
-* Proficiency in basic computer applications like Word, Excel, Email and Google.
-* Must be able to push or pull objects weighing up to 30 pounds, and lift or carry objects weighing up to 15 pounds.
+* Proven organizational and time management skills, attention to detail, strategic and analytical thinking with an ability to manage multiple projects at once, set priorities, and meet deadlines. 
+* A collaborative spirit; self-motivating and adaptable approach; excellent interpersonal, verbal, and written communication skills; and an ability to work with varied communication styles.
+* Proficiency in basic computer applications, including Word, Excel, email and Google suite; familiarity with CRM (customer relationship management), online databases, and social media desired. 
+* Experience in fundraising a plus.
+* Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. The ideal candidate will be politically aware and sensitive to the plurality of thought and culture both within the Middle East and its world-wide diaspora.
+* A dedication to working within the guiding vision of the companies including a passion for transformative stories, perspectives, and voices; and respect for an artist-centered approach.
 
 We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. We encourage candidates to review the key responsibilities and qualifications above. If you believe you have the transferable skills necessary to fulfill the responsibilities of this role, we encourage you to apply.
 
