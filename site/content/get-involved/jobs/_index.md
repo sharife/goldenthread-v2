@@ -9,6 +9,12 @@ sidebar:
 
 Golden Thread Productions and Crowded Fire Theater are seeking a Development and Patron Services Associate. This is a shared administrative position serving both companies, which operate in partnership with each other, having shared functions including rehearsal and administrative space, artistic programming, vendors, services, and audience outreach efforts. This unique opportunity is ideal for a candidate interested in a career in non-profit arts management.
 
+ABOUT Crowded Fire Theater (CFT)
+CFT seeks to contribute to the creation of new plays that truly reflect the world in which we live. In addition to a mainstage season, we offer a robust new play development program where we explore inventive writing forms and innovative design, selecting plays that disrupt and complicate comfortable notions of cultural hierarchy and experiment with form. 
+
+ABOUT Golden Thread Productions (GTP)
+GTP is the first American theatre company dedicated to Middle Eastern cultures and identities as represented throughout the globe. We are an artistic home to people of all cultural backgrounds focused on developing and producing aesthetically varied and viscerally engaging theatrical work from and about the Middle East. 
+
 **PURPOSE:** Under the direct supervision of senior staff members, this key position will be responsible for the management of patron and donor information and will provide support for development and patron services. This team member will foster our audience and donor development goals by performing administrative donor cultivation procedures, providing exceptional customer service and processing accurate box office and donation information. Additionally, this position will assist with basic marketing, outreach and operational projects as time allows.
 
 **Essential Duties and Responsibilities:**
