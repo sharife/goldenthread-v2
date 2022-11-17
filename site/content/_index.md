@@ -8,16 +8,18 @@ link: https://goldenthread.org/tickets/
 items:
   - image: https://ucarecdn.com/ed42c498-da38-44d7-b5d9-cc0612c5f23f/
     subtitle: "**We're Hiring!**"
-    cta: Buy Tickets!
-    link: https://goldenthread.org/productions/the-language-of-wild-berries-2022/
+    cta: Learn More!
+    link: https://goldenthread.org/get-involved/
     text: Golden Thread Productions and Crowded Fire Theater are seeking a
-      **Development and Patron Services Associate**. This is a full-time,
-      non-exempt, shared administrative position serving both companies by
-      providing support for development and patron services through the
-      management of patron and donor information. This team member will foster
-      our audience and donor development goals by performing administrative
-      donor cultivation procedures, providing exceptional customer service, and
-      processing accurate box office and donation information.
+      **Development and Patron Services Associate**. T﻿his is a unique
+      opportunity to join two artistically innovative and community oriented
+      organizations via a full-time, non-exempt, shared administrative position
+      that serves both companies by providing support for development and patron
+      services through the management of patron and donor information. This team
+      member will foster audience and donor development goals by performing
+      administrative donor cultivation procedures, providing exceptional
+      customer service, and processing accurate box office and donation
+      information.
   - image: https://ucarecdn.com/bfb66258-3528-4730-9a4d-25beb32d5d6a/
     subtitle: "**New Episode of No Summary: Conversations with Artists Who Don't Fit
       in a Box**"
