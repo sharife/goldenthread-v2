@@ -13,7 +13,7 @@ items:
     text: Golden Thread Productions and Crowded Fire Theater are seeking a
       **Development and Patron Services Associate**. T﻿his is a unique
       opportunity to join two artistically innovative and community oriented
-      organizations via a full-time, non-exempt, shared administrative position
+      organizations in a full-time, non-exempt, shared administrative position
       that serves both companies by providing support for development and patron
       services through the management of patron and donor information. This team
       member will foster audience and donor development goals by performing
