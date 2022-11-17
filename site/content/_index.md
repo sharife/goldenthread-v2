@@ -6,24 +6,20 @@ background: https://ucarecdn.com/cdd2151d-50f1-47f2-a93b-8d7492889b75/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
-  - image: https://ucarecdn.com/1cfd2755-5e07-4e9e-bfd4-d5c67b2d22f7/
-    subtitle: "**The Language of Wild Berries**"
-    cta: Buy Tickets!
-    link: https://goldenthread.org/productions/the-language-of-wild-berries-2022/
-    text: >-
-      by **Naghmeh Samini** 
-
-
-      translated and directed by **Torange Yeghiazarian** 
-
-
-      **US Premiere**
-
-
-      **Oct. 14 - Nov. 6, 2022**
-
-
-      Donya and Davood celebrate their wedding anniversary by traveling to the same seaside town where they spent their honeymoon. But on this trip, their 10th anniversary, a mysterious young man is following them. Who is he? What does he want? Trying to solve the mystery of the young man throws Donya and Davood into a time warp recalling their past nine anniversary trips. They remember what they have forgotten. But will that be enough to save their marriage?
+  - image: https://ucarecdn.com/ed42c498-da38-44d7-b5d9-cc0612c5f23f/
+    subtitle: "**We're Hiring!**"
+    cta: Learn More!
+    link: https://goldenthread.org/get-involved/
+    text: Golden Thread Productions and Crowded Fire Theater are seeking a
+      **Development and Patron Services Associate**. T﻿his is a unique
+      opportunity to join two artistically innovative and community oriented
+      organizations via a full-time, non-exempt, shared administrative position
+      that serves both companies by providing support for development and patron
+      services through the management of patron and donor information. This team
+      member will foster audience and donor development goals by performing
+      administrative donor cultivation procedures, providing exceptional
+      customer service, and processing accurate box office and donation
+      information.
   - image: https://ucarecdn.com/bfb66258-3528-4730-9a4d-25beb32d5d6a/
     subtitle: "**New Episode of No Summary: Conversations with Artists Who Don't Fit
       in a Box**"
