@@ -9,7 +9,7 @@ items:
   - image: https://ucarecdn.com/ed42c498-da38-44d7-b5d9-cc0612c5f23f/
     subtitle: "**We're Hiring!**"
     cta: Learn More!
-    link: https://goldenthread.org/get-involved/
+    link: https://goldenthread.org/get-involved/jobs/
     text: Golden Thread Productions and Crowded Fire Theater are seeking a
       **Development and Patron Services Associate**. T﻿his is a unique
       opportunity to join two artistically innovative and community oriented
