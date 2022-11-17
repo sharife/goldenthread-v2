@@ -9,23 +9,24 @@ sidebar:
 
 Golden Thread Productions and Crowded Fire Theater are seeking a Development and Patron Services Associate. This is a shared administrative position serving both companies, which operate in partnership with each other, having shared functions including rehearsal and administrative space, artistic programming, vendors, services, and audience outreach efforts. This unique opportunity is ideal for a candidate interested in a career in non-profit arts management.
 
-**PURPOSE:** The Artistic Producer will assist the Executive Artistic Director (EAD), in close collaboration with the Managing Director (MD), in the day-to-day management of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation. Our main programs include full mainstage productions, a biennial Reorient Festival of Short Plays, a New Threads staged reading series, an International Women’s Day event, a digital live-stream series called No Summary, and a Resident Artists program.
+**PURPOSE:** Under the direct supervision of senior staff members, this key position will be responsible for the management of patron and donor information and will provide support for development and patron services. This team member will foster our audience and donor development goals by performing administrative donor cultivation procedures, providing exceptional customer service, and processing accurate box office and donation information. Additionally, this position will assist with basic marketing, outreach and operational projects as time allows.
 
 **Essential Duties and Responsibilities:**
 
-**Artistic:**
+**Development**
 
-* Participate in the reading and assessment of scripts and sending responses to playwrights.
-* Manage all details of casting and auditions including Equity, season and general auditions, casting database, and actor communication.
-* Assist the EAD in assembling creative teams and technical support and organizing relevant staffing and resources for programs.
-* Communicate directly with playwrights, literary agents, artists and other theatre peers.
+* Providing support for major donor development via prospect cultivation and moves management administration by executing processes that help identify and cultivate new and existing donors to deepen their engagement with the organization.
+* Processing donations and gift acknowledgements
+* Maintaining, updating, and reporting accurate patron and donor data
+* Supporting the creation of fundraising campaigns, including solicitation and renewal materials
+* A﻿ssisting with logistics for donor events
 
-**Production:**
+**Patron Services:**
 
-* Serve as lead producer for New Threads staged reading series and new play development workshops.
-* Provide production management support including, but not limited to, season calendar scheduling, technical direction planning, coordination of design and production meetings, budget management and monitoring, rehearsal logistics, and other production related details.
-* Attend technical rehearsals, previews, performances and events as needed.
-* Act as a liaison between all departments involved in the production process to ensure timely and accurate information flow.
+* Processing ticket requests for patrons, VIPs, pass-holders, donors, sponsors, and groups
+* Providing quality customer service to patrons via phone and email
+* Preparing pre/post show patron emails
+* Building ticketing events, running box office reports, and maintaining comp ticket lists
 
 **Administration:**
 
