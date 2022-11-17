@@ -9,7 +9,7 @@ sidebar:
 
 Golden Thread Productions and Crowded Fire Theater are seeking a Development and Patron Services Associate. This is a shared administrative position serving both companies, which operate in partnership with each other, having shared functions including rehearsal and administrative space, artistic programming, vendors, services, and audience outreach efforts. This unique opportunity is ideal for a candidate interested in a career in non-profit arts management.
 
-**PURPOSE:** Under the direct supervision of senior staff members, this key position will be responsible for the management of patron and donor information and will provide support for development and patron services. This team member will foster our audience and donor development goals by performing administrative donor cultivation procedures, providing exceptional customer service, and processing accurate box office and donation information. Additionally, this position will assist with basic marketing, outreach and operational projects as time allows.
+**PURPOSE:** Under the direct supervision of senior staff members, this key position will be responsible for the management of patron and donor information and will provide support for development and patron services. This team member will foster our audience and donor development goals by performing administrative donor cultivation procedures, providing exceptional customer service and processing accurate box office and donation information. Additionally, this position will assist with basic marketing, outreach and operational projects as time allows.
 
 **Essential Duties and Responsibilities:**
 
@@ -34,7 +34,7 @@ Golden Thread Productions and Crowded Fire Theater are seeking a Development and
 * Supporting marketing, outreach, and engagement activities by distributing materials, posting on social media, or representing both theaters at events
 * Supporting Night of Show and Front of House duties on-site during performances as needed
 * Participating in special projects and providing administrative support under the direction of the leadership team and in collaboration with other team members
-* Working collaboratively with the teams of both theaters to updold organizational culture of Equity, Diversity, and Inclusion
+* Working collaboratively with the teams of both theaters to uphold organizational culture of Equity, Diversity, and Inclusion
 
 **Qualifications and Skills:**
 
@@ -51,7 +51,7 @@ We believe that people gain skills through a variety of professional, personal, 
 
 Crowded Fire Theater and Golden Thread Productions provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, sexual orientation, disability, or gender. Crowded Fire is a former member and Golden Thread is a current member of Theater Communications Group’s Equity, Diversity, and Inclusion Institute. Both companies operate fully vaccinated workplaces.
 
-**Application Instructions:** Please email a resume and a detailed cover letter explaining your interest in the position and our organizations, along with the names and contact information for three or more references, to GoldenThread@CrowdedFire.org, subject line: Development and Patron Services Associate.  Please make sure that references are from current and/or former supervisors and that information includes names, phone numbers, and the name of the organization where you worked with each person. No phone calls or packets by regular mail, please. Applications will be reviewed on a rolling basis and the position will remain upon until filled.
+**Application Instructions:** Please email a resume and a detailed cover letter explaining your interest in the position and our organizations, along with the names and contact information for three or more references, to GoldenThread@CrowdedFire.org, subject line: Development and Patron Services Associate. Please include references from current and/or former supervisors that include names, phone numbers, and the name of the organization where you worked with each person. No phone calls or packets by regular mail, please. Applications will be reviewed on a rolling basis and the position will remain upon until filled.
 
 ![]()
 
