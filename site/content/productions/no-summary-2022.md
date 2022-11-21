@@ -33,8 +33,8 @@ lists:
 
 
           Register in advance for free and join us on the Zoom webinar to ask your questions directly of the panelists!
-        cta: Register now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007VG5xUAG
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=wc4kUyxqY4s
         pre: Friday, November 11, 2022 at 11:00AM (PST)
         image: https://ucarecdn.com/9bd92a08-b032-4d7c-9dc3-30b84793c107/
       - itemstart: 2022-09-01T18:00:00.000Z
