@@ -44,6 +44,6 @@ items:
       of our Fairytale Players production of ***Nasrudin’s Magnificent Journey
       to Samarkand***."
     image: https://ucarecdn.com/f9ba8983-1b7f-46d4-a43e-bfacecc12dd1/
-    cta: Read our full statement.
-    link: https://goldenthread.org/posts/we-stand-in-solidarity-with-women-in-iran/
+    cta: Read More!
+    link: https://goldenthread.org/season/upcoming/
 ---
