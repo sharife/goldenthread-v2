@@ -12,7 +12,7 @@ description: Golden Thread Productions, the first American theatre company
   theatre venues. All readings are at **7pm and FREE**. Seating is limited,
   therefore registration is highly recommended.
 background: ""
-titleimage: ""
+titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
 programlabel: ""
 program: ""
 stage: Brava Theater Center
@@ -65,6 +65,6 @@ Golden Thread is a fully vaccinated company. All patrons must present proof of v
 
 Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
 
-Seating will be general admission and limited to 75% capacity. Advanced purchase or registration is advised.
+Seating will be general admission and with no limited capacity. Advanced purchase or registration is advised.
 
 By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
