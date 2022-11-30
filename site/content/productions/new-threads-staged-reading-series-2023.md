@@ -31,11 +31,11 @@ lists:
 
           dramaturgy by **Dawn Monique Williams**
         text: Inspired by the Black Panthers’ residency in Algiers in the 1960s, Tariq
-          Hamami is exploring the intersection of Black American and Algerian
-          battle against colonialism and white supremacy. Drawing from his own
-          family history, Hamami is developing a new play that will center the
-          Algerian experience while highlighting the global interconnection in
-          our ongoing struggle for freedom and human dignity.
+          Hamami' s new play explores the intersection of Black American and
+          Algerian battle against colonialism and white supremacy. Drawing from
+          his own family history, Hamami is developing a new play that will
+          center the Algerian experience while highlighting the global
+          interconnection in our ongoing struggle for freedom and human dignity.
         cta: ""
         link: ""
       - itemstart: ""
@@ -51,7 +51,7 @@ lists:
           prisoner, Abd El-Fattah, who has spent much of the last decade and
           remains to this day imprisoned in Cairo. Abd El-Fattah continues to
           write from his confinement, somehow smuggling treatises to the outside
-          world. Elsayigh’s Alaa will invite audiences into a world that
+          world. Elsayigh’s *Alaa* will invite audiences into a world that
           juxtaposes physical storytelling and embodied ritual using Abd
           El-Fattah’s recently-anthologized writings.
         cta: ""
