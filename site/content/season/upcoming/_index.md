@@ -9,6 +9,21 @@ background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
 lists:
   - heading: Productions
     items:
+      - title: Nasrudin's Magnificent Journey to Samarkand Returns!
+        text: Adapted from several folk tales from the Middle East and Central Asia,
+          this performance is centered around the comedic personage, Mulla
+          Nasrudin or Nasrudin Hoja, a renowned wise fool. Nasrudin’s clever
+          wisdom and propensity for exposing hypocrisy frequently get him into
+          trouble. In this performance, we follow Nasrudin’s adventures as he
+          travels through caravansaries in Konya, Damascus, and Isfahan before
+          he arrives at his destination on the ancient Silk Route. Will Nasrudin
+          and his faithful donkey ever make it to Samarkand, the center of arts
+          and crafts on the ancient Silk Road? There is only one way to find
+          out!
+        pre: ""
+        subtitle: 2023 Spring, Summer, and Fall shows touring throughout the Bay Area
+        cta: View
+        image: https://ucarecdn.com/fd87a1fa-033a-4d2d-9b33-5c1de0aee48f/
       - title: "What Do the Women Say? 2023: Fighters for Freedom"
         subtitle: "*Presented in a hybrid format with artists appearing in-person and
           virtually. Audiences can join in-person or online.*"
@@ -26,21 +41,12 @@ lists:
           conversation between the participating artists and the audience
           following the presentations.
         cta: View
-      - title: Nasrudin's Magnificent Journey to Samarkand Returns!
-        text: Adapted from several folk tales from the Middle East and Central Asia,
-          this performance is centered around the comedic personage, Mulla
-          Nasrudin or Nasrudin Hoja, a renowned wise fool. Nasrudin’s clever
-          wisdom and propensity for exposing hypocrisy frequently get him into
-          trouble. In this performance, we follow Nasrudin’s adventures as he
-          travels through caravansaries in Konya, Damascus, and Isfahan before
-          he arrives at his destination on the ancient Silk Route. Will Nasrudin
-          and his faithful donkey ever make it to Samarkand, the center of arts
-          and crafts on the ancient Silk Road? There is only one way to find
-          out!
-        pre: ""
-        subtitle: 2023 Spring, Summer, and Fall shows touring throughout the Bay Area
+      - title: No Summary 2023
+        subtitle: ""
+        text: These curated digital discussions invite artists of Middle Eastern and
+          North African heritage to discuss the many layers of their identity
+          and how it impacts their work and artistic choices.
         cta: View
-        image: https://ucarecdn.com/fd87a1fa-033a-4d2d-9b33-5c1de0aee48f/
       - title: "Amreeka: The Comedy Show"
         subtitle: Featuring **Amer Zahr** and **Eman El-Husseini**
         pre: "Friday, May 12, 2023 at 8:00 PM at Brava Theater Center - 2781 24th
@@ -58,10 +64,15 @@ lists:
 
           For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
         cta: View
-      - title: No Summary 2023
+      - title: New Threads Staged Reading Series 2023
+        pre: August 22 and 29, 2023 at 7:00 PM at Brava Theater Center - 2781 24th
+          Street, San Francisco, CA 94110
         subtitle: ""
-        text: These curated digital discussions invite artists of Middle Eastern and
-          North African heritage to discuss the many layers of their identity
-          and how it impacts their work and artistic choices.
+        text: Our popular and free staged reading series, New Threads, returns!
+          Featuring our two new play commissions, one by **Adam Ashraf
+          Elsayigh** with dramaturg **Salma Zodi** based on the life of
+          political prisoner Alaa Abd El-Fattah and another by **Tariq Hamami**
+          with dramaturg **Dawn Monique Williams** about the Black Panthers in
+          Algiers.
         cta: View
 ---
