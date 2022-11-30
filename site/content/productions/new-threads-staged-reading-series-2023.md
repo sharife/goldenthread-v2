@@ -31,7 +31,7 @@ lists:
 
           dramaturgy by **Dawn Monique Williams**
         text: Inspired by the Black Panthers’ residency in Algiers in the 1960s, Tariq
-          Hamami' s new play explores the intersection of Black American and
+          Hamami' s new play explores the intersection of the Black American and
           Algerian battle against colonialism and white supremacy. Drawing from
           his own family history, Hamami is developing a new play that will
           center the Algerian experience while highlighting the global
