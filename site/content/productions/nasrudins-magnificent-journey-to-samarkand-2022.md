@@ -7,11 +7,11 @@ start: ""
 end: ""
 description: ""
 background: https://ucarecdn.com/564df1be-5f9e-4684-aa74-87bf2ccb4de1/
-titleimage: https://ucarecdn.com/3d3fbe46-6ce0-4f79-8836-fd697a75c92e/
+titleimage: https://ucarecdn.com/50a9d750-6d9f-4875-842f-cd05e0647469/
 videos: []
 writer: Torange Yeghiazarian
 director: Sarah Al-Kassab
-featuring: Bidalia Albanese, Leyla Modirzadeh
+featuring: Bidalia Albanese, Sarah Al Kassab
 designteam: Scenic & Prop Design by Mokhtar Paki
 additional: Dance choreography by Lisa Tateosian
 stage: Various Bay Area schools & libraries
