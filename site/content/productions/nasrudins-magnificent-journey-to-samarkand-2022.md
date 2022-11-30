@@ -1,7 +1,7 @@
 ---
 title: Nasrudin's Magnificent Journey to Samarkand
 pre: Golden Thread Fairytale Players Present
-season: 2022
+season: 2023
 date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
@@ -24,7 +24,7 @@ photos:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
     - image: https://ucarecdn.com/4e633dae-d0fb-4632-9386-c82a47e5aff5/
     - image: https://ucarecdn.com/5cb98226-2645-4b7e-a8d1-55583c7277d4/
-  heading: "Photos from Spring 2022 tour. "
+  heading: Photos from the Spring 2022 tour!
 photos2:
   items:
     - image: ""
@@ -32,7 +32,7 @@ photos3:
   items:
     - image: ""
 ---
-Our 2022 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
+Our 2023 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
 
 This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble.
 
