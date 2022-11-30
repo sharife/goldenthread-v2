@@ -1,6 +1,6 @@
 ---
 title: New Threads Staged Reading Series 2023
-pre: August 22 and 29, 2023 at 7:00 PM
+pre: ""
 season: 2023
 date: 2022-11-30T03:02:28.249Z
 start: 2023-08-22T07:00:00.000Z
