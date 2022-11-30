@@ -1,5 +1,5 @@
 ---
-title: Support the 2022 Season!
+title: Support the 2023 Season!
 sidebar:
   heading: There are so many ways to participate!
   text: Your generous support is vital to our work. **[Make your gift
@@ -13,30 +13,29 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# <center>A New Era of Golden Thread Begins with You!</center>
+# <center>Building Foreward</center>
 
-The future of Golden Thread is full of possibility as we devise new opportunities, explore fresh ideas, practice artistic invention, and build new connections. As we embark together on Golden Thread’s next chapter, we are excited and inspired to carry on the legacy of our history and mission.  We remain:
+2022 was a special year filled with surprising and rare stories from new, emerging, and established artists. With your support, we leapt enthusiastically into Golden Thread’s new era and achieved many heights!
 
-### **<center>Committed to Artistic Excellence<center>**
+### **<center>The New Ear has Begun<center>**
 
-* We make daring artistic choices, take risks, and experiment in the pursuit of high quality productions that build community and cultural empowerment with shows like [Oh My Sweet Land](https://goldenthread.org/productions/sweet-land/), [Scenes From 71* Years](https://goldenthread.org/productions/scenes-from-71-years/), [The Language of Wild Berries](https://goldenthread.org/productions/the-language-of-wild-berries-2022/), and [Drowning in Cairo](https://goldenthread.org/productions/drowning-in-cairo/).
-* We commission new works, facilitating innovative collaborations and initiating unique development processes with a long track record of producing world premieres and collaboratively developing original plays including [Benedictus](https://goldenthread.org/productions/benedictus/), [Ecstasy | a waterfable](https://goldenthread.org/productions/ecstasy-a-waterfable/), [Night Over Erzinga](https://goldenthread.org/productions/night-over-erzinga/), [Isfahan Blues](https://goldenthread.org/productions/isfahan-blues/), and [We Swim, We Talk, We Go to War](https://goldenthread.org/productions/we-talk-we-swim/).
-* We are a vibrant artistic home to artists at various stages of their career and have helped launch the careers of nationally recognized playwrights like Yussef El Guindi, Betty Shamieh, Denmo Ibrahim, Mona Mansour, and Adriana Sevahn Nichols.
-* We are a pioneer in the field of Middle Eastern American theatre, establishing exceptional signature programs unparalleled in the national theatre scene such as the [ReOrient Festival](https://goldenthread.org/programs/reorient/), [Fairytale Players](https://goldenthread.org/programs/fairytale-players/), and [What Do the Women Say?](https://goldenthread.org/programs/what-do-the-women-say/)
+We returned to full, in-person programming, after our first-ever leadership transition, with Executive Artistic Director Sahar Assaf’s incredible first season.
 
-### **<center>Devoted to the Middle East<center>**
+### **<center>**A Season of Firsts**<center>**
 
-* We exist to shift the narrative of the Middle East in American culture, combatting negative stereotypes and narrow perceptions with multi-layered complex portrayals that reflect the rich diversity of the region.
-* We are here to tell our own stories in our own words and to make a place for these stories in the American theatre.
-* We define the Middle East broadly and inclusively, celebrating the plurality of Middle Eastern geographies, languages, religions and cultures as well as embracing American Muslims, of all cultural, ethnic, and racial backgrounds, as members of our Middle Eastern American communities.
-* We stand in solidarity with all communities engaged in the struggle for justice and equality, especially BIPOC and LGBTQ communities who like Muslims, immigrants, and “minorities” in the US, are often targeted, harassed and vilified.
+We produced Adam Ashraf Elsayigh’s very first play, which featured our new Executive Artistic Director Sahar Assaf’s directorial debut at Golden Thread, and introduced celebrated Iranian playwright Naghmeh Samini in her U.S. premiere. We commissioned a new play and helped develop the work of artists exploring home, traveling on epic journeys, and searching to find their true selves.
 
-### **<center>Rooted in Community<center>**
+### **<center>**So Many Rare Gems**<center>**
 
-* We are a company created by, of, and for Middle Eastern artists and communities.
-* We celebrate Middle Eastern women and inspire cultural pride and joy in Middle Eastern youth and families.
-* We uphold a community that welcomes people of all races, ages, abilities, sexual orientations, genders, socioeconomic backgrounds, citizenship statuses, and religions.
-* We are dedicated to creating dialogue and curating meaningful conversations, acknowledging and celebrating our differences which frequently leads to unexpected similarities that remind us of our shared humanity.
+We uplifted a rare queer MENA narrative about an important historical event in Adam Ashraf Elsayigh’s *Drowning in Cairo*, a contemporary Iranian story about love and marriage with a surprising twist in Naghmeh Samini’s *The Language of Wild Berries*, and the beloved tale of Nasrudin’s mischief and morality from the Muslim world written by Torange Yeghiazarian, directed by Sarah Al Kassab.
+
+### **<center>**We Went on the Road**<center>**
+
+The *Golden Thread Fairytale Players* returned to Bay Area schools and libraries, our *New Threads Staged Reading Series* traveled to Brava Theater, ZSpace, and the Potrero Stage, and Adam Ashraf Elsayigh’s *Drowning in Cairo* went all the way to The Lab at Georgetown University in Washington DC.
+
+### **<center>**More Screen Time**<center>**
+
+We livestreamed our *What Do the Women Say?* program with virtual and in-person artists and audiences, offered a Video-on-demand version of both mainstage productions, and our digital *No Summary* artist conversation series appeared on Facebook, Howlround.tv and as part of the 2022 MENATMA (MENA Theater Makers Alliance) Convening.
 
 Join us as we enter into a new era of Golden Thread with a contribution today!
 
