@@ -22,7 +22,7 @@ items:
     cta: Read More!
     link: https://goldenthread.org/season/upcoming/
   - image: https://ucarecdn.com/ed42c498-da38-44d7-b5d9-cc0612c5f23f/
-    subtitle: "**We're Hiring!**"
+    subtitle: "**Join the Team!**"
     cta: Learn More!
     link: https://goldenthread.org/get-involved/jobs/
     text: >-
