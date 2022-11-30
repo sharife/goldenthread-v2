@@ -3,8 +3,8 @@ title: ReOrient 2023
 pre: Six short plays. One unforgettable evening.
 season: 2023
 date: 2022-11-30T01:30:40.142Z
-start: 2023-10-14T06:59:00.000Z
-end: 2023-11-05T06:59:00.000Z
+start: 2023-10-13T07:00:00.000Z
+end: 2023-11-04T07:00:00.000Z
 heading: Think you know the Middle East? Think again!
 description: >-
   ReOrient 2023 will celebrate the return of our signature program, an
