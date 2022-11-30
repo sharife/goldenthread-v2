@@ -13,7 +13,7 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# <center>Building Foreward</center>
+# <center>Building Forward</center>
 
 2022 was a special year filled with surprising and rare stories from new, emerging, and established artists. With your support, we leapt enthusiastically into Golden Thread’s new era and achieved many heights!
 
