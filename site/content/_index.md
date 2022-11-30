@@ -36,13 +36,15 @@ items:
       customer service, and processing accurate box office and donation
       information.
   - image: https://ucarecdn.com/9094f861-fc8b-4e5c-8275-fe002b0777d7/
-    subtitle: "**Join our End of Year Campaign!**"
+    subtitle: "**Make a Donation!**"
     cta: Donate Now!
     link: https://goldenthread.org/donate/
     text: >-
       2022 was a special year filled with surprising and rare stories from new,
-      emerging, and established artists. With your support, we leapt
-      enthusiastically into Golden Thread’s new era and achieved many heights!
+      emerging, and established artists, including a rare queer MENA narrative,
+      a surprising contemporary Iranian love story, and a treasured folktale
+      from the Muslim world. With your support, we leapt enthusiastically into
+      Golden Thread’s new era and achieved many heights!
 
 
       Our 2023 season will emphasize our commitment to uplift one another by exploring ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality. Make your contribution today!
