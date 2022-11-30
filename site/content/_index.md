@@ -38,11 +38,11 @@ items:
     cta: Donate Now!
     link: https://goldenthread.org/donate/
     text: >-
-      2022 was a special year filled with surprising and rare stories from new,
-      emerging, and established artists, including a rare queer MENA narrative,
-      a surprising contemporary Iranian love story, and a treasured folktale
-      from the Muslim world. With your support, we leapt enthusiastically into
-      Golden Thread’s new era and achieved many heights!
+      2022 was a special year filled with surprising and unusual stories from
+      new, emerging, and established artists, including a rare queer MENA
+      narrative, a surprising contemporary Iranian love story, and a treasured
+      folktale from the Muslim world. With your support, we leapt
+      enthusiastically into Golden Thread’s new era and achieved many heights!
 
 
       Our 2023 season will emphasize our commitment to uplift one another by exploring ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality. Make your contribution today!
