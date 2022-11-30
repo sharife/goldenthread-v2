@@ -7,9 +7,9 @@ start: ""
 end: ""
 description: >-
   Our 2023 theater for young audiences production is an interpretation of a play
-  from the Golden Thread Fairytale Players repertoire entitled Nasrudin’s
-  Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed
-  by Sarah Al-Kassab.
+  from the Golden Thread Fairytale Players repertoire entitled *Nasrudin’s
+  Magnificent Journey to Samarkand*, written by **Torange Yeghiazarian** and
+  directed by **Sarah Al-Kassab**.
 
 
   Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
