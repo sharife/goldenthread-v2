@@ -3,8 +3,8 @@ title: ReOrient 2023
 pre: Six short plays. One unforgettable evening.
 season: 2023
 date: 2022-11-30T01:30:40.142Z
-start: ""
-end: ""
+start: 2023-10-14T03:00:00.000Z
+end: 2023-11-05T03:00:00.000Z
 heading: Think you know the Middle East? Think again!
 description: >-
   ReOrient 2023 will celebrate the 21st anniversary of this innovative and
@@ -28,12 +28,10 @@ designteam: ""
 dramaturg: ""
 additional: ""
 stage: Potrero Stage
-address: 1695 18th Street, San Francisco
+address: 1695 18th Street, San Francisco, CA 94107
 ticketlink: ""
 misc: ""
 lists:
-  - heading: Middle Eastern and North African American Theatre Artists Convening
-    items: []
   - heading: REORIENT 2023 LINE-UP
     items:
       - image: ""
@@ -104,6 +102,6 @@ photos3:
 archivevideo: ""
 bottom:
   text: ""
-  heading: Thanks to our generous sponsors!
+  heading: ""
 ---
 ![]()
