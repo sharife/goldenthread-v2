@@ -37,7 +37,7 @@ The *Golden Thread Fairytale Players* returned to Bay Area schools and libraries
 
 We livestreamed our *What Do the Women Say?* program with virtual and in-person artists and audiences, offered a Video-on-demand version of both mainstage productions, and our digital *No Summary* artist conversation series appeared on Facebook, Howlround.tv and as part of the 2022 MENATMA (MENA Theater Makers Alliance) Convening
 
-
+In our 2023 season we'll emphasize our commitment to uplift one another by exploring ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality. Make your contribution today!
 
 
 
