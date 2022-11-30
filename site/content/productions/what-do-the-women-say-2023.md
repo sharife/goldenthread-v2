@@ -3,7 +3,7 @@ title: What Do The Women Say? 2023
 pre: a celebration of International Women's Day
 season: 2023
 date: 2022-11-30T01:22:55.313Z
-start: 2023-03-09T04:00:55.346Z
+start: ""
 end: ""
 heading: "This year's theme: Fighters for Freedom"
 description: >-
