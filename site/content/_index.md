@@ -20,8 +20,8 @@ items:
       administrative donor cultivation procedures, providing exceptional
       customer service, and processing accurate box office and donation
       information.
-  - image: https://ucarecdn.com/7b996b6b-d534-469e-8915-c062de62fe1f/
-    subtitle: "**Support the 2023 Season!**"
+  - image: https://ucarecdn.com/9094f861-fc8b-4e5c-8275-fe002b0777d7/
+    subtitle: "**Join our End of Year Campaign!**"
     cta: Donate Now!
     link: https://goldenthread.org/donate/
     text: >-
@@ -43,7 +43,7 @@ items:
       our digital conversation series ***No Summary***, and the continuing tour
       of our Fairytale Players production of ***Nasrudin’s Magnificent Journey
       to Samarkand***."
-    image: https://ucarecdn.com/f9ba8983-1b7f-46d4-a43e-bfacecc12dd1/
+    image: https://ucarecdn.com/87cd68bf-490a-47fd-980a-5f4091230b82/
     cta: Read More!
     link: https://goldenthread.org/season/upcoming/
 ---
