@@ -1,11 +1,17 @@
 ---
 title: "2023 Season: Building Forward"
 currentseason: "2023"
-intro: >
+intro: >-
   Building Forward - This year we emphasize our commitment to uplift one another
   as we explore ways to connect, cope, and be moved to make change. Join us as
   we look for comfort in comic relief, seek unity in collaboration, and find
-  inspiration in the stories of those fighting for justice and equality.
+  inspiration in the stories of those fighting for justice and equality. 
+   
+
+  Our season will include our signature ReOrient Festival and Forum, an evening of stand-up comedy curated by Wafaa Bilal entitled Amreeka: The Comedy Show, and New Threads readings of our two new play commissions, one by Adam Ashraf Elsayigh with dramaturg Salma Zodi based on the life of political prisoner Alaa Abd El-Fattah and another by Tariq Hamami with dramaturg Dawn Monique Williams about the Black Panthers in Algiers. The season will also include our annual International Women's Day celebration What Do the Women Say?, our digital conversation series No Summary, and the continuing tour of our Fairytale Players production of Nasrudin’s Magnificent Journey to Samarkand. 
+
+   
+  We are excited to have Wafaa Bilal, an Iraqi-born artist and Arts Professor at NYU’s Tisch School of the Arts, as our 2023 Artist-in-residence, who will collaborate with us on a number of projects throughout the year. In addition, we have works in collaboration with national and local theatres Art2Action (Florida), Brava! for Women in the Arts, the San Francisco Playhouse, Z Space and with Her Story Is, a collective led by independent women writers and artists from the United States and Iraq housed at Fort Point Theatre Channel (Boston).  
 background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
 lists:
   - heading: Productions
