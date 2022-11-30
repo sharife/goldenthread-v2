@@ -9,7 +9,7 @@ background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
 lists:
   - heading: Productions
     items:
-      - title: Nasrudin's Magnificent Journey to Samarkand Returns!
+      - title: Nasrudin's Magnificent Journey to Samarkand
         text: Adapted from several folk tales from the Middle East and Central Asia,
           this performance is centered around the comedic personage, Mulla
           Nasrudin or Nasrudin Hoja, a renowned wise fool. Nasrudin’s clever
@@ -21,14 +21,13 @@ lists:
           and crafts on the ancient Silk Road? There is only one way to find
           out!
         pre: ""
-        subtitle: 2023 Spring, Summer, and Fall shows touring throughout the Bay Area
+        subtitle: Touring Spring, Summer, and Fall throughout the Bay Area
         cta: View
         image: https://ucarecdn.com/fd87a1fa-033a-4d2d-9b33-5c1de0aee48f/
       - title: "What Do the Women Say? 2023: Fighters for Freedom"
         subtitle: "*Presented in a hybrid format with artists appearing in-person and
           virtually. Audiences can join in-person or online.*"
-        pre: "Wednesday, March 8, 2023 at 8:00 PM at Brava Theater Center - 2781 24th
-          Street, San Francisco, CA 94110 "
+        pre: Wednesday, March 8, 2023
         text: Featuring the work of Middle Eastern women artists who are fighting
           against injustice through their art, this year’s program will include
           presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and
@@ -49,8 +48,7 @@ lists:
         cta: View
       - title: "Amreeka: The Comedy Show"
         subtitle: Featuring **Amer Zahr** and **Eman El-Husseini**
-        pre: "Friday, May 12, 2023 at 8:00 PM at Brava Theater Center - 2781 24th
-          Street, San Francisco, CA 94110 "
+        pre: Friday, May 12, 2023
         text: >-
           Curated by Artist-in-residence, **Wafaa Bilal**, ***Amreeka: The
           Comedy Show*** was born after the 2016 election, bringing together
@@ -65,8 +63,7 @@ lists:
           For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
         cta: View
       - title: New Threads Staged Reading Series 2023
-        pre: August 22 and 29, 2023 at 7:00 PM at Brava Theater Center - 2781 24th
-          Street, San Francisco, CA 94110
+        pre: August 22 and 29, 2023
         subtitle: ""
         text: Our popular and free staged reading series, New Threads, returns!
           Featuring our two new play commissions, one by **Adam Ashraf
@@ -74,5 +71,14 @@ lists:
           political prisoner Alaa Abd El-Fattah and another by **Tariq Hamami**
           with dramaturg **Dawn Monique Williams** about the Black Panthers in
           Algiers.
+        cta: View
+      - title: ReOrient Festival and Forum 2023
+        pre: October 13 - November 4, 2023
+        text: >-
+          An evening of short plays showcasing diverse aesthetics and
+          perspectives from or about the Middle East.  
+
+
+          Our signature program returns in 2023 with a dizzying line-up of 6 short plays selected from 113 submissions.
         cta: View
 ---
