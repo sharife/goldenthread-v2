@@ -3,8 +3,8 @@ title: What Do The Women Say? 2023
 pre: a celebration of International Women's Day
 season: 2023
 date: 2022-11-30T01:22:55.313Z
-start: 2022-11-30T01:22:55.346Z
-end: 2022-11-30T01:22:55.369Z
+start: 2023-03-09T04:00:55.346Z
+end: ""
 heading: "This year's theme: Fighters for Freedom"
 description: >-
   In celebration of International Women’s Day, Golden Thread’s *What Do the
