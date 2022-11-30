@@ -35,8 +35,10 @@ The *Golden Thread Fairytale Players* returned to Bay Area schools and libraries
 
 ### **<center>**More Screen Time**<center>**
 
-We livestreamed our *What Do the Women Say?* program with virtual and in-person artists and audiences, offered a Video-on-demand version of both mainstage productions, and our digital *No Summary* artist conversation series appeared on Facebook, Howlround.tv and as part of the 2022 MENATMA (MENA Theater Makers Alliance) Convening.
+We livestreamed our *What Do the Women Say?* program with virtual and in-person artists and audiences, offered a Video-on-demand version of both mainstage productions, and our digital *No Summary* artist conversation series appeared on Facebook, Howlround.tv and as part of the 2022 MENATMA (MENA Theater Makers Alliance) Convening
 
-Join us as we enter into a new era of Golden Thread with a contribution today!
+
+
+
 
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
