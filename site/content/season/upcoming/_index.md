@@ -10,9 +10,10 @@ lists:
   - heading: Productions
     items:
       - title: "What Do the Women Say? 2023: Fighters for Freedom"
-        subtitle: Wednesday, March 8, 2023 at 8:00 PM
-        pre: "Presented in a hybrid format with artists appearing in-person and
-          virtually. Audiences can join in-person or online. "
+        subtitle: "*Presented in a hybrid format with artists appearing in-person and
+          virtually. Audiences can join in-person or online.*"
+        pre: "Wednesday, March 8, 2023 at 8:00 PM at Brava Theater Center - 2781 24th
+          Street, San Francisco, CA 94110 "
         text: Featuring the work of Middle Eastern women artists who are fighting
           against injustice through their art, this year’s program will include
           presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and
@@ -40,4 +41,27 @@ lists:
         subtitle: 2023 Spring, Summer, and Fall shows touring throughout the Bay Area
         cta: View
         image: https://ucarecdn.com/fd87a1fa-033a-4d2d-9b33-5c1de0aee48f/
+      - title: "Amreeka: The Comedy Show"
+        subtitle: Featuring **Amer Zahr** and **Eman El-Husseini**
+        pre: "Friday, May 12, 2023 at 8:00 PM at Brava Theater Center - 2781 24th
+          Street, San Francisco, CA 94110 "
+        text: >-
+          Curated by Artist-in-residence, **Wafaa Bilal**, ***Amreeka: The
+          Comedy Show*** was born after the 2016 election, bringing together
+          diverse comedians with one thing in common: they love to complain.
+          Then and since, the toxic culture and politics in “Amreeka,” as many
+          Middle Easterners pronounce it, offers ample fodder for complaints.
+          This cathartic and witty venting holds a mirror up to realities
+          showing they’ve become so absurd and surreal one must laugh, if not
+          cry.   
+
+
+          For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
+        cta: View
+      - title: No Summary 2023
+        subtitle: ""
+        text: These curated digital discussions invite artists of Middle Eastern and
+          North African heritage to discuss the many layers of their identity
+          and how it impacts their work and artistic choices.
+        cta: View
 ---
