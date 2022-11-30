@@ -3,7 +3,7 @@ title: New Threads Staged Reading Series 2022
 season: 2022
 date: 2021-10-21T21:43:38.425Z
 start: 2022-08-09T07:00:00.000Z
-end: 2022-08-30T07:00:00.000Z
+end: 2022-08-29T07:00:00.000Z
 description: Golden Thread Productions, the first American theatre company
   devoted to the Middle East, returns with **New Threads 2022**, its popular and
   free staged reading series. The four staged readings will take place
