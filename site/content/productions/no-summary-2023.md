@@ -3,8 +3,8 @@ title: No Summary 2023
 pre: Live-stream conversations with audience Q&A.
 season: 2023
 date: 2022-11-30T01:18:57.592Z
-start: 2022-11-30T01:18:57.659Z
-end: 2022-11-30T01:18:57.706Z
+start: 2023-04-14T18:00:00.000Z
+end: 2023-09-20T18:00:00.000Z
 heading: Conversations With Artists Who Don't Fit in a Box
 description: These curated digital discussions invite artists of Middle Eastern
   and North African heritage to discuss the many layers of their identity and
