@@ -31,14 +31,19 @@ items:
 
 
       Our 2023 season will emphasize our commitment to uplift one another by exploring ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality. Make your contribution today!
-  - subtitle: We Stand in Solidarity with Women in Iran
-    text: As we continue to witness the Zhina Mahsa Amini protests in Iran, we are
-      grateful to have the chance to come together united in the community to
-      celebrate two Iranian women, playwright Naghmeh Samini and director
-      Torange Yeghiazarian, to tell an Iranian story about love and language,
-      and stand in solidarity with the people of Iran whose fight for civil
-      rights is serving us all.
-    image: https://ucarecdn.com/77104927-1f74-4954-b92f-3837365b201a/
+  - subtitle: "**Announcing our 2023 Season!**"
+    text: "Our season will include our signature ***ReOrient Festival and Forum***,
+      an evening of stand-up comedy curated by **Wafaa Bilal** entitled
+      ***Amreeka: The Comedy Show***, and ***New Threads*** readings of our two
+      new play commissions, one by **Adam Ashraf Elsayigh** with dramaturg
+      **Salma Zodi** based on the life of political prisoner Alaa Abd El-Fattah
+      and another by **Tariq Hamami** with dramaturg **Dawn Monique Williams**
+      about the Black Panthers in Algiers. The season will also include our
+      annual International Women's Day celebration ***What Do the Women Say?***,
+      our digital conversation series ***No Summary***, and the continuing tour
+      of our Fairytale Players production of ***Nasrudin’s Magnificent Journey
+      to Samarkand***."
+    image: https://ucarecdn.com/f9ba8983-1b7f-46d4-a43e-bfacecc12dd1/
     cta: Read our full statement.
     link: https://goldenthread.org/posts/we-stand-in-solidarity-with-women-in-iran/
 ---
