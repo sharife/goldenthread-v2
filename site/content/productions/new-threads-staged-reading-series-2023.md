@@ -5,20 +5,21 @@ season: 2023
 date: 2022-11-30T03:02:28.249Z
 start: ""
 end: ""
-description: Golden Thread Productions, the first American theatre company
-  devoted to the Middle East, returns with **New Threads 2023**, its popular and
-  free staged reading series. The two staged readings will take place
-  **Tuesdays, August 22 and 29**  in a tour of three different San Francisco
-  theatre venues. All readings are at **7pm and FREE**. Seating is limited,
-  therefore registration is highly recommended.
+description: N﻿ew Threads returns in 2023 with staged readings of our two new
+  play commissions, one by **Adam Ashraf Elsayigh** with dramaturg **Salma
+  Zodi** based on the life of political prisoner Alaa Abd El-Fattah and another
+  by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the Black
+  Panthers in Algiers. The readings take place on **Tuesday, August 22nd and
+  29th** at **7pm**. Attendance is **FREE**, but seating is limited, so
+  registration is highly recommended.
 background: ""
-titleimage: ""
+titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
 programlabel: ""
 program: ""
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
-ticketlink: https://goldenthread.org/tickets/
-ticketinfo: Readings are FREE, however registration is recommended as space is limited.
+ticketlink: ""
+ticketinfo: ""
 lists:
   - items:
       - itemstart: ""
@@ -58,13 +59,3 @@ lists:
     heading: New Threads 2023 Lineup
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
-
-### <center>COVID Health & Safety</center>
-
-Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
-
-Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
-
-Seating will be general admission and limited to 75% capacity. Advanced purchase or registration is advised.
-
-By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
