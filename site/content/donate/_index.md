@@ -17,7 +17,7 @@ sidebar:
 
 2022 was a special year filled with surprising and rare stories from new, emerging, and established artists. With your support, we leapt enthusiastically into Golden Thread’s new era and achieved many heights!
 
-### **<center>The New Ear has Begun<center>**
+### **<center>The New Era has Begun<center>**
 
 We returned to full, in-person programming, after our first-ever leadership transition, with Executive Artistic Director Sahar Assaf’s incredible first season.
 
