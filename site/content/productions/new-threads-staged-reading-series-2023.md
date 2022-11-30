@@ -3,7 +3,7 @@ title: New Threads Staged Reading Series 2023
 pre: ""
 season: 2023
 date: 2022-11-30T03:02:28.249Z
-start: 2023-08-23T06:59:00.000Z
+start: 2023-08-23T02:00:00.000Z
 end: 2023-08-30T06:59:00.000Z
 description: N﻿ew Threads returns in 2023 with staged readings of our two new
   play commissions, one by **Adam Ashraf Elsayigh** with dramaturg **Salma
