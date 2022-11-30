@@ -5,6 +5,7 @@ season: 2023
 date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
+heading: 2023 Bay Area School and Library Tour
 description: >-
   Our 2023 theater for young audiences production is an interpretation of a play
   from the Golden Thread Fairytale Players repertoire entitled *Nasrudin’s
