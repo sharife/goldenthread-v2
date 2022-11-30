@@ -5,7 +5,14 @@ season: 2023
 date: 2021-10-26T19:18:20.793Z
 start: ""
 end: ""
-description: ""
+description: >-
+  Our 2023 theater for young audiences production is an interpretation of a play
+  from the Golden Thread Fairytale Players repertoire entitled Nasrudin’s
+  Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed
+  by Sarah Al-Kassab.
+
+
+  Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
 background: https://ucarecdn.com/564df1be-5f9e-4684-aa74-87bf2ccb4de1/
 titleimage: https://ucarecdn.com/50a9d750-6d9f-4875-842f-cd05e0647469/
 videos: []
@@ -32,8 +39,8 @@ photos3:
   items:
     - image: ""
 ---
-Our 2023 production is a new interpretation of a play from the Golden Thread Fairytale Players repertoire, Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab.
+
+
+
 
 This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble.
-
-Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out!
