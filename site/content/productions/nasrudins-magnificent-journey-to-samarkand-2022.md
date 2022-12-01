@@ -40,8 +40,4 @@ photos3:
   items:
     - image: ""
 ---
-
-
-
-
-This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble.
+Adapted from several folk tales from the Middle East and Central Asia, this performance is centered around the comedic personage, Mulla Nasrudin or Nasrudin Hoja, a renowned wise fool. Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. In this performance, we follow Nasrudin’s adventures as he travels through caravansaries in Konya and Damascus before he arrives at his destination on the ancient Silk Route.
