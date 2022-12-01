@@ -11,11 +11,11 @@ description: >-
   innovative and spirited festival of short plays from or about the Middle East.
   A dizzying line-up of 6 short plays selected from 113 submissions, the six
   short plays are diverse in content and style, highlighting the multiplicity of
-  Middle Eastern perspectives and identities. 
+  Middle Eastern perspectives and identities.
 
 
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
-background: https://ucarecdn.com/cffa23d2-0a39-4c47-a83d-a9503f5e912c/-/crop/881x480/0,0/-/preview/
+background: https://ucarecdn.com/3f3956da-8bb9-4939-8e5e-7e01e5753775/
 titleimage: ""
 program: ""
 videos:
