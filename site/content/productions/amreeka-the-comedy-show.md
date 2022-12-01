@@ -3,7 +3,7 @@ title: "Amreeka: The Comedy Show"
 pre: ""
 season: 2023
 date: 2022-11-30T02:59:06.337Z
-start: 2023-05-13T03:00:06.460Z
+start: ""
 end: ""
 description: >-
   Featuring **Amer Zahr** and **Eman El-Husseini**  
