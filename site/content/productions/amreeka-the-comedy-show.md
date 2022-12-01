@@ -7,8 +7,8 @@ start: 2023-05-12T07:00:00.000Z
 end: ""
 heading: Featuring **Amer Zahr** and **Eman El-Husseini**
 description: >-
-  Curated by our 2023 Artist-in-residence, **Wafaa Bilal**, Amreeka: The Comedy
-  Show was born after the 2016 election, bringing together diverse comedians
+  Curated by our 2023 Artist-in-residence, **Wafaa Bilal**, *Amreeka: The Comedy
+  Show* was born after the 2016 election, bringing together diverse comedians
   with one thing in common: they love to complain. Then and since, the toxic
   culture and politics in “Amreeka,” as many Middle Easterners pronounce it,
   offers ample fodder for complaints. This cathartic and witty venting holds a
