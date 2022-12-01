@@ -11,7 +11,7 @@ items:
       Forum***, an evening of stand-up comedy curated by **Wafaa Bilal**
       entitled ***Amreeka: The Comedy Show***, and ***New Threads*** readings of
       our two new play commissions, one by **Adam Ashraf Elsayigh** with
-      dramaturg **Salma Zodi** based on the life of political prisoner Alaa Abd
+      dramaturg **Salma Zohdi** based on the life of political prisoner Alaa Abd
       El-Fattah and another by **Tariq Hamami** with dramaturg **Dawn Monique
       Williams** about the Black Panthers in Algiers. The season will also
       include our annual International Women's Day celebration ***What Do the
