@@ -18,8 +18,7 @@ description: >-
 background: ""
 titleimage: https://ucarecdn.com/8feb21b8-f65c-4a66-b3c1-5f8d07fb9ebb/
 program: ""
-videos:
-  - id: ""
+videos: []
 writer: ""
 director: ""
 featuring: ""
