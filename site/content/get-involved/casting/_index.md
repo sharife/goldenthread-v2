@@ -51,7 +51,13 @@ Golden Thread Productions is the first theatre company in the U.S. devoted to pl
 
 Summary of Forms and Documents 
 
-First time auditioning for Golden Thread, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
-Submitting for ReOrient, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdENVa7SV4D0mVaZegFva5eNEJX73KT4l5l4p_5z-PDnj-8HQ/viewform).
-List of plays, synopses, and characters, [here](https://docs.google.com/document/d/1sKTGE68TLStspicIBnSw4C5oQwMxIO-n/edit). 
-ReOrient sides, [here](https://drive.google.com/drive/folders/1cFUC0KT6vwc-9VnRLZQ5xz3xAHs5GlPI).
+\- First time auditioning for Golden Thread, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
+
+
+\- Submitting for ReOrient, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdENVa7SV4D0mVaZegFva5eNEJX73KT4l5l4p_5z-PDnj-8HQ/viewform).
+
+
+\- List of plays, synopses, and characters, [here](https://docs.google.com/document/d/1sKTGE68TLStspicIBnSw4C5oQwMxIO-n/edit). 
+
+
+\- ReOrient sides, [here](https://drive.google.com/drive/folders/1cFUC0KT6vwc-9VnRLZQ5xz3xAHs5GlPI).
