@@ -49,7 +49,7 @@ Email [auditions@goldenthread.org](auditions@goldenthread.org) for any inquiries
 **About Golden Thread** 
 Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
 
-Summary of Forms and Documents 
+**Summary of Forms and Documents** 
 
 \- First time auditioning for Golden Thread, [this form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
 
