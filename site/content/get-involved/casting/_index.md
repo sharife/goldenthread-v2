@@ -37,10 +37,10 @@ Bay Area Theatre $400 weekly (20 hours/week, Intro Tier) or $20/hour.
 **Location**
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA.
 
-* **Attending the Auditions** 
-  Sahar Assaf, Executive Artistic Director 
-  Wendy Reyes, Production Associate 
-  And directors of the ReOrient plays (TBA)
+**Attending the Auditions** 
+\* Sahar Assaf, Executive Artistic Director 
+\* Wendy Reyes, Production Associate 
+* And directors of the ReOrient plays (TBA)
 
 **For more information** 
 Check our website: <https://goldenthread.org/get-involved/casting/> 
