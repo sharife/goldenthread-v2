@@ -38,9 +38,9 @@ To schedule an in-person audition for ReOrient Festival please fill out [this fo
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA.
 
 **Attending the Auditions** 
-\* Sahar Assaf, Executive Artistic Director 
-\* Wendy Reyes, Production Associate 
-* And directors of the ReOrient plays (TBA)
+- Sahar Assaf, Executive Artistic Director 
+- Wendy Reyes, Production Associate 
+- And directors of the ReOrient plays (TBA)
 
 **For more information** 
 Check our website: <https://goldenthread.org/get-involved/casting/> 
