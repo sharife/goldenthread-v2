@@ -28,7 +28,7 @@ sidebar:
 * If you would like to read the full plays prior to auditioning, please email [auditions@goldenthread.org](auditions@goldenthread.org) to request the plays you are interested in.
 
 **Appointments** 
-To schedule an in-person audition for ReOrient Festival please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdENVa7SV4D0mVaZegFva5eNEJX73KT4l5l4p_5z-PDnj-8HQ/viewform) AND then email [auditions@goldenthread.com](auditions@goldenthread.com)  to request an appointment. We will respond with a time slot within 48 hours. Audition slots will be 10-15 minutes each.
+To schedule an in-person audition for ReOrient Festival please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdENVa7SV4D0mVaZegFva5eNEJX73KT4l5l4p_5z-PDnj-8HQ/viewform) AND then email [auditions@goldenthread.org](auditions@goldenthread.org)  to request an appointment. We will respond with a time slot within 48 hours. Audition slots will be 10-15 minutes each.
 
 *IMPORTANT: Please note that Golden Thread is a fully vaccinated company. Actors will be required to email their proof of vaccination prior to their audition appointment date. Your final dose must be administered at least 2 weeks prior to the first day of in-person auditions. For questions contact auditions@goldenthread.org*
 
