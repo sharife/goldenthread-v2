@@ -10,8 +10,7 @@ sidebar:
 
 **Audition Dates**
 
-**\-** Season General Auditions via video submissions – The deadline to submit is **Saturay 12/31/22 by 11:59 PM PT** via this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
-
+* Season General Auditions via video submissions – The deadline to submit is **Saturday 12/31/22 by 11:59 PM PT** via this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
 * In-person Auditions for ReOrient festival (by appointment)
   **Tuesday 2/14/23 from 4:30 PM to 8:30 PM** 
   **Wednesday 2/15/23 from 12:00 PM to 4:00 PM**
@@ -24,7 +23,7 @@ sidebar:
 
 **Preparation** 
 
-* If this is your first time auditioning for Golden Thread, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform) and submit a two-minute monologue via video that showcases your vocal, physical, and emotional range by January 27th, 2023.\
+* If this is your first time auditioning for Golden Thread, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform) and submit a two-minute monologue via video that showcases your vocal, physical, and emotional range by Saturday, December 31st, 2022, 11:59 PM, PT.
 * If you wish to submit for ReOrient, please select 2 to 3 sides from at least 2 plays to perform on the day of your audition. To access the sides please see [this google drive folder](https://drive.google.com/drive/folders/1cFUC0KT6vwc-9VnRLZQ5xz3xAHs5GlPI). 
 * If you would like to read the full plays prior to auditioning, please email [auditions@goldenthread.org](auditions@goldenthread.org) to request the plays you are interested in.
 
