@@ -34,7 +34,7 @@ To schedule an in-person audition for ReOrient Festival please fill out [this fo
 
 **Contract** 
 
-* Equity and non-Equity actors are invited to audition. Local (Bay Area) hire only.
+* Equity and non-Equity actors are invited to audition. Local (Bay Area) actors are encouraged to submit.
 * Bay Area Theatre $400 weekly (20 hours/week, Intro Tier) or $20/hour. 
 
 **Location**
