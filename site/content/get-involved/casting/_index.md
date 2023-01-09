@@ -10,7 +10,7 @@ sidebar:
 
 **Audition Dates**
 
-* Season General Auditions via video submissions – The deadline to submit is **Saturday 12/31/22 by 11:59 PM PT** via this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). 
+* Season General Auditions via video submissions – The deadline to submit was **Saturday 12/31/22 by 11:59 PM PT**. Thank you to all who submitted audition videos. 
 * In-person Auditions for ReOrient festival (by appointment)
   **Tuesday 2/14/23 from 4:30 PM to 8:30 PM** 
   **Wednesday 2/15/23 from 12:00 PM to 4:00 PM**
