@@ -3,7 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2022"
+	currentseason = "2023"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -22,13 +22,6 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "upcoming-season"
-		name = "2023 Season Preview"
-		url = "/season/upcoming/"
-		weight = 10
-
-		[[menu.primary]]
-		parent = "season"
 		identifier = "nasrudins-magnificent-journey-to-samarkand-2022"
 		name = "Nasrudin's Magnificent Journey to Samarkand"
 		url = "/productions/nasrudins-magnificent-journey-to-samarkand-2022/"
@@ -36,37 +29,37 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "no-summary-2022"
-		name = "No Summary 2022"
-		url = "/productions/no-summary-2022/"
+		identifier = "what-do-the-women-say-2023"
+		name = "What Do The Women Say? 2023"
+		url = "/productions/what-do-the-women-say-2023/"
 		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "what-do-the-women-say-2022"
-		name = "What Do the Women Say? 2022"
-		url = "/productions/what-do-the-women-say-2022/"
+		identifier = "no-summary-2023"
+		name = "No Summary 2023"
+		url = "/productions/no-summary-2023/"
 		weight = 13
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "new-threads-reading-series-2022"
-		name = "New Threads Reading Series 2022"
-		url = "/productions/new-threads-reading-series-2022/"
+		identifier = "amreeka-the-comedy-show"
+		name = "Amreeka: The Comedy Show"
+		url = "/productions/amreeka-the-comedy-show/"
 		weight = 14
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "drowning-in-cairo"
-		name = "Drowning in Cairo"
-		url = "/productions/drowning-in-cairo/"
+		identifier = "new-threads-staged-reading-series-2023"
+		name = "New Threads Staged Reading Series 2023"
+		url = "/productions/new-threads-staged-reading-series-2023/"
 		weight = 15
 		
 		[[menu.primary]]
 		parent = "season"
-		identifier = "the-language-of-wild-berries-2022"
-		name = "The Language of Wild Berries"
-		url = "/productions/the-language-of-wild-berries-2022/"
+		identifier = "reorient-2023"
+		name = "ReOrient 2023"
+		url = "/productions/reorient-2023/"
 		weight = 16
 
 

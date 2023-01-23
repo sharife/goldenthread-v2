@@ -1,7 +1,7 @@
 ---
-title: 2022 Season
-currentseason: 2022
+title: 2023 Season
+currentseason: 2023
 intro: >
-  TO FIGHT WITH LOVE! - We return in 2022 with daring plays that build on Golden Thread’s commitment to creating space for dialogue, solidarity, and innovation. Mark your calendars for exciting new plays from Egypt and Iran. Tickets on sale soon!
-background: https://ucarecdn.com/7e44d8b7-8d08-4893-86b7-13560dede3f9/
+  Building Forward - This year we emphasize our commitment to uplift one another as we explore ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality.
+background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
 ---

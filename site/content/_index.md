@@ -4,7 +4,7 @@ headline: "2023 Season: Building Forward"
 subtitle: ""
 background: https://ucarecdn.com/fd60adeb-21c4-42ce-9c08-524daa2115d7/
 cta: See the 2023 Season Line Up!
-link: https://goldenthread.org/season/upcoming/
+link: https://goldenthread.org/season/
 items:
   - subtitle: "**Announcing our 2023 Season!**"
     text: "Our 2023  season will include our signature ***ReOrient Festival and
@@ -20,7 +20,7 @@ items:
       Magnificent Journey to Samarkand***."
     image: https://ucarecdn.com/87cd68bf-490a-47fd-980a-5f4091230b82/
     cta: Read More!
-    link: https://goldenthread.org/season/upcoming/
+    link: https://goldenthread.org/season/
   - image: https://ucarecdn.com/ed42c498-da38-44d7-b5d9-cc0612c5f23f/
     subtitle: "**Join the Team!**"
     cta: Learn More!
