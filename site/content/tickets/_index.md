@@ -1,35 +1,37 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: The Language of Wild Berries
+  - heading: "What Do The Women Say? 2023: Fighters for Freedom"
     items:
       - title: ""
-        pre: U.S. Premiere
-        image: https://ucarecdn.com/ef6b5b8b-7a3a-4144-8009-05672827b2b8/
+        pre: ""
+        image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
         text: >-
-          Donya and Davood celebrate their wedding anniversary by traveling to
-          the same sea side town where they spent their honeymoon. But on this
-          trip, their 10th anniversary, a mysterious young man is following
-          them. Who is he? What does he want? Trying to solve the mystery of the
-          young man throws Donya and Davood into a time warp recalling their
-          past nine anniversary trips. They remember what they have forgotten.
-          But will that be enough to save their marriage?
+          Featuring the work of Middle Eastern women artists who are fighting
+          against injustice through their art, this year’s program will include
+          presentations by Lujain Jo, an Iraqi filmmaker, activist, and
+          performance artist based in Beirut; Her Story Is, a collective led by
+          independent women writers and artists from the United States and Iraq;
+          Marjan Vahdat, Persian vocalist; Andrea Assaf, writer, performer,
+          director, and cultural organizer along with Syrian coloratura soprano
+          Lubana Al-Quntar from Art2Action; and emerging Afghan performer
+          Mahjabin Khanzada directed by Polina Smith from Crescent Moon Theater
+          Productions and accompanied by Yemeni Oud artist Layle Omeran.
+          Executive Artistic Director Sahar Assaf will facilitate a conversation
+          between the participating artists and the audience following the
+          presentations.
 
 
-          **Oct 14–Nov 6, 2022 | Potrero Stage (1695 18th Street, San Francisco)**
+          *Presented in a hybrid format with artists appearing in-person and virtually. Audiences may join IN-PERSON or online via LIVESTREAM. The full program is 120-minutes without intermission.* 
 
 
-          **[Video On-Demand Streaming](https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000xAaDaUAK)Available Nov 7–13, 2022**
-
-
-          *Due to unforeseen circumstances, performances from **Thursday, Oct 27 - Sunday, Oct 30**, have been cancelled. We apologize for any inconvenience this may cause. To request an exchange, refund, or donation on your tickets please email us directly at* [](mailto:boxoffice@goldenthread.org)*[boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org)*
+          **Brava Theater Center** (2781 24th Street, San Francisco)
 
 
           Tickets are $15-$100
         cta: Buy Now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000007ZpRWUA0
-        subtitle: "**By Naghmeh Samini**, Translated and directed by Torange
-          Yeghiazarian"
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
+        subtitle: Golden Thread's Annual Celebration of International Women's Day
   - heading: No Summary
     items:
       - image: https://ucarecdn.com/81ced150-93ad-48c1-bbf6-0c15a04e356a/
