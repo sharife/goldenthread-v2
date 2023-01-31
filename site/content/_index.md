@@ -11,7 +11,10 @@ items:
       another as we explore ways to connect, cope, and be moved to make a
       change. Join us as we look for comfort in comic relief, seek unity in
       collaboration, and find inspiration in the stories of those fighting for
-      justice and equality.
+      justice and equality. Favorite programs including **What Do the Women
+      Say?**, **No Summary**, **New Threads**, and the signature **ReOrient
+      Festival** and **Forum** return this year, along with a brand-new comedy
+      show, **Amreeka!**
     image: https://ucarecdn.com/5a455ef3-dc25-4201-bf7e-ac24e2b30e13/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
@@ -25,8 +28,8 @@ items:
       with artists appearing in-person and virtually, the evening showcases the
       work of Iraqi, Iranian, Afghan, Syrian, Yemeni and American women
       addressing global conflict. Audiences will be able to join in person or
-      online.
-  - image: https://ucarecdn.com/18910edc-08ca-40dc-b72a-6c2ec34a2492/
+      online, and participate in the faciliated conversation with the artists.
+  - image: https://ucarecdn.com/aed195bf-f682-4b50-9965-95599aa60510/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
     link: https://goldenthread.org/productions/amreeka-the-comedy-show/
