@@ -4,22 +4,22 @@ lists:
   - heading: "What Do The Women Say? 2023: Fighters for Freedom"
     items:
       - title: ""
-        pre: ""
+        pre: Wednesday, March 8, 2023 at 7:00PM
         image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
         text: >-
           Featuring the work of Middle Eastern women artists who are fighting
           against injustice through their art, this year’s program will include
-          presentations by Lujain Jo, an Iraqi filmmaker, activist, and
-          performance artist based in Beirut; Her Story Is, a collective led by
-          independent women writers and artists from the United States and Iraq;
-          Marjan Vahdat, Persian vocalist; Andrea Assaf, writer, performer,
-          director, and cultural organizer along with Syrian coloratura soprano
-          Lubana Al-Quntar from Art2Action; and emerging Afghan performer
-          Mahjabin Khanzada directed by Polina Smith from Crescent Moon Theater
-          Productions and accompanied by Yemeni Oud artist Layle Omeran.
-          Executive Artistic Director Sahar Assaf will facilitate a conversation
-          between the participating artists and the audience following the
-          presentations.
+          presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and
+          performance artist based in Beirut; **Her Story Is**, a collective led
+          by independent women writers and artists from the United States and
+          Iraq; **Marjan Vahdat**, Persian vocalist; **Andrea Assaf**, writer,
+          performer, director, and cultural organizer along with Syrian
+          coloratura soprano **Lubana Al-Quntar** from **Art2Action**; and
+          emerging Afghan performer **Mahjabin Khanzada** directed by **Polina
+          Smith** from Crescent Moon Theater Productions and accompanied by
+          Yemeni Oud artist Layle Omeran. Executive Artistic Director **Sahar
+          Assaf** will facilitate a conversation between the participating
+          artists and the audience following the presentations.
 
 
           *Presented in a hybrid format with artists appearing in-person and virtually. Audiences may join IN-PERSON or online via LIVESTREAM. The full program is 120-minutes without intermission.* 
@@ -28,33 +28,66 @@ lists:
           **Brava Theater Center** (2781 24th Street, San Francisco)
 
 
-          Tickets are $15-$100
+          General admission tickets available at a sliding scale of $20-$100
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
         subtitle: Golden Thread's Annual Celebration of International Women's Day
-  - heading: No Summary
+  - heading: "Amreeka: The Comedy Show"
     items:
-      - image: https://ucarecdn.com/81ced150-93ad-48c1-bbf6-0c15a04e356a/
-        pre: Friday, November 11 2022, at 11:00AM (PST)
-        subtitle: ""
-        cta: Join the conversation!
-        link: https://goldenthread.secure.force.com/ticket/#/instances/a0F3Z00000vbU1YUAU
+      - image: https://ucarecdn.com/845bce2e-99a2-4fea-bc7f-3391e2b7e2e4/
+        pre: Friday, May 12, 2023 at 8:00PM
+        subtitle: |-
+          curated by 2023 Artist-in-Residence, **Wafaa Bilal**\
+          featuring **Eman El-Husseini**
+        cta: Buy now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tebVUAQ
         text: >-
-          Golden Thread invites **Sarah Fahmy**, a scholar and devising artist
-          to moderate a conversation on the reception of MENA productions in the
-          U.S. today with **Kareem Fahmy**, a theatre director, playwright, and
-          screenwriter whose work is produced at nationally acclaimed theatre
-          companies this year, and **Malek Najjar,** a director, playwright, and
-          scholar of Arab American and Middle-Eastern American theatre and
-          Associate Professor of Theatre Arts at the University of Oregon. When
-          Middle Eastern North African stories are constantly subjected to the
-          white gaze and are performed in front of a predominantly white-US
-          audience, how do MENA creative teams grapple with an authentic
-          representation of their artistry, languages, and cultures?
+          ***Amreeka: The Comedy Show*** was born after the 2016 election,
+          bringing together diverse comedians with one thing in common: they
+          love to complain. Then and since, the toxic culture and politics in
+          “Amreeka,” as many Middle Easterners pronounce it, offers ample fodder
+          for complaints. This cathartic and witty venting holds a mirror up to
+          realities showing they’ve become so absurd and surreal one must laugh,
+          if not cry.
 
 
-           This conversation is produced and hosted by Golden Thread Productions in collaboration with the **MENATMA convening** taking place at the Arab American National Museum, November 10-12, 2022.
-        title: "Critiquing the Critics: The Reception of MENA Productions"
+          **Brava Theater Center** (2781 24th Street, San Francisco)
+
+
+          General admission tickets available at a sliding scale of $20-$100
+        title: ""
+  - heading: New Threads Staged Reading Series 2023
+    items:
+      - text: ""
+        subtitle: >-
+          Featuring two new play commissions: one by **Adam Ashraf
+          Elsayigh** with dramaturg **Salma Zohdi** based on the life of
+          political prisoner Alaa Abd El-Fattah; and another by **Tariq
+          Hamami** with dramaturg **Dawn Monique Williams** about the Black
+          Panthers in Algiers.
+
+
+          **Brava Theater Center** (2781 24th Street, San Francisco)
+
+
+          S﻿eats available to reserve at no cost
+        pre: Tuesdays, August 22 and 29, 2023
+        cta: Reserve your spot now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecJUAQ
+  - heading: ReOrient 2023 Festival of Short Plays
+    items:
+      - pre: October 13 - November 4, 2023
+        subtitle: Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El
+          Guindi, Arti Ishak, Hamed Sinno, and Judith Strang-Waldau**;Directors
+          include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and
+          Becca Wolf.**
+        text: "**ReOrient 2023** will celebrate the return of our signature program, an
+          innovative and spirited festival of short plays from or about the
+          Middle East. The dizzying line-up is diverse in content and style,
+          with 6 plays selected from 113 submissions, highlighting a
+          multiplicity of Middle Eastern perspectives and identities."
+        cta: Buy now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
 ---
 - - -
 
