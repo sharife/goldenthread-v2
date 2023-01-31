@@ -56,6 +56,23 @@ lists:
 
           General admission tickets available at a sliding scale of $20-$100
         title: ""
+  - heading: New Threads Staged Reading Series 2023
+    items:
+      - text: ""
+        subtitle: >-
+          Featuring two new play commissions: one by **Adam Ashraf
+          Elsayigh** with dramaturg **Salma Zohdi** based on the life of
+          political prisoner Alaa Abd El-Fattah; and another by **Tariq
+          Hamami** with dramaturg **Dawn Monique Williams** about the Black
+          Panthers in Algiers.
+
+
+          **Brava Theater Center** (2781 24th Street, San Francisco)
+
+
+          S﻿eats available to reserve at no cost
+        pre: Tuesdays, August 22 and 29, 2023
+        cta: Reserve your spot now!
 ---
 - - -
 
