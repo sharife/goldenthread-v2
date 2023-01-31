@@ -58,8 +58,7 @@ lists:
         title: ""
   - heading: New Threads Staged Reading Series 2023
     items:
-      - text: ""
-        subtitle: >-
+      - text: >-
           Featuring two new play commissions: one by **Adam Ashraf
           Elsayigh** with dramaturg **Salma Zohdi** based on the life of
           political prisoner Alaa Abd El-Fattah; and another by **Tariq
@@ -71,21 +70,23 @@ lists:
 
 
           S﻿eats available to reserve at no cost
+        subtitle: ""
         pre: Tuesdays, August 22 and 29, 2023
         cta: Reserve your spot now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecJUAQ
   - heading: ReOrient 2023 Festival of Short Plays
     items:
       - pre: October 13 - November 4, 2023
-        subtitle: Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El
-          Guindi, Arti Ishak, Hamed Sinno, and Judith Strang-Waldau**;Directors
-          include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and
-          Becca Wolf.**
-        text: "**ReOrient 2023** will celebrate the return of our signature program, an
-          innovative and spirited festival of short plays from or about the
+        subtitle: ""
+        text: >-
+          **ReOrient 2023** will celebrate the return of our signature program,
+          an innovative and spirited festival of short plays from or about the
           Middle East. The dizzying line-up is diverse in content and style,
           with 6 plays selected from 113 submissions, highlighting a
-          multiplicity of Middle Eastern perspectives and identities."
+          multiplicity of Middle Eastern perspectives and identities.
+
+
+          Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolf.**
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
 ---
