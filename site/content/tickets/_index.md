@@ -73,6 +73,7 @@ lists:
           S﻿eats available to reserve at no cost
         pre: Tuesdays, August 22 and 29, 2023
         cta: Reserve your spot now!
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecJUAQ
 ---
 - - -
 
