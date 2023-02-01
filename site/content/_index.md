@@ -35,15 +35,12 @@ items:
     link: https://goldenthread.org/productions/amreeka-the-comedy-show/
     text: "We are excited to announce **Wafaa Bilal**, an Iraqi-born artist and Arts
       Professor at NYU’s Tisch School of the Arts, as our 2023
-      Artist-in-Residence. Bilal’s work explores tensions between the cultural
-      spaces he occupies —his home in the comfort zone of the U.S. and his
-      consciousness in the conflict zone in Iraq. Bilal will collaborate with us
-      on a number of projects throughout the year, including the curation
-      of ***Amreeka: The Comedy Show*** and contributing to the **ReOrient
-      Forum**. The Artist-in-residence program is a new initiative at Golden
-      Thread that engages guest artists on an annual basis within the company’s
-      staff. The program intends to bring fresh perspectives into each season
-      and expand the culture of innovation and creativity while allowing the
-      guest artist the opportunity to grow their work and engage with our
-      communities."
+      Artist-in-Residence. Bilal will collaborate with us on multiple projects
+      throughout the year, including the curation of ***Amreeka: The Comedy
+      Show*** and contributing to the **ReOrient Forum**. The
+      Artist-in-residence program is a new initiative at Golden Thread that
+      engages guest artists on an annual basis within the company’s staff. The
+      program intends to bring fresh perspectives into each season and expand
+      the culture of innovation and creativity while allowing the guest artist
+      the opportunity to grow their work and engage with our communities."
 ---
