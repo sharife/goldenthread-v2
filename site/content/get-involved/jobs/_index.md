@@ -7,7 +7,7 @@ sidebar:
 ---
 ![]()
 
-![](https://ucarecdn.com/dac96e9e-e6fe-45d2-a94f-8498497a59a7/)
+![]()
 
 ### **Production, Design & Technical Personnel**
 
