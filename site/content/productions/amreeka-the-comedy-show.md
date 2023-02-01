@@ -7,7 +7,10 @@ start: 2023-05-12T07:00:00.000Z
 end: ""
 heading: ""
 description: >-
-  Featuring  **Eman El-Husseini**
+  Featuring  **Eman El-Husseini** and **Usama Siddiquee**
+
+
+  with **Charles McBee** as MC
 
 
   Curated by our 2023 Artist-in-residence, **Wafaa Bilal**, *Amreeka: The Comedy Show* was born after the 2016 election, bringing together diverse comedians with one thing in common: they love to complain. Then and since, the toxic culture and politics in “Amreeka,” as many Middle Easterners pronounce it, offers ample fodder for complaints. This cathartic and witty venting holds a mirror up to realities showing they’ve become so absurd and surreal one must laugh, if not cry.
