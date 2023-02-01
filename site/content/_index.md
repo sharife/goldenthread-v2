@@ -30,7 +30,7 @@ items:
       addressing global conflict. Audiences will be able to join in person or
       online, and participate in the faciliated conversation with the artists.
   - image: https://ucarecdn.com/aed195bf-f682-4b50-9965-95599aa60510/
-    subtitle: "**Announcing our 2023 Artist-in-Residence!**"
+    subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
     link: https://goldenthread.org/productions/amreeka-the-comedy-show/
     text: "We are excited to announce **Wafaa Bilal**, an Iraqi-born artist and Arts
