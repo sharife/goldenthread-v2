@@ -19,7 +19,7 @@ items:
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
   - image: https://ucarecdn.com/fda5a666-f718-4ad9-bac5-583535305bf5/
-    subtitle: "**What Do the Women Say? Fighters for Freedom**"
+    subtitle: "**What Do the Women Say? 2023: Fighters for Freedom**"
     cta: Learn More!
     link: https://goldenthread.org/productions/what-do-the-women-say-2023/
     text: Our annual celebration of International Women's Day returns in 2023 to
@@ -30,11 +30,16 @@ items:
       addressing global conflict. Audiences will be able to join in person or
       online, and participate in the faciliated conversation with the artists.
   - image: https://ucarecdn.com/aed195bf-f682-4b50-9965-95599aa60510/
-    subtitle: "**2023 Artist-in-Residence!**"
+    subtitle: "**Announcing our 2023 Artist-in-Residence!**"
     cta: Learn More!
     link: https://goldenthread.org/productions/amreeka-the-comedy-show/
-    text: We are excited to have **Wafaa Bilal**, an Iraqi-born artist and Arts
+    text: "We are excited to announce **Wafaa Bilal**, an Iraqi-born artist and Arts
       Professor at NYU’s Tisch School of the Arts, as our 2023
-      Artist-in-Residence, who will collaborate with us on a number of projects
-      throughout the year.
+      Artist-in-Residence. He will collaborate with us on a number of projects
+      throughout the year, including the curation of ***Amreeka: The Comedy
+      Show*** and the ***ReOrient Forum.*** He is known internationally for his
+      on-line performative and interactive works provoking dialogue about
+      international and interpersonal politics. Bilal’s work explores tensions
+      between the cultural spaces he occupies —his home in the comfort zone of
+      the U.S. and his consciousness in the conflict zone in Iraq."
 ---
