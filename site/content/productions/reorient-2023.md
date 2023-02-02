@@ -78,7 +78,7 @@ lists:
         itemstart: ""
         itemend: ""
       - image: ""
-        subtitle: by Judith Strang-Waldau
+        subtitle: by Judith Boyajian Strang-Waldau
         text: A young woman recounts sailing to America during the Armenian Genocide to
           marry a strange man on Ellis Island.
         title: Picture Bride
