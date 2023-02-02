@@ -29,7 +29,7 @@ items:
       work of Iraqi, Iranian, Afghan, Syrian, Yemeni and American women
       addressing global conflict. Audiences will be able to join in person or
       online, and participate in the faciliated conversation with the artists.
-  - image: https://ucarecdn.com/aed195bf-f682-4b50-9965-95599aa60510/
+  - image: https://ucarecdn.com/99a71808-0c23-4ac6-9dc4-21aa3bef7e94/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
     link: https://goldenthread.org/productions/amreeka-the-comedy-show/
