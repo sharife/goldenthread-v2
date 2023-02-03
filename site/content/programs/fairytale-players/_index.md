@@ -80,10 +80,11 @@ lists:
         link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
 grids:
   - items:
+      - title: "No Summary: What Can the Wise Fool Nasrudin Teach Us?"
+        link: zKaT1C5nSlA
       - id: IYQFCLj2m5I
       - id: khGZkZaZqOI
       - id: g2C7cJHOFNQ
-      - title: "No Summary: What Can the Wise Fool Nasrudin Teach Us?"
 photos:
   heading: Student Thank You Cards
   items:
