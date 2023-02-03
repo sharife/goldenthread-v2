@@ -81,7 +81,8 @@ lists:
 grids:
   - items:
       - title: "No Summary: What Can the Wise Fool Nasrudin Teach Us?"
-        link: zKaT1C5nSlA
+        link: ""
+        id: zKaT1C5nSlA
       - id: IYQFCLj2m5I
       - id: khGZkZaZqOI
       - id: g2C7cJHOFNQ
