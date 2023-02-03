@@ -38,7 +38,9 @@ lists:
         pre: Friday, May 12, 2023 at 8:00PM
         subtitle: |-
           curated by 2023 Artist-in-Residence, **Wafaa Bilal**\
-          featuring **Eman El-Husseini**
+          featuring **Eman El-Husseini** and **Usama Siddiquee**
+
+          with **Charles McBee** as Master of Ceremonies
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tebVUAQ
         text: >-
