@@ -17,9 +17,9 @@ lists:
           coloratura soprano **Lubana Al-Quntar** from **Art2Action**; and
           emerging Afghan performer **Mahjabin Khanzada** directed by **Polina
           Smith** from Crescent Moon Theater Productions and accompanied by
-          Yemeni Oud artist Layle Omeran. Executive Artistic Director **Sahar
-          Assaf** will facilitate a conversation between the participating
-          artists and the audience following the presentations.
+          Yemeni Oud artist **Layle Omeran**. Executive Artistic Director
+          **Sahar Assaf** will facilitate a conversation between the
+          participating artists and the audience following the presentations.
 
 
           *Presented in a hybrid format with artists appearing in-person and virtually. Audiences may join IN-PERSON or online via LIVESTREAM. The full program is 120-minutes without intermission.* 
@@ -31,16 +31,15 @@ lists:
           General admission tickets available at a sliding scale of $20-$100
         cta: Buy Now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
-        subtitle: Golden Thread's Annual Celebration of International Women's Day
+        subtitle: Golden Thread's Annual Celebration of International Women's Day,
+          co-presented with Brava Theater Center
   - heading: "Amreeka: The Comedy Show"
     items:
       - image: https://ucarecdn.com/845bce2e-99a2-4fea-bc7f-3391e2b7e2e4/
         pre: Friday, May 12, 2023 at 8:00PM
-        subtitle: |-
-          curated by 2023 Artist-in-Residence, **Wafaa Bilal**\
-          featuring **Eman El-Husseini** and **Usama Siddiquee**
-
-          with **Charles McBee** as Master of Ceremonies
+        subtitle: curated by 2023 Artist-in-Residence, **Wafaa Bilal**, featuring
+          headliner **Eman El-Husseini** a nd **Usama Siddiquee** with Master of
+          Ceremonies **Charles McBee**
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tebVUAQ
         text: >-
