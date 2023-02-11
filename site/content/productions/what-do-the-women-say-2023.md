@@ -1,5 +1,5 @@
 ---
-title: What Do The Women Say? 2023
+title: What Do the Women Say? 2023
 pre: a celebration of International Women's Day
 season: 2023
 date: 2022-11-29T01:22:55.313Z
@@ -32,7 +32,9 @@ description: >-
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
-featuring: ""
+featuring: Lubana Al Quntar, Andrea Assaf, Jennifer Jean, Lujain Jo, Mahjabin
+  Khanzada, Hanaa Mohammed, Elham Nasser Al-Zabeedy, Letta Neely, Layle Omeran,
+  Polina Smith, Marjan Vahdat, Thowra Yaqoob
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
@@ -222,7 +224,15 @@ bottom:
   logos:
     - image: https://ucarecdn.com/4476b63d-fe62-4315-989a-8e34138946c7/
     - image: https://ucarecdn.com/cb2effe8-9296-4bd2-98c5-cf8f2346e7ec/
+    - image: https://ucarecdn.com/8b369fe1-0d40-4abc-97be-2e77c08ffdf2/
+    - image: https://ucarecdn.com/cc1e244e-181f-4cfd-a3bf-e29f55cdb277/
+    - image: https://ucarecdn.com/50032809-172e-43f6-b2ce-cf3a107f6bce/
+    - image: https://ucarecdn.com/c6696c40-2ea0-4e85-9821-60d9fd949f3e/
   heading: Co-Presenter Brava Theatre Center and Sponsor WomenArts
+  text: >-
+    Community Partners \
+
+    [Art2Action](https://www.art2action.org/), [Crescent Moon Theatre Productions](https://www.crescentmoontheaterproductions.com/), [Her Story Is](https://www.fortpointtheatrechannel.org/her-story-is), [Iraqi + American Reconciliation Project](https://reconciliationproject.org/)
 ---
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
 
