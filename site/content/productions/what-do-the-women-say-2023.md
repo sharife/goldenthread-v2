@@ -228,9 +228,9 @@ bottom:
     - image: https://ucarecdn.com/cc1e244e-181f-4cfd-a3bf-e29f55cdb277/
     - image: https://ucarecdn.com/50032809-172e-43f6-b2ce-cf3a107f6bce/
     - image: https://ucarecdn.com/c6696c40-2ea0-4e85-9821-60d9fd949f3e/
-  heading: Co-Presenter Brava Theatre Center and Sponsor WomenArts
+  heading: "Co-Presenter: Brava Theatre Center and Sponsor: WomenArts"
   text: >-
-    Community Partners \
+    with Community Partners: \
 
     [Art2Action](https://www.art2action.org/), [Crescent Moon Theatre Productions](https://www.crescentmoontheaterproductions.com/), [Her Story Is](https://www.fortpointtheatrechannel.org/her-story-is), [Iraqi + American Reconciliation Project](https://reconciliationproject.org/)
 ---
