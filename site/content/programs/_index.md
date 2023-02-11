@@ -11,7 +11,7 @@ programs:
       multiplicity of stories, voices and styles from the region, and has since
       become Golden Thread’s most recognized and celebrated program. 
   - cta: Learn more
-    heading: What do the Women Say?
+    heading: What Do the Women Say?
     imageUrl: /img/hero-WDTWS.jpg
     link: /programs/what-do-the-women-say
     text: Each year, Golden Thread celebrates International Women’s Day by
