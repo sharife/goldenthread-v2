@@ -209,14 +209,14 @@ cast:
         ten years in her work."
       name: Marjan Vahdat
       image: https://ucarecdn.com/1fe6d823-46fe-41ef-adcf-9dfd91ddb7f5/
-    - bio: Thawra Yaqoob holds a Ph.D. in theatrical arts from the College of Fine
-        Arts in Baghdad and works as a Project Manager with the Basra-based
-        Lotus Women Cultural League. She works on projects related to empowering
-        women, stopping violence against women, and preserving Afro-Iraqi
-        heritage in Basra. She is one of the founding members of the Regional
-        Network for Development and Anti-Racism in North Africa and the Middle
-        East. She is a community leader, educator, and retired professor of
-        theater.
+    - bio: "[Thawra Yaqoob](https://www.lotusculturalwomensleague.org/team) holds a
+        Ph.D. in theatrical arts from the College of Fine Arts in Baghdad and
+        works as a Project Manager with the Basra-based Lotus Women Cultural
+        League. She works on projects related to empowering women, stopping
+        violence against women, and preserving Afro-Iraqi heritage in Basra. She
+        is one of the founding members of the Regional Network for Development
+        and Anti-Racism in North Africa and the Middle East. She is a community
+        leader, educator, and retired professor of theater."
       name: Thawra Yaqoob
       image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
 mentions:
