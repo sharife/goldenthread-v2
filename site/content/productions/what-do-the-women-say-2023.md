@@ -46,26 +46,27 @@ cast:
   items:
     - name: Lubana Al Quntar
       image: https://ucarecdn.com/2d9766c9-1d87-4e6b-9c3f-5d8ec812c2e8/
-      bio: Lubana Al Quntar was born in Damascus, Syria to a family of traditional
-        singers. A descendant of the famous Syrian singer, Amal Al Atrash, and
-        renowned composer and singer, Farid Al Atrash, Lubana grew up with an
-        ear and a voice for music. She trained in classical international
-        conservatories under the supervision of world-renowned opera singers
-        such as Galina Khaldieva, Kenneth Woollam, and Maestra Mya Besselink.
-        She has taken master classes with world-famous opera singers, namely
-        Maestro Daniel Barenboim, Maestro Ricardo Mutti, and Sara Beaker. In
-        1995, Lubana won the prestigious title of the First Arab Opera Singer
-        from Syria. In 1996, she won the first audience prize and fourth overall
-        prize in a Belgrade International Singing Competition. In 2000, she was
-        awarded fifth prize at the Queen Elizabeth Singing Competition,
-        Brussels, Belgium. Since 1996, she has toured internationally in over 10
-        countries in Europe, the Middle East, North Africa, and North America.
-        Between 2006 and 2012, she served at the Syrian National Conservatory as
-        the Voice Chair for the Department of Opera Singing, where she founded
-        and launched the Department of Classical Arabic Singing allowing
-        students to study both Western and Arabic forms together for the very
-        first time. Represented by MAP talent agency, Lubana continues to share
-        her craft to promote and preserve ancient Syrian cultural heritage.
+      bio: "[Lubana Al Quntar](https://www.youtube.com/user/lubanaalquntar) was born
+        in Damascus, Syria to a family of traditional singers. A descendant of
+        the famous Syrian singer, Amal Al Atrash, and renowned composer and
+        singer, Farid Al Atrash, Lubana grew up with an ear and a voice for
+        music. She trained in classical international conservatories under the
+        supervision of world-renowned opera singers such as Galina Khaldieva,
+        Kenneth Woollam, and Maestra Mya Besselink. She has taken master classes
+        with world-famous opera singers, namely Maestro Daniel Barenboim,
+        Maestro Ricardo Mutti, and Sara Beaker. In 1995, Lubana won the
+        prestigious title of the First Arab Opera Singer from Syria. In 1996,
+        she won the first audience prize and fourth overall prize in a Belgrade
+        International Singing Competition. In 2000, she was awarded fifth prize
+        at the Queen Elizabeth Singing Competition, Brussels, Belgium. Since
+        1996, she has toured internationally in over 10 countries in Europe, the
+        Middle East, North Africa, and North America. Between 2006 and 2012, she
+        served at the Syrian National Conservatory as the Voice Chair for the
+        Department of Opera Singing, where she founded and launched the
+        Department of Classical Arabic Singing allowing students to study both
+        Western and Arabic forms together for the very first time. Represented
+        by MAP talent agency, Lubana continues to share her craft to promote and
+        preserve ancient Syrian cultural heritage."
     - name: Andrea Assaf
       bio: "Andrea Assaf is a poet, playwright, director, performer, and cultural
         organizer. She is the founding Artistic and Executive Director of
@@ -105,6 +106,22 @@ cast:
         the Fine Arts Work Center’s online writing program."
       name: Jennifer Jean
       image: https://ucarecdn.com/2bf2df5b-2505-400c-b74f-c80c2c8ac732/
+    - name: Lujain Jo
+      bio: "[Lujain Jo](https://www.imdb.com/name/nm7759414/) is an Iraqi filmmaker,
+        singer, and multidisciplinary artist. Most of her work documents the
+        living world and its varied elements through a poetic and meditative
+        perspective, with the aim of reconsidering destructive power dynamics.
+        Her first feature film “Rahhala” is an experimental audio visual
+        exploration of humanity's dominance and exploitation of different
+        beings. As part of her strong interest in the manifestation of movement
+        in life, her work included collaboration with musicians and dancers such
+        as Michaela De Prince, Khansa, Postcards, and other alternative artists
+        in Lebanon. Over the past decade, Lujain has worked with multiple media
+        platforms including The Associated Press, Megaphone News, the
+        Anti-Racism Movement, Khateera, and Amnesty International on issues
+        related to social movements, migrant workers, police brutality, and
+        feminism."
+      image: https://ucarecdn.com/86c33905-bd7b-4d6d-9cfa-2b06e75012cb/
 mentions:
   text: ""
   heading: ""
