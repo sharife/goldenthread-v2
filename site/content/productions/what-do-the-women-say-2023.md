@@ -189,6 +189,36 @@ cast:
         the US home."
       name: Polina Smith
       image: https://ucarecdn.com/79999269-4377-4834-acc0-8873241c1449/
+    - bio: "[Marjan Vahdat](https://marjanvahdat.com/), started music by taking piano
+        lessons and also Persian singing with different masters. Marjan has
+        developed her personal style based on the Persian vocal tradition of
+        classical and folk music, with a contemporary expression, with a special
+        interest in the styles from different regions in Iran for more than two
+        decades. She has been taking part in many international festivals and
+        concerts in the world. She has worked with many composers in Iran,
+        Europe, and the US. She has always searched for ways to make her music
+        relevant to the present world. She took Persian music and poetry to new
+        heights in her expression. Following her participation in the album
+        Lullabies from the Axis of Evil (2004), Marjan together with her sister
+        Mahsa started a long-lasting collaboration with the Norwegian record
+        label Kirkelig Kulturverksted (KKV) and its leader Erik Hillestad who
+        has produced most of their albums. This collaboration led to a worldwide
+        release of a series of award-winning and critically acclaimed records
+        and a number of tours and concerts in many countries. She has a history
+        of collaboration with the Grotowski Institute and Teatr ZAR for almost
+        ten years in her work."
+      name: Marjan Vahdat
+      image: https://ucarecdn.com/1fe6d823-46fe-41ef-adcf-9dfd91ddb7f5/
+    - bio: Thawra Yaqoob holds a Ph.D. in theatrical arts from the College of Fine
+        Arts in Baghdad and works as a Project Manager with the Basra-based
+        Lotus Women Cultural League. She works on projects related to empowering
+        women, stopping violence against women, and preserving Afro-Iraqi
+        heritage in Basra. She is one of the founding members of the Regional
+        Network for Development and Anti-Racism in North Africa and the Middle
+        East. She is a community leader, educator, and retired professor of
+        theater.
+      name: Thawra Yaqoob
+      image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
 mentions:
   text: ""
   heading: ""
