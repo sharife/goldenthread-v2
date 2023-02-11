@@ -223,6 +223,10 @@ bottom:
     - image: https://ucarecdn.com/4476b63d-fe62-4315-989a-8e34138946c7/
     - image: https://ucarecdn.com/cb2effe8-9296-4bd2-98c5-cf8f2346e7ec/
   heading: Co-Presenter Brava Theatre Center and Sponsor WomenArts
+  text: >-
+    Community Partners \
+
+    [Art2Action](https://www.art2action.org/), [Crescent Moon Theatre Productions](https://www.crescentmoontheaterproductions.com/), [Her Story Is](https://www.fortpointtheatrechannel.org/her-story-is), [Iraqi + American Reconciliation Project](https://reconciliationproject.org/)
 ---
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
 
