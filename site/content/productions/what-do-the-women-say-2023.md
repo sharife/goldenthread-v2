@@ -167,6 +167,18 @@ cast:
         Apprentice Learning."
       name: Letta Neely
       image: https://ucarecdn.com/8674d22c-0956-421f-9c5c-7d692b2aa877/
+    - bio: "[Layle Omeran](https://www.instagram.com/laylomer/) is a music artist
+        currently based in Berkeley, CA. A student of Arabic music, Layle has
+        studied the Arabic oud with many renowned teachers, and performs locally
+        and at times regionally as a oudist and as a singer. Layle is a lead
+        singer and teacher in the Bay Area Arabic Music Ensemble, Aswat, and a
+        musician in several community projects. With interests in the
+        intersections of social justice, community music, and healing work,
+        Layle's work explores narratives around identity and experience. Layle
+        is also a Development Coordinator at the East Bay Meditation Center in
+        Oakland, CA."
+      name: Layle Omeran
+      image: https://ucarecdn.com/c0066053-b45a-4599-a3b3-ba0fce485a33/
 mentions:
   text: ""
   heading: ""
