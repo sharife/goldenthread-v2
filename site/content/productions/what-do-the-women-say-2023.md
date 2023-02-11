@@ -154,6 +154,19 @@ cast:
         Iraqi women.
       name: Elham Nasser Al-Zabeedy
       image: https://ucarecdn.com/a9927f4f-db41-40f6-8939-16635eb165a7/
+    - bio: "[Letta Neely](https://lettaneely.com/), originally from Indianapolis,
+        Indiana, is a Black lesbian playwright, performer, poet, mother, teacher
+        and activist who has been involved in liberation movements all her life.
+        Her work focuses on connections and intersections. Her literary work has
+        been included in numerous anthologies, literary journals and magazines
+        including Through the Cracks; Sinister Wisdom; Common Lives, Lesbian
+        Lives; Rag Shock; African Voices, Rap Pages, Catch the Fire, Does Your
+        Mama Know, and Roll Call—a Generational Anthology of Social and
+        Political Black Literature & Art. She serves as co-artistic director for
+        Fort Point Theatre Channel, and is the Associate Director of Programs at
+        Apprentice Learning."
+      name: Letta Neely
+      image: https://ucarecdn.com/8674d22c-0956-421f-9c5c-7d692b2aa877/
 mentions:
   text: ""
   heading: ""
