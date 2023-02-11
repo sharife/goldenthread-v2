@@ -1,5 +1,5 @@
 ---
-title: What Do The Women Say? 2023
+title: What Do the Women Say? 2023
 pre: a celebration of International Women's Day
 season: 2023
 date: 2022-11-29T01:22:55.313Z
