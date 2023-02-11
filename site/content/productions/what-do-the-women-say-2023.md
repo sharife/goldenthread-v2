@@ -179,6 +179,16 @@ cast:
         Oakland, CA."
       name: Layle Omeran
       image: https://ucarecdn.com/c0066053-b45a-4599-a3b3-ba0fce485a33/
+    - bio: "[Polina Smith](https://www.crescentmoontheaterproductions.com/about)
+        founded Crescent Moon Theater Productions (CMTP) with the mission of
+        creating original and thought-provoking new work that uplifts stories
+        too often overlooked and aims to demonstrate art’s powerful ability to
+        inspire social and personal change. CMTP’s most recent production, *Hold
+        On, When Everything Changes in a Flash*, features four young adults
+        sharing their lived refugee experiences and what it means to now call
+        the US home."
+      name: Polina Smith
+      image: https://ucarecdn.com/79999269-4377-4834-acc0-8873241c1449/
 mentions:
   text: ""
   heading: ""
