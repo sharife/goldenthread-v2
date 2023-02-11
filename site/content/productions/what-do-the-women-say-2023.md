@@ -89,6 +89,22 @@ cast:
         member of the Middle Eastern/North African Theatre-Makers Alliance
         (MENATMA)."
       image: https://ucarecdn.com/c61b1e27-83a4-445d-ba2b-f258903f2c9b/
+    - bio: "[Jennifer Jean](https://www.jenniferjeanwriter.com/about.html)’s poetry
+        collections include VOZ, Object Lesson, and The Fool. Her teaching
+        resource book is Object Lesson: a Guide to Writing Poetry. Her poems and
+        co-translations have appeared in POETRY Magazine, Rattle, The Common,
+        Waxwing, Terrain, On the Seawall, and elsewhere. She’s received honors,
+        residencies, and fellowships from the Kenyon Review Writers Workshop,
+        the Academy of American Poets, the Massachusetts Cultural Council,
+        DISQUIET/Dzanc Books, the Kolkata International Poetry Festival, and the
+        Women’s Federation for World Peace. Jennifer is an organizer, and
+        co-translator of Arabic poetry, for the Her Story Is collective–for
+        which she is developing the bilingual anthology Other Paths for Sharazad
+        Contemporary Poetry by Arab Women. She edits translations for
+        Consequence Forum and is the senior program manager of 24PearlStreet,
+        the Fine Arts Work Center’s online writing program."
+      name: Jennifer Jean
+      image: https://ucarecdn.com/2bf2df5b-2505-400c-b74f-c80c2c8ac732/
 mentions:
   text: ""
   heading: ""
