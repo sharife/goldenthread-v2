@@ -32,7 +32,9 @@ description: >-
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
-featuring: ""
+featuring: Lubana Al Quntar, Andrea Assaf, Jennifer Jean, Lujain Jo, Mahjabin
+  Khanzada, Hanaa Mohammed, Elham Nasser Al-Zabeedy, Letta Neely, Layle Omeran,
+  Polina Smith, Marjan Vahdat, Thowra Yaqoob
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
