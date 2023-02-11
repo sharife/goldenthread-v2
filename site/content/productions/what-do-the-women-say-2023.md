@@ -122,6 +122,17 @@ cast:
         related to social movements, migrant workers, police brutality, and
         feminism."
       image: https://ucarecdn.com/86c33905-bd7b-4d6d-9cfa-2b06e75012cb/
+    - bio: Mahjabin Khanzada was born and raised in Kabul, Afghanistan. At the age of
+        18, she began working as an interpreter for the U.S. Army in Kabul. On
+        August 9th, 2021, Mahjabin was put on an emergency evacuation flight to
+        the US; six days later, the Taliban controlled all of Afghanistan.
+        Today, Mahjabin lives with her family in the Bay Area- together they are
+        working hard to rebuild their lives with courage and resilience.
+        Mahjabin is grateful to be able to share her story so more people can
+        learn about the realities of what is happening to the Afghan community,
+        both in Afghanistan, and abroad.
+      name: Mahjabin Khanzada
+      image: https://ucarecdn.com/a36a5167-f1ad-4193-a9af-910b8e0f12ca/
 mentions:
   text: ""
   heading: ""
