@@ -28,7 +28,7 @@ mentions:
   heading: ""
 bottom:
   logos: []
-  heading: ""
+  heading: Co-Presenter Brava Theatre Center and Sponsor WomenArts
 ---
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
 
