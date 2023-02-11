@@ -15,7 +15,25 @@ description: >-
   Brava Theater or online for a virtual presentation.  
 
 
-  Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq; **Marjan Vahdat**, Persian vocalist; **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; and emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by **Yemeni Oud artist Layle Omeran**. Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
+  Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by:
+
+
+  **Marjan Vahdat**, Persian vocalist; 
+
+
+  **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; 
+
+
+  **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; 
+
+
+  emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
+
+
+  **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq. 
+
+
+  Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
 featuring: ""
