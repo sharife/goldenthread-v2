@@ -7,11 +7,12 @@ start: 2023-03-08T08:00:00.000Z
 end: ""
 heading: "This year's theme: Fighters for Freedom"
 description: >-
-  In celebration of International Women’s Day, Golden Thread’s *What Do the
-  Women Say?* returns to the Brava Theater. This year’s program will be
-  presented in a hybrid format with artists appearing in-person and virtually.
-  Audiences will be able to join us in-person at the Brava Theater or online for
-  a virtual presentation.  
+  In celebration of [International Women’s
+  Day](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom),
+  Golden Thread’s *What Do the Women Say?* returns to the Brava Theater. This
+  year’s program will be presented in a hybrid format with artists appearing
+  in-person and virtually. Audiences will be able to join us in-person at the
+  Brava Theater or online for a virtual presentation.  
 
 
   Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq; **Marjan Vahdat**, Persian vocalist; **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; and emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by **Yemeni Oud artist Layle Omeran**. Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
