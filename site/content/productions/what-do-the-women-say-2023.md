@@ -42,6 +42,9 @@ address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
 ticketinfo: https://goldenthread.org/tickets/
+cast:
+  items:
+    - {}
 mentions:
   text: ""
   heading: ""
