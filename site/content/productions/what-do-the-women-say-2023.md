@@ -18,19 +18,15 @@ description: >-
   Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by:
 
 
-  **Marjan Vahdat**, Persian vocalist; 
+  * **Marjan Vahdat**, Persian vocalist; 
 
+  * **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; 
 
-  **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; 
+  * **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; 
 
+  * emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
 
-  **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; 
-
-
-  emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
-
-
-  **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq. 
+  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq. 
 
 
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
