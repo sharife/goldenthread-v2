@@ -66,6 +66,29 @@ cast:
         students to study both Western and Arabic forms together for the very
         first time. Represented by MAP talent agency, Lubana continues to share
         her craft to promote and preserve ancient Syrian cultural heritage.
+    - name: Andrea Assaf
+      bio: "Andrea Assaf is a poet, playwright, director, performer, and cultural
+        organizer. She is the founding Artistic and Executive Director of
+        [Art2Action Inc.](https://www.art2action.org/), and Co-Director/National
+        Coordinator of the National Institute for Directing & Ensemble Creation
+        in partnership with Pangea World Theater. Her seminal work, *Eleven
+        Reflections on September*, was commissioned by Pangea and has been
+        featured at The Carver Community Cultural Center, the National Asian
+        American Theatre Festival at OSF (produced by CAATA), La MaMa ETC, The
+        Apollo Theatre, The Kennedy Center, and internationally. She is
+        currently re-creating the project as a multi-city, community-engaged
+        series titled *Eleven Reflections on the Nation*. Awards include: 2021
+        Silk Road Film Awards Cannes (Director, Best Experimental Feature), 2020
+        Pushcart Prize Nomination, 2019 NEFA National Theatre Project, 2019 &
+        2011 NPN Creation Fund Commission, 2017 Finalist for the Freedom Plow
+        Award for Poetry & Activism, 2010 Princess Grace Award/Gant Gaither
+        Theater Award for Directing, and more. Andrea has a master’s degree in
+        Performance Studies and a BFA in Acting, both from NYU. She currently
+        serves on the Board of the Consortium of Asian American Theatres &
+        Artists (CAATA), Alternate ROOTS, and is a founding Steering Committee
+        member of the Middle Eastern/North African Theatre-Makers Alliance
+        (MENATMA)."
+      image: https://ucarecdn.com/c61b1e27-83a4-445d-ba2b-f258903f2c9b/
 mentions:
   text: ""
   heading: ""
