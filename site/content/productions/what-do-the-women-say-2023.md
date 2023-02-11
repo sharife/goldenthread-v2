@@ -133,6 +133,15 @@ cast:
         both in Afghanistan, and abroad.
       name: Mahjabin Khanzada
       image: https://ucarecdn.com/a36a5167-f1ad-4193-a9af-910b8e0f12ca/
+    - bio: Hanaa Mohammed is a poet and academic critic who holds a Ph.D. in Arabic
+        literature and a Sharjah Award for Arab Creativity in Literary Criticism
+        2017. She is a professor and trainer in creative writing, such as
+        poetry, short stories, and novels. Hanna writes in the field of poetry,
+        criticism, short story, and children's literature and has participated
+        in poetry festivals and critical conferences across Iraq, Tunisia, UAE,
+        and Germany.
+      name: Hanaa Mohammed
+      image: https://ucarecdn.com/1c369649-fcf7-48bb-b030-9e71f9009da8/
 mentions:
   text: ""
   heading: ""
