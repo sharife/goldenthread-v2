@@ -44,7 +44,28 @@ ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZ
 ticketinfo: https://goldenthread.org/tickets/
 cast:
   items:
-    - {}
+    - name: Lubana Al Quntar
+      image: https://ucarecdn.com/2d9766c9-1d87-4e6b-9c3f-5d8ec812c2e8/
+      bio: Lubana Al Quntar was born in Damascus, Syria to a family of traditional
+        singers. A descendant of the famous Syrian singer, Amal Al Atrash, and
+        renowned composer and singer, Farid Al Atrash, Lubana grew up with an
+        ear and a voice for music. She trained in classical international
+        conservatories under the supervision of world-renowned opera singers
+        such as Galina Khaldieva, Kenneth Woollam, and Maestra Mya Besselink.
+        She has taken master classes with world-famous opera singers, namely
+        Maestro Daniel Barenboim, Maestro Ricardo Mutti, and Sara Beaker. In
+        1995, Lubana won the prestigious title of the First Arab Opera Singer
+        from Syria. In 1996, she won the first audience prize and fourth overall
+        prize in a Belgrade International Singing Competition. In 2000, she was
+        awarded fifth prize at the Queen Elizabeth Singing Competition,
+        Brussels, Belgium. Since 1996, she has toured internationally in over 10
+        countries in Europe, the Middle East, North Africa, and North America.
+        Between 2006 and 2012, she served at the Syrian National Conservatory as
+        the Voice Chair for the Department of Opera Singing, where she founded
+        and launched the Department of Classical Arabic Singing allowing
+        students to study both Western and Arabic forms together for the very
+        first time. Represented by MAP talent agency, Lubana continues to share
+        her craft to promote and preserve ancient Syrian cultural heritage.
 mentions:
   text: ""
   heading: ""
