@@ -26,15 +26,15 @@ description: >-
 
   * emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
 
-  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq. 
+  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq, featuring **Jennifer Jean**, **Hanaa Mohammed**, **Letta Neely**, **Thawra Yaqoub** and **Elham Nasser** **Al-Zabaidy**. 
 
 
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
 featuring: Lubana Al Quntar, Andrea Assaf, Jennifer Jean, Lujain Jo, Mahjabin
-  Khanzada, Hanaa Mohammed, Elham Nasser Al-Zabeedy, Letta Neely, Layle Omeran,
-  Polina Smith, Marjan Vahdat, Thowra Yaqoob
+  Khanzada, Hanaa Mohammed, Elham Nasser Al-Zabaidy, Letta Neely, Layle Omeran,
+  Polina Smith, Marjan Vahdat, Thowra Yaqoub
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
@@ -140,9 +140,9 @@ cast:
         and Germany.
       name: Hanaa Mohammed
       image: https://ucarecdn.com/1c369649-fcf7-48bb-b030-9e71f9009da8/
-    - bio: "[Elham Nasser Al-Zabeedy](https://www.lotusculturalwomensleague.org/team)
+    - bio: "[Elham Nasser Al-Zabaidy](https://www.lotusculturalwomensleague.org/team)
         is a visual artist and the daughter of the late well-known Iraqi visual
-        artist Nasser Al-Zabeedy. She graduated from the Fine Arts Institute in
+        artist Nasser Al-Zabaidy. She graduated from the Fine Arts Institute in
         Basra, Iraq, in 1984. After Elham worked extensively with local and
         international civil society organizations and noticed that initiatives
         mainly concerned widows and divorced women, she saw a need to support
@@ -150,7 +150,7 @@ cast:
         the Lotus Cultural Women’s League in 2016 to do just that. Today, it is
         a cultural NGO with a mission to provide training, advocacy, cultural
         promotion, and psycho-social support for Iraqi women."
-      name: Elham Nasser Al-Zabeedy
+      name: Elham Nasser Al-Zabaidy
       image: https://ucarecdn.com/a9927f4f-db41-40f6-8939-16635eb165a7/
     - bio: "[Letta Neely](https://lettaneely.com/), originally from Indianapolis,
         Indiana, is a Black lesbian playwright, performer, poet, mother, teacher
@@ -207,7 +207,7 @@ cast:
         ten years in her work."
       name: Marjan Vahdat
       image: https://ucarecdn.com/1fe6d823-46fe-41ef-adcf-9dfd91ddb7f5/
-    - bio: "[Thawra Yaqoob](https://www.lotusculturalwomensleague.org/team) holds a
+    - bio: "[Thawra Yaqoub](https://www.lotusculturalwomensleague.org/team) holds a
         Ph.D. in theatrical arts from the College of Fine Arts in Baghdad and
         works as a Project Manager with the Basra-based Lotus Women Cultural
         League. She works on projects related to empowering women, stopping
@@ -215,7 +215,7 @@ cast:
         is one of the founding members of the Regional Network for Development
         and Anti-Racism in North Africa and the Middle East. She is a community
         leader, educator, and retired professor of theater."
-      name: Thawra Yaqoob
+      name: Thawra Yaqoub
       image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
 mentions:
   text: ""
@@ -234,6 +234,6 @@ bottom:
 
     [Art2Action](https://www.art2action.org/), [Crescent Moon Theatre Productions](https://www.crescentmoontheaterproductions.com/), [Her Story Is](https://www.fortpointtheatrechannel.org/her-story-is), [Iraqi + American Reconciliation Project](https://reconciliationproject.org/)
 ---
-A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
+A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
 
-Past featured artists include Elmaz Abinader (This House, My Bones), Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita Amirrezvani (The Blood of Flowers, Equal to the Sun), Nawal el Saadawi (Memoirs from the Women’s Prison), Denmo Ibrahim (Baba, ECSTASY | a waterfable), Maryam Keshavarz (Circumstance), Rohiha Malek (Unveiled), Nabila Mango (executive director, Zawaya), Ayesha Mattau (Love Inshallah), Zahra Noorbakhsh (All Atheists are Muslim, #GoodMuslimBadMuslim), Shahrnush Parsipur (The Prison Memoirs, Women Without Men), Betty Shamieh (The Black Eyed, Territories), Deema Shehabi (Thirteen Departures From the Moon), Seema Sueko (Remains), and Rosemary Toohey (The Body Washer), and Dina Zarif (The Language of Wild Berries).
+**Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, and the U.S. who are true warriors in their own right.
