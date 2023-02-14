@@ -236,4 +236,4 @@ bottom:
 ---
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
 
-Fighters for Freedom is our theme this year, aligning with the International Women’s Day global theme #EmbraceEquity. We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, and the U.S. who are true warriors in their own right.
+**Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme **\#EmbraceEquity**. We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, and the U.S. who are true warriors in their own right.
