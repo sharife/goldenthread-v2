@@ -1,8 +1,8 @@
 ---
 title: Middle East Center Stage
-headline: "2023 Season: Building Forward"
+headline: "What Do the Women Say? 2023: Fighters for Freedom"
 subtitle: ""
-background: https://ucarecdn.com/fd60adeb-21c4-42ce-9c08-524daa2115d7/
+background: https://ucarecdn.com/43d3b649-ef5d-43b2-ae36-694b92c5a27c/
 cta: Buy Tickets!
 link: https://goldenthread.org/season/
 items:
