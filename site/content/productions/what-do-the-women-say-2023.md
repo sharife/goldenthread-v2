@@ -140,9 +140,9 @@ cast:
         and Germany.
       name: Hanaa Mohammed
       image: https://ucarecdn.com/1c369649-fcf7-48bb-b030-9e71f9009da8/
-    - bio: "[Elham Nasser Al-Zabeedy](https://www.lotusculturalwomensleague.org/team)
+    - bio: "[Elham Nasser Al-Zabaidy](https://www.lotusculturalwomensleague.org/team)
         is a visual artist and the daughter of the late well-known Iraqi visual
-        artist Nasser Al-Zabeedy. She graduated from the Fine Arts Institute in
+        artist Nasser Al-Zabaidy. She graduated from the Fine Arts Institute in
         Basra, Iraq, in 1984. After Elham worked extensively with local and
         international civil society organizations and noticed that initiatives
         mainly concerned widows and divorced women, she saw a need to support
@@ -150,7 +150,7 @@ cast:
         the Lotus Cultural Women’s League in 2016 to do just that. Today, it is
         a cultural NGO with a mission to provide training, advocacy, cultural
         promotion, and psycho-social support for Iraqi women."
-      name: Elham Nasser Al-Zabeedy
+      name: Elham Nasser Al-Zabaidy
       image: https://ucarecdn.com/a9927f4f-db41-40f6-8939-16635eb165a7/
     - bio: "[Letta Neely](https://lettaneely.com/), originally from Indianapolis,
         Indiana, is a Black lesbian playwright, performer, poet, mother, teacher
