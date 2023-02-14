@@ -26,7 +26,7 @@ description: >-
 
   * emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
 
-  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq. 
+  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq, featuring **Jennifer Jean**, **Hanaa Mohammed**, **Letta Neely**, **Thawra Yaqoub** and **Elham Nasser** **Al-Zabaidy**. 
 
 
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
