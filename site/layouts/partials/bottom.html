@@ -2,7 +2,7 @@
   <h3 class="mb3 tc">• • •</h3>
   {{ if .heading }}
   <h3 class="mb3 f4 b tc">{{ .heading }}</h3>
-  {{ else }}
+  {{ else if .text}}
   <h3 class="mb3 f4 b tc">We are grateful for the support of the following institutions:</h3>
   {{ end }}
 
@@ -10,6 +10,7 @@
   <h3 class="cms f6">{{ .text | markdownify }}</h3>
   {{ end }}
 </div>
+
 {{ if .logos }}
 <div class="flex-ns justify-between pv2 mb4">
 	{{ range .logos }}
