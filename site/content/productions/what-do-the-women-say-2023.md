@@ -230,7 +230,7 @@ bottom:
   text: >-
     
 
-    ![](https://ucarecdn.com/318f186f-01b6-472c-84b8-fa72a4248d14/ "Co-Presenter: Brava Theater Center")
+    ![](https://ucarecdn.com/e4ef98aa-6a80-4dfa-9eb1-a4f711796bf1/ "Co-Presenter: Brava Theater Center")
 
 
     ![](https://ucarecdn.com/0a82e81b-eae6-4a16-93eb-ceba02d54fee/ "Sponsor: WomenArts")
