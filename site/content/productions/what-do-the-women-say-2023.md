@@ -230,10 +230,12 @@ bottom:
     - image: https://ucarecdn.com/c6696c40-2ea0-4e85-9821-60d9fd949f3e/
   heading: ""
   text: >-
-    Co-Presenter: Brava Theater Center and Sponsor: WomenArts 
-
+    
 
     ![](https://ucarecdn.com/318f186f-01b6-472c-84b8-fa72a4248d14/ "Co-Presenter: Brava Theater Center")
+
+
+    ![](https://ucarecdn.com/0a82e81b-eae6-4a16-93eb-ceba02d54fee/ "Sponsor: WomenArts")
 
 
     with Community Partners: \
