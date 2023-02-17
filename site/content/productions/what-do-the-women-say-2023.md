@@ -222,8 +222,6 @@ mentions:
   heading: ""
 bottom:
   logos:
-    - image: https://ucarecdn.com/4476b63d-fe62-4315-989a-8e34138946c7/
-    - image: https://ucarecdn.com/cb2effe8-9296-4bd2-98c5-cf8f2346e7ec/
     - image: https://ucarecdn.com/8b369fe1-0d40-4abc-97be-2e77c08ffdf2/
     - image: https://ucarecdn.com/cc1e244e-181f-4cfd-a3bf-e29f55cdb277/
     - image: https://ucarecdn.com/50032809-172e-43f6-b2ce-cf3a107f6bce/
