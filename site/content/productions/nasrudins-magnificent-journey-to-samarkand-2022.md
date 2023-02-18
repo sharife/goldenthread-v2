@@ -27,6 +27,30 @@ misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
 
   Appropriate for families and children, ages 5-15
+mentions:
+  heading: 2023 Public Library performance dates
+  text: |-
+    Saturday, April 22, 2023
+    **San Francisco Public Library**, Main Branch, Fisher Children's Center:
+    100 Larkin St., San Francisco 94102
+    3:00pm show
+
+    Saturday, April 29, 2023
+    **Berkeley Public Library**, Claremont Branch:
+    2940 Benvenue St., Berkeley 94705
+    3:00pm show
+
+    Thursday, June 20, 2023
+    **Belvedere Tiburon Library:**
+    1501 Tiburon Blvd., Tiburon 94920
+    11:00am show
+
+    Thursday, June 29, 2023
+    **Milpitas Public Library**:
+    160 N. Main St., Milpitas 95035
+    *Two shows:
+    3:30pm show
+    7:00pm show
 photos:
   items:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
