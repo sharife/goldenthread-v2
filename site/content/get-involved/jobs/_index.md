@@ -79,7 +79,7 @@ Golden Thread is looking to engage a consultant or group to lead us through a st
 
 * Develop trackable goals and metrics to measure the progress of the strategic plan and adjust as needed. 
 
-Deliverables 
+**Deliverables** 
 
 1. **Foundational Plan**, including: Background and context analysis: A description of the company’s current operations, and external factors that may impact its future. Current performance: A summary of the company’s current financial, operational, and programmatic performance. 
 2. **Findings Report**, including: Summary of the current state of the theater industry, including trends and potential opportunities for the organization.
@@ -97,10 +97,10 @@ Deliverables
 4. **Summary document** and **a presentation format** of the Strategic Plan. 
 5. **Appendices**: supporting documents, minutes of meetings and focus groups, information used in the planning process, etc.
 
-Budget 
+**Budget** 
 The current budget for this project is not to exceed $25,000 for all services. 
 
-Proposals should include 
+**Proposals should include:** 
 
 1. About your group.  
 2. Bios of the team that will work on the project. If multiple people will be involved, describe the roles, skills, and expertise of the personnel that will be undertaking this project, along with the percentage of their time that will be allocated.  Please provide resumes for each team member, and indicate who will take the overall lead in communicating with Golden Thread.
