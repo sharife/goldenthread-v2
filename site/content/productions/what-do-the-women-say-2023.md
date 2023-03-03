@@ -232,6 +232,13 @@ cast:
         leader, educator, and retired professor of theater."
       name: Thawra Yaqoub
       image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
+    - name: Nida Khalil
+      image: https://ucarecdn.com/a58f3156-1020-4422-b10e-49117ea8de3e/
+      bio: >-
+        Nida Khalil
+
+
+        [Nida Khalil](https://www.linkedin.com/in/nidakhalil) is a Palestinian American, originally from Lifta, Palestine and now living in Oakland, CA. She is a Community School Program Manager for Oakland Unified School District. In addition, Nida is a self-taught international mosaic artist and a voice-over artist, who has acted in several Brava Theatre and Golden Thread Productions. She holds an undergraduate degree in English Literature & Education from San Francisco State University and a graduate degree in Social Work from California State University, East Bay. Nida is a social justice advocate, equity warrior, and lifelong learner. She was awarded the 2018 Local Hero Award by the City of Oakland, was a keynote speaker for the My Red Shoes 2019 conference, and was named a 2022 nominee for the Care Warrior award.
 mentions:
   text: ""
   heading: ""
