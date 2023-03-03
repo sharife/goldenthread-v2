@@ -218,6 +218,13 @@ cast:
         leader, educator, and retired professor of theater."
       name: Thawra Yaqoub
       image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
+    - name: Rahaf Abuobeid
+      image: https://ucarecdn.com/e4ac65fe-7fc6-46b8-b018-c4fed7fcc498/
+      bio: >-
+        Rahaf Abuobeid
+
+
+        Rahaf Abuobeid is a Syrian American language learner and teacher. She started theater in 2019. She loves exploring her voice, creating stories, and the experiences she gets to share on stage. Rahaf is also a modern and contemporary dancer, she has performed at Brava theater last year for *A Day in Paris* with other 165 great dancers of all ages. Some of the things she likes to do besides dancing and theater are wood carving, reading, playing her guitar and Ukulele, writing poems, traveling, and learning new languages while building language maps.
 mentions:
   text: ""
   heading: ""
