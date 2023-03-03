@@ -4,7 +4,7 @@ headline: "What Do the Women Say? 2023: Fighters for Freedom"
 subtitle: ""
 background: https://ucarecdn.com/1454792e-2428-4f59-a64e-70413d962402/-/crop/2991x1375/0,217/-/preview/
 cta: Buy Tickets!
-link: https://goldenthread.org/season/
+link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**2023 Season Tickets On Sale Now!**"
     text: Our 27th season brings new work highlighting our commitment to uplift one
