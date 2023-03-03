@@ -96,6 +96,13 @@ cast:
         member of the Middle Eastern/North African Theatre-Makers Alliance
         (MENATMA)."
       image: https://ucarecdn.com/c61b1e27-83a4-445d-ba2b-f258903f2c9b/
+    - name: Alaa Ibrahim
+      image: https://ucarecdn.com/542d3cae-a1fd-4bc7-9be7-32368b2cd33e/
+      bio: >-
+        Alaa Ibrahim
+
+
+        Alaa Ibrahim received her PhD in Neuroscience in 2018 from Germany. She moved to the US in 2019 for her postdoctoral training at UCSF and she currently works as an R&D research scientist in a pharmaceutical company in the Bay area. When she isn’t in the lab Alaa enjoys working with [Aswat Ensemble](https://zawaya.org/site/aswat-ensemble/) to learn percussion and singing! She also enjoys doing yoga, hiking and cooking for family and friends.
     - bio: "[Jennifer Jean](https://www.jenniferjeanwriter.com/about.html)’s poetry
         collections include VOZ, Object Lesson, and The Fool. Her teaching
         resource book is Object Lesson: a Guide to Writing Poetry. Her poems and
@@ -225,13 +232,6 @@ cast:
         leader, educator, and retired professor of theater."
       name: Thawra Yaqoub
       image: https://ucarecdn.com/685e3745-4748-4063-b7c2-e8d3bfc56655/
-    - name: Alaa Ibrahim
-      image: https://ucarecdn.com/542d3cae-a1fd-4bc7-9be7-32368b2cd33e/
-      bio: >-
-        Alaa Ibrahim
-
-
-        Alaa Ibrahim received her PhD in Neuroscience in 2018 from Germany. She moved to the US in 2019 for her postdoctoral training at UCSF and she currently works as an R&D research scientist in a pharmaceutical company in the Bay area. When she isn’t in the lab Alaa enjoys working with [Aswat Ensemble](https://zawaya.org/site/aswat-ensemble/) to learn percussion and singing! She also enjoys doing yoga, hiking and cooking for family and friends.
 mentions:
   text: ""
   heading: ""
