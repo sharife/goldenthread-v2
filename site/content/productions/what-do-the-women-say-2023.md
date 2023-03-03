@@ -32,9 +32,10 @@ description: >-
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
-featuring: Lubana Al Quntar, Andrea Assaf, Jennifer Jean, Lujain Jo, Mahjabin
-  Khanzada, Hanaa Mohammed, Elham Nasser Al-Zabaidy, Letta Neely, Layle Omeran,
-  Polina Smith, Marjan Vahdat, Thowra Yaqoub
+featuring: Rahaf Abuobeid, Lubana Al Quntar, Andrea Assaf, Alaa Ibrahim,
+  Jennifer Jean, Lujain Jo, Nida Khalil, Mahjabin Khanzada, Hanaa Mohammed,
+  Elham Nasser Al-Zabaidy, Letta Neely, Layle Omeran, Polina Smith, Marjan
+  Vahdat, Thowra Yaqoub
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
@@ -42,6 +43,13 @@ ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZ
 ticketinfo: Tickets are $20-$100. No one will be turned away for lack of funds.
 cast:
   items:
+    - name: Rahaf Abuobeid
+      image: https://ucarecdn.com/e4ac65fe-7fc6-46b8-b018-c4fed7fcc498/
+      bio: >-
+        Rahaf Abuobeid
+
+
+        [Rahaf Abuobeid](https://www.ted.com/talks/rahaf_abuobeid_how_to_learn_any_language) is a Syrian American language learner and teacher. She started theater in 2019. She loves exploring her voice, creating stories, and the experiences she gets to share on stage. Rahaf is also a modern and contemporary dancer, she has performed at Brava theater last year for *A Day in Paris* with other 165 great dancers of all ages. Some of the things she likes to do besides dancing and theater are wood carving, reading, playing her guitar and Ukulele, writing poems, traveling, and learning new languages while building language maps.
     - name: Lubana Al Quntar
       image: https://ucarecdn.com/2d9766c9-1d87-4e6b-9c3f-5d8ec812c2e8/
       bio: "[Lubana Al Quntar](https://www.youtube.com/user/lubanaalquntar) was born
@@ -88,6 +96,13 @@ cast:
         member of the Middle Eastern/North African Theatre-Makers Alliance
         (MENATMA)."
       image: https://ucarecdn.com/c61b1e27-83a4-445d-ba2b-f258903f2c9b/
+    - name: Alaa Ibrahim
+      image: https://ucarecdn.com/542d3cae-a1fd-4bc7-9be7-32368b2cd33e/
+      bio: >-
+        Alaa Ibrahim
+
+
+        Alaa Ibrahim received her PhD in Neuroscience in 2018 from Germany. She moved to the US in 2019 for her postdoctoral training at UCSF and she currently works as an R&D research scientist in a pharmaceutical company in the Bay area. When she isn’t in the lab Alaa enjoys working with [Aswat Ensemble](https://zawaya.org/site/aswat-ensemble/) to learn percussion and singing! She also enjoys doing yoga, hiking and cooking for family and friends.
     - bio: "[Jennifer Jean](https://www.jenniferjeanwriter.com/about.html)’s poetry
         collections include VOZ, Object Lesson, and The Fool. Her teaching
         resource book is Object Lesson: a Guide to Writing Poetry. Her poems and
@@ -120,6 +135,13 @@ cast:
         related to social movements, migrant workers, police brutality, and
         feminism."
       image: https://ucarecdn.com/86c33905-bd7b-4d6d-9cfa-2b06e75012cb/
+    - name: Nida Khalil
+      image: https://ucarecdn.com/a58f3156-1020-4422-b10e-49117ea8de3e/
+      bio: >-
+        Nida Khalil
+
+
+        [Nida Khalil](https://www.linkedin.com/in/nidakhalil) is a Palestinian American, originally from Lifta, Palestine and now living in Oakland, CA. She is a Community School Program Manager for Oakland Unified School District. In addition, Nida is a self-taught international mosaic artist and a voice-over artist, who has acted in several Brava Theatre and Golden Thread Productions. She holds an undergraduate degree in English Literature & Education from San Francisco State University and a graduate degree in Social Work from California State University, East Bay. Nida is a social justice advocate, equity warrior, and lifelong learner. She was awarded the 2018 Local Hero Award by the City of Oakland, was a keynote speaker for the My Red Shoes 2019 conference, and was named a 2022 nominee for the Care Warrior award.
     - bio: Mahjabin Khanzada was born and raised in Kabul, Afghanistan. At the age of
         18, she began working as an interpreter for the U.S. Army in Kabul. On
         August 9th, 2021, Mahjabin was put on an emergency evacuation flight to
@@ -244,4 +266,4 @@ bottom:
 ---
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
 
-**Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, and the U.S. who are true warriors in their own right.
+**Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S. who are true warriors in their own right.
