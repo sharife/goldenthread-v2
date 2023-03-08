@@ -32,6 +32,10 @@ description: >-
   Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
+programlabel: Read the full digital program
+program: https://ucarecdn.com/d9089f4f-1595-4d52-83e6-fdb772c65922/
+pdflabel: Read our artist bios
+pdf: https://ucarecdn.com/6108de05-4f07-4311-adec-ac9744f41cb7/
 featuring: Rahaf Abuobeid, Lubana Al Quntar, Andrea Assaf, Alaa Ibrahim,
   Jennifer Jean, Lujain Jo, Nida Khalil, Mahjabin Khanzada, Hanaa Mohammed,
   Elham Nasser Al-Zabaidy, Letta Neely, Layle Omeran, Polina Smith, Marjan
