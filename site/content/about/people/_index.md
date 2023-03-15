@@ -198,6 +198,23 @@ staff:
 
 
         For his 2007 installation, [Domestic Tension](https://wafaabilal.com/domestic-tension/), Bilal spent a month in FlatFile Galleries where people could shoot him via a remote-access paintball gun. The Chicago Tribune called it “one of the sharpest works of political art to be seen in a long time”—naming him 2008 Artist of the Year. That year, City Lights published [Shoot an Iraqi: Art, Life and Resistance Under the Gun](https://wafaabilal.com/shoot-an-iraqi/) about Bilal’s life and *Domestic Tension*. Using his own body as a medium, Bilal continued to challenge the public’s comfort zone with projects like [3rdi](https://wafaabilal.com/thirdi/) and [and Counting…](https://wafaabilal.com/and-counting/). Bilal’s work, [Canto III](https://wafaabilal.com/canto-iii/), was included as part of the Iranian pavilion at the 2015 Venice Biennale. Bilal’s current work [168:01](https://wafaabilal.com/168h01s/) brings awareness to cultural destruction and promotes the collective healing process through education and audience participation. His work can be found in the permanent collections of the Los Angeles County Museum of Art, Los Angeles, CA; Museum of Contemporary Photography, Chicago, IL; MATHAF: Arab Museum of Modern Art, Doha, Qatar; amongst others. He holds a BFA from the University of New Mexico, an MFA from the School of the Art Institute of Chicago and was conferred an honorary PhD from DePauw University. Bilal is currently an Arts Professor at [NYU](https://tisch.nyu.edu/about/directory/photo/112869977)'s Tisch School of the Arts.
+    - name: "Amal Bisharat "
+      credit: 2023 Theatre Bay Area Arts Leadership Residency
+      image: https://ucarecdn.com/24f84b72-4b2e-4207-a130-daf4be027a31/
+      bio: >-
+        **Amal Bisharat** (*she/her*) is a Palestinian American
+        multidisciplinary artist: a theater director, theater maker, musician,
+        actor, and photographer. Bisharat holds a BA in Music and Theater from
+        Minnesota State University-Moorhead and for 12 years worked as a
+        director and music director in partnership with the San Francisco
+        Unified School District. She is a recipient of the 2022-23 TBA Arts
+        Leadership Residency Grant and CA$H Creates Grant, and is presently in
+        residency at Golden Thread Productions as co-producer and director for
+        their signature ReOrient Festival of short plays. 
+
+
+        As a singer/songwriter and multi-instrumentalist, Bisharat has been writing, recording and performing with bands most of her life. Currently she is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel *Mornings in Jenin* by Susan Abulhawa. Bisharat is also an award-winning [photographer](https://www.amalbphotography.com/), with her own arts-focused photography company, capturing the magic of professional dance, theater, and music performances for groups like Yerba Buena Gardens Festival, RAWdance, and Alonzo King Lines Ballet. Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
+      link: ""
 board:
   heading: Board of Trustees
   items:
