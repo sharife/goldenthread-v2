@@ -37,6 +37,12 @@ programs:
       to develop work about the Middle East. Since its launch in 2011, many New
       Threads plays and playwrights have continued on to receive mainstage
       productions.
+  - heading: "No Summary "
+    text: These curated digital discussions invite artists of Middle Eastern and
+      North African heritage to discuss the many layers of their identity and
+      how it impacts their work and artistic choices. We invite you to take
+      pause with us and immerse yourself in these compelling topics and
+      histories that defy a snappy summation.
   - cta: Learn more
     heading: New Play Development
     imageUrl: /img/hero-ftp-fifthstring.jpg
@@ -44,12 +50,6 @@ programs:
     text: "Golden Thread ensures the discovery and development of new playwrights
       and plays through four distinct programs: _Middle East America, Kimia_,
       _Islam 101_, and _New Threads Staged Reading Series_."
-  - heading: "No Summary "
-    text: These curated digital discussions invite artists of Middle Eastern and
-      North African heritage to discuss the many layers of their identity and
-      how it impacts their work and artistic choices. We invite you to take
-      pause with us and immerse yourself in these compelling topics and
-      histories that defy a snappy summation.
 ---
 Golden Thread has been a pioneer in the field of Middle Eastern American theatre and has a long track record of producing world premieres and collaboratively developing original plays. Our programming consists of productions of new full-length plays; the [**ReOrient Festival**](https://golden-thread.netlify.com/programs/reorient/) of short plays; special community outreach events such as [**What do the Women Say?**](https://golden-thread.netlify.com/programs/what-do-the-women-say/); and the [**Fairytale Players**](/programs/fairytale-players), a dynamic touring ensemble that performs family shows at schools, libraries and festivals.
 
