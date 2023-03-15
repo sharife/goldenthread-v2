@@ -28,6 +28,8 @@ lists:
           works provoking dialogue about international and interpersonal
           politics. As part of his residency at Golden Thread, Bilal will curate
           Amreeka: The Comedy Show and participate in the ReOrient Forum."
+        cta: Register for FREE!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoKSZUA2
       - itemstart: 2023-03-15T08:56:26.799Z
         itemend: 2023-03-15T08:56:26.816Z
         title: "Episode 2: Intergenerational MENA playwrights writing MENA stories to
