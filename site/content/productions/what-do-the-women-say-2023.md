@@ -246,6 +246,9 @@ cast:
 mentions:
   text: ""
   heading: ""
+photos:
+  items:
+    - {}
 bottom:
   logos:
     - image: https://ucarecdn.com/8b369fe1-0d40-4abc-97be-2e77c08ffdf2/
