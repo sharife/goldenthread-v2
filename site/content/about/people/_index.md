@@ -185,6 +185,19 @@ staff:
       credit: Artist Emeritus
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
+    - name: Wafaa Bilal
+      credit: 2023 Artist-in-residence
+      image: https://ucarecdn.com/df1d9595-6488-402f-adc2-45e4b28e09a5/
+      bio: >-
+        Iraqi-born artist **Wafaa Bilal** (*he/him*) is known internationally
+        for his on-line performative and interactive works provoking dialogue
+        about international and interpersonal politics. Bilal’s work explores
+        tensions between the cultural spaces he occupies —his home in the
+        comfort zone of the U.S. and his consciousness in the conflict zone in
+        Iraq. 
+
+
+        For his 2007 installation, [Domestic Tension](https://wafaabilal.com/domestic-tension/), Bilal spent a month in FlatFile Galleries where people could shoot him via a remote-access paintball gun. The Chicago Tribune called it “one of the sharpest works of political art to be seen in a long time”—naming him 2008 Artist of the Year. That year, City Lights published [Shoot an Iraqi: Art, Life and Resistance Under the Gun](https://wafaabilal.com/shoot-an-iraqi/) about Bilal’s life and *Domestic Tension*. Using his own body as a medium, Bilal continued to challenge the public’s comfort zone with projects like [3rdi](https://wafaabilal.com/thirdi/) and [and Counting…](https://wafaabilal.com/and-counting/). Bilal’s work, [Canto III](https://wafaabilal.com/canto-iii/), was included as part of the Iranian pavilion at the 2015 Venice Biennale. Bilal’s current work [168:01](https://wafaabilal.com/168h01s/) brings awareness to cultural destruction and promotes the collective healing process through education and audience participation. His work can be found in the permanent collections of the Los Angeles County Museum of Art, Los Angeles, CA; Museum of Contemporary Photography, Chicago, IL; MATHAF: Arab Museum of Modern Art, Doha, Qatar; amongst others. He holds a BFA from the University of New Mexico, an MFA from the School of the Art Institute of Chicago and was conferred an honorary PhD from DePauw University. Bilal is currently an Arts Professor at [NYU](https://tisch.nyu.edu/about/directory/photo/112869977)'s Tisch School of the Arts.
 board:
   heading: Board of Trustees
   items:
