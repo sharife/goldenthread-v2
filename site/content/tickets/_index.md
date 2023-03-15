@@ -3,7 +3,7 @@ title: Buy Tickets
 lists:
   - heading: "What Do The Women Say? 2023: Fighters for Freedom"
     items:
-      - title: ""
+      - title: Video On Demand
         pre: Wednesday, March 8, 2023 at 7:00PM
         image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
         text: >-
@@ -20,17 +20,18 @@ lists:
           Yemeni Oud artist **Layle Omeran**. Executive Artistic Director
           **Sahar Assaf** will facilitate a conversation between the
           participating artists and the audience following the presentations.
+          *The full program is 120-minutes without intermission.* 
 
 
-          *Presented in a hybrid format with artists appearing in-person and virtually. Audiences may join IN-PERSON or online via LIVESTREAM. The full program is 120-minutes without intermission.* 
+          Available to stream On Demand from **March 15 - 22, 2023**. 
 
 
           **Brava Theater Center** (2781 24th Street, San Francisco)
 
 
-          General admission tickets available at a sliding scale of $20-$100
+          48-hour viewing access available at a sliding scale of $20-$100. *One device access per viewing, rental period beginning when you press play.*
         cta: Buy Now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoGhXUAU
         subtitle: Golden Thread's Annual Celebration of International Women's Day,
           co-presented with Brava Theater Center
   - heading: "Amreeka: The Comedy Show"
