@@ -37,6 +37,13 @@ programs:
       to develop work about the Middle East. Since its launch in 2011, many New
       Threads plays and playwrights have continued on to receive mainstage
       productions.
+  - heading: "No Summary "
+    text: These curated digital discussions invite artists of Middle Eastern and
+      North African heritage to discuss the many layers of their identity and
+      how it impacts their work and artistic choices. We invite you to take
+      pause with us and immerse yourself in these compelling topics and
+      histories that defy a snappy summation.
+    imageUrl: https://ucarecdn.com/d5e7f0de-47ab-470d-9ad9-437892f67200/
   - cta: Learn more
     heading: New Play Development
     imageUrl: /img/hero-ftp-fifthstring.jpg
