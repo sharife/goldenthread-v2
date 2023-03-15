@@ -186,7 +186,7 @@ staff:
       image: /img/archive/2015/02/VidaGhahremani_300x300.jpg
       name: Vida Ghahremani
     - name: Wafaa Bilal
-      credit: 2023 Artist-in-residence
+      credit: 2023 Artist-in-Residence
       image: https://ucarecdn.com/df1d9595-6488-402f-adc2-45e4b28e09a5/
       bio: >-
         Iraqi-born artist **Wafaa Bilal** (*he/him*) is known internationally
