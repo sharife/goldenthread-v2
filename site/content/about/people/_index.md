@@ -123,6 +123,21 @@ staff:
         is now based in the Bay Area and is the Production Associate at Golden
         Thread Productions and a current participant of KALW’s radio journalism
         program in San Francisco, CA."
+    - name: "Soluna Espinosa Pieb "
+      credit: Development & Patron Services Associate
+      image: https://ucarecdn.com/61a1588c-16f8-4ada-b353-c8a156ec8733/
+      bio: "**Soluna Espinosa Pieb** (*they/them*) is a queer Mexican-American actor
+        based in the Bay Area. They are proud to be a liaison between Crowded
+        Fire Theater and Golden Thread Productions, serving as both companies’
+        Development & Patron  Services Associate. Soluna is a graduate of UC
+        Berkeley’s Theater and Performance Studies program, and has since been
+        fortunate enough to bring new plays like Gary Soto’s *The Afterlife*
+        onstage, both nationally and internationally, as well as Linda Girón's
+        *Memoria del Silencio en el País de la Eterna Primavera*. They also made
+        their directorial debut with Linda Girón’s *LIMÃO Y SAL*. Soluna feels
+        blessed to be surrounded by so many brilliant artists, and can’t wait to
+        bring the incredible visions of Crowded Fire and Golden Thread into
+        reality!"
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -219,21 +234,6 @@ staff:
 
         Theatre Bay Area’s Arts Leadership Residency removes roadblocks to arts leadership for historically marginalized groups by funding theatremakers in residence at professional theatres where they will be mentored by the artistic director or managing director and direct or produce a significant project. Learn more here: [Theatre Bay Area Arts Leadership Residency](https://www.theatrebayarea.org/arts-leadership-residency/)
       link: ""
-    - name: "Soluna Espinosa Pieb "
-      credit: Development & Patron Services Associate
-      image: https://ucarecdn.com/61a1588c-16f8-4ada-b353-c8a156ec8733/
-      bio: "**Soluna Espinosa Pieb** (*they/them*) is a queer Mexican-American actor
-        based in the Bay Area. They are proud to be a liaison between Crowded
-        Fire Theater and Golden Thread Productions, serving as both companies’
-        Development & Patron  Services Associate. Soluna is a graduate of UC
-        Berkeley’s Theater and Performance Studies program, and has since been
-        fortunate enough to bring new plays like Gary Soto’s *The Afterlife*
-        onstage, both nationally and internationally, as well as Linda Girón's
-        *Memoria del Silencio en el País de la Eterna Primavera*. They also made
-        their directorial debut with Linda Girón’s *LIMÃO Y SAL*. Soluna feels
-        blessed to be surrounded by so many brilliant artists, and can’t wait to
-        bring the incredible visions of Crowded Fire and Golden Thread into
-        reality!"
 board:
   heading: Board of Trustees
   items:
