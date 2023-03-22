@@ -4,7 +4,7 @@ lists:
   - heading: "What Do The Women Say? 2023: Fighters for Freedom"
     items:
       - title: Video On Demand
-        pre: Wednesday, March 8, 2023 at 7:00PM
+        pre: March 15 - 31, 2023
         image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
         text: >-
           Featuring the work of Middle Eastern women artists who are fighting
