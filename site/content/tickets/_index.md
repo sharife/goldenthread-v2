@@ -4,7 +4,7 @@ lists:
   - heading: "What Do The Women Say? 2023: Fighters for Freedom"
     items:
       - title: Video On Demand
-        pre: March 15 - 31, 2023
+        pre: "Now streaming: March 15 - 31, 2023"
         image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
         text: >-
           Featuring the work of Middle Eastern women artists who are fighting
@@ -23,10 +23,10 @@ lists:
           *The full program is 120-minutes without intermission.* 
 
 
-          On Demand viewing **extended thru March 31, 2023**
+          On Demand viewing now **extended thru March 31, 2023**
 
 
-          **Brava Theater Center** (2781 24th Street, San Francisco)
+          Recorded liveon Wednesday, March 8, 2023 at **Brava Theater Center** (2781 24th Street, San Francisco)
 
 
           48-hour viewing access available at a sliding scale of $20-$100. *One device access per viewing, rental period beginning when you press play.*
