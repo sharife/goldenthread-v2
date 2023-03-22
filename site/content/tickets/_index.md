@@ -23,7 +23,7 @@ lists:
           *The full program is 120-minutes without intermission.* 
 
 
-          Available to stream On Demand from **March 15 - 22, 2023**. 
+          On Demand viewing **extended thru March 31, 2023**
 
 
           **Brava Theater Center** (2781 24th Street, San Francisco)
