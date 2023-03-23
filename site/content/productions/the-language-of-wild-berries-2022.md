@@ -150,14 +150,18 @@ cast:
         Dina is the Artistic and Managing Director at Red Poppy Art House which is an incubator for artists of multiple disciplines in San Francisco. Dina received her MA in Landscape Architecture from the University Of Tehran, College Of Fine Arts.
 mentions:
   heading: Creative Team
-  text: "**Samantha Alexa** (Props Design), **Atusa Assadi** (Assistant Stage
+  text: >-
+    **Samantha Alexa** (Props Design), **Atusa Assadi** (Assistant Stage
     Manager), **Cassie Barnes** (Lighting Design), **Kate Boyd** (Scenic
     Design), **Megan Hillard** (Technical Director), **Dan Holland** (Production
     Manager), **Brooke Jennings** (Costume Design), **Camille La'akea Wong**
     (Stage Manager), **Heather Rastovac Akbarzadeh** (Dramaturg), **Derek
-    Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition)"
+    Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition) 
+
+
+    David Allen Photography (production photos), Amal Bisharat Photography (publicity photos)
 photos:
-  heading: Productions photos courtesy of David Allen Photography
+  heading: "Photo Gallery: production"
   items:
     - image: https://ucarecdn.com/ed7e366f-98b1-4c3b-b8d6-2a6c71cafac8/
     - image: https://ucarecdn.com/4c27efb8-72f0-43af-8f03-da6e87291914/
@@ -174,6 +178,15 @@ photos:
     - image: https://ucarecdn.com/e0697d6c-29bb-4d5d-8caf-5b8c7dc8ad1b/
     - image: https://ucarecdn.com/7ef7d5d5-b264-47bd-a3a6-9cd629eeb062/
     - image: https://ucarecdn.com/a6e85692-fa4d-4092-99a8-0766cc777f2b/
+photos2:
+  heading: "Photo Gallery: publicity"
+  items:
+    - image: https://ucarecdn.com/2e23864f-66a0-4583-b1e3-7e267ef47869/
+    - image: https://ucarecdn.com/b4a7b202-dcfe-400a-ae58-390d7e832da9/
+    - image: https://ucarecdn.com/da57581f-ddd0-4ee2-bb00-9e7c3595a914/
+    - image: https://ucarecdn.com/7817cd9a-9a58-4524-8517-c6ea47db8a5f/
+    - image: https://ucarecdn.com/00cea28f-2506-42c5-9443-cd9f449a6a10/
+    - image: https://ucarecdn.com/cd433ffd-c21e-4da7-b523-b4f5c0ec8678/
 bottom:
   heading: ""
   text: >-
