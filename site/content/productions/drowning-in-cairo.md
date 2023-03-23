@@ -42,8 +42,8 @@ stage: Potrero Stage
 address: 1695 18th Street, San Francisco
 ticketlink: ""
 ticketinfo: <p>Tickets $20-$100</p> <p>In-Person Performances April 8 - May 1, 2022</p>
-externallink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE
-externallinklabel: "Video On Demand Now Available: April 25 - May 1, 2022"
+externallink: ""
+externallinklabel: ""
 misc: ""
 cast:
   heading: Artist Bios
