@@ -157,7 +157,7 @@ mentions:
     (Stage Manager), **Heather Rastovac Akbarzadeh** (Dramaturg), **Derek
     Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition)"
 photos:
-  heading: Productions photos courtesy of David Allen Photography
+  heading: "Photo Gallery: production"
   items:
     - image: https://ucarecdn.com/ed7e366f-98b1-4c3b-b8d6-2a6c71cafac8/
     - image: https://ucarecdn.com/4c27efb8-72f0-43af-8f03-da6e87291914/
