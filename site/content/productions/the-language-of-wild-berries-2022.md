@@ -150,12 +150,19 @@ cast:
         Dina is the Artistic and Managing Director at Red Poppy Art House which is an incubator for artists of multiple disciplines in San Francisco. Dina received her MA in Landscape Architecture from the University Of Tehran, College Of Fine Arts.
 mentions:
   heading: Creative Team
-  text: "**Samantha Alexa** (Props Design), **Atusa Assadi** (Assistant Stage
+  text: >-
+    **Samantha Alexa** (Props Design), **Atusa Assadi** (Assistant Stage
     Manager), **Cassie Barnes** (Lighting Design), **Kate Boyd** (Scenic
     Design), **Megan Hillard** (Technical Director), **Dan Holland** (Production
     Manager), **Brooke Jennings** (Costume Design), **Camille La'akea Wong**
     (Stage Manager), **Heather Rastovac Akbarzadeh** (Dramaturg), **Derek
-    Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition)"
+    Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition) 
+
+
+    David Allen Photography (production photos) 
+
+
+    Amal Bisharat Photography (publicity photos)
 photos:
   heading: "Photo Gallery: production"
   items:
