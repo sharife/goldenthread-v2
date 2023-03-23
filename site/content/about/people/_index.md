@@ -127,17 +127,17 @@ staff:
       credit: Development & Patron Services Associate
       image: https://ucarecdn.com/61a1588c-16f8-4ada-b353-c8a156ec8733/
       bio: "**Soluna Espinosa Pieb** (*they/them*) is a queer Mexican-American actor
-        based in the Bay Area. They are proud to be a liaison between Crowded
-        Fire Theater and Golden Thread Productions, serving as both companies’
-        Development & Patron  Services Associate. Soluna is a graduate of UC
-        Berkeley’s Theater and Performance Studies program, and has since been
-        fortunate enough to bring new plays like Gary Soto’s *The Afterlife*
-        onstage, both nationally and internationally, as well as Linda Girón's
-        *Memoria del Silencio en el País de la Eterna Primavera*. They also made
-        their directorial debut with Linda Girón’s *LIMÃO Y SAL*. Soluna feels
-        blessed to be surrounded by so many brilliant artists, and can’t wait to
-        bring the incredible visions of Crowded Fire and Golden Thread into
-        reality!"
+        based in the Bay Area. They are proud to be a shared staff member at
+        Crowded Fire Theater and Golden Thread Productions, serving as
+        Development & Patron Services Associate at both companies. Soluna is a
+        graduate of UC Berkeley’s Theater and Performance Studies program, and
+        has since been fortunate enough to bring new plays like Gary Soto’s *The
+        Afterlife* onstage, both nationally and internationally, as well as
+        Linda Girón's *Memoria del Silencio en el País de la Eterna Primavera*.
+        They also made their directorial debut with Linda Girón’s *LIMÃO Y SAL*.
+        Soluna feels blessed to be surrounded by so many brilliant artists, and
+        can’t wait to bring the incredible visions of Crowded Fire and Golden
+        Thread into reality!"
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
