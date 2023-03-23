@@ -21,8 +21,8 @@ description: >-
 
 
   For content advisories and additional information visit our content [guide](https://goldenthread.org/posts/content-guide/).
-background: https://ucarecdn.com/38fccb21-c012-405c-9b46-1a1d0c17e6e7/
-titleimage: https://ucarecdn.com/8925b373-d734-437e-bf3f-c9bf26fbb735/
+background: https://ucarecdn.com/0af62615-7121-4351-aebb-2b4df1af458d/
+titleimage: https://ucarecdn.com/8bca8dbf-a1e5-497e-a3c8-327c24887bce/
 programlabel: Download the digital program!
 program: https://ucarecdn.com/baf895af-81a6-4134-b579-14713c8de61b/
 videos:
@@ -40,10 +40,10 @@ designteam: Kenan Arun (Make-up Design), Atusa Assadi (Assistant Stage Manager),
 dramaturg: Salma Zohdi
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco
-ticketlink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/
+ticketlink: ""
 ticketinfo: <p>Tickets $20-$100</p> <p>In-Person Performances April 8 - May 1, 2022</p>
-externallink: https://goldenthread.secure.force.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000txLuyUAE
-externallinklabel: "Video On Demand Now Available: April 25 - May 1, 2022"
+externallink: ""
+externallinklabel: ""
 misc: ""
 cast:
   heading: Artist Bios
