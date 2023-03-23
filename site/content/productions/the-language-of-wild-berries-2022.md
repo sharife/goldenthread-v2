@@ -159,10 +159,7 @@ mentions:
     Schmidt** (Sound Design), **Mohammad Talani** (Original Music Composition) 
 
 
-    David Allen Photography (production photos) 
-
-
-    Amal Bisharat Photography (publicity photos)
+    David Allen Photography (production photos), Amal Bisharat Photography (publicity photos)
 photos:
   heading: "Photo Gallery: production"
   items:
