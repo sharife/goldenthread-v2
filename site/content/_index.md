@@ -20,8 +20,8 @@ items:
     link: https://goldenthread.org/tickets/
   - image: https://ucarecdn.com/fda5a666-f718-4ad9-bac5-583535305bf5/
     subtitle: "**What Do the Women Say? 2023: Fighters for Freedom**"
-    cta: Learn More!
-    link: https://goldenthread.org/productions/what-do-the-women-say-2023/
+    cta: Buy Tickets!
+    link: https://goldenthread.org/tickets/
     text: Our annual celebration of International Women's Day returns in 2023 to
       spotlight the work of extraordinary Middle Eastern women artists who are
       fighting against injustice through their art. Presented in a hybrid format
