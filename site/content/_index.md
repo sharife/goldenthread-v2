@@ -32,7 +32,7 @@ items:
   - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
-    link: https://goldenthread.org/productions/amreeka-the-comedy-show/
+    link: https://goldenthread.org/about/people/#open-modal-Wafaa%20Bilal
     text: "We are excited to announce **Wafaa Bilal**, an Iraqi-born artist and Arts
       Professor at NYU’s Tisch School of the Arts, as our 2023
       Artist-in-Residence. Bilal will collaborate with us on multiple projects
