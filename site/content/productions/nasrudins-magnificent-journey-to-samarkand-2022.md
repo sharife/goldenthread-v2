@@ -73,6 +73,18 @@ cast:
         She is so excited to help facilitate this as the stage manager for this
         season’s Fairytale Players."
       image: https://ucarecdn.com/99978d89-3a68-4cb2-862b-e1f2dc96650e/
+    - bio: "**Torange Yeghiazarian** (*she/her*) is a playwright, director, and
+        translator. Born in Iran and of Armenian heritage, she is the Founding
+        Artistic Director Emeritus of Golden Thread Productions where she
+        developed seven original plays for young audiences with Golden Thread
+        Fairytale Players. Her work has been published in “New Iranian Plays,”
+        “Middle Eastern American Theatre,” “Performing Iran,” “Salaam. Peace: An
+        Anthology of Middle Eastern-American Drama,” “Casting A Movement,” as
+        well as articles in The Drama Review, HowlRound, and American Theatre
+        Magazine."
+      name: Torange Yeghiazarian
+      credit: Playwright
+      image: https://ucarecdn.com/d9737b9f-f438-400c-b1ac-5736132a62b2/
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
