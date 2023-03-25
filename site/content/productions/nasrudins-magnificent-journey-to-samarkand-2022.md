@@ -51,6 +51,28 @@ cast:
         Steven Hess, also an actor/writer. They were awarded The Best of SF
         Fringe for their original show Unspeakable Acts."
       image: https://ucarecdn.com/d8f063ea-2adb-4d91-9dda-d4065ac0c69c/
+    - name: Natasia Schibinger
+      credit: Stage Manager
+      bio: "**Natasia Schibinger** (*she/her*) is a San Francisco Bay Area artist and
+        award-winning filmmaker. She is a children's entertainer and is
+        passionate about making theatre accessible for kids. Natasia was born in
+        Riverside, CA before moving to Santa Cruz to study Film and Digital
+        Media at UC Santa Cruz. She continues to pass on her knowledge to youth
+        in fun and engaging ways, and teaches film and video workshops where she
+        lives, in Oakland, CA with her dog, Regina George."
+      image: https://ucarecdn.com/20f4fad7-03b8-4400-bd90-1122c4639050/
+    - name: Jenna Stein-Corman
+      credit: Stage Manager
+      bio: "**Jenna Stein-Corman** (*she/her*) grew up immersed in the SF Bay Area
+        theatre community. After graduating from Sarah Lawrence College, she has
+        gone on to work as a teaching artist, stage manager, and director in
+        theaters all over the Bay. Currently, she works with Town Hall Theatre,
+        SF Playground, and the San Francisco Mime Troupe. Jenna is passionate
+        about creating space for stories that center around the experiences of
+        historically marginalized communities and that uplift artists of color.
+        She is so excited to help facilitate this as the stage manager for this
+        season’s Fairytale Players."
+      image: https://ucarecdn.com/99978d89-3a68-4cb2-862b-e1f2dc96650e/
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
