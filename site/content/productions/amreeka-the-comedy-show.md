@@ -19,6 +19,8 @@ description: >-
 
   For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
 titleimage: https://ucarecdn.com/3c2dab7e-efa1-4039-b9d7-aeced9e9d417/-/crop/2708x2094/0,0/-/preview/
+featuring: Featuring Headliner  Eman El-Husseini, with Usama Siddiquee and
+  Jackie Keliiaa, and Charles McBee as Master of Ceremonies
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tebVUAQ
