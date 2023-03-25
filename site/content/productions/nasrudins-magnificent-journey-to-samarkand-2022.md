@@ -27,6 +27,18 @@ misc: |-
   This production runs approximately 30-minutes followed by 20-min Q & A session
 
   Appropriate for families and children, ages 5-15
+cast:
+  items:
+    - name: Sarah Al-Kassab
+      credit: Director & Player 2/Nasrudin
+      bio: "**Sarah Al-Kassab** (*she/her*) is a first generation Jordanian-American
+        actor, producer and costumer. Sarah has spent the last fifteen years as
+        a self-producing Bay Area interactive performance artist. With over 20
+        years of experience in wardrobe styling and costume design and
+        construction for both large and independent theatre houses, commercials,
+        music videos, circus and live events, she enjoys being able to share
+        Middle Eastern culture through costume and storytelling. She is thrilled
+        to have been a core member of the Fairytale Players since 2007."
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
