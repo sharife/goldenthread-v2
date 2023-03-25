@@ -96,6 +96,7 @@ cast:
         sketches over social media since 2016."
       name: Mokhtar Paki
       credit: Scenic and Props Design
+      image: https://ucarecdn.com/94a64972-0cc6-44d6-8afa-4917016de181/
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
