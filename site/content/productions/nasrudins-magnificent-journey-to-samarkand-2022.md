@@ -51,6 +51,18 @@ cast:
         Steven Hess, also an actor/writer. They were awarded The Best of SF
         Fringe for their original show Unspeakable Acts."
       image: https://ucarecdn.com/d8f063ea-2adb-4d91-9dda-d4065ac0c69c/
+    - bio: "**Torange Yeghiazarian** (*she/her*) is a playwright, director, and
+        translator. Born in Iran and of Armenian heritage, she is the Founding
+        Artistic Director Emeritus of Golden Thread Productions where she
+        developed seven original plays for young audiences with Golden Thread
+        Fairytale Players. Her work has been published in “New Iranian Plays,”
+        “Middle Eastern American Theatre,” “Performing Iran,” “Salaam. Peace: An
+        Anthology of Middle Eastern-American Drama,” “Casting A Movement,” as
+        well as articles in The Drama Review, HowlRound, and American Theatre
+        Magazine."
+      name: Torange Yeghiazarian
+      credit: Playwright
+      image: https://ucarecdn.com/d9737b9f-f438-400c-b1ac-5736132a62b2/
     - name: Natasia Schibinger
       credit: Stage Manager
       bio: "**Natasia Schibinger** (*she/her*) is a San Francisco Bay Area artist and
@@ -73,18 +85,17 @@ cast:
         She is so excited to help facilitate this as the stage manager for this
         season’s Fairytale Players."
       image: https://ucarecdn.com/99978d89-3a68-4cb2-862b-e1f2dc96650e/
-    - bio: "**Torange Yeghiazarian** (*she/her*) is a playwright, director, and
-        translator. Born in Iran and of Armenian heritage, she is the Founding
-        Artistic Director Emeritus of Golden Thread Productions where she
-        developed seven original plays for young audiences with Golden Thread
-        Fairytale Players. Her work has been published in “New Iranian Plays,”
-        “Middle Eastern American Theatre,” “Performing Iran,” “Salaam. Peace: An
-        Anthology of Middle Eastern-American Drama,” “Casting A Movement,” as
-        well as articles in The Drama Review, HowlRound, and American Theatre
-        Magazine."
-      name: Torange Yeghiazarian
-      credit: Playwright
-      image: https://ucarecdn.com/d9737b9f-f438-400c-b1ac-5736132a62b2/
+    - bio: "**Mokhtar Paki** (he/him), San Francisco Bay Area visual artist and art
+        teacher. Mokhtar was the production designer for The Fifth String:
+        Ziryab’s Passage to Cordoba on Golden Thread mainstage, as well as
+        numerous Golden Thread Fairytale Players shows. His shadow puppet
+        designs brought to life Jana and Baladoor, a mythological text by
+        legendary Bahram Beyzaie at Stanford University. Mokhtar’s visual art
+        has been shown at the Strut Gallery, Persian Center, Canessa Gallery,
+        Intersection for The Arts, and Oliver Gallery. He has shared daily
+        sketches over social media since 2016."
+      name: Mokhtar Paki
+      credit: Scenic and Props Design
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
