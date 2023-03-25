@@ -35,6 +35,18 @@ cast:
         first comedy album, “Unveiled,” which can be heard regularly on SiriusXM
         Radio. She currently lives in New York City, legally, thank you very
         much.
-    - {}
+      image: https://ucarecdn.com/42d34754-d00a-41a0-a67f-ec54298ac79d/
+    - name: Usama Siddiquee
+      image: https://ucarecdn.com/d15458eb-b5d0-47ce-b446-8ddac03f9e3f/
+      bio: "**Usama Siddiquee** (formerly known by his stage name “Usama Bin Laughin”)
+        is completely comfortable with writing a bio about himself in third
+        person. His absolute ease should already be impressing you by now. And
+        if you thought that last paragraph was self-serving, here is a shameless
+        list of Usama’s achievements. He is on Netflix’s *Inventing Anna*, HBO’s
+        *And Just Like That*, Comedy Central’s *Nora from Queens*, and FX’s
+        *Better Things*. Wow! He most recently was featured on the 2020 season
+        of *America’s Got Talent*. He traveled to Montreal as one of the New
+        Faces at Just For Laughs in 2018. Shortly after he was passed at the
+        world-famous Comedy Cellar in New York."
 ---
 Iraqi-born artist **Wafaa Bilal** is known internationally for his on-line performative and interactive works provoking dialogue about international and interpersonal politics. Bilal’s work explores tensions between the cultural spaces he occupies —his home in the comfort zone of the U.S. and his consciousness in the conflict zone in Iraq. For his 2007 installation, *[Domestic Tension](https://wafaabilal.com/domestic-tension/)*, Bilal spent a month in FlatFile Galleries where people could shoot him via a remote-access paintball gun. The Chicago Tribune called it “one of the sharpest works of political art to be seen in a long time”—naming him 2008 Artist of the Year. That year, City Lights published [Shoot an Iraqi: Art, Life and Resistance Under the Gun](https://wafaabilal.com/shoot-an-iraqi/) about Bilal’s life and *Domestic Tension*. Using his own body as a medium, Bilal continued to challenge the public’s comfort zone with projects like *[3rdi](https://wafaabilal.com/thirdi/)* and *[and Counting…](https://wafaabilal.com/and-counting/)*. Bilal’s work, *[Canto III](https://wafaabilal.com/canto-iii/)*, was included as part of the Iranian pavilion at the 2015 Venice Biennale. Bilal’s current work *[168:01](https://wafaabilal.com/168h01s/)* brings awareness to cultural destruction and promotes the collective healing process through education and audience participation. His work can be found in the permanent collections of the Los Angeles County Museum of Art, Los Angeles, CA; Museum of Contemporary Photography, Chicago, IL; MATHAF: Arab Museum of Modern Art, Doha, Qatar; amongst others. He holds a BFA from the University of New Mexico, an MFA from the School of the Art Institute of Chicago and was conferred an honorary PhD from DePauw University. Bilal is currently an Arts Professor at [NYU](https://tisch.nyu.edu/about/directory/photo/112869977)'s Tisch School of the Arts.
