@@ -66,5 +66,6 @@ photos3:
 bottom:
   logos:
     - image: https://ucarecdn.com/f69d2708-846b-4fc3-8584-6451e195407e/
+  text: "[Harbor Point Charitable Foundation](https://www.hpcfgiving.org/)"
 ---
 Adapted from several folk tales from the Middle East and Central Asia, this performance is centered around the comedic personage, Mulla Nasrudin or Nasrudin Hoja, a renowned wise fool. Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. In this performance, we follow Nasrudin’s adventures as he travels through caravansaries in Konya and Damascus before he arrives at his destination on the ancient Silk Route.
