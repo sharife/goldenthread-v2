@@ -22,13 +22,12 @@ items:
     subtitle: "**What Do the Women Say? 2023: Fighters for Freedom**"
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
-    text: Our annual celebration of International Women's Day returns in 2023 to
-      spotlight the work of extraordinary Middle Eastern women artists who are
-      fighting against injustice through their art. Presented in a hybrid format
-      with artists appearing in-person and virtually, the evening showcases the
-      work of Iraqi, Iranian, Afghan, Syrian, Yemeni and American women
-      addressing global conflict. Audiences will be able to join in person or
-      online, and participate in the faciliated conversation with the artists.
+    text: "\"A powerful testament to the courage and tenacity of the women who keep
+      fighting for justice,\" our annual celebration of International Women's
+      Day showcases the work of Iraqi, Iranian, Afghan, Syrian, Yemeni and
+      American women addressing global conflict. Filmed on March 8, 2023 at the
+      Brava Theater in San Francisco, video-on-demand viewing is available
+      throughout Women's History Month. Ends March 31st, 2023."
   - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
