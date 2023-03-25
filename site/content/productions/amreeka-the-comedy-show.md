@@ -59,12 +59,12 @@ cast:
         SketchFest, Punch Line San Francisco and Cobb's Comedy Club."
       name: Jackie Keliiaa
       image: https://ucarecdn.com/84b4fca9-4cc8-408b-9cd6-3beee8404f28/
-    - bio: "**Charles McBee** is a stand-up comedian based out of New York City by way
-        of Toledo Ohio. Performed at clubs and colleges across the country and
-        has written for several television shows including the VMA's, VH1's Hip
-        Hop Honors, and The Golden Globes. Currently, he is the Head Writer of
-        Comedy Central's Hell Of Week with Charlamagne Tha God, Executive
-        produced by Stephen Colbert and Aaron McGruder."
+    - bio: "**Charles McBee** (*he/him*) is a stand-up comedian based out of New York
+        City by way of Toledo Ohio. Performed at clubs and colleges across the
+        country and has written for several television shows including the
+        VMA's, VH1's Hip Hop Honors, and The Golden Globes. Currently, he is the
+        Head Writer of Comedy Central's Hell Of Week with Charlamagne Tha God,
+        Executive produced by Stephen Colbert and Aaron McGruder."
       name: Charles McBee
       image: https://ucarecdn.com/c2d2b4da-fc11-4911-ac18-4cc31b2532d8/
 ---
