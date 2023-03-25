@@ -7,8 +7,10 @@ start: 2023-05-12T07:00:00.000Z
 end: ""
 heading: ""
 description: >-
-  Featuring Headliner  **Eman El-Husseini** with **Usama Siddiquee** and
-  **Jackie Keliiaa** 
+  Featuring Headliner  **Eman El-Husseini** 
+
+
+  with **Usama Siddiquee** and **Jackie Keliiaa** 
 
 
   and **Charles McBee** as Master of Ceremonies
