@@ -97,6 +97,18 @@ cast:
       name: Mokhtar Paki
       credit: Scenic and Props Design
       image: https://ucarecdn.com/94a64972-0cc6-44d6-8afa-4917016de181/
+    - image: https://ucarecdn.com/7a1e9e5e-6c6e-430e-808d-3ccc4cbc1ae5/
+      bio: "**Lisa Tateosian** (she/her) has been working with Golden Thread
+        Productions since 2003 as an actor, stage manager, choreographer, and
+        more, in productions including *Love Missile*, *Learn to Be Latina*,
+        *Benedictus*, *ReOrient*, and several Fairytale Players productions. She
+        was a Teaching Artist in numerous schools in the Bay Area, and toured
+        school productions throughout California. She has enjoyed choreographing
+        for student shows and professional theatre. Lisa holds a B.A. in Fine
+        Arts from Mills College and an M.A. in Educational Theatre from New York
+        University."
+      name: Lisa Tateosian
+      credit: Choreographer
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
