@@ -39,7 +39,7 @@ cast:
         music videos, circus and live events, she enjoys being able to share
         Middle Eastern culture through costume and storytelling. She is thrilled
         to have been a core member of the Fairytale Players since 2007."
-      image: https://ucarecdn.com/bbc55736-4b6f-43d7-aa8f-01e7609efce7/
+      image: https://ucarecdn.com/f7619cf7-2302-4db9-a611-306f8a6eaaf0/
     - name: "Bidalia Albanese "
       credit: Player 1
       bio: "**Bidalia Albanese** (*she/her*) is a Bay-Area based native New Yorker who
