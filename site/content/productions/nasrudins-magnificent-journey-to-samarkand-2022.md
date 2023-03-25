@@ -50,6 +50,7 @@ cast:
         a proud co-founder of 23 Elephants Theatre Company with her husband
         Steven Hess, also an actor/writer. They were awarded The Best of SF
         Fringe for their original show Unspeakable Acts."
+      image: https://ucarecdn.com/d8f063ea-2adb-4d91-9dda-d4065ac0c69c/
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
