@@ -40,6 +40,16 @@ cast:
         Middle Eastern culture through costume and storytelling. She is thrilled
         to have been a core member of the Fairytale Players since 2007."
       image: https://ucarecdn.com/bbc55736-4b6f-43d7-aa8f-01e7609efce7/
+    - name: "Bidalia Albanese "
+      credit: Player 1
+      bio: "**Bidalia Albanese** (*she/her*) is a Bay-Area based native New Yorker who
+        graduated from The Guildford School of Acting in England and an alumnus
+        of The School of American Ballet, NYC. She has performed in the UK, NYC,
+        and is currently a teaching artist for SF Shakespeare education
+        workgroup. She is also a choreographer, movement director, director, and
+        a proud co-founder of 23 Elephants Theatre Company with her husband
+        Steven Hess, also an actor/writer. They were awarded The Best of SF
+        Fringe for their original show Unspeakable Acts."
 mentions:
   heading: 2023 Public Library performance dates
   text: |-
