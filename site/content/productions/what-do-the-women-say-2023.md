@@ -260,9 +260,9 @@ photos:
     - image: https://ucarecdn.com/607485b7-e57f-4e5d-9273-5d0d1eb661f1/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/358eec51-48dd-437b-9f66-17a834dd3417/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/1cb6e1b5-e13d-484e-86c2-e8a557bb1309/-/preview/-/enhance/50/
+    - image: https://ucarecdn.com/c4db0a3d-03a3-4cd5-a49a-b5d31d5dcc6e/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/3d666397-7cb6-4a74-8d45-6c77b2c00c0e/
     - image: https://ucarecdn.com/3bf5e700-925c-4c46-8bf8-2027783fe9f3/-/preview/-/enhance/50/
-    - image: https://ucarecdn.com/c4db0a3d-03a3-4cd5-a49a-b5d31d5dcc6e/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/622fe9b5-54ca-4353-a698-320d55925832/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/cfd6e091-d6d8-487b-836f-1ff76d19d7ed/-/preview/-/enhance/50/
   heading: Production photos
