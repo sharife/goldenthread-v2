@@ -264,8 +264,8 @@ photos:
     - image: https://ucarecdn.com/c4db0a3d-03a3-4cd5-a49a-b5d31d5dcc6e/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/3d666397-7cb6-4a74-8d45-6c77b2c00c0e/
     - image: https://ucarecdn.com/3bf5e700-925c-4c46-8bf8-2027783fe9f3/-/preview/-/enhance/50/
-    - image: https://ucarecdn.com/622fe9b5-54ca-4353-a698-320d55925832/-/preview/-/enhance/50/
     - image: https://ucarecdn.com/cfd6e091-d6d8-487b-836f-1ff76d19d7ed/-/preview/-/enhance/50/
+    - image: https://ucarecdn.com/622fe9b5-54ca-4353-a698-320d55925832/-/preview/-/enhance/50/
   heading: Production photos
 bottom:
   logos:
