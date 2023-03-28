@@ -11,8 +11,8 @@ description: We are thrilled to continue our livestream series NO SUMMARY with
   you to join in the conversation and immerse yourself in these exciting topics
   and compelling artists who defy a snappy summation. See below for a preview
   schedule of our upcoming episodes!
-background: ""
-titleimage: https://ucarecdn.com/4abe28f1-48ae-4335-bf95-60ae25d26296/
+background: https://ucarecdn.com/e003fd56-10a6-46d4-ad6d-e1876d43454b/
+titleimage: https://ucarecdn.com/460084e5-3ecd-4720-b3ea-d20d7c609487/
 lists:
   - items:
       - itemstart: 2023-03-15T08:55:27.250Z
