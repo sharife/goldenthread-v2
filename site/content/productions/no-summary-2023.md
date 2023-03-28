@@ -11,15 +11,12 @@ description: We are thrilled to continue our livestream series NO SUMMARY with
   you to join in the conversation and immerse yourself in these exciting topics
   and compelling artists who defy a snappy summation. See below for a preview
   schedule of our upcoming episodes!
-background: ""
-titleimage: https://ucarecdn.com/4abe28f1-48ae-4335-bf95-60ae25d26296/
+background: https://ucarecdn.com/209b0791-a83f-48b7-ae6b-db2270323c15/
+titleimage: ""
 lists:
   - items:
-      - itemstart: 2023-03-15T08:55:27.250Z
+      - pre: Friday, April 14 at 11:00 AM PT
         itemend: 2023-03-15T08:55:27.269Z
-        title: "Episode 1: Comedy as a Form of Solidarity and Resistance"
-        pre: Friday, April 14 at 11:00 AM PT
-        subtitle: ""
         text: "Executive Artistic Director Sahar Assaf and Wafaa Bilal, 2023
           Artist-in-residence at Golden Thread, discuss comedy as a coping
           mechanism and a form of solidarity and resistance. Bilal, currently an
@@ -28,8 +25,12 @@ lists:
           works provoking dialogue about international and interpersonal
           politics. As part of his residency at Golden Thread, Bilal will curate
           Amreeka: The Comedy Show and participate in the ReOrient Forum."
+        itemstart: 2023-03-15T08:55:27.250Z
         cta: Register for FREE!
+        subtitle: ""
+        title: "Episode 1: Comedy as a Form of Solidarity and Resistance"
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoKSZUA2
+        image: https://ucarecdn.com/493f6867-4282-4696-98df-9fd3d1e97027/
       - itemstart: 2023-03-15T08:56:26.799Z
         itemend: 2023-03-15T08:56:26.816Z
         title: "Episode 2: Intergenerational MENA playwrights writing MENA stories to
