@@ -111,28 +111,21 @@ cast:
       credit: Choreographer
 mentions:
   heading: 2023 Public Library performance dates
-  text: |-
-    Saturday, April 22, 2023
-    **San Francisco Public Library**, Main Branch, Fisher Children's Center:
-    100 Larkin St., San Francisco 94102
-    3:00pm show
+  text: >-
+    * Saturday, April 22, 2023, 3:00 pm **San Francisco Public Library, Main
+    Branch**, Fisher Children's Center 100 Larkin St., San Francisco 94102
 
-    Saturday, April 29, 2023
-    **Berkeley Public Library**, Claremont Branch:
-    2940 Benvenue St., Berkeley 94705
-    3:00pm show
+    * Saturday, April 29, 2023, 3:00 pm **Berkeley Public Library,** **Claremont Branch** 2940 Benvenue St., Berkeley 94705
 
-    Thursday, June 29, 2023
-    **Milpitas Public Library**:
-    160 N. Main St., Milpitas 95035
-    *Two shows:
-    3:30pm show
-    7:00pm show 
+    * Saturday, June 10th, 12:00pm **San Francisco Public Library,** **Western Addition Branch** 1550 Scott Street, San Francisco 94115
 
-    Thursday, July 20, 2023
-    **Belvedere Tiburon Library:**
-    1501 Tiburon Blvd., Tiburon 94920
-    11:00am show
+    * Saturday, June 10th, 3:00pm **San Francisco Public Library, Noe Valley Branch**  451 Jersey Street, San Francisco 94114
+
+    * Sunday, June 11th, 3:30pm **San Francisco Public Library, Ingleside Branch**  1298 Ocean Avenue, San Francisco 94112
+
+    * Thursday, June 29, 2023, 3:30 pm & 7:00 pm **Milpitas Public Library** 160 N. Main St., Milpitas 95035
+
+    * Thursday, July 20, 2023, 11:00 am **Belvedere Tiburon Library** 1501 Tiburon Blvd., Tiburon 94920
 photos:
   items:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
