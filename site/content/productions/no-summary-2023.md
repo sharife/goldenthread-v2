@@ -12,7 +12,7 @@ description: We are thrilled to continue our livestream series NO SUMMARY with
   and compelling artists who defy a snappy summation. See below for a preview
   schedule of our upcoming episodes!
 background: ""
-titleimage: ""
+titleimage: https://ucarecdn.com/28f0372b-e07c-4ebe-b974-9be84dd47184/
 lists:
   - items:
       - pre: Friday, April 14 at 11:00 AM PT
