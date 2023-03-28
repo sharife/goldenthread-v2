@@ -11,7 +11,7 @@ description: We are thrilled to continue our livestream series NO SUMMARY with
   you to join in the conversation and immerse yourself in these exciting topics
   and compelling artists who defy a snappy summation. See below for a preview
   schedule of our upcoming episodes!
-background: https://ucarecdn.com/209b0791-a83f-48b7-ae6b-db2270323c15/
+background: ""
 titleimage: ""
 lists:
   - items:
