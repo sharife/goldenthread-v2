@@ -1,6 +1,6 @@
 ---
 title: No Summary 2023
-pre: Live-stream conversations with audience Q&A.
+pre: ""
 season: 2023
 date: 2022-11-30T01:18:57.592Z
 start: 2023-04-14T18:00:00.000Z
