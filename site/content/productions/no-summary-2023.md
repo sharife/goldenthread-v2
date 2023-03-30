@@ -37,11 +37,13 @@ lists:
           Syrian artist [Sami Hussain
           Ismat](https://www.saic.edu/profiles/faculty/sami-hussain-ismat), at
           the [School of the Art Institute of
-          Chicago](https://www.saic.edu/about/core-values#saic). Bilal,
-          currently an Arts Professor at NYU’s Tisch School of the Arts, will
-          discuss comedy as a coping mechanism and a form of solidarity and
-          resistance. Join us to learn about what compelled Wafaa Bilal to
-          curate [Amreeka: The Comedy
+          Chicago](https://www.saic.edu/about/core-values#saic) and [Columbia
+          College
+          Chicago](https://www.colum.edu/academics/faculty/detail/sami-hussain-\
+          ismat.html). Bilal, currently an Arts Professor at NYU’s Tisch School
+          of the Arts, will discuss comedy as a coping mechanism and a form of
+          solidarity and resistance. Join us to learn about what compelled Wafaa
+          Bilal to curate [Amreeka: The Comedy
           Show](https://goldenthread.org/productions/amreeka-the-comedy-show/).
           Students and general audiences will get the chance to ask their
           questions directly to the artist."
