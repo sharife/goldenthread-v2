@@ -41,8 +41,10 @@ lists:
           currently an Arts Professor at NYU’s Tisch School of the Arts, will
           discuss comedy as a coping mechanism and a form of solidarity and
           resistance. Join us to learn about what compelled Wafaa Bilal to
-          curate Amreeka: The Comedy Show. Students and general audiences will
-          get the chance to ask their questions directly to the artist."
+          curate [Amreeka: The Comedy
+          Show](https://goldenthread.org/productions/amreeka-the-comedy-show/).
+          Students and general audiences will get the chance to ask their
+          questions directly to the artist."
         itemstart: 2023-03-15T08:55:27.250Z
         cta: Register for FREE!
         subtitle: ""
