@@ -142,7 +142,9 @@ cast:
         and Ziyad."
       image: https://ucarecdn.com/ff3c4da4-4037-46eb-9046-beefc803632e/-/crop/961x925/580,187/-/preview/
 bottom:
-  text: WomenArts
+  text: "[WomenArts](https://www.womenarts.org/)"
+  logos:
+    - image: https://ucarecdn.com/ff657b01-e2f2-419b-951e-9fa121857f24/
 ---
 This year’s program features Board president and resident artist, **Nora El Samahy** in conversation with founding artistic director, **Torange Yeghiazarian** on a journey highlighting Golden Thread's 25-year history of placing Middle Eastern women artists center stage. Guest artists join Nora and Torange to reflect on the role Golden Thread has played in their artistic trajectory and their hopes for the future, including Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer, among others. This year's program also highlighted the [International Women's Day organization's theme](https://www.internationalwomensday.com/) of #ChoosetoChallenge and asked each of our featured artists what they planned to challenge this year!
 
