@@ -6,11 +6,19 @@ date: 2022-11-30T01:18:57.592Z
 start: 2023-04-14T18:00:00.000Z
 end: 2023-09-20T18:00:00.000Z
 heading: Conversations With Artists Who Don't Fit in a Box
-description: We are thrilled to continue our livestream series NO SUMMARY with
-  new artists and fresh conversations, featuring live audience Q&A! We invite
-  you to join in the conversation and immerse yourself in these exciting topics
-  and compelling artists who defy a snappy summation. See below for a preview
-  schedule of our upcoming episodes!
+description: >-
+  We are thrilled to continue our livestream series NO SUMMARY with new artists
+  and fresh conversations, featuring live audience Q&A! In this new season, No
+  Summary tours universities across the nation, bringing Golden
+  Thread’s Conversations with Artists Who Don’t Fit in a Box to theatre and art
+  classes. We invite you to join in the conversation and immerse yourself in
+  these exciting topics and compelling artists who defy a snappy summation. 
+
+
+  See below for a preview schedule of our upcoming episodes! 
+
+
+  Click [here](https://goldenthread.org/productions/) to learn more about this program and watch past archived episodes.
 background: ""
 titleimage: https://ucarecdn.com/28f0372b-e07c-4ebe-b974-9be84dd47184/
 lists:
