@@ -63,7 +63,7 @@ lists:
           multi-disciplinary artist, Lana has creative and academic publications
           in three different languages! She holds degrees in Psychology (BA) and
           Consciousness Studies (MA), with a focus on dreams.
-        image: https://ucarecdn.com/1b10c726-a7cf-4a98-8605-34f4d150ac74/
+        image: https://ucarecdn.com/10f27c36-4587-4cc1-a405-af03c6686312/
       - itemstart: 2021-03-10T20:42:50.582Z
         itemend: 2021-03-10T20:42:50.624Z
         title: Naima Shalhoub
