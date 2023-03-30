@@ -9,17 +9,14 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: >-
   We are thrilled to continue our livestream series NO SUMMARY with new artists
   and fresh conversations, featuring live audience Q&A! In this new season, No
-  Summary embarks on a virtual tour to universities across the nation, bringing
-  Golden Thread’s Conversations with Artists Who Don’t Fit in a Box to theatre
-  and art classes. We invite you to join in the conversation and immerse
+  Summary embarks on a **virtual tour to universities across the nation,**
+  bringing Golden Thread’s Conversations with Artists Who Don’t Fit in a Box to
+  theatre and art classes. We invite you to join in the conversation and immerse
   yourself in these exciting topics and compelling artists who defy a snappy
   summation. 
 
 
-  See below for a preview schedule of our upcoming episodes! 
-
-
-  Click [here](https://goldenthread.org/productions/) to learn more about this program and watch past archived episodes.
+  See below for a preview schedule of our upcoming episodes!
 background: ""
 titleimage: https://ucarecdn.com/28f0372b-e07c-4ebe-b974-9be84dd47184/
 lists:
