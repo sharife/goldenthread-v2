@@ -1,5 +1,5 @@
 ---
-title: "No Summary: Conversations with Artists that Don't Fit in a Box! 2020/21"
+title: "No Summary: Conversations with Artists Who Don't Fit in a Box! 2020/21"
 pre: A livestream conversation series with live audience Q&A.
 season: 2021
 date: 2021-02-21T03:41:04.513Z
@@ -260,4 +260,4 @@ cast:
   items: []
   heading: Keep an eye out for more episodes coming soon!
 ---
-We were thrilled with the launch *NO SUMMARY*, our new **Live-Stream Series** of MENA artists in conversation, and continue this interactive live-streaming series monthly with exciting new topics and guests! We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a preview schedule of our upcoming episodes, and to watch any of our past archived episodes!
+We were thrilled with the launch of *NO SUMMARY*, our new **Live-Stream Series** of MENA artists in conversation, and continue this interactive live-streaming series monthly with exciting new topics and guests! We invite you to take pause with us and immerse yourself in these compelling topics and histories that defy a snappy summation. See below for a schedule of episodes, and to watch any of our past archived episodes!
