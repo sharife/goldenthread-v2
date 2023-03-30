@@ -9,10 +9,11 @@ heading: Conversations With Artists Who Don't Fit in a Box
 description: >-
   We are thrilled to continue our livestream series NO SUMMARY with new artists
   and fresh conversations, featuring live audience Q&A! In this new season, No
-  Summary tours universities across the nation, bringing Golden
-  Thread’s Conversations with Artists Who Don’t Fit in a Box to theatre and art
-  classes. We invite you to join in the conversation and immerse yourself in
-  these exciting topics and compelling artists who defy a snappy summation. 
+  Summary embarks on a virtual tour to universities across the nation, bringing
+  Golden Thread’s Conversations with Artists Who Don’t Fit in a Box to theatre
+  and art classes. We invite you to join in the conversation and immerse
+  yourself in these exciting topics and compelling artists who defy a snappy
+  summation. 
 
 
   See below for a preview schedule of our upcoming episodes! 
@@ -25,14 +26,23 @@ lists:
   - items:
       - pre: Friday, April 14 at 11:00 AM PT
         itemend: 2023-03-15T08:55:27.269Z
-        text: "Executive Artistic Director Sahar Assaf and Wafaa Bilal, 2023
-          Artist-in-residence at Golden Thread, discuss comedy as a coping
-          mechanism and a form of solidarity and resistance. Bilal, currently an
-          Arts Professor at NYU’s Tisch School of the Arts, is an Iraqi-born
-          artist known internationally for his performative and interactive
-          works provoking dialogue about international and interpersonal
-          politics. As part of his residency at Golden Thread, Bilal will curate
-          Amreeka: The Comedy Show and participate in the ReOrient Forum."
+        text: " In the first episode of our 2023 season, Executive Artistic
+          Director [Sahar
+          Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assa\
+          f) and Golden Thread’s 2023 Artist-in-residence [Wafaa
+          Bilal](https://goldenthread.org/about/people/#open-modal-Wafaa%20Bila\
+          l), will be joined by the classes of Associate Professor [Simon
+          Anderson](https://www.saic.edu/profiles/faculty/simon-anderson), a
+          British-born-and-educated cultural historian, and interdisciplinary
+          Syrian artist [Sami Hussain
+          Ismat](https://www.saic.edu/profiles/faculty/sami-hussain-ismat), at
+          the [School of the Art Institute of
+          Chicago](https://www.saic.edu/about/core-values#saic). Bilal,
+          currently an Arts Professor at NYU’s Tisch School of the Arts, will
+          discuss comedy as a coping mechanism and a form of solidarity and
+          resistance. Join us to learn about what compelled Wafaa Bilal to
+          curate Amreeka: The Comedy Show. Students and general audiences will
+          get the chance to ask their questions directly to the artist."
         itemstart: 2023-03-15T08:55:27.250Z
         cta: Register for FREE!
         subtitle: ""
