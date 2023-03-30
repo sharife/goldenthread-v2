@@ -63,7 +63,7 @@ lists:
           multi-disciplinary artist, Lana has creative and academic publications
           in three different languages! She holds degrees in Psychology (BA) and
           Consciousness Studies (MA), with a focus on dreams.
-        image: https://ucarecdn.com/1b10c726-a7cf-4a98-8605-34f4d150ac74/
+        image: https://ucarecdn.com/10f27c36-4587-4cc1-a405-af03c6686312/
       - itemstart: 2021-03-10T20:42:50.582Z
         itemend: 2021-03-10T20:42:50.624Z
         title: Naima Shalhoub
@@ -142,7 +142,9 @@ cast:
         and Ziyad."
       image: https://ucarecdn.com/ff3c4da4-4037-46eb-9046-beefc803632e/-/crop/961x925/580,187/-/preview/
 bottom:
-  text: WomenArts
+  text: "[WomenArts](https://www.womenarts.org/)"
+  logos:
+    - image: https://ucarecdn.com/ff657b01-e2f2-419b-951e-9fa121857f24/
 ---
 This year’s program features Board president and resident artist, **Nora El Samahy** in conversation with founding artistic director, **Torange Yeghiazarian** on a journey highlighting Golden Thread's 25-year history of placing Middle Eastern women artists center stage. Guest artists join Nora and Torange to reflect on the role Golden Thread has played in their artistic trajectory and their hopes for the future, including Sofia Ahmad, Lana Nasser, Sara Razavi, Naima Shalhoub, Sedef Ecer, among others. This year's program also highlighted the [International Women's Day organization's theme](https://www.internationalwomensday.com/) of #ChoosetoChallenge and asked each of our featured artists what they planned to challenge this year!
 
