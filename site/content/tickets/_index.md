@@ -84,13 +84,10 @@ lists:
 
 
           **Brava Theater Center** (2781 24th Street, San Francisco)
-
-
-          S﻿eats available to reserve at no cost
         subtitle: ""
-        pre: Tuesdays, August 22 and 29, 2023
-        cta: Reserve your spot now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecJUAQ
+        pre: TBD August 2023
+        cta: Check back in soon for RVSP information!
+        link: ""
   - heading: ReOrient 2023 Festival of Short Plays
     items:
       - pre: October 13 - November 4, 2023
