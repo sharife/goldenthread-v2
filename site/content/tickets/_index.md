@@ -1,39 +1,6 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "What Do The Women Say? 2023: Fighters for Freedom"
-    items:
-      - title: Video On Demand
-        pre: "Now streaming: March 15 - 31, 2023"
-        image: https://ucarecdn.com/d48a6554-8b78-42f3-a8c1-9cb0195af1ca/-/preview/
-        text: >-
-          Featuring the work of Middle Eastern women artists who are fighting
-          against injustice through their art, this year’s program will include
-          presentations by **Lujain Jo**, an Iraqi filmmaker, activist, and
-          performance artist based in Beirut; **Her Story Is**, a collective led
-          by independent women writers and artists from the United States and
-          Iraq; **Marjan Vahdat**, Persian vocalist; **Andrea Assaf**, writer,
-          performer, director, and cultural organizer along with Syrian
-          coloratura soprano **Lubana Al-Quntar** from **Art2Action**; and
-          emerging Afghan performer **Mahjabin Khanzada** directed by **Polina
-          Smith** from Crescent Moon Theater Productions and accompanied by
-          Yemeni Oud artist **Layle Omeran**. Executive Artistic Director
-          **Sahar Assaf** will facilitate a conversation between the
-          participating artists and the audience following the presentations.
-          *The full program is 120-minutes without intermission.* 
-
-
-          On Demand viewing now **extended thru March 31, 2023**
-
-
-          Recorded liveon Wednesday, March 8, 2023 at **Brava Theater Center** (2781 24th Street, San Francisco)
-
-
-          48-hour viewing access available at a sliding scale of $20-$100. *One device access per viewing, rental period beginning when you press play.*
-        cta: Buy Now!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoGhXUAU
-        subtitle: Golden Thread's Annual Celebration of International Women's Day,
-          co-presented with Brava Theater Center
   - heading: "No Summary: Comedy as a Form of Solidarity and Resistance"
     items:
       - title: Livestream
