@@ -1,6 +1,21 @@
 ---
 title: Buy Tickets
 lists:
+  - heading: "No Summary: Comedy as a Form of Solidarity and Resistance"
+    items:
+      - title: Livestream
+        pre: Friday, April 14, 2023 at 11:00 AM (PDT)
+        cta: RVSP Now!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000yoKSZUA2
+        subtitle: ""
+        text: "Executive Artistic Director **Sahar Assaf** and **Wafaa Bilal**, 2023
+          Artist-in-residence at Golden Thread, discuss comedy as a coping
+          mechanism and a form of solidarity and resistance. Bilal, currently an
+          Arts Professor at NYU’s Tisch School of the Arts, is an Iraqi-born
+          artist known internationally for his performative and interactive
+          works provoking dialogue about international and interpersonal
+          politics. As part of his residency at Golden Thread, Bilal will curate
+          *Amreeka: The Comedy Show* and participate in the ReOrient Forum."
   - heading: "Amreeka: The Comedy Show"
     items:
       - image: https://ucarecdn.com/845bce2e-99a2-4fea-bc7f-3391e2b7e2e4/
@@ -25,21 +40,6 @@ lists:
 
           General admission tickets available at a sliding scale of $20-$100
         title: ""
-  - heading: "No Summary: Comedy as a Form of Solidarity and Resistance"
-    items:
-      - title: Livestream
-        pre: Friday, April 14, 2023 at 11:00 AM (PDT)
-        cta: RVSP Now!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000yoKSZUA2
-        subtitle: ""
-        text: "Executive Artistic Director **Sahar Assaf** and **Wafaa Bilal**, 2023
-          Artist-in-residence at Golden Thread, discuss comedy as a coping
-          mechanism and a form of solidarity and resistance. Bilal, currently an
-          Arts Professor at NYU’s Tisch School of the Arts, is an Iraqi-born
-          artist known internationally for his performative and interactive
-          works provoking dialogue about international and interpersonal
-          politics. As part of his residency at Golden Thread, Bilal will curate
-          *Amreeka: The Comedy Show* and participate in the ReOrient Forum."
   - heading: New Threads Staged Reading Series 2023
     items:
       - text: >-
