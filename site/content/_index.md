@@ -1,8 +1,8 @@
 ---
 title: Middle East Center Stage
-headline: "What Do the Women Say? 2023: Fighters for Freedom"
+headline: "Amreeka: The Comedy Show"
 subtitle: ""
-background: https://ucarecdn.com/1454792e-2428-4f59-a64e-70413d962402/-/crop/2991x1375/0,217/-/preview/
+background: https://ucarecdn.com/880f349c-b7cd-47d0-aa06-7e432c500f0b/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
@@ -18,16 +18,17 @@ items:
     image: https://ucarecdn.com/5a455ef3-dc25-4201-bf7e-ac24e2b30e13/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
-  - image: https://ucarecdn.com/fda5a666-f718-4ad9-bac5-583535305bf5/
-    subtitle: "**What Do the Women Say? 2023: Fighters for Freedom**"
-    cta: Buy Tickets!
-    link: https://goldenthread.org/tickets/
-    text: "\"A powerful testament to the courage and tenacity of the women who keep
-      fighting for justice,\" our annual celebration of International Women's
-      Day showcases the work of Iraqi, Iranian, Afghan, Syrian, Yemeni and
-      American women addressing global conflict. Filmed on March 8, 2023 at the
-      Brava Theater in San Francisco, video-on-demand viewing is available
-      throughout Women's History Month. Ends March 31st, 2023."
+  - image: https://ucarecdn.com/9abaf3da-d721-42c2-8178-cbf5ff114cf0/
+    subtitle: "**Theatre Bay Area Arts Leadership Residency**"
+    cta: "Learn more! "
+    link: https://goldenthread.org/about/people/#open-modal-Amal%20Bisharat%20
+    text: >-
+      We are delighted to welcome Amal Bisharat,  a Palestinian American
+      multidisciplinary artist  in a year-long artistic residency with the
+      support of Theatre Bay Area! 
+
+
+      Amal Bisharat is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer, songwriter, and multi-instrumentalist, Bisharat has been writing, recording, and performing with bands all her life, with songs featured on stage, radio, and TV. At Golden Thread, Amal will co-produce our 2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as well as direct one of the selected plays in the festival.
   - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
