@@ -27,7 +27,7 @@ dramaturg: ""
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
-ticketlink: ""
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 misc: ""
 lists:
   - heading: REORIENT 2023 LINE-UP
