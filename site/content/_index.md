@@ -23,12 +23,7 @@ items:
     cta: "Learn more! "
     link: https://goldenthread.org/about/people/#open-modal-Amal%20Bisharat%20
     text: >-
-      We are delighted to welcome Amal Bisharat,  a Palestinian American
-      multidisciplinary artist  in a year-long artistic residency with the
-      support of Theatre Bay Area! 
-
-
-      Amal Bisharat is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer, songwriter, and multi-instrumentalist, Bisharat has been writing, recording, and performing with bands all her life, with songs featured on stage, radio, and TV. At Golden Thread, Amal will co-produce our 2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as well as direct one of the selected plays in the festival.
+      We are delighted to welcome Amal Bisharat, a Palestinian American multidisciplinary artist in a year-long artistic residency with the support of Theatre Bay Area! Amal Bisharat is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer, songwriter, and multi-instrumentalist, Bisharat has been writing, recording, and performing with bands all her life, with songs featured on stage, radio, and TV. At Golden Thread, Amal will co-produce our 2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as well as direct one of the selected plays in the festival.
   - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
