@@ -18,7 +18,7 @@ lists:
           *Amreeka: The Comedy Show* and participate in the ReOrient Forum."
   - heading: "Amreeka: The Comedy Show"
     items:
-      - image: https://ucarecdn.com/845bce2e-99a2-4fea-bc7f-3391e2b7e2e4/
+      - image: https://ucarecdn.com/eacdcc5e-8111-47f0-8f0d-14fbc84f6abc/
         pre: Friday, May 12, 2023 at 8:00PM
         subtitle: curated by 2023 Artist-in-Residence, **Wafaa Bilal**, featuring
           headliner **Eman El-Husseini** a nd **Usama Siddiquee** with Master of
