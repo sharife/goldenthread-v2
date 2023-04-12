@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: "Amreeka: The Comedy Show"
 subtitle: ""
-background: https://ucarecdn.com/880f349c-b7cd-47d0-aa06-7e432c500f0b/
+background: https://ucarecdn.com/51a0c40f-1500-44de-b473-8948181dedc1/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
@@ -22,8 +22,16 @@ items:
     subtitle: "**Theatre Bay Area Arts Leadership Residency**"
     cta: "Learn more! "
     link: https://goldenthread.org/about/people/#open-modal-Amal%20Bisharat%20
-    text: >-
-      We are delighted to welcome Amal Bisharat, a Palestinian American multidisciplinary artist in a year-long artistic residency with the support of Theatre Bay Area! Amal Bisharat is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer, songwriter, and multi-instrumentalist, Bisharat has been writing, recording, and performing with bands all her life, with songs featured on stage, radio, and TV. At Golden Thread, Amal will co-produce our 2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as well as direct one of the selected plays in the festival.
+    text: We are delighted to welcome Amal Bisharat, a Palestinian American
+      multidisciplinary artist in a year-long artistic residency with the
+      support of Theatre Bay Area! Amal Bisharat is in the process of creating
+      her first musical, a Palestinian refugee story adapted from the
+      best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer,
+      songwriter, and multi-instrumentalist, Bisharat has been writing,
+      recording, and performing with bands all her life, with songs featured on
+      stage, radio, and TV. At Golden Thread, Amal will co-produce our
+      2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as
+      well as direct one of the selected plays in the festival.
   - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
     subtitle: "**2023 Artist-in-Residence!**"
     cta: Learn More!
