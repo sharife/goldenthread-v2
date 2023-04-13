@@ -12,6 +12,7 @@ description: |-
   with **Usama Siddiquee** and **Jackie Keliiaa** 
 
   and **Charles McBee** as Master of Ceremonies
+background: https://ucarecdn.com/43298298-3d2a-4e71-84a3-ed43d07dc274/
 titleimage: https://ucarecdn.com/51f3aca8-ca0b-4607-9dd2-77497363ea98/
 featuring: "Headliner  Eman El-Husseini, with Usama Siddiquee and Jackie
   Keliiaa, and Master of Ceremonies Charles McBee "
