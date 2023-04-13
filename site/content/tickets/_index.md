@@ -20,18 +20,22 @@ lists:
     items:
       - image: https://ucarecdn.com/eacdcc5e-8111-47f0-8f0d-14fbc84f6abc/
         pre: Friday, May 12, 2023 at 8:00PM
-        subtitle: curated by 2023 Artist-in-Residence, **Wafaa Bilal**, featuring
-          headliner **Eman El-Husseini** a nd **Usama Siddiquee** with Master of
-          Ceremonies **Charles McBee**
+        subtitle: |-
+          Featuring Headliner  **Eman El-Husseini**
+
+          with **Usama Siddiquee** and **Jackie Keliiaa**
+
+          and **Charles McBee** as Master of Ceremonies
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tebVUAQ
         text: >-
-          ***Amreeka: The Comedy Show*** was born after the 2016 election,
-          bringing together diverse comedians with one thing in common: they
-          love to complain. Then and since, the toxic culture and politics in
-          “Amreeka,” as many Middle Easterners pronounce it, offers ample fodder
-          for complaints. This cathartic and witty venting holds a mirror up to
-          realities showing they’ve become so absurd and surreal one must laugh,
+          Curated by our 2023 Artist-in-residence, **Wafaa Bilal**, ***Amreeka:
+          The Comedy Show*** was born after the 2016 election, bringing together
+          diverse comedians with one thing in common: they love to complain.
+          Then and since, the toxic culture and politics in “Amreeka,” as some
+          Middle Easterners playfully pronounce it, offer ample fodder for
+          complaints. This cathartic and witty venting holds a mirror up to
+          reality showing it has become so absurd and surreal, one must laugh,
           if not cry.
 
 
@@ -67,7 +71,7 @@ lists:
           multiplicity of Middle Eastern perspectives and identities.
 
 
-          Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolf.**
+          Featuring playwrights **Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolf.**
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
 ---
