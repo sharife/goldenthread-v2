@@ -67,7 +67,7 @@ lists:
           multiplicity of Middle Eastern perspectives and identities.
 
 
-          Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolf.**
+          Featuring playwrights **Karin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolf.**
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
 ---
