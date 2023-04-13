@@ -16,6 +16,7 @@ lists:
           works provoking dialogue about international and interpersonal
           politics. As part of his residency at Golden Thread, Bilal will curate
           *Amreeka: The Comedy Show* and participate in the ReOrient Forum."
+        image: https://ucarecdn.com/db7a19c1-39e3-414d-a88f-8048b012157a/
   - heading: "Amreeka: The Comedy Show"
     items:
       - image: https://ucarecdn.com/eacdcc5e-8111-47f0-8f0d-14fbc84f6abc/
