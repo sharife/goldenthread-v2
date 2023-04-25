@@ -69,12 +69,17 @@ cast:
         [jackiecomedy.com](https://jackiecomedy.com/index.html)
       name: Jackie Keliiaa
       image: https://ucarecdn.com/26b585f0-c073-4978-9664-45f36dbfee3a/
-    - bio: "**Charles McBee** is a stand-up comedian based out of New York City by way
-        of Toledo Ohio. Performed at clubs and colleges across the country and
-        has written for several television shows including the VMA's, VH1's Hip
-        Hop Honors, and The Golden Globes. Currently, he is the Head Writer of
-        Comedy Central's Hell Of Week with Charlamagne Tha God, Executive
-        produced by Stephen Colbert and Aaron McGruder."
+    - bio: >-
+        **Charles McBee** is a stand-up comedian based out of New York City by
+        way of Toledo, Ohio. He has performed at clubs and colleges across the
+        country, with appearances on Laughs, Punchline, and Gotham Comedy Live.
+        His television writing credits include MTV's Video Music Awards, VH1's
+        Hip Hop Honors, and The Golden Globe Awards. Currently, he is the head
+        writer of Comedy Central's *Hell Of A Week* with Charlamagne Tha God,
+        executive-produced by Stephen Colbert and Aaron McGruder. 
+
+
+        [charlesmcbee.com](http://www.charlesmcbee.com/)
       name: Charles McBee
       image: https://ucarecdn.com/62412790-c88c-4812-b9b6-a4189174da7a/
     - name: Wafaa Bilal
