@@ -36,7 +36,7 @@ cast:
         much. 
 
 
-        [emantertainment.com/](http://emantertainment.com/)
+        [emantertainment.com](http://emantertainment.com/)
       image: https://ucarecdn.com/62939a5e-acf9-4776-a5b5-2a3e12070083/
     - name: Usama Siddiquee
       image: https://ucarecdn.com/d15458eb-b5d0-47ce-b446-8ddac03f9e3f/
