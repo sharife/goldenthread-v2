@@ -40,16 +40,20 @@ cast:
       image: https://ucarecdn.com/62939a5e-acf9-4776-a5b5-2a3e12070083/
     - name: Usama Siddiquee
       image: https://ucarecdn.com/d15458eb-b5d0-47ce-b446-8ddac03f9e3f/
-      bio: "**Usama Siddiquee** (formerly known by his stage name “Usama Bin Laughin”)
-        is completely comfortable with writing a bio about himself in third
-        person. His absolute ease should already be impressing you by now. And
-        if you thought that last paragraph was self-serving, here is a shameless
-        list of Usama’s achievements. He is on Netflix’s *Inventing Anna*, HBO’s
-        *And Just Like That*, Comedy Central’s *Nora from Queens*, and FX’s
-        *Better Things*. Wow! He most recently was featured on the 2020 season
-        of *America’s Got Talent*. He traveled to Montreal as one of the New
-        Faces at Just For Laughs in 2018. Shortly after he was passed at the
-        world-famous Comedy Cellar in New York."
+      bio: >-
+        **Usama Siddiquee** (formerly known by his stage name “Usama Bin
+        Laughin”) is completely comfortable with writing a bio about himself in
+        third person. His absolute ease should already be impressing you by now.
+        And if you thought that last paragraph was self-serving, here is a
+        shameless list of Usama’s achievements. He is on Netflix’s *Inventing
+        Anna*, HBO’s *And Just Like That*, Comedy Central’s *Nora from Queens*,
+        and FX’s *Better Things*. Wow! He most recently was featured on the 2020
+        season of *America’s Got Talent*. He traveled to Montreal as one of the
+        New Faces at Just For Laughs in 2018. Shortly after he was passed at the
+        world-famous Comedy Cellar in New York. 
+
+
+        [usamastandsup.com](http://www.usamastandsup.com/)
     - bio: "**Jackie Keliiaa** is a stand-up comedian, writer, and actor based in
         Oakland, California. You can find her in the 2021 release, *We Had a
         Little Real Estate Problem: The Unheralded Story of Native Americans &
