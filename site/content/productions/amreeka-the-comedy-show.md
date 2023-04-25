@@ -22,8 +22,9 @@ ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z00
 cast:
   items:
     - name: Eman El-Husseini
-      bio: A Canadian, a Palestinian, a Muslim, and a lesbian walk into a bar … it’s
-        just Eman El-Husseini. Yes, she’s all those catastrophic identities
+      bio: >-
+        A Canadian, a Palestinian, a Muslim, and a lesbian walk into a bar …
+        it’s just Eman El-Husseini. Yes, she’s all those catastrophic identities
         rolled into one — her life is a current event. From the Muslim ban to
         Palestinian rights and marriage equality to the ice cream truck that
         insists on parking in front of her building, it’s all happening and it’s
@@ -32,7 +33,10 @@ cast:
         headlined across Canada, opened for Patton Oswalt, and recorded her
         first comedy album, “Unveiled,” which can be heard regularly on SiriusXM
         Radio. She currently lives in New York City, legally, thank you very
-        much.
+        much. 
+
+
+        [emantertainment.com/](http://emantertainment.com/)
       image: https://ucarecdn.com/62939a5e-acf9-4776-a5b5-2a3e12070083/
     - name: Usama Siddiquee
       image: https://ucarecdn.com/d15458eb-b5d0-47ce-b446-8ddac03f9e3f/
