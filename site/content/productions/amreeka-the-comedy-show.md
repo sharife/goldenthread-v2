@@ -54,7 +54,8 @@ cast:
 
 
         [usamastandsup.com](http://www.usamastandsup.com/)
-    - bio: "**Jackie Keliiaa** is a stand-up comedian, writer, and actor based in
+    - bio: >-
+        **Jackie Keliiaa** is a stand-up comedian, writer, and actor based in
         Oakland, California. You can find her in the 2021 release, *We Had a
         Little Real Estate Problem: The Unheralded Story of Native Americans &
         Comedy*. She has been featured on Comedy Central, Team Coco, Netflix and
@@ -62,7 +63,10 @@ cast:
         for Judah Friedlander, Nikki Glaser, JR De Guzman and is featured on
         the First Nations Comedy Experience streaming on Amazon Prime. She is a
         regular at Bay Area venues and has performed at San Francisco
-        SketchFest, Punch Line San Francisco and Cobb's Comedy Club."
+        SketchFest, Punch Line San Francisco and Cobb's Comedy Club. 
+
+
+        [jackiecomedy.com](https://jackiecomedy.com/index.html)
       name: Jackie Keliiaa
       image: https://ucarecdn.com/26b585f0-c073-4978-9664-45f36dbfee3a/
     - bio: "**Charles McBee** is a stand-up comedian based out of New York City by way
