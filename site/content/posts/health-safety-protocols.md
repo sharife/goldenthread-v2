@@ -5,7 +5,7 @@ description: ""
 ---
 The health and safety of our artists, audiences and staff is our highest priority. In addition to the protocols posted here, we are practicing additional measures within our offices and rehearsal halls that further ensure the health and safety of our artists, audiences and staff.
 
-Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco.  These are subject to change according to government and health expert recommendations and industry standards.
+Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco. These are subject to change according to government and health expert recommendations and industry standards.
 
 *Last updated: 4/28/2023*
 
@@ -13,7 +13,7 @@ Our health and safety protocols comply with current health and safety guidelines
 
 **WELL-FITTED MASKS** For the safety of our artists and fellow audience members, we strongly recommend all guests to wear well-fitted masks while inside the theater. Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.
 
-**CONCESSIONS** At performances where concessions are served guests may take down their masks to consume beverages or snacks, however we ask you resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue.
+**CONCESSIONS** At performances where concessions are served, we strongly recommend guests resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue.
 
 **SOCIAL DISTANCING**  At this time, we are not limiting seating capacity. Seating continues to be general admission unless otherwise specified. Advanced purchase or registration is advised. No visitors will be allowed backstage and there can absolutely be no physical interaction between the actors, stage managers and patrons during the talkback.
 
