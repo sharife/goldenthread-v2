@@ -1,22 +1,6 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "No Summary: Comedy as a Form of Solidarity and Resistance"
-    items:
-      - title: Livestream
-        pre: Friday, April 14, 2023 at 11:00 AM (PDT)
-        cta: RVSP Now!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/patronticket__publicticketapp#/instances/a0F3Z00000yoKSZUA2
-        subtitle: ""
-        text: "Executive Artistic Director **Sahar Assaf** and **Wafaa Bilal**, 2023
-          Artist-in-residence at Golden Thread, discuss comedy as a coping
-          mechanism and a form of solidarity and resistance. Bilal, currently an
-          Arts Professor at NYU’s Tisch School of the Arts, is an Iraqi-born
-          artist known internationally for his performative and interactive
-          works provoking dialogue about international and interpersonal
-          politics. As part of his residency at Golden Thread, Bilal will curate
-          *Amreeka: The Comedy Show* and participate in the ReOrient Forum."
-        image: https://ucarecdn.com/db7a19c1-39e3-414d-a88f-8048b012157a/
   - heading: "Amreeka: The Comedy Show"
     items:
       - image: https://ucarecdn.com/eacdcc5e-8111-47f0-8f0d-14fbc84f6abc/
@@ -124,10 +108,14 @@ While we are unable to provide gender neutral restrooms in the venues we rent at
 
 **COVID-19 SAFETY & PROTOCOLS** 
 
-Golden Thread is a fully vaccinated company. All patrons must present proof of vaccination with a booster shot, along with a matching photo ID, and be masked for entry to all in-person events.
+Golden Thread is a fully vaccinated company. Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco.   
 
-Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Masks must be worn at all times in all areas of the theatre.
+ At this time, this means that for the safety of our artists and fellow audience members, we strongly recommend all guests to wear well-fitted masks while inside the theater. 
 
-Seating will be general admission and limited to 75% capacity. Advanced purchase or registration is advised.
+ Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.  
+
+At performances where concessions are served, we strongly recommend guests resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue. 
+
+These policies will be updated if city guidelines change. 
 
 By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
