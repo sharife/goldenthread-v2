@@ -11,7 +11,7 @@ Our health and safety protocols comply with current health and safety guidelines
 
 **VACCINATION STATUS** Golden Thread is a fully vaccinated company. Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco. At this time, this means that audience vaccination checks are no longer required to see a performance. 
 
-**WELL-FITTED MASKS** For the safety of our artists and fellow audience members, we strongly recommend all guests to wear well-fitted masks while inside the theater. Face masks must completely cover your nose and mouth and have ear loops or head straps to hold it in place. Gaiters and bandannas are not acceptable. Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone. Actors and artists such as the director or playwright will be unmasked only when performing or presenting on stage. 
+**WELL-FITTED MASKS** For the safety of our artists and fellow audience members, we strongly recommend all guests to wear well-fitted masks while inside the theater. Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.
 
 **CONCESSIONS** At performances where concessions are served guests may take down their masks to consume beverages or snacks, however we ask you resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue.
 
