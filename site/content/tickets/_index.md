@@ -108,14 +108,10 @@ While we are unable to provide gender neutral restrooms in the venues we rent at
 
 **COVID-19 SAFETY & PROTOCOLS** 
 
-Golden Thread is a fully vaccinated company. Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco.   
+Golden Thread is a fully vaccinated company. Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco. These policies will be updated if city guidelines change. 
 
-At this time, this means that for the safety of our artists and fellow audience members, we strongly recommend all guests to wear well-fitted masks while inside the theater. 
-
-Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.  
+For the safety of our artists and fellow audience members, **we strongly recommend all guests to wear well-fitted masks while inside the theater.** Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.  
 
 At performances where concessions are served, we strongly recommend guests resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue. 
-
-These policies will be updated if city guidelines change. 
 
 By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
