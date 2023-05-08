@@ -28,6 +28,9 @@ lists:
 
 
           General admission tickets available at a sliding scale of $20-$100
+
+
+          Recommended for ages 18+
         title: ""
   - heading: New Threads Staged Reading Series 2023
     items:
