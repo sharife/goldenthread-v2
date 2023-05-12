@@ -14,6 +14,9 @@ description: |-
   and **Charles McBee** as Master of Ceremonies
 background: https://ucarecdn.com/bc6bce03-bd63-413a-acba-b4076f88efe4/-/crop/3000x1097/0,0/-/preview/
 titleimage: https://ucarecdn.com/51f3aca8-ca0b-4607-9dd2-77497363ea98/
+programlabel: ""
+pdflabel: View the digital program
+pdf: https://ucarecdn.com/083f8d45-e56e-4c00-830a-0bae3d4148bb/
 featuring: "Headliner  Eman El-Husseini, with Usama Siddiquee and Jackie
   Keliiaa, and Master of Ceremonies Charles McBee "
 stage: Brava Theater Center
