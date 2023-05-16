@@ -52,12 +52,27 @@ lists:
         image: https://ucarecdn.com/493f6867-4282-4696-98df-9fd3d1e97027/
       - itemstart: 2023-03-15T08:56:26.799Z
         itemend: 2023-03-15T08:56:26.816Z
-        title: "Episode 2: Intergenerational MENA playwrights writing MENA stories to
-          U.S. Audiences"
-        pre: June 2023
+        title: "Episode 2: MENA Playwrights on Storytelling"
+        pre: June 7, 2023
         text: Join the playwrights of the 2023 ReOrient Festival as they discuss a
           number of topics related to their work making theatre in the U.S.
           today.
+        subtitle: >-
+          In this episode of No Summary, we are thrilled to bring together a
+          panel of MENA playwrights who are writing powerful stories for U.S.
+          audiences and using their platforms to shed light on the experiences
+          of underrepresented communities. Join us as we delve into the creative
+          process of playwriting, the challenges, and opportunities of bringing
+          diverse stories to the stage, and the impact that these stories can
+          have on audiences. Catherine Coray will moderate the panel of guests
+          including playwrights Yussef El Guindi, Denmo Ibrahim, and Hadi
+          Tabbal. The playwrights will share their experiences, discuss the
+          significance of storytelling in MENA cultures and reflect on the ways
+          in which their work has contributed to the broader discourse on race,
+          power, and representation in the U.S. 
+
+
+          The panel will be joined by a MENA American Theater class at California Polytechnic State University, designed by professor Hala Baki to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the University of Washington taught by Mona Merhi who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
       - itemstart: 2023-03-15T08:57:32.975Z
         itemend: 2023-03-15T08:57:32.994Z
         title: "Episode 3: Fighters for Justice: from the Black Panthers to Alaa Abdel
