@@ -63,7 +63,8 @@ lists:
           diverse stories to the stage, and the impact that these stories can
           have on audiences. [Catherine
           Coray](https://tisch.nyu.edu/about/directory/drama/94426744) will
-          moderate the panel of guests including playwrights Yussef El Guindi,
+          moderate the panel of guests including playwrights [Yussef El
+          Guindi](https://goldenthread.org/about/people/#open-modal-Yussef%20El%20Guindi),
           [Denmo
           Ibrahim](https://goldenthread.org/about/people/#open-modal-Denmo%20Ibrahim),
           and Hadi Tabbal. The playwrights will share their experiences, discuss
