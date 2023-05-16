@@ -61,12 +61,13 @@ lists:
           of underrepresented communities. Join us as we delve into the creative
           process of playwriting, the challenges, and opportunities of bringing
           diverse stories to the stage, and the impact that these stories can
-          have on audiences. Catherine Coray will moderate the panel of guests
-          including playwrights Yussef El Guindi, Denmo Ibrahim, and Hadi
-          Tabbal. The playwrights will share their experiences, discuss the
-          significance of storytelling in MENA cultures and reflect on the ways
-          in which their work has contributed to the broader discourse on race,
-          power, and representation in the U.S. 
+          have on audiences. [Catherine
+          Coray](https://tisch.nyu.edu/about/directory/drama/94426744) will
+          moderate the panel of guests including playwrights Yussef El Guindi,
+          Denmo Ibrahim, and Hadi Tabbal. The playwrights will share their
+          experiences, discuss the significance of storytelling in MENA cultures
+          and reflect on the ways in which their work has contributed to the
+          broader discourse on race, power, and representation in the U.S. 
 
 
           The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/), designed by professor Hala Baki to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the University of Washington taught by Mona Merhi who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
