@@ -4,7 +4,7 @@ lists:
   - heading: "No Summary: MENA Playwrights on Storytelling"
     items:
       - image: https://ucarecdn.com/db2b84b0-6919-4396-a7f3-103500a87441/
-        pre: Friday, June 9, 2023 at 11:00 AM (PT) via LIVESTREAM
+        pre: Wednesday, June 7, 2023 at 11:00 AM (PT) via LIVESTREAM
         subtitle: "**[Catherine
           Coray](https://tisch.nyu.edu/about/directory/drama/94426744)** will
           moderate the panel of guests including playwrights **[Yussif El
