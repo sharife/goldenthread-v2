@@ -73,7 +73,7 @@ lists:
           discourse on race, power, and representation in the U.S. 
 
 
-          The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/), designed by professor Hala Baki to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the University of Washington taught by Mona Merhi who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
+          The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/), designed by professor [Hala Baki](https://theatredance.calpoly.edu/hala-baki-0) to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the [University of Washington](https://drama.washington.edu/bachelor-arts-drama) taught by [Mona Merhi](https://drama.washington.edu/people/mona-merhi) who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
         subtitle: with Theatre Students from California Polytechnic and University of
           Washington
         cta: Register for FREE!
