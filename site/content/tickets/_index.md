@@ -7,7 +7,7 @@ lists:
         pre: Wednesday, June 7, 2023 at 11:00 AM (PT) via LIVESTREAM
         subtitle: "**[Catherine
           Coray](https://tisch.nyu.edu/about/directory/drama/94426744)** will
-          moderate the panel of guests including playwrights **[Yussif El
+          moderate the panel of guests including playwrights **[Yussef El
           Guindi](https://goldenthread.org/about/people/#open-modal-Yussef%20El\
           %20Guindi), [Denmo
           Ibrahim](https://goldenthread.org/about/people/#open-modal-Denmo%20Ib\
