@@ -1,36 +1,32 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "Amreeka: The Comedy Show"
+  - heading: "No Summary: MENA Playwrights on Storytelling"
     items:
-      - image: https://ucarecdn.com/eacdcc5e-8111-47f0-8f0d-14fbc84f6abc/
-        pre: Friday, May 12, 2023 at 8:00PM
-        subtitle: |-
-          Featuring Headliner  **Eman El-Husseini**
-
-          with **Usama Siddiquee** and **Jackie Keliiaa**
-
-          and **Charles McBee** as Master of Ceremonies
-        cta: Buy now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tebVUAQ
+      - image: https://ucarecdn.com/db2b84b0-6919-4396-a7f3-103500a87441/
+        pre: Friday, June 9, 2023 at 11:00 AM (PT) via LIVESTREAM
+        subtitle: "**[Catherine
+          Coray](https://tisch.nyu.edu/about/directory/drama/94426744)** will
+          moderate the panel of guests including playwrights **[Yussif El
+          Guindi](https://goldenthread.org/about/people/#open-modal-Yussef%20El\
+          %20Guindi), [Denmo
+          Ibrahim](https://goldenthread.org/about/people/#open-modal-Denmo%20Ib\
+          rahim)** and **Hadi Tabbal.**"
+        cta: RVSP to join the conversation!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000007zoLbUAI
         text: >-
-          Curated by our 2023 Artist-in-residence, **Wafaa Bilal**, ***Amreeka:
-          The Comedy Show*** was born after the 2016 election, bringing together
-          diverse comedians with one thing in common: they love to complain.
-          Then and since, the toxic culture and politics in “Amreeka,” as some
-          Middle Easterners playfully pronounce it, offer ample fodder for
-          complaints. This cathartic and witty venting holds a mirror up to
-          reality showing it has become so absurd and surreal, one must laugh,
-          if not cry.
+          In this episode of [No
+          Summary](https://goldenthread.org/productions/no-summary-2023/), we
+          are thrilled to bring together a panel of MENA playwrights who are
+          writing powerful stories for U.S. audiences and using their platforms
+          to shed light on the experiences of underrepresented communities. Join
+          us as we delve into the creative process of playwriting, the
+          challenges and opportunities of bringing diverse stories to the stage,
+          and the impact that these stories can have on audiences.\
 
+          \
 
-          **Brava Theater Center** (2781 24th Street, San Francisco)
-
-
-          General admission tickets available at a sliding scale of $20-$100
-
-
-          Recommended for ages 18+
+          The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/batheatrearts/), designed by professor [Hala Baki](https://theatredance.calpoly.edu/hala-baki-0) to imagine how MENA theater can contribute to a more inclusive American culture, and a Drama class at the [University of Washington](https://drama.washington.edu/bachelor-arts-drama) taught by [Mona Merhi](https://drama.washington.edu/people/mona-merhi) who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
         title: ""
   - heading: New Threads Staged Reading Series 2023
     items:
