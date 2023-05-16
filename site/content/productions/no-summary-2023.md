@@ -72,6 +72,8 @@ lists:
           The panel will be joined by a MENA American Theater class at California Polytechnic State University, designed by professor Hala Baki to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the University of Washington taught by Mona Merhi who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
         subtitle: with Theatre Students from California Polytechnic and University of
           Washington
+        cta: Register for FREE!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000007zoLbUAI
       - itemstart: 2023-03-15T08:57:32.975Z
         itemend: 2023-03-15T08:57:32.994Z
         title: "Episode 3: Fighters for Justice: from the Black Panthers to Alaa Abdel
