@@ -53,7 +53,7 @@ lists:
       - itemstart: 2023-03-15T08:56:26.799Z
         itemend: 2023-03-15T08:56:26.816Z
         title: "Episode 2: MENA Playwrights on Storytelling"
-        pre: June 7, 2023
+        pre: Wednesday, June 7 at 11:00 AM PT
         text: >-
           In this episode of No Summary, we are thrilled to bring together a
           panel of MENA playwrights who are writing powerful stories for U.S.
