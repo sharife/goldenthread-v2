@@ -10,7 +10,7 @@ description: N﻿ew Threads returns in 2023 with staged readings of our two new
   Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah and
   another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the
   Black Panthers in Algiers. The readings will take place on **Tuesday, August
-  22nd and 29th** at **7pm**. Attendance is **FREE**, but seating is limited, so
+  20th and 27th** at **7pm**. Attendance is **FREE**, but seating is limited, so
   registration is highly recommended.
 background: ""
 titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
