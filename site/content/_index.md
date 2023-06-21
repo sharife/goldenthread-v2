@@ -2,8 +2,8 @@
 title: Middle East Center Stage
 headline: "Amreeka: The Comedy Show"
 subtitle: ""
-background: https://ucarecdn.com/51a0c40f-1500-44de-b473-8948181dedc1/
-cta: Buy Tickets!
+background: https://ucarecdn.com/5fcb5e53-54a7-4765-b194-bf3c07c2cc19/
+cta: Learn More!
 link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**2023 Season Tickets On Sale Now!**"
