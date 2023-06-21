@@ -112,8 +112,8 @@ cast:
 mentions:
   heading: 2023 Public Library performance dates
   text: >-
-    * Saturday, April 22, 2023, 3:00 pm **San Francisco Public Library, Main
-    Branch**, Fisher Children's Center 100 Larkin St., San Francisco 94102
+    * Thursday, June 29, 2023, 3:30 pm & 7:00 pm Milpitas Public Library 160 N.
+    Main St., Milpitas 95035
 
     * Saturday, April 29, 2023, 3:00 pm **Berkeley Public Library,** **Claremont Branch** 2940 Benvenue St., Berkeley 94705
 
