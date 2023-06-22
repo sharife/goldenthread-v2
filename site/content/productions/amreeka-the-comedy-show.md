@@ -20,7 +20,7 @@ programlabel: ""
 pdflabel: View the digital program
 pdf: https://ucarecdn.com/d400d333-1b97-415a-8a2d-3f9082a16575/
 videos:
-  - id: YG8TyuwdFDw / J51E 7QKC 0VQV
+  - id: YG8TyuwdFDw
 featuring: "Headliner  Eman El-Husseini, with Usama Siddiquee and Jackie
   Keliiaa, and Master of Ceremonies Charles McBee "
 additional: Production Photography by Amal Bisharat Photography
