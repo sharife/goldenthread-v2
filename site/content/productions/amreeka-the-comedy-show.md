@@ -105,7 +105,7 @@ cast:
 
         [wafaabilal.com](https://wafaabilal.com/)
 photos:
-  heading: Productions Photos by Amal Bisharat Photography
+  heading: "Productions Photos "
   items:
     - image: https://ucarecdn.com/8b991dba-3e46-4406-8030-33445fb505ef/
     - image: https://ucarecdn.com/0084ae72-1553-4e44-a524-0d28e9f4e84b/
