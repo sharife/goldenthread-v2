@@ -11,14 +11,19 @@ description: |-
 
   with **Usama Siddiquee** and **Jackie Keliiaa** 
 
-  and **Charles McBee** as Master of Ceremonies
+  and **Charles McBee** as Master of Ceremonies 
+
+  Watch the video trailer:
 background: https://ucarecdn.com/bc6bce03-bd63-413a-acba-b4076f88efe4/-/crop/3000x1097/0,0/-/preview/
 titleimage: https://ucarecdn.com/51f3aca8-ca0b-4607-9dd2-77497363ea98/
 programlabel: ""
 pdflabel: View the digital program
 pdf: https://ucarecdn.com/d400d333-1b97-415a-8a2d-3f9082a16575/
+videos:
+  - id: YG8TyuwdFDw / J51E 7QKC 0VQV
 featuring: "Headliner  Eman El-Husseini, with Usama Siddiquee and Jackie
   Keliiaa, and Master of Ceremonies Charles McBee "
+additional: Production Photography by Amal Bisharat Photography
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tebVUAQ
@@ -102,7 +107,7 @@ cast:
 
         [wafaabilal.com](https://wafaabilal.com/)
 photos:
-  heading: Productions Photos by Amal Bisharat Photography
+  heading: "Productions Photos "
   items:
     - image: https://ucarecdn.com/8b991dba-3e46-4406-8030-33445fb505ef/
     - image: https://ucarecdn.com/0084ae72-1553-4e44-a524-0d28e9f4e84b/
