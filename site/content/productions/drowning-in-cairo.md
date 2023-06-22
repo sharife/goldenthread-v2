@@ -30,7 +30,7 @@ programlabel: Download the digital program!
 program: https://ucarecdn.com/baf895af-81a6-4134-b579-14713c8de61b/
 videos:
   - id: 3DaV7S32aO4
-  - id: 3C5ScEESWsM / ZR6D T028 X0P2
+  - id: 3C5ScEESWsM
 writer: Adam Ashraf Elsayigh
 director: Sahar Assaf
 featuring: Amin El Gamal*, Wiley Naman Strasser*, Martin Yousif Zebari
