@@ -21,6 +21,7 @@ videos:
   - id: YG8TyuwdFDw / J51E 7QKC 0VQV
 featuring: "Headliner  Eman El-Husseini, with Usama Siddiquee and Jackie
   Keliiaa, and Master of Ceremonies Charles McBee "
+additional: Production Photography by Amal Bisharat Photography
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tebVUAQ
