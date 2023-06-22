@@ -14,7 +14,7 @@ description: >-
   a virtual presentation.  
 
 
-  Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature presentations by:   
+  Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature presentations by   
 
 
   * award-winning Lebanese poet **[Zeina Hashem Beck](www.zeinahashembeck.com/)** 
