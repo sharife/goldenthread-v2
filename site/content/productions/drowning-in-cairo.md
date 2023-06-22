@@ -17,7 +17,7 @@ description: >-
   Adam says: "Golden Thread was my first artistic home in the U.S.; my experience workshopping an early draft of Drowning in Cairo at Golden Thread showed me that there was a space for my voice and artistry in this country. That the same play gets to have its world premiere here, four years later, especially under the brilliant direction and artistry of Sahar Assaf, feels like a true blessing and homecoming."
 
 
-  Watch the trailer video below. 
+  Watch the **trailer video** below. 
 
 
   Check out this episode of our digital series **NO SUMMARY: Conversations with Artists Who Don’t Fit in a Box**, which featured Adam in conversation with Drowning in Cairo director and Golden Thread Executive Artistic Director Sahar Assaf on December 3, 2021, to learn more.
