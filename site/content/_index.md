@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: This August
 subtitle: ""
-background: https://ucarecdn.com/5fcb5e53-54a7-4765-b194-bf3c07c2cc19/
+background: https://ucarecdn.com/07f2d5b4-8f99-4522-b22d-e12be73b59f3/
 cta: Learn More!
 link: https://goldenthread.org/tickets/
 items:
