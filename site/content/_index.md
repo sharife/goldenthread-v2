@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: New Threads
+headline: This August
 subtitle: ""
 background: https://ucarecdn.com/5fcb5e53-54a7-4765-b194-bf3c07c2cc19/
 cta: Learn More!
