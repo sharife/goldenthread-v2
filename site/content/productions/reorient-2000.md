@@ -126,7 +126,8 @@ cast:
         melodrama *TORCH*!
       name: Torange Yeghiazarian
 photos:
-  items: []
+  items:
+    - image: https://ucarecdn.com/ee83a2cf-aeef-47c4-80df-d54329fe5c74/
 photos3:
   items:
     - image: https://ucarecdn.com/b9bc1662-ba2a-43ad-bf2c-58054311f0ff/
