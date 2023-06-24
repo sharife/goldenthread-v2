@@ -25,8 +25,9 @@ featuring: Kathleen Antonia, Deborah Davis-Price*, Said Ganji, Vida Gahremani,
   Ted Herzberg, Thomas Lynam, Mani, Yasmine Orangi, Ninos Oshaana, John
   Pennington, Bernadette Quattrone, Claudia Rosa*, Mansour Taeed, Frank Toth,
   Christopher J Vantress, Tariq Yanis
-designteam: Stephen Siegel (lighting), Jeff Gottlieb/Hal Gelb & Kathy Kennedy
-  (sound), Preeti Ranadive (graphic)
+designteam: Stephen Siegel (lighting), Jeff Gottlieb, Hal Gelb, Kathy Kennedy,
+  Zahra Mahlouji (sound), Torange Yeghiazarian (props), Preeti Ranadive
+  (graphics)
 musicaldirector: Ninos Oshaana, Abdul Malik Said, Sabrina Spinaldi, and Kathy Kennedy (voice)
 stage: Yugen-Noh Space
 address: 2840 Mariposa St., San Francisco
