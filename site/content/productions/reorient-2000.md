@@ -126,8 +126,7 @@ cast:
         melodrama *TORCH*!
       name: Torange Yeghiazarian
 photos:
-  items:
-    - image: https://ucarecdn.com/ee83a2cf-aeef-47c4-80df-d54329fe5c74/
+  items: []
 photos3:
   items:
     - image: https://ucarecdn.com/b9bc1662-ba2a-43ad-bf2c-58054311f0ff/
@@ -136,6 +135,7 @@ photos3:
     - image: https://ucarecdn.com/cc571a52-6034-4fb3-b557-7a4ffd896c10/
     - image: https://ucarecdn.com/0149a601-07a2-4dd1-89e2-aa11dbb02491/
     - image: https://ucarecdn.com/5120e885-85c6-47eb-be17-bc80681d9948/
+    - image: https://ucarecdn.com/5ed86dc7-2026-495c-9aba-8e98c679413e/
 bottom:
   text: California Arts Council, CA$H grant administered by Theatre Bay Area,
     Zellerbach Family Foundation
