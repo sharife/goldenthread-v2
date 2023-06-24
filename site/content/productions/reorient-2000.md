@@ -10,7 +10,7 @@ heading: From fantastic to poignantly real, steeped in music and drama, this
 description: A new collection of works written by playwrights from, or on themes
   concerning, the Middle East.
 background: https://ucarecdn.com/74089be4-3b05-4641-9bb4-6acaa3c612bd/-/crop/497x247/0,0/-/preview/
-titleimage: https://ucarecdn.com/ac4f00a2-2c5b-424b-95b0-58e94e2c46e6/
+titleimage: https://ucarecdn.com/37de841d-97cc-4311-b857-2ab1039bed07/
 writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 featuring: Stephanie Carwin, Rachel Christopherson, Michael Givler, Nora Ludden,
@@ -126,7 +126,8 @@ cast:
         melodrama *TORCH*!
       name: Torange Yeghiazarian
 photos:
-  items: []
+  items:
+    - image: https://ucarecdn.com/ee83a2cf-aeef-47c4-80df-d54329fe5c74/
 photos3:
   items:
     - image: https://ucarecdn.com/b9bc1662-ba2a-43ad-bf2c-58054311f0ff/
@@ -139,4 +140,8 @@ bottom:
   text: California Arts Council, CA$H grant administered by Theatre Bay Area,
     Zellerbach Family Foundation
 ---
-This year's line up includes *The Myth of Creation* a cartoonish parody of the Adam and Eve tale by Sadegh Hedayat, one of Iran's most respected writers and social critics; *Min El Alb, Lil Alb*, a new play by Tom Coash, winner of the Kennedy Center's Lorraine Hansberry Award; and *The Muse* by Drew Khalouf, ACT alumnus who transports us into the surreal world of creativity and desire blending jazz, poetry, and Arabian melodies.
+This year's line up includes *The Myth of Creation* a cartoonish parody of the Adam and Eve tale by **Sadegh Hedayat**, one of Iran's most respected writers and social critics; 
+
+*Min El Alb, Lil Alb*, a new play by **Tom Coash**, winner of the Kennedy Center's Lorraine Hansberry Award; 
+
+and *The Muse* by **Drew Khalouf**, ACT alumnus who transports us into the surreal world of creativity and desire blending jazz, poetry, and Arabian melodies.
