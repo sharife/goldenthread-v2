@@ -15,7 +15,7 @@ writer: ""
 director: Hal Gelb, Arlene Hood, Laura Hope, Torange Yeghiazarian
 featuring: Stephanie Carwin, Rachel Christopherson, Michael Givler, Nora Ludden,
   J. Mc Mullen, Saul Montez, George Q. Nguyen, Linda Noveroske, Jeanine A.
-  Robinson, Paul Santiago*, Rassheedah Schelble
+  Robinson, Paul Santiago*, Rasheedah Schelble
 designteam: Harry Robeck (lighting), Andrea Taylor (costumes), Joe Cronin
   (sound), Pardis Parsa (masks & puppets), Preeti Ranadive (graphic)
 stage: EXIT Theater
