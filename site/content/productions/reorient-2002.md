@@ -15,11 +15,11 @@ program: https://ucarecdn.com/96f3b910-360a-4630-9a1a-39d31d88cd1e/
 writer: ""
 director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
 featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
-  Valerie de Jose, Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette
-  Harrison, Barbara Jaspersen, Maziar Motahari, Ric Prindle *, Bella
-  Ramazan-Nia, Claudia Rosa *
-designteam: Jay Lasnik (scenic), Rob Anderson (lighting), Michael Santo (sound),
-  Termeh Yeghiazarian (original painted panels)
+  Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette Harrison, Barbara
+  Jaspersen, Maziar Motahari, Ric Prindle *, Bella Ramazan-Nia, Claudia Rosa *
+designteam: Robert Ted Anderson (lighting), Jay Lasnik (scenic), Svetlana Pedan
+  (costume), Michael Santo (sound), Termeh Yeghiazarian (story panels), Homayoun
+  Makoui (graphics)
 stage: New Langton Arts
 address: 1246 Folsom St. (between 8th & 9th St.), San Francisco
 lists:
