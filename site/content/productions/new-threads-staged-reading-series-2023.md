@@ -9,7 +9,7 @@ description: N﻿ew Threads returns in 2023 with staged readings of our two new
   play commissions, one by **Adam Ashraf Elsayigh** with dramaturg **Salma
   Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah and
   another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the
-  Black Panthers in Algiers. The readings will take place on **Tuesday, August
+  Black Panthers in Algiers. The readings will take place on **Sunday, August
   20th and 27th** at **7pm**. Attendance is **FREE**, but seating is limited, so
   registration is highly recommended.
 background: ""
