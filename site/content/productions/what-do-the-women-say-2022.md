@@ -52,8 +52,6 @@ Following the presentations, Executive Artistic Director **Sahar Assaf** will be
 
 The full program is 100 minutes without intermission.
 
-**[View the Program Information](https://goldenthread.org/docs/WDTWSMakingHome_2022_Program.pdf) (PDF)**
-
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with What Do the Women Say?, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
 
 Past featured artists include Elmaz Abinader (This House, My Bones), Majeda Al Saqqa (Culture and Free Thought Association, Gaza Strip), Anita Amirrezvani (The Blood of Flowers, Equal to the Sun), Nawal el Saadawi (Memoirs from the Women’s Prison), Denmo Ibrahim (Baba, ECSTASY | a waterfable), Maryam Keshavarz (Circumstance), Rohiha Malek (Unveiled), Nabila Mango (executive director, Zawaya), Ayesha Mattau (Love Inshallah), Zahra Noorbakhsh (All Atheists are Muslim, #GoodMuslimBadMuslim), Shahrnush Parsipur (The Prison Memoirs, Women Without Men), Betty Shamieh (The Black Eyed, Territories), Deema Shehabi (Thirteen Departures From the Moon), Seema Sueko (Remains), and Rosemary Toohey (The Body Washer), and Dina Zarif.
