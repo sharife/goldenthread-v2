@@ -1,33 +1,6 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "No Summary: MENA Playwrights on Storytelling"
-    items:
-      - image: https://ucarecdn.com/db2b84b0-6919-4396-a7f3-103500a87441/
-        pre: Wednesday, June 7, 2023 at 11:00 AM (PT) via LIVESTREAM
-        subtitle: "**[Catherine
-          Coray](https://tisch.nyu.edu/about/directory/drama/94426744)** will
-          moderate the panel of guests including playwrights **[Yussef El
-          Guindi](https://goldenthread.org/about/people/#open-modal-Yussef%20El\
-          %20Guindi), [Denmo
-          Ibrahim](https://goldenthread.org/about/people/#open-modal-Denmo%20Ib\
-          rahim)** and **Hadi Tabbal.**"
-        cta: RVSP to join the conversation!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000007zoLbUAI
-        text: >-
-          In this episode of [No
-          Summary](https://goldenthread.org/productions/no-summary-2023/), we
-          are thrilled to bring together a panel of MENA playwrights who are
-          writing powerful stories for U.S. audiences and using their platforms
-          to shed light on the experiences of underrepresented communities. Join
-          us as we delve into the creative process of playwriting, the
-          challenges and opportunities of bringing diverse stories to the stage,
-          and the impact that these stories can have on audiences.\
-
-          \
-
-          The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/batheatrearts/), designed by professor [Hala Baki](https://theatredance.calpoly.edu/hala-baki-0) to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the [University of Washington](https://drama.washington.edu/bachelor-arts-drama) taught by [Mona Merhi](https://drama.washington.edu/people/mona-merhi) who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
-        title: ""
   - heading: New Threads Staged Reading Series 2023
     items:
       - text: >-
@@ -40,9 +13,11 @@ lists:
 
           **Brava Theater Center** (2781 24th Street, San Francisco)
         subtitle: ""
-        pre: TBD August 2023
-        cta: Check back in soon for RVSP information!
-        link: ""
+        pre: Sundays, August 20 and 27, 2023
+        cta: RSVP for free!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecJUAQ
+        image: https://ucarecdn.com/3980d8bd-4d59-40f2-9bb4-4abce180ea9e/
+        title: via Livestream and in-person
   - heading: ReOrient 2023 Festival of Short Plays
     items:
       - pre: October 13 - November 4, 2023
