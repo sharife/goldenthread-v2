@@ -85,20 +85,20 @@ lists:
           North America"
         pre: Friday, August 4 at 11:00 AM PT
         text: In collaboration with the Middle Eastern Theatre focus group at the
-          Association for Theatre in Higher Education (ATHE) annual conference,
-          Golden Thread Productions invites Dr. Sarah Fahmy, a decolonial
-          scholartist and co-founder of the Middle Eastern Theatre group at
-          ATHE, and Marina Johnson, a scholar and director, to moderate a
-          conversation on theatre criticism in the SWANA artistic and academic
-          worlds across the region and the diaspora today. This panel features
-          scholar, dramaturg and former theater reviewer, Dr. Aycan Akçamete,
-          dramaturg and theatre journalist, Yasmin Zacaria Mikhaiel, and
-          playwright Tariq Hamami for a conversation that seeks to analyze the
-          status of “post”-pandemic theatre criticism and desired pathways
-          forward in academia and in praxis from SWANA artists. Panelists will
-          discuss topics of cultural competency, the multiple forms of
-          criticism, and the ways that SWANA artists and academics seek to
-          change the game.
+          Association for Theatre in Higher Education
+          ([ATHE](https://www.athe.org/)) annual conference, Golden Thread
+          Productions invites Dr. Sarah Fahmy, a decolonial scholartist and
+          co-founder of the Middle Eastern Theatre group at ATHE, and Marina
+          Johnson, a scholar and director, to moderate a conversation on theatre
+          criticism in the SWANA artistic and academic worlds across the region
+          and the diaspora today. This panel features scholar, dramaturg and
+          former theater reviewer, Dr. Aycan Akçamete, dramaturg and theatre
+          journalist, Yasmin Zacaria Mikhaiel, and playwright Tariq Hamami for a
+          conversation that seeks to analyze the status of “post”-pandemic
+          theatre criticism and desired pathways forward in academia and in
+          praxis from SWANA artists. Panelists will discuss topics of cultural
+          competency, the multiple forms of criticism, and the ways that SWANA
+          artists and academics seek to change the game.
       - itemstart: 2023-03-15T08:58:19.417Z
         itemend: 2023-03-15T08:58:19.438Z
         title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
