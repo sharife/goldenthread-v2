@@ -81,9 +81,9 @@ lists:
         image: https://ucarecdn.com/10b90793-321b-4969-8553-0e3d77b2c921/
       - itemstart: 2023-03-15T08:57:32.975Z
         itemend: 2023-03-15T08:57:32.994Z
-        title: "Episode 3: Fighters for Justice: from the Black Panthers to Alaa Abdel
-          Fattah"
-        pre: August, 2023
+        title: "Episode 3: Critiquing the Critics: the Reception of SWANA Theatre in
+          North America"
+        pre: Friday, August 4 at 11:00 AM PT
         text: In collaboration with the Middle Eastern Theatre focus group at the
           Association for Theatre in Higher Education (ATHE) annual conference,
           Golden Thread Productions invites Dr. Sarah Fahmy, a decolonial
