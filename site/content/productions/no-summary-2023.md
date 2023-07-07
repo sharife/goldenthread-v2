@@ -87,13 +87,18 @@ lists:
         text: In collaboration with the Middle Eastern Theatre focus group at the
           Association for Theatre in Higher Education
           ([ATHE](https://www.athe.org/)) annual conference, Golden Thread
-          Productions invites Dr. Sarah Fahmy, a decolonial scholartist and
-          co-founder of the Middle Eastern Theatre group at ATHE, and Marina
-          Johnson, a scholar and director, to moderate a conversation on theatre
-          criticism in the SWANA artistic and academic worlds across the region
-          and the diaspora today. This panel features scholar, dramaturg and
-          former theater reviewer, Dr. Aycan Akçamete, dramaturg and theatre
-          journalist, Yasmin Zacaria Mikhaiel, and playwright Tariq Hamami for a
+          Productions invites [Dr. Sarah Fahmy](https://drsarahfahmy.com/), a
+          decolonial scholartist and co-founder of the Middle Eastern Theatre
+          group at ATHE, and [Marina
+          Johnson](https://howlround.com/commons/marina-j-bergenstock), a
+          scholar and director, to moderate a conversation on theatre criticism
+          in the SWANA artistic and academic worlds across the region and the
+          diaspora today. This panel features scholar, dramaturg and former
+          theater reviewer, [Dr. Aycan
+          Akçamete](https://www.linkedin.com/in/aycan-akcamete-phd-73b481112/),
+          dramaturg and theatre journalist, [Yasmin Zacaria
+          Mikhaiel](https://www.yasminzacaria.com/), and playwright [Tariq
+          Hamami](https://newplayexchange.org/users/30856/tariq-hamami) for a
           conversation that seeks to analyze the status of “post”-pandemic
           theatre criticism and desired pathways forward in academia and in
           praxis from SWANA artists. Panelists will discuss topics of cultural
