@@ -81,17 +81,29 @@ lists:
         image: https://ucarecdn.com/10b90793-321b-4969-8553-0e3d77b2c921/
       - itemstart: 2023-03-15T08:57:32.975Z
         itemend: 2023-03-15T08:57:32.994Z
-        title: "Episode 3: Fighters for Justice: from the Black Panthers to Alaa Abdel
-          Fattah"
-        pre: August, 2023
-        text: Executive Artistic Director Sahar Assaf engages in a conversation with
-          playwrights and dramaturgs currently in commission at Golden Thread
-          Productions, Tariq Hamami, Adam Ashraf Elsayigh, Salma Zohdi, and Dawn
-          Monique Williams. The conversation will preface the staged readings of
-          the plays Alaa and Black Panthers in Algiers as part of the New
-          Threads reading series and will highlight the research and development
-          processes each pair engaged with and the stories they are bringing to
-          life.
+        title: "Episode 3: Critiquing the Critics: the Reception of SWANA Theatre in
+          North America"
+        pre: Friday, August 4 at 11:00 AM PT
+        text: In collaboration with the Middle Eastern Theatre focus group at the
+          Association for Theatre in Higher Education
+          ([ATHE](https://www.athe.org/)) annual conference, Golden Thread
+          Productions invites [Dr. Sarah Fahmy](https://drsarahfahmy.com/), a
+          decolonial scholartist and co-founder of the Middle Eastern Theatre
+          group at ATHE, and [Marina
+          Johnson](https://howlround.com/commons/marina-j-bergenstock), a
+          scholar and director, to moderate a conversation on theatre criticism
+          in the SWANA artistic and academic worlds across the region and the
+          diaspora today. This panel features scholar, dramaturg and former
+          theater reviewer, [Dr. Aycan
+          Akçamete](https://www.linkedin.com/in/aycan-akcamete-phd-73b481112/),
+          dramaturg and theatre journalist, [Yasmin Zacaria
+          Mikhaiel](https://www.yasminzacaria.com/), and playwright [Tariq
+          Hamami](https://newplayexchange.org/users/30856/tariq-hamami) for a
+          conversation that seeks to analyze the status of “post”-pandemic
+          theatre criticism and desired pathways forward in academia and in
+          praxis from SWANA artists. Panelists will discuss topics of cultural
+          competency, the multiple forms of criticism, and the ways that SWANA
+          artists and academics seek to change the game.
       - itemstart: 2023-03-15T08:58:19.417Z
         itemend: 2023-03-15T08:58:19.438Z
         title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
