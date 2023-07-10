@@ -1,6 +1,28 @@
 ---
 title: Buy Tickets
 lists:
+  - heading: "No Summary: Conversations with Artists Who Don’t Fit in a Box"
+    items:
+      - title: "Episode 3: Critiquing the Critics: The Reception of SWANA Theater in
+          North America "
+        pre: Friday, August 4, 2023, at 11:00 AM PST Online
+        text: In collaboration with the Middle Eastern Theatre focus group at the
+          **Association for Theatre in Higher Education (ATHE)** annual
+          conference, Golden Thread Productions invites **Dr. Sarah Fahmy**, a
+          decolonial scholartist and co-founder of the Middle Eastern Theatre
+          group at ATHE, and **Marina Johnson**, a scholar and director, to
+          moderate a conversation on theatre criticism in the SWANA artistic and
+          academic worlds across the region and the diaspora today. This panel
+          features scholar, dramaturg and former theater reviewer, **Dr. Aycan
+          Akçamete**, dramaturg and theatre journalist, **Yasmin Zacaria
+          Mikhaie**l, and playwright **Tariq Hamami** for a conversation that
+          seeks to analyze the status of “post”-pandemic theatre criticism and
+          desired pathways forward in academia and in praxis from SWANA artists.
+          Panelists will discuss topics of cultural competency, the multiple
+          forms of criticism, and the ways that SWANA artists and academics seek
+          to change the game.
+        cta: RSVP for free!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FHs00000HtQV7MAN
   - heading: New Threads Staged Reading Series 2023
     items:
       - text: >-
