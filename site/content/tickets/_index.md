@@ -1,7 +1,7 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "NO SUMMARY: Conversations with Artists Who Don’t Fit in a Box"
+  - heading: "No Summary: Conversations with Artists Who Don’t Fit in a Box"
     items:
       - title: "Episode 3: Critiquing the Critics: The Reception of SWANA Theater in
           North America "
