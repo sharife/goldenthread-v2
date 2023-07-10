@@ -4,7 +4,7 @@ headline: This August
 subtitle: ""
 background: https://ucarecdn.com/0a74a98c-45e8-4d5c-922e-96a4344fbb6d/
 cta: Learn More!
-link: https://goldenthread.org/tickets/
+link: https://goldenthread.org/productions/new-threads-staged-reading-series-2023/
 items:
   - subtitle: "**2023 Season Tickets On Sale Now!**"
     text: Our 27th season brings new work highlighting our commitment to uplift one
