@@ -18,7 +18,7 @@ programlabel: ""
 program: ""
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
-ticketlink: ""
+ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
 lists:
   - items:
