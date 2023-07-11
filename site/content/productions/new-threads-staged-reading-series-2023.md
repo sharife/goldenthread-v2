@@ -56,6 +56,6 @@ lists:
           El-Fattah’s recently-anthologized writings.
         cta: ""
         link: ""
-    heading: New Threads 2023 Lineup
+    heading: "New Threads 2023 "
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
