@@ -105,6 +105,8 @@ lists:
           competency, the multiple forms of criticism, and the ways that SWANA
           artists and academics seek to change the game.
         cta: Register for FREE!
+        link: https://goldenthread.org/tickets/
+        image: https://ucarecdn.com/8bcf7809-a143-4bbf-a98b-7110924d11c6/
       - itemstart: 2023-03-15T08:58:19.417Z
         itemend: 2023-03-15T08:58:19.438Z
         title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
