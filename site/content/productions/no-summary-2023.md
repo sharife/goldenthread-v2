@@ -104,6 +104,7 @@ lists:
           praxis from SWANA artists. Panelists will discuss topics of cultural
           competency, the multiple forms of criticism, and the ways that SWANA
           artists and academics seek to change the game.
+        cta: Register for FREE!
       - itemstart: 2023-03-15T08:58:19.417Z
         itemend: 2023-03-15T08:58:19.438Z
         title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
