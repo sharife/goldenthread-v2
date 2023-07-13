@@ -16,7 +16,9 @@ background: ""
 titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
 programlabel: ""
 program: ""
-stage: Brava Theater Center
+writer: Adam Ashraf Elsayigh, Tariq Hamami
+dramaturg: Salma Zohdi, Dawn Monique Williams
+stage: Brava Studio
 address: 2781 24th Street, San Francisco, CA 94110
 ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
@@ -24,8 +26,8 @@ lists:
   - items:
       - itemstart: ""
         itemend: ""
-        title: Black Panthers in Algiers
-        pre: ""
+        title: The Fox and the Panther
+        pre: working title
         subtitle: |-
           by **Tariq Hamami**
 
@@ -33,9 +35,9 @@ lists:
         text: Inspired by the Black Panthers’ residency in Algiers in the 1960s, Tariq
           Hamami explores the intersection of the Black American and Algerian
           battle against colonialism and white supremacy. Drawing from his own
-          family history, Hamami is developing a new play that will center the
-          Algerian experience while highlighting the global interconnection in
-          our ongoing struggle for freedom and human dignity.
+          family history, Hamami is developing a new play centering the Algerian
+          experience, while highlighting the global interconnection in our
+          ongoing struggle for freedom and human dignity.
         cta: ""
         link: ""
       - itemstart: ""
