@@ -59,5 +59,73 @@ lists:
         cta: ""
         link: ""
     heading: "New Threads 2023 "
+cast:
+  items:
+    - name: Adam Ashraf Elsayigh
+      credit: playwright, Alaa
+      image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
+      bio: "**[Adam Ashraf Elsayigh](https://www.adamaelsayigh.com/)** is an Egyptian
+        writer, theatre maker, and dramaturg who writes and develops plays that
+        interrogate the intersections of queerness, immigration, and
+        colonialism. Adam’s plays (including [Drowning in
+        Cairo](https://goldenthread.org/productions/drowning-in-cairo/),
+        *Revelation*, *Memorial*, and *Jamestown/ Williamsburg*) have been
+        developed and seen at New York Theatre Workshop, The Lark, The Tisch
+        School of the Arts, The LaGuardia Performing Arts Center, and Golden
+        Thread Productions. Adam is a fellow at Georgetown University's
+        Laboratory for Global Performance and an Alliance/Kendeda Award
+        Finalist. He holds a BA in Theatre with an emphasis in Playwriting and
+        Dramaturgy from NYU Abu Dhabi and is an MFA Candidate in Playwriting at
+        Brooklyn College. [](https://www.adamaelsayigh.com/)"
+    - name: Tariq Hamami
+      credit: playwright, The Fox and the Panther
+      image: https://ucarecdn.com/3c5eb938-b9a4-409d-809b-755da4169a86/
+      bio: "**[Tariq Hamami](https://newplayexchange.org/users/30856/tariq-hamami)**
+        is a New York based playwright best known for his plays *Smail*,
+        *Everything Will Be Alright*, *The Town of No One*, *Spite*, *White
+        Picket Fences*, *The One Percy Ent*, and the musical *The Life of Mary
+        Rogers* (co-written with Katherine Kavanagh and Thomas Hodges). He is a
+        recipient of the 2014 and 2019 Bauer-Boucher Award, and winner of the
+        2018 WINKS Reading Series produced by Wide Eyed Productions. Along with
+        writing, he is also a professor at the City College of New York and the
+        Borough of Manhattan Community College where he teaches theatre. His
+        plays look for the intersectionality of faith and culture, calling on
+        his multi-faith and multicultural upbringing. He is also a proud
+        subscriber of the Silly Town Theatre Company that performs nightly in
+        his living room on top of a toy box by his daughter and son."
+    - name: Dawn Monique Williams
+      credit: dramaturg, The Fox and the Panther
+      image: https://ucarecdn.com/cc0ed1f0-c187-40a3-9d32-869a4f29554d/
+      bio: "**[Dawn Monique Williams](https://www.dawnmoniquewilliams.com/)**
+        (she/her), an Oakland native, served four years as the Associate
+        Artistic Director at Aurora Theatre Company and was the Artistic
+        Associate and a resident artist at the Oregon Shakespeare Festival for
+        six seasons before that. She's worked in theatres across the US
+        including: The Kennedy Center, Orlando Shakespeare, American Shakespeare
+        Center, Cal Shakes, Profile Theatre (Portland), A.C.T., Chautauqua
+        Theatre Company, Marin Theatre Company, and African American Shakespeare
+        Company. Williams holds an MA in Dramatic Literature and an MFA in
+        Directing. She serves on the Board the of Directors of Theatre Bay
+        Area and the Playwrights’ Foundation, and is a member of The Drama
+        League National Directors Council."
+    - name: Salma Zohdi
+      image: https://ucarecdn.com/96cad96d-4b11-4d9f-9609-d9d4338fb818/
+      bio: "**[Salma S.
+        Zohdi](https://tisch.nyu.edu/about/directory/dramatic-writing/190469683\
+        0)** is an Egyptian Dramaturg living in the U.S. Salma is the Director
+        of Development & Communications at Noor Theatre Company, a Lucille
+        Lortel Award Voter, and an Adjunct Professor at NYU’s Department of
+        Dramatic Writing. Salma’s theatre credits include *The Mecca Tales*,
+        *The Yacoubian Building*, *Operating Systems*, *Mix & Match*, *The
+        Conversationalists*, *[Pilgrims Musa & Sheri in the New
+        World](https://goldenthread.org/about/people/#open-modal-Yussef%20El%20\
+        Guindi)*, *Global Forms Theatre Festival* (GFTF), *Silueta*, *Once Upon
+        A Time Called Now*, [Drowning in
+        Cairo](https://goldenthread.org/productions/drowning-in-cairo/), *House
+        of Joy*, *Finding Paradise*, and *MOTHERLAND*. Salma aspires to create
+        spaces where we can generously and inclusively examine art, culture,
+        community building, and the necessary global and social justice
+        conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
+        University - Theatre (Dramaturgy)."
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
