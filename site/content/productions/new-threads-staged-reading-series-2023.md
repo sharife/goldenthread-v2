@@ -95,7 +95,7 @@ cast:
         his living room on top of a toy box by his daughter and son."
     - name: Dawn Monique Williams
       credit: dramaturg, The Fox and the Panther
-      image: https://ucarecdn.com/cc0ed1f0-c187-40a3-9d32-869a4f29554d/
+      image: https://ucarecdn.com/bf2fe339-be17-4502-913e-6f909a53e090/
       bio: "**[Dawn Monique Williams](https://www.dawnmoniquewilliams.com/)**
         (she/her), an Oakland native, served four years as the Associate
         Artistic Director at Aurora Theatre Company and was the Artistic
