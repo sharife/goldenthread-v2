@@ -85,7 +85,7 @@ lists:
           North America"
         pre: Friday, August 4 at 11:00 AM PT
         text: In collaboration with the Middle Eastern Theatre focus group at the
-          Association for Theatre in Higher Education
+          **Association for Theatre in Higher Education**
           ([ATHE](https://www.athe.org/)) annual conference, Golden Thread
           Productions invites [Dr. Sarah Fahmy](https://drsarahfahmy.com/), a
           decolonial scholartist and co-founder of the Middle Eastern Theatre
