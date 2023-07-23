@@ -43,7 +43,7 @@ featuring: Rahaf Abuobeid, Lubana Al Quntar, Andrea Assaf, Alaa Ibrahim,
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
-ticketlink: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006teZZUAY
+ticketlink: ""
 ticketinfo: Tickets are $20-$100. No one will be turned away for lack of funds.
 cast:
   items:
