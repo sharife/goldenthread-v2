@@ -48,7 +48,7 @@ lists:
         cta: Watch the full episode
         subtitle: ""
         title: "Episode 1: Comedy as a Form of Solidarity and Resistance"
-        link: UH28IcPrh7E
+        link: XVSD 23WK 838C
         image: https://ucarecdn.com/493f6867-4282-4696-98df-9fd3d1e97027/
       - pre: Wednesday, June 7 at 11:00 AM PT
         itemend: 2023-03-15T08:56:26.816Z
