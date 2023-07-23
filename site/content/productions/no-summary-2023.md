@@ -45,10 +45,10 @@ lists:
           Students and general audiences will get the chance to ask their
           questions directly to the artist."
         itemstart: 2023-03-15T08:55:27.250Z
-        cta: Register for FREE!
+        cta: Watch the full episode
         subtitle: ""
         title: "Episode 1: Comedy as a Form of Solidarity and Resistance"
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoKSZUA2
+        link: UH28IcPrh7E
         image: https://ucarecdn.com/493f6867-4282-4696-98df-9fd3d1e97027/
       - pre: Wednesday, June 7 at 11:00 AM PT
         itemend: 2023-03-15T08:56:26.816Z
