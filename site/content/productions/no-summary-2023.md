@@ -45,10 +45,10 @@ lists:
           Students and general audiences will get the chance to ask their
           questions directly to the artist."
         itemstart: 2023-03-15T08:55:27.250Z
-        cta: Register for FREE!
+        cta: Watch the full episode
         subtitle: ""
         title: "Episode 1: Comedy as a Form of Solidarity and Resistance"
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0F3Z00000yoKSZUA2
+        link: https://www.youtube.com/watch?v=UH28IcPrh7E
         image: https://ucarecdn.com/493f6867-4282-4696-98df-9fd3d1e97027/
       - pre: Wednesday, June 7 at 11:00 AM PT
         itemend: 2023-03-15T08:56:26.816Z
@@ -73,11 +73,11 @@ lists:
 
           The panel will be joined by a MENA American Theater class at [California Polytechnic State University](https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/), designed by professor **[Hala Baki](https://theatredance.calpoly.edu/hala-baki-0)** to imagine how MENA theater can contribute to a more inclusive American culture, and a Plays and Styles drama class at the [University of Washington](https://drama.washington.edu/bachelor-arts-drama) taught by **[Mona Merhi](https://drama.washington.edu/people/mona-merhi)** who focused the course on topics related to race, ethnicity, and identity representation by examining the works of playwrights from the MENA region alongside modern and contemporary western texts.
         itemstart: 2023-03-15T08:56:26.799Z
-        cta: Register for FREE!
+        cta: Watch the full episode
         subtitle: with Theatre Students from California Polytechnic and University of
           Washington
         title: "Episode 2: MENA Playwrights on Storytelling"
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000007zoLbUAI
+        link: https://www.youtube.com/watch?v=JP2a9cT63Mg
         image: https://ucarecdn.com/10b90793-321b-4969-8553-0e3d77b2c921/
       - itemstart: 2023-03-15T08:57:32.975Z
         itemend: 2023-03-15T08:57:32.994Z
