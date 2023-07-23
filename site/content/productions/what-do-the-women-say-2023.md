@@ -44,7 +44,7 @@ stage: Brava Theater Center
 address: 2781 24th Street, San Francisco, CA 94110
 visitlink: https://www.brava.org/visit
 ticketlink: ""
-ticketinfo: Tickets are $20-$100. No one will be turned away for lack of funds.
+ticketinfo: Tickets $20-$100. No one turned away for lack of funds.
 cast:
   items:
     - name: Rahaf Abuobeid
