@@ -32,12 +32,14 @@ lists:
           by **Tariq Hamami**
 
           dramaturgy by **Dawn Monique Williams**
-        text: Inspired by the Black Panthers’ residency in Algiers in the 1960s, Tariq
-          Hamami explores the intersection of the Black American and Algerian
-          battle against colonialism and white supremacy. Drawing from his own
-          family history, Hamami is developing a new play centering the Algerian
-          experience, while highlighting the global interconnection in our
-          ongoing struggle for freedom and human dignity.
+        text: In the 1960s, Algeria established itself as the anti-colonial capital of
+          the world, hosting multiple revolutionaries including the Black
+          Panther Party. *The Fox and the Panther* follows the building of a
+          friendship between Nasi and Kati and their struggle to find where they
+          belong in the world. The play examines the idea of borders, not just
+          national but cultural and familial as well. Nasi and Kati both
+          struggle to connect with their parents in a time of great political
+          change.
         cta: ""
         link: ""
       - itemstart: ""
