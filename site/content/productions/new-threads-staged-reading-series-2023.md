@@ -32,12 +32,14 @@ lists:
           by **Tariq Hamami**
 
           dramaturgy by **Dawn Monique Williams**
-        text: Inspired by the Black Panthers’ residency in Algiers in the 1960s, Tariq
-          Hamami explores the intersection of the Black American and Algerian
-          battle against colonialism and white supremacy. Drawing from his own
-          family history, Hamami is developing a new play centering the Algerian
-          experience, while highlighting the global interconnection in our
-          ongoing struggle for freedom and human dignity.
+        text: In the 1960s, Algeria established itself as the anti-colonial capital of
+          the world, hosting multiple revolutionaries including the Black
+          Panther Party. *The Fox and the Panther* follows the building of a
+          friendship between Nasi and Kati and their struggle to find where they
+          belong in the world. The play examines the idea of borders, not just
+          national but cultural and familial as well. Nasi and Kati both
+          struggle to connect with their parents in a time of great political
+          change.
         cta: ""
         link: ""
       - itemstart: ""
@@ -48,14 +50,16 @@ lists:
           by **Adam Ashraf Elsayigh**
 
           generative dramaturgy by **Salma Zohdi**
-        text: Adam Ashraf Elsayigh and Salma Zohdi are developing a new play that honors
-          the story of British-Egyptian blogger and high-profile political
-          prisoner, Abd El-Fattah, who has spent much of the last decade and
-          remains to this day imprisoned in Cairo. Abd El-Fattah continues to
-          write from his confinement, somehow smuggling treatises to the outside
-          world. Elsayigh’s *Alaa* will invite audiences into a world that
-          juxtaposes physical storytelling and embodied ritual using Abd
-          El-Fattah’s recently-anthologized writings.
+        text: >-
+          In 2011, techie Alaa Abd El-Fattah emerged as a leading voice in the
+          Egyptian Revolution through his animated political writings and
+          activism. But Alaa has spent much of the decade since in Cairo
+          Prisons, unlawfully held by a military regime seeking to crush him and
+          the revolutionary movement he belonged to.\
+
+          Yet, they fail every day.\
+
+          Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, Alaa: A Family Trilogy is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
         cta: ""
         link: ""
     heading: "New Threads 2023 "
