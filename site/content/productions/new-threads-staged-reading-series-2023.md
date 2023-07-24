@@ -50,14 +50,16 @@ lists:
           by **Adam Ashraf Elsayigh**
 
           generative dramaturgy by **Salma Zohdi**
-        text: Adam Ashraf Elsayigh and Salma Zohdi are developing a new play that honors
-          the story of British-Egyptian blogger and high-profile political
-          prisoner, Abd El-Fattah, who has spent much of the last decade and
-          remains to this day imprisoned in Cairo. Abd El-Fattah continues to
-          write from his confinement, somehow smuggling treatises to the outside
-          world. Elsayigh’s *Alaa* will invite audiences into a world that
-          juxtaposes physical storytelling and embodied ritual using Abd
-          El-Fattah’s recently-anthologized writings.
+        text: >-
+          In 2011, techie Alaa Abd El-Fattah emerged as a leading voice in the
+          Egyptian Revolution through his animated political writings and
+          activism. But Alaa has spent much of the decade since in Cairo
+          Prisons, unlawfully held by a military regime seeking to crush him and
+          the revolutionary movement he belonged to.\
+
+          Yet, they fail every day.\
+
+          Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, Alaa: A Family Trilogy is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
         cta: ""
         link: ""
     heading: "New Threads 2023 "
