@@ -43,14 +43,8 @@ lists:
         title: The Fox and the Panther
         link: ""
         image: https://ucarecdn.com/758b878b-fb0c-4ce1-b771-ee3a6ef12faf/
-      - itemstart: ""
-        itemend: ""
-        title: Alaa
-        pre: ""
-        subtitle: |-
-          by **Adam Ashraf Elsayigh**
-
-          generative dramaturgy by **Salma Zohdi**
+      - pre: ""
+        itemend: 2023-08-28T04:00:00.000Z
         text: >-
           In 2011, techie Alaa Abd El-Fattah emerged as a leading voice in the
           Egyptian Revolution through his animated political writings and
@@ -61,8 +55,15 @@ lists:
           Yet, they fail every day.\
 
           Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, Alaa: A Family Trilogy is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
+        itemstart: 2023-08-28T02:00:00.000Z
         cta: ""
+        subtitle: |-
+          by **Adam Ashraf Elsayigh**
+
+          generative dramaturgy by **Salma Zohdi**
+        title: Alaa
         link: ""
+        image: https://ucarecdn.com/6d8d0824-7e5e-4a6f-b8bf-f0cf1da6da1d/
     heading: "New Threads 2023 "
 cast:
   items:
