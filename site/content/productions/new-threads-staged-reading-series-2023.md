@@ -150,6 +150,26 @@ cast:
         As a director and dramaturg, Karina has had the pleasure of working with Bay Area Children’s Theatre, BRAVA, Crowded Fire, Huntington Theatre, Magic Theatre, PlayGround, Playwright’s Foundation, Shotgun Players, Stanford University, TheatreFirst, Townhall Theatre, UC Berkeley, West Edge Opera, and Word for Word. She is a member of the Latinx Theatre Commons Steering Committee, Board member at Crowded Fire Theatre, Theatre Bay Area, and a founding member of the Bay Area Latinx Theatre Alliance Network (BALTAN).
 
         Karina received her Ph.D. in Theatre and Performance Studies from Stanford University, where she was awarded the Carl Weber Prize for integration of Creative Practice and Scholarly Research. Her scholarship concentrates on the intersection of politics and performance, specifically how digital interventions, institutionalization efforts, and historical narrative affect the development and sustainability of social and politically engaged performance companies and collectives in the Americas. She is currently a professor of Theatre History and Performance Studies in the Department of Theatre and Dance and Santa Clara University.
+    - name: Sofia Ahmad
+      credit: cast, The Fox and the Panther
+      image: https://ucarecdn.com/47ec7857-7d11-40d2-a8ca-bd2c9cf5eefd/-/crop/906x1141/260,0/-/preview/
+      bio: "Sofia Ahmad is a [Resident Artist](https://goldenthread.org/about/people/)
+        with Golden Thread. Previous Golden Thread productions include: *[On The
+        Periphery](https://goldenthread.org/productions/on-the-periphery/)* (a
+        Crowded Fire co-production in 2020), *[ReOrient
+        2019](https://goldenthread.org/productions/reorient-2019/)*, *[The Most
+        Dangerous Highway in the
+        World](https://goldenthread.org/productions/most-dangerous-highway/)*
+        (2016), *[Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/)* (an
+        African-American Shakespeare Company co-production in 2015), and *[Love
+        Missile](https://goldenthread.org/productions/the-love-missile/)*
+        (2003). Other local acting credits include American Conservatory
+        Theatre, Bay Area Playwrights Festival, Berkeley Repertory Theatre,
+        Magic Theatre, Pacific Repertory Theater, PlayGround, Word for Word, San
+        Francisco Shakespeare Festival, Shakespeare Santa Cruz, and Those Women
+        Productions. Sofia is a graduate of NYU’s Tisch School of the Arts and a
+        proud member of AEA and SAG-AFTRA."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
