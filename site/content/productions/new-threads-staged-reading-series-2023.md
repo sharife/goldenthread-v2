@@ -247,6 +247,37 @@ cast:
         Jessica enjoys spending her time traveling, playing soccer, and with
         family and friends. She is grateful to her family for their love and
         support as she navigates a life in the arts."
+    - name: Nora El Samahy
+      credit: cast, Alaa
+    - name: Nakissa Etemad
+      credit: cast, Alaa
+      image: https://ucarecdn.com/8ff3f6c9-96a1-4bf1-97e7-55ec5e870734/
+      bio: "**Nakissa Etemad** (she/her) is an Iranian American dramaturg, producer,
+        director, and French translator, specializing in new BIPOC plays and
+        musicals for 30 years. A [Resident
+        Artist](https://goldenthread.org/about/people/) of Golden Thread,
+        Regional VP Metro Bay Area for LMDA, and the recent Associate Artistic
+        Director of Marin Theatre Company, she is proud to return to the stage
+        as an actor for New Threads. Recent dramaturgy & producing credits
+        include the world premieres of *Justice: A New Musical* by Gunderson,
+        Lowdermilk, and Kerrigan (Marin Theatre Co.) and *Hotter Than Egypt* by
+        Yussef El Guindi (world premiere co-production at Marin Theatre Co. &
+        ACT in Seattle; dramaturg for second production at Denver Center for the
+        Performing Arts). Previous Golden Thread credits include Lead Dramaturg
+        for *[ReOrient
+        2019](https://goldenthread.org/productions/reorient-2019/)* & Asst.
+        Director for Lameece Issaq’s *Noor and Hadi Go to Hogwart’s* and Naomi
+        Wallace’s *The Book of Mima*; Dramaturg for *[On Behalf of All Muslims:
+        A Comedy Special](https://goldenthread.org/productions/obam-2019/)* by
+        Zahra Noorbakhsh (2019); Lead Dramaturg for *[ReOrient
+        2017](https://goldenthread.org/productions/reorient-2017/)* & Dramaturg
+        for Betty Shamieh’s *Make No Mistake* and Torange Yeghiazarian’s
+        *Thanksgiving at Khodabakhshian’s*; and Dramaturg, Creative
+        Collaborator, and Casting Director for *[Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/)* by Torange
+        Yeghiazarian, with music by Marcus Shelby (2015). Next, Nakissa will
+        serve as Lead Dramaturg for the upcoming *[ReOrient 2023
+        Festival](https://goldenthread.org/productions/reorient-2023/)*."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
