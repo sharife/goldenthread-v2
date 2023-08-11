@@ -333,6 +333,55 @@ cast:
     - name: Erk Şekercioğlu
       image: https://ucarecdn.com/59a19ad1-314e-4081-9d0b-472391bf70d6/-/crop/3238x4165/1743,348/-/preview/
       credit: cast, Alaa
+    - name: Torange Yeghiazarian
+      credit: cast, Alaa
+      image: https://ucarecdn.com/cd50f6b3-02e2-471c-8684-d507802fba96/-/crop/931x1148/517,46/-/preview/
+      bio: "**Torange Yeghiazarian** (she/her) is the [Founding Artistic Director
+        Emeritus](https://goldenthread.org/about/people/) of Golden Thread
+        Productions, the first American theatre company focused on the Middle
+        East where she launched such visionary programs as [ReOrient
+        Festival](https://goldenthread.org/programs/reorient/), [New
+        Threads](https://goldenthread.org/programs/new-threads/), [Fairytale
+        Players](https://goldenthread.org/programs/fairytale-players/), and
+        [What Do the Women
+        Say?](https://goldenthread.org/programs/what-do-the-women-say/), and
+        timely initiatives such as [Islam
+        101](https://goldenthread.org/programs/new-plays/) and Project Alo?
+        Torange has been recognized by Theatre Bay Area and is one of Theatre
+        Communication Group’s Legacy Leaders of Color. She was honored by the
+        Cairo International Theatre Festival and the Symposium on Equity in the
+        Entertainment Industry at Stanford University. A playwright, director,
+        and translator, Torange contributed a case study chapter to [Casting a
+        Movement](https://www.routledge.com/Casting-a-Movement-The-Welcome-Tabl\
+        e-Initiative/Syler-Banks/p/book/9781138594777), Routledge, 2019. Her
+        translation and stage adaptation of Nizami’s *Leyla & Majnun* is
+        published on Gleeditions.com. She has been published in The Drama
+        Review, American Theatre Magazine, AmerAsia Journal, and contributed to
+        Encyclopedia of Women & Islamic Cultures and Cambridge World
+        Encyclopedia of Stage Actors. At Golden Thread, Torange directed *[Oh My
+        Sweet Land](https://goldenthread.org/productions/sweet-land/)* by Amir
+        Nizar Zuabi (2018), and the premieres of *[Our Enemies: Lively Scenes Of
+        Love And Combat](https://goldenthread.org/productions/our-enemies/)*
+        (2016) and *[Scenic
+        Routes](https://goldenthread.org/productions/scenic-routes/)* (2002) by
+        Yussef El Guindi, *The Myth Of Creation* by Sadegh Hedayat, *Tamam* by
+        Betty Shamieh, *Stuck* by Amir Al-Azraki, *Voice Room* by Reza Soroor,
+        and adapted the poem, *I Sell Souls* by Simin Behbehani for the stage.
+        Torange was a member of the artistic team that developed
+        *[Benedictus](https://goldenthread.org/productions/benedictus/)*, a
+        collaboration among Iranian, Israeli, and American artists (2007). She
+        received a Gerbode-Hewlett Playwright Commission Award for *[Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/)* (2015), a
+        co-production with African American Shakespeare Company, and a
+        commission from the Islamic Cultural Center of Northern California to
+        write *[The Fifth String: Ziryab’s Passage to
+        Cordoba](https://goldenthread.org/productions/the-fifth-string-ziryabs-\
+        passage-to-cordoba/)* (2014). Other plays include *[444
+        Days](https://goldenthread.org/productions/444-days/)* (2013), *Waves*,
+        and *Call Me Mehdi*, included in the anthology “Salaam. Peace: An
+        Anthology of Middle Eastern-American Drama,” TCG, 2009. Born in Iran and
+        of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
+        from San Francisco State University."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
