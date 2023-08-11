@@ -52,7 +52,7 @@ lists:
           Prisons, unlawfully held by a military regime seeking to crush him and
           the revolutionary movement he belonged to.\
 
-          Yet, they fail every day.\
+          *Yet, they fail every day.*\
 
           Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, Alaa: A Family Trilogy is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
         itemstart: 2023-08-28T02:00:00.000Z
