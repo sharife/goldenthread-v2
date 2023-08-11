@@ -140,8 +140,8 @@ cast:
       credit: director, Alaa
       image: https://ucarecdn.com/5cc8dfe8-c9f3-4f03-aed3-6292f7f4e271/
       bio: >-
-        Karina Gutiérrez (she/her) is a Bay Area-based director, dramaturg, and
-        scholar. She is passionate about supporting new play development,
+        **Karina Gutiérrez** (she/her) is a Bay Area-based director, dramaturg,
+        and scholar. She is passionate about supporting new play development,
         fostering local artists, and creating welcoming, equitable, and
         accessible theatre spaces and classrooms. She considers theatre a
         powerful space for social change and the mending, healing, and restoring
