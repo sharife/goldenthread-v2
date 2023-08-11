@@ -330,6 +330,9 @@ cast:
         Berries](https://goldenthread.org/productions/the-language-of-wild-berr\
         ies-2022/)* (2022) and Omid U/S in *English* at Berkeley Repertory
         Theatre. Zaya loves come back home and working at Golden Thread!"
+    - name: Erk Şekercioğlu
+      image: https://ucarecdn.com/59a19ad1-314e-4081-9d0b-472391bf70d6/-/crop/3238x4165/1743,348/-/preview/
+      credit: cast, Alaa
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
