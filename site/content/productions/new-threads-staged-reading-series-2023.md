@@ -83,6 +83,36 @@ cast:
         his multi-faith and multicultural upbringing. He is also a proud
         subscriber of the Silly Town Theatre Company that performs nightly in
         his living room on top of a toy box by his daughter and son."
+    - name: Dawn Monique Williams
+      credit: dramaturg, The Fox and the Panther
+      image: https://ucarecdn.com/bf2fe339-be17-4502-913e-6f909a53e090/
+      bio: "**[Dawn Monique Williams](https://www.dawnmoniquewilliams.com/)**
+        (she/her), an Oakland native, served four years as the Associate
+        Artistic Director at Aurora Theatre Company and was the Artistic
+        Associate and a resident artist at the Oregon Shakespeare Festival for
+        six seasons before that. She's worked in theatres across the US
+        including: The Kennedy Center, Orlando Shakespeare, American Shakespeare
+        Center, Cal Shakes, Profile Theatre (Portland), A.C.T., Chautauqua
+        Theatre Company, Marin Theatre Company, and African American Shakespeare
+        Company. Williams holds an MA in Dramatic Literature and an MFA in
+        Directing. She serves on the Board the of Directors of Theatre Bay
+        Area and the Playwrights’ Foundation, and is a member of The Drama
+        League National Directors Council."
+    - name: Leontyne Mbele-Mbong*
+      credit: director, The Fox and the Panther
+      image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
+      bio: "**[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) was
+        last seen at the Aurora Theatre as Renee in *Hurricane Diane*, Roxane in
+        *Cyrano*, and *Bull in a China Shop*, *Temple*, and *Breakfast with
+        Mugabe*. Other recent shows: *Fefu and her Friends* at A.C.T., *Lear* at
+        CalShakes. Some favorites: title role in *Medea* (TBA Award), and
+        *Cleopatra* in Antony & Cleopatra (TBA Award Finalist) with
+        African-American Shakespeare Company; *The Half-Life of Marie Curie*
+        (TheatreSquared, Fayetteville, AK); *Watch on the Rhine* (Berkeley
+        Rep/Guthrie Theatre), *Top Girls*, *The Last Days of Judas Iscariot*,
+        *Fences*; *Andromache*, *Candide*, *Richard III* (3 times), *Twelfth
+        Night*, and *Intimate Apparel* (Mayme; ARTY Award, best supporting
+        actress)."
     - name: Adam Ashraf Elsayigh
       credit: playwright, Alaa
       image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
@@ -99,21 +129,6 @@ cast:
         Finalist. He holds a BA in Theatre with an emphasis in Playwriting and
         Dramaturgy from NYU Abu Dhabi and is an MFA Candidate in Playwriting at
         Brooklyn College. [](https://www.adamaelsayigh.com/)"
-    - name: Dawn Monique Williams
-      credit: dramaturg, The Fox and the Panther
-      image: https://ucarecdn.com/bf2fe339-be17-4502-913e-6f909a53e090/
-      bio: "**[Dawn Monique Williams](https://www.dawnmoniquewilliams.com/)**
-        (she/her), an Oakland native, served four years as the Associate
-        Artistic Director at Aurora Theatre Company and was the Artistic
-        Associate and a resident artist at the Oregon Shakespeare Festival for
-        six seasons before that. She's worked in theatres across the US
-        including: The Kennedy Center, Orlando Shakespeare, American Shakespeare
-        Center, Cal Shakes, Profile Theatre (Portland), A.C.T., Chautauqua
-        Theatre Company, Marin Theatre Company, and African American Shakespeare
-        Company. Williams holds an MA in Dramatic Literature and an MFA in
-        Directing. She serves on the Board the of Directors of Theatre Bay
-        Area and the Playwrights’ Foundation, and is a member of The Drama
-        League National Directors Council."
     - name: Salma Zohdi
       image: https://ucarecdn.com/96cad96d-4b11-4d9f-9609-d9d4338fb818/
       bio: "**[Salma S.
@@ -134,21 +149,6 @@ cast:
         conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
         University - Theatre (Dramaturgy)."
       credit: dramaturg, Alaa
-    - name: Leontyne Mbele-Mbong*
-      credit: director, The Fox and the Panther
-      image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
-      bio: "**[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) was
-        last seen at the Aurora Theatre as Renee in *Hurricane Diane*, Roxane in
-        *Cyrano*, and *Bull in a China Shop*, *Temple*, and *Breakfast with
-        Mugabe*. Other recent shows: *Fefu and her Friends* at A.C.T., *Lear* at
-        CalShakes. Some favorites: title role in *Medea* (TBA Award), and
-        *Cleopatra* in Antony & Cleopatra (TBA Award Finalist) with
-        African-American Shakespeare Company; *The Half-Life of Marie Curie*
-        (TheatreSquared, Fayetteville, AK); *Watch on the Rhine* (Berkeley
-        Rep/Guthrie Theatre), *Top Girls*, *The Last Days of Judas Iscariot*,
-        *Fences*; *Andromache*, *Candide*, *Richard III* (3 times), *Twelfth
-        Night*, and *Intimate Apparel* (Mayme; ARTY Award, best supporting
-        actress)."
     - name: Karina Gutiérrez
       credit: director, Alaa
       image: https://ucarecdn.com/5cc8dfe8-c9f3-4f03-aed3-6292f7f4e271/
