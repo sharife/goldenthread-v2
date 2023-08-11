@@ -136,6 +136,7 @@ cast:
       credit: dramaturg, Alaa
     - name: Leontyne Mbele-Mbong
       credit: director, The Fox and the Panther
+      image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
     - name: Karina Gutiérrez
       credit: director, Alaa
       image: https://ucarecdn.com/5cc8dfe8-c9f3-4f03-aed3-6292f7f4e271/
