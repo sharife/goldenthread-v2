@@ -307,6 +307,29 @@ cast:
         Awards. Iman is represented by Gray Talent Group. She would like to
         thank her family and her partner Evan. This and every performance is for
         Emma, who inspired, challenged, and loved her through everything."
+    - name: Zaya Kolia*
+      credit: cast, Alaa
+      image: https://ucarecdn.com/49a44845-6413-42dd-8391-b1c0d75ef559/-/crop/1062x1264/0,0/-/preview/
+      bio: "**Zaya Kolia** (he/him) is an Assyrian, Bay Area native. He received his
+        Bachelor in Fine Arts in Acting from the Academy of Art University where
+        his credits include Flan in *Six Degrees of Separation*, Joshua and
+        Martin in *Cloud Nine*, Barnett in *Crimes of the Heart*, Aldolpho in
+        *The Drowsy Chaperone* and Kevin Rosario in *In the Heights*. Other
+        credits include Frank Jr. in *Saturday Night Fever* at Broadway by the
+        Bay, *The Wizard of Oz* at Berkeley Playhouse, Khadim in *The North
+        Pool* at Bread & Butter Theatre, The Captain in *Anything Goes* at
+        Hillbarn Theatre, Ludovic and Augenti in *Passion*, Harry and Martin in
+        *Cloud Nine* both at The Custom Made Theatre Company, Azad in *[On the
+        Periphery](https://goldenthread.org/productions/on-the-periphery/)* with
+        Golden Thread and Crowded Fire Theatre (2020), *Tiny Beautiful Things*
+        at Los Altos Stage Company and *Guys and Dolls* at Peninsula Ballet
+        Theater as Sky Masterson. He now resides in L.A. where he just
+        participated in the Hollywood Fringe Festival and a tour of *Romeo and
+        Juliet*! He most recently originated the role of Danial in the world
+        premiere of *[The Language of Wild
+        Berries](https://goldenthread.org/productions/the-language-of-wild-berr\
+        ies-2022/)* (2022) and Omid U/S in *English* at Berkeley Repertory
+        Theatre. Zaya loves come back home and working at Golden Thread!"
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
