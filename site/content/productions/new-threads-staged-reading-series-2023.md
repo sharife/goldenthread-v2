@@ -250,6 +250,7 @@ cast:
         support as she navigates a life in the arts."
     - name: Nora El Samahy
       credit: cast, Alaa
+      image: https://ucarecdn.com/d2db0315-2730-44fd-acdd-235d92d33a8c/-/crop/569x807/170,113/-/preview/
     - name: Nakissa Etemad
       credit: cast, Alaa
       image: https://ucarecdn.com/8ff3f6c9-96a1-4bf1-97e7-55ec5e870734/
