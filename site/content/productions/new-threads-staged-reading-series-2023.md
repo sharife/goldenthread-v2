@@ -137,6 +137,18 @@ cast:
     - name: Leontyne Mbele-Mbong*
       credit: director, The Fox and the Panther
       image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
+      bio: "**[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) was
+        last seen at the Aurora Theatre as Renee in *Hurricane Diane*, Roxane in
+        *Cyrano*, and *Bull in a China Shop*, *Temple*, and *Breakfast with
+        Mugabe*. Other recent shows: *Fefu and her Friends* at A.C.T., *Lear* at
+        CalShakes. Some favorites: title role in *Medea* (TBA Award), and
+        *Cleopatra* in Antony & Cleopatra (TBA Award Finalist) with
+        African-American Shakespeare Company; *The Half-Life of Marie Curie*
+        (TheatreSquared, Fayetteville, AK); *Watch on the Rhine* (Berkeley
+        Rep/Guthrie Theatre), *Top Girls*, *The Last Days of Judas Iscariot*,
+        *Fences*; *Andromache*, *Candide*, *Richard III* (3 times), *Twelfth
+        Night*, and *Intimate Apparel* (Mayme; ARTY Award, best supporting
+        actress)."
     - name: Karina Gutiérrez
       credit: director, Alaa
       image: https://ucarecdn.com/5cc8dfe8-c9f3-4f03-aed3-6292f7f4e271/
