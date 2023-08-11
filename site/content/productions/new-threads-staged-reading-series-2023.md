@@ -214,6 +214,21 @@ cast:
         from UPenn, and is a member of the first cohort of Making Good Trouble,
         whose goal is to empower San Francisco Bay Area artists and staff to
         become anti-racism trainers. Black Lives Matter."
+    - name: Mayreni Sweis
+      credit: cast, The Fox and the Panther
+      image: https://ucarecdn.com/fc7b97cc-af2c-4431-a8bb-59e2652e60f4/-/crop/687x767/0,0/-/preview/
+      bio: "**Mayreni Sweis** (she/her) is a film and theatre actor, New Conservatory
+        Theatre Teaching Artist, public speaking teacher, writer, and creative
+        artist. She received her B.F.A. Acting for the Stage and Screen from
+        Azusa Pacific University where she honed her craft in voice, movement,
+        Shakespeare, stage + camera acting, and more. Mayreni went on to study
+        at NYU's Atlantic Acting School and at San Francisco's American
+        Conservatory of Theater. Some of her favorite projects include the award
+        winning short film Golden, The Peripatetic Players Summer Tour: A Lord
+        of a Ring in a Suitcase!, Thorton Wilder's *Our Town*, Margaret Atwood's
+        *The Penelopiad*, *The Shape of Things* at Town Hall Theater, Crowded
+        Fire’s staged reading of *Pilgrimage*, and all of Shakespeare's work
+        she's gotten to dive into!"
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
