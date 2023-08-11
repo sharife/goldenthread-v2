@@ -54,7 +54,7 @@ lists:
 
           *Yet, they fail every day.*\
 
-          Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, Alaa: A Family Trilogy is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
+          Weaving writings and personal testimonials from Alaa and his family members, alongside vivid memoryscapes and haunting images, **Alaa: A Family Trilogy** is an epic dramatization of a single family's unwavering resistance at the heart of a nation's fight for justice.
         itemstart: 2023-08-28T02:00:00.000Z
         cta: ""
         subtitle: |-
