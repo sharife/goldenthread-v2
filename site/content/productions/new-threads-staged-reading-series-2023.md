@@ -251,6 +251,18 @@ cast:
     - name: Nora El Samahy
       credit: cast, Alaa
       image: https://ucarecdn.com/d2db0315-2730-44fd-acdd-235d92d33a8c/-/crop/569x807/170,113/-/preview/
+      bio: "**Nora el Samahy**’s *(she/her)* professional acting career began in 1998
+        as a Fairy in San Francisco Shakespeare Festival’s production of *A
+        Midsummer Night's Dream*. She then went on to work with Campo Santo,
+        Golden Thread Productions, Alter Theater, Aurora Theatre, Magic Theatre,
+        foolsFURY, Traveling Jewish Theatre, Berkeley Repertory Theatre, Exit
+        Theater, Theatre Rhinoceros, Woman’s Will, Shotgun Players, African
+        American Shakespeare Company, among others. In 2013, Nora founded a
+        performance company called Affinity Project with Atosa Babaoff, Beatrice
+        Basso, and Emily Hoffman. Nora is a Pilates teacher and co-owner of
+        studio 74 pilates with business partner Jennifer Moulton. She received
+        her BA in psychology from Wellesley College. Love and thanks to Patrick
+        and Ziyad."
     - name: Nakissa Etemad
       credit: cast, Alaa
       image: https://ucarecdn.com/8ff3f6c9-96a1-4bf1-97e7-55ec5e870734/
