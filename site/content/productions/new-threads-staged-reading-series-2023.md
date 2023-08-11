@@ -170,6 +170,18 @@ cast:
         Francisco Shakespeare Festival, Shakespeare Santa Cruz, and Those Women
         Productions. Sofia is a graduate of NYU’s Tisch School of the Arts and a
         proud member of AEA and SAG-AFTRA."
+    - name: AeJay Marquis Mitchell*
+      credit: cast, The Fox and the Panther
+      image: https://ucarecdn.com/551e2be2-6cd1-42d7-b9c3-9f3415af8f75/-/crop/965x1361/635,4/-/preview/
+      bio: "**AeJay Mitchell** (they/them) is a multi-hyphenate performance artist,
+        educator, and activist whose work centers the decolonization of the
+        theatrical canon, the black avant-garde, and queer political performance
+        practice. They were most recently witnessed in the critically acclaimed
+        *Ni¿¿er Lovers* at The Magic Theatre and served as the co-director,
+        choreographer, and vocal arranger for the world premiere of Ryan M.
+        Luevano's *Dance Plague*. They are a member of the Black Artists
+        Contemporary Cultural Experience collective, Literary Manager and
+        Dramaturgs of the Americas, and Actor's Equity Association."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
