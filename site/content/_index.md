@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: This August
 subtitle: ""
-background: https://ucarecdn.com/0a74a98c-45e8-4d5c-922e-96a4344fbb6d/
+background: https://ucarecdn.com/2daeaf94-adc6-454e-8e23-fbe2b3956946/
 cta: Learn More!
 link: https://goldenthread.org/productions/new-threads-staged-reading-series-2023/
 items:
