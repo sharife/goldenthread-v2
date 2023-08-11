@@ -292,6 +292,21 @@ cast:
         productions such as *The Eighth Voyage of Sinbad*, *The Butterfly*,
         *Dolls* and *Interview*.  He started his theater debut with Theater
         Telos's *Lower Depths* (Gorky) and De Ghelderode's *Pantagleize*."
+    - name: Iman Kamel
+      credit: cast, Alaa
+      image: https://ucarecdn.com/ae375290-a4f1-4dd0-b7ec-af06a2f92fa7/-/crop/1302x1598/0,0/-/preview/
+      bio: "**Iman Kamel** (she/her) is a Chicago based actor and writer. Most
+        recently she could be seen in About Face Theatre’s production of
+        *Mosque4Mosque* and *Arabia! Arabia!* with the Plagiarists. She is a
+        graduate student at Northwestern University where she is receiving her
+        Masters of Literature. She will be writing her thesis on French colonial
+        influence of the North African literary movement in the twentieth
+        century. In addition, Iman’s recent short script *Morning, Noon, and
+        Night* was an official selection for the Santa Barbara International
+        Screenwriter Awards and a winner at the New York International Film
+        Awards. Iman is represented by Gray Talent Group. She would like to
+        thank her family and her partner Evan. This and every performance is for
+        Emma, who inspired, challenged, and loved her through everything."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
