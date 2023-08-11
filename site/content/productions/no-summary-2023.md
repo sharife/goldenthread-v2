@@ -104,8 +104,8 @@ lists:
           praxis from SWANA artists. Panelists will discuss topics of cultural
           competency, the multiple forms of criticism, and the ways that SWANA
           artists and academics seek to change the game.
-        cta: Register for FREE!
-        link: https://goldenthread.org/tickets/
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=Ai32eb7L8XU
         image: https://ucarecdn.com/8bcf7809-a143-4bbf-a98b-7110924d11c6/
       - itemstart: 2023-03-15T08:58:19.417Z
         itemend: 2023-03-15T08:58:19.438Z
