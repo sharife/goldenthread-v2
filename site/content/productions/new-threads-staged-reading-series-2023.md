@@ -229,6 +229,24 @@ cast:
         *The Penelopiad*, *The Shape of Things* at Town Hall Theater, Crowded
         Fire’s staged reading of *Pilgrimage*, and all of Shakespeare's work
         she's gotten to dive into!"
+    - name: Jessica Tate Simms
+      credit: cast, The Fox and the Panther
+      image: https://ucarecdn.com/4ea67b71-163e-43b9-aa87-1b3b47e420cb/-/crop/768x1086/181,0/-/preview/
+      bio: "**Jessica Tate Simms** (she/her), a recent graduate from Santa Clara
+        University’s class of 2023, is excited to make her Golden Thread
+        Productions debut. Jessica has a Bachelor’s degree in Musical Theater
+        and Communication. For her contributions to Santa Clara’s Theater and
+        Dance department, Jessica received the Charles Lampkin Award for
+        Performance and the Theater Spirit Award, which recognized her work in
+        many performances such as Helena in *A Midsummer Night’s Dream*,
+        Stepmother in *Into The Woods*, and an original play titled *What Do You
+        See When You Look at Me?* co-written and directed by Jessica. Jessica’s
+        passion for the arts extends into several mediums including theater,
+        film, dancing, and singing. She hopes to continue her training in all of
+        these skills and pursue a career in the arts. Outside of the theater,
+        Jessica enjoys spending her time traveling, playing soccer, and with
+        family and friends. She is grateful to her family for their love and
+        support as she navigates a life in the arts."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
