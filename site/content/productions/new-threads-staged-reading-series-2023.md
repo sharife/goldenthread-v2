@@ -194,6 +194,26 @@ cast:
         Theatre, Magic Theatre, Marin Theatre Company, New Conservatory Theatre
         Center, San Jose Stage, and Thick Description, to name a few."
       image: https://ucarecdn.com/3c8b2fe1-dbed-4992-aced-8a1f6082afa4/-/crop/1123x1563/183,0/-/preview/
+    - name: Cathleen Riddley*
+      credit: cast, The Fox and the Panther
+      image: https://ucarecdn.com/9d631b07-d473-4bcb-9b42-1376f6452069/-/crop/1384x1514/116,0/-/preview/
+      bio: "**Cathleen Riddley** (she/her) is thrilled to be making her debut at
+        Golden Thread! After beginning her career at the Community Playhouse in
+        Des Moines, Iowa (playing Jiminy Cricket in *Pinocchio* at the ripe old
+        age of 8) she knew that a life in the theatre was what her heart wanted.
+        Since then, she has become a multiple award-winning San Francisco Bay
+        Area (and beyond) actor. Favorite roles include The Cowardly Lion in
+        *The Wizard of Oz* at American Conservatory Theatre, Nina in *The
+        Incrementalist* at Aurora Theatre, Mrs. Price in *Tree* at San Francisco
+        Playhouse, Paulina in *The Winter’s Tale* at Cal Shakes, Rose in
+        *Fences* at Sacramento Theatre Company, Lena in *brownsville song (b
+        side for tray)* and every role in *Hamlet* (seriously) at Shotgun
+        Players. As a blossoming director, she has directed staged readings at
+        Shotgun Players, The Lorraine Hansberry Theatre, and the online Affinity
+        series at TheatreFirst. She is a certified ASL Interpreter, has an MA
+        from UPenn, and is a member of the first cohort of Making Good Trouble,
+        whose goal is to empower San Francisco Bay Area artists and staff to
+        become anti-racism trainers. Black Lives Matter."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
