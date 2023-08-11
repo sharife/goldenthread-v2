@@ -183,6 +183,17 @@ cast:
         Luevano's *Dance Plague*. They are a member of the Black Artists
         Contemporary Cultural Experience collective, Literary Manager and
         Dramaturgs of the Americas, and Actor's Equity Association."
+    - name: Lawrence Radecker*
+      credit: cast, The Fox and the Panther
+      bio: "**Lawrence Radecker** (he/him) is a [Resident
+        Artist](https://goldenthread.org/about/people/) with Golden Thread where
+        he has developed and debuted roles in many of their world premiers. Most
+        recently he was seen in Berkeley Repertory Theatre's production of *Let
+        the Right One In*. He has also worked with numerous other theatre
+        companies, including Aurora Theatre, Crowded Fire Theatre, Impact
+        Theatre, Magic Theatre, Marin Theatre Company, New Conservatory Theatre
+        Center, San Jose Stage, and Thick Description, to name a few."
+      image: https://ucarecdn.com/3c8b2fe1-dbed-4992-aced-8a1f6082afa4/-/crop/1123x1563/183,0/-/preview/
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
