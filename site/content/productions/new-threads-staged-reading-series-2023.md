@@ -153,8 +153,9 @@ cast:
     - name: Sofia Ahmad*
       credit: cast, The Fox and the Panther
       image: https://ucarecdn.com/47ec7857-7d11-40d2-a8ca-bd2c9cf5eefd/-/crop/906x1141/260,0/-/preview/
-      bio: "Sofia Ahmad is a [Resident Artist](https://goldenthread.org/about/people/)
-        with Golden Thread. Previous Golden Thread productions include: *[On The
+      bio: "**Sofia Ahmad** is a [Resident
+        Artist](https://goldenthread.org/about/people/) with Golden Thread.
+        Previous Golden Thread productions include: *[On The
         Periphery](https://goldenthread.org/productions/on-the-periphery/)* (a
         Crowded Fire co-production in 2020), *[ReOrient
         2019](https://goldenthread.org/productions/reorient-2019/)*, *[The Most
