@@ -132,5 +132,10 @@ cast:
         conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
         University - Theatre (Dramaturgy)."
       credit: dramaturg, Alaa
+bottom:
+  logos:
+    - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
+    - image: https://ucarecdn.com/99d6135c-6f3d-4b85-968f-9e9a6dde84b1/
+  heading: "We are grateful for the support of the following institutions:"
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions. Each reading is accompanied by talkbacks with the artists and other experts that explore the themes of the play which enable you to experience the creative process.
