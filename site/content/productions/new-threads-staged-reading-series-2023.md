@@ -150,7 +150,7 @@ cast:
         As a director and dramaturg, Karina has had the pleasure of working with Bay Area Children’s Theatre, BRAVA, Crowded Fire, Huntington Theatre, Magic Theatre, PlayGround, Playwright’s Foundation, Shotgun Players, Stanford University, TheatreFirst, Townhall Theatre, UC Berkeley, West Edge Opera, and Word for Word. She is a member of the Latinx Theatre Commons Steering Committee, Board member at Crowded Fire Theatre, Theatre Bay Area, and a founding member of the Bay Area Latinx Theatre Alliance Network (BALTAN).
 
         Karina received her Ph.D. in Theatre and Performance Studies from Stanford University, where she was awarded the Carl Weber Prize for integration of Creative Practice and Scholarly Research. Her scholarship concentrates on the intersection of politics and performance, specifically how digital interventions, institutionalization efforts, and historical narrative affect the development and sustainability of social and politically engaged performance companies and collectives in the Americas. She is currently a professor of Theatre History and Performance Studies in the Department of Theatre and Dance and Santa Clara University.
-    - name: Sofia Ahmad
+    - name: Sofia Ahmad*
       credit: cast, The Fox and the Panther
       image: https://ucarecdn.com/47ec7857-7d11-40d2-a8ca-bd2c9cf5eefd/-/crop/906x1141/260,0/-/preview/
       bio: "Sofia Ahmad is a [Resident Artist](https://goldenthread.org/about/people/)
