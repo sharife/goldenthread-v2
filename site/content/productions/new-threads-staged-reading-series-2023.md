@@ -134,7 +134,7 @@ cast:
         conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
         University - Theatre (Dramaturgy)."
       credit: dramaturg, Alaa
-    - name: Leontyne Mbele-Mbong
+    - name: Leontyne Mbele-Mbong*
       credit: director, The Fox and the Panther
       image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
     - name: Karina Gutiérrez
