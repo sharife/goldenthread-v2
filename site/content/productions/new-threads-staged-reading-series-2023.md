@@ -278,6 +278,20 @@ cast:
         Yeghiazarian, with music by Marcus Shelby (2015). Next, Nakissa will
         serve as Lead Dramaturg for the upcoming *[ReOrient 2023
         Festival](https://goldenthread.org/productions/reorient-2023/)*."
+    - name: Behzad Golemohammadi
+      credit: cast, Alaa
+      image: https://ucarecdn.com/a98f9119-c340-4fa5-9995-a0ea296e2324/
+      bio: "**Behzad Mohammadi** (he/him) is delighted to be back with Golden Thread
+        Productions again after his last appearance in *[Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/)* (2015) and
+        *[Nine Armenians](https://goldenthread.org/productions/nine-armenians/)*
+        (2002).  Recent credits include Bahram Beyzaei's *Crossroad*,
+        *Tarabnameh 1*, *Tarabnameh 2* and *Ardavirof Report* at Stanford
+        University, and Darvag Theater company productions of *The Road*, *The
+        Bear* and *Red and Others*.  He has appeared in numerous Darvag
+        productions such as *The Eighth Voyage of Sinbad*, *The Butterfly*,
+        *Dolls* and *Interview*.  He started his theater debut with Theater
+        Telos's *Lower Depths* (Gorky) and De Ghelderode's *Pantagleize*."
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
