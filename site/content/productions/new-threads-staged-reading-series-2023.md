@@ -24,14 +24,8 @@ ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
 lists:
   - items:
-      - itemstart: ""
-        itemend: ""
-        title: The Fox and the Panther
-        pre: working title
-        subtitle: |-
-          by **Tariq Hamami**
-
-          dramaturgy by **Dawn Monique Williams**
+      - pre: working title
+        itemend: 2023-08-21T04:00:24.555Z
         text: In the 1960s, Algeria established itself as the anti-colonial capital of
           the world, hosting multiple revolutionaries including the Black
           Panther Party. *The Fox and the Panther* follows the building of a
@@ -40,8 +34,15 @@ lists:
           national but cultural and familial as well. Nasi and Kati both
           struggle to connect with their parents in a time of great political
           change.
+        itemstart: 2023-08-21T02:00:00.000Z
         cta: ""
+        subtitle: |-
+          by **Tariq Hamami**
+
+          dramaturgy by **Dawn Monique Williams**
+        title: The Fox and the Panther
         link: ""
+        image: https://ucarecdn.com/758b878b-fb0c-4ce1-b771-ee3a6ef12faf/
       - itemstart: ""
         itemend: ""
         title: Alaa
