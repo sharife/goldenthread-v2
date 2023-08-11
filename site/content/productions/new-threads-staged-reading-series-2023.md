@@ -67,22 +67,6 @@ lists:
     heading: "New Threads 2023 "
 cast:
   items:
-    - name: Adam Ashraf Elsayigh
-      credit: playwright, Alaa
-      image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
-      bio: "**[Adam Ashraf Elsayigh](https://www.adamaelsayigh.com/)** is an Egyptian
-        writer, theatre maker, and dramaturg who writes and develops plays that
-        interrogate the intersections of queerness, immigration, and
-        colonialism. Adam’s plays (including [Drowning in
-        Cairo](https://goldenthread.org/productions/drowning-in-cairo/),
-        *Revelation*, *Memorial*, and *Jamestown/ Williamsburg*) have been
-        developed and seen at New York Theatre Workshop, The Lark, The Tisch
-        School of the Arts, The LaGuardia Performing Arts Center, and Golden
-        Thread Productions. Adam is a fellow at Georgetown University's
-        Laboratory for Global Performance and an Alliance/Kendeda Award
-        Finalist. He holds a BA in Theatre with an emphasis in Playwriting and
-        Dramaturgy from NYU Abu Dhabi and is an MFA Candidate in Playwriting at
-        Brooklyn College. [](https://www.adamaelsayigh.com/)"
     - name: Tariq Hamami
       credit: playwright, The Fox and the Panther
       image: https://ucarecdn.com/3c5eb938-b9a4-409d-809b-755da4169a86/
@@ -99,6 +83,22 @@ cast:
         his multi-faith and multicultural upbringing. He is also a proud
         subscriber of the Silly Town Theatre Company that performs nightly in
         his living room on top of a toy box by his daughter and son."
+    - name: Adam Ashraf Elsayigh
+      credit: playwright, Alaa
+      image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
+      bio: "**[Adam Ashraf Elsayigh](https://www.adamaelsayigh.com/)** is an Egyptian
+        writer, theatre maker, and dramaturg who writes and develops plays that
+        interrogate the intersections of queerness, immigration, and
+        colonialism. Adam’s plays (including [Drowning in
+        Cairo](https://goldenthread.org/productions/drowning-in-cairo/),
+        *Revelation*, *Memorial*, and *Jamestown/ Williamsburg*) have been
+        developed and seen at New York Theatre Workshop, The Lark, The Tisch
+        School of the Arts, The LaGuardia Performing Arts Center, and Golden
+        Thread Productions. Adam is a fellow at Georgetown University's
+        Laboratory for Global Performance and an Alliance/Kendeda Award
+        Finalist. He holds a BA in Theatre with an emphasis in Playwriting and
+        Dramaturgy from NYU Abu Dhabi and is an MFA Candidate in Playwriting at
+        Brooklyn College. [](https://www.adamaelsayigh.com/)"
     - name: Dawn Monique Williams
       credit: dramaturg, The Fox and the Panther
       image: https://ucarecdn.com/bf2fe339-be17-4502-913e-6f909a53e090/
@@ -134,6 +134,22 @@ cast:
         conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
         University - Theatre (Dramaturgy)."
       credit: dramaturg, Alaa
+    - name: Leontyne Mbele-Mbong
+      credit: director, The Fox and the Panther
+    - name: Karina Gutiérrez
+      credit: director, Alaa
+      image: https://ucarecdn.com/5cc8dfe8-c9f3-4f03-aed3-6292f7f4e271/
+      bio: >-
+        Karina Gutiérrez (she/her) is a Bay Area-based director, dramaturg, and
+        scholar. She is passionate about supporting new play development,
+        fostering local artists, and creating welcoming, equitable, and
+        accessible theatre spaces and classrooms. She considers theatre a
+        powerful space for social change and the mending, healing, and restoring
+        of communities.
+
+        As a director and dramaturg, Karina has had the pleasure of working with Bay Area Children’s Theatre, BRAVA, Crowded Fire, Huntington Theatre, Magic Theatre, PlayGround, Playwright’s Foundation, Shotgun Players, Stanford University, TheatreFirst, Townhall Theatre, UC Berkeley, West Edge Opera, and Word for Word. She is a member of the Latinx Theatre Commons Steering Committee, Board member at Crowded Fire Theatre, Theatre Bay Area, and a founding member of the Bay Area Latinx Theatre Alliance Network (BALTAN).
+
+        Karina received her Ph.D. in Theatre and Performance Studies from Stanford University, where she was awarded the Carl Weber Prize for integration of Creative Practice and Scholarly Research. Her scholarship concentrates on the intersection of politics and performance, specifically how digital interventions, institutionalization efforts, and historical narrative affect the development and sustainability of social and politically engaged performance companies and collectives in the Americas. She is currently a professor of Theatre History and Performance Studies in the Department of Theatre and Dance and Santa Clara University.
 bottom:
   logos:
     - image: https://ucarecdn.com/630c7612-d254-4b2c-a272-d476712d199d/
