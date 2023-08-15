@@ -30,37 +30,38 @@ Golden Thread Productions seeks a Program Manager to expand the representation o
 
 **Production:**
 
-* Create and manage production schedule, including production meetings, rehearsals, and auditions.
-  Develop and monitor the production budget.
-  Renew annual Actor’s Equity Association (AEA) season agreement and submit ongoing reports.
-  Process artist contracts and payments.
-  Develop activity guides and/or lesson plans.
+* Create and manage production schedule, including production meetings, rehearsals, and auditions. 
+* Develop and monitor the production budget.
+* Renew annual Actor’s Equity Association (AEA) season agreement and submit ongoing reports.
+* Process artist contracts and payments. 
+* Develop activity guides and/or lesson plans.
 
 **Tour outreach and management:**
 
-* Secure bookings and manage tour logistics including presenter/host requirements, outreach/marketing materials, and educational materials.
-  Maintain touring roster and identify new performance opportunities.
-  Solicit and collect feedback from educators and audiences.
-  Process invoices and payments.
-  Attend select performances in order to ensure the integrity of the program (attend the first performance of each tour and subsequently drop into performances).
+* Secure bookings and manage tour logistics including presenter/host requirements, outreach/marketing materials, and educational materials. 
+* Maintain touring roster and identify new performance opportunities.
+* Solicit and collect feedback from educators and audiences.
+* Process invoices and payments.
+* Attend select performances in order to ensure the integrity of the program (attend the first performance of each tour and subsequently drop into performances).
 
 **Program evaluation and strategy:**
 
-* Assess and evaluate the ongoing program.
-  Develop objectives and strategies to maintain relevance and increase impact.
-  Research and develop revenue options for the program, including grant opportunities.
-  Explore partnership opportunities and meet with community groups and government agencies to explore programming needs.
+* Assess and evaluate the ongoing program. 
+* Develop objectives and strategies to maintain relevance and increase impact. 
+* Research and develop revenue options for the program, including grant opportunities.
+* Explore partnership opportunities and meet with community groups and government agencies to explore programming needs.
 
 **Qualifications and Skills:** 
 
-* Experience working as a performance artist, teacher and/or program facilitator within a social services organization.
-  Excellent interpersonal, verbal and written communication skills, strong organizational skills, and attention to detail.
-  Strategic thinking and analytical skills, with the ability to analyze priorities and manage workflow.
-  Ability to work both independently and on projects with others.
-  Strong troubleshooting capabilities, with a flexible and innovative approach to problem solving.
-  A dedication to working within the guiding vision of the company including a passion for transformative stories, perspectives, and voices, respect for an artist-centered and MENA focused approach and an appreciation for health and balance in our art practice and our lives.
-  Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences. A political awareness of and sensitivity to the plurality of thought and culture both within the Middle East and its world-wide diaspora would be a plus.
-  Proficiency in basic computer applications, including Word, Excel, Email and Google.
+* Experience working as a performance artist, teacher and/or program facilitator within a social services organization. 
+* Excellent interpersonal, verbal and written communication skills, strong organizational skills, and attention to detail.
+* Strategic thinking and analytical skills, with the ability to analyze priorities and manage workflow. 
+* Ability to work both independently and on projects with others.
+* Strong troubleshooting capabilities, with a flexible and innovative approach to problem solving. 
+* A dedication to working within the guiding vision of the company including a passion for transformative stories, perspectives, and voices, respect for an artist-centered and MENA focused approach and an appreciation for health and balance in our art practice and our lives.
+* Commitment to equity and inclusion, and the ability to work with diverse groups of artists and audiences.
+* A political awareness of and sensitivity to the plurality of thought and culture both within the Middle East and its world-wide diaspora would be a plus.
+* Proficiency in basic computer applications, including Word, Excel, Email and Google.
 
 The ideal candidate will be a theatre professional fluent in State and National education standards with a degree in Theatre Education or equivalent knowledge. Experience in Theatre for Young Audiences, including a working understanding of Actors’ Equity TYA guidelines is preferred.
 
