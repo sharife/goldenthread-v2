@@ -70,9 +70,9 @@ Golden Thread Productions provides equal employment opportunities (EEO) to all e
 **Application Instructions:**
 Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to education@goldenthread.org, subject line: Fairytale Players Program Manager. No phone calls or packets by regular mail, please. Questions may be directed to heather@goldenthread.org.
 
-Applications will be reviewed on a rolling basis and the position will remain open until filled. Early submissions are encouraged. Ideal start date: October 9, 2023. 
+Applications will be reviewed on a rolling basis and the position will remain open until filled. Early submissions are encouraged. 
 
-
+Ideal start date: October 9, 2023. 
 
 **About Golden Thread Productions:** 
 
