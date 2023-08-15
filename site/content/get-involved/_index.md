@@ -15,7 +15,7 @@ We accept ongoing resumes with letters of interest in Golden Thread from stage m
 - - -
 
 **CASTING**\
-We are now accepting video submissions for our 2023 Season, including Golden Thread's biennial signature program the ReOrient Festival of short plays, our New Threads staged reading series, and Fairytale Players program. Video submissions accepted through December 31, 2022! **[Learn more](/get-involved/casting/).**
+Casting for the 2023 Season has concluded. Thank you for your submissions! **[Learn more](/get-involved/casting/).**
 
 - - -
 
