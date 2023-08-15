@@ -13,10 +13,6 @@ sidebar:
 
 Golden Thread accepts ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). 
 
-**About Golden Thread Productions:** 
-
-Founded in 1996, Golden Thread Productions (goldenthread.org) is the first American, and San Francisco’s only theatre company devoted to plays from or about the Middle East. We define the Middle East broadly and inclusively, embracing the multiplicity of ethnic and religious identities that span Southwest Asia, North Africa, Central Asia, the Caucasus, parts of Mediterranean Europe, and our Diaspora communities. Our programs defy stereotypes and cultivate those who seek alternative perspectives of the Middle East including individuals not of Middle Eastern heritage eager to connect with cultures different than their own, as well as Middle Eastern audiences who rarely encounter meaningful reflections of their own culture and narrative in the performing arts. 
-
 ### **Fairytale Players Program Manager**
 
 Reports to: Executive Artistic Director
@@ -24,7 +20,7 @@ Reports to: Executive Artistic Director
 Supervises: Touring Stage Managers and Actors
 
 **Summary of Position:**
-Golden Thread Productions seeks a Program Manager to expand the representation of Middle Eastern narratives through our theatre for young audiences program. Golden Thread Fairytale Players uses epic storytelling, puppetry, song, dance, circus arts techniques, and Middle Eastern languages to create engaging performances based on traditions and folklore from the Middle East that draw from enriching folk tales and timeless historical texts. The goal of this position is to successfully manage an impactful program through production and touring activities, conduct outreach to local schools and libraries, and implement strategies for long term sustainability. This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to champion a unique and dynamic repertoire of performances that broaden and develop deeper appreciation for diverse cultural traditions. [
+Golden Thread Productions seeks a Program Manager to expand the representation of Middle Eastern narratives through our theatre for young audiences program. Golden Thread Fairytale Players uses epic storytelling, puppetry, song, dance, circus arts techniques, and Middle Eastern languages to create engaging performances based on traditions and folklore from the Middle East that draw from enriching folk tales and timeless historical texts. The goal of this position is to successfully manage an impactful program through production and touring activities, conduct outreach to local schools and libraries, and implement strategies for long term sustainability. This is an excellent opportunity for an experienced teaching artist or arts educator with a desire to champion a unique and dynamic repertoire of performances that broaden and develop deeper appreciation for diverse cultural traditions. https://goldenthread.org/programs/fairytale-players/[
 ](https://goldenthread.org/programs/fairytale-players/)**PURPOSE** - Under the direction of the Executive Artistic Director and in close collaboration with the Managing Director, the Program Manager will be responsible for managing the main elements of the program including the production of new and/or remounted plays, the annual spring, summer, and fall touring of plays to schools, libraries, and community centers, and the strategizing of the program through partnerships, funding opportunities, and impact assessment.
 **Essential Duties and Responsibilities:**
 
@@ -74,4 +70,10 @@ Golden Thread Productions provides equal employment opportunities (EEO) to all e
 **Application Instructions:**
 Please email a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references from current and/or former supervisors, to education@goldenthread.org, subject line: Fairytale Players Program Manager. No phone calls or packets by regular mail, please. Questions may be directed to heather@goldenthread.org.
 
-Applications will be reviewed on a rolling basis and the position will remain open until filled. Early submissions are encouraged. Ideal start date: October 9, 2023.
+Applications will be reviewed on a rolling basis and the position will remain open until filled. Early submissions are encouraged. Ideal start date: October 9, 2023. 
+
+
+
+**About Golden Thread Productions:** 
+
+Founded in 1996, Golden Thread Productions (goldenthread.org) is the first American, and San Francisco’s only theatre company devoted to plays from or about the Middle East. We define the Middle East broadly and inclusively, embracing the multiplicity of ethnic and religious identities that span Southwest Asia, North Africa, Central Asia, the Caucasus, parts of Mediterranean Europe, and our Diaspora communities. Our programs defy stereotypes and cultivate those who seek alternative perspectives of the Middle East including individuals not of Middle Eastern heritage eager to connect with cultures different than their own, as well as Middle Eastern audiences who rarely encounter meaningful reflections of their own culture and narrative in the performing arts.
