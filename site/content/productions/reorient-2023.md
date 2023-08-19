@@ -26,7 +26,7 @@ featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
   Keyishian, Rose McAvoy, John Pasha, Julius Rea, Arielle Tonkin
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
   (Sound), Briana Lisette Cardenas (Costume), Michaela Creedon (Props)
-dramaturg: ""
+dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
