@@ -227,6 +227,27 @@ cast:
         director of Directors Lab Mediterranean (2019), and a Fulbright alumnus
         with an MA in Theater Studies from Central Washington University
         (2011)."
+    - name: Amal Bisharat
+      credit: director, Picture Bride & A Massacre
+      bio: "**Amal Bisharat** (*she/her*) is a Palestinian American multidisciplinary
+        artist: a theater director, theater maker, musician, actor, and
+        photographer. Bisharat holds a BA in Music and Theater from Minnesota
+        State University-Moorhead and for 12 years worked as a director and
+        music director in partnership with the San Francisco Unified School
+        District. She is a recipient of the 2022-23 TBA Arts Leadership
+        Residency Grant and CA$H Creates Grant, and is presently in residency at
+        Golden Thread Productions as co-producer and director for their
+        signature ReOrient Festival of short plays. As a singer/songwriter and
+        multi-instrumentalist, Bisharat has been writing, recording and
+        performing with bands most of her life. Currently she is in the process
+        of creating her first musical, a Palestinian refugee story adapted from
+        the best-selling novel *Mornings in Jenin* by Susan Abulhawa. Bisharat
+        is also an award-winning photographer, with her own arts-focused
+        photography company, capturing the magic of professional dance, theater,
+        and music performances for groups like Yerba Buena Gardens Festival,
+        RAWdance, and Alonzo King Lines Ballet. Bisharat believes in the
+        transformative power of art and storytelling whether on a stage, in a
+        photograph, or in the stories we tell ourselves."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
