@@ -390,6 +390,18 @@ cast:
         screened at the South Asian Film Festival of America 2021. Aside from
         the art of performing, Neamah is passionate about learning languages
         (she speaks five!), dance, and her day job on VR tech."
+    - name: Emily M. Keyishian
+      credit: ensemble cast
+      bio: "**Emily M. Keyishian** (*she/her*) is a Bay Area actor and artist
+        originally from the NJ/NYC area. She has performed on both coasts in
+        theater and film. In the Bay Area scene she has performed with Town Hall
+        Theater, Custom Made Theater, Eugene O’Neill Foundation, Dragon Theater,
+        Perspective Theatre, Role Players Ensemble, Marin Theater Co and Left
+        Coast Theater. She is thrilled to return to Golden Thread in her second
+        *ReOrient* with these inspiring people. Check out her film work at
+        [emilykeyishian.com](http://www.emilykeyishian.com/) and painting/art at
+        [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
+        for all of their support."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
