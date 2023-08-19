@@ -7,11 +7,11 @@ start: 2023-10-13T07:00:00.000Z
 end: 2023-11-04T07:00:00.000Z
 heading: Think you know the Middle East? Think again!
 description: >-
-  ReOrient 2023 will celebrate the return of our signature program, an
-  innovative and spirited festival of short plays from or about the Middle East.
-  The dizzying line-up is diverse in content and style, with 6 plays selected
-  from 113 submissions, highlighting a multiplicity of Middle Eastern
-  perspectives and identities.
+  ReOrient 2023 celebrates the return of our signature program, an innovative
+  and spirited festival of short plays from or about the Middle East. The
+  dizzying line-up is diverse in content and style, with 6 plays selected from
+  113 submissions, highlighting a multiplicity of Middle Eastern perspectives
+  and identities.
 
 
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
