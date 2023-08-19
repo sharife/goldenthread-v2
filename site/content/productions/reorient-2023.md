@@ -94,7 +94,7 @@ cast:
   heading: ""
   items:
     - bio: >-
-        **Katrin Arefy** (she/her) is an essayist and playwright who examines
+        **Katrin Arefy** (*she/her*) is an essayist and playwright who examines
         the many absurd realities that we experience in our daily lives in her
         writing. Her essays and playscripts have appeared in numerous literary
         magazines, including *North Dakota Quarterly*, *Water~Stone Review*,
@@ -114,9 +114,24 @@ cast:
       name: Katrin Arefy
       credit: playwright, A Massacre
       image: https://ucarecdn.com/005b611a-b5eb-461a-88e3-993243b8564e/
-    - bio: ""
-      name: ""
-      credit: ""
+    - bio: >-
+        **Adam Ashraf Elsayigh** (*he/him*) is an Egyptian writer, theatermaker,
+        and dramaturg who writes and develops plays that interrogate the
+        intersections of queerness, immigration, and colonialism. Adam’s plays
+        (including *Drowning in Cairo*, *Revelation*, *Memorial*, and
+        *Jamestown/ Williamsburg*) have been developed and seen at New York
+        Theater Workshop, The Lark, The Tisch School of the Arts, The LaGuardia
+        Performing Arts Center, and Golden Thread Productions. Adam is a fellow
+        at Georgetown University's Laboratory for Global Performance and an
+        Alliance/Kendeda Award Finalist. He holds a BA in Theater, Playwriting
+        and Dramaturgy from NYU Abu Dhabi and an MFA in Playwriting at Brooklyn
+        College. 
+
+
+        [www.adamaelsayigh.com](https://www.adamaelsayigh.com/)
+      name: Adam Ashraf Elsayigh
+      credit: playwright, Data Queen
+      image: https://ucarecdn.com/c1d2d147-dca8-45e2-b3f1-253bfbcdb808/
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
