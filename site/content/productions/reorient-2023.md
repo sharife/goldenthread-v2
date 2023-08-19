@@ -355,6 +355,41 @@ cast:
         @queercrescent on instagram). She loves ASMR, dancing, and sipping on
         some homemade mint cold brew coffee while listening to fairuzyat on her
         balcony."
+    - name: John Fisher
+      credit: ensemble cast
+      bio: >-
+        **John Fisher*** (*he/his*)’s solo-show *A History of World War II*
+        enjoyed an eight-month run at The Marsh, after playing two successful
+        runs in Manhattan (United Solo Festival/Theatre Row – Best Actor Award)
+        and another in Los Angeles (The Broadwater.) Awards: Two-time winner of
+        the Will Glickman Playwright Award, GLAAD Media Award, Theatre Bay Area
+        Award, two Cable Car Awards, The Bay Guardian Goldie Award, the
+        BackStage West Garland Award, seven Critics’ Circle Awards. John’s plays
+        include the award-winning *Action Hero*, *Shakespeare Goes to War*, *To
+        Sleep and Dream*, *Combat!,* and *Medea, the Musical*. They have been
+        performed in NYC, Los Angeles, Seattle, San Francisco, and Berkeley. As
+        an actor John appeared as Russ/Dan in the Character Physics production
+        of Bruce Norris’s *Clybourne Park* (nominated Best Performer, Broadway
+        World 2021), Dysart in *Equus*, Macbeth in *Macbeth*, Turing in
+        *Breaking the Code*, Lear in *King Lear*, among others. He created
+        sixty-two original, live, on-line solo-shows, one for each week of
+        Shelter-in-Place. John won a citation from the 2021 Bay Area Critics’
+        Circle Awards Committee for this project. In 2021, John took up
+        residency in NYC where he has enjoyed extended runs at Pangea, The Tank,
+        ArtsonSite, the LGBTQ Center, and Theatre Row. 
+
+
+        [www.johnfisher.biz](http://www.johnfisher.biz/)
+    - name: Neamah Hussein
+      credit: ensemble cast
+      bio: "**Neamah Hussein** (*she/her*) is a Yemeni-Desi actress, writer and
+        filmmaker based in California. She graduated from Princeton University
+        with a degree in Computer Science, and studied filmmaking at the San
+        Francisco School of Digital Filmmaking, as well as TV writing at The
+        Writing Pad in Los Angeles. Her first short, *Brown Girls and Hair*,
+        screened at the South Asian Film Festival of America 2021. Aside from
+        the art of performing, Neamah is passionate about learning languages
+        (she speaks five!), dance, and her day job on VR tech."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
