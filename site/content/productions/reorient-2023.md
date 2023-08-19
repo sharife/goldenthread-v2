@@ -317,6 +317,135 @@ cast:
 
 
         [www.beccawolff.net](http://beccawolff.net/)
+    - name: Sofia Ahmad
+      credit: ensemble cast
+      bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
+        Artist](https://goldenthread.org/about/people/) with Golden Thread.
+        Previous Golden Thread productions include: *On The Periphery* (a
+        Crowded Fire co-production), *ReOrient 2019*, *The Most Dangerous
+        Highway in the World*, *Isfahan Blues* (an African-American Shakespeare
+        Company co-production), and *Love Missile*. Other local acting credits
+        include Berkeley Repertory Theatre, American Conservatory Theatre,
+        PlayGround, Word for Word, San Francisco Shakespeare Festival, Magic
+        Theatre, Shakespeare Santa Cruz, Those Women Productions, Pacific
+        Repertory Theater, and Bay Area Playwrights Festival. Sofia is a
+        graduate of NYU’s Tisch School of the Arts and a proud member of AEA and
+        SAG-AFTRA."
+    - name: Hamzeh Daoud
+      credit: ensemble cast
+      bio: "**Hamzeh Daoud** (*they/she*) is a Palestinian asylum seeker from Amman,
+        Jordan. They are a transfem and queer creative. Hamzeh's personal
+        journey has deeply influenced their artistic endeavors. Their
+        experiences as a marginalized individual drive their desire to create
+        meaningful and thought-provoking performances that challenge societal
+        norms and foster empathy. With a BA and MA from Stanford University, her
+        educational background has nurtured her understanding of the human
+        condition, and ultimately her artistic craft. Hamzeh has participated in
+        a range of productions, including Shakespeare's *Romeo and Juliet* and
+        *The Tempest*, as well as Tony Kushner's *Angels in America*. Through
+        their performances, they explore diverse characters and narratives,
+        aiming to breathe new life into these timeless stories.They are a
+        singer/songwriter (check out their EP “25” on Spotify), and a pole
+        dancer (which you can enjoy watching on their instagram @yallapole). In
+        addition to their artistic pursuits, Hamzeh is actively involved in
+        advocacy work. They contribute to research and support resource
+        mobilization at Queer Crescent, a nonprofit organization dedicated to
+        combating anti-Muslim racism and promoting the safety and
+        self-determination of queer and trans Muslims (follow the work they do
+        @queercrescent on instagram). She loves ASMR, dancing, and sipping on
+        some homemade mint cold brew coffee while listening to fairuzyat on her
+        balcony."
+    - name: John Fisher
+      credit: ensemble cast
+      bio: >-
+        **John Fisher*** (*he/his*)’s solo-show *A History of World War II*
+        enjoyed an eight-month run at The Marsh, after playing two successful
+        runs in Manhattan (United Solo Festival/Theatre Row – Best Actor Award)
+        and another in Los Angeles (The Broadwater.) Awards: Two-time winner of
+        the Will Glickman Playwright Award, GLAAD Media Award, Theatre Bay Area
+        Award, two Cable Car Awards, The Bay Guardian Goldie Award, the
+        BackStage West Garland Award, seven Critics’ Circle Awards. John’s plays
+        include the award-winning *Action Hero*, *Shakespeare Goes to War*, *To
+        Sleep and Dream*, *Combat!,* and *Medea, the Musical*. They have been
+        performed in NYC, Los Angeles, Seattle, San Francisco, and Berkeley. As
+        an actor John appeared as Russ/Dan in the Character Physics production
+        of Bruce Norris’s *Clybourne Park* (nominated Best Performer, Broadway
+        World 2021), Dysart in *Equus*, Macbeth in *Macbeth*, Turing in
+        *Breaking the Code*, Lear in *King Lear*, among others. He created
+        sixty-two original, live, on-line solo-shows, one for each week of
+        Shelter-in-Place. John won a citation from the 2021 Bay Area Critics’
+        Circle Awards Committee for this project. In 2021, John took up
+        residency in NYC where he has enjoyed extended runs at Pangea, The Tank,
+        ArtsonSite, the LGBTQ Center, and Theatre Row. 
+
+
+        [www.johnfisher.biz](http://www.johnfisher.biz/)
+    - name: Neamah Hussein
+      credit: ensemble cast
+      bio: "**Neamah Hussein** (*she/her*) is a Yemeni-Desi actress, writer and
+        filmmaker based in California. She graduated from Princeton University
+        with a degree in Computer Science, and studied filmmaking at the San
+        Francisco School of Digital Filmmaking, as well as TV writing at The
+        Writing Pad in Los Angeles. Her first short, *Brown Girls and Hair*,
+        screened at the South Asian Film Festival of America 2021. Aside from
+        the art of performing, Neamah is passionate about learning languages
+        (she speaks five!), dance, and her day job on VR tech."
+    - name: Emily M. Keyishian
+      credit: ensemble cast
+      bio: "**Emily M. Keyishian** (*she/her*) is a Bay Area actor and artist
+        originally from the NJ/NYC area. She has performed on both coasts in
+        theater and film. In the Bay Area scene she has performed with Town Hall
+        Theater, Custom Made Theater, Eugene O’Neill Foundation, Dragon Theater,
+        Perspective Theatre, Role Players Ensemble, Marin Theater Co and Left
+        Coast Theater. She is thrilled to return to Golden Thread in her second
+        *ReOrient* with these inspiring people. Check out her film work at
+        [emilykeyishian.com](http://www.emilykeyishian.com/) and painting/art at
+        [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
+        for all of their support."
+    - name: Rose McAvoy
+      credit: ensemble cast
+    - name: John Pasha
+      credit: ensemble cast
+      bio: >-
+        **John Pasha*** (*he/him*) is thrilled to make his San Francisco debut
+        with Golden Thread! 
+
+        NYC: *Napoli*, *Brooklyn* (Roundabout), *A Wilder Christmas* (Peccadillo), *The Constant Couple* (The Pearl), *Horatio* (FringeNYC). Regionally: Amir in *Disgraced* (Repertory Theatre of St. Louis & St. Louis Theatre Circle, Best Actor Nom.), Henry in *The Real Thing* at Capital Stage, Barrington Stage, Kansas City Repertory, Sacramento Theater Company, Asolo Repertory, Hangar Theater, Clarence Brown, Pioneer Theater. Full seasons at Santa Cruz Shakespeare (2010), American Shakespeare Center (2008), Alabama Shakespeare (2005), Pennsylvania Shakespeare (2004), New Mexico Shakespeare (2000), Utah Shakespeare (1999; Tony Award Season), Colorado Shakespeare (1997/98) and The Shakespeare Theatre (1995-96). TV/ Film: NYC Soaps, Sound, Heartless, The Order and Pop Rocks. Training: M.F.A. University of Delaware (PTTP), B.F.A. Boston University, RADA
+    - name: Julius Rea
+      credit: ensemble cast
+      bio: "**Julius Rea** (*he/him*) is a writer, performer, and arts producer based
+        in the San Francisco Bay Area. With a background as a journalist, he
+        obtained a degree in Philosophy at San Francisco State University. He
+        co-founded The Forum Collective, a multidisciplinary arts organization
+        that focuses on new journalism, theater and community-focused events.
+        Recently, Rea developed his new play *Kaleidoscope* while participating
+        in Crowded Fire Theater’s 2020-21 Resilience and Development Lab. In
+        2020, he was selected as a finalist for the Bay Area Playwrights
+        Festival. Also an actor, Rea has performed across the San Francisco Bay
+        Area with Ragged Wing Ensemble, Left Edge Theatre, and Benicia Old Town
+        Theatre Group; he received a 2019 Arty award for his portrayal of Chris
+        in Lynn Nottage’s *Sweat*. Currently, he is a production manager with
+        Lorraine Hansberry Theatre after receiving a Theatre Bay Area (TBA) Arts
+        Leadership Award to work with the company."
+    - name: Arielle Tonkin
+      credit: ensemble cast
+      bio: "**Arielle Tonkin** (*they/them*) is an interdisciplinary artist, educator,
+        ritualist, graduate of the School of the Art Institute of Chicago (MFA
+        2017), and based in Berkeley, CA. ReOrient 2023 marks Arielle’s debut in
+        a “traditional” acting role on stage! Arielle's artwork, rooted in
+        painting and social practice, centers relationships, ritual and healing.
+        Recent exhibition highlights include: *Morocco to the Bay: A Diasporic
+        Prayerformance* (2023) at Albany Bulb, CA; *A Fence Around the Torah:
+        Safety and Unsafety in Jewish Life* (2021-2022) at the Jewish Museum of
+        Maryland; *Queering Jewish Diasporas* (2019) at the Omni Commons,
+        Oakland, CA; *Orienting Action* (2018) at the Rubin Frankel Gallery,
+        Boston, MA. Arielle’s arts and culture organizing, through interfaith
+        cross-textual exchange and Mizrahi cultural flourishing began in post-
+        9/11 New York at age fifteen. Arielle weaves relationships and
+        materializes conversations: the Muslim-Jewish Arts Fellowship, the Arts
+        Jam for Social Change, Tzedek Lab, Mitsui Collective, and Inside Out
+        Wisdom in Action are among their networks of accountability, collective
+        power, and care."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
