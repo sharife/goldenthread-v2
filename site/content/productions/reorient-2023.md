@@ -94,11 +94,17 @@ cast:
   heading: REORIENT 2023 HONORARY MENTIONS
   items:
     - bio: ""
-      name: Mehrnaz Tiv
-      credit: Mr. Perfect Isn't Persian
+      name: ""
+      credit: ""
     - bio: ""
-      name: Rita Akroush
-      credit: 65 Joules
+      name: ""
+      credit: ""
+mentions:
+  heading: REORIENT 2023 HONORARY MENTIONS
+  text: |-
+    Mehrnaz Tiv, *Mr. Perfect Isn't Persian* 
+
+    Rita Akroush, *65 Joules*
 photos:
   heading: ""
   items: []
