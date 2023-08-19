@@ -269,6 +269,33 @@ cast:
         of Dipika Guha’s *In Braunau* for the San Francisco Playhouse. She
         believes strongly in fostering new voices and developing young
         storytellers to build and transform our communities."
+    - name: Adin Walker
+      credit: director, Data Queen
+      bio: >-
+        **Adin Walker**† (*he/they*) is movement director + associate director
+        for the internationally-touring dance, puppetry, and climate-justice
+        focused Phantom Limb Company, whose production *Falling Out* about the
+        2011 tsunami and radiation disaster in Fukushima premiered in BAM’s Next
+        Wave Festival in 2018. Adin recently directed the world premieres of
+        Yilong Liu’s *PrEP Play, or Blue Parachute* in San Francisco (New
+        Conservatory Theatre Center) and Roger Q. Mason’s *The White Dress* in
+        New York City, and has choreographed productions of Paula Vogel’s
+        *Indecent* with Chautauqua Theater Company (dir. Lisa Rothe) and Artists
+        Repertory Theater + Profile Theater (dir. Josh Hecht.) Adin danced
+        principal roles in works by Karole Armitage, Christopher K. Morgan, Alex
+        Neoral, and Maleek Washington and collaborates frequently with writers +
+        composers Esperanza Rosales Balcárcel, Ava Geyer, Lisa Gutkin, Julian
+        Hornik, Khiyon Hursey, Anya Pearson, Mark Sonnenblick, among others.
+        Adin has been a guest artist and lecturer at Yale School of Drama,
+        Princeton, NYU Tisch, and Saint Mary’s College of California, and is
+        currently a PhD Candidate at Stanford in Performance Studies and
+        Feminist, Gender, and Sexuality Studies. BA: Princeton. 
+
+
+        †*member, Stage Directors and Choreographers Society*
+
+
+        [www.adinwalker.com](http://www.adinwalker.com/)
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
