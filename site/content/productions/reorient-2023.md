@@ -132,6 +132,22 @@ cast:
       name: Adam Ashraf Elsayigh
       credit: playwright, Data Queen
       image: https://ucarecdn.com/c1d2d147-dca8-45e2-b3f1-253bfbcdb808/
+    - name: Yussef El Guindi
+      credit: playwright, Stamp Me
+      bio: Born in Egypt, raised in London and now based in Seattle, **Yussef El
+        Guindi** (*he/his*)’s work frequently examines the collision of
+        ethnicities, cultures and politics that face Arab/ Middle Eastern
+        Americans and Muslim Americans. His productions include *Hotter Than
+        Egypt* at Marin Theatre Company and ACT in Seattle; *People of the Book*
+        at ACT; *The Talented Ones* at ART in Portland; and *Threesome* at
+        Portland Center Stage, ACT, and at 59E59 (NY). Bloomsbury/ Methuen Drama
+        recently published *The Selected Works of Yussef El Guindi*, and
+        Broadway Play Publishing Inc. published a collection of short pieces
+        entitled *In A Clear Concise Arabic Tongue*. He is the recipient of
+        several honors, including the Steinberg/ATCA New Play Award, American
+        Blues Theater’s Blue Ink Playwriting Award, L.A. Weekly's Excellence in
+        Playwriting Award, and the Middle East America Distinguished Playwright
+        Award.
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
