@@ -32,6 +32,7 @@ stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://potrerostage.org/visit-potrero-stage/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
+ticketinfo: "$15-100 "
 misc: ""
 lists:
   - heading: REORIENT 2023 LINE-UP
