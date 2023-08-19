@@ -38,27 +38,6 @@ lists:
   - heading: REORIENT 2023 LINE-UP
     items:
       - image: ""
-        subtitle: b﻿y Katrin Arefy
-        text: Discovering a pile of dead bodies in the middle of their office, work
-          colleagues seem nonchalant to the carnage and instead become embroiled
-          in petty arguments. Their repetitive discussions and responses are
-          predetermined and non-negotiable.
-        title: A Massacre
-        itemstart: ""
-        itemend: ""
-      - image: ""
-        subtitle: by Adam Ashraf Elsayigh
-        text: Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White
-          boyfriend Joel. But it's really not his fault Joel went snooping,
-          finding Sam's FUCK FORM, with all the raunchy descriptions of his
-          recent hookups. So here they are at ODYSSEY, San Francisco's hottest,
-          new Couple Therapy practice. Will Sam and Joel manage to fix this hot
-          mess with the assistance of their overwhelmed but well-meaning
-          counselor, Sharon... or is this all doomed for failure?
-        title: Data Queen
-        itemstart: ""
-        itemend: ""
-      - image: ""
         subtitle: by Yussef El Guindi
         text: Ahmed is waiting in an immigration line as his thoughts race, skid, and
           trip him up as he anticipates the things that might be asked, the
@@ -83,10 +62,31 @@ lists:
         itemstart: ""
         itemend: ""
       - image: ""
+        subtitle: b﻿y Katrin Arefy
+        text: Discovering a pile of dead bodies in the middle of their office, work
+          colleagues seem nonchalant to the carnage and instead become embroiled
+          in petty arguments. Their repetitive discussions and responses are
+          predetermined and non-negotiable.
+        title: A Massacre
+        itemstart: ""
+        itemend: ""
+      - image: ""
         subtitle: by Judith Boyajian Strang-Waldau
         text: A young woman recounts sailing to America during the Armenian Genocide to
           marry a strange man on Ellis Island.
         title: Picture Bride
+        itemstart: ""
+        itemend: ""
+      - image: ""
+        subtitle: by Adam Ashraf Elsayigh
+        text: Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White
+          boyfriend Joel. But it's really not his fault Joel went snooping,
+          finding Sam's FUCK FORM, with all the raunchy descriptions of his
+          recent hookups. So here they are at ODYSSEY, San Francisco's hottest,
+          new Couple Therapy practice. Will Sam and Joel manage to fix this hot
+          mess with the assistance of their overwhelmed but well-meaning
+          counselor, Sharon... or is this all doomed for failure?
+        title: Data Queen
         itemstart: ""
         itemend: ""
 grids: []
