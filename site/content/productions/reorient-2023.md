@@ -296,6 +296,27 @@ cast:
 
 
         [www.adinwalker.com](http://www.adinwalker.com/)
+    - name: Becca Wolff
+      credit: director, A Suicide Bomber
+      bio: >-
+        **Becca Wolff**† (*she/they*) is a California-based director. She
+        explores the intersection of the theatrical and the confessional,
+        collaborating with virtuosic performer/creators to explore deeply
+        personal material in bold new ways. She is very excited for this first
+        collaboration with Golden Thread. She has directed at Long Wharf
+        Theatre, ACT, the Broad Stage, San Francisco Playhouse and Z Space among
+        others. Festivals and residencies include Under the Radar @ the Public
+        Theater, Brown University Arts Institute, Sibiu Festival, Theateworks’
+        New Works, Summerhall @ Edinburgh International Fringe, New York Stage &
+        Film’s Powerhouse series, and the Getty Villa. She is currently
+        developing a project based on her personal and family histories
+        exploring queer love, Jewish identity and assimilation. 
+
+
+        †*member, Stage Directors and Choreographers Society*
+
+
+        [www.beccawolff.net](http://beccawolff.net/)
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
