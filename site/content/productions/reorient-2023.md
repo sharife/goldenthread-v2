@@ -148,6 +148,42 @@ cast:
         Blues Theater’s Blue Ink Playwriting Award, L.A. Weekly's Excellence in
         Playwriting Award, and the Middle East America Distinguished Playwright
         Award.
+    - name: Arti Ishak
+      credit: playwright, Closure
+      bio: >-
+        **Arti Ishak** (*they/them*) is an interdisciplinary artist recently
+        named a 3Arts Make A Wave Artist. Their selected play *Closure*
+        originally premiered as part of Steppenwolf’s LookOut Series in
+        collaboration with Muslim Writer’s Collective Chicago. Acting credits
+        include *The Best Decision You Ever Made* (The Second City); *KISS*
+        (Haven); *Venus in Fur* (Circle); *Witch* (Writers); *Buried Child*
+        (Writers); *Men on Boats* (American Theater Company); *Fantastic Super
+        Great Nation Numero Uno* (The Second City). TV credits: *Dark Matter*
+        (Apple TV), *Southside* (HBO), *Chicago Med* (NBC). Directing credits
+        include short films *Shukran Bas* (Means of Productions), *Ba La* (HF
+        Productions), and theatrical debut with the Chicago premiere of
+        *Hatefuck* (First Floor Theatre) in 2023. They are an instructor at
+        Black Box Acting and on staff with The Chicago Inclusion Project. Arti
+        is a founding organizer with SWANASA Central, a collective of artists
+        and organizers dedicated to representing, amplifying, and advocating for
+        the South West Asian, North African and South Asian artist communities.
+        They are proudly represented by Paonessa Talent Agency. 
+
+
+        [www.artiishak.com](https://www.artiishak.com/)
+    - name: Hamed Sinno
+      credit: playwright, The Suicide Bomber
+      bio: >-
+        **Hamed Sinno** (*they/she/he*) is a writer, composer, performer, and
+        snowflake social justice warrior. Their current research uses
+        performance to explore the vocal organ and digital vocality as sites of
+        political negotiation. H writes and lectures about popular culture as
+        engaged practice. They have been the lyricist and front-person for
+        Mashrou' Leila since 2008. H has a BFA from the Department of
+        Architecture and Design at the American University of Beirut, and an MA
+        in Digital Musics from Dartmouth College. 
+
+        Their debut opera *Westerly Breath* is in development at The Industry Los Angeles, and opens at the New York Met Museum in September 2023.
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
