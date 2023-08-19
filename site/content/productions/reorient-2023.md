@@ -91,7 +91,7 @@ lists:
         itemend: ""
 grids: []
 cast:
-  heading: REORIENT 2023 HONORARY MENTIONS
+  heading: ""
   items:
     - bio: ""
       name: ""
