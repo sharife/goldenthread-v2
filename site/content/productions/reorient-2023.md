@@ -19,10 +19,13 @@ background: ""
 titleimage: https://ucarecdn.com/8feb21b8-f65c-4a66-b3c1-5f8d07fb9ebb/
 program: ""
 videos: []
-writer: ""
-director: ""
-featuring: ""
-designteam: ""
+writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
+  Sinno, Judith Boyajian Strang-Waldau
+director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
+featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
+  Keyishian, Rose McAvoy, John Pasha, Julius Rea, Arielle Tonkin
+designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
+  (Sound), Briana Lisette Cardenas (Costume), Michaela Creedon (Props)
 dramaturg: ""
 additional: ""
 stage: Potrero Stage
