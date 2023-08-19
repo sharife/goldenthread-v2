@@ -402,6 +402,8 @@ cast:
         [emilykeyishian.com](http://www.emilykeyishian.com/) and painting/art at
         [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
         for all of their support."
+    - name: Rose McAvoy
+      credit: ensemble cast
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
