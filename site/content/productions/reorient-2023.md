@@ -317,6 +317,44 @@ cast:
 
 
         [www.beccawolff.net](http://beccawolff.net/)
+    - name: Sofia Ahmad
+      credit: ensemble cast
+      bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
+        Artist](https://goldenthread.org/about/people/) with Golden Thread.
+        Previous Golden Thread productions include: *On The Periphery* (a
+        Crowded Fire co-production), *ReOrient 2019*, *The Most Dangerous
+        Highway in the World*, *Isfahan Blues* (an African-American Shakespeare
+        Company co-production), and *Love Missile*. Other local acting credits
+        include Berkeley Repertory Theatre, American Conservatory Theatre,
+        PlayGround, Word for Word, San Francisco Shakespeare Festival, Magic
+        Theatre, Shakespeare Santa Cruz, Those Women Productions, Pacific
+        Repertory Theater, and Bay Area Playwrights Festival. Sofia is a
+        graduate of NYU’s Tisch School of the Arts and a proud member of AEA and
+        SAG-AFTRA."
+    - name: Hamzeh Daoud
+      credit: ensemble cast
+      bio: "**Hamzeh Daoud** (*they/she*) is a Palestinian asylum seeker from Amman,
+        Jordan. They are a transfem and queer creative. Hamzeh's personal
+        journey has deeply influenced their artistic endeavors. Their
+        experiences as a marginalized individual drive their desire to create
+        meaningful and thought-provoking performances that challenge societal
+        norms and foster empathy. With a BA and MA from Stanford University, her
+        educational background has nurtured her understanding of the human
+        condition, and ultimately her artistic craft. Hamzeh has participated in
+        a range of productions, including Shakespeare's *Romeo and Juliet* and
+        *The Tempest*, as well as Tony Kushner's *Angels in America*. Through
+        their performances, they explore diverse characters and narratives,
+        aiming to breathe new life into these timeless stories.They are a
+        singer/songwriter (check out their EP “25” on Spotify), and a pole
+        dancer (which you can enjoy watching on their instagram @yallapole). In
+        addition to their artistic pursuits, Hamzeh is actively involved in
+        advocacy work. They contribute to research and support resource
+        mobilization at Queer Crescent, a nonprofit organization dedicated to
+        combating anti-Muslim racism and promoting the safety and
+        self-determination of queer and trans Muslims (follow the work they do
+        @queercrescent on instagram). She loves ASMR, dancing, and sipping on
+        some homemade mint cold brew coffee while listening to fairuzyat on her
+        balcony."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
