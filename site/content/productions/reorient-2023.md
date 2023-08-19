@@ -404,6 +404,48 @@ cast:
         for all of their support."
     - name: Rose McAvoy
       credit: ensemble cast
+    - name: John Pasha
+      credit: ensemble cast
+      bio: >-
+        **John Pasha*** (*he/him*) is thrilled to make his San Francisco debut
+        with Golden Thread! 
+
+        NYC: *Napoli*, *Brooklyn* (Roundabout), *A Wilder Christmas* (Peccadillo), *The Constant Couple* (The Pearl), *Horatio* (FringeNYC). Regionally: Amir in *Disgraced* (Repertory Theatre of St. Louis & St. Louis Theatre Circle, Best Actor Nom.), Henry in *The Real Thing* at Capital Stage, Barrington Stage, Kansas City Repertory, Sacramento Theater Company, Asolo Repertory, Hangar Theater, Clarence Brown, Pioneer Theater. Full seasons at Santa Cruz Shakespeare (2010), American Shakespeare Center (2008), Alabama Shakespeare (2005), Pennsylvania Shakespeare (2004), New Mexico Shakespeare (2000), Utah Shakespeare (1999; Tony Award Season), Colorado Shakespeare (1997/98) and The Shakespeare Theatre (1995-96). TV/ Film: NYC Soaps, Sound, Heartless, The Order and Pop Rocks. Training: M.F.A. University of Delaware (PTTP), B.F.A. Boston University, RADA
+    - name: Julius Rea
+      credit: ensemble cast
+      bio: "**Julius Rea** (*he/him*) is a writer, performer, and arts producer based
+        in the San Francisco Bay Area. With a background as a journalist, he
+        obtained a degree in Philosophy at San Francisco State University. He
+        co-founded The Forum Collective, a multidisciplinary arts organization
+        that focuses on new journalism, theater and community-focused events.
+        Recently, Rea developed his new play *Kaleidoscope* while participating
+        in Crowded Fire Theater’s 2020-21 Resilience and Development Lab. In
+        2020, he was selected as a finalist for the Bay Area Playwrights
+        Festival. Also an actor, Rea has performed across the San Francisco Bay
+        Area with Ragged Wing Ensemble, Left Edge Theatre, and Benicia Old Town
+        Theatre Group; he received a 2019 Arty award for his portrayal of Chris
+        in Lynn Nottage’s *Sweat*. Currently, he is a production manager with
+        Lorraine Hansberry Theatre after receiving a Theatre Bay Area (TBA) Arts
+        Leadership Award to work with the company."
+    - name: Arielle Tonkin
+      credit: ensemble cast
+      bio: "**Arielle Tonkin** (*they/them*) is an interdisciplinary artist, educator,
+        ritualist, graduate of the School of the Art Institute of Chicago (MFA
+        2017), and based in Berkeley, CA. ReOrient 2023 marks Arielle’s debut in
+        a “traditional” acting role on stage! Arielle's artwork, rooted in
+        painting and social practice, centers relationships, ritual and healing.
+        Recent exhibition highlights include: *Morocco to the Bay: A Diasporic
+        Prayerformance* (2023) at Albany Bulb, CA; *A Fence Around the Torah:
+        Safety and Unsafety in Jewish Life* (2021-2022) at the Jewish Museum of
+        Maryland; *Queering Jewish Diasporas* (2019) at the Omni Commons,
+        Oakland, CA; *Orienting Action* (2018) at the Rubin Frankel Gallery,
+        Boston, MA. Arielle’s arts and culture organizing, through interfaith
+        cross-textual exchange and Mizrahi cultural flourishing began in post-
+        9/11 New York at age fifteen. Arielle weaves relationships and
+        materializes conversations: the Muslim-Jewish Arts Fellowship, the Arts
+        Jam for Social Change, Tzedek Lab, Mitsui Collective, and Inside Out
+        Wisdom in Action are among their networks of accountability, collective
+        power, and care."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
