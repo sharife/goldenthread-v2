@@ -184,6 +184,27 @@ cast:
         in Digital Musics from Dartmouth College. 
 
         Their debut opera *Westerly Breath* is in development at The Industry Los Angeles, and opens at the New York Met Museum in September 2023.
+    - name: Judith Boyajian Strang-Waldau
+      credit: playwright, Picture Bride
+      bio: "**Judith Boyajian Strang-Waldau** (*she/her*) is a New England based
+        Armenian-American playwright. Her full-length plays include *Women of
+        Ararat* (surviving the Armenian Genocide), produced at the Mosesian
+        Center for the Arts in Boston, American University in Armenia, and the
+        Wellesley College new play series in 2015. Her play *Rockabye*
+        (redefining family for the 21st century) was produced at the MCA in
+        2017. Both *The Stringed Muse* (an O’Neill Center finalist), and *Olly
+        Olly Oxen Free* (focus on reclaiming one’s treasures and identity post
+        Holocaust); and *Metronome* (navigating the life of an autistic child)
+        are her more recent plays. Judith’s numerous short plays have premiered
+        at the Boston Playwrights Theatre, Firehouse Center for the Arts,
+        Femuscripts Florida, The Actors Studio of Newburyport, and Golden Thread
+        Productions ReOrient 2023. Aside from her work as a playwright, Judith
+        is a classical musician having sung professionally in Los Angeles, New
+        York, and Boston. She is a former marketing/fundraising specialist for
+        Carnegie Hall, the Metropolitan Opera, the American Symphony Orchestra,
+        Circle in the Square Theatre, Olympia Dukakis’ former Whole Theatre in
+        New Jersey, and the New England Conservatory of Music. When not writing,
+        Judith currently teaches piano and voice."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
