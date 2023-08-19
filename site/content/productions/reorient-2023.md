@@ -93,9 +93,27 @@ grids: []
 cast:
   heading: ""
   items:
-    - bio: ""
-      name: ""
-      credit: ""
+    - bio: >-
+        **Katrin Arefy** (she/her) is an essayist and playwright who examines
+        the many absurd realities that we experience in our daily lives in her
+        writing. Her essays and playscripts have appeared in numerous literary
+        magazines, including *North Dakota Quarterly*, *Water~Stone Review*,
+        *Fleas on the Dog*, *Free State Review*, and *Meat for Tea: The Valley
+        Review*, *The Tusculum Review* and *Some Scripts Literary Magazine*. Her
+        plays have premiered in New York City, performed in California, reached
+        the semi finalist round at Ivoryton Playhouse’s inaugural Women
+        Playwright’s Initiative, selected for inclusion at the Iranian Drama
+        Festival in Heidelberg, Germany, and Funny Shorts in Florida. Her latest
+        theatre work, *The Portrait of an Angel, a Lion, a Monster* was
+        premiered in Manhattan, NY in January 2022 The play was well received by
+        the audience and NY critics in a review on The Theatre Times. You may
+        see samples of Katrin Arfey’s plays at New Play Exchange or on her
+        website. 
+
+        [www.katrinarefy.com](https://www.katrinarefy.com/)
+      name: Katrin Arefy
+      credit: playwright, A Massacre
+      image: https://ucarecdn.com/005b611a-b5eb-461a-88e3-993243b8564e/
     - bio: ""
       name: ""
       credit: ""
