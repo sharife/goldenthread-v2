@@ -248,6 +248,27 @@ cast:
         RAWdance, and Alonzo King Lines Ballet. Bisharat believes in the
         transformative power of art and storytelling whether on a stage, in a
         photograph, or in the stories we tell ourselves."
+    - name: Susannah Martin
+      credit: director, Closure
+      bio: "A director, teacher, and theatre maker of Tunisian heritage, and a
+        Sephardic/Mizrahi Jewish feminist-activist-artist, **Susannah Martin**
+        (*she/her*) has taught and directed for organizations throughout the Bay
+        Area including: Shotgun Players (Company Member), American Conservatory
+        Theatre, California Shakespeare Theater, Cutting Ball Theater, Golden
+        Thread Productions, Magic Theatre, Marin Theatre Company, Mugwumpin
+        (Company Member), Oakland Theater Project, the Playwright's Foundation,
+        San Francisco Playhouse, and TheatreFirst. Some recent directing credits
+        include: Lisa Ramirez’ *Book of Sand* (a fairy tale) for Oakland Theater
+        Project; Elaine Magree’s *AC/DC* for 3Girls Theatre Company; Denmo
+        Ibrahim’s *Arab Spring* for the Bay Area Playwright’s Festival; Carol S.
+        Lashof’s *The Melting Pot* for Those Women Productions; Betty Shamieh’s
+        *Make No Mistake* for both All New People and Golden Thread; *Magic
+        Fruit* as part of TheatreFirst’s serial season; Sheila Callaghan’s
+        *Women Laughing Alone With Salad*, David Greig’s *The Events*, and
+        Christopher Chen’s *Caught* at Shotgun Players; and the world-premiere
+        of Dipika Guha’s *In Braunau* for the San Francisco Playhouse. She
+        believes strongly in fostering new voices and developing young
+        storytellers to build and transform our communities."
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
