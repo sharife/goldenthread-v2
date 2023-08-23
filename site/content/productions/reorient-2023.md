@@ -148,6 +148,7 @@ cast:
         Blues Theater’s Blue Ink Playwriting Award, L.A. Weekly's Excellence in
         Playwriting Award, and the Middle East America Distinguished Playwright
         Award.
+      image: https://ucarecdn.com/8080fd82-237d-45e8-9236-5cf9205cec45/
     - name: Arti Ishak
       credit: playwright, Closure
       bio: >-
@@ -171,6 +172,7 @@ cast:
 
 
         [www.artiishak.com](https://www.artiishak.com/)
+      image: https://ucarecdn.com/e2e6c1bf-e026-4def-88fb-3da2d2ddff81/-/crop/1331x1297/0,0/-/preview/
     - name: Hamed Sinno
       credit: playwright, The Suicide Bomber
       bio: >-
