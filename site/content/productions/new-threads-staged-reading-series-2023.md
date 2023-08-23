@@ -187,7 +187,7 @@ cast:
         proud member of AEA and SAG-AFTRA."
     - name: AeJay Marquis Mitchell*
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/551e2be2-6cd1-42d7-b9c3-9f3415af8f75/-/crop/965x1361/635,4/-/preview/
+      image: https://ucarecdn.com/df176234-a9de-4251-9129-f07de007e42c/
       bio: "**AeJay Mitchell** (they/them) is a multi-hyphenate performance artist,
         educator, and activist whose work centers the decolonization of the
         theatrical canon, the black avant-garde, and queer political performance
