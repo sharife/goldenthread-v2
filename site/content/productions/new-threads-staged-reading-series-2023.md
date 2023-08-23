@@ -25,6 +25,7 @@ titleimage: https://ucarecdn.com/377f28c2-4ec4-483b-aca2-6a8de4a5a145/
 programlabel: ""
 program: ""
 writer: Adam Ashraf Elsayigh, Tariq Hamami
+director: Leontyne Mbele-Mbong, Karina Gutiérrez
 dramaturg: Salma Zohdi, Dawn Monique Williams
 stage: Brava Studio
 address: 2781 24th Street, San Francisco, CA 94110
