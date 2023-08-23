@@ -69,7 +69,7 @@ lists:
           by **Adam Ashraf Elsayigh**
 
           generative dramaturgy by **Salma Zohdi**
-        title: Alaa
+        title: "Alaa: a Family Trilogy"
         link: ""
         image: https://ucarecdn.com/6d8d0824-7e5e-4a6f-b8bf-f0cf1da6da1d/
     heading: "New Threads 2023 "
