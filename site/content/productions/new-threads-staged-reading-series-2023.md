@@ -5,18 +5,27 @@ season: 2023
 date: 2022-11-30T03:02:28.249Z
 start: 2023-08-20T07:00:00.000Z
 end: 2023-08-27T07:00:00.000Z
-description: N﻿ew Threads returns in 2023 with staged readings of our two new
-  play commissions, one by **Adam Ashraf Elsayigh** with dramaturg **Salma
-  Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah and
-  another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the
-  Black Panthers in Algiers. The readings will take place on **Sunday, August
-  20th and 27th** at **7pm**. Attendance is **FREE**, but seating is limited, so
-  registration is highly recommended.
+description: >-
+  N﻿ew Threads returns in 2023 with staged readings of our two new play
+  commissions: 
+
+
+  one by **Adam Ashraf Elsayigh** with dramaturg **Salma Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah; 
+
+
+  and another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the Black Panthers in Algiers. 
+
+
+  The readings take place on **Sunday, August 20th and 27th** at **7pm**. 
+
+
+  Attendance is **FREE**, but seating is limited, so registration is highly recommended.
 background: ""
-titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
+titleimage: https://ucarecdn.com/377f28c2-4ec4-483b-aca2-6a8de4a5a145/
 programlabel: ""
 program: ""
 writer: Adam Ashraf Elsayigh, Tariq Hamami
+director: Leontyne Mbele-Mbong, Karina Gutiérrez
 dramaturg: Salma Zohdi, Dawn Monique Williams
 stage: Brava Studio
 address: 2781 24th Street, San Francisco, CA 94110
@@ -61,7 +70,7 @@ lists:
           by **Adam Ashraf Elsayigh**
 
           generative dramaturgy by **Salma Zohdi**
-        title: Alaa
+        title: "Alaa: a Family Trilogy"
         link: ""
         image: https://ucarecdn.com/6d8d0824-7e5e-4a6f-b8bf-f0cf1da6da1d/
     heading: "New Threads 2023 "
@@ -101,18 +110,19 @@ cast:
     - name: Leontyne Mbele-Mbong*
       credit: director, The Fox and the Panther
       image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
-      bio: "**[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) was
-        last seen at the Aurora Theatre as Renee in *Hurricane Diane*, Roxane in
-        *Cyrano*, and *Bull in a China Shop*, *Temple*, and *Breakfast with
-        Mugabe*. Other recent shows: *Fefu and her Friends* at A.C.T., *Lear* at
-        CalShakes. Some favorites: title role in *Medea* (TBA Award), and
-        *Cleopatra* in Antony & Cleopatra (TBA Award Finalist) with
-        African-American Shakespeare Company; *The Half-Life of Marie Curie*
-        (TheatreSquared, Fayetteville, AK); *Watch on the Rhine* (Berkeley
-        Rep/Guthrie Theatre), *Top Girls*, *The Last Days of Judas Iscariot*,
-        *Fences*; *Andromache*, *Candide*, *Richard III* (3 times), *Twelfth
-        Night*, and *Intimate Apparel* (Mayme; ARTY Award, best supporting
-        actress)."
+      bio: >-
+        **[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) is
+        delighted to make her debut with Golden Thread, and honored to be
+        directing this play. While Leontyne has explored many aspects of theater
+        making: acting, production and stage management, front of house and box
+        office, this is her second foray into directing. As an actor, she has
+        performed for many years around the Bay Area: appearing at American
+        Conservatory Theatre, Altarena Playhouse, the Aurora, Berkeley Rep,
+        CalShakes, Central Works, San Francisco Shakespeare Festival, Shotgun
+        Players; and regionally at the Guthrie in MN, and TheatreSquared in AK. 
+
+
+        [www.leontynembele-mbong.com](http://www.leontynembele-mbong.com/)
     - name: Adam Ashraf Elsayigh
       credit: playwright, Alaa
       image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
@@ -165,7 +175,7 @@ cast:
         Karina received her Ph.D. in Theatre and Performance Studies from Stanford University, where she was awarded the Carl Weber Prize for integration of Creative Practice and Scholarly Research. Her scholarship concentrates on the intersection of politics and performance, specifically how digital interventions, institutionalization efforts, and historical narrative affect the development and sustainability of social and politically engaged performance companies and collectives in the Americas. She is currently a professor of Theatre History and Performance Studies in the Department of Theatre and Dance and Santa Clara University.
     - name: Sofia Ahmad*
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/47ec7857-7d11-40d2-a8ca-bd2c9cf5eefd/-/crop/906x1141/260,0/-/preview/
+      image: https://ucarecdn.com/acff39c8-39fd-4034-b8de-ca0251479ffe/
       bio: "**Sofia Ahmad** is a [Resident
         Artist](https://goldenthread.org/about/people/) with Golden Thread.
         Previous Golden Thread productions include: *[On The
@@ -186,7 +196,7 @@ cast:
         proud member of AEA and SAG-AFTRA."
     - name: AeJay Marquis Mitchell*
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/551e2be2-6cd1-42d7-b9c3-9f3415af8f75/-/crop/965x1361/635,4/-/preview/
+      image: https://ucarecdn.com/df176234-a9de-4251-9129-f07de007e42c/
       bio: "**AeJay Mitchell** (they/them) is a multi-hyphenate performance artist,
         educator, and activist whose work centers the decolonization of the
         theatrical canon, the black avant-garde, and queer political performance
@@ -244,7 +254,7 @@ cast:
         she's gotten to dive into!"
     - name: Jessica Tate Simms
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/4ea67b71-163e-43b9-aa87-1b3b47e420cb/-/crop/768x1086/181,0/-/preview/
+      image: https://ucarecdn.com/5d7d85a8-96cc-4297-9635-80a102fcf072/
       bio: "**Jessica Tate Simms** (she/her), a recent graduate from Santa Clara
         University’s class of 2023, is excited to make her Golden Thread
         Productions debut. Jessica has a Bachelor’s degree in Musical Theater
