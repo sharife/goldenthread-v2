@@ -8,6 +8,10 @@ intro: >
 
 **JOB OPENINGS**
 
+**Fairytale Players Program Manager** 
+
+Applications are being accepted for an experienced teaching artist or arts educator to successfully manage Golden Thread’s Theatre for Young Audiences program through production and touring activities, conduct outreach with local schools and libraries, and implement strategies for long term sustainability. [Learn more](https://goldenthread.org/get-involved/jobs/).
+
 **Production, Design & Technical Personnel**
 
 We accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
