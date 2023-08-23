@@ -148,6 +148,7 @@ cast:
         Blues Theater’s Blue Ink Playwriting Award, L.A. Weekly's Excellence in
         Playwriting Award, and the Middle East America Distinguished Playwright
         Award.
+      image: https://ucarecdn.com/8080fd82-237d-45e8-9236-5cf9205cec45/
     - name: Arti Ishak
       credit: playwright, Closure
       bio: >-
