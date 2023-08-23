@@ -172,6 +172,7 @@ cast:
 
 
         [www.artiishak.com](https://www.artiishak.com/)
+      image: https://ucarecdn.com/e2e6c1bf-e026-4def-88fb-3da2d2ddff81/-/crop/1331x1297/0,0/-/preview/
     - name: Hamed Sinno
       credit: playwright, The Suicide Bomber
       bio: >-
