@@ -5,13 +5,21 @@ season: 2023
 date: 2022-11-30T03:02:28.249Z
 start: 2023-08-20T07:00:00.000Z
 end: 2023-08-27T07:00:00.000Z
-description: N﻿ew Threads returns in 2023 with staged readings of our two new
-  play commissions, one by **Adam Ashraf Elsayigh** with dramaturg **Salma
-  Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah and
-  another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the
-  Black Panthers in Algiers. The readings will take place on **Sunday, August
-  20th and 27th** at **7pm**. Attendance is **FREE**, but seating is limited, so
-  registration is highly recommended.
+description: >-
+  N﻿ew Threads returns in 2023 with staged readings of our two new play
+  commissions: 
+
+
+  one by **Adam Ashraf Elsayigh** with dramaturg **Salma Zohdi** inspired by the life of political prisoner Alaa Abd El-Fattah; 
+
+
+  and another by **Tariq Hamami** with dramaturg **Dawn Monique Williams** about the Black Panthers in Algiers. 
+
+
+  The readings take place on **Sunday, August 20th and 27th** at **7pm**. 
+
+
+  Attendance is **FREE**, but seating is limited, so registration is highly recommended.
 background: ""
 titleimage: https://ucarecdn.com/377f28c2-4ec4-483b-aca2-6a8de4a5a145/
 programlabel: ""
