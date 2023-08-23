@@ -13,7 +13,7 @@ description: N﻿ew Threads returns in 2023 with staged readings of our two new
   20th and 27th** at **7pm**. Attendance is **FREE**, but seating is limited, so
   registration is highly recommended.
 background: ""
-titleimage: https://ucarecdn.com/60975b88-ac4e-4515-a81f-b1876de198dc/
+titleimage: https://ucarecdn.com/377f28c2-4ec4-483b-aca2-6a8de4a5a145/
 programlabel: ""
 program: ""
 writer: Adam Ashraf Elsayigh, Tariq Hamami
