@@ -101,18 +101,19 @@ cast:
     - name: Leontyne Mbele-Mbong*
       credit: director, The Fox and the Panther
       image: https://ucarecdn.com/4d096566-95d6-4b0e-99e7-209474525757/-/crop/818x1147/162,58/-/preview/
-      bio: "**[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) was
-        last seen at the Aurora Theatre as Renee in *Hurricane Diane*, Roxane in
-        *Cyrano*, and *Bull in a China Shop*, *Temple*, and *Breakfast with
-        Mugabe*. Other recent shows: *Fefu and her Friends* at A.C.T., *Lear* at
-        CalShakes. Some favorites: title role in *Medea* (TBA Award), and
-        *Cleopatra* in Antony & Cleopatra (TBA Award Finalist) with
-        African-American Shakespeare Company; *The Half-Life of Marie Curie*
-        (TheatreSquared, Fayetteville, AK); *Watch on the Rhine* (Berkeley
-        Rep/Guthrie Theatre), *Top Girls*, *The Last Days of Judas Iscariot*,
-        *Fences*; *Andromache*, *Candide*, *Richard III* (3 times), *Twelfth
-        Night*, and *Intimate Apparel* (Mayme; ARTY Award, best supporting
-        actress)."
+      bio: >-
+        **[Leontyne Mbele-Mbong](http://leontynembele-mbong.com/)** (she/her) is
+        delighted to make her debut with Golden Thread, and honored to be
+        directing this play. While Leontyne has explored many aspects of theater
+        making: acting, production and stage management, front of house and box
+        office, this is her second foray into directing. As an actor, she has
+        performed for many years around the Bay Area: appearing at American
+        Conservatory Theatre, Altarena Playhouse, the Aurora, Berkeley Rep,
+        CalShakes, Central Works, San Francisco Shakespeare Festival, Shotgun
+        Players; and regionally at the Guthrie in MN, and TheatreSquared in AK. 
+
+
+        [www.leontynembele-mbong.com](http://www.leontynembele-mbong.com/)
     - name: Adam Ashraf Elsayigh
       credit: playwright, Alaa
       image: https://ucarecdn.com/22671610-abd8-4501-99dd-ec7d33a5928c/
