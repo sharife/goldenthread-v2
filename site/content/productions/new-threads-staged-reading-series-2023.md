@@ -166,7 +166,7 @@ cast:
         Karina received her Ph.D. in Theatre and Performance Studies from Stanford University, where she was awarded the Carl Weber Prize for integration of Creative Practice and Scholarly Research. Her scholarship concentrates on the intersection of politics and performance, specifically how digital interventions, institutionalization efforts, and historical narrative affect the development and sustainability of social and politically engaged performance companies and collectives in the Americas. She is currently a professor of Theatre History and Performance Studies in the Department of Theatre and Dance and Santa Clara University.
     - name: Sofia Ahmad*
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/47ec7857-7d11-40d2-a8ca-bd2c9cf5eefd/-/crop/906x1141/260,0/-/preview/
+      image: https://ucarecdn.com/acff39c8-39fd-4034-b8de-ca0251479ffe/
       bio: "**Sofia Ahmad** is a [Resident
         Artist](https://goldenthread.org/about/people/) with Golden Thread.
         Previous Golden Thread productions include: *[On The
@@ -245,7 +245,7 @@ cast:
         she's gotten to dive into!"
     - name: Jessica Tate Simms
       credit: cast, The Fox and the Panther
-      image: https://ucarecdn.com/4ea67b71-163e-43b9-aa87-1b3b47e420cb/-/crop/768x1086/181,0/-/preview/
+      image: https://ucarecdn.com/5d7d85a8-96cc-4297-9635-80a102fcf072/
       bio: "**Jessica Tate Simms** (she/her), a recent graduate from Santa Clara
         University’s class of 2023, is excited to make her Golden Thread
         Productions debut. Jessica has a Bachelor’s degree in Musical Theater
