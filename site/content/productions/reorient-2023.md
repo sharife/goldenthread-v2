@@ -303,6 +303,7 @@ cast:
 
 
         [www.adinwalker.com](http://www.adinwalker.com/)
+      image: https://ucarecdn.com/0c5f3660-0574-4755-b428-d1fbf3dfc1fa/-/crop/407x425/459,25/-/preview/
     - name: Becca Wolff
       credit: director, A Suicide Bomber
       bio: >-
@@ -324,6 +325,7 @@ cast:
 
 
         [www.beccawolff.net](http://beccawolff.net/)
+      image: https://ucarecdn.com/88b7c91c-ad3d-4ace-87c4-7abfce0b95e0/-/crop/1302x1499/0,192/-/preview/
     - name: Sofia Ahmad
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
