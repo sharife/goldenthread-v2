@@ -231,6 +231,7 @@ cast:
         director of Directors Lab Mediterranean (2019), and a Fulbright alumnus
         with an MA in Theater Studies from Central Washington University
         (2011)."
+      image: https://ucarecdn.com/e39db30d-ec93-44dd-879d-80d4b4e4e1c5/-/crop/296x371/82,22/-/preview/
     - name: Amal Bisharat
       credit: director, Picture Bride & A Massacre
       bio: "**Amal Bisharat** (*she/her*) is a Palestinian American multidisciplinary
