@@ -253,6 +253,7 @@ cast:
         RAWdance, and Alonzo King Lines Ballet. Bisharat believes in the
         transformative power of art and storytelling whether on a stage, in a
         photograph, or in the stories we tell ourselves."
+      image: https://ucarecdn.com/7726d806-6260-4025-a271-f0023b156cc8/
     - name: Susannah Martin
       credit: director, Closure
       bio: "A director, teacher, and theatre maker of Tunisian heritage, and a
