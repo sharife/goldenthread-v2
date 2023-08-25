@@ -415,8 +415,10 @@ cast:
         [emilykeyishian.com](http://www.emilykeyishian.com/) and painting/art at
         [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
         for all of their support."
+      image: https://ucarecdn.com/9c3db20d-2479-4e2b-ab38-a695ddd76ec3/-/crop/1164x1241/337,0/-/preview/
     - name: Rose McAvoy
       credit: ensemble cast
+      image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
     - name: John Pasha
       credit: ensemble cast
       bio: >-
