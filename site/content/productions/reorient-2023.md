@@ -325,6 +325,7 @@ cast:
 
 
         [www.beccawolff.net](http://beccawolff.net/)
+      image: https://ucarecdn.com/88b7c91c-ad3d-4ace-87c4-7abfce0b95e0/-/crop/1302x1499/0,192/-/preview/
     - name: Sofia Ahmad
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
