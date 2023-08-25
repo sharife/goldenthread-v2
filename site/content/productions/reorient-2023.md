@@ -16,7 +16,7 @@ description: >-
 
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
 background: ""
-titleimage: https://ucarecdn.com/8feb21b8-f65c-4a66-b3c1-5f8d07fb9ebb/
+titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
 program: ""
 videos: []
 writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
