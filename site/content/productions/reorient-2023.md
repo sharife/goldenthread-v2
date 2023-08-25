@@ -275,6 +275,7 @@ cast:
         of Dipika Guha’s *In Braunau* for the San Francisco Playhouse. She
         believes strongly in fostering new voices and developing young
         storytellers to build and transform our communities."
+      image: https://ucarecdn.com/4f97bc34-5ce1-465a-94a9-88cc45c93d55/-/crop/854x1157/0,56/-/preview/
     - name: Adin Walker
       credit: director, Data Queen
       bio: >-
