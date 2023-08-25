@@ -477,7 +477,7 @@ photos3:
 archivevideo: ""
 bottom:
   text: ""
-  heading: ""
+  heading: "We are grateful for the support of the following institutions:"
   logos:
     - image: https://ucarecdn.com/fe8b5bce-6029-4833-9f13-8fea212c6508/
     - {}
