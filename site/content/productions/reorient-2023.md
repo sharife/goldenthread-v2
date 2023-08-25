@@ -431,7 +431,7 @@ cast:
     - name: Rose McAvoy
       credit: ensemble cast
       image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
-    - name: John Pasha
+    - name: John Pasha*
       credit: ensemble cast
       bio: >-
         **John Pasha*** (*he/him*) is thrilled to make his San Francisco debut
