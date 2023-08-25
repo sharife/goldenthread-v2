@@ -186,6 +186,7 @@ cast:
         in Digital Musics from Dartmouth College. 
 
         Their debut opera *Westerly Breath* is in development at The Industry Los Angeles, and opens at the New York Met Museum in September 2023.
+      image: https://ucarecdn.com/280fbfd3-a3e2-4b5b-8b8d-cd2989f5217a/-/crop/1377x1659/237,242/-/preview/
     - name: Judith Boyajian Strang-Waldau
       credit: playwright, Picture Bride
       bio: "**Judith Boyajian Strang-Waldau** (*she/her*) is a New England based
@@ -207,6 +208,7 @@ cast:
         Circle in the Square Theatre, Olympia Dukakis’ former Whole Theatre in
         New Jersey, and the New England Conservatory of Music. When not writing,
         Judith currently teaches piano and voice."
+      image: https://ucarecdn.com/52373280-ede0-480f-bc78-8545169cb49b/-/crop/843x952/309,249/-/preview/
     - name: Sahar Assaf
       credit: director, Stamp Me & A Massacre
       bio: "**Sahar Assaf** (*she/her*) is Golden Thread’s Executive Artistic
