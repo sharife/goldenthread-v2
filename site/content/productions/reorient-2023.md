@@ -402,6 +402,7 @@ cast:
         screened at the South Asian Film Festival of America 2021. Aside from
         the art of performing, Neamah is passionate about learning languages
         (she speaks five!), dance, and her day job on VR tech."
+      image: https://ucarecdn.com/e2631f34-24ef-4a85-918e-cf227d56684f/-/crop/1423x1633/83,318/-/preview/
     - name: Emily M. Keyishian
       credit: ensemble cast
       bio: "**Emily M. Keyishian** (*she/her*) is a Bay Area actor and artist
