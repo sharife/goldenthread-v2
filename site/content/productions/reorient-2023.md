@@ -340,6 +340,7 @@ cast:
         Repertory Theater, and Bay Area Playwrights Festival. Sofia is a
         graduate of NYU’s Tisch School of the Arts and a proud member of AEA and
         SAG-AFTRA."
+      image: https://ucarecdn.com/6e85e640-c571-429d-b848-b8c86562c016/-/crop/1309x1768/0,0/-/preview/
     - name: Hamzeh Daoud
       credit: ensemble cast
       bio: "**Hamzeh Daoud** (*they/she*) is a Palestinian asylum seeker from Amman,
@@ -364,6 +365,7 @@ cast:
         @queercrescent on instagram). She loves ASMR, dancing, and sipping on
         some homemade mint cold brew coffee while listening to fairuzyat on her
         balcony."
+      image: https://ucarecdn.com/a3065178-7573-44b6-b6ae-b74413620e7d/-/crop/618x742/172,63/-/preview/
     - name: John Fisher
       credit: ensemble cast
       bio: >-
