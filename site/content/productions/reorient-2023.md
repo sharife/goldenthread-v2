@@ -366,7 +366,7 @@ cast:
         some homemade mint cold brew coffee while listening to fairuzyat on her
         balcony."
       image: https://ucarecdn.com/a3065178-7573-44b6-b6ae-b74413620e7d/-/crop/618x742/172,63/-/preview/
-    - name: John Fisher
+    - name: John Fisher*
       credit: ensemble cast
       bio: >-
         **John Fisher*** (*he/his*)’s solo-show *A History of World War II*
@@ -431,7 +431,7 @@ cast:
     - name: Rose McAvoy
       credit: ensemble cast
       image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
-    - name: John Pasha
+    - name: John Pasha*
       credit: ensemble cast
       bio: >-
         **John Pasha*** (*he/him*) is thrilled to make his San Francisco debut
