@@ -303,6 +303,7 @@ cast:
 
 
         [www.adinwalker.com](http://www.adinwalker.com/)
+      image: https://ucarecdn.com/0c5f3660-0574-4755-b428-d1fbf3dfc1fa/-/crop/407x425/459,25/-/preview/
     - name: Becca Wolff
       credit: director, A Suicide Bomber
       bio: >-
