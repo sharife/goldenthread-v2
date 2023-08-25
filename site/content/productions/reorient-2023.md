@@ -391,6 +391,7 @@ cast:
 
 
         [www.johnfisher.biz](http://www.johnfisher.biz/)
+      image: https://ucarecdn.com/637dfb94-5601-4daf-bfb4-d9862de8a770/-/crop/473x639/0,0/-/preview/
     - name: Neamah Hussein
       credit: ensemble cast
       bio: "**Neamah Hussein** (*she/her*) is a Yemeni-Desi actress, writer and
