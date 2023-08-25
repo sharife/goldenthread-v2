@@ -366,7 +366,7 @@ cast:
         some homemade mint cold brew coffee while listening to fairuzyat on her
         balcony."
       image: https://ucarecdn.com/a3065178-7573-44b6-b6ae-b74413620e7d/-/crop/618x742/172,63/-/preview/
-    - name: John Fisher
+    - name: John Fisher*
       credit: ensemble cast
       bio: >-
         **John Fisher*** (*he/his*)’s solo-show *A History of World War II*
