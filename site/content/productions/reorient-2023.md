@@ -478,5 +478,8 @@ archivevideo: ""
 bottom:
   text: ""
   heading: ""
+  logos:
+    - image: https://ucarecdn.com/fe8b5bce-6029-4833-9f13-8fea212c6508/
+    - {}
 ---
 ![]()
