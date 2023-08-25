@@ -416,6 +416,18 @@ cast:
         [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
         for all of their support."
       image: https://ucarecdn.com/9c3db20d-2479-4e2b-ab38-a695ddd76ec3/-/crop/1164x1241/337,0/-/preview/
+    - name: AeJay Marquis Mitchell*
+      credit: ensemble cast
+      image: https://ucarecdn.com/b5a43048-c289-4b04-926e-62be250a9c5b/-/crop/1162x1252/308,0/-/preview/
+      bio: "**AeJay Mitchell** (they/them) is a multi-hyphenate performance artist,
+        educator, and activist whose work centers the decolonization of the
+        theatrical canon, the black avant-garde, and queer political performance
+        practice. They were most recently witnessed in the critically acclaimed
+        *Ni¿¿er Lovers* at The Magic Theatre and served as the co-director,
+        choreographer, and vocal arranger for the world premiere of Ryan M.
+        Luevano’s *Dance Plague*. They are a member of the Black Artists
+        Contemporary Cultural Experience collective, Literary Manager and
+        Dramaturgs of the Americas, and Actor’s Equity Association."
     - name: Rose McAvoy
       credit: ensemble cast
       image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
@@ -427,22 +439,6 @@ cast:
 
         NYC: *Napoli*, *Brooklyn* (Roundabout), *A Wilder Christmas* (Peccadillo), *The Constant Couple* (The Pearl), *Horatio* (FringeNYC). Regionally: Amir in *Disgraced* (Repertory Theatre of St. Louis & St. Louis Theatre Circle, Best Actor Nom.), Henry in *The Real Thing* at Capital Stage, Barrington Stage, Kansas City Repertory, Sacramento Theater Company, Asolo Repertory, Hangar Theater, Clarence Brown, Pioneer Theater. Full seasons at Santa Cruz Shakespeare (2010), American Shakespeare Center (2008), Alabama Shakespeare (2005), Pennsylvania Shakespeare (2004), New Mexico Shakespeare (2000), Utah Shakespeare (1999; Tony Award Season), Colorado Shakespeare (1997/98) and The Shakespeare Theatre (1995-96). TV/ Film: NYC Soaps, Sound, Heartless, The Order and Pop Rocks. Training: M.F.A. University of Delaware (PTTP), B.F.A. Boston University, RADA
       image: https://ucarecdn.com/9db68458-150b-47e7-9d69-9ecfa96edf48/-/crop/916x1305/389,0/-/preview/
-    - name: Julius Rea
-      credit: ensemble cast
-      bio: "**Julius Rea** (*he/him*) is a writer, performer, and arts producer based
-        in the San Francisco Bay Area. With a background as a journalist, he
-        obtained a degree in Philosophy at San Francisco State University. He
-        co-founded The Forum Collective, a multidisciplinary arts organization
-        that focuses on new journalism, theater and community-focused events.
-        Recently, Rea developed his new play *Kaleidoscope* while participating
-        in Crowded Fire Theater’s 2020-21 Resilience and Development Lab. In
-        2020, he was selected as a finalist for the Bay Area Playwrights
-        Festival. Also an actor, Rea has performed across the San Francisco Bay
-        Area with Ragged Wing Ensemble, Left Edge Theatre, and Benicia Old Town
-        Theatre Group; he received a 2019 Arty award for his portrayal of Chris
-        in Lynn Nottage’s *Sweat*. Currently, he is a production manager with
-        Lorraine Hansberry Theatre after receiving a Theatre Bay Area (TBA) Arts
-        Leadership Award to work with the company."
     - name: Arielle Tonkin
       credit: ensemble cast
       bio: "**Arielle Tonkin** (*they/them*) is an interdisciplinary artist, educator,
