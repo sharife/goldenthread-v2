@@ -426,6 +426,7 @@ cast:
         with Golden Thread! 
 
         NYC: *Napoli*, *Brooklyn* (Roundabout), *A Wilder Christmas* (Peccadillo), *The Constant Couple* (The Pearl), *Horatio* (FringeNYC). Regionally: Amir in *Disgraced* (Repertory Theatre of St. Louis & St. Louis Theatre Circle, Best Actor Nom.), Henry in *The Real Thing* at Capital Stage, Barrington Stage, Kansas City Repertory, Sacramento Theater Company, Asolo Repertory, Hangar Theater, Clarence Brown, Pioneer Theater. Full seasons at Santa Cruz Shakespeare (2010), American Shakespeare Center (2008), Alabama Shakespeare (2005), Pennsylvania Shakespeare (2004), New Mexico Shakespeare (2000), Utah Shakespeare (1999; Tony Award Season), Colorado Shakespeare (1997/98) and The Shakespeare Theatre (1995-96). TV/ Film: NYC Soaps, Sound, Heartless, The Order and Pop Rocks. Training: M.F.A. University of Delaware (PTTP), B.F.A. Boston University, RADA
+      image: https://ucarecdn.com/9db68458-150b-47e7-9d69-9ecfa96edf48/-/crop/916x1305/389,0/-/preview/
     - name: Julius Rea
       credit: ensemble cast
       bio: "**Julius Rea** (*he/him*) is a writer, performer, and arts producer based
@@ -461,6 +462,7 @@ cast:
         Jam for Social Change, Tzedek Lab, Mitsui Collective, and Inside Out
         Wisdom in Action are among their networks of accountability, collective
         power, and care."
+      image: https://ucarecdn.com/7e3c7030-812a-41bf-84f6-1d76a343927f/-/crop/759x936/0,77/-/preview/
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
