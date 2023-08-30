@@ -481,10 +481,11 @@ bottom:
   logos:
     - image: https://ucarecdn.com/fe8b5bce-6029-4833-9f13-8fea212c6508/
     - image: https://ucarecdn.com/fd0c61b6-bac3-4b09-81b4-66bb0b997f4d/
-    - {}
+    - image: https://ucarecdn.com/58e18efb-1aef-44d3-b52f-051d39eef155/
     - image: https://ucarecdn.com/6b85f6af-e1c2-4a13-8203-1efea3b8b456/
     - image: https://ucarecdn.com/4a7f1249-320e-4e09-8b4b-8368c980a667/
     - image: https://ucarecdn.com/9cb8d242-9a21-4525-a136-a58f65fc52a5/
     - image: https://ucarecdn.com/24255c2e-b12e-486d-863d-9e635f898a5e/
+    - {}
 ---
 ![]()
