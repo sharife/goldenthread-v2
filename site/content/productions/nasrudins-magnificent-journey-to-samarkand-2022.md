@@ -112,11 +112,13 @@ cast:
     - name: Shoresh Alaudini
       credit: "Puppet Design "
       image: https://ucarecdn.com/48450082-1938-4fe9-8166-464841fd1427/-/crop/574x670/2,0/-/preview/
-      bio: "**Shoresh Alaudini** is a maven cut from the storytelling fabric, weaving
-        his passions for sculpture, collage, acting, M.C. rap poetry, graphic
-        novels, illustration, and the myriad of digital audio video media mix
-        mastering alchemy textures, proudly serving and sowing seeds with the
-        Golden Thread since 2010."
+      bio: "**Shoresh Alaudini** (*he/him*) is a [Resident
+        Artist](https://goldenthread.org/about/people/#open-modal-Shoresh%20Ala\
+        udini) with Golden Thread. Shoresh is a maven cut from the storytelling
+        fabric, weaving his passions for sculpture, collage, acting, M.C. rap
+        poetry, graphic novels, illustration, and the myriad of digital audio
+        video media mix mastering alchemy textures, proudly serving and sowing
+        seeds with the Golden Thread since 2010."
 mentions:
   heading: 2023 Public Library performance dates
   text: >-
