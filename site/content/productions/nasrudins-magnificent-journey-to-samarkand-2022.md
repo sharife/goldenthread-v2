@@ -20,7 +20,7 @@ videos: []
 writer: Torange Yeghiazarian
 director: Sarah Al-Kassab
 featuring: Bidalia Albanese, Sarah Al Kassab
-designteam: Scenic & Prop Design by Mokhtar Paki
+designteam: Scenic & Prop Design by Mokhtar Paki; Donkey Puppet Design by Shoresh Alaudini
 additional: Dance choreography by Lisa Tateosian
 stage: Various Bay Area schools & libraries
 misc: |-
