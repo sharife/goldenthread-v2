@@ -23,7 +23,7 @@ writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
   Sinno, Judith Boyajian Strang-Waldau
 director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
 featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
-  Keyishian, Rose McAvoy, John Pasha, Julius Rea, Arielle Tonkin
+  Keyishian, Rose McAvoy, AeJay Marquis Mitchell*, John Pasha, Arielle Tonkin
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
   (Sound), Briana Lisette Cardenas (Costume), Michaela Creedon (Props)
 dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
@@ -416,6 +416,9 @@ cast:
         [devildoll.com](http://www.devildoll.com/) ~ Thanks to Ed, Harry & Shane
         for all of their support."
       image: https://ucarecdn.com/9c3db20d-2479-4e2b-ab38-a695ddd76ec3/-/crop/1164x1241/337,0/-/preview/
+    - name: Rose McAvoy
+      credit: ensemble cast
+      image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
     - name: AeJay Marquis Mitchell*
       credit: ensemble cast
       image: https://ucarecdn.com/b5a43048-c289-4b04-926e-62be250a9c5b/-/crop/1162x1252/308,0/-/preview/
@@ -428,9 +431,6 @@ cast:
         Luevano’s *Dance Plague*. They are a member of the Black Artists
         Contemporary Cultural Experience collective, Literary Manager and
         Dramaturgs of the Americas, and Actor’s Equity Association."
-    - name: Rose McAvoy
-      credit: ensemble cast
-      image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
     - name: John Pasha*
       credit: ensemble cast
       bio: >-
