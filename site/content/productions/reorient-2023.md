@@ -480,6 +480,8 @@ bottom:
   heading: "We are grateful for the support of the following institutions:"
   logos:
     - image: https://ucarecdn.com/fe8b5bce-6029-4833-9f13-8fea212c6508/
+    - image: https://ucarecdn.com/fd0c61b6-bac3-4b09-81b4-66bb0b997f4d/
     - {}
+    - image: https://ucarecdn.com/6b85f6af-e1c2-4a13-8203-1efea3b8b456/
 ---
 ![]()
