@@ -18,7 +18,8 @@ description: >-
 background: https://ucarecdn.com/509e85d8-55b5-461c-a95b-acd582598ddf/
 titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
 program: ""
-videos: []
+videos:
+  - id: DEHj2WMjTb4
 writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
   Sinno, Judith Boyajian Strang-Waldau
 director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
