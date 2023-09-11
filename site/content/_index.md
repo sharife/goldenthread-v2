@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: This August
+headline: This Fall
 subtitle: ""
-background: https://ucarecdn.com/2daeaf94-adc6-454e-8e23-fbe2b3956946/
+background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
 cta: Learn More!
-link: https://goldenthread.org/productions/new-threads-staged-reading-series-2023/
+link: https://goldenthread.org/productions/reorient-2023/
 items:
   - subtitle: "**2023 Season Tickets On Sale Now!**"
     text: Our 27th season brings new work highlighting our commitment to uplift one
