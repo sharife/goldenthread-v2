@@ -114,9 +114,9 @@ lists:
         text: This year’s ReOrient Festival marks our third collaboration with the
           [Literary Managers and Dramaturgs of the Americas
           (LMDA)](https://lmda.org/). The partnership brings together two
-          organizations that value challenging cultural preconceptions through
-          provocative programming and dialogue. Curated by LMDA’s Regional VP
-          Metro Bay Area and Festival Lead Dramaturg [Nakissa
+          organizations that value provocative programming and dialogue that
+          challenge cultural preconceptions. Curated by LMDA’s Regional VP Metro
+          Bay Area and Festival Lead Dramaturg [Nakissa
           Etemad](https://goldenthread.org/about/people/#open-modal-Nakissa%20Etemad),
           LMDA is providing a team of Dramaturgs to aid the playwrights in
           script development, provide contextual information, and write feature
