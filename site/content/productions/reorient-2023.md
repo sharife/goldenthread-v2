@@ -635,7 +635,18 @@ photos3:
   items: []
 archivevideo: ""
 bottom:
-  text: ""
+  text: |-
+    ![](https://ucarecdn.com/be220584-2d1b-4e85-b8d3-417acd9744d4/)
+
+    ![](https://ucarecdn.com/d3b3bada-3e23-4aea-a0f4-f44ea638998a/)
+
+    ![](https://ucarecdn.com/3780185b-75ef-4990-a83d-bf2f81a2540b/)
+
+    ![](https://ucarecdn.com/4ade9166-93d5-4d52-b6f4-a29a713ea721/)
+
+    ![](https://ucarecdn.com/0458d9a0-f5eb-4e50-98cb-39e27305b5d2/)
+
+    ![](https://ucarecdn.com/5b180258-64c6-4b5b-b56e-4856669545f1/)
   heading: "We are grateful for the support of the following institutions:"
   logos:
     - image: https://ucarecdn.com/fe8b5bce-6029-4833-9f13-8fea212c6508/
