@@ -34,7 +34,8 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://potrerostage.org/visit-potrero-stage/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 ticketinfo: "$15-100 "
-misc: "Run time: 2 hours, plus intermission"
+misc: "Six short plays, presented as One evening of theatre. Run time: 2 hours,
+  plus intermission"
 lists:
   - heading: REORIENT 2023 LINE-UP
     items:
