@@ -13,4 +13,6 @@ No doubt Iranian women have been consistent and committed to their fight for equ
 
 In solidarity and with gratitude, 
 
-Golden Thread Team
+Golden Thread Team 
+
+~ September 30, 2022
