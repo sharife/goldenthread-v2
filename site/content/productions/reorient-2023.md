@@ -604,4 +604,4 @@ bottom:
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
-![]()
+![](https://ucarecdn.com/9093403d-21ac-4193-ad2e-ed66fcae9d87/)
