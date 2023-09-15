@@ -442,7 +442,7 @@ cast:
         founding member of World Wide Lab; the founder of RasaNova Theater; a
         wellness facilitator with Bauman Wellness; an ensemble member at Aviva
         Arts, and a resident artist at Brava Theater."
-      link: www.vidhusinghtheater.com
+      link: ""
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
