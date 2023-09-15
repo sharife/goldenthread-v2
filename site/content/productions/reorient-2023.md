@@ -1,5 +1,5 @@
 ---
-title: ReOrient Festival & Forum 2023
+title: ReOrient Festival 2023
 pre: Think you know the Middle East? Think again!
 season: 2023
 date: 2022-11-30T01:30:40.142Z
