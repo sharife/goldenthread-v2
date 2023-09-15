@@ -461,7 +461,7 @@ cast:
         power, and care."
       image: https://ucarecdn.com/7e3c7030-812a-41bf-84f6-1d76a343927f/-/crop/759x936/0,77/-/preview/
     - name: Nakissa Etemad
-      credit: Lead Dramaturg
+      credit: dramaturg, Stamp Me & The Suicide Bomber
       image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
       bio: "Nakissa Etemad (*she/her*) is an Iranian American dramaturg, producer,
         director, and French translator, specializing in new BIPOC plays and
@@ -491,7 +491,7 @@ cast:
         Award](https://lmda.org/elliott-hayes-award-introduction-part-two-marcu\
         s-gardley) for The Lark’s four-city premieres of *the road weeps, the
         well runs dry* by Marcus Gardley."
-    - {}
+    - name: Heather Rastovac Akbarzadeh, Ph.D. 
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
