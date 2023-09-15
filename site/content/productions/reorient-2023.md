@@ -108,6 +108,23 @@ lists:
           Rising](https://www.silkroadrising.org/). The 2023 convening is hosted
           by Golden Thread Productions as part of the ReOrient Festival of Short
           Plays."
+  - items:
+      - itemstart: 2023-09-15T02:18:07.786Z
+        itemend: 2023-09-15T02:18:07.823Z
+        text: This year’s ReOrient Festival marks our third collaboration with the
+          [Literary Managers and Dramaturgs of the Americas
+          (LMDA)](https://lmda.org/). The partnership brings together two
+          organizations that value challenging cultural preconceptions through
+          provocative programming and dialogue. Curated by LMDA’s Regional VP
+          Metro Bay Area and Festival Lead Dramaturg [Nakissa
+          Etemad](https://goldenthread.org/about/people/#open-modal-Nakissa%20Etemad),
+          LMDA is providing a team of Dramaturgs to aid the playwrights in
+          script development, provide contextual information, and write feature
+          articles that peek behind-the-scenes of ReOrient. In addition to
+          Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy
+          Team includes Heather Rastovak Akbarzadeh, Marina Johnson, and Vidhu
+          Singh.
+        image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
 grids: []
 cast:
   heading: ""
@@ -626,6 +643,4 @@ bottom:
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
-![](https://ucarecdn.com/b0e9c316-42ea-47c1-a823-48da457c38a5/)
-
-This year’s ReOrient Festival marks our third collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg [Nakissa Etemad](https://goldenthread.org/about/people/#open-modal-Nakissa%20Etemad), LMDA is providing a team of Dramaturgs to aid the playwrights in script development, provide contextual information, and write feature articles that peek behind-the-scenes of ReOrient. In addition to Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy Team includes Heather Rastovak Akbarzadeh, Marina Johnson, and Vidhu Singh.
+![]()
