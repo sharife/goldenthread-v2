@@ -418,25 +418,27 @@ cast:
     - name: Vidhu Singh, Ph.D.
       credit: Publications Dramaturg, & research dramaturg, The Suicide Bomber
       image: https://ucarecdn.com/7876b484-77c1-4327-b2a6-2c55b636f9cc/
-      bio: "**Vidhu Singh**, Ph.D. (*she/her*) is an Expressive Arts Facilitator
-        trained at Northwest Creative & Expressive Arts Institute, Seattle and a
-        Social Emotional Arts Facilitator trained through UCLA’s Arts & Healing
-        Initiative. As a theater artist, Vidhu’s dramaturgy, scholarship and
-        advocacy for South Asian theater have made her contribution to the
-        American theater truly unique. Cal Shakes recognized this uniqueness by
-        honoring Vidhu with the 2020 Luminary Award in dramaturgy. Dramaturgy
-        highlights include ReOrient 2023 with Golden Thread Productions
-        (in-progress), *Burning Wild* with Aviva Arts at 3GT Innovators
-        Residency 2022 and Berkeley Rep’s 2021 Ground Floor Summer Residency
-        Lab, *Third Eye Moonwalk* by Jon Bernson with Playwrights Foundation in
-        2021, and *House of Joy* by Madhuri Shekar with Cal Shakes in 2019 and
-        Bay Area Playwrights Festival in 2018. Vidhu holds a Masters degree in
-        Dramatic Art from UC Santa Barbara and a doctorate in Asian Theatre from
-        UH Manoa. A graduate of the Lincoln Center Theater Directors’ Lab, Vidhu
-        is a core member of Theatre without Borders; a founding member of World
-        Wide Lab; the founder of RasaNova Theater; a wellness facilitator with
-        Bauman Wellness; an ensemble member at Aviva Arts, and a resident artist
-        at Brava Theater."
+      bio: "**Vidhu Singh**[, Ph.D.](https://www.vidhusinghtheater.com/) (*she/her*)
+        is an Expressive Arts Facilitator trained at Northwest Creative &
+        Expressive Arts Institute, Seattle and a Social Emotional Arts
+        Facilitator trained through UCLA’s Arts & Healing Initiative. As a
+        theater artist, Vidhu’s dramaturgy, scholarship and advocacy for South
+        Asian theater have made her contribution to the American theater truly
+        unique. Cal Shakes recognized this uniqueness by honoring Vidhu with the
+        2020 Luminary Award in dramaturgy. Dramaturgy highlights include
+        [ReOrient](https://goldenthread.org/programs/reorient/) 2023 with Golden
+        Thread Productions (in-progress), *Burning Wild* with Aviva Arts at 3GT
+        Innovators Residency 2022 and Berkeley Rep’s 2021 Ground Floor Summer
+        Residency Lab, *Third Eye Moonwalk* by Jon Bernson with Playwrights
+        Foundation in 2021, and *House of Joy* by Madhuri Shekar with Cal Shakes
+        in 2019 and Bay Area Playwrights Festival in 2018. Vidhu holds a Masters
+        degree in Dramatic Art from UC Santa Barbara and a doctorate in Asian
+        Theatre from UH Manoa. A graduate of the Lincoln Center Theater
+        Directors’ Lab, Vidhu is a core member of Theatre without Borders; a
+        founding member of World Wide Lab; the founder of RasaNova Theater; a
+        wellness facilitator with Bauman Wellness; an ensemble member at Aviva
+        Arts, and a resident artist at Brava Theater."
+      link: www.vidhusinghtheater.com
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
