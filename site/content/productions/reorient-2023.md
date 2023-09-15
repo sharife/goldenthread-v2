@@ -643,8 +643,8 @@ bottom:
     - image: https://ucarecdn.com/4a7f1249-320e-4e09-8b4b-8368c980a667/
     - image: https://ucarecdn.com/9cb8d242-9a21-4525-a136-a58f65fc52a5/
     - image: https://ucarecdn.com/24255c2e-b12e-486d-863d-9e635f898a5e/
-    - {}
-    - {}
+    - image: https://ucarecdn.com/20b00931-9cee-4e5e-989b-7d7953cf8859/
+    - image: https://ucarecdn.com/6bc4b058-e114-437a-a4e8-d58dfb51114c/
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
