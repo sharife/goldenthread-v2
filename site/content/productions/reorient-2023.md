@@ -11,7 +11,7 @@ description: >-
   and spirited festival of short plays from or about the Middle East. The
   dizzying line-up is diverse in content and style, with 6 plays selected from
   113 submissions, highlighting a multiplicity of Middle Eastern perspectives
-  and identities. Think you know the Middle East? Think again! 
+  and identities. **Think you know the Middle East? Think again!** 
 
 
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
@@ -34,7 +34,7 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://potrerostage.org/visit-potrero-stage/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 ticketinfo: "$15-100 "
-misc: "Six short plays, presented as One evening of theatre. Run time: 2 hours,
+misc: "Six short plays, presented as one evening of theatre. Run time: 2 hours,
   plus intermission"
 lists:
   - heading: REORIENT 2023 LINE-UP
@@ -91,7 +91,7 @@ lists:
         title: Data Queen
         itemstart: ""
         itemend: ""
-  - heading: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
+  - heading: ReOrient Forum & MENA Convening
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
@@ -114,6 +114,7 @@ lists:
 
           More information and full schedule coming soon.
         cta: "Registration link coming soon. "
+        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
   - items:
       - itemstart: 2023-09-15T02:18:07.786Z
         itemend: 2023-09-15T02:18:07.823Z
