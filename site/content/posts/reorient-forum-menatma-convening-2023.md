@@ -6,6 +6,8 @@ description: ""
 \
 MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE (MENATMA)
 2023 FALL CONVENING
+
+
 October 28-29, 2023
 
 As part of our ReOrient Festival and Forum, Golden Thread hosts the 4th annual national convening of the Middle Eastern North African Theater Makers Alliance ([MENATMA](https://www.menatheatre.org/)) co-produced with [Art2Action, Inc.](https://www.art2action.org/)
