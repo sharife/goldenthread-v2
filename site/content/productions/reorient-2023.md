@@ -330,7 +330,7 @@ cast:
     - name: Nakissa Etemad
       credit: dramaturg, Stamp Me & The Suicide Bomber
       image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
-      bio: "Nakissa Etemad (*she/her*), Lead Dramaturg, is an Iranian American
+      bio: "**Nakissa Etemad** (*she/her*), Lead Dramaturg, is an Iranian American
         dramaturg, producer, director, and French translator, specializing in
         new BIPOC plays and musicals for 30 years. A [Resident
         Artist](https://goldenthread.org/about/people/#open-modal-Nakissa%20Ete\
@@ -361,8 +361,8 @@ cast:
     - name: Heather Rastovac Akbarzadeh, Ph.D. 
       credit: dramaturg, Closure & Picture Bride
       image: https://ucarecdn.com/58ac8aef-7112-4385-a0ed-674806b441b8/
-      bio: "Heather Rastovac Akbarzadeh, Ph.D. (*she/her*) is a scholar, artist, and
-        educator with two decades of experience as a dancer-choreographer,
+      bio: "**Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
+        and educator with two decades of experience as a dancer-choreographer,
         artistic director, curator, and dramaturg among diasporic MENA/SWANA
         communities. Since 1997, she has performed in activist street
         performances, MENA/SWANA cultural events, and full evening dance works
@@ -393,13 +393,13 @@ cast:
     - name: Marina Johnson
       credit: dramaturg, A Massacre & Data Queen
       image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
-      bio: Marina Johnson (*she/they*) is a Ph.D. candidate in Theatre and Performance
-        Studies at Stanford University, also pursuing Ph.D. minors in Feminist,
-        Gender, and Sexuality Studies and Comparative Studies in Race and
-        Ethnicity. She was a 2021-2022 Graduate Public Service Fellow with the
-        Stanford Haas Center and the 2022-2023 co-artistic director of the
-        Nitery Experimental Theatre on Stanford’s Campus. Marina received her
-        MFA in Directing from the University of Iowa. She is the co-host of
+      bio: "**Marina Johnson** (*she/they*) is a Ph.D. candidate in Theatre and
+        Performance Studies at Stanford University, also pursuing Ph.D. minors
+        in Feminist, Gender, and Sexuality Studies and Comparative Studies in
+        Race and Ethnicity. She was a 2021-2022 Graduate Public Service Fellow
+        with the Stanford Haas Center and the 2022-2023 co-artistic director of
+        the Nitery Experimental Theatre on Stanford’s Campus. Marina received
+        her MFA in Directing from the University of Iowa. She is the co-host of
         Kunafa and Shay, a podcast produced by HowlRound Theatre Commons.
         Johnson is a member of Silk Road Rising’s Polycultural Institute. Prior
         to beginning her Ph.D., she was a Visiting Assistant Professor at Beloit
@@ -413,8 +413,30 @@ cast:
         Rooms* (Penn State, 2021), and dramaturg and assistant director
         for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
         published in MATC’s Theatre/Practice,
-        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages."
       link: www.marina-johnson.com
+    - name: Vidhu Singh, Ph.D.
+      credit: Publications Dramaturg, & research dramaturg, The Suicide Bomber
+      image: https://ucarecdn.com/7876b484-77c1-4327-b2a6-2c55b636f9cc/
+      bio: "**Vidhu Singh**, Ph.D. (*she/her*) is an Expressive Arts Facilitator
+        trained at Northwest Creative & Expressive Arts Institute, Seattle and a
+        Social Emotional Arts Facilitator trained through UCLA’s Arts & Healing
+        Initiative. As a theater artist, Vidhu’s dramaturgy, scholarship and
+        advocacy for South Asian theater have made her contribution to the
+        American theater truly unique. Cal Shakes recognized this uniqueness by
+        honoring Vidhu with the 2020 Luminary Award in dramaturgy. Dramaturgy
+        highlights include ReOrient 2023 with Golden Thread Productions
+        (in-progress), *Burning Wild* with Aviva Arts at 3GT Innovators
+        Residency 2022 and Berkeley Rep’s 2021 Ground Floor Summer Residency
+        Lab, *Third Eye Moonwalk* by Jon Bernson with Playwrights Foundation in
+        2021, and *House of Joy* by Madhuri Shekar with Cal Shakes in 2019 and
+        Bay Area Playwrights Festival in 2018. Vidhu holds a Masters degree in
+        Dramatic Art from UC Santa Barbara and a doctorate in Asian Theatre from
+        UH Manoa. A graduate of the Lincoln Center Theater Directors’ Lab, Vidhu
+        is a core member of Theatre without Borders; a founding member of World
+        Wide Lab; the founder of RasaNova Theater; a wellness facilitator with
+        Bauman Wellness; an ensemble member at Aviva Arts, and a resident artist
+        at Brava Theater."
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
