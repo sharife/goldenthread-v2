@@ -370,7 +370,7 @@ cast:
         [www.beccawolff.net](http://beccawolff.net/)
       image: https://ucarecdn.com/88b7c91c-ad3d-4ace-87c4-7abfce0b95e0/-/crop/1302x1499/0,192/-/preview/
     - name: Nakissa Etemad
-      credit: dramaturg, Stamp Me & The Suicide Bomber
+      credit: Lead Dramaturg, and dramaturg, Stamp Me & The Suicide Bomber
       image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
       bio: "**Nakissa Etemad** (*she/her*), Lead Dramaturg, is an Iranian American
         dramaturg, producer, director, and French translator, specializing in
