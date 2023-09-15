@@ -463,9 +463,9 @@ cast:
     - name: Nakissa Etemad
       credit: dramaturg, Stamp Me & The Suicide Bomber
       image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
-      bio: "Nakissa Etemad (*she/her*) is an Iranian American dramaturg, producer,
-        director, and French translator, specializing in new BIPOC plays and
-        musicals for 30 years. A [Resident
+      bio: "Nakissa Etemad (*she/her*), Lead Dramaturg, is an Iranian American
+        dramaturg, producer, director, and French translator, specializing in
+        new BIPOC plays and musicals for 30 years. A [Resident
         Artist](https://goldenthread.org/about/people/#open-modal-Nakissa%20Ete\
         mad) of Golden Thread, Regional VP Metro Bay Area for Literary Managers
         and Dramaturgs of the Americas (LMDA), and the recent Associate Artistic
@@ -492,6 +492,32 @@ cast:
         s-gardley) for The Lark’s four-city premieres of *the road weeps, the
         well runs dry* by Marcus Gardley."
     - name: Heather Rastovac Akbarzadeh, Ph.D. 
+      credit: dramaturg, Closure & Picture Bride
+      image: https://ucarecdn.com/58ac8aef-7112-4385-a0ed-674806b441b8/
+      bio: "Heather Rastovac Akbarzadeh, Ph.D. (*she/her*) is a scholar, artist, and
+        educator with two decades of experience as a dancer-choreographer,
+        artistic director, curator, and dramaturg among diasporic MENA/SWANA
+        communities. Since 1997, she has performed in activist street
+        performances, MENA/SWANA cultural events, and full evening dance works
+        on concert stages. Heather earned her Ph.D. in Performance Studies from
+        UC Berkeley with a Minor in Women, Gender, and Sexuality, where she
+        completed a dissertation on diasporic Iranian dancers and performance
+        artists. She was a Mellon Postdoctoral Fellow in Dance Studies in the
+        Department of Theater and Performance Studies at Stanford University
+        (2016 – 2018) and a UC Chancellor’s Postdoctoral Fellow in Asian
+        American Studies at UC Davis (2018 – 2020). Her first book manuscript
+        (in-process), *Choreographing the Iranian Diaspora: Dance,
+        Spectatorship, and the Politics of Belonging*, was selected for the
+        Dance Studies Association’s 2019 First-time Author Mentorship Program.
+        Heather’s publications include chapters in *Futures of Dance
+        Studies* (University of Wisconsin Press, 2020) and *Performing Iran:
+        Cultural Identity and Theatrical Performance* (I.B. Tauris Press, 2021).
+        Since 2021, Heather has been the program manager for Golden Thread’s
+        theatre-for-young-audiences program, [Fairytale
+        Players](https://goldenthread.org/programs/fairytale-players/). She will
+        begin as an assistant professor of dance at UC Riverside in January
+        2024."
+      link: www.heatherrastovac.com
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
