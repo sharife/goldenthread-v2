@@ -112,7 +112,7 @@ lists:
           Plays. 
 
 
-          More information and full schedule coming soon.
+          More information and full schedule [coming soon](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
         cta: "Registration link coming soon. "
         pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
   - items:
