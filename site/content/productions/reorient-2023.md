@@ -416,8 +416,9 @@ cast:
         Rooms* (Penn State, 2021), and dramaturg and assistant director
         for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
         published in MATC’s Theatre/Practice,
-        [Eumenica](https://marina-johnson.com/), and in Arab Stages."
-      link: www.marina-johnson.com
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
+        [www.marina-johnson.com](https://marina-johnson.com/)"
+      link: ""
     - name: Vidhu Singh, Ph.D.
       credit: Publications Dramaturg, & research dramaturg, The Suicide Bomber
       image: https://ucarecdn.com/7876b484-77c1-4327-b2a6-2c55b636f9cc/
