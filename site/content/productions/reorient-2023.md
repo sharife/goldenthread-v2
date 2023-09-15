@@ -536,16 +536,18 @@ cast:
         Kunafa and Shay, a podcast produced by HowlRound Theatre Commons.
         Johnson is a member of Silk Road Rising’s Polycultural Institute. Prior
         to beginning her Ph.D., she was a Visiting Assistant Professor at Beloit
-        College for three years. Select recent directing credits include: The
-        Shroud Maker (International Voices Project), Shakespeare’s
-        Sisters (Stanford), The Palestinian Youth Monologues (Stanford), Five
-        Lesbians Eating a Quiche (Beloit College), and In the Next Room (Beloit
-        College). Additionally, she was the dramaturg for Julius
-        Caesar (Stanford, 2022), assistant director and dramaturg on As Soon As
-        Impossible (Stanford, 2021), dramaturg for Two Rooms (Penn State, 2021),
-        and dramaturg and assistant director for Twice, Thrice, Frice (Silk Road
-        Rising, 2019).  Her work has been published in MATC’s Theatre/Practice,
-        Eumenica, and in Arab Stages.
+        College for three years. Select recent directing credits include: *The
+        Shroud Maker* (International Voices Project), *Shakespeare’s
+        Sisters* (Stanford), *The Palestinian Youth Monologues*
+        (Stanford), *Five Lesbians Eating a Quiche* (Beloit College), and *In
+        the Next Room* (Beloit College). Additionally, she was the dramaturg
+        for *Julius Caesar* (Stanford, 2022), assistant director and dramaturg
+        on *As Soon As Impossible* (Stanford, 2021), dramaturg for *Two
+        Rooms* (Penn State, 2021), and dramaturg and assistant director
+        for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
+        published in MATC’s Theatre/Practice,
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
+      link: www.marina-johnson.com
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
