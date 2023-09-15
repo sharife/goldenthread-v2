@@ -91,7 +91,7 @@ lists:
         title: Data Queen
         itemstart: ""
         itemend: ""
-  - heading: ReOrient Forum & MENA Convening
+  - heading: ReOrient Forum & MENATMA Convening
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
