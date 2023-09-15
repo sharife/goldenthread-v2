@@ -95,7 +95,8 @@ lists:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
         title: October 28 & 29, 2023
-        text: "[MENA Theater-Makers
+        text: >-
+          [MENA Theater-Makers
           Alliance](https://www.menatheatre.org/about)'s annual convening brings
           together SWANA artists, activists, and scholars from around the
           country and the MENA diaspora for panel and roundtable discussions,
@@ -107,7 +108,11 @@ lists:
           Theatre](https://www.noortheatre.org/) and [Silk Road
           Rising](https://www.silkroadrising.org/). The 2023 convening is hosted
           by Golden Thread Productions as part of the ReOrient Festival of Short
-          Plays."
+          Plays. 
+
+
+          More information and full schedule coming soon.
+        cta: "Registration link coming soon. "
   - items:
       - itemstart: 2023-09-15T02:18:07.786Z
         itemend: 2023-09-15T02:18:07.823Z
