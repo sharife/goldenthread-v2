@@ -361,7 +361,8 @@ cast:
     - name: Heather Rastovac Akbarzadeh, Ph.D. 
       credit: dramaturg, Closure & Picture Bride
       image: https://ucarecdn.com/58ac8aef-7112-4385-a0ed-674806b441b8/
-      bio: "**Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
+      bio: >-
+        **Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
         and educator with two decades of experience as a dancer-choreographer,
         artistic director, curator, and dramaturg among diasporic MENA/SWANA
         communities. Since 1997, she has performed in activist street
@@ -384,12 +385,14 @@ cast:
         Thread’s theatre-for-young-audiences program, [Fairytale
         Players](https://goldenthread.org/programs/fairytale-players/). Previous
         Golden Thread credits include: dramaturg, *[The Language of Wild
-        Berries](https://goldenthread.org/productions/the-language-of-wild-berr\
-        ies-2022/)*; Forum coordinator, [ReOrient
+        Berries](https://goldenthread.org/productions/the-language-of-wild-berries-2022/)*;
+        Forum coordinator, [ReOrient
         2012](https://goldenthread.org/productions/reorient-2012/). She will
         begin as an assistant professor of dance at UC Riverside in January
-        2024."
-      link: www.heatherrastovac.com
+        2024. \
+
+        [www.heatherrastovac.com](https://www.heatherrastovac.com/)
+      link: ""
     - name: Marina Johnson
       credit: dramaturg, A Massacre & Data Queen
       image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
@@ -413,8 +416,9 @@ cast:
         Rooms* (Penn State, 2021), and dramaturg and assistant director
         for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
         published in MATC’s Theatre/Practice,
-        [Eumenica](https://marina-johnson.com/), and in Arab Stages."
-      link: www.marina-johnson.com
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
+        [www.marina-johnson.com](https://marina-johnson.com/)"
+      link: ""
     - name: Vidhu Singh, Ph.D.
       credit: Publications Dramaturg, & research dramaturg, The Suicide Bomber
       image: https://ucarecdn.com/7876b484-77c1-4327-b2a6-2c55b636f9cc/
@@ -438,7 +442,7 @@ cast:
         founding member of World Wide Lab; the founder of RasaNova Theater; a
         wellness facilitator with Bauman Wellness; an ensemble member at Aviva
         Arts, and a resident artist at Brava Theater."
-      link: www.vidhusinghtheater.com
+      link: ""
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
@@ -604,4 +608,6 @@ bottom:
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
-![]()
+![](https://ucarecdn.com/b0e9c316-42ea-47c1-a823-48da457c38a5/)
+
+This year’s ReOrient Festival marks our third collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg [Nakissa Etemad](https://goldenthread.org/about/people/#open-modal-Nakissa%20Etemad), LMDA is providing a team of Dramaturgs to aid the playwrights in script development, provide contextual information, and write feature articles that peek behind-the-scenes of ReOrient. In addition to Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy Team includes Heather Rastovak Akbarzadeh, Marina Johnson, and Vidhu Singh.
