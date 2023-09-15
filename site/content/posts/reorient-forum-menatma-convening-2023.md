@@ -17,6 +17,6 @@ MENATMA amplifies the voices of Middle Eastern and North African theater makers 
 
 This year’s convening is co-sponsored by [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/), [Silk Road Rising](https://www.silkroadrising.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). 
 
-##### Registration is free, but advanced registration is required. 
+##### Registration is free, but advanced registration is required.
 
-Conference Details Coming Soon!
+Registration Details Coming Soon!
