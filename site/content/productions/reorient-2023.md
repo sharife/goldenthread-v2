@@ -390,6 +390,31 @@ cast:
         begin as an assistant professor of dance at UC Riverside in January
         2024."
       link: www.heatherrastovac.com
+    - name: Marina Johnson
+      credit: dramaturg, A Massacre & Data Queen
+      image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
+      bio: Marina Johnson (*she/they*) is a Ph.D. candidate in Theatre and Performance
+        Studies at Stanford University, also pursuing Ph.D. minors in Feminist,
+        Gender, and Sexuality Studies and Comparative Studies in Race and
+        Ethnicity. She was a 2021-2022 Graduate Public Service Fellow with the
+        Stanford Haas Center and the 2022-2023 co-artistic director of the
+        Nitery Experimental Theatre on Stanford’s Campus. Marina received her
+        MFA in Directing from the University of Iowa. She is the co-host of
+        Kunafa and Shay, a podcast produced by HowlRound Theatre Commons.
+        Johnson is a member of Silk Road Rising’s Polycultural Institute. Prior
+        to beginning her Ph.D., she was a Visiting Assistant Professor at Beloit
+        College for three years. Select recent directing credits include: *The
+        Shroud Maker* (International Voices Project), *Shakespeare’s
+        Sisters* (Stanford), *The Palestinian Youth Monologues*
+        (Stanford), *Five Lesbians Eating a Quiche* (Beloit College), and *In
+        the Next Room* (Beloit College). Additionally, she was the dramaturg
+        for *Julius Caesar* (Stanford, 2022), assistant director and dramaturg
+        on *As Soon As Impossible* (Stanford, 2021), dramaturg for *Two
+        Rooms* (Penn State, 2021), and dramaturg and assistant director
+        for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
+        published in MATC’s Theatre/Practice,
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
+      link: www.marina-johnson.com
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
@@ -523,31 +548,6 @@ cast:
         Wisdom in Action are among their networks of accountability, collective
         power, and care."
       image: https://ucarecdn.com/7e3c7030-812a-41bf-84f6-1d76a343927f/-/crop/759x936/0,77/-/preview/
-    - name: Marina Johnson
-      credit: dramaturg, A Massacre & Data Queen
-      image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
-      bio: Marina Johnson (*she/they*) is a Ph.D. candidate in Theatre and Performance
-        Studies at Stanford University, also pursuing Ph.D. minors in Feminist,
-        Gender, and Sexuality Studies and Comparative Studies in Race and
-        Ethnicity. She was a 2021-2022 Graduate Public Service Fellow with the
-        Stanford Haas Center and the 2022-2023 co-artistic director of the
-        Nitery Experimental Theatre on Stanford’s Campus. Marina received her
-        MFA in Directing from the University of Iowa. She is the co-host of
-        Kunafa and Shay, a podcast produced by HowlRound Theatre Commons.
-        Johnson is a member of Silk Road Rising’s Polycultural Institute. Prior
-        to beginning her Ph.D., she was a Visiting Assistant Professor at Beloit
-        College for three years. Select recent directing credits include: *The
-        Shroud Maker* (International Voices Project), *Shakespeare’s
-        Sisters* (Stanford), *The Palestinian Youth Monologues*
-        (Stanford), *Five Lesbians Eating a Quiche* (Beloit College), and *In
-        the Next Room* (Beloit College). Additionally, she was the dramaturg
-        for *Julius Caesar* (Stanford, 2022), assistant director and dramaturg
-        on *As Soon As Impossible* (Stanford, 2021), dramaturg for *Two
-        Rooms* (Penn State, 2021), and dramaturg and assistant director
-        for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
-        published in MATC’s Theatre/Practice,
-        [Eumenica](https://marina-johnson.com/), and in Arab Stages.
-      link: www.marina-johnson.com
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
