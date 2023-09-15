@@ -460,6 +460,38 @@ cast:
         Wisdom in Action are among their networks of accountability, collective
         power, and care."
       image: https://ucarecdn.com/7e3c7030-812a-41bf-84f6-1d76a343927f/-/crop/759x936/0,77/-/preview/
+    - name: Nakissa Etemad
+      credit: Lead Dramaturg
+      image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
+      bio: "Nakissa Etemad (*she/her*) is an Iranian American dramaturg, producer,
+        director, and French translator, specializing in new BIPOC plays and
+        musicals for 30 years. A [Resident
+        Artist](https://goldenthread.org/about/people/#open-modal-Nakissa%20Ete\
+        mad) of Golden Thread, Regional VP Metro Bay Area for Literary Managers
+        and Dramaturgs of the Americas (LMDA), and the recent Associate Artistic
+        Director of Marin Theatre Company, she is grateful to return for her
+        third ReOrient Festival! Recent credits include Dramaturg & Producer for
+        the world premieres of *Justice: A New Musica*l by Gunderson,
+        Lowdermilk, and Kerrigan (Marin Theatre Co.) and *Hotter Than Egypt* by
+        Yussef El Guindi (world premiere co-production at Marin Theatre Co. &
+        ACT in Seattle; Dramaturg for second production at Denver Center for the
+        Performing Arts). Previous Golden Thread credits: Lead Dramaturg for
+        [ReOrient 2019](https://goldenthread.org/productions/reorient-2019/) &
+        Asst. Director for Lameece Issaq’s *Noor and Hadi Go to Hogwart’s* and
+        Naomi Wallace’s *The Book of Mima*; Dramaturg for Zahra Noorbakhsh’s [On
+        Behalf of All Muslims: A Comedy
+        Special](https://goldenthread.org/productions/obam-2019/); Lead
+        Dramaturg for [ReOrient
+        2017](https://goldenthread.org/productions/reorient-2017/) & Dramaturg
+        for Betty Shamieh’s *Make No Mistake* and Torange Yeghiazarian’s
+        *Thanksgiving at Khodabakhshian’s*; and Dramaturg and Creative
+        Collaborator for [Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/) by Torange
+        Yeghiazarian, music by Marcus Shelby. Winner of the 2015 [Elliott Hayes
+        Award](https://lmda.org/elliott-hayes-award-introduction-part-two-marcu\
+        s-gardley) for The Lark’s four-city premieres of *the road weeps, the
+        well runs dry* by Marcus Gardley."
+    - {}
 mentions:
   heading: REORIENT 2023 HONORARY MENTIONS
   text: |-
