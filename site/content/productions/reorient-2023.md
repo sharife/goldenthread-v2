@@ -327,6 +327,118 @@ cast:
 
         [www.beccawolff.net](http://beccawolff.net/)
       image: https://ucarecdn.com/88b7c91c-ad3d-4ace-87c4-7abfce0b95e0/-/crop/1302x1499/0,192/-/preview/
+    - name: Nakissa Etemad
+      credit: dramaturg, Stamp Me & The Suicide Bomber
+      image: https://ucarecdn.com/ce0c750a-fe4e-4ae7-9a40-0ec6d7033bb7/
+      bio: "**Nakissa Etemad** (*she/her*), Lead Dramaturg, is an Iranian American
+        dramaturg, producer, director, and French translator, specializing in
+        new BIPOC plays and musicals for 30 years. A [Resident
+        Artist](https://goldenthread.org/about/people/#open-modal-Nakissa%20Ete\
+        mad) of Golden Thread, Regional VP Metro Bay Area for Literary Managers
+        and Dramaturgs of the Americas (LMDA), and the recent Associate Artistic
+        Director of Marin Theatre Company, she is grateful to return for her
+        third ReOrient Festival! Recent credits include Dramaturg & Producer for
+        the world premieres of *Justice: A New Musica*l by Gunderson,
+        Lowdermilk, and Kerrigan (Marin Theatre Co.) and *Hotter Than Egypt* by
+        Yussef El Guindi (world premiere co-production at Marin Theatre Co. &
+        ACT in Seattle; Dramaturg for second production at Denver Center for the
+        Performing Arts). Previous Golden Thread credits: Lead Dramaturg for
+        [ReOrient 2019](https://goldenthread.org/productions/reorient-2019/) &
+        Asst. Director for Lameece Issaq’s *Noor and Hadi Go to Hogwart’s* and
+        Naomi Wallace’s *The Book of Mima*; Dramaturg for Zahra Noorbakhsh’s [On
+        Behalf of All Muslims: A Comedy
+        Special](https://goldenthread.org/productions/obam-2019/); Lead
+        Dramaturg for [ReOrient
+        2017](https://goldenthread.org/productions/reorient-2017/) & Dramaturg
+        for Betty Shamieh’s *Make No Mistake* and Torange Yeghiazarian’s
+        *Thanksgiving at Khodabakhshian’s*; and Dramaturg and Creative
+        Collaborator for [Isfahan
+        Blues](https://goldenthread.org/productions/isfahan-blues/) by Torange
+        Yeghiazarian, music by Marcus Shelby. Winner of the 2015 [Elliott Hayes
+        Award](https://lmda.org/elliott-hayes-award-introduction-part-two-marcu\
+        s-gardley) for The Lark’s four-city premieres of *the road weeps, the
+        well runs dry* by Marcus Gardley."
+    - name: Heather Rastovac Akbarzadeh, Ph.D. 
+      credit: dramaturg, Closure & Picture Bride
+      image: https://ucarecdn.com/58ac8aef-7112-4385-a0ed-674806b441b8/
+      bio: "**Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
+        and educator with two decades of experience as a dancer-choreographer,
+        artistic director, curator, and dramaturg among diasporic MENA/SWANA
+        communities. Since 1997, she has performed in activist street
+        performances, MENA/SWANA cultural events, and full evening dance works
+        on concert stages. Heather earned her Ph.D. in Performance Studies from
+        UC Berkeley with a Minor in Women, Gender, and Sexuality, where she
+        completed a dissertation on diasporic Iranian dancers and performance
+        artists. She was a Mellon Postdoctoral Fellow in Dance Studies in the
+        Department of Theater and Performance Studies at Stanford University
+        (2016 – 2018) and a UC Chancellor’s Postdoctoral Fellow in Asian
+        American Studies at UC Davis (2018 – 2020). Her first book manuscript
+        (in-process), *Choreographing the Iranian Diaspora: Dance,
+        Spectatorship, and the Politics of Belonging*, was selected for the
+        Dance Studies Association’s 2019 First-time Author Mentorship Program.
+        Heather’s publications include chapters in *Futures of Dance
+        Studies* (University of Wisconsin Press, 2020) and *[Performing Iran:
+        Cultural Identity and Theatrical
+        Performance](https://www.heatherrastovac.com/)* (I.B. Tauris Press,
+        2021). Since 2021, Heather has been the program manager for Golden
+        Thread’s theatre-for-young-audiences program, [Fairytale
+        Players](https://goldenthread.org/programs/fairytale-players/). Previous
+        Golden Thread credits include: dramaturg, *[The Language of Wild
+        Berries](https://goldenthread.org/productions/the-language-of-wild-berr\
+        ies-2022/)*; Forum coordinator, [ReOrient
+        2012](https://goldenthread.org/productions/reorient-2012/). She will
+        begin as an assistant professor of dance at UC Riverside in January
+        2024."
+      link: www.heatherrastovac.com
+    - name: Marina Johnson
+      credit: dramaturg, A Massacre & Data Queen
+      image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
+      bio: "**Marina Johnson** (*she/they*) is a Ph.D. candidate in Theatre and
+        Performance Studies at Stanford University, also pursuing Ph.D. minors
+        in Feminist, Gender, and Sexuality Studies and Comparative Studies in
+        Race and Ethnicity. She was a 2021-2022 Graduate Public Service Fellow
+        with the Stanford Haas Center and the 2022-2023 co-artistic director of
+        the Nitery Experimental Theatre on Stanford’s Campus. Marina received
+        her MFA in Directing from the University of Iowa. She is the co-host of
+        Kunafa and Shay, a podcast produced by HowlRound Theatre Commons.
+        Johnson is a member of Silk Road Rising’s Polycultural Institute. Prior
+        to beginning her Ph.D., she was a Visiting Assistant Professor at Beloit
+        College for three years. Select recent directing credits include: *The
+        Shroud Maker* (International Voices Project), *Shakespeare’s
+        Sisters* (Stanford), *The Palestinian Youth Monologues*
+        (Stanford), *Five Lesbians Eating a Quiche* (Beloit College), and *In
+        the Next Room* (Beloit College). Additionally, she was the dramaturg
+        for *Julius Caesar* (Stanford, 2022), assistant director and dramaturg
+        on *As Soon As Impossible* (Stanford, 2021), dramaturg for *Two
+        Rooms* (Penn State, 2021), and dramaturg and assistant director
+        for *Twice, Thrice, Frice* (Silk Road Rising, 2019).  Her work has been
+        published in MATC’s Theatre/Practice,
+        [Eumenica](https://marina-johnson.com/), and in Arab Stages."
+      link: www.marina-johnson.com
+    - name: Vidhu Singh, Ph.D.
+      credit: Publications Dramaturg, & research dramaturg, The Suicide Bomber
+      image: https://ucarecdn.com/7876b484-77c1-4327-b2a6-2c55b636f9cc/
+      bio: "**Vidhu Singh**[, Ph.D.](https://www.vidhusinghtheater.com/) (*she/her*)
+        is an Expressive Arts Facilitator trained at Northwest Creative &
+        Expressive Arts Institute, Seattle and a Social Emotional Arts
+        Facilitator trained through UCLA’s Arts & Healing Initiative. As a
+        theater artist, Vidhu’s dramaturgy, scholarship and advocacy for South
+        Asian theater have made her contribution to the American theater truly
+        unique. Cal Shakes recognized this uniqueness by honoring Vidhu with the
+        2020 Luminary Award in dramaturgy. Dramaturgy highlights include
+        [ReOrient](https://goldenthread.org/programs/reorient/) 2023 with Golden
+        Thread Productions (in-progress), *Burning Wild* with Aviva Arts at 3GT
+        Innovators Residency 2022 and Berkeley Rep’s 2021 Ground Floor Summer
+        Residency Lab, *Third Eye Moonwalk* by Jon Bernson with Playwrights
+        Foundation in 2021, and *House of Joy* by Madhuri Shekar with Cal Shakes
+        in 2019 and Bay Area Playwrights Festival in 2018. Vidhu holds a Masters
+        degree in Dramatic Art from UC Santa Barbara and a doctorate in Asian
+        Theatre from UH Manoa. A graduate of the Lincoln Center Theater
+        Directors’ Lab, Vidhu is a core member of Theatre without Borders; a
+        founding member of World Wide Lab; the founder of RasaNova Theater; a
+        wellness facilitator with Bauman Wellness; an ensemble member at Aviva
+        Arts, and a resident artist at Brava Theater."
+      link: www.vidhusinghtheater.com
     - name: Sofia Ahmad*
       credit: ensemble cast
       bio: "**Sofia Ahmad*** (*she/her*) is a [Resident
