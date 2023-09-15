@@ -361,7 +361,8 @@ cast:
     - name: Heather Rastovac Akbarzadeh, Ph.D. 
       credit: dramaturg, Closure & Picture Bride
       image: https://ucarecdn.com/58ac8aef-7112-4385-a0ed-674806b441b8/
-      bio: "**Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
+      bio: >-
+        **Heather Rastovac Akbarzadeh**, Ph.D. (*she/her*) is a scholar, artist,
         and educator with two decades of experience as a dancer-choreographer,
         artistic director, curator, and dramaturg among diasporic MENA/SWANA
         communities. Since 1997, she has performed in activist street
@@ -384,12 +385,14 @@ cast:
         Thread’s theatre-for-young-audiences program, [Fairytale
         Players](https://goldenthread.org/programs/fairytale-players/). Previous
         Golden Thread credits include: dramaturg, *[The Language of Wild
-        Berries](https://goldenthread.org/productions/the-language-of-wild-berr\
-        ies-2022/)*; Forum coordinator, [ReOrient
+        Berries](https://goldenthread.org/productions/the-language-of-wild-berries-2022/)*;
+        Forum coordinator, [ReOrient
         2012](https://goldenthread.org/productions/reorient-2012/). She will
         begin as an assistant professor of dance at UC Riverside in January
-        2024."
-      link: www.heatherrastovac.com
+        2024. \
+
+        [www.heatherrastovac.com](https://www.heatherrastovac.com/)
+      link: ""
     - name: Marina Johnson
       credit: dramaturg, A Massacre & Data Queen
       image: https://ucarecdn.com/b25ee827-9827-4b8e-9ed7-bc1c1ca3394e/-/crop/764x1010/131,27/-/preview/
