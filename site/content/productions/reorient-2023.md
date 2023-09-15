@@ -91,7 +91,7 @@ lists:
         title: Data Queen
         itemstart: ""
         itemend: ""
-  - heading: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
+  - heading: ReOrient Forum & MENA Convening
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
@@ -114,6 +114,7 @@ lists:
 
           More information and full schedule coming soon.
         cta: "Registration link coming soon. "
+        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
   - items:
       - itemstart: 2023-09-15T02:18:07.786Z
         itemend: 2023-09-15T02:18:07.823Z
