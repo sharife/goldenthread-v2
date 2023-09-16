@@ -19,4 +19,24 @@ This year’s convening is co-sponsored by [Diaspora Arts Connection](https://ww
 
 ##### Registration is free, but advanced registration is required.
 
-Registration Details Coming Soon!
+Registration Details Coming Soon! 
+
+
+
+MENATMA CONVENING 2023 
+
+Day 1, Saturday, October 28, 2023 
+
+9:00 - 9:30 
+
+Registration 
+
+Potrero 
+
+9:30 - 9:50 
+
+BIPOC Affinity Meditation Sit 
+
+Facilitated by Amal Bisharat, RYT 500hrs
+
+Annex (in-person only)
