@@ -26,7 +26,7 @@ director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
 featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
   Keyishian, Rose McAvoy, AeJay Marquis Mitchell, John Pasha, Arielle Tonkin
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
-  (Sound), Briana Lisette Cardenas (Costume), Michaela Creedon (Props)
+  (Sound), Briana Lisette Cardenas (Costume), Vincent Chau (Props)
 dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
 additional: ""
 stage: Potrero Stage
