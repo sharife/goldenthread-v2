@@ -91,7 +91,7 @@ lists:
         title: Data Queen
         itemstart: ""
         itemend: ""
-  - heading: ReOrient Forum & MENATMA Convening
+  - heading: MENATMA Convening
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
@@ -114,7 +114,7 @@ lists:
 
           More information and full schedule [coming soon](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
         cta: "Registration link coming soon. "
-        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE
+        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
   - items:
       - itemstart: 2023-09-15T02:18:07.786Z
         itemend: 2023-09-15T02:18:07.823Z
