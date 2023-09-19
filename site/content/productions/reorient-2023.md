@@ -26,7 +26,7 @@ director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
 featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
   Keyishian, Rose McAvoy, AeJay Marquis Mitchell, John Pasha, Arielle Tonkin
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
-  (Sound), Briana Lisette Cardenas (Costume), Michaela Creedon (Props)
+  (Sound), Briana Lisette Cardenas (Costume), Vincent Chau (Props)
 dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
 additional: ""
 stage: Potrero Stage
@@ -649,7 +649,5 @@ bottom:
     - image: https://ucarecdn.com/6bc4b058-e114-437a-a4e8-d58dfb51114c/
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
-    - image: https://ucarecdn.com/edaa571a-313c-4b6f-b2b5-373aef8d346a/
-    - image: https://ucarecdn.com/8af6cdfb-ac42-4e20-b778-7ed7845c217c/
 ---
 ![]()
