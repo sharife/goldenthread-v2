@@ -97,19 +97,22 @@ lists:
         itemend: 2023-09-15T02:03:28.872Z
         title: October 28 & 29, 2023
         text: >-
-          [MENA Theater-Makers
-          Alliance](https://www.menatheatre.org/about)'s annual convening brings
-          together SWANA artists, activists, and scholars from around the
-          country and the MENA diaspora for panel and roundtable discussions,
-          workshops, artistic presentations, networking opportunities, and more.
-          With sessions open to the public and live-streamed on HowlRound, this
-          year’s convening is co- produced by [Art2Action,
-          Inc.](https://www.art2action.org/) and sponsored by [New Arab American
-          Theatre Works](https://www.newarabamericantheaterworks.org/), [Noor
-          Theatre](https://www.noortheatre.org/) and [Silk Road
-          Rising](https://www.silkroadrising.org/). The 2023 convening is hosted
-          by Golden Thread Productions as part of the ReOrient Festival of Short
-          Plays. 
+          Golden Thread Productions and [Art2Action,
+          Inc.](https://www.art2action.org/) are thrilled to co-produce and
+          co-present the 4th annual convening of the Middle Eastern North
+          African Theater Makers Alliance
+          ([MENATMA](https://www.menatheatre.org/fall-2023-convening)) hosted at
+          Golden Thread’s ReOrient Festival of Short Plays in San
+          Francisco.[](https://www.menatheatre.org/about) 
+
+
+          MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. We will take space, make opportunities, champion artists, and build relationships with other marginalized communities and allies to build a more vibrant American theater. 
+
+
+          The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. Registration is free, but advanced registration is required.
+
+
+          This year’s convening is co-sponsored by [New Arab American Theatre Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/) and [Silk Road Rising](https://www.silkroadrising.org/).  
 
 
           More information and full schedule [coming soon](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
