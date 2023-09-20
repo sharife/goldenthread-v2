@@ -31,7 +31,7 @@ dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarza
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
-visitlink: https://potrerostage.org/visit-potrero-stage/
+visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 ticketinfo: "$15-100 "
 misc: "Six short plays, presented as one evening of theatre. Run time: 2 hours,
