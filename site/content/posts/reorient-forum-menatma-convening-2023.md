@@ -3,11 +3,7 @@ title: MENA Theatre Makers Alliance Annual National Convening
 date: 2023-09-15T04:16:17.026Z
 description: ""
 ---
-# MIDDLE EASTERN NORTH AFRICAN
-
-# THEATER MAKERS ALLIANCE (MENATMA)
-
-# 2023 FALL CONVENING
+# MENATMA 2023 FALL CONVENING
 
 ### October 28-29, 2023
 
@@ -20,8 +16,6 @@ This year’s convening is co-sponsored by [Diaspora Arts Connection](https://ww
 ##### Registration is free, but advanced registration is required.
 
 Registration Details Coming Soon! 
-
-
 
 MENATMA CONVENING 2023 
 
