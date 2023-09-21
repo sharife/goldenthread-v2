@@ -105,6 +105,74 @@ Potrero
 
 BIPOC Affinity Meditation Sit 
 
+Facilitated by Amal Bisharat, RYT 500hrs
+
 Annex (in-person only) 
 
-CONCURRENT SESSIONS 10:00 - 11:30 AM
+CONCURRENT SESSIONS 10:00 - 11:30 AM 
+
+10:00 - 11:30 AM MENA Political Theatre at Home and in the Diaspora 
+
+Moderator: Catherine Coray 
+
+Potrero/Hybrid (live-streamed on HowlRound) 
+
+10:00 - 11:30 AM How Do We Fit In? An Embodied Session on MENA Identity 
+
+\*BIPOC affinity workshop/discussion 
+
+Co-facilitated by Kholoud Nasser, Debórah Eliezer, Amal Bisharat 
+
+Annex (in-person only) 
+
+11:30 AM - 12:00 PM 
+
+Coffee Break (provided) 
+
+Annex 
+
+12:00 - 1:00 PM 
+
+Performing Change by Wafaa Bilal 
+
+Introduced by Sahar Assaf 
+
+Potrero (in-person only) 
+
+1:00 - 2:15 PM 
+
+Networking Lunch (provided) 
+
+Annex 
+
+2:15 - 3:45 PM 
+
+Intercommunity Dialogue: Coalition-Building with Other Networks 
+
+Introduced by Emilya Cachapero 
+
+Moderator: Kate Moore Heaney 
+
+Annex/Hybrid (live-streamed on HowlRound) 
+
+3:00 - 5:15 PM 
+
+Performance: ReOrient Festival of Short Plays 
+
+Potrero Stage (in-person only) 
+
+4:00 - 5:00 PM
+
+Kunafa and Shay Live: Possibilities for Affinity Spaces with MENA/SWANA LGBTQIA+ Artists 
+
+Moderators: Podcast co-hosts Nabra Nelson and Marina Johnson 
+
+Annex/Hybrid (live-streamed on HowlRound) 
+
+5:15 - 6:00 PM 
+
+Performance Conversation with ReOrient artists: Navigating Boundaries in Role-Playing and Cultural Specificity 
+
+Moderator: Nakissa Etemad 
+
+Potrero (in-person only)
