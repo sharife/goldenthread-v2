@@ -17,17 +17,17 @@ This year’s convening is co-sponsored by [Diaspora Arts Connection](https://ww
 
 Registration Details Coming Soon! 
 
-MENATMA CONVENING 2023 
+## MENATMA CONVENING 2023 
 
-Day 1, Saturday, October 28, 2023 
+### Day 1, Saturday, October 28, 2023 
 
-9:00 - 9:30 AM
+###### 9:00 - 9:30 AM
 
-Registration 
+#### Registration 
 
-Potrero 
+##### Potrero 
 
-9:30 - 9:50 AM
+###### 9:30 - 9:50 AM
 
 BIPOC Affinity Meditation Sit 
 
@@ -93,7 +93,7 @@ Performance: ReOrient Festival of Short Plays
 
 Potrero Stage (in-person only) 
 
-Day 2, Sunday, October 29, 2023 
+### Day 2, Sunday, October 29, 2023 
 
 9:00 - 9:30 AM 
 
