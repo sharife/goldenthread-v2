@@ -21,16 +21,90 @@ MENATMA CONVENING 2023
 
 Day 1, Saturday, October 28, 2023 
 
-9:00 - 9:30 
+9:00 - 9:30 AM
 
 Registration 
 
 Potrero 
 
-9:30 - 9:50 
+9:30 - 9:50 AM
 
 BIPOC Affinity Meditation Sit 
 
 Facilitated by Amal Bisharat, RYT 500hrs
 
-Annex (in-person only)
+Annex (in-person only) 
+
+10:00 - 11:15 AM
+
+Building Community Among SWANA Theater Artists (Town Hall Meeting) 
+
+Moderators: Kathryn Haddad, Jamil Khoury, Debórah Eliezer 
+
+Annex (in-person only) 
+
+11:30 AM - 12:00 PM Convening Opening 
+
+Potrero/Hybrid (live-streamed on HowlRound) 
+
+12:00 - 1:30 PM 
+
+Lunch Break (on your own) 
+
+1:30- 2:45 PM 
+
+Sustainability and Innovation: MENA Theater after COVID 
+
+Moderator: Hala Baki 
+
+Panelists: Sahar Assaf, Jamil Khoury, Adam Elsayigh, Nabra Nelson 
+
+Potrero/Hybrid (live-streamed on HowlRound) 
+
+3:00 - 4:30 PM 
+
+SWANA Artists Leading in Mainstream National Theaters 
+
+Moderator: Evren Odcikin 
+
+Potrero/Hybrid (live-streamed on HowlRound) 
+
+4:30 - 4:45 PM 
+
+Coffee Break (provided) 
+
+Annex 
+
+4:45 - 6:00 PM 
+
+MENA Theater in Schools and Universities 
+
+Moderator: Heather Rastovac Akbarzadeh 
+
+Potrero (live-streamed on HowlRound) 
+
+6:00 - 7:45 PM 
+
+Dinner Break (on your own) 
+
+8:00 - 10:15 PM 
+
+Performance: ReOrient Festival of Short Plays 
+
+Potrero Stage (in-person only) 
+
+Day 2, Sunday, October 29, 2023 
+
+9:00 - 9:30 AM 
+
+Registration 
+
+Potrero 
+
+9:30 - 9:50 AM 
+
+BIPOC Affinity Meditation Sit 
+
+Annex (in-person only) 
+
+CONCURRENT SESSIONS 10:00 - 11:30 AM
