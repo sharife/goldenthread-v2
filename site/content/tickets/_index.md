@@ -16,6 +16,31 @@ lists:
           Featuring playwrights **Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolff.**
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
+  - heading: MENA Theatre Makers Alliance Annual National Convening
+    items:
+      - subtitle: ""
+        text: >-
+          Golden Thread Productions and [Art2Action,
+          Inc.](https://www.art2action.org/) are thrilled to co-produce and
+          co-present the 4th annual convening of the Middle Eastern North
+          African Theater Makers Alliance
+          ([MENATMA](https://www.menatheatre.org/)) hosted at Golden Thread’s
+          ReOrient Festival of Short Plays in San Francisco.
+
+
+          This year’s convening is co-sponsored by [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/), [Silk Road Rising](https://www.silkroadrising.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx).
+
+
+          **Registration is FREE. Advanced registration is required.**
+
+
+          To register to attend the Convening in-person, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5).
+
+
+          To register to attend the Convening on-line, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5).
+        cta: ""
+        title: ""
+        pre: October 28-29, 2023
 ---
 - - -
 
