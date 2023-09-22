@@ -20,29 +20,27 @@ lists:
     items:
       - subtitle: ""
         text: >-
-          As part of our ReOrient Festival and Forum, Golden Thread hosts
-          the 4th annual national convening of the Middle Eastern North African
-          Theater Makers Alliance
-          ([MENATMA](https://www.menatheatre.org/)) co-produced
-          with [Art2Action, Inc.](https://www.art2action.org/)
-
-
-          **MENATMA** amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. 
+          Golden Thread Productions and [Art2Action,
+          Inc.](https://www.art2action.org/) are thrilled to co-produce and
+          co-present the 4th annual convening of the Middle Eastern North
+          African Theater Makers Alliance
+          ([MENATMA](https://www.menatheatre.org/)) hosted at Golden Thread’s
+          ReOrient Festival of Short Plays in San Francisco.
 
 
           This year’s convening is co-sponsored by [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/), [Silk Road Rising](https://www.silkroadrising.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx).
 
 
+          **Registration is FREE. Advanced registration is required.**
 
 
-          ***[Click here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5)** for **IN PERSON** event registration.*
+          To register to attend the Convening in-person, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5).
 
 
-          *To register for the **ONLINE** registration, **[click here.](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FHs00000JAF4yMAH)***
+          To register to attend the Convening on-line, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5).
         cta: ""
         title: ""
-        pre: October 28-29, 2023 | Sat & Sun, 9 AM-6 PM at Potrero Stage or via
-          Livestream
+        pre: October 28-29, 2023
 ---
 - - -
 
