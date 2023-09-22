@@ -3,7 +3,7 @@ title: MENA Theatre Makers Alliance Annual National Convening
 date: 2023-09-15T04:16:17.026Z
 description: ""
 ---
-# MENATMA 2023 FALL CONVENING
+# MENATMA CONVENING 2023
 
 ### October 28-29, 2023
 
@@ -11,13 +11,13 @@ Golden Thread Productions and [Art2Action, Inc.](https://www.art2action.org/) ar
 
 This year’s convening is co-sponsored by [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/), [Silk Road Rising](https://www.silkroadrising.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). 
 
-##### Registration is FREE. Advanced registration is required. 
+##### Registration is FREE. Advanced registration is required.
 
 To register to attend the Convening in-person, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5). 
 
 To register to attend the Convening on-line, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5). 
 
-## MENATMA CONVENING 2023
+## CONVENING SCHEDULE
 
 In-person events will take place at Potrero Stage and The Annex upstairs at 1695 18th Street, San Francisco, CA. Digital sessions will be livestreamed on Howlround.
 
