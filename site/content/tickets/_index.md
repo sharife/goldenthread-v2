@@ -1,9 +1,9 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: ReOrient 2023 Festival of Short Plays
+  - heading: "ReOrient 2023: Festival of Short Plays"
     items:
-      - pre: October 13 - November 4, 2023
+      - pre: October 13-November 4, 2023
         subtitle: ""
         text: >-
           **ReOrient 2023** will celebrate the return of our signature program,
@@ -14,8 +14,13 @@ lists:
 
 
           Featuring playwrights **Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau**; Directors include **Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolff.**
+
+
+          Tickets: $20-$100
         cta: Buy now!
         link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
+        title: Think you know the Middle East? Think again!
+        image: https://ucarecdn.com/ecedd2f9-bb4b-4c75-bad6-3394aa22b87d/
   - heading: MENA Theatre Makers Alliance Annual National Convening
     items:
       - subtitle: ""
