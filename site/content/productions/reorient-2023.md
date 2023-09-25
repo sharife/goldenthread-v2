@@ -56,7 +56,7 @@ lists:
           Registration is free, but advanced registration is required.
 
 
-          More information and full schedule coming soon.
+          For more information, and to register, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
         cta: "Registration link coming soon. "
         pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
   - heading: REORIENT 2023 LINE-UP
