@@ -576,6 +576,20 @@ cast:
     - name: Rose McAvoy
       credit: ensemble cast
       image: https://ucarecdn.com/bf02a3cd-e9e1-438d-b25f-9b962cec6cc8/-/crop/827x1009/0,64/-/preview/
+      bio: "**Rose McAvoy** (*she/her*) premiers in the role of Ani in *A Picture
+        Bride*.  Following camera experience, she is thrilled to expand into
+        theater.  Rose studied at Berkeley Repertory School of Theater, as well
+        as at ACT where she’s an alum of the Summer Training Congress program. 
+        She feels very grateful to have studied with teachers such as Laura
+        Wayth, Patrick Russell, Chris Herold and Dylan Russell. Bay Area born
+        and raised, Rose grew up dancing, having amazing experience in roles
+        such as Clara in *The Nutcracker*.  She discovered her love of acting in
+        her late teens. Rose enjoys working with children and her long term goal
+        is to bring Psychodrama Therapy healing to young people in need.  Rose
+        enjoys meditation, watching cinema and cuddling with her sweet chihuahua
+        Hazel T. Nut. She feels blessed to have found such a loving and
+        inspirational environment of fellow actors and creatives here in the Bay
+        Area."
     - name: AeJay Marquis Mitchell*
       credit: ensemble cast
       image: https://ucarecdn.com/b5a43048-c289-4b04-926e-62be250a9c5b/-/crop/1162x1252/308,0/-/preview/
