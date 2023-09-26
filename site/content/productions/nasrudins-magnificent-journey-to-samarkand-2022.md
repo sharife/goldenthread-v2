@@ -120,22 +120,8 @@ cast:
         video media mix mastering alchemy textures, proudly serving and sowing
         seeds with the Golden Thread since 2010."
 mentions:
-  heading: 2023 Public Library performance dates
-  text: >-
-    * Thursday, June 29, 2023, 3:30 pm & 7:00 pm **Milpitas Public Library** 160
-    N. Main St., Milpitas 95035
-
-    * Saturday, July 15, 11:00 am **Atherton Public Library** 2 Dinkelspiel Station Lane, Atherton 94027
-
-    * Sunday, July 16, 2:00pm **Brisbane Public Library,** 163 Vistacion Ave., Brisbane 94005
-
-    * Tuesday, July 18th, 3:30pm **East Palo Alto Public Library,**  2415 University Ave., East Palo Alto 94303
-
-    * Wednesday, July 19, 1:00pm **Millbrae Public Library,**  1 Library Ave., Millbrae 94030
-
-    * Thursday, July 20, 11:00 am **Belvedere Tiburon Public Library** 1501 Tiburon Blvd., Tiburon 94920 
-
-    * Tuesday, July 25, 2:00 pm **Half Moon Bay Public Library** 620 Correas St., Half Moon Bay 94019
+  heading: ""
+  text: ""
 photos:
   items:
     - image: https://ucarecdn.com/84b34821-7063-413b-af6d-135991d12764/
