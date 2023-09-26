@@ -500,27 +500,28 @@ cast:
       image: https://ucarecdn.com/6e85e640-c571-429d-b848-b8c86562c016/-/crop/1309x1768/0,0/-/preview/
     - name: Hamzeh Daoud
       credit: ensemble cast
-      bio: "**Hamzeh Daoud** (*they/she*) is a Palestinian asylum seeker from Amman,
-        Jordan. They are a transfem and queer creative. Hamzeh's personal
-        journey has deeply influenced their artistic endeavors. Their
-        experiences as a marginalized individual drive their desire to create
-        meaningful and thought-provoking performances that challenge societal
-        norms and foster empathy. With a BA and MA from Stanford University, her
-        educational background has nurtured her understanding of the human
-        condition, and ultimately her artistic craft. Hamzeh has participated in
-        a range of productions, including Shakespeare's *Romeo and Juliet* and
-        *The Tempest*, as well as Tony Kushner's *Angels in America*. Through
-        their performances, they explore diverse characters and narratives,
-        aiming to breathe new life into these timeless stories.They are a
+      bio: "**Hamzeh Daoud** (*they/she*) is a Palestinian baddie from Amman, Jordan.
+        They are a transfem and queer creative who arrived in the US by way of
+        education and asylum. Hamzeh's personal journey has deeply influenced
+        their artistic endeavors, driving their desire to create meaningful and
+        thought-provoking performances that challenge societal norms and foster
+        empathy. With a BA and MA from Stanford University, her educational
+        background has nurtured her understanding of the human condition, and
+        ultimately her artistic craft. Hamzeh has participated in a range of
+        productions, including Shakespeare's *Romeo and Juliet* and *The
+        Tempest*, as well as Tony Kushner's *Angels in America*. Through their
+        performances, they explore diverse characters and narratives, aiming to
+        breathe new life into these timeless stories. They are a
         singer/songwriter (check out their EP “25” on Spotify), and a pole
-        dancer (which you can enjoy watching on their instagram @yallapole). In
-        addition to their artistic pursuits, Hamzeh is actively involved in
-        advocacy work. They contribute to research and support resource
-        mobilization at Queer Crescent, a nonprofit organization dedicated to
-        combating anti-Muslim racism and promoting the safety and
-        self-determination of queer and trans Muslims (follow the work they do
-        @queercrescent on instagram). She loves ASMR, dancing, and sipping on
-        some homemade mint cold brew coffee while listening to fairuzyat on her
+        dancer (which you can enjoy watching on their creative journal instagram
+        @yallahamzeh). In addition to their artistic pursuits, Hamzeh is
+        actively involved in organizing work. They contribute to research and
+        support resource mobilization at Queer Crescent, a community-based
+        nonprofit organization dedicated to combating anti-Muslim racism and
+        promoting the safety and self-determination of queer and trans Muslims
+        (follow the work they're involved in @queercrescent). They also
+        (tragically) work in tech. She loves ASMR, dancing, and sipping on some
+        homemade iced lavender latte while listening to fairuzyat on her
         balcony."
       image: https://ucarecdn.com/a3065178-7573-44b6-b6ae-b74413620e7d/-/crop/618x742/172,63/-/preview/
     - name: John Fisher*
