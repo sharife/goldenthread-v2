@@ -111,7 +111,7 @@ lists:
         itemend: 2023-03-15T08:58:19.438Z
         title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
           Multiple Perspectives"
-        pre: September, 2023
+        pre: November, 2023
         text: The ReOrient directors and designers will discuss the unique production
           process of the ReOrient Festival. How do directors adapt their
           approach when sharing the same ensemble cast, festival designers, and
