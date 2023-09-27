@@ -13,9 +13,6 @@ items:
       East. 
 
 
-      An endless wait in an immigration line elicits a not-so-pretty stream of consciousness. Former rivals reunite after 20 years, and a surprising twist unfolds. A comic farce of a play-within-a-play-within-a-play pushes the writer to battle over who controls the narrative. A pile of dead bodies sits untouched in the middle of an office space. A young woman sails from Armenia to Ellis Island for an inconvenient marriage. A couple negotiates at San Francisco’s hottest new Couples Therapy practice. 
-
-
       With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening!
     image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
     cta: Buy Tickets!
