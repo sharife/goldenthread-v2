@@ -9,7 +9,7 @@ description: ""
 
 Golden Thread Productions and [Art2Action, Inc.](https://www.art2action.org/) are thrilled to co-produce and co-present the 4th annual convening of the Middle Eastern North African Theater Makers Alliance ([MENATMA](https://www.menatheatre.org/)) hosted at Golden Thread’s ReOrient Festival of Short Plays in San Francisco.
 
-This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). 
+This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation. 
 
 ##### Registration is FREE. Advanced registration is required.
 
@@ -86,9 +86,9 @@ Moderator: Catherine Coray @ Potrero Stage/Hybrid (live-streamed on HowlRound)
 
 This panel with MENA international artists explores the dynamics and artistic expressions of political theatre in the MENA region and in the diaspora. Artists will share their creative processes and the ways in which they navigate the intersection of politics, identity, and theatre.
 
-* 10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA Identity** 
+* 10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA/SWANA Identity** 
 
-\*BIPOC affinity workshop/discussion 
+\*MENA/SWANA affinity workshop/discussion 
 
 Co-facilitated by Kholoud Nasser, Debórah Eliezer, Amal Bisharat @ Annex (in-person only) 
 
