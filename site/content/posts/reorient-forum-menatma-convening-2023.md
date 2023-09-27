@@ -55,11 +55,11 @@ Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Op
 
 This panel explores the diverse impacts of the COVID-19 pandemic on MENA artists and organizations. It puts individual and institutional experiences in conversation with one another to help the theater-making community address common challenges and concerns.
 
-3:00 - 4:30 PM: **Panel: SWANA Artists Leading in Mainstream National Theaters** Moderator: Evren Odcikin 
+3:00 - 4:30 PM: **Panel: MENA Artists Leading in National Theaters** Moderator: Evren Odcikin, and featuring Raymond Bobgan, Joseph Haj, Inji Kamel, Taibi Magar, and Pirronne Yousefzadeh. 
 
 @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
-MENA artists are finally stepping into executive leadership positions at mainstream theaters of size. What are the opportunities and challenges they face? Does a MENA leader necessarily mean it's easier for MENA work to get produced?
+MENA artists are finally stepping into executive leadership positions at national theater organizations of size. What are the opportunities and challenges they face? Does a MENA leader necessarily mean it's easier for MENA work to get produced?
 
 4:30 - 4:45 PM: **Coffee Break** (provided) @ Annex 
 
