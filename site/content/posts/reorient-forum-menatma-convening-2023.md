@@ -86,9 +86,9 @@ Moderator: Catherine Coray @ Potrero Stage/Hybrid (live-streamed on HowlRound)
 
 This panel with MENA international artists explores the dynamics and artistic expressions of political theatre in the MENA region and in the diaspora. Artists will share their creative processes and the ways in which they navigate the intersection of politics, identity, and theatre.
 
-* 10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA Identity** 
+* 10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA/SWANA Identity** 
 
-\*BIPOC affinity workshop/discussion 
+\*MENA/SWANA affinity workshop/discussion 
 
 Co-facilitated by Kholoud Nasser, Debórah Eliezer, Amal Bisharat @ Annex (in-person only) 
 
