@@ -22,8 +22,8 @@ items:
     link: https://goldenthread.org/tickets/
   - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
     subtitle: "**2023 MENATMA Convening!**"
-    cta: Learn More!
-    link: https://goldenthread.org/about/people/#open-modal-Wafaa%20Bilal
+    cta: Register Now!
+    link: https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/
     text: >-
       Golden Thread Productions and Art2Action, Inc. are thrilled to co-produce
       and co-present the 4th annual convening of the Middle Eastern North
