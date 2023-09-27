@@ -17,7 +17,7 @@ items:
 
 
       With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening!
-    image: https://ucarecdn.com/5a455ef3-dc25-4201-bf7e-ac24e2b30e13/
+    image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
   - image: https://ucarecdn.com/9abaf3da-d721-42c2-8178-cbf5ff114cf0/
