@@ -46,10 +46,10 @@ lists:
           **Registration is FREE. Advanced registration is required.**
 
 
-          To register to attend the Convening in-person, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5).
+          To register to attend the Convening **in-person**, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5).
 
 
-          To register to attend the Convening on-line, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5).
+          To register to attend the Convening **on-line**, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5).
         cta: ""
         title: ""
         pre: October 28-29, 2023
