@@ -25,105 +25,117 @@ In-person events will take place at Potrero Stage and The Annex upstairs at 1695
 
 *All listed times are Pacific Time zone.*
 
-* 9:00 - 9:30 AM: **Registration** @ Potrero Stage
-* 9:30 - 9:50 AM: **BIPOC Affinity Meditation Sit** 
+9:00 - 9:30 AM: **Registration** 
 
-Facilitated by Amal Bisharat, RYT 500hrs @ Annex (in-person only) 
+@ Potrero Stage
+
+9:30 - 9:50 AM: **BIPOC Affinity Meditation Sit** Facilitated by Amal Bisharat, RYT 500hrs 
+
+@ Annex (in-person only) 
 
 Open to all self-identified BIPOC. Come as you are! Bring your own cushion or mat. 
 
-* 10:00 - 11:15 AM: **Town Hall: Building Community Among SWANA Theater Artists** 
+10:00 - 11:15 AM: **Town Hall: Building Community Among SWANA Theater Artists** Moderators: Kathryn Haddad, Jamil Khoury, Debórah Eliezer 
 
-Moderators: Kathryn Haddad, Jamil Khoury, Debórah Eliezer @ Annex (in-person only) 
+@ Annex (in-person only) 
 
 How do we support and uphold each other as artists and community members from the SWANA region? What do we need to do to ensure that we are including, supporting, and making space for each other in our community as theater artists? 
 
-* 11:30 AM - 12:00 PM: **Convening Opening: MENA Theater Advocacy Today** 
+11:30 AM - 12:00 PM: **Convening Opening: MENA Theater Advocacy Today** 
 
-Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Opening Remarks by Andrea Assaf and Torange Yeghiazarian on behalf of the MENATMA Founding Board @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
+Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Opening Remarks by Andrea Assaf and Torange Yeghiazarian on behalf of the MENATMA Founding Board 
 
-* 12:00 - 1:30 PM: **Lunch Break** (on your own) 
-* 1:30- 2:45 PM: **Panel: Sustainability and Innovation: MENA Theater after COVID** 
+@ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
-Moderator: Hala Baki, featuring Sahar Assaf, Jamil Khoury, Adam Elsayigh, Nabra Nelson @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
+12:00 - 1:30 PM: **Lunch Break** (on your own) 
+
+1:30- 2:45 PM: **Panel: Sustainability and Innovation: MENA Theater after COVID** Moderator: Hala Baki, featuring Sahar Assaf, Jamil Khoury, Adam Elsayigh, Nabra Nelson 
+
+@ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
 This panel explores the diverse impacts of the COVID-19 pandemic on MENA artists and organizations. It puts individual and institutional experiences in conversation with one another to help the theater-making community address common challenges and concerns.
 
-* 3:00 - 4:30 PM: **Panel: SWANA Artists Leading in Mainstream National Theaters** 
+3:00 - 4:30 PM: **Panel: SWANA Artists Leading in Mainstream National Theaters** Moderator: Evren Odcikin 
 
-Moderator: Evren Odcikin @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
+@ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
 MENA artists are finally stepping into executive leadership positions at mainstream theaters of size. What are the opportunities and challenges they face? Does a MENA leader necessarily mean it's easier for MENA work to get produced?
 
-* 4:30 - 4:45 PM: **Coffee Break** (provided) @ Annex 
-* 4:45 - 6:00 PM: **Panel: MENA Theater in Schools and Universities** 
+4:30 - 4:45 PM: **Coffee Break** (provided) @ Annex 
 
-Moderator: Heather Rastovac Akbarzadeh @ Potrero Stage (live-streamed on HowlRound) 
+4:45 - 6:00 PM: **Panel: MENA Theater in Schools and Universities** Moderator: Heather Rastovac Akbarzadeh 
+
+@ Potrero Stage (live-streamed on HowlRound) 
 
 How do MENA theater makers and educators from K-12 to university settings navigate questions of cultural competency, representation, and omission? This panel considers all the ways in which students might engage with MENA theater, such as in production, as dramatic text, or in theater history lessons.
 
-* 6:00 - 7:45 PM: **Dinner Break** (on your own) 
-* 8:00 - 10:15 PM: **Performance**: [ReOrient Festival of Short Plays](https://goldenthread.org/productions/reorient-2023/) @ Potrero Stage (in-person only) 
+6:00 - 7:45 PM: **Dinner Break** (on your own) 
 
-Featuring short plays by Katrin Arefy, Judith Bovajian Strang-Waldau, Yussef El Guindi, Adam Ashraf Elsayigh, Arti Ishak, and Hamed Sinno
+8:00 - 10:15 PM: **Performance**: [ReOrient Festival of Short Plays](https://goldenthread.org/productions/reorient-2023/)  Featuring short plays by Katrin Arefy, Judith Bovajian Strang-Waldau, Yussef El Guindi, Adam Ashraf Elsayigh, Arti Ishak, and Hamed Sinno 
+
+@ Potrero Stage (in-person only)
 
 ### Day 2, Sunday, October 29, 2023
 
 *All listed times are Pacific Time zone.*
 
-* 9:00 - 9:30 AM: **Registration** @ Potrero Stage
-* 9:30 - 9:50 AM **BIPOC Affinity Meditation Sit** 
+9:00 - 9:30 AM: **Registration** 
 
-Facilitated by Amal Bisharat, RYT 500hrs @ Annex (in-person only) 
+@ Potrero Stage
+
+9:30 - 9:50 AM **BIPOC Affinity Meditation Sit** Facilitated by Amal Bisharat, RYT 500hrs 
+
+@ Annex (in-person only) 
 
 Open to all self-identified BIPOC. Come as you are! Bring your own cushion or mat
 
 CONCURRENT SESSIONS 10:00 - 11:30 AM 
 
-* 10:00 - 11:30 AM: **Panel: MENA Political Theatre at Home and in the Diaspora** 
+10:00 - 11:30 AM: **Panel: MENA Political Theatre at Home and in the Diaspora** Moderator: Catherine Coray 
 
-Moderator: Catherine Coray @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
+@ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
 This panel with MENA international artists explores the dynamics and artistic expressions of political theatre in the MENA region and in the diaspora. Artists will share their creative processes and the ways in which they navigate the intersection of politics, identity, and theatre.
 
-* 10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA/SWANA Identity** 
+10:00 - 11:30 AM: **How Do We Fit In? An Embodied Session on MENA/SWANA Identity** Co-facilitated by Kholoud Nasser, Debórah Eliezer, Amal Bisharat 
 
-\*MENA/SWANA affinity workshop/discussion 
+@ Annex (in-person only)
 
-Co-facilitated by Kholoud Nasser, Debórah Eliezer, Amal Bisharat @ Annex (in-person only) 
+\*MENA/SWANA affinity workshop/discussion. A MENA/SWANA-identified affinity workspace cultivating horizontal dialogue, navigating fluid and intersectional identities and celebrating the joy of belonging. This session will center embodied experiences in which to explore the challenges and resources navigating our identities in the bigger American social context. 
 
-A MENA/SWANA-identified affinity workspace cultivating horizontal dialogue, navigating fluid and intersectional identities and celebrating the joy of belonging. This session will center embodied experiences in which to explore the challenges and resources navigating our identities in the bigger American social context.
+11:30 AM - 12:00 PM: **Coffee Break** (provided) 
 
-* 11:30 AM - 12:00 PM: **Coffee Break** (provided) @ Annex 
-* 12:00 - 1:00 PM: **Presentation: Performing Change by Wafaa Bilal** 
+@ Annex 
 
-Introduced by Sahar Assaf @ Potrero (in-person only) 
+12:00 - 1:00 PM: **Presentation: Performing Change by Wafaa Bilal** Introduced by Sahar Assaf 
+
+@ Potrero (in-person only) 
 
 Iraqi-American artists Wafaa Bilal will discuss specific bodies of work including Domestic Tension (aka Shoot an Iraqi), 168:01, and his most recent project In a Grain of Wheat.
 
-* 1:00 - 2:15 PM: **Networking Lunch** (provided) @ Annex 
+1:00 - 2:15 PM: **Networking Lunch** (provided) @ Annex 
 
 A platform for MENA creatives to share their work and build connections. *Registration required.*
 
-* 2:15 - 3:45 PM: **Intercommunity Dialogue: Coalition-Building with Other Networks** 
+2:15 - 3:45 PM: **Intercommunity Dialogue: Coalition-Building with Other Networks** Moderator: Kate Moore Heaney with introduction by Emilya Cachapero  
 
-Moderator: Kate Moore Heaney with introduction by Emilya Cachapero  @ Annex/Hybrid (live-streamed on HowlRound) 
+@ Annex/Hybrid (live-streamed on HowlRound) 
 
 The creation of MENATMA has been greatly influenced and supported by other theatre networks of color. How can we continue to build on our connections with these networks and work together towards shared goals for our communities?
 
-* 3:00 - 5:15 PM: **Performance**: [ReOrient Festival of Short Plays](https://goldenthread.org/productions/reorient-2023/) @ Potrero Stage (in-person only) 
+3:00 - 5:15 PM: **Performance**: [ReOrient Festival of Short Plays](https://goldenthread.org/productions/reorient-2023/) Featuring short plays by Katrin Arefy, Judith Bovajian Strang-Waldau, Yussef El Guindi, Adam Ashraf Elsayigh, Arti Ishak, and Hamed Sinno
 
-Featuring short plays by Katrin Arefy, Judith Bovajian Strang-Waldau, Yussef El Guindi, Adam Ashraf Elsayigh, Arti Ishak, and Hamed Sinno
+@ Potrero Stage (in-person only) 
 
-4:00 - 5:00 PM: **Kunafa and Shay Live: Possibilities for Affinity Spaces with MENA/SWANA LGBTQIA+ Artists** 
+4:00 - 5:00 PM: **Kunafa and Shay Live: Possibilities for Affinity Spaces with MENA/SWANA LGBTQIA+ Artists** Co-hosted by Nabra Nelson and Marina Johnson 
 
-Co-hosted by Nabra Nelson and Marina Johnson @ Annex/Hybrid (live-streamed on HowlRound) 
+@ Annex/Hybrid (live-streamed on HowlRound) 
 
 This live recording of the Kunafa & Shay Theatre Podcast in partnership with Mizna+RAWIfest discusses the benefits and complications of queer MENA and SWANA affinity spaces.
 
-5:15 - 6:00 PM: **Performance Conversation with ReOrient artists: Navigating Boundaries in Role-Playing and Cultural Specificity** 
+5:15 - 6:00 PM: **Performance Conversation with ReOrient artists: Navigating Boundaries in Role-Playing and Cultural Specificity** Moderator: Nakissa Etemad 
 
-Moderator: Nakissa Etemad @ Potrero (in-person only) 
+@ Potrero (in-person only) 
 
 This conversation between ReOrient artists and audiences explores the intricate dynamics of crossing boundaries between playing roles from different parts of the Middle East. 
 
