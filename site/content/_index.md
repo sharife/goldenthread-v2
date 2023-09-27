@@ -20,6 +20,21 @@ items:
     image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
+  - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
+    subtitle: "**2023 MENATMA Convening!**"
+    cta: Learn More!
+    link: https://goldenthread.org/about/people/#open-modal-Wafaa%20Bilal
+    text: >-
+      Golden Thread Productions and Art2Action, Inc. are thrilled to co-produce
+      and co-present the 4th annual convening of the Middle Eastern North
+      African Theater Makers Alliance (MENATMA) hosted at Golden Thread’s
+      ReOrient Festival of Short Plays in San Francisco. 
+
+
+      MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. We will take space, make opportunities, champion artists, and build relationships with other marginalized communities and allies to build a more vibrant American theater. 
+
+
+      The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. Registration is free, but advanced registration is required.
   - image: https://ucarecdn.com/9abaf3da-d721-42c2-8178-cbf5ff114cf0/
     subtitle: "**Theatre Bay Area Arts Leadership Residency**"
     cta: "Learn more! "
@@ -34,18 +49,4 @@ items:
       stage, radio, and TV. At Golden Thread, Amal will co-produce our
       2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as
       well as direct one of the selected plays in the festival.
-  - image: https://ucarecdn.com/72b1213a-6abd-4850-905d-fa23b707d5eb/
-    subtitle: "**2023 Artist-in-Residence!**"
-    cta: Learn More!
-    link: https://goldenthread.org/about/people/#open-modal-Wafaa%20Bilal
-    text: "We are excited to announce **Wafaa Bilal**, an Iraqi-born artist and Arts
-      Professor at NYU’s Tisch School of the Arts, as our 2023
-      Artist-in-Residence. Bilal will collaborate with us on multiple projects
-      throughout the year, including the curation of ***Amreeka: The Comedy
-      Show*** and contributing to the **ReOrient Forum**. The
-      Artist-in-residence program is a new initiative at Golden Thread that
-      engages guest artists on an annual basis within the company’s staff. The
-      program intends to bring fresh perspectives into each season and expand
-      the culture of innovation and creativity while allowing the guest artist
-      the opportunity to grow their work and engage with our communities."
 ---
