@@ -40,7 +40,7 @@ lists:
           ReOrient Festival of Short Plays in San Francisco.
 
 
-          This year’s convening is co-sponsored by [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [Noor Theatre](https://www.noortheatre.org/), [Silk Road Rising](https://www.silkroadrising.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx).
+          This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [](https://www.silkroadrising.org/)[Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation. 
 
 
           **Registration is FREE. Advanced registration is required.**
