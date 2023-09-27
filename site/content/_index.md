@@ -6,15 +6,17 @@ background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
 cta: Learn More!
 link: https://goldenthread.org/productions/reorient-2023/
 items:
-  - subtitle: "**2023 Season Tickets On Sale Now!**"
-    text: Our 27th season brings new work highlighting our commitment to uplift one
-      another as we explore ways to connect, cope, and be moved to make a
-      change. Join us as we look for comfort in comic relief, seek unity in
-      collaboration, and find inspiration in the stories of those fighting for
-      justice and equality. Favorite programs including **What Do the Women
-      Say?**, **No Summary**, **New Threads**, and the signature **ReOrient
-      Festival** and **Forum** return this year, along with a brand-new comedy
-      show, **Amreeka!**
+  - subtitle: "**ReOrient Festival Returns!**"
+    text: >-
+      Our 2023 Season celebrates the return of our signature program, an
+      innovative and spirited festival of short plays from or about the Middle
+      East. 
+
+
+      An endless wait in an immigration line elicits a not-so-pretty stream of consciousness. Former rivals reunite after 20 years, and a surprising twist unfolds. A comic farce of a play-within-a-play-within-a-play pushes the writer to battle over who controls the narrative. A pile of dead bodies sits untouched in the middle of an office space. A young woman sails from Armenia to Ellis Island for an inconvenient marriage. A couple negotiates at San Francisco’s hottest new Couples Therapy practice. 
+
+
+      With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening!
     image: https://ucarecdn.com/5a455ef3-dc25-4201-bf7e-ac24e2b30e13/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
