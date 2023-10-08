@@ -9,19 +9,15 @@ sidebar:
 ---
 **Usher an Event**
 
-We are currently seeking volunteers for **What Do the Women Say? 2023: Fighters for Freedom** taking place on **Wednesday, March 8** at **7pm**. \
+We are currently seeking volunteers for the **ReOrient Festival of Short Plays**, with performance dates **October 13 - November 4, 2023**, at the Potrero Stage. Volunteers will help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free!\
 \
-Volunteers will help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free!\
-\
-We ask our volunteers to **arrive 1.5 hours prior to showtime** for this special event. Brava is located at 2781 24th Street in the Mission neighborhood of San Francisco. 
+We ask our volunteers to **arrive 1.5 hours prior to showtime**. 
 
 Just like our artists, audiences, and staff, we ask that our volunteers wear a well-fitted mask, preferably a higher grade than cloth. You can read more about our health and safety protocols at [www.goldenthread.org/posts/​health-safety-protocols](http://www.goldenthread.org/posts/health-safety-protocols)
 
-To sign up as a volunteer for this event, please email: [linda@goldenthread.org](mailto:linda@goldenthread.org) 
+To sign up as a volunteer for this event, please click [here](https://www.signupgenius.com/go/9040E4EAFA62FA1F58-44364349-reorient#/). This will take you to SignUpGenius, where you can choose the date(s) and time(s) that work for you!
 
-
-
-Volunteer ushers provide general assistance at performances. They monitor the doors, assist with set-up and clean-up of audience seating, prepare programs, take tickets, help patrons to their seats, distribute and collect audience surveys, and generally help out at performances. They are a very important part of any successful event and get to see the show for free!
+The Potrero Stage is located at 1695 18th St., San Francisco, CA 94107. Location map and transportation information is on our Plan Your Visit page [here](https://goldenthread.org/about/visit/).
 
 **Assist with a Production**
 
