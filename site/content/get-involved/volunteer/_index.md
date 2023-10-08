@@ -17,7 +17,7 @@ We are currently seeking volunteers for the **[ReOrient Festival of Short Plays]
 
 We are currently seeking volunteers for the **[MENATMA Convening](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/), October 28-29, 2023**, at the Potrero Stage. The 2023 Annual MENA Theater Makers Alliance Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. 
 
-* Volunteers for our MENATMA Convening will help for around four-and-a-half hours with guest registration, guiding guests around our space, setting up tables for food when it arrives, and supporting our producers and organizers with miscellaneous tasks. 
+* Volunteers for our MENATMA Convening will help for 4-5 hour half-day shifts, with guest registration, guiding guests around our space, setting up tables for food when it arrives, and supporting our producers and organizers with miscellaneous tasks. 
 * Just like our artists, audiences, and staff, we ask that our volunteers wear a well-fitted mask, preferably a higher grade than cloth. You can read more about our health and safety protocols at [www.goldenthread.org/posts/​health-safety-protocols](http://www.goldenthread.org/posts/health-safety-protocols) 
 * To sign up as a volunteer for the **MENATMA Convening**, please click [here](https://www.signupgenius.com/go/9040E4EAFA62FA1F58-44365783-reorient#/). This will take you to SignUpGenius, where you can choose the date(s) and time(s) that work for you!
 
