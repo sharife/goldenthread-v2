@@ -9,7 +9,7 @@ sidebar:
 ---
 **Usher an Event**
 
-We are currently seeking volunteers for the **ReOrient Festival of Short Plays**, with performance dates **October 13 - November 4, 2023**, at the Potrero Stage. Volunteers will help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free!\
+We are currently seeking volunteers for the **[ReOrient Festival of Short Plays](https://goldenthread.org/productions/reorient-2023/)**, with performance dates **October 13 - November 4, 2023**, at the Potrero Stage. Volunteers will help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free!\
 \
 We ask our volunteers to **arrive 1.5 hours prior to showtime**. 
 
