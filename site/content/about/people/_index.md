@@ -27,21 +27,25 @@ staff:
 
 
         As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
-    - bio: <strong>Michelle Mulholland</strong> *(she/her)* has more than 17 years of
-        non-profit management experience from some of San Francisco’s finest
-        arts and environmental justice organizations, including Theater Artaud,
-        Beach Blanket Babylon, Brava Theater, the Commonwealth Club of
-        California, The Coral Reef Alliance and Forests Forever. Since joining
-        Golden Thread in 2012, Michelle has been enhancing day-to-day
-        operations, enabling the company’s exponential growth by
-        professionalizing policies and procedures, implementing a fully
-        integrated patron management system and establishing a donor focused
-        individual giving protocol. A freelance costume designer since 2008, she
-        has designed for numerous Bay Area companies, including Crowded Fire
-        Theater, New Conservatory Theatre Center, Golden Thread Productions,
-        Word for Word, African-American Shakespeare Company, Z Space, Lorraine
-        Hansberry Theatre, Cutting Ball Theater, and Brava Theater. She has also
-        worked with Teatro Zinzanni, ACT and the SFMOMA.
+    - bio: <strong>Michelle Mulholland</strong> *(she/her)* is an arts administrator
+        and costume designer with more than 20 years of experience in Bay Area
+        theater. Michelle has been managing day to day operations at Golden
+        Thread for the last decade with a solid foundation of non-profit
+        management, member services, and fundraising experience from some of San
+        Francisco’s finest arts and environmental justice organizations,
+        including Brava Theater, Beach Blanket Babylon, Theater Artaud, the
+        Commonwealth Club of California, The Coral Reef Alliance and Forests
+        Forever. In that time, she has enabled the company’s exponential growth
+        through the establishment of many key strategic initiatives and the
+        institution of significant policies and procedures. She has twice served
+        on grant panels for the San Francisco Arts Commission and was an active
+        member of the TBA Theater Services Committee for many years. A freelance
+        costume designer since 2008, she has designed for numerous Bay Area
+        companies, including New Conservatory Theatre Center, Magic Theatre,
+        Golden Thread Productions, Word for Word, Crowded Fire Theater,
+        African-American Shakespeare Company, Z Space, Lorraine Hansberry
+        Theatre, Cutting Ball Theater, and Brava Theater. She has also worked
+        with Teatro Zinzanni, ACT, and the SFMOMA.
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
