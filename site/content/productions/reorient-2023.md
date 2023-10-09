@@ -275,20 +275,22 @@ cast:
       image: https://ucarecdn.com/d63eeccf-a3be-4bcc-b50e-8f32b328fa3f/-/crop/950x1019/141,87/-/preview/
     - name: Amal Bisharat
       credit: director, Picture Bride & A Massacre
-      bio: "**Amal Bisharat** (*she/her*) is a Palestinian American theater director,
-        theater maker, musician, photographer, and yoga teacher. Bisharat holds
-        a BA in Music and Theater and for 12 years worked as a director and
-        music director in partnership with the San Francisco Unified School
-        District. She is currently an Artist-In-Residence at Golden Thread
-        Productions, co-producing and directing in the 2023 ReOrient Festival.
-        She is also currently in the process of creating her first musical, a
-        Palestinian refugee story adapted from the best-selling novel *Mornings
-        in Jenin* by Susan Abulhawa. Bisharat is a grateful recipient of the
-        2022-23 Theater Bay Area Arts Leadership Residency Grant, 2022 Theater
-        Bay Area CA$H Creates Grant, and 2023 San Francisco Arts Commission
-        Artist Grant. Bisharat believes in the transformative power of art and
-        storytelling whether on a stage, in a photograph, or in the stories we
-        tell ourselves."
+      bio: >-
+        **Amal Bisharat** (*she/her*) is a Palestinian American
+        multidisciplinary artist: a theatre director, theatremaker, musician,
+        actor, photographer, and yoga teacher. Bisharat holds a BA in Music and
+        Theater and for 12 years worked as a director and music director in
+        partnership with the San Francisco Unified School District.  She is
+        currently in residence at Golden Thread Productions as co-producer and
+        director for the 2023 ReOrient Festival of Short Plays. She is also
+        currently in the process of creating her first musical, a Palestinian
+        refugee story adapted from the best-selling novel Mornings in Jenin by
+        Susan Abulhawa. Bisharat is a grateful recipient of the 2022-23 Theater
+        Bay Area Arts Leadership Residency Grant, 2022 Theater Bay Area CA$H
+        Creates Grant, and 2023 San Francisco Arts Commission Artist Grant.
+
+
+        Bisharat is also an award-winning [photographer](https://www.amalbphotography.com/), with her own arts-focused photography company, capturing the magic of professional dance, theater, and music performances for Bay Area groups like Yerba Buena Gardens Festival, Sarah Bush Dance Project, and Alonzo King Lines Ballet. Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
       image: https://ucarecdn.com/7726d806-6260-4025-a271-f0023b156cc8/
     - name: Susannah Martin
       credit: director, Closure
