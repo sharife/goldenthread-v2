@@ -78,11 +78,15 @@ lists:
         itemstart: ""
         itemend: ""
       - image: ""
-        subtitle: by Hamed Sinno
-        text: In a farce of a play within a play within a play, fractals of a writer’s
-          identity battle over controlling the narrative. When they start
-          eliminating each other, it becomes unclear who is writing whom.
-        title: The Suicide Bomber
+        subtitle: by Adam Ashraf Elsayigh
+        text: Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White
+          boyfriend Joel. But it's really not his fault Joel went snooping,
+          finding Sam's FUCK FORM, with all the raunchy descriptions of his
+          recent hookups. So here they are at ODYSSEY, San Francisco's hottest,
+          new Couple Therapy practice. Will Sam and Joel manage to fix this hot
+          mess with the assistance of their overwhelmed but well-meaning
+          counselor, Sharon... or is this all doomed for failure?
+        title: Data Queen
         itemstart: ""
         itemend: ""
       - image: ""
@@ -102,15 +106,11 @@ lists:
         itemstart: ""
         itemend: ""
       - image: ""
-        subtitle: by Adam Ashraf Elsayigh
-        text: Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White
-          boyfriend Joel. But it's really not his fault Joel went snooping,
-          finding Sam's FUCK FORM, with all the raunchy descriptions of his
-          recent hookups. So here they are at ODYSSEY, San Francisco's hottest,
-          new Couple Therapy practice. Will Sam and Joel manage to fix this hot
-          mess with the assistance of their overwhelmed but well-meaning
-          counselor, Sharon... or is this all doomed for failure?
-        title: Data Queen
+        subtitle: by Hamed Sinno
+        text: In a farce of a play within a play within a play, fractals of a writer’s
+          identity battle over controlling the narrative. When they start
+          eliminating each other, it becomes unclear who is writing whom.
+        title: The Suicide Bomber
         itemstart: ""
         itemend: ""
   - items:
