@@ -223,17 +223,20 @@ staff:
       image: https://ucarecdn.com/24f84b72-4b2e-4207-a130-daf4be027a31/
       bio: >-
         **Amal Bisharat** (*she/her*) is a Palestinian American
-        multidisciplinary artist: a theater director, theater maker, musician,
-        actor, and photographer. Bisharat holds a BA in Music and Theater from
-        Minnesota State University-Moorhead and for 12 years worked as a
-        director and music director in partnership with the San Francisco
-        Unified School District. She is a recipient of the 2022-23 TBA Arts
-        Leadership Residency Grant and CA$H Creates Grant, and is presently in
-        residency at Golden Thread Productions as co-producer and director for
-        their signature ReOrient Festival of short plays. 
+        multidisciplinary artist: a theatre director, theatremaker, musician,
+        actor, photographer, and yoga teacher. Bisharat holds a BA in Music and
+        Theater and for 12 years worked as a director and music director in
+        partnership with the San Francisco Unified School District.  She is
+        currently in residence at Golden Thread Productions as co-producer and
+        director for the 2023 ReOrient Festival of Short Plays. She is also
+        currently in the process of creating her first musical, a Palestinian
+        refugee story adapted from the best-selling novel *Mornings in Jenin* by
+        Susan Abulhawa. Bisharat is a grateful recipient of the 2022-23 Theater
+        Bay Area Arts Leadership Residency Grant, 2022 Theater Bay Area CA$H
+        Creates Grant, and 2023 San Francisco Arts Commission Artist Grant.
 
 
-        As a singer/songwriter and multi-instrumentalist, Bisharat has been writing, recording and performing with bands most of her life. Currently she is in the process of creating her first musical, a Palestinian refugee story adapted from the best-selling novel *Mornings in Jenin* by Susan Abulhawa. Bisharat is also an award-winning [photographer](https://www.amalbphotography.com/), with her own arts-focused photography company, capturing the magic of professional dance, theater, and music performances for groups like Yerba Buena Gardens Festival, RAWdance, and Alonzo King Lines Ballet. Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves. 
+        Bisharat is also an award-winning [photographer](https://www.amalbphotography.com/), with her own arts-focused photography company, capturing the magic of professional dance, theater, and music performances for Bay Area groups like Yerba Buena Gardens Festival, Sarah Bush Dance Project, and Alonzo King Lines Ballet. Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
 
 
         Theatre Bay Area’s Arts Leadership Residency removes roadblocks to arts leadership for historically marginalized groups by funding theatremakers in residence at professional theatres where they will be mentored by the artistic director or managing director and direct or produce a significant project. Learn more here: [Theatre Bay Area Arts Leadership Residency](https://www.theatrebayarea.org/arts-leadership-residency/)
