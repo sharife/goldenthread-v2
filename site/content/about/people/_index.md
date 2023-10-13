@@ -36,7 +36,7 @@ staff:
         including Brava Theater, Beach Blanket Babylon, Theater Artaud, the
         Commonwealth Club of California, The Coral Reef Alliance and Forests
         Forever. In that time, she has enabled the company’s exponential growth
-        through the establishment of many key strategic initiatives and the
+        through the implementation of many key strategic initiatives and the
         institution of significant policies and procedures. She has twice served
         on grant panels for the San Francisco Arts Commission and was an active
         member of the TBA Theater Services Committee for many years. A freelance
