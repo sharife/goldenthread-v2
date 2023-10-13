@@ -61,6 +61,11 @@ lists:
         pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
   - heading: REORIENT 2023 LINE-UP
     items:
+      - itemstart: 2023-10-13T02:13:16.860Z
+        itemend: 2023-10-13T02:13:16.891Z
+        subtitle: ""
+        text: "**For content advisories and additional information visit our
+          content [guide](https://goldenthread.org/posts/content-guide/).**"
       - image: ""
         subtitle: by Yussef El Guindi
         text: Ahmed is waiting in an immigration line as his thoughts race, skid, and
