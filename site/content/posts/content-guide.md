@@ -11,12 +11,50 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
-# ReOrient 2023
+![](https://ucarecdn.com/1dbab896-e1a2-4073-9876-5861cd7fda5c/)
 
 October 13 - November 4, 2023
 
+### Stamp Me
+
+#### by Yussef El Guindi
+
+Ahmed is waiting in an immigration line as his thoughts race, skid, and trip him up as he anticipates the things that might be asked, the papers he’ll have to show, and the personal information he might have to share. It is not a pretty stream of consciousness.
 
 
 
+### Closure
 
-![](https://ucarecdn.com/5978a7dd-74a1-4d39-b118-ab469b7e03cb/)
+#### by Arti Ishak
+
+Two former Arabic school rivals meet 20 years later when an unexpected reveal changes the nature of their reunion. **Content Advisories: Use of homophobic language, reference to bullying, reference to domestic violence and self harm.**
+
+
+
+### Data Queen
+
+#### by Adam Ashraf Elsayigh
+
+Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White boyfriend Joel. But it’s really not his fault Joel went snooping, finding Sam’s FUCK FORM, with all the raunchy descriptions of his recent hookups. So here they are at ODYSSEY, San Francisco’s hottest, new Couple Therapy practice. Will Sam and Joel manage to fix this hot mess with the assistance of their overwhelmed but well-meaning counselor, Sharon… or is this all doomed for failure? **Content Advisories: Strong language, reference to substance use, reference to traumatic events.** 
+
+
+
+### A Massacre
+
+#### b﻿y Katrin Arefy
+
+Discovering a pile of dead bodies in the middle of their office, work colleagues seem nonchalant to the carnage and instead become embroiled in petty arguments. Their repetitive discussions and responses are predetermined and non-negotiable. **Content Advisories: Depiction of dead bodies, loud screams.**
+
+### Picture Bride
+
+#### by Judith Boyajian Strang-Waldau
+
+A young woman recounts sailing to America during the Armenian Genocide to marry a strange man on Ellis Island. **Content Advisories: Mother-child separation due to war, reference to non consensual marital sex, and reference to war time sexual violence.** 
+
+
+
+### The Suicide Bomber
+
+#### by Hamed Sinno
+
+In a farce of a play within a play within a play, fractals of a writer’s identity battle over controlling the narrative. When they start eliminating each other, it becomes unclear who is writing whom. **Content Advisories: Reference to physical and sexual violence against gay men, gunshot sounds, confetti canon sound, strobe lights**
