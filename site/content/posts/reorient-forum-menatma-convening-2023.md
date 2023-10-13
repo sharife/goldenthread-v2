@@ -55,7 +55,7 @@ Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Op
 
 This panel explores the diverse impacts of the COVID-19 pandemic on MENA artists and organizations. It puts individual and institutional experiences in conversation with one another to help the theater-making community address common challenges and concerns.
 
-3:00 - 4:30 PM: **Panel: MENA Artists Leading in National Theaters** Moderator: Evren Odcikin, and featuring Raymond Bobgan, Joseph Haj, Inji Kamel, Taibi Magar, and Pirronne Yousefzadeh. 
+3:00 - 4:30 PM: **Panel: MENA Artists Leading in National Theaters** Moderator: Evren Odcikin, and featuring Raymond Bobgan, Joseph Haj, Inji Kamel, and Pirronne Yousefzadeh. 
 
 @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
