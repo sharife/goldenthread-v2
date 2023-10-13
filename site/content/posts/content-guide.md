@@ -11,56 +11,50 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
-# New Threads 2022
+![](https://ucarecdn.com/1dbab896-e1a2-4073-9876-5861cd7fda5c/)
 
-August 9, 2022
+October 13 - November 4, 2023
 
-## A Thousand Strange Places: Anthony Shadid and the Middle East
+### Stamp Me
 
-written by Robert Myers, directed by Sahar Assaf
+#### by Yussef El Guindi
 
-The play dramatizes the life and career of the Pulitzer Prize-winning, Lebanese-American journalist Anthony Shadid during the tumultuous decade of 2002-2012. He is wounded in Palestine, awaits the American invasion of Iraq in Baghdad, covers the Israeli invasion of Lebanon in 2006, the fall of Mubarak in Tahrir Square, and is kidnapped in Libya while reporting on the civil war there. As an Arabic speaker and a brilliant writer, he re-defined the role of a reporter and was one of the only correspondents who covered the lives of people from the Arab world from every walk of life.
+Ahmed is waiting in an immigration line as his thoughts race, skid, and trip him up as he anticipates the things that might be asked, the papers he’ll have to show, and the personal information he might have to share. It is not a pretty stream of consciousness.
 
-**Content Advisories: Reference to war. Depictions of physical injury. Sounds of bombs. Graphic description of violence caused by war. Death of children due to war. Description of wartime sexual violence. Reference to animal cruelty. Projections of real war photos.**
 
-August 16, 2022
 
-## What to Expect When You Are Simulating Expecting
+### Closure
 
-written by Nabra Nelson, directed by Susannah Martin
+#### by Arti Ishak
 
-In the year 2080, the new normal involves taboos on pregnancy, car ownership, red meat, and suburban homes. It involves travel restrictions, a mixed-race majority, ongoing climate disasters, and constant uncertainty. But other than that, everything is the old normal. Except for Hoda’s experimental pregnancy. As Hoda gets ever-closer to her dream life – a home safe in Canada, away from Seattle’s floods and wildfires, and a nuclear family to settle down with – things don’t seem to be going as planned. As she waits for her husband Ahmed to adopt a child from Egypt to round out their family, she starts getting pains that her doctor can’t explain, and she meets an intriguing new friend named JeeYoung. The clock ticks as the Big One approaches to wash away Hoda’s plans, but she is determined to fly away in time. An intense yet comedic experience, this near-futuristic play simulates the unexpected.
+Two former Arabic school rivals meet 20 years later when an unexpected reveal changes the nature of their reunion. **Content Advisories: Use of homophobic language, reference to bullying, reference to domestic violence and self harm.**
 
-**Content Advisories: Profanity. Depictions of pregnancy complications and birthing. Mention of abortion.**
 
-August 23, 2022
 
-## Pilgrimage
+### Data Queen
 
-written by Humaira Ghilzai and Bridgette Dutta Portman, directed by Aidaa Peerzada
+#### by Adam Ashraf Elsayigh
 
-Five Muslim American women embark on an Umrah, a minor pilgrimage, to Mecca. Noor, an Afghan American immigrant with a secret, hopes the journey will give her the absolution she desperately seeks. Her tech CEO daughter Maryam, struggling with legal woes, sees the trip as a way to rebrand herself, while Noor’s nieces, the estranged sisters Sosan and Nadia, work to mend their fractured relationship while fulfilling the Umrah rituals as a requisite to receive their inheritance. Meanwhile, Fatima, a Black Muslim convert, hopes to find her biological mother. Will these five women find the spiritual reawakening they seek, or will secrets, rivalries, and old wounds tear them apart?
+Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White boyfriend Joel. But it’s really not his fault Joel went snooping, finding Sam’s FUCK FORM, with all the raunchy descriptions of his recent hookups. So here they are at ODYSSEY, San Francisco’s hottest, new Couple Therapy practice. Will Sam and Joel manage to fix this hot mess with the assistance of their overwhelmed but well-meaning counselor, Sharon… or is this all doomed for failure? **Content Advisories: Strong language, reference to substance use, reference to traumatic events.** 
 
-**Content Advisories: References to death of a family member. References to bullying and prejudice. References to political violence. Themes of grief, family dysfunction, and abandonment.**
 
-August 30, 2022
 
-## HOME?
+### A Massacre
 
-written and performed by Hend Ayoub, directed by Carey Perloff
+#### b﻿y Katrin Arefy
 
-An autobiographical solo show about a young woman's journey to retrieve and imagine a new sense of home. Through a panoply of vivid characters—from a five-year-old who just wants to join the neighborhood's Purim party to a casting director in Egypt who can't forget where she comes from, to her dying mother who longs for her to find a place in the world—Hend shares a deeply personal and true story about her search for the place that many of us take for granted: Home.
+Discovering a pile of dead bodies in the middle of their office, work colleagues seem nonchalant to the carnage and instead become embroiled in petty arguments. Their repetitive discussions and responses are predetermined and non-negotiable. **Content Advisories: Depiction of dead bodies, loud screams.**
 
-**Content Advisories: Description of ethnic discrimination. Death of a parent.**
+### Picture Bride
 
-![](https://ucarecdn.com/5978a7dd-74a1-4d39-b118-ab469b7e03cb/)
+#### by Judith Boyajian Strang-Waldau
 
-April 8 - May 1, 2022
+A young woman recounts sailing to America during the Armenian Genocide to marry a strange man on Ellis Island. **Content Advisories: Mother-child separation due to war, reference to non consensual marital sex, and reference to war time sexual violence.** 
 
-# Drowning in Cairo
 
-written by Adam Ashraf Elsayigh and directed by Sahar Assaf
 
-It is May 2001 in Cairo. Moody, Khalid, and their servant Taha are on the Queen Boat, a gay nightclub docked on the Nile. When an unexpected police raid results in the arrest and public humiliation of the attendees, the lives of these young men are altered forever.
+### The Suicide Bomber
 
-**Content Advisories: References to the death of a parent, substance abuse and depictions of alcohol drinking. References to sexual violence. Homophobic language. Sexual content. Realistic depiction of physical violence. Gunshot sounds. Siren and flashing lights.**
+#### by Hamed Sinno
+
+In a farce of a play within a play within a play, fractals of a writer’s identity battle over controlling the narrative. When they start eliminating each other, it becomes unclear who is writing whom. **Content Advisories: Reference to physical and sexual violence against gay men, gunshot sounds, confetti canon sound, strobe lights**
