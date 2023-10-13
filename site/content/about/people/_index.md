@@ -357,6 +357,30 @@ board:
 
 
         Rita is always engaged in growth and development, both personally and professionally, and has been a daily meditator for over 2 decades. She sits on the Board of Trustees of Golden Thread Productions, whose mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. Being a philanthropist and being of service gives her the greatest joy. Her husband Robert is her biggest supporter in work and in life.
+    - name: "Nancy Chemaly "
+      image: https://ucarecdn.com/fe9ca78a-d6fa-4162-b9e0-ff0a3e780a88/
+      bio: >-
+        **Nancy Chemaly**’s (*she/her*) deep-rooted belief in the central role
+        of Chemistry in life has shaped her path from an early age. Recognizing
+        that bonds, both literal and metaphorical, are at the heart of
+        existence, she pursued a Master’s degree in Chemistry (in Beirut,
+        Lebanon) and a degree in education (in The US after moving in 2000)
+        combining her passion for the subject with her love for teaching. Nancy
+        found her calling as a Chemistry teacher. Her dedication for
+        strengthening bonds extends beyond the realm of chemical compounds. She
+        invests in nurturing connections with her students, two children, and
+        the husband she met in a Chemistry lab 31 years ago, where their own
+        chemistry sparked. Understanding and valuing individual differences,
+        Nancy actively promotes diversity and equity within her classroom. She
+        takes on the role of counselor and supporter for teenagers, leveraging
+        her trilingual background to ease the transition of newcomers to the
+        United States. 
+
+
+        In addition to her commitments in education, Nancy’s involvement in the community is noteworthy. She serves on The English Learner’s committee, ensuring that all students have equal opportunities to thrive. As a representative for the school site council for Monte Vista High School (2019-2021), she actively contributed to shaping educational policies. Currently, she holds the role of marketing and event coordinator for the Sunjams Foundation, a nonprofit organization that funds music education in under-resourced public schools. 
+
+
+        Proud of her Middle Eastern roots and heritage, she firmly believes in the power of understanding of others’ stories as a way to foster empathy and eliminate hate. Embracing the exciting chapter of an empty nest, she eagerly seeks opportunities to share and celebrate her culture while engaging with diverse cultures through theatre and art. She has faith in the mission of Golden Thread Productions and is proud to be part of this organization.
 artists:
   heading: Resident Artists
   items:
