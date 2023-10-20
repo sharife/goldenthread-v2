@@ -7,32 +7,21 @@ sidebar:
   text: |-
     **Thank you to these corporations for their Matching Gift programs:**
 
-    Amazon
-
-    Chevron
-
-    Genentech
-
-    Google
-
-    San Francisco State University Center for Iranian Diaspora Studies
-
-    Women Arts
-
-    Working Solutions CDFI
-
+    Amazon\
+    Chevron\
+    Genentech\
+    Google\
+    San Francisco State University Center for Iranian Diaspora Studies\
+    Women Arts\
+    Working Solutions CDFI\
     Xperi  
 
     **Thank you to the following for their In-Kind support:**
 
-    May Allam
-
-    Humaira Ghilzai
-
-    Pam Hommeyer
-
-    Murrey E. Nelson
-
+    May Allam\
+    Humaira Ghilzai\
+    Pam Hommeyer\
+    Murrey E. Nelson\
     Helen, Wayne & Alex Nowak
 ---
 ## **LEADERSHIP CIRCLE**
