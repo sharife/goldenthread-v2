@@ -2,7 +2,7 @@
 title: Donors
 intro: We are privileged to recognize the generous individuals and institutions
   that support our mission and make our programming possible. (Combined gifts
-  from 03/01/2021 through 09/16/2022)
+  from 03/01/2022 through 08/31/2023)
 sidebar:
   text: >-
     **Thank you to these corporations for their Matching Gift programs:**
