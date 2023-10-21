@@ -28,6 +28,8 @@ sidebar:
 
 **Golden Sponsor ($250,000 & Above)**
 
+Doris Duke Charitable Foundation
+
 William and Flora Hewlett Foundation
 
 **Season Sponsor ($50,000 to $99,000)**
