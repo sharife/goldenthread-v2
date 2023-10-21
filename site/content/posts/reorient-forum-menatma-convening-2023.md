@@ -63,7 +63,7 @@ MENA artists are finally stepping into executive leadership positions at nationa
 
 4:30 - 4:45 PM: **Coffee Break** (provided) @ Annex 
 
-4:45 - 6:00 PM: **Panel: MENA Theater in Schools and Universities** Moderator: Heather Rastovac Akbarzadeh 
+4:45 - 6:00 PM: **Panel: MENA Theater in Schools and Universities** Moderator: Amal Bisharat, featuring  Heather Rastovac Akbarzadeh, Michael Malek Najjar, Hala Baki, and Peyman Shams. 
 
 @ Potrero Stage (live-streamed on HowlRound) 
 
