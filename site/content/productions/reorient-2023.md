@@ -17,7 +17,7 @@ description: >-
   “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
 background: https://ucarecdn.com/509e85d8-55b5-461c-a95b-acd582598ddf/
 titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
-program: ""
+program: null
 videos:
   - id: IE8vFyYv4Xw
 writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
@@ -34,6 +34,8 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 ticketinfo: "$15-100 "
+externallink: View the Digital Playbill
+externallinklabel: https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html
 misc: "Six short plays, presented as one evening of theatre. Run time: 2 hours,
   plus intermission"
 lists:
