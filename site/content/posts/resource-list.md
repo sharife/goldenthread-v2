@@ -1,7 +1,7 @@
 ---
-title: Resource List
+title: "In Solidarity with Palestine: A Resource List"
 date: 2023-10-26T20:41:43.415Z
-description: In Solidarity with Palestine
+description: ""
 ---
 **Independent and on the grounds Palestinian journalist and photographers accounts to follow:**
 
