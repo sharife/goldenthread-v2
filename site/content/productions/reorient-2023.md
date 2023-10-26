@@ -34,8 +34,8 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
 ticketinfo: "$15-100 "
-externallink: View the Digital Playbill
-externallinklabel: https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html
+externallink: https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html
+externallinklabel: View the Digital Program
 misc: "Six short plays, presented as one evening of theatre. Run time: 2 hours,
   plus intermission"
 lists:
