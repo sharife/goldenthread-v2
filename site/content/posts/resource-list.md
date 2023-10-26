@@ -10,6 +10,8 @@ description: ""
 * Motaz Azaiza, photographer – [@motaz_azaiza](https://www.instagram.com/motaz_azaiza/?igshid=MzRlODBiNWFlZA%3D%3D)
 * Hind Khoudary, journalist – [@hindkhoudary](https://www.instagram.com/hindkhoudary/?igshid=MzRlODBiNWFlZA%3D%3D)
 
+>
+
 **International independent journalists, scholars, and activists**
 
 * Ahmed Eldin, journalist and filmmaker - @ahmedeldin
@@ -17,6 +19,8 @@ description: ""
 * Mohammed El Kurd, writer - @[mohammedelkurd](https://www.instagram.com/mohammedelkurd/?hl=en#)
 * Subhi, social media strategist - @sbeih.jpg
 * Fikra Magazine, Palestinian Literary Mag - @[fikra_magazine](https://www.instagram.com/fikra_magazine/?hl=en#)
+
+>
 
 ## **Film / TV**
 
@@ -59,6 +63,8 @@ After persuading her father to continue her education in the city, a Palestinian
 [Our boys (TV Series)](https://www.hbo.com/our-boys)\
 In the summer of 2014, three Jewish teenagers are kidnapped and murdered by Hamas militants. Israel is shocked, shaken and furious. Two days later, the burned body of a Palestinian teenager from eastern Jerusalem is found in a forest on the western outskirts of the city. In the ensuing days, an agent from the internal terror division of the Shin Bet investigates the murder, while the parents of the slain teenager begin their long and anguished journey toward justice and consolation. Filmed in Israel, Our Boys is based on the true events which led to the outbreak of war in Gaza. The series follows the investigation of Mohammed Abu Khdeir’s murder, and tells the story of all those involved, Jews and Arabs alike, whose lives were forever changed by these events.
 
+>
+
 ## News Articles
 
 [‘You Started a War, You’ll Get a Nakba’](https://www.theatlantic.com/ideas/archive/2023/10/israel-settlers-violence-netanyahu-government/675755/) (Atlantic)[](https://www.washingtonpost.com/graphics/world/occupied/checkpoint/)
@@ -77,6 +83,8 @@ In the summer of 2014, three Jewish teenagers are kidnapped and murdered by Hama
 
 Column: [Umm Forat](https://www.haaretz.com/ty-WRITER/0000017f-da5a-d494-a17f-de5b7af20000?lts=1698253107699) (Ha’aretz)\
 I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. After years of wandering throughout the world, we returned to the West Bank with our two children, 6-year-old Forat and 3-year-old Adam. We are trying to lead ordinary lives in an extraordinary and unforgiving reality, one that I will share with you. I have changed the names of people in the blog, including my own. "Umm Forat" means "Mother of Forat" in Arabic. I invite you to visit my website: [www.ummforat.com](http://www.ummforat.com).
+
+>
 
 ## Books
 
@@ -110,21 +118,27 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 
 [Rifqa -Mohammad El-Kurd](https://www.amazon.com/Rifqa-Mohammed-El-Kurd/dp/1642595861)
 
+>
+
 ## Podcasts
 
 [This is palestine](https://pod.link/1509337661)
 
 [PreOccupation: A Not-So-Brief History of Palestine with Bassam Abunnadi](https://podcasts.apple.com/us/podcast/preoccupation-a-not-so-brief-history-of-palestine/id1559134283)
 
+>
+
 ***Golden Thread Productions endorses [Noor Theatre’s Call to Action](https://www.noortheatre.org/noor-theatres-statement-on-palestine)***
 
-## Resources and Ways to Take Action
+>
+
+## More Resources and Ways to Take Action
 
 #### Read/Learn
 
 * [DecolonizePalestine](https://decolonizepalestine.com/?link_id=5&can_id=da66042f69df3564bb2ecf55b6c6aa18&source=email-take-action-to-support-palestine-this-week&email_referrer=email_1176333&email_subject=take-action-to-support-palestine-this-week) 
-* [US Campaign for Palestinian Rights ](https://uscpr.org/)
-* * [A 101 Course to Understanding Israel’s Oppression of the Palestinian People](https://uscpr.org/learn/togetherwerise/not-that-complicated/)
+* [US Campaign for Palestinian Rights](https://uscpr.org/)
+* [A 101 Course to Understanding Israel’s Oppression of the Palestinian People](https://uscpr.org/learn/togetherwerise/not-that-complicated/)
 * [Visualizing Palestine](https://visualizingpalestine.org/)
 * [Al Jazeera: “What led to the most recent Israel-Palestine Escalation”](https://www.aljazeera.com/news/2021/5/12/what-lead-up-to-most-recent-israel-palestine-escalation)
 * [Jewish Voice for Peace Israel & Palestine 101](https://jewishvoiceforpeace.org/israeli-palestinian-conflict-101/?link_id=6&can_id=da66042f69df3564bb2ecf55b6c6aa18&source=email-take-action-to-support-palestine-this-week&email_referrer=email_1176333&email_subject=take-action-to-support-palestine-this-week) 
@@ -137,16 +151,22 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 * [Watch Scenes from 73* Years with Medina Theater Collective](https://medinatheatercollective.weebly.com/season-one.html)
 * [Watch The Gaza Monologues](https://arts.stanford.edu/event/91721/)
 
+>
+
 #### Theatres in Palestine to Follow
 
 * [Ashtar Theatre](http://www.ashtar-theatre.org/)
 * [The Freedom Theatre](https://www.thefreedomtheatre.org/)
+
+>
 
 #### Participate in a Protest or Rally
 
 * [Find protests/rallies in your region](https://www.google.com/maps/d/u/0/viewer?mid=107EJDTPyMJxU4DjpI_ZmdDo0z-_bRHcY&ll=38.349628115786906%2C-105.64509086951172&z=3)
 * [Events compiled by the Palestinian Youth Movement](https://www.instagram.com/palestinianyouthmovement/?link_id=10&can_id=da66042f69df3564bb2ecf55b6c6aa18&source=email-take-action-to-support-palestine-this-week&email_referrer=email_1176333&email_subject=take-action-to-support-palestine-this-week)
 * [Global Calendar of Resistance from Samidoun](https://samidoun.net/2021/05/global-calendar-of-resistance-join-these-events-to-defend-palestine/)
+
+>
 
 #### Donate
 
@@ -156,17 +176,23 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 * [Islamic Relief USA](https://irusa.org/middle-east/palestine/)
 * [UN Relief and Works Agency](https://donate.unrwa.org/-landing-page/en_EN)
 
+>
+
 #### Sign
 
 * [Petition to stop Jerusalem expulsions and save Sheikh Jarrah ](https://secure.everyaction.com/wUAYmd6RzEacXxN3WQuYQQ2?fbclid=IwAR3NRVImV2QcfoBdr76sjW2hcGOBrfIp0PhWLayfRoxNljqVje7GqXrGIz8)
 * [Petition to demand an end to Israel’s illegal evictions of Palestinians in Sheikh Jarrah ](https://www.unrwausa.org/contact-congress?fbclid=IwAR2Vmr537k-jU2UP8L7bPZ2PQfAtV8rgjbvwFAYj5zIP8xT2fGPo0jkHLk8)
 * [Petition Congress to end the U.S.’s complicity in Israel’s abuses of Palestinians](https://u1584542.ct.sendgrid.net/ss/c/wehEm_vu1NBVXOKYSqOxTDECWgxy79ZJRdvCCil7G2vGLFqaQqdKKP0EZjMpYehTAam0rWkhxj-_ObIp9FBTN_QBce_L94e7qJiW363NXL7ts6Lmr-m_2AO8Z5UubHLxWaNKzqastLH8i8_vbz-9_PnYxV0vrgSDVoRfH9lZ5As3BlKbeaPT3pORLS8B5XV-D4yfbTtdgaeOIQDvAf1Ah3b78Dz1f4Z94YQBRNAa0TFzze772Pn-pPdn_HPlR48aHKv_gB7zamNAOy7YTST6VLhJEmyBjbdL-hANUt_OV6B6GL5cd5PTo9t_kVle5cgh0qfh9sI785yCRkDPl9PtwA/3bw/1LmBOvW_Tv-MQkMPzxKMuw/h11/0eZqTrHAIx3i18ocNz0JkcPorxIbzUso-hqrzj9GJQQ)
 
+>
+
 #### Urge congress to support H.R. 2590: The Palestinian Children and Families Act
 
 * [More about H.R. 2590](https://www.congress.gov/bill/117th-congress/house-bill/2590)
 * [Tell congress to support H.R. 2590 ](https://act.jewishvoiceforpeace.org/a/palestinian-children-families-act)
 * [Another resource to contact your rep about H.R. 2590](https://nwttac.dci-palestine.org/contact_your_lawmaker_about_hr_2590#/7/)
+
+>
 
 #### Participate in the BDS movement
 
