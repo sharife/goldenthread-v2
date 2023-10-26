@@ -1,5 +1,5 @@
 ---
-title: "In Solidarity with Palestine: A Resource List"
+title: Resource List
 date: 2023-10-26T20:41:43.415Z
 description: ""
 ---
