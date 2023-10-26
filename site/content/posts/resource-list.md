@@ -16,9 +16,7 @@ description: ""
 * Noura Erakat, author, professor and human rights attorney - @nouraerakat
 * Mohammed El Kurd, writer - @[mohammedelkurd](https://www.instagram.com/mohammedelkurd/?hl=en#)
 * Subhi, social media strategist - @sbeih.jpg
-* Fikra Magazine, Palestinian Literary Mag - @[fikra_magazine](https://www.instagram.com/fikra_magazine/?hl=en#)
-
- 
+* Fikra Magazine, Palestinian Literary Mag - @[fikra_magazine](https://www.instagram.com/fikra_magazine/?hl=en#) 
 
 ## **Film / TV**
 
@@ -124,8 +122,6 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 
 [PreOccupation: A Not-So-Brief History of Palestine with Bassam Abunnadi](https://podcasts.apple.com/us/podcast/preoccupation-a-not-so-brief-history-of-palestine/id1559134283)
 
- 
-
 ***Golden Thread Productions endorses [Noor Theatre’s Call to Action](https://www.noortheatre.org/noor-theatres-statement-on-palestine)***
 
 
@@ -147,18 +143,18 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 * [Mizna’s Palestine Issue](https://issuu.com/mizna_arabart/docs/19.2_pal_issue_full_issue)
 * [An overview of Christian Zionism (from Friends of Sabeel North America)](https://countercufi.yuvi.in/?link_id=7&can_id=da66042f69df3564bb2ecf55b6c6aa18&source=email-take-action-to-support-palestine-this-week&email_referrer=email_1176333&email_subject=take-action-to-support-palestine-this-week)
 * [Watch Scenes from 73* Years with Medina Theater Collective](https://medinatheatercollective.weebly.com/season-one.html)
-* [Watch The Gaza Monologues](https://arts.stanford.edu/event/91721/) 
+* [Watch The Gaza Monologues](https://arts.stanford.edu/event/91721/)  
 
 #### Theatres in Palestine to Follow
 
 * [Ashtar Theatre](http://www.ashtar-theatre.org/)
-* [The Freedom Theatre](https://www.thefreedomtheatre.org/) 
+* [The Freedom Theatre](https://www.thefreedomtheatre.org/)  
 
 #### Participate in a Protest or Rally
 
 * [Find protests/rallies in your region](https://www.google.com/maps/d/u/0/viewer?mid=107EJDTPyMJxU4DjpI_ZmdDo0z-_bRHcY&ll=38.349628115786906%2C-105.64509086951172&z=3)
 * [Events compiled by the Palestinian Youth Movement](https://www.instagram.com/palestinianyouthmovement/?link_id=10&can_id=da66042f69df3564bb2ecf55b6c6aa18&source=email-take-action-to-support-palestine-this-week&email_referrer=email_1176333&email_subject=take-action-to-support-palestine-this-week)
-* [Global Calendar of Resistance from Samidoun](https://samidoun.net/2021/05/global-calendar-of-resistance-join-these-events-to-defend-palestine/) 
+* [Global Calendar of Resistance from Samidoun](https://samidoun.net/2021/05/global-calendar-of-resistance-join-these-events-to-defend-palestine/)  
 
 #### Donate
 
@@ -166,19 +162,19 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 * [US Campaign for Palestinian Rights ](https://secure.everyaction.com/LsmZ1X1ZqEqrcXHPysM_Kw2?fbclid=IwAR176rlFP_0-9EGZlfwMkodCOtbmLfA_AYSLBlvfEtNO0yHDvi1OQ62nIUY)
 * [Palestine Children’s Relief Fund](https://www.pcrf.net/)
 * [Islamic Relief USA](https://irusa.org/middle-east/palestine/)
-* [UN Relief and Works Agency](https://donate.unrwa.org/-landing-page/en_EN) 
+* [UN Relief and Works Agency](https://donate.unrwa.org/-landing-page/en_EN)  
 
 #### Sign
 
 * [Petition to stop Jerusalem expulsions and save Sheikh Jarrah ](https://secure.everyaction.com/wUAYmd6RzEacXxN3WQuYQQ2?fbclid=IwAR3NRVImV2QcfoBdr76sjW2hcGOBrfIp0PhWLayfRoxNljqVje7GqXrGIz8)
 * [Petition to demand an end to Israel’s illegal evictions of Palestinians in Sheikh Jarrah ](https://www.unrwausa.org/contact-congress?fbclid=IwAR2Vmr537k-jU2UP8L7bPZ2PQfAtV8rgjbvwFAYj5zIP8xT2fGPo0jkHLk8)
-* [Petition Congress to end the U.S.’s complicity in Israel’s abuses of Palestinians](https://u1584542.ct.sendgrid.net/ss/c/wehEm_vu1NBVXOKYSqOxTDECWgxy79ZJRdvCCil7G2vGLFqaQqdKKP0EZjMpYehTAam0rWkhxj-_ObIp9FBTN_QBce_L94e7qJiW363NXL7ts6Lmr-m_2AO8Z5UubHLxWaNKzqastLH8i8_vbz-9_PnYxV0vrgSDVoRfH9lZ5As3BlKbeaPT3pORLS8B5XV-D4yfbTtdgaeOIQDvAf1Ah3b78Dz1f4Z94YQBRNAa0TFzze772Pn-pPdn_HPlR48aHKv_gB7zamNAOy7YTST6VLhJEmyBjbdL-hANUt_OV6B6GL5cd5PTo9t_kVle5cgh0qfh9sI785yCRkDPl9PtwA/3bw/1LmBOvW_Tv-MQkMPzxKMuw/h11/0eZqTrHAIx3i18ocNz0JkcPorxIbzUso-hqrzj9GJQQ) 
+* [Petition Congress to end the U.S.’s complicity in Israel’s abuses of Palestinians](https://u1584542.ct.sendgrid.net/ss/c/wehEm_vu1NBVXOKYSqOxTDECWgxy79ZJRdvCCil7G2vGLFqaQqdKKP0EZjMpYehTAam0rWkhxj-_ObIp9FBTN_QBce_L94e7qJiW363NXL7ts6Lmr-m_2AO8Z5UubHLxWaNKzqastLH8i8_vbz-9_PnYxV0vrgSDVoRfH9lZ5As3BlKbeaPT3pORLS8B5XV-D4yfbTtdgaeOIQDvAf1Ah3b78Dz1f4Z94YQBRNAa0TFzze772Pn-pPdn_HPlR48aHKv_gB7zamNAOy7YTST6VLhJEmyBjbdL-hANUt_OV6B6GL5cd5PTo9t_kVle5cgh0qfh9sI785yCRkDPl9PtwA/3bw/1LmBOvW_Tv-MQkMPzxKMuw/h11/0eZqTrHAIx3i18ocNz0JkcPorxIbzUso-hqrzj9GJQQ)  
 
 #### Urge congress to support H.R. 2590: The Palestinian Children and Families Act
 
 * [More about H.R. 2590](https://www.congress.gov/bill/117th-congress/house-bill/2590)
 * [Tell congress to support H.R. 2590 ](https://act.jewishvoiceforpeace.org/a/palestinian-children-families-act)
-* [Another resource to contact your rep about H.R. 2590](https://nwttac.dci-palestine.org/contact_your_lawmaker_about_hr_2590#/7/) 
+* [Another resource to contact your rep about H.R. 2590](https://nwttac.dci-palestine.org/contact_your_lawmaker_about_hr_2590#/7/)  
 
 #### Participate in the BDS movement
 
