@@ -3,7 +3,7 @@ title: Resource List
 date: 2023-10-26T20:41:43.415Z
 description: ""
 ---
-**Independent and on the grounds Palestinian journalist and photographers accounts to follow:**
+**Independent and on the ground Palestinian journalist and photographer accounts to follow:**
 
 * Plestia Alaqad, journalist – [@byplestia](https://www.instagram.com/byplestia/)
 * Doaa Mohammad, photographer – [@_doaa_mohammad](https://www.instagram.com/_doaa_mohammad/)
@@ -17,8 +17,6 @@ description: ""
 * Mohammed El Kurd, writer - [@mohammedelkurd](https://www.instagram.com/mohammedelkurd/)
 * Subhi, social media strategist - [@sbeih](https://www.instagram.com/sbeih.jpg/)
 * Fikra Magazine, Palestinian Literary Mag - [@fikra_magazine](https://www.instagram.com/fikra_magazine/)
-
-
 
 ## **Film / TV**
 
@@ -61,8 +59,6 @@ After persuading her father to continue her education in the city, a Palestinian
 [Our boys (TV Series)](https://www.hbo.com/our-boys)\
 In the summer of 2014, three Jewish teenagers are kidnapped and murdered by Hamas militants. Israel is shocked, shaken and furious. Two days later, the burned body of a Palestinian teenager from eastern Jerusalem is found in a forest on the western outskirts of the city. In the ensuing days, an agent from the internal terror division of the Shin Bet investigates the murder, while the parents of the slain teenager begin their long and anguished journey toward justice and consolation. Filmed in Israel, Our Boys is based on the true events which led to the outbreak of war in Gaza. The series follows the investigation of Mohammed Abu Khdeir’s murder, and tells the story of all those involved, Jews and Arabs alike, whose lives were forever changed by these events.
 
-
-
 ## News Articles
 
 [‘You Started a War, You’ll Get a Nakba’](https://www.theatlantic.com/ideas/archive/2023/10/israel-settlers-violence-netanyahu-government/675755/) (Atlantic)[](https://www.washingtonpost.com/graphics/world/occupied/checkpoint/)
@@ -81,8 +77,6 @@ In the summer of 2014, three Jewish teenagers are kidnapped and murdered by Hama
 
 Column: [Umm Forat](https://www.haaretz.com/ty-WRITER/0000017f-da5a-d494-a17f-de5b7af20000?lts=1698253107699) (Ha’aretz)\
 I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. After years of wandering throughout the world, we returned to the West Bank with our two children, 6-year-old Forat and 3-year-old Adam. We are trying to lead ordinary lives in an extraordinary and unforgiving reality, one that I will share with you. I have changed the names of people in the blog, including my own. "Umm Forat" means "Mother of Forat" in Arabic. I invite you to visit my website: [www.ummforat.com](http://www.ummforat.com).
-
-
 
 ## Books
 
@@ -116,19 +110,13 @@ I'm an Israeli lawyer, Jewish, married to a Palestinian resident of Ramallah. Af
 
 [Rifqa -Mohammad El-Kurd](https://www.amazon.com/Rifqa-Mohammed-El-Kurd/dp/1642595861)
 
-
-
 ## Podcasts
 
 [This is palestine](https://pod.link/1509337661)
 
 [PreOccupation: A Not-So-Brief History of Palestine with Bassam Abunnadi](https://podcasts.apple.com/us/podcast/preoccupation-a-not-so-brief-history-of-palestine/id1559134283)
 
-
-
 ***Golden Thread Productions endorses [Noor Theatre’s Call to Action](https://www.noortheatre.org/noor-theatres-statement-on-palestine)***
-
-
 
 ## More Resources and Ways to Take Action
 
