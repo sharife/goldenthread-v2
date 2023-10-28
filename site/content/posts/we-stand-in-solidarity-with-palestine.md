@@ -1,6 +1,7 @@
 ---
 title: We Stand in Solidarity with the People of Palestine
 date: 2023-10-28T04:39:25.759Z
+description: October, 2023
 ---
 Golden Thread Productions mourns the loss of innocent Palestinian and Israeli lives. We condemn the assault by Hamas on Israeli civilians on October 7th, and the ongoing and unwarranted decades-long state terrorism by Israel against the Palestinian civilians in the Occupied Palestinian Territories. We denounce antisemitism, islamophobia, racism, and all acts of violence and terrorism in all of its forms. We believe that every human life matters and every human being deserves to live a life of dignity. 
 
