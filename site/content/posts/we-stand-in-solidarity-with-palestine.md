@@ -1,5 +1,5 @@
 ---
-title: We Stand in Solidarity with the People of Palestine
+title: Statement of Solidarity from Golden Thread Productions
 date: 2023-10-28T04:39:25.759Z
 description: October, 2023
 ---
