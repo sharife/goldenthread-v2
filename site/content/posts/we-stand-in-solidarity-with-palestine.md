@@ -16,4 +16,8 @@ While it’s difficult to continue to make art in times of a genocide, we recogn
 
 In grief, outrage and solidarity, 
 
-Golden Thread Productions
+Golden Thread Productions 
+
+
+
+To learn more about the situation and take action, click [here](https://goldenthread.org/posts/resource-list/).
