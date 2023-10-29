@@ -135,14 +135,15 @@ lists:
           partnership augments the team to include a Publications Dramaturg to
           join the ReOrient Camp & Festival and write a feature article on
           ReOrient artists and the creative process that brings audiences
-          behind-the-scenes (see link below, or read it at lmda.org). Be sure to
-          check out the Dramaturgs’ program notes and playwright messages
-          curated by the team in the Festival Program! In addition to Golden
-          Thread resident artist Nakissa Etemad, the ReOrient 2023 Dramaturgy
-          Team includes Marina Johnson, Vidhu Singh, and Heather Rastovac
-          Akbarzadeh. We look forward to ongoing partnerships between our two
-          organizations and collaborations between dramaturgs and Middle Eastern
-          theatre artists for generations to come.
+          behind-the-scenes (see link below, or read it at
+          [lmda.org](https://lmda.org/reorient-2023-festival)). Be sure to check
+          out the Dramaturgs’ program notes and playwright messages curated by
+          the team in the Festival Program! In addition to Golden Thread
+          resident artist Nakissa Etemad, the ReOrient 2023 Dramaturgy Team
+          includes Marina Johnson, Vidhu Singh, and Heather Rastovac Akbarzadeh.
+          We look forward to ongoing partnerships between our two organizations
+          and collaborations between dramaturgs and Middle Eastern theatre
+          artists for generations to come.
         image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
 grids: []
 cast:
