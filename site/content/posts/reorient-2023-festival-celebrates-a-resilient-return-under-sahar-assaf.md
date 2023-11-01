@@ -81,4 +81,8 @@ Historically, the ReOrient Festival has bridged the MENA diaspora with the MENA 
 
 The ReOrient 2023 Festival is not to be missed! It runs from October 16th to November 4th, 2023. 
 
+![Full Cast of ReOrient 2023 Festival (l to r, clockwise): John Fisher, AeJay Marquis Mitchell, Neamah Hussein, Arielle Tonkin, Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, Rose McAvoy, John Pasha (Photo: Amal Bisharat)](https://ucarecdn.com/8b7ab6d7-241a-4ee0-95aa-a646d40c4b35/)
+
+*Full Cast of ReOrient 2023 Festival (l to r, clockwise): John Fisher, AeJay Marquis Mitchell, Neamah Hussein, Arielle Tonkin, Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, Rose McAvoy, John Pasha (Photo: Amal Bisharat)*
+
 This article is also published in the LMDA Bulletin and online [here](https://lmda.org/reorient-2023-festival).
