@@ -19,6 +19,8 @@ ReOrient 2023 is celebrating its triumphant return after a four-year hiatus sinc
 
 ![The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)](https://ucarecdn.com/565a8c84-b19a-49a2-9004-56977198dcd0/ "The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)")
 
+###### The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)
+
 It truly takes a village of artists to make ReOrient happen! This Festival’s six-play format dictates that the artists – such as designers Carlos Aceves (sets), Briana Lisette Cardenas (costumes), Maxwell Bowman (lights & projections), Bahar Royaee (sound & compositions), and Vincent Chau (props) – collaborate amongst themselves on the *entire* evening’s presentation. In this fashion, micro *artist family constellations*, such as clusters of playwrights, directors, dramaturgs and ensemble, have been created in the larger galaxy of the Golden Thread Productions family. 
 
 **The Plays:**
