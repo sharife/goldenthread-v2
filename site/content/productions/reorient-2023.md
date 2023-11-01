@@ -36,7 +36,7 @@ ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z00
 ticketinfo: "$15-100 "
 externallink: https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html
 externallinklabel: View the Digital Program
-misc: "Six short plays, presented as one evening of theatre. Run time: 2 hours,
+misc: "Six short plays, presented as one evening of theatre. Run time: 2h 15m,
   plus intermission"
 lists:
   - heading: MENATMA Convening
@@ -139,10 +139,11 @@ lists:
           behind-the-scenes (see link below, or read it at
           [lmda.org](https://lmda.org/reorient-2023-festival)). Be sure to check
           out the Dramaturgs’ program notes and playwright messages curated by
-          the team in the Festival Program! 
+          the team in the [Festival
+          Program](https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html)! 
 
 
-          In addition to Golden Thread resident artist Nakissa Etemad, the ReOrient 2023 Dramaturgy Team includes Marina Johnson, Vidhu Singh, and Heather Rastovac Akbarzadeh. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
+          In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
         image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
 grids: []
 cast:
