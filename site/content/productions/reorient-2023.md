@@ -55,10 +55,10 @@ lists:
           MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. This year’s convening is co-sponsored by [](https://www.newarabamericantheaterworks.org/)[Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theatre Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://www.tcg.org/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation.
 
 
-          Registration is free, but advanced registration is required.
+          **Registration is free; advanced registration is required.**
 
 
-          For more information, and to register, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
+          **For more information, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).**
         cta: "Registration link coming soon. "
         pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
   - heading: REORIENT 2023 LINE-UP
