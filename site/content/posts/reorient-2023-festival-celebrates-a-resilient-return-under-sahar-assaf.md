@@ -31,6 +31,8 @@ The plays take us on an exhilarating journey with a variety of styles – absurd
 **Dramaturgy 101 – the Midwives for the Plays:**
 Dramaturgs aid the playwrights in the development of their scripts – all but one are world premieres this year. The ReOrient Dramaturgy Team also provide contextual information to both festival artists and audiences. ReOrient 2023 Festival marks the third collaboration with the Literary Managers and Dramaturgs of the Americas (LMDA) through the curation of Nakissa Etemad who also serves as LMDA’s Regional VP of Metro Bay Area. The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Be sure to check out the dramaturgs’ program notes and playwright messages curated by the team in the Festival Program! 
 
+![A constellation of Dramaturgs (left to right): Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh. (Composite Photo: Linda Maria Giron)](https://ucarecdn.com/fd1d342c-8441-4732-9cc9-8681e4aa6fc3/)
+
 **ReOrient CAMP 2023:**
 On June 30th, 2023, Golden Thread launched its ReOrient CAMP, a three-day creative retreat inviting artists to brainstorm ideas, and envision how to bring the six singular stories to life at Potrero Stage, offering them a unique opportunity to dream in advance of the pressures of the impending production in the fall. Executive Artistic Director Sahar Assaf welcomed the impressive gathering, inviting them to consider Golden Thread their artistic home, and to show up as their whole authentic selves. Creating a home and family for their artists, and audiences, makes Golden Thread Productions special. Powerful words were read aloud from the company’s Manifesto by Founder, Torange Yeghiazarian: 
 
