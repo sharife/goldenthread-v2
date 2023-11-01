@@ -17,6 +17,8 @@ ReOrient 2023 is celebrating its triumphant return after a four-year hiatus sinc
 **The ReOrient Model:** 
 *“The value of ReOrient is in its (production) model. For instance, this year we have 43 individuals working on the program – I did the math! Between playwrights, dramaturgs, directors, designers, staff members, crew, and cast. The model is very exciting for me because I believe in theatre as a collaborative genre of making art. It is an excellent example of what Golden Thread is. You look at our team this year and you have a big spectrogram of representation. People from different cultures, languages, ethnic backgrounds, even theatre experiences. It’s a perfect example of a collaborative, healthy, enriching process of making theatre.”* (Sahar Assaf) 
 
+![The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)](https://ucarecdn.com/565a8c84-b19a-49a2-9004-56977198dcd0/)
+
 It truly takes a village of artists to make ReOrient happen! This Festival’s six-play format dictates that the artists – such as designers Carlos Aceves (sets), Briana Lisette Cardenas (costumes), Maxwell Bowman (lights & projections), Bahar Royaee (sound & compositions), and Vincent Chau (props) – collaborate amongst themselves on the *entire* evening’s presentation. In this fashion, micro *artist family constellations*, such as clusters of playwrights, directors, dramaturgs and ensemble, have been created in the larger galaxy of the Golden Thread Productions family. 
 
 **The Plays:**
