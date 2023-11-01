@@ -29,18 +29,20 @@ items:
 
 
       MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. Registration is free, but advanced registration is required.
-  - image: https://ucarecdn.com/9abaf3da-d721-42c2-8178-cbf5ff114cf0/
-    subtitle: "**Theatre Bay Area Arts Leadership Residency**"
-    cta: "Learn more! "
-    link: https://goldenthread.org/about/people/#open-modal-Amal%20Bisharat%20
-    text: We are delighted to welcome Amal Bisharat, a Palestinian American
-      multidisciplinary artist in a year-long artistic residency with the
-      support of Theatre Bay Area! Amal Bisharat is in the process of creating
-      her first musical, a Palestinian refugee story adapted from the
-      best-selling novel Mornings in Jenin by Susan Abulhawa. As a singer,
-      songwriter, and multi-instrumentalist, Bisharat has been writing,
-      recording, and performing with bands all her life, with songs featured on
-      stage, radio, and TV. At Golden Thread, Amal will co-produce our
-      2023 ReOrient Festival with Executive Artistic Director Sahar Assaf, as
-      well as direct one of the selected plays in the festival.
+  - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
+    subtitle: "**Statement of Solidarity**"
+    cta: Read the full statement here.
+    link: https://goldenthread.org/posts/we-stand-in-solidarity-with-palestine/
+    text: >-
+      Golden Thread Productions mourns the loss of innocent Palestinian and
+      Israeli lives. We condemn the assault by Hamas on Israeli civilians on
+      October 7th, 2023, and the ongoing and unwarranted decades-long state
+      terrorism by Israel against the Palestinian civilians in the Occupied
+      Palestinian Territories. We denounce antisemitism, islamophobia, racism,
+      and all acts of violence and terrorism in all of its forms. We believe
+      that every human life matters and every human being deserves to live a
+      life of dignity.
+
+
+      We call for an immediate end to the ongoing genocide and ethnic cleansing against Palestinian civilians in the Gaza Strip committed by Netanyahu’s government and sanctioned by Biden’s administration. We call on all people of conscience to demand an immediate ceasefire in Gaza and the safe release of hostages. We firmly believe that lasting peace and security in the region can only be attained through political solutions that bring an end to Israeli military occupation and state violence against Palestinians.
 ---
