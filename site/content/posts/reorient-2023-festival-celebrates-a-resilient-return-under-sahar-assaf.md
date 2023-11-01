@@ -71,6 +71,8 @@ During the two months after CAMP, the ReOrient dramaturgs sprang into action, ga
 
 ![ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)](https://ucarecdn.com/7b1cb2d5-dcf9-4fda-8977-2d03986c3b79/ "ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)")
 
+*ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)*
+
 **The Work Ahead & the Importance of ReOrient:** 
 
 The entire company reunited for ReOrient 2023’s First Rehearsal on September 5, 2023 at The Annex, Golden Thread’s Offices above Potrero Stage. A warm welcome and introductions made everyone feel right-at-home, setting the tone for the creative process ahead. Remarks were shared by the playwrights and directors, then dramaturgical and design presentations were followed by a brisk read-through of the plays. With rehearsal and wellness protocols reestablished, the ground was laid for a 9-week-long journey that will (*inshallah*) carry this mighty vessel safely through the waves and swells of the rehearsal process, designer runs, tech, dress rehearsals, previews, opening night, and three-week run of the ReOrient 2023 Festival. 
