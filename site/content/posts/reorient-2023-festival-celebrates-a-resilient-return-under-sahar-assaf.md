@@ -71,4 +71,6 @@ The entire company reunited for ReOrient 2023’s First Rehearsal on September 5
 
 Historically, the ReOrient Festival has bridged the MENA diaspora with the MENA region, challenged popular perceptions, and reflected its glittering mosaic of stories, voices, cultures and identities. ReOrient reflects a slice of the multitude of cultures in Bay Area society and the U.S. – and what is possible for the MENA region and the world. This extraordinary theatrical endeavor to cultivate empathy and spark joy could not be more timely in our burning world! With the spotlight on the Israel-Palestine conflict, and ongoing planetary wars and crises, ReOrient models how a family of 43 artists of divergent backgrounds and beliefs can collaborate, problem solve, embrace varied points of view, and reimagine our world. This is the soothing balm – the medicine – that will ReOrient us towards our collective humanity. With the ground prepared and the seeds sown by Founder Torange Yeghiazarian, now it’s time for Sahar Assaf and this generation of artists to harvest the fruits of this labor of love and to cultivate the next cycle of growth for Golden Thread Productions. 
 
-The ReOrient 2023 Festival is not to be missed! It runs from October 16th to November 4th, 2023.
+The ReOrient 2023 Festival is not to be missed! It runs from October 16th to November 4th, 2023. 
+
+This article is also published in the LMDA Bulletin and online [here](https://lmda.org/reorient-2023-festival).
