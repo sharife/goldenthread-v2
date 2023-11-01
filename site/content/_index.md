@@ -31,7 +31,7 @@ items:
       MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. Registration is free, but advanced registration is required.
   - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
     subtitle: "**Statement of Solidarity**"
-    cta: Read the full statement here.
+    cta: Read the full statement.
     link: https://goldenthread.org/posts/we-stand-in-solidarity-with-palestine/
     text: >-
       Golden Thread Productions mourns the loss of innocent Palestinian and
@@ -44,5 +44,8 @@ items:
       life of dignity.
 
 
-      We call for an immediate end to the ongoing genocide and ethnic cleansing against Palestinian civilians in the Gaza Strip committed by Netanyahu’s government and sanctioned by Biden’s administration. We call on all people of conscience to demand an immediate ceasefire in Gaza and the safe release of hostages. We firmly believe that lasting peace and security in the region can only be attained through political solutions that bring an end to Israeli military occupation and state violence against Palestinians.
+      We call for an immediate end to the ongoing genocide and ethnic cleansing against Palestinian civilians in the Gaza Strip committed by Netanyahu’s government and sanctioned by Biden’s administration. We call on all people of conscience to demand an immediate ceasefire in Gaza and the safe release of hostages. We firmly believe that lasting peace and security in the region can only be attained through political solutions that bring an end to Israeli military occupation and state violence against Palestinians. 
+
+
+      (*continued*...)
 ---
