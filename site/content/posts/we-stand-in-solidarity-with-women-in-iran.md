@@ -1,6 +1,7 @@
 ---
 title: "We Stand in Solidarity with Women in Iran "
 date: 2022-10-13T05:07:08.386Z
+description: September, 2022
 background: ""
 ---
 To our Iranian communities in the Bay Area and our friends everywhere,
