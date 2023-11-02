@@ -1,7 +1,7 @@
 ---
 title: Resource List
 date: 2023-10-26T20:41:43.415Z
-description: ""
+description: October, 2023
 ---
 **Independent and on the ground Palestinian journalist and photographer accounts to follow:**
 
