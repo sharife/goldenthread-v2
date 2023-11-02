@@ -19,4 +19,4 @@ In grief, outrage and solidarity,
 
 Golden Thread Productions 
 
-To learn more about the situation and take action, click [here](https://goldenthread.org/posts/resource-list/).
+**To learn more about the situation and take action, click [here](https://goldenthread.org/posts/resource-list/).**
