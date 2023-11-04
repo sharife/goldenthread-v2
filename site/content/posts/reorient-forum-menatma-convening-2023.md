@@ -1,7 +1,8 @@
 ---
 title: MENA Theatre Makers Alliance Annual National Convening
 date: 2023-09-15T04:16:17.026Z
-description: ""
+description: October, 2023
+background: https://ucarecdn.com/a0068223-5e78-4e18-8a67-e7c8cedcffef/
 ---
 # MENATMA CONVENING 2023
 
