@@ -15,11 +15,11 @@ items:
 
       With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening!
     image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
-    cta: Buy Tickets!
-    link: https://goldenthread.org/tickets/
+    cta: Learn More
+    link: https://goldenthread.org/productions/reorient-2023/
   - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
     subtitle: "**2023 MENATMA Convening!**"
-    cta: Register Now!
+    cta: Learn More
     link: https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/
     text: >-
       Golden Thread Productions and Art2Action, Inc. are thrilled to co-produce
