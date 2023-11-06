@@ -107,17 +107,6 @@ lists:
         cta: Watch the full episode
         link: https://www.youtube.com/watch?v=Ai32eb7L8XU
         image: https://ucarecdn.com/8bcf7809-a143-4bbf-a98b-7110924d11c6/
-      - itemstart: 2023-03-15T08:58:19.417Z
-        itemend: 2023-03-15T08:58:19.438Z
-        title: "Episode 4: The Making of the ReOrient Festival: A Unique Process and
-          Multiple Perspectives"
-        pre: November, 2023
-        text: The ReOrient directors and designers will discuss the unique production
-          process of the ReOrient Festival. How do directors adapt their
-          approach when sharing the same ensemble cast, festival designers, and
-          production team? What are the challenges designers deal with when
-          accommodating the variety of plays and how do the design elements
-          provide specificity and cohesion?
     heading: List of Episodes
 ---
 Click [here](https://goldenthread.org/productions/) to learn about and watch our past archived episodes.
