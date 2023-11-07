@@ -1,9 +1,9 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "ReOrient 2023: Festival of Short Plays"
+  - heading: "ReOrient 2023: Festival of Short Plays - Video On Demand"
     items:
-      - pre: October 13-November 4, 2023
+      - pre: Available to stream November 7-12, 2023
         subtitle: ""
         text: >-
           **ReOrient 2023** celebrates the return of Golden Thread Productions’
@@ -17,39 +17,17 @@ lists:
           **Featuring playwrights:** Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau; Directors include Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolff.
 
 
-          Performances run **Thurs, Fri, Sat at 8 pm**; **Sun at 3 pm**, with a Weds performance on 11/1.
+          Each viewing link valid for a 48-hour rental period beginning when you press play.
 
 
-          Please note, Thursday 11/2 is a M﻿ask Required performance. 
+          One device access per viewing. Closed captioning available. 
 
 
-          Tickets **$20-$100**
+          **$20-$100**
         cta: Buy now!
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006tecYUAQ
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FHs00000JmapJMAR
         title: Think you know the Middle East? Think again!
         image: https://ucarecdn.com/ecedd2f9-bb4b-4c75-bad6-3394aa22b87d/
-  - heading: MENA Theatre Makers Alliance Annual National Convening
-    items:
-      - subtitle: ""
-        text: >-
-          Golden Thread Productions and [Art2Action,
-          Inc.](https://www.art2action.org/) are thrilled to co-produce and
-          co-present the 4th annual convening of the Middle Eastern North
-          African Theater Makers Alliance
-          ([MENATMA](https://www.menatheatre.org/)) hosted at Golden Thread’s
-          ReOrient Festival of Short Plays in San Francisco.
-
-
-          This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theater Works](https://www.newarabamericantheaterworks.org/), [](https://www.silkroadrising.org/)[Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://tcg.org/Web/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation. 
-
-
-          **Registration is FREE. Advanced registration is required.**
-
-
-          To learn more, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).
-        cta: ""
-        title: ""
-        pre: October 28-29, 2023
 ---
 - - -
 
