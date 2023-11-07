@@ -17,7 +17,13 @@ lists:
           **Featuring playwrights:** Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau; Directors include Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolff.
 
 
-          48-hour rental from **$20-$100**
+          Each viewing link valid for a 48-hour rental period beginning when you press play.
+
+
+          One device access per viewing. Closed captioning available. 
+
+
+          **$20-$100**
         cta: Buy now!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FHs00000JmapJMAR
         title: Think you know the Middle East? Think again!
