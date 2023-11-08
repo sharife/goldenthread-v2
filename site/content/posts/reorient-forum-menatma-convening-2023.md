@@ -50,11 +50,9 @@ Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Op
 
 12:00 - 1:30 PM: **Lunch Break** (on your own) 
 
-1:30- 2:45 PM: **Panel: Sustainability and Innovation: MENA Theater after COVID** Moderator: Hala Baki, featuring Sahar Assaf, Jamil Khoury, Adam Elsayigh, Nabra Nelson 
+1:30- 2:45 PM: **Panel: Sustainability and Self-Preservation: Palestinian Artists Speak Out** Moderators: Sahar Assaf and Andrea Assaf, featuring Hanna Eady, Maya Nazzal, Manaar Azreik, Mama Ganuush 
 
 @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
-
-This panel explores the diverse impacts of the COVID-19 pandemic on MENA artists and organizations. It puts individual and institutional experiences in conversation with one another to help the theater-making community address common challenges and concerns.
 
 3:00 - 4:30 PM: **Panel: MENA Artists Leading in National Theaters** Moderator: Evren Odcikin, and featuring Raymond Bobgan, Joseph Haj, Inji Kamel, and Pirronne Yousefzadeh. 
 
