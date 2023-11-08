@@ -1,22 +1,27 @@
 ---
 title: Middle East Center Stage
-headline: This Fall
+headline: Watch the Video!
 subtitle: ""
 background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
-cta: Learn More!
-link: https://goldenthread.org/productions/reorient-2023/
+cta: Buy Tickets!
+link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZ5EaMAL
 items:
-  - subtitle: "**ReOrient Festival Returns!**"
+  - subtitle: "**ReOrient Festival Video-on-Demand Available Now!**"
     text: >-
       Our 2023 Season celebrates the return of our signature program, an
       innovative and spirited festival of short plays from or about the Middle
       East. 
 
 
-      With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening!
+      With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening! \
+
+      Recorded live on October 21, 2023
+
+
+      Available to stream November 7-12, 2023
     image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
-    cta: Learn More
-    link: https://goldenthread.org/productions/reorient-2023/
+    cta: Buy Tickets
+    link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZ5EaMAL
   - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
     subtitle: "**2023 MENATMA Convening!**"
     cta: Learn More
