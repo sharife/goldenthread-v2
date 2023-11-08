@@ -33,7 +33,7 @@ items:
       ReOrient Festival of Short Plays in San Francisco. 
 
 
-      MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. Registration is free, but advanced registration is required.
+      MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more.
   - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
     subtitle: "**Statement of Solidarity**"
     cta: Read the full statement.
