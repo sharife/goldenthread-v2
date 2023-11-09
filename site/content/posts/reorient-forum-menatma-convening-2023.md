@@ -54,6 +54,8 @@ Welcome by Golden Thread Executive Artistic Director Sahar Assaf, followed by Op
 
 @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
 
+Palestinians artists talk about Palestine. 
+
 3:00 - 4:30 PM: **Panel: MENA Artists Leading in National Theaters** Moderator: Evren Odcikin, and featuring Raymond Bobgan, Joseph Haj, Inji Kamel, and Pirronne Yousefzadeh. 
 
 @ Potrero Stage/Hybrid (live-streamed on HowlRound) 
