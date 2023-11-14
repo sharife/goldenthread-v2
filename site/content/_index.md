@@ -6,7 +6,7 @@ background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
 cta: Learn More!
 link: https://goldenthread.org/productions/reorient-2023/
 items:
-  - subtitle: "**ReOrient Festival Video-on-Demand Available Now!**"
+  - subtitle: "**ReOrient Festival of Short Plays!**"
     text: >-
       Our 2023 Season celebrates the return of our signature program, an
       innovative and spirited festival of short plays from or about the Middle
