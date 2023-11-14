@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Watch the Video!
+headline: See the Photos!
 subtitle: ""
 background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
-cta: Buy Tickets!
-link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZ5EaMAL
+cta: Learn More!
+link: https://goldenthread.org/productions/reorient-2023/
 items:
   - subtitle: "**ReOrient Festival Video-on-Demand Available Now!**"
     text: >-
