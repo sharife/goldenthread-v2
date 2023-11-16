@@ -650,8 +650,14 @@ mentions:
 
     Rita Akroush, *65 Joules*
 photos:
-  heading: ""
-  items: []
+  heading: "Photo Gallery: production"
+  items:
+    - image: https://ucarecdn.com/be8b0b05-4b46-4015-9531-e87693debbee/
+    - image: https://ucarecdn.com/9a11e9dd-eca2-4b2c-917b-42531cd70b5f/
+    - image: https://ucarecdn.com/57f4808d-7c21-44ae-a151-8e27324afc1f/
+    - image: https://ucarecdn.com/62cbf29f-b633-47d6-8091-d5133e126d07/
+    - image: https://ucarecdn.com/6d412002-bc4f-4c57-977d-c01a008bd0cb/
+    - image: https://ucarecdn.com/2c9f4045-3762-4edb-a5e2-392ee33f28ff/
 photos2:
   heading: "Photo Gallery: publicity"
   items:
