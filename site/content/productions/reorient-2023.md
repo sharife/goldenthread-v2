@@ -680,6 +680,7 @@ photos3:
   items:
     - image: https://ucarecdn.com/a55c3ac7-e479-43e0-9d96-2e46b6210279/
     - image: https://ucarecdn.com/45deb46f-5a39-475d-912a-f9a1e5e151b7/
+    - image: https://ucarecdn.com/62c1b0f4-6e0d-4e98-aec6-b5b81bf56cfb/
     - image: https://ucarecdn.com/09ae0500-19c6-436d-bff7-1e991d8af3a3/
 archivevideo: ""
 bottom:
