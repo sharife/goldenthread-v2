@@ -668,8 +668,11 @@ photos2:
     - image: https://ucarecdn.com/38c194db-79ef-40e4-af40-dae17d52fbb1/
     - image: https://ucarecdn.com/1961dc37-7ae0-462c-a007-f9c95265ff34/
 photos3:
-  heading: ""
-  items: []
+  heading: "It Takes a Village! "
+  items:
+    - image: https://ucarecdn.com/a55c3ac7-e479-43e0-9d96-2e46b6210279/
+    - image: https://ucarecdn.com/45deb46f-5a39-475d-912a-f9a1e5e151b7/
+    - image: https://ucarecdn.com/09ae0500-19c6-436d-bff7-1e991d8af3a3/
 archivevideo: ""
 bottom:
   text: ""
