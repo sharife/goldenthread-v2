@@ -40,7 +40,7 @@ externallinklabel: View the Digital Program
 misc: "Six short plays, presented as one evening of theatre. Run time: 2h 15m,
   plus intermission"
 lists:
-  - heading: REORIENT 2023 LINE-UP
+  - heading: REORIENT FESTIVAL 2023 LINE-UP
     items:
       - itemstart: 2023-10-13T02:13:16.860Z
         itemend: 2023-10-13T02:13:16.891Z
