@@ -658,6 +658,12 @@ photos:
     - image: https://ucarecdn.com/62cbf29f-b633-47d6-8091-d5133e126d07/
     - image: https://ucarecdn.com/6d412002-bc4f-4c57-977d-c01a008bd0cb/
     - image: https://ucarecdn.com/2c9f4045-3762-4edb-a5e2-392ee33f28ff/
+    - image: https://ucarecdn.com/b3a773d8-2318-4d26-b6f0-9a7929632848/
+    - image: https://ucarecdn.com/0d7c2cdd-878f-4e8a-ba30-d2859476671c/
+    - image: https://ucarecdn.com/6483e265-3095-491c-812d-98106cef4150/
+    - image: https://ucarecdn.com/4306300b-89d1-4311-b0a8-01cdcb758330/
+    - image: https://ucarecdn.com/9a945dac-4bec-4dc0-b896-f5ffe49e5a9e/
+    - image: https://ucarecdn.com/17614faa-ee10-4e77-8751-215d7aa99aff/
 photos2:
   heading: "Photo Gallery: publicity"
   items:
