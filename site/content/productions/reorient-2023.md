@@ -40,28 +40,6 @@ externallinklabel: View the Digital Program
 misc: "Six short plays, presented as one evening of theatre. Run time: 2h 15m,
   plus intermission"
 lists:
-  - heading: MENATMA Convening
-    items:
-      - itemstart: 2023-09-15T02:03:28.838Z
-        itemend: 2023-09-15T02:03:28.872Z
-        title: October 28 & 29, 2023
-        text: >-
-          As part of our ReOrient Festival and Forum, Golden Thread hosts
-          the 4th annual national convening of the Middle Eastern North African
-          Theater Makers Alliance
-          ([MENATMA](https://www.menatheatre.org/fall-2023-convening)) co-produced
-          with [Art2Action, Inc.](https://www.art2action.org/)
-
-
-          MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. This year’s convening is co-sponsored by [](https://www.newarabamericantheaterworks.org/)[Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theatre Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://www.tcg.org/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation.
-
-
-          **Registration is free; advanced registration is required.**
-
-
-          **For more information, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).**
-        cta: "Registration link coming soon. "
-        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
   - heading: REORIENT 2023 LINE-UP
     items:
       - itemstart: 2023-10-13T02:13:16.860Z
@@ -146,6 +124,29 @@ lists:
 
           In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
         image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
+  - heading: MENATMA Convening
+    items:
+      - itemstart: 2023-09-15T02:03:28.838Z
+        itemend: 2023-09-15T02:03:28.872Z
+        title: October 28 & 29, 2023
+        text: >-
+          As part of our ReOrient Festival and Forum, Golden Thread hosts
+          the 4th annual national convening of the Middle Eastern North African
+          Theater Makers Alliance
+          ([MENATMA](https://www.menatheatre.org/fall-2023-convening)) co-produced
+          with [Art2Action, Inc.](https://www.art2action.org/)
+
+
+          MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. This year’s convening is co-sponsored by [](https://www.newarabamericantheaterworks.org/)[Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theatre Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://www.tcg.org/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation.
+
+
+          **Registration is free; advanced registration is required.**
+
+
+          **For more information, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).**
+        cta: "Registration link coming soon. "
+        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
+        image: https://ucarecdn.com/bb349850-e9de-4ab4-8363-b241e00a6e7a/
 grids: []
 cast:
   heading: ReOrient Festival of Short Plays - Creative Team
