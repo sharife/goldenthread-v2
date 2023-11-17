@@ -28,7 +28,8 @@ featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
   (Sound), Briana Lisette Cardenas (Costume), Vincent Chau (Props)
 dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
-additional: ""
+additional: Publicity Photography by Amal Bisharat; Production Photography by
+  David Allen and by Amal Bisharat
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
