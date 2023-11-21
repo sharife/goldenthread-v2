@@ -6,22 +6,34 @@ background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
 cta: Learn More!
 link: https://goldenthread.org/productions/reorient-2023/
 items:
-  - subtitle: "**ReOrient Festival of Short Plays!**"
+  - subtitle: "**The Gaza Monologues**"
     text: >-
-      Our 2023 Season celebrates the return of our signature program, an
-      innovative and spirited festival of short plays from or about the Middle
-      East. 
+      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/) are
+      collaborating in their response to the urgent call put out by [ASHTAR
+      Theatre](https://www.ashtar-theatre.org/) to theater makers around the
+      world to publicly read or perform [The Gaza
+      Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the
+      International Day of Solidarity with the Palestinian People - a
+      significant day for those who value justice, equality, and freedom for the
+      Palestinian people. 
 
 
-      With with 6 plays selected from 113 submissions, this year’s ReOrient offers a diverse lineup of unexpected and boundary-pushing plays. Nowhere else you will see such a global mix of stories and styles on one stage in one evening! \
-
-      Recorded live on October 21, 2023
+      The Gaza Monologues are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
 
 
-      Available to stream November 7-12, 2023
-    image: https://ucarecdn.com/6e5b9d9a-3f22-4fcb-ae55-a7bf1d6b82f2/
-    cta: Buy Tickets
-    link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZ5EaMAL
+      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* will be presented in multiple languages. Registration is free. 
+
+
+      The Gaza Monologues 
+
+      online reading 
+
+      Wed Nov 29, 12 noon PT 
+
+      FREE
+    image: https://ucarecdn.com/756ad690-0ed8-48b7-b2f2-944c010ab883/
+    cta: Register for FREE
+    link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZWr7MAH
   - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
     subtitle: "**2023 MENATMA Convening!**"
     cta: Learn More
