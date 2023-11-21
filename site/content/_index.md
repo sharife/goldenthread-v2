@@ -18,13 +18,13 @@ items:
       Palestinian people. 
 
 
-      The Gaza Monologues are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
+      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
 
 
       Golden Thread and Aviva Arts' reading of *The Gaza Monologues* will be presented in multiple languages. Registration is free. 
 
 
-      The Gaza Monologues 
+      *The Gaza Monologues* 
 
       online reading 
 
