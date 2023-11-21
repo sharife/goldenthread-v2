@@ -31,7 +31,7 @@ items:
       Wed Nov 29, 12 noon PT 
 
       FREE
-    image: https://ucarecdn.com/756ad690-0ed8-48b7-b2f2-944c010ab883/
+    image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
     cta: Register for FREE
     link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZWr7MAH
   - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
