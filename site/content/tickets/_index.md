@@ -1,33 +1,31 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: "ReOrient 2023: Festival of Short Plays - Video On Demand"
+  - heading: Online reading of 'The Gaza Monologues' by Ashtar Theatre Palestine
     items:
-      - pre: Available to stream November 7-12, 2023
-        subtitle: ""
+      - pre: Wednesday, Nov 29, 2023, at 12:00 noon Pacific time (online only) - via
+          Zoom
         text: >-
-          **ReOrient 2023** celebrates the return of Golden Thread Productions’
-          signature program, an innovative and spirited festival of short plays
-          from or about the Middle East. The dizzying line-up is diverse in
-          content and style, with 6 plays selected from 113 submissions,
-          highlighting a multiplicity of Middle Eastern perspectives and
-          identities. 
+          **Golden Thread Productions** and **Aviva Arts** are collaborating in
+          their response to the urgent call put out by **ASHTAR Theatre** to
+          theater makers around the world to publicly read or perform *The Gaza
+          Monologues* on November 29th, 2023, the International Day of
+          Solidarity with the Palestinian People - a significant day for those
+          who value justice, equality, and freedom for the Palestinian people.
 
 
-          **Featuring playwrights:** Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed Sinno, and Judith Boyajian Strang-Waldau; Directors include Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker and Becca Wolff.
+           *The Gaza Monologues* are testimonies written by ASHTAR youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
 
 
-          Each viewing link valid for a 48-hour rental period beginning when you press play.
+          **Golden Thread** and **Aviva Arts**' reading of *The Gaza Monologues* will be presented in multiple languages.
 
 
-          One device access per viewing. Closed captioning available. 
+          Online registration is **FREE**
 
 
-          **$20-$100**
-        cta: Buy now!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FHs00000JmapJMAR
-        title: Think you know the Middle East? Think again!
-        image: https://ucarecdn.com/ecedd2f9-bb4b-4c75-bad6-3394aa22b87d/
+          *Once your registration is complete, you will receive a confirmation email with a link for your viewing.*
+        cta: Register now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZWr7MAH
 ---
 - - -
 
