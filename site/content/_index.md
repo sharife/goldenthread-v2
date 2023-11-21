@@ -8,14 +8,14 @@ link: https://goldenthread.org/productions/reorient-2023/
 items:
   - subtitle: "**The Gaza Monologues**"
     text: >-
-      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/) are
-      collaborating in their response to the urgent call put out by [ASHTAR
-      Theatre](https://www.ashtar-theatre.org/) to theater makers around the
-      world to publicly read or perform [The Gaza
-      Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the
-      International Day of Solidarity with the Palestinian People - a
-      significant day for those who value justice, equality, and freedom for the
-      Palestinian people. 
+      Wed. Nov. 29, 2023 \
+
+      12 noon PT \
+
+      online, free
+
+
+      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/) are collaborating in their response to the urgent call put out by [ASHTAR Theatre](https://www.ashtar-theatre.org/) to theater makers around the world to publicly read or perform [The Gaza Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the International Day of Solidarity with the Palestinian People - a significant day for those who value justice, equality, and freedom for the Palestinian people. 
 
 
       *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
