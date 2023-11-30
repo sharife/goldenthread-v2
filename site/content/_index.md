@@ -8,23 +8,20 @@ link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQ
 items:
   - subtitle: "**Watch The Gaza Monologues**"
     text: >-
-      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/)
-      collaborated in their response to the urgent call put out by [ASHTAR
-      Theatre](https://www.ashtar-theatre.org/) to theater makers around the
-      world to publicly read or perform [The Gaza
-      Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the
-      International Day of Solidarity with the Palestinian People - a
-      significant day for those who value justice, equality, and freedom for the
-      Palestinian people. 
+      On November 29, 2023, Golden Thread and [Aviva
+      Arts](https://www.avivaarts.org/) collaborated on a reading of [ASHTAR
+      Theatre](https://www.ashtar-theatre.org/)’s [The Gaza
+      Monologues](https://www.gazamonologues.com/) in observance of the
+      International Day of Solidarity with the Palestinian People - an annual
+      commemoration established by the UN aimed at raising awareness about
+      Palestine and supporting justice, equality, and freedom for the
+      Palestinian people.
 
 
-      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They highlight the horrors, hopes, and resilience of the courageous Gazans, lifting the voices of children and people in Gaza.
+      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They highlight the horrors, hopes, and resilience of the courageous Gazans, lifting up the voices of children and people in Gaza.
 
 
-      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* are presented in multiple languages. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
-
-
-      *The Gaza Monologues* were recorded live on Wednesday, November 29, 2023.
+      The reading was presented in Arabic, English, and Farsi. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
     image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
     cta: Watch the Video
     link: https://www.youtube.com/watch?v=dgHrfZr2PCg
