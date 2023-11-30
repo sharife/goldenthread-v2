@@ -6,31 +6,27 @@ background: https://ucarecdn.com/8b9abf31-1b83-4072-97ac-d5f7d964a172/
 cta: Donate!
 link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
-  - subtitle: "**The Gaza Monologues**"
+  - subtitle: "**Watch The Gaza Monologues**"
     text: >-
-      Wed. Nov. 29, 2023 \
-
-      12 noon PT \
-
-      online, free
-
-
-      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/) are collaborating in their response to the urgent call put out by [ASHTAR Theatre](https://www.ashtar-theatre.org/) to theater makers around the world to publicly read or perform [The Gaza Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the International Day of Solidarity with the Palestinian People - a significant day for those who value justice, equality, and freedom for the Palestinian people. 
-
-
-      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
+      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/)
+      collaborated in their response to the urgent call put out by [ASHTAR
+      Theatre](https://www.ashtar-theatre.org/) to theater makers around the
+      world to publicly read or perform [The Gaza
+      Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the
+      International Day of Solidarity with the Palestinian People - a
+      significant day for those who value justice, equality, and freedom for the
+      Palestinian people. 
 
 
-      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* will be presented in multiple languages. Registration is free. 
+      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They highlight the horrors, hopes, and resilience of the courageous Gazans, lifting the voices of children and people in Gaza.
+
+
+      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* are presented in multiple languages. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
 
 
       *The Gaza Monologues* 
 
-      online reading 
-
-      Wed Nov 29, 12 noon PT 
-
-      FREE
+      recorded live Wed Nov 29, 2023
     image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
     cta: Watch the Video
     link: https://www.youtube.com/watch?v=dgHrfZr2PCg
