@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: See the Photos!
-subtitle: ""
-background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
-cta: Learn More!
-link: https://goldenthread.org/productions/reorient-2023/
+headline: Act Now!
+subtitle: Support Our 2024 Season
+background: https://ucarecdn.com/8b9abf31-1b83-4072-97ac-d5f7d964a172/
+cta: Donate!
+link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
   - subtitle: "**The Gaza Monologues**"
     text: >-
