@@ -30,18 +30,19 @@ items:
     image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
     cta: Watch the Video
     link: https://www.youtube.com/watch?v=dgHrfZr2PCg
-  - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
-    subtitle: "**2023 MENATMA Convening!**"
-    cta: Learn More
-    link: https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/
+  - image: https://ucarecdn.com/6574a4e3-61db-41c9-9162-35b635abba84/
+    subtitle: "**Support Our Season for Palestine**"
+    cta: Donate Now!
+    link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
     text: >-
-      Golden Thread Productions and Art2Action, Inc. are thrilled to co-produce
-      and co-present the 4th annual convening of the Middle Eastern North
-      African Theater Makers Alliance (MENATMA) hosted at Golden Thread’s
-      ReOrient Festival of Short Plays in San Francisco. 
+      Thanks to your support, in 2023 we engaged over 90 artists and gave over
+      4,500 audience members access to over 50 unforgettable performances!
 
+      Since its inception, Golden Thread has been dedicated to highlighting our shared humanity and challenging negative stereotypes and misinformed narratives about the Middle East. That mission has taken on even greater urgency today.
 
-      MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more.
+      We recognize the continuing significance of our work as we witness the Western media blatantly dehumanize and silence Palestinian voices enduring the atrocities of war. And we are taking action by dedicating our entire 2024 season to Palestine.
+
+      Please consider making a contribution today and join us for our 2024 Season for Palestine!
   - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
     subtitle: "**Statement of Solidarity**"
     cta: Read the full statement.
