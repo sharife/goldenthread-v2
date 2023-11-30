@@ -1,51 +1,46 @@
 ---
 title: Middle East Center Stage
-headline: See the Photos!
-subtitle: ""
-background: https://ucarecdn.com/a03dc54c-5582-4a31-96b9-d76a19608d18/
-cta: Learn More!
-link: https://goldenthread.org/productions/reorient-2023/
+headline: Act Now!
+subtitle: Support Our 2024 Season
+background: https://ucarecdn.com/8b9abf31-1b83-4072-97ac-d5f7d964a172/
+cta: Donate!
+link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
 items:
-  - subtitle: "**The Gaza Monologues**"
+  - subtitle: "**Watch The Gaza Monologues**"
     text: >-
-      Wed. Nov. 29, 2023 \
-
-      12 noon PT \
-
-      online, free
-
-
-      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/) are collaborating in their response to the urgent call put out by [ASHTAR Theatre](https://www.ashtar-theatre.org/) to theater makers around the world to publicly read or perform [The Gaza Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the International Day of Solidarity with the Palestinian People - a significant day for those who value justice, equality, and freedom for the Palestinian people. 
-
-
-      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
+      Golden Thread Productions and [Aviva Arts](https://www.avivaarts.org/)
+      collaborated in their response to the urgent call put out by [ASHTAR
+      Theatre](https://www.ashtar-theatre.org/) to theater makers around the
+      world to publicly read or perform [The Gaza
+      Monologues](https://www.gazamonologues.com/) on November 29th, 2023, the
+      International Day of Solidarity with the Palestinian People - a
+      significant day for those who value justice, equality, and freedom for the
+      Palestinian people. 
 
 
-      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* will be presented in multiple languages. Registration is free. 
+      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They highlight the horrors, hopes, and resilience of the courageous Gazans, lifting the voices of children and people in Gaza.
 
 
-      *The Gaza Monologues* 
+      Golden Thread and Aviva Arts' reading of *The Gaza Monologues* are presented in multiple languages. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
 
-      online reading 
 
-      Wed Nov 29, 12 noon PT 
-
-      FREE
+      *The Gaza Monologues* were recorded live on Wednesday, November 29, 2023.
     image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
-    cta: Register for FREE
-    link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZWr7MAH
-  - image: https://ucarecdn.com/e0ad4624-2ff8-4537-b840-726a62822d24/
-    subtitle: "**2023 MENATMA Convening!**"
-    cta: Learn More
-    link: https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/
+    cta: Watch the Video
+    link: https://www.youtube.com/watch?v=dgHrfZr2PCg
+  - image: https://ucarecdn.com/6574a4e3-61db-41c9-9162-35b635abba84/
+    subtitle: "**Support Our Season for Palestine**"
+    cta: Donate Now!
+    link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
     text: >-
-      Golden Thread Productions and Art2Action, Inc. are thrilled to co-produce
-      and co-present the 4th annual convening of the Middle Eastern North
-      African Theater Makers Alliance (MENATMA) hosted at Golden Thread’s
-      ReOrient Festival of Short Plays in San Francisco. 
+      Thanks to your support, in 2023 we engaged over 90 artists and gave over
+      4,500 audience members access to over 50 unforgettable performances!
 
+      Since its inception, Golden Thread has been dedicated to highlighting our shared humanity and challenging negative stereotypes and misinformed narratives about the Middle East. That mission has taken on even greater urgency today.
 
-      MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more.
+      We recognize the continuing significance of our work as we witness the Western media blatantly dehumanize and silence Palestinian voices enduring the atrocities of war. And we are taking action by dedicating our entire 2024 season to Palestine.
+
+      Please consider making a contribution today and join us for our 2024 Season for Palestine!
   - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
     subtitle: "**Statement of Solidarity**"
     cta: Read the full statement.
