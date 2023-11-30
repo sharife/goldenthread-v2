@@ -24,9 +24,7 @@ items:
       Golden Thread and Aviva Arts' reading of *The Gaza Monologues* are presented in multiple languages. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
 
 
-      *The Gaza Monologues* 
-
-      recorded live Wed Nov 29, 2023
+      *The Gaza Monologues* were recorded live on Wednesday, November 29, 2023.
     image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
     cta: Watch the Video
     link: https://www.youtube.com/watch?v=dgHrfZr2PCg
