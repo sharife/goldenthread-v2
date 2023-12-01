@@ -33,9 +33,12 @@ items:
       Thanks to your support, in 2023 we engaged over 90 artists and gave over
       4,500 audience members access to over 50 unforgettable performances!
 
+
       Since its inception, Golden Thread has been dedicated to highlighting our shared humanity and challenging negative stereotypes and misinformed narratives about the Middle East. That mission has taken on even greater urgency today.
 
+
       We recognize the continuing significance of our work as we witness the Western media blatantly dehumanize and silence Palestinian voices enduring the atrocities of war. And we are taking action by dedicating our entire 2024 season to Palestine.
+
 
       Please consider making a contribution today and join us for our 2024 Season for Palestine!
   - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
