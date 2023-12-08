@@ -11,8 +11,6 @@ sidebar:
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-# <center>Building Forward</center>
-
 #### Thanks to your support, in 2023 we engaged over 90 artists and 4,500 audience members in more than 50 unforgettable performances that brought us joy and laughter, united us through collaboration and connection, and inspired us with stories of fighting injustice.
 
 ### **<center>**Cultivating Meaningful Collaborations**<center>**
