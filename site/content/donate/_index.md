@@ -21,7 +21,7 @@ Our digital series No Summary: Conversations with Artists Who Don’t Fit in a B
 
 ### **<center>**Embracing Artistic Complexity, Building Community**<center>**
 
-The ReOrient Festival of Short Plays finally returned with six unexpected and boundary-pushing short plays selected from 113 submissions., These plays dazzled audiences for over 15 stellar performances with a variety of monologues, two-handers, absurdist styles, historical and modern stories, and queer and non-binary narratives.
+The ReOrient Festival of Short Plays finally returned with six unexpected and boundary-pushing short plays selected from 113 submissions. These plays dazzled audiences for over 15 stellar performances with a variety of monologues, two-handers, absurdist styles, historical and modern stories, and queer and non-binary narratives.
 
 In conjunction with the ReOrient Festival, Golden Thread proudly co-produced the 4th annual MENA Theatre Makers Alliance Convening with Art2Action, Inc., and with co-sponsorship by Silk Road Rising, Noor Theatre, New Arab American Theatre Works, Diaspora Arts Connection, and Theatre Communications Group THRIVE! Program. With more than 130 participants attending 11 in-person and online events, the convening was an artistic and community-building triumph!
 
