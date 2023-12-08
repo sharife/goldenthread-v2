@@ -27,7 +27,7 @@ In conjunction with the ReOrient Festival, Golden Thread proudly co-produced the
 
 ### **<center>**Healing with Humor, Learning Through Laughter**<center>**
 
-Comediennes Eman El-Husseini, Usama Siddiquee, Jackie Keliiaa, and Charles McBee gave us the balm of laughter in Artist in-residence Wafaa Bilal’s specially curated stand-up comedy presentation of Amreeka: The Comedy Show.
+Comedians Eman El-Husseini, Usama Siddiquee, Jackie Keliiaa, and Charles McBee gave us the balm of laughter in Artist in-residence Wafaa Bilal’s specially curated stand-up comedy presentation of Amreeka: The Comedy Show.
 
 There was no stopping Nasrudin’s Magnificent Journey to Samarkand, written by Torange Yeghiazarian and directed by Sarah Al-Kassab, which continued to 25 new schools and libraries across the Bay Area, delighting and educating audiences of all ages with comedic tales of this beloved wise fool.
 
