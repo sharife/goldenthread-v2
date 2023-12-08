@@ -4,7 +4,7 @@ headline: Act Now!
 subtitle: Support Our 2024 Season
 background: https://ucarecdn.com/8b9abf31-1b83-4072-97ac-d5f7d964a172/
 cta: Donate!
-link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
+link: https://goldenthread.org/donate/
 items:
   - subtitle: "**Watch The Gaza Monologues**"
     text: >-
@@ -28,7 +28,7 @@ items:
   - image: https://ucarecdn.com/6574a4e3-61db-41c9-9162-35b635abba84/
     subtitle: "**Support Our Season for Palestine**"
     cta: Donate Now!
-    link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
+    link: https://goldenthread.org/donate/
     text: >-
       Thanks to your support, in 2023 we engaged over 90 artists and gave over
       4,500 audience members access to over 50 unforgettable performances!
