@@ -35,7 +35,7 @@ There was no stopping Nasrudin’s Magnificent Journey to Samarkand, written by 
 
 Our annual celebration of International Women’s Day, What Do the Women Say?, was a truly international in-person/virtual hybrid presentation that featured the work of 15 incredible Middle Eastern women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S. who fight against injustice through their art.
 
-This year, The New Threads Reading Series explored and uplifted the stories of ordinary individuals living through revolutionary times through two new play commissions: Adam Ashraf Elsayigh’s Alaa: a Family Trilogy, inspired by the life of political prisoner Alaa Abd El-Fattah, and Tariq Hamami’s The Fox and the Panther, about the Black Panthers in Algiers.
+This year, The New Threads Reading Series explored and uplifted the stories of ordinary individuals living through revolutionary times through two new play commissions: Adam Ashraf Elsayigh’s *Alaa: a Family Trilogy*, inspired by the life of political prisoner Alaa Abd El-Fattah, and Tariq Hamami’s *The Fox and the Panther*, about the Black Panthers in Algiers.
 
 # **<center>**2024 Season for Palestine**<center>**
 
