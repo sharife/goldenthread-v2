@@ -744,26 +744,27 @@ artists:
       image: /img/archive/2018/02/Khalil-Hannah-300x300.jpg
       name: Hannah Khalil
     - bio: '<strong>MONA MANSOUR</strong> <strong>(Resident Artist /
-        Playwright)</strong> <em>We Swim, We Talk, We Go to War</em>, directed
-        by Evren Odcikin, will premiere at Golden Thread in 2018. <em>The
-        Vagrant Trilogy </em>premieres at Mosaic Theater in D.C. in June 2018,
-        directed by Mark Wing-Davey. It was presented at New Dramatists in fall
-        2016 after a workshop at the Vineyard Arts Project with the Public
-        Theater. Of the trilogy: <em>The Hour of Feeling </em>(directed by
-        Wing-Davey) premiered at the Humana Festival at Actors Theatre of
-        Louisville, and a new Arabic translation was presented at NYU Abu Dhabi
-        as part of its Arab Voices Festival in 2016; <em>Urge For Going </em>had
-        productions at Public LAB (directed by Hal Brooks) and Golden Thread
-        (directed by Odcikin); <em>The Vagrant </em>was workshopped at the 2013
-        Sundance Theater Institute. Other plays: <em>The Way West
-        (</em>Labyrinth Theater, directed by Mimi O’Donnell; Steppenwolf,
-        directed by Amy Morton; and Marin Theatre Company, directed by Hayley
-        Finn), <em>Unseen </em>(Gift Theater Chicago, directed by Maureen
-        Payne-Hahner), and <em>In the Open </em>(Waterwell, directed by James
-        Dean Palmer). Mona is a member of New Dramatists. Commissions include
-        Playwrights Horizons, Old Globe Theater, La Jolla Playhouse, and Oregon
-        Shakespeare Festival’s “American Revolutions.” 2012 Whiting Award. 2014
-        Middle East America Distinguished Playwright Award. <strong><a
+        Playwright)</strong> Recipient of the 2023  Steinberg Playwright Award.
+        <em>We Swim, We Talk, We Go to War</em>, directed by Evren Odcikin,
+        premiered at Golden Thread in 2018. <em>The Vagrant Trilogy
+        </em>premiered at Mosaic Theater in D.C. in June 2018, directed by Mark
+        Wing-Davey. It was presented at New Dramatists in fall 2016 after a
+        workshop at the Vineyard Arts Project with the Public Theater. Of the
+        trilogy: <em>The Hour of Feeling </em>(directed by Wing-Davey) premiered
+        at the Humana Festival at Actors Theatre of Louisville, and a new Arabic
+        translation was presented at NYU Abu Dhabi as part of its Arab Voices
+        Festival in 2016; <em>Urge For Going </em>had productions at Public LAB
+        (directed by Hal Brooks) and Golden Thread (directed by Odcikin);
+        <em>The Vagrant </em>was workshopped at the 2013 Sundance Theater
+        Institute. Other plays: <em>The Way West (</em>Labyrinth Theater,
+        directed by Mimi O’Donnell; Steppenwolf, directed by Amy Morton; and
+        Marin Theatre Company, directed by Hayley Finn), <em>Unseen </em>(Gift
+        Theater Chicago, directed by Maureen Payne-Hahner), and <em>In the Open
+        </em>(Waterwell, directed by James Dean Palmer). Mona is a member of New
+        Dramatists. Commissions include Playwrights Horizons, Old Globe Theater,
+        La Jolla Playhouse, and Oregon Shakespeare Festival’s “American
+        Revolutions.” 2012 Whiting Award. 2014 Middle East America Distinguished
+        Playwright Award. <strong><a
         href="http://www.monamansour.com">monamansour.com</a></strong>'
       credit: Playwright
       image: /img/archive/2013/07/mona-headshot.jpg
