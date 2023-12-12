@@ -3,7 +3,7 @@ title: Our Programs
 programs:
   - cta: Learn more
     heading: ReOrient Festival
-    imageUrl: /img/hero-reorient.png
+    imageUrl: https://ucarecdn.com/fdc74ead-9b2b-4e19-bd41-434e10cbca84/
     link: /programs/reorient
     text: >
       The ReOrient Festival of Short Plays was inaugurated in 1999 to present
@@ -28,7 +28,7 @@ programs:
       Middle East.
   - cta: Learn more
     heading: New Threads Reading Series
-    imageUrl: /img/hero-new-threads.jpg
+    imageUrl: https://ucarecdn.com/6445212a-563f-45ba-a445-e6b86380657a/
     link: /programs/new-threads
     text: >
       New Threads is Golden Thread’s annual staged reading series that engages
@@ -43,7 +43,7 @@ programs:
       how it impacts their work and artistic choices. We invite you to take
       pause with us and immerse yourself in these compelling topics and
       histories that defy a snappy summation.
-    imageUrl: https://ucarecdn.com/d5e7f0de-47ab-470d-9ad9-437892f67200/
+    imageUrl: https://ucarecdn.com/8c6e4d50-7a0b-42e4-b98b-02accc67e24b/
   - cta: Learn more
     heading: New Play Development
     imageUrl: /img/hero-ftp-fifthstring.jpg
