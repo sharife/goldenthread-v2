@@ -12,7 +12,7 @@ programs:
       become Golden Thread’s most recognized and celebrated program. 
   - cta: Learn more
     heading: What Do the Women Say?
-    imageUrl: /img/hero-WDTWS.jpg
+    imageUrl: https://ucarecdn.com/8a00558a-fc10-47ee-b9bc-f8a2e4f26a33/
     link: /programs/what-do-the-women-say
     text: Each year, Golden Thread celebrates International Women’s Day by
       showcasing the work of leading Middle Eastern women artists. Previous
