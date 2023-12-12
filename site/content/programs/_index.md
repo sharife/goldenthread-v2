@@ -28,7 +28,7 @@ programs:
       Middle East.
   - cta: Learn more
     heading: New Threads Reading Series
-    imageUrl: /img/hero-new-threads.jpg
+    imageUrl: https://ucarecdn.com/6445212a-563f-45ba-a445-e6b86380657a/
     link: /programs/new-threads
     text: >
       New Threads is Golden Thread’s annual staged reading series that engages
