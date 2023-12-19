@@ -14,10 +14,6 @@ This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkro
 
 ##### Registration is FREE. Advanced registration is required.
 
-To register to attend the Convening **in-person**, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVQMNMA5). 
-
-To register to attend the Convening **on-line**, click [here](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VVZEUMA5). 
-
 ## CONVENING SCHEDULE
 
 In-person events will take place at Potrero Stage and The Annex upstairs at 1695 18th Street, San Francisco, CA. Digital sessions will be livestreamed on Howlround.
