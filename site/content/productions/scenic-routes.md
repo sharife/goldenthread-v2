@@ -54,7 +54,7 @@ photos:
 archivevideo: Ils8zpw3xPw
 bottom:
   text: ""
-  heading: This project is made possible through CA$H, a grant program pf Theatre
+  heading: This project is made possible through CA$H, a grant program of Theatre
     Bay Area
 ---
 Written in 1992, ***Scenic Routes*** explores the craggy terrain of cultural misunderstandings and misperceptions between an American woman, Lana, and an Egyptian man, Naguib. Beginning almost whimsically at a pick-up in a bar, the relationship soon gets mired in well intentioned but often clumsy attempts to bridge what are perceived as cultural divides. The initial and natural awkwardness of any two intimates getting to know each other soon gets blown up and erroneously labeled as cultural differences between two foreigners.
