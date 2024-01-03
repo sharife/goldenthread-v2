@@ -26,7 +26,7 @@ featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
   McCarron, Koorosh Angali
 designteam: Veronica Arana (scenic), Vida Ghahremani (costumes), Jodi Ferguson (lighting)
 additional: Dance choreography by Shahrzad Khorsandi
-stage: Next Stage, 1620 Gaugh Street, San Francisco
+stage: Next Stage, 1620 Gough Street, San Francisco
 cast:
   heading: Cast & Crew
   items:
@@ -129,4 +129,4 @@ bottom:
     Chidren's Alliance, Emily Shihadeh, Gen Hayashida, Termeh Yeghiazarian,
     Kamshad Kooshan.
 ---
-Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies.  It followed shortly on a disastrous phase of Athens’s war with Sparta.  Many of Aristophanes plays use a utopian premise to criticize war.  Lysistrata addresses the politics of its time in a variety of ways.  Lampooning the politicians of the time and Athens’s expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand.  Aristophanes was a master at highlighting social hypocrisies.  But at the same time the play is by no means "feminist" in its approach.  Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
+Produced in 411 BC, Aristophanes' Lysistrata is one of the most popular of the extant Greek comedies.  It followed shortly on a disastrous phase of Athens’ war with Sparta.  Many of Aristophanes plays use a utopian premise to criticize war.  Lysistrata addresses the politics of its time in a variety of ways:  lampooning the politicians of the time and Athens’ expansionist policies on the one hand, and utilizing the social inferiority of the women in Athens as a comic ploy, on the other hand.  Aristophanes was a master at highlighting social hypocrisies.  But at the same time the play is by no means "feminist" in its approach.  Aristophanes pleads for peace and advocates family values of his own time, seeing women as child bearers and home makers with sexuality being their only weapon.
