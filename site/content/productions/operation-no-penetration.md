@@ -121,7 +121,7 @@ photos:
     - image: https://ucarecdn.com/028b8f39-fefe-4d44-a9d0-ec3b040f1cf2/
     - image: https://ucarecdn.com/9c857c4a-4669-4d48-ba7d-f860c464aa91/
 bottom:
-  heading: "This production woudl not have been possible without the support of
+  heading: "This production would not have been possible without the support of
     the following:"
   text: The staff at the San Francisco State Theatre Arts Department, Mohammad
     Kowsar, Darvag Theatre, Mansour & Afsaneh Taeed, Kiumars Hakim, Marcia
