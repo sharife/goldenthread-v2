@@ -17,6 +17,8 @@ description: >-
 background: https://ucarecdn.com/a896ccc1-7cb3-4125-8ad6-f6a8a02ae866/
 titleimage: https://ucarecdn.com/167d5e6e-cc34-4b64-af94-8416d579a6fb/-/crop/1343x1783/41,0/-/preview/
 program: https://ucarecdn.com/1c88544c-8d50-47b9-a759-73e1f4a9daab/
+videos:
+  - id: bA2q2c1QlcY
 writer: Torange Yeghiazarian
 director: Torange Yeghiazarian
 featuring: (in order of appearance) Dan Sherman, Linda Ayers, Kiran Patel, Colin
