@@ -16,6 +16,8 @@ description: A contemporary adaptation of Aristophanes' Lysistrata focused on
 background: https://ucarecdn.com/18a32e03-5795-4b92-ac6b-787ba18a0afa/
 titleimage: https://ucarecdn.com/ed359f33-aeb4-4e3c-a509-61765c2f7330/
 program: https://ucarecdn.com/dcaf62df-3889-4120-ae28-0fa610629b0e/
+videos:
+  - id: 2zzgIMjpjVw
 writer: Torange Yeghiazarian, adapted from the 5th century classic by Aristophanes
 director: Torange Yeghiazarian
 featuring: (in order of appearance) Pamela Beitz, Bella Warda, Jennifer Darya
