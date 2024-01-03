@@ -16,9 +16,9 @@ videos:
   - id: 4PkaIBEczXY
 writer: ""
 director: Hal Gelb, Arlene Hood, Mark Mezadourian Hughes, Torange Yeghiazarian
-featuring: Boni B. Alvarez *,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
-  Darlene Dhillon, Mark Farrell *, Cindy Goldfield *, Jeanette Harrison, Barbara
-  Jaspersen, Maziar Motahari, Ric Prindle *, Bella Ramazan-Nia, Claudia Rosa *
+featuring: Boni B. Alvarez*,  Sarine Balian, Ali Dadgar, Shaudy Danaye-Elmi,
+  Darlene Dhillon, Mark Farrell*, Cindy Goldfield*, Jeanette Harrison, Barbara
+  Jaspersen, Maziar Motahari, Ric Prindle*, Bella Ramazan-Nia, Claudia Rosa*
 designteam: Robert Ted Anderson (lighting), Jay Lasnik (scenic), Svetlana Pedan
   (costume), Michael Santo (sound), Termeh Yeghiazarian (story panels), Homayoun
   Makoui (graphics)
@@ -237,4 +237,4 @@ photos2:
     - image: https://ucarecdn.com/299e55f9-0904-477a-a0b3-aa2d278b5b16/
     - image: https://ucarecdn.com/5217fcf4-606e-455d-93ce-b77f21641049/
 ---
-What an incredible time to be Middle Eastern in the US. There are no easy answers, no sure way of determining the facts. Yet, the questions keep coming and they often sound like accusations. Some of the plays in this year's extraordinary selection are attempts at asking the right questions, or maybe just different questions than the mainstream media is asking. Sometimes the difficultues we face take on such unfathomable magnitude that solutions seem hopelessly oiut of reach. Under these circumstances, it is easy to forget that we all share the same simple requirements for a fulfilling life: a home, the right to self expression, dignity, love, and forgiveness.
+What an incredible time to be Middle Eastern in the US. There are no easy answers, no sure way of determining the facts. Yet, the questions keep coming and they often sound like accusations. Some of the plays in this year's extraordinary selection are attempts at asking the right questions, or maybe just different questions than the mainstream media is asking. Sometimes the difficulties we face take on such unfathomable magnitude that solutions seem hopelessly out of reach. Under these circumstances, it is easy to forget that we all share the same simple requirements for a fulfilling life: a home, the right to self expression, dignity, love, and forgiveness.
