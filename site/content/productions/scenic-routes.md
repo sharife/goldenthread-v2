@@ -51,11 +51,12 @@ photos:
     - image: https://ucarecdn.com/d34af30a-5bc3-47e4-85b1-0f356a0cca2d/
     - image: https://ucarecdn.com/e072a995-8218-4d21-b07e-990cf194dc9f/
     - image: https://ucarecdn.com/2baebc0e-8a33-42c5-b0ff-888cf1f36d87/
+archivevideo: Ils8zpw3xPw
 bottom:
   text: ""
-  heading: This project is made possible through CA$H, a grant program pf Theatre
+  heading: This project is made possible through CA$H, a grant program of Theatre
     Bay Area
 ---
-Written in 1992, ***Scenic Routes*** explores the craggy terrain of cultural misunderstandings and misperceptions between an American woman, Lana, and an Egyptian man, Naguib. Beginning almost whimsically as a pick-up in a bar, the relationship soon gets mired in well intentioned but often clumsy attempts to bridge what are perceived as cultural divides. The initial and natural awkwardness of any two intimates getting to know each other soon gets blown up and erroneously labeled as cultural differences between two foreigners.
+Written in 1992, ***Scenic Routes*** explores the craggy terrain of cultural misunderstandings and misperceptions between an American woman, Lana, and an Egyptian man, Naguib. Beginning almost whimsically at a pick-up in a bar, the relationship soon gets mired in well intentioned but often clumsy attempts to bridge what are perceived as cultural divides. The initial and natural awkwardness of any two intimates getting to know each other soon gets blown up and erroneously labeled as cultural differences between two foreigners.
 
 The Immigrant Theatre Project presented a staged reading of *Scenic* *Routes* in 2000 as part of the American Dreams: Plays About NY & the Immigrant Experience at the Tenement Theatre. Celia Braxton directed.
