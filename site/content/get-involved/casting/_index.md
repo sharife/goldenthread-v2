@@ -8,13 +8,15 @@ sidebar:
 **Golden Thread Productions
 2024 General and Season Auditions**
 
-Audition Dates 
+**Audition Dates** 
 
 * **General Auditions** will take place in person on **Friday 2/02/23** by appointment between 11:00 AM to 4:00 PM.  
 * **Production Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
 * **Callbacks** will take place in person on **Friday 2/09/2024** from 11:00 AM to 3:00 PM. 
 
 **Seeking**
+
+
 For *Returning to Haifa*: We are seeking women and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Polish character in her 60s. (Rehearsals begin March 4, 2024. Performs on April 12 through May 4, 2024).
 For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Rehearsals begin October 28, 2024. Performs on November 8, 9 and 10, 2024.) 
 
@@ -37,7 +39,6 @@ The deadline to submit your headshot, acting resume, and request an appointment 
 The Annex, [Potrero Stage, 1695 18th Street, San Francisco, CA](https://goldenthread.org/about/visit/). 
 
 **Attending the Auditions** 
-
 
 * Sahar Assaf, Executive Artistic Director 
 * Wendy Reyes, Production Associate 
