@@ -30,7 +30,7 @@ For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all b
 
 **Deadline and Appointments** 
 
-The deadline to submit your headshot, acting resume, and request an appointment is January 30, 2024 by noon PT, via this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). Audition slots will be 10-15 minutes each. 
+The deadline to submit your headshot, acting resume, and request an appointment is **January 30, 2024 by 12 noon PT**, via this [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdx6lDBdGfKoFoPp54FqDbyPyj1b3K2Z7FGv9qgaJ8p78PwJg/viewform). Audition slots will be 10-15 minutes each. 
 
 **Contract** 
 
