@@ -17,7 +17,7 @@ sidebar:
 **Seeking**
 
 
-For *Returning to Haifa*: We are seeking women and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Polish character in her 60s. (Rehearsals begin March 4, 2024. Performs on April 12 through May 4, 2024).
+For *Returning to Haifa*: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Polish character in her 60s. (Rehearsals begin March 4, 2024. Performs on April 12 through May 4, 2024).
 
 
 For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Rehearsals begin October 28, 2024. Performs on November 8, 9 and 10, 2024.) 
