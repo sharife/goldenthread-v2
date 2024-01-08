@@ -11,14 +11,12 @@ sidebar:
 **Audition Dates** 
 
 * **General Auditions** will take place in person on **Friday 2/02/23** by appointment between 11:00 AM to 4:00 PM.  
-* **Production Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
-* **Callbacks** will take place in person on **Friday 2/09/2024** from 11:00 AM to 3:00 PM. 
+* ***Return to Haifa* Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
+* ***Alaa: A Family Trilogy* Auditions** will take place in person on **Friday 2/09/2024** from 11:00 AM to 3:00 PM. 
 
 **Seeking**
 
-
 For *Returning to Haifa*: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Polish character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
-
 
 For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Rehearsals begin October 28, 2024. Performs November 8, 9 and 10, 2024.) 
 
