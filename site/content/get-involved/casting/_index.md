@@ -13,13 +13,13 @@ sidebar:
 * **General Auditions** will take place in person on **Friday 2/02/23** by appointment from 11:00 AM to 4:00 PM.  
 * ***Returning to Haifa* Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
 * ***Alaa: A Family Trilogy* Auditions** will take place in person on **Friday 2/09/2024** from 11:00 AM to 4:00 PM. 
-* **Callbacks** will take place in person on Monday 2/12/24 from 11:00 AM to 3:00 PM.
+* **Callbacks** will take place in person on **Monday 2/12/24** from 11:00 AM to 3:00 PM.
 
 **Seeking**
 
-For *Returning to Haifa*: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
+For *Returning to Haifa* by Ghassan Kanafani, adapted to the stage by Ismail Khalidi and Naomi Wallace, directed by Samer El Saber: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
 
-For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Rehearsals begin October 28, 2024. Performs November 8, 9 and 10, 2024.) 
+For *ALAA: A Family Trilogy* by Adam Ashraf Elsayigh, generative dramaturgy by Salma Zohdi, directed by Evren Odcikin: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Workshop Production. Rehearsals begin October 28, 2024. Performs November 9 & 10, 2024.) 
 
 **Preparation** 
 
@@ -43,7 +43,7 @@ The Annex, [1695 18th Street, San Francisco, CA](https://goldenthread.org/about/
 
 * Sahar Assaf, Executive Artistic Director 
 * Wendy Reyes, Production Associate 
-* Directors of the mainstage plays (Samer Al Saber and Evren Odcikin) 
+* Directors Samer Al Saber (*Returning to Haifa*) and Evren Odcikin (*ALAA: A Family Trilogy*) 
 
 **Summary of Forms and Documents** 
 
