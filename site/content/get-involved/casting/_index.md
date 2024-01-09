@@ -17,9 +17,13 @@ sidebar:
 
 **Seeking**
 
-For *Returning to Haifa* by Ghassan Kanafani, adapted to the stage by Ismail Khalidi and Naomi Wallace, directed by Samer El Saber: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
+For* **Returning to Haifa*** by Ghassan Kanafani, adapted to the stage by Ismail Khalidi and Naomi Wallace, directed by Samer El Saber: 
 
-For *ALAA: A Family Trilogy* by Adam Ashraf Elsayigh, generative dramaturgy by Salma Zohdi, directed by Evren Odcikin: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Workshop Production. Rehearsals begin October 28, 2024. Performs November 9 & 10, 2024.) 
+We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
+
+For ***ALAA: A Family Trilogy*** by Adam Ashraf Elsayigh, generative dramaturgy by Salma Zohdi, directed by Evren Odcikin: 
+
+We are seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Workshop Production. Rehearsals begin October 28, 2024. Performs November 9 & 10, 2024.) 
 
 **Preparation** 
 
