@@ -1,6 +1,8 @@
 ---
 title: ReOrient 2023 Festival Celebrates a Resilient Return Under Sahar Assaf
 date: 2023-11-01T02:56:32.305Z
+description: October 13, 2023
+background: https://ucarecdn.com/a82e516f-569f-4f28-8500-9ff37b3f800a/
 ---
 *As a dramaturgy team member of the third partnership between [Golden Thread Productions](https://goldenthread.org/productions/reorient-2017/) and [Literary Managers and Dramaturgs of the Americas](https://lmda.org/), Publications Dramaturg Vidhu Singh takes you behind the scenes of this year’s ReOrient Festival of Short Plays and entices audiences with the aesthetic flavors this experience offers.* 
 
