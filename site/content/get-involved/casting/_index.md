@@ -12,7 +12,8 @@ sidebar:
 
 * **General Auditions** will take place in person on **Friday 2/02/23** by appointment between 11:00 AM to 4:00 PM.  
 * ***Return to Haifa* Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
-* ***Alaa: A Family Trilogy* Auditions** will take place in person on **Friday 2/09/2024** from 11:00 AM to 3:00 PM. 
+* ***Alaa: A Family Trilogy* Auditions** will take place in person on **Friday 2/09/2024** from 11:00 AM to 4:00 PM. 
+* **Callbacks** will take place in person on Monday 2/12/24 from 11:00 AM to 3:00 PM.
 
 **Seeking**
 
