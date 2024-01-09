@@ -17,7 +17,7 @@ sidebar:
 
 **Seeking**
 
-For* **Returning to Haifa*** by Ghassan Kanafani, adapted to the stage by Ismail Khalidi and Naomi Wallace, directed by Samer El Saber: 
+ForReturning to Haifa by Ghassan Kanafani, adapted to the stage by Ismail Khalidi and Naomi Wallace, directed by Samer El Saber: 
 
 We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
 
