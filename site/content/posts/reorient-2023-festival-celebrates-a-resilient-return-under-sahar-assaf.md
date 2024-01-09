@@ -4,6 +4,8 @@ date: 2023-11-01T02:56:32.305Z
 description: October 13, 2023
 background: https://ucarecdn.com/a82e516f-569f-4f28-8500-9ff37b3f800a/
 ---
+![]()
+
 *As a dramaturgy team member of the third partnership between [Golden Thread Productions](https://goldenthread.org/productions/reorient-2017/) and [Literary Managers and Dramaturgs of the Americas](https://lmda.org/), Publications Dramaturg Vidhu Singh takes you behind the scenes of this year’s ReOrient Festival of Short Plays and entices audiences with the aesthetic flavors this experience offers.* 
 
 **ABOUT VIDHU SINGH:** [Vidhu Singh](https://goldenthread.org/productions/reorient-2023/#open-modal-Vidhu%20Singh%2c%20Ph.D.) is a Dramaturg, Expressive Arts Facilitator, and advocate for South Asian theater. Cal Shakes honored her with the 2020 Luminary Award in dramaturgy. She holds a Master’s degree in Dramatic Art from UC Santa Barbara and a doctorate in Asian Theatre from UH Manoa.
@@ -15,6 +17,8 @@ Founded in 1996 by Torange Yeghiazarian, **Golden Thread Productions** has carve
 Sahar showed up with an appreciation for what Torange had fostered and a curiosity to understand the needs of the Golden Thread Productions community. During her first six months, she met one-on-one with over eighty community members, including funders, Resident Artists, board, and audience members, and heard them speak about what mattered most. Almost all of them unanimously upheld the **ReOrient Festival** as the program they cherished the most! Over a 2-year production cycle, Sahar has successfully brought back Golden Thread Productions’ core programs culminating in ReOrient 2023 Festival. 
 
 ReOrient 2023 is celebrating its triumphant return after a four-year hiatus since the pandemic delayed theatrical events worldwide, marking the 21st iteration of this signature program. It is the first ReOrient Festival co-produced by Sahar Assaf and Amal Bisharat, who is a Palestinian American multidisciplinary artist and Golden Thread’s artist-in-residence this year and, along with Sahar, one of five directors for the Festival. Golden Thread Resident Artist and Iranian American theatre artist Nakissa Etemad, who has guided previous ReOrient Festivals in its dramaturgy teams and casting, once again brings her wealth of producing and dramaturgy experience to the festival as its Lead Dramaturg. It’s a unique opportunity to witness such an ambitious venture helmed by three dynamic MENA (Middle Eastern North African) women theatremakers! 
+
+![Sahar Assaf welcomes the artists at the First Rehearsal of ReOrient 2023 on Sept 5th. (Photo: Nakissa Etemad) ]()
 
 **The ReOrient Model:** 
 
