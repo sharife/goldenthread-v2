@@ -10,14 +10,14 @@ sidebar:
 
 **Audition Dates** 
 
-* **General Auditions** will take place in person on **Friday 2/02/23** by appointment between 11:00 AM to 4:00 PM.  
+* **General Auditions** will take place in person on **Friday 2/02/23** by appointment from 11:00 AM to 4:00 PM.  
 * ***Returning to Haifa* Auditions** will take place in person on **Wednesday 2/07/2024** from 11:00 AM to 4:00 PM.
 * ***Alaa: A Family Trilogy* Auditions** will take place in person on **Friday 2/09/2024** from 11:00 AM to 4:00 PM. 
 * **Callbacks** will take place in person on Monday 2/12/24 from 11:00 AM to 3:00 PM.
 
 **Seeking**
 
-For *Returning to Haifa*: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Polish character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
+For *Returning to Haifa*: We are seeking women- and men-identifying actors to portray Palestinian characters in their 20s and 40s and a woman-identifying Israeli character in her 60s. (Rehearsals begin March 4, 2024. Performs April 12 through May 4, 2024).
 
 For *ALAA: A Family Trilogy*: We're seeking an ensemble of BIPOC actors of all backgrounds, ethnicities, genders, abilities, ages, etc. (Rehearsals begin October 28, 2024. Performs November 8, 9 and 10, 2024.) 
 
@@ -37,7 +37,7 @@ The deadline to request an appointment is **January 30, 2024 by 12 noon PT**, vi
 * Bay Area Theatre $400 weekly (20 hours/week, Intro Tier) or $20/hour.  
 
 **Location**
-The Annex, [Potrero Stage, 1695 18th Street, San Francisco, CA](https://goldenthread.org/about/visit/). 
+The Annex, [1695 18th Street, San Francisco, CA](https://goldenthread.org/about/visit/). 
 
 **Attending the Auditions** 
 
