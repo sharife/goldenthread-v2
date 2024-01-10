@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Act Now!
-subtitle: Support Our 2024 Season
-background: https://ucarecdn.com/8b9abf31-1b83-4072-97ac-d5f7d964a172/
-cta: Donate!
-link: https://goldenthread.org/donate/
+headline: Now Casting!
+subtitle: Audition for Our 2024 Season
+background: https://ucarecdn.com/a1d1fffd-c70f-4d69-8e7b-6b421395ddaa/
+cta: Come Play With Us!
+link: https://goldenthread.org/get-involved/casting/
 items:
   - subtitle: "**Watch The Gaza Monologues**"
     text: >-
