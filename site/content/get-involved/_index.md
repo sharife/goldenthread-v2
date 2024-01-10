@@ -15,7 +15,7 @@ We accept ongoing resumes with letters of interest in Golden Thread from stage m
 - - -
 
 **CASTING**\
-Casting for the 2023 Season has concluded. Thank you for your submissions! **[Learn more](/get-involved/casting/).**
+Casting for the 2024 Season is open! **[Learn more](/get-involved/casting/).**
 
 - - -
 
