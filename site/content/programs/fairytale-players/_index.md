@@ -28,8 +28,9 @@ description: >-
 sidebar:
   heading: ""
   text: >-
-    **Questions? Interested in staying informed about future performances? Email
-    us at [education@goldenthread.org](mailto:education@goldenthread.org).** 
+    **Interested in staying informed about future performances of the Golden
+    Thread Fairytale Players? Email us at
+    [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 
     Golden Thread Fairytale Players have performed for thousands of elementary students at schools aross the Bay Area, including John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School, Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary, Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School, Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon Alternative Elementary, George Peabody Elementary, Chinese Immersion School, Bryant Elementary School, Live Oak Elementary School, and more!
@@ -96,13 +97,11 @@ photos:
 ####  \
 Thank you to all the schools, libraries, students, teachers, parents and families who made this tour so successful!
 
-Our 2022-23 production was a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! 
+Our 2022-23 production was a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. We played 54 performances at 40 schools and libraries, with subsidy support from the Harbor Point Charitable Foundation for 21 performances. Nasrudin brought joy and laughter to over 6,000 audience members. 
 
-Our performances are ideal for children aged 5 - 15. The 50-minute presentation includes a 30-minute performance with audience participation, and a 20-minute Q&A with the artists. Convenient study guides and activities for grades K-5 which incorporate California Educational Standards for Performing Arts, History, Social Studies, and Language Arts are available to enhance the performance.
+This visually colorful performance featuring dynamic story-telling, dance, and music, was adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! 
 
-**Questions? Interested in staying informed about future performances? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).** 
-
-**Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
+**Interested in staying informed about future performances of the Golden Thread Fairytale Players? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 - - -
 
