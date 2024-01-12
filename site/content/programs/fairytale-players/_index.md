@@ -37,6 +37,16 @@ sidebar:
 lists:
   - heading: Repertoire of Tales
     items:
+      - image: /img/archive/2012/03/nasrudin-thumb.jpg
+        text: >
+          Will Nasrudin and his faithful donkey ever make it to Samarkand, the
+          center of arts and crafts on the ancient Silk Road? There is only one
+          way to find out! This visually colorful performance with dynamic
+          story-telling, dance and music is adapted from several folk tales
+          centered around the comedic personage, Nasrudin Hoja, a wise fool
+          renowned in Central Asia, Turkey, and Iran.
+        title: "Nasrudin's Magnificent Journey to Samarkand "
+        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
       - title: Leila's Quest For Flight
         text: When the optometrist shatters little Leila's dream of becoming a pilot, a
           menagerie of mythic birds gather to help her accomplish her
@@ -67,16 +77,6 @@ lists:
           Iranian New Year, Nowruz. 
         title: 21 Days that Change the Year
         link: https://goldenthread.org/productions/21-days-that-change-the-year/
-      - image: /img/archive/2012/03/nasrudin-thumb.jpg
-        text: >
-          Will Nasrudin and his faithful donkey ever make it to Samarkand, the
-          center of arts and crafts on the ancient Silk Road? There is only one
-          way to find out! This visually colorful performance with dynamic
-          story-telling, dance and music is adapted from several folk tales
-          centered around the comedic personage, Nasrudin Hoja, a wise fool
-          renowned in Central Asia, Turkey, and Iran.
-        title: Nasrudin's Magnificent Journey to Samarkand 2011
-        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
 grids:
   - items:
       - title: ""
