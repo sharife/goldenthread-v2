@@ -29,9 +29,7 @@ sidebar:
   heading: ""
   text: >-
     **Questions? Email us at
-    [education@goldenthread.org](mailto:education@goldenthread.org). Ready to
-    book a show? Complete our [booking
-    form](https://forms.gle/vJTevH4HYps8pLwT6).**
+    [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 
     Golden Thread Fairytale Players have performed for thousands of elementary students at schools aross the Bay Area, including John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School, Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary, Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School, Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon Alternative Elementary, George Peabody Elementary, Chinese Immersion School, Bryant Elementary School, Live Oak Elementary School, and more!
