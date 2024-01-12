@@ -36,7 +36,7 @@ sidebar:
 
     Golden Thread Fairytale Players have performed for thousands of elementary students at schools aross the Bay Area, including John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School, Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary, Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School, Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon Alternative Elementary, George Peabody Elementary, Chinese Immersion School, Bryant Elementary School, Live Oak Elementary School, and more!
 lists:
-  - heading: Past Productions
+  - heading: Repertoire of Tales
     items:
       - title: Leila's Quest For Flight
         text: When the optometrist shatters little Leila's dream of becoming a pilot, a
