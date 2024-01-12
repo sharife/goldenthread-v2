@@ -94,8 +94,7 @@ photos:
 ---
 ## Our 2022-23 Bay Area Schools and Libraries tour of *Nasrudin's Magnificent Journey to Samarkand* has concluded! 
 
-####  \
-Thank you to all the schools, libraries, students, teachers, parents and families who made this tour so successful!
+#### Thank you to all the schools, libraries, students, teachers, parents and families who made this tour so successful!
 
 Our 2022-23 production was a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. The visually colorful performance featured dynamic story-telling, dance, and music, and was adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance followed Nasrudin and his faithful donkey as they traveled through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently got him into trouble. Did Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There was only one way to find out! 
 
