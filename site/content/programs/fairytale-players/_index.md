@@ -46,7 +46,7 @@ lists:
           centered around the comedic personage, Nasrudin Hoja, a wise fool
           renowned in Central Asia, Turkey, and Iran.
         title: "Nasrudin's Magnificent Journey to Samarkand "
-        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
+        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand-2022/
       - title: Leila's Quest For Flight
         text: When the optometrist shatters little Leila's dream of becoming a pilot, a
           menagerie of mythic birds gather to help her accomplish her
