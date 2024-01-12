@@ -97,7 +97,7 @@ Our 2022-23 production was a new interpretation of a play from the **Golden Thre
 
 Our performances are ideal for children aged 5 - 15. The 50-minute presentation includes a 30-minute performance with audience participation, and a 20-minute Q&A with the artists. Convenient study guides and activities for grades K-5 which incorporate California Educational Standards for Performing Arts, History, Social Studies, and Language Arts are available to enhance the performance.
 
-**Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org). Ready to book a show? Complete our [booking form](https://forms.gle/vJTevH4HYps8pLwT6).**
+**Questions? Interested in staying informed about future performances? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 **Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
 
