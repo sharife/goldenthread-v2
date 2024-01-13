@@ -28,16 +28,25 @@ description: >-
 sidebar:
   heading: ""
   text: >-
-    **Questions? Email us at
-    [education@goldenthread.org](mailto:education@goldenthread.org). Ready to
-    book a show? Complete our [booking
-    form](https://forms.gle/vJTevH4HYps8pLwT6).**
+    **Interested in staying informed about future performances of the Golden
+    Thread Fairytale Players? Email us at
+    [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 
     Golden Thread Fairytale Players have performed for thousands of elementary students at schools aross the Bay Area, including John Muir Elementary, KZV Armenian School, Berkwood Hedge Elementary, Cesar Chavez Elementary, Tenderloin Elementary, Synergy Elementary, New School, Orion Alternative Elementary, Redding Elementary, Thousand Oaks Elementary, Palomares Elementary, Daniel Webster Elementary (SF), Sylvia Mendez School, Emerson Elementary, Daniel Webster Elementary (Daly City), Dolores Huerta Elementary, Guadalupe Elementary, Buena Vista Horace Mann, Clarendon Alternative Elementary, George Peabody Elementary, Chinese Immersion School, Bryant Elementary School, Live Oak Elementary School, and more!
 lists:
-  - heading: Past Productions
+  - heading: Repertoire of Tales
     items:
+      - image: /img/archive/2012/03/nasrudin-thumb.jpg
+        text: >
+          Will Nasrudin and his faithful donkey ever make it to Samarkand, the
+          center of arts and crafts on the ancient Silk Road? There is only one
+          way to find out! This visually colorful performance with dynamic
+          story-telling, dance and music is adapted from several folk tales
+          centered around the comedic personage, Nasrudin Hoja, a wise fool
+          renowned in Central Asia, Turkey, and Iran.
+        title: "Nasrudin's Magnificent Journey to Samarkand "
+        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand-2022/
       - title: Leila's Quest For Flight
         text: When the optometrist shatters little Leila's dream of becoming a pilot, a
           menagerie of mythic birds gather to help her accomplish her
@@ -68,16 +77,6 @@ lists:
           Iranian New Year, Nowruz. 
         title: 21 Days that Change the Year
         link: https://goldenthread.org/productions/21-days-that-change-the-year/
-      - image: /img/archive/2012/03/nasrudin-thumb.jpg
-        text: >
-          Will Nasrudin and his faithful donkey ever make it to Samarkand, the
-          center of arts and crafts on the ancient Silk Road? There is only one
-          way to find out! This visually colorful performance with dynamic
-          story-telling, dance and music is adapted from several folk tales
-          centered around the comedic personage, Nasrudin Hoja, a wise fool
-          renowned in Central Asia, Turkey, and Iran.
-        title: Nasrudin's Magnificent Journey to Samarkand 2011
-        link: https://goldenthread.org/productions/nasrudins-magnificent-journey-to-samarkand/
 grids:
   - items:
       - title: ""
@@ -93,15 +92,15 @@ photos:
     - image: /img/archive/2012/03/21Days-6-001.jpg
     - image: /img/archive/2012/03/Nasrudin_StudentThankYou4_McKineleyElem.jpg
 ---
-## Booking for the 2023 Bay Area Schools and Libraries tour of *Nasrudin's Magnificent Journey to Samarkand* has begun!
+## Our 2022-23 Bay Area Schools and Libraries tour of *Nasrudin's Magnificent Journey to Samarkand* has concluded! 
 
-Our 2023 production is a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. This visually colorful performance featuring dynamic story-telling, dance, and music, is adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance follows Nasrudin and his faithful donkey as they travel through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently get him into trouble. Will Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There is only one way to find out! 
+#### Thank you to all the schools, libraries, students, teachers, parents and families who made this tour so successful!
 
-Our performances are ideal for children aged 5 - 15. The 50-minute presentation includes a 30-minute performance with audience participation, and a 20-minute Q&A with the artists. Convenient study guides and activities for grades K-5 which incorporate California Educational Standards for Performing Arts, History, Social Studies, and Language Arts are available to enhance the performance.
+Our 2022-23 production was a new interpretation of a play from the **Golden Thread Fairytale Players** repertoire, ***Nasrudin’s Magnificent Journey to Samarkand***, written by Torange Yeghiazarian and directed by Sarah Al-Kassab. The visually colorful performance featuring dynamic story-telling, dance, and music, was adapted from folktales centered around the comedic personage, Nasrudin Hoja, a wise fool renowned in Central Asia, Turkey, and Iran. The performance followed Nasrudin and his faithful donkey as they traveled through caravansaries in Konya, Damascus, and Isfahan where Nasrudin’s clever wisdom and propensity for exposing hypocrisy frequently got him into trouble. Did Nasrudin and his faithful donkey ever make it to Samarkand, the center of arts and crafts on the ancient Silk Road? There was only one way to find out! 
 
-**Questions? Email us at [education@goldenthread.org](mailto:education@goldenthread.org). Ready to book a show? Complete our [booking form](https://forms.gle/vJTevH4HYps8pLwT6).**
+Over 54 performances at 40 schools and libraries, 21 of which were generously subsidized by the [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/), Nasrudin brought joy and laughter to 6,300 audience members. 
 
-**Golden Thread Fairytale Players is supported by generous grants from [Neda Nobari Foundation](http://nnf.foundation/) and [Harbor Point Charitable Foundation](https://www.hpcfgiving.org/).**
+**Interested in staying informed about future performances of the Golden Thread Fairytale Players? Email us at [education@goldenthread.org](mailto:education@goldenthread.org).** 
 
 - - -
 
