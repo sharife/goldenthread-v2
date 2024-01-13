@@ -37,7 +37,7 @@ sidebar:
 lists:
   - heading: Repertoire of Tales
     items:
-      - image: /img/archive/2012/03/nasrudin-thumb.jpg
+      - image: https://ucarecdn.com/08137c93-9c72-48ea-9646-79530cab6c66/
         text: >
           Will Nasrudin and his faithful donkey ever make it to Samarkand, the
           center of arts and crafts on the ancient Silk Road? There is only one
