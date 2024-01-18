@@ -136,7 +136,7 @@ This live recording of the Kunafa & Shay Theatre Podcast in partnership with Miz
 
 This conversation between ReOrient artists and audiences explores the intricate dynamics of crossing boundaries between playing roles from different parts of the Middle East. 
 
-[View the Digital Program here.](file:///Users/goldenthread/Desktop/FullProgram%20MENATMA%2023%20DIGITAL%20(10).pdf) 
+[View the Digital Program here.](https://www.flipsnack.com/goldenthread/menatma-2023-program.html) 
 
 #### PROGRAM COMMITTEE
 
