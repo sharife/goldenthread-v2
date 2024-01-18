@@ -18,7 +18,9 @@ This year’s convening is co-sponsored by [Silk Road Rising](https://www.silkro
 
 [View the Digital Program here.](https://www.flipsnack.com/goldenthread/menatma-2023-program.html) 
 
-In-person events take place at Potrero Stage and The Annex upstairs at 1695 18th Street, San Francisco, CA. Digital sessions were livestreamed on Howlround. **See the playlist of select sessions [here](https://www.youtube.com/playlist?list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw).**
+In-person events take place at Potrero Stage and The Annex upstairs at 1695 18th Street, San Francisco, CA. 
+
+Digital sessions were livestreamed on Howlround. **See the playlist of select sessions [here](https://www.youtube.com/playlist?list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw).**
 
 **Watch these sessions:** 
 
