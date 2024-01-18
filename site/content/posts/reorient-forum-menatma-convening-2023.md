@@ -162,6 +162,8 @@ This conversation between ReOrient artists and audiences explores the intricate 
 
 **Heather Rastovac Akbarzadeh**, Scholar-Artist and Dramaturg 
 
-Golden Thread Productions and Art2Action, Inc. were thrilled to co-produce and co-present the fourth annual convening of the Middle Eastern North African Theater Makers Alliance (MENATMA) which livestreamed on the global, commons-based, peer-produced HowlRound TV network on Saturday 28 October and Sunday 29 October 2023. 
+Golden Thread Productions and Art2Action, Inc. were thrilled to co-produce and co-present the fourth annual convening of the Middle Eastern North African Theater Makers Alliance (MENATMA) which livestreamed on the global, commons-based, peer-produced [HowlRound TV](https://howlround.com/happenings/fourth-annual-convening-middle-eastern-north-african-theater-makers-alliance-menatma) network on Saturday 28 October and Sunday 29 October 2023. 
+
+**Watch these sessions:** 
 
 [Convening Opening: MENA Theatre Advocacy Today](https://www.youtube.com/watch?v=nNR-4ATd4_c&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=2)
