@@ -166,4 +166,16 @@ Golden Thread Productions and Art2Action, Inc. were thrilled to co-produce and c
 
 **Watch these sessions:** 
 
-[Convening Opening: MENA Theatre Advocacy Today](https://www.youtube.com/watch?v=nNR-4ATd4_c&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=2)
+[Convening Opening: MENA Theatre Advocacy Today](https://www.youtube.com/watch?v=nNR-4ATd4_c&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=2) 
+
+[Sustainability and Self-Preservation: Palestinian Artists Speak Out](https://www.youtube.com/watch?v=ZY0KHDCK9ro&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=3) 
+
+[MENA Artists Leading in National Theatres](https://www.youtube.com/watch?v=MIvPxV9EuM0&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=4)  
+
+[MENA Theatres in Schools and Universities](https://www.youtube.com/watch?v=eerjmgu3Hr0&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=5) 
+
+[MENA Political Theatre At Home and in the Diaspora](https://www.youtube.com/watch?v=Yp-USyk_Fmc&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=6) 
+
+[Intercommunity Dialogue: Coalition Building with Other Networks](https://www.youtube.com/watch?v=Mu4tfTAOrss&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=7) 
+
+[Kunafa and Shay Live: Possibilities for Affinity Spaces with MENA/SWANA and LGBTQIA+ Artists](https://www.youtube.com/watch?v=D1fAjIgGirI&list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw&index=8)
