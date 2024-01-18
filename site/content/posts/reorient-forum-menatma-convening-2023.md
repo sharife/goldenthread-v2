@@ -158,8 +158,6 @@ This live recording of the Kunafa & Shay Theatre Podcast in partnership with Miz
 
 This conversation between ReOrient artists and audiences explores the intricate dynamics of crossing boundaries between playing roles from different parts of the Middle East. 
 
-[View the Digital Program here.](https://www.flipsnack.com/goldenthread/menatma-2023-program.html) 
-
 #### PROGRAM COMMITTEE
 
 **Sahar Assaf**, Executive Artistic Director, Golden Thread Productions 
@@ -183,6 +181,8 @@ This conversation between ReOrient artists and audiences explores the intricate 
 **Nabra Nelson**, Playwright 
 
 **Heather Rastovac Akbarzadeh**, Scholar-Artist and Dramaturg 
+
+[View the Digital Program here.](https://www.flipsnack.com/goldenthread/menatma-2023-program.html) 
 
 Golden Thread Productions and Art2Action, Inc. were thrilled to co-produce and co-present the fourth annual convening of the Middle Eastern North African Theater Makers Alliance (MENATMA) which livestreamed on the global, commons-based, peer-produced [HowlRound TV](https://howlround.com/happenings/fourth-annual-convening-middle-eastern-north-african-theater-makers-alliance-menatma) network on Saturday 28 October and Sunday 29 October 2023. **See the playlist of select sessions [here](https://www.youtube.com/playlist?list=PLSzuL0UBqcQ2uw-vJEFMcj-Va2Ed7ccuw).**
 
