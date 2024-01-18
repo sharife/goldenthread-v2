@@ -60,6 +60,8 @@ Festival Lead Dramaturg Nakissa Etemad played a pivotal role in guiding the grou
 **The ReOrient Ensemble:**
 On Day 2, a boisterous ensemble of actors joined the CAMP and the plays were heard out loud for the first time! The Festival’s versatile nine-person ensemble embody 17 roles: Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, John Fisher, Neamah Hussein, Rose McAvoy, John Pasha, AeJay Marquis Mitchell, and Arielle Tonkin. They are skillfully directed by Sahar Assaf, Susannah Martin, Adin Walker, Amal Bisharat, and Becca Wolff. 
 
+![Six of the Nine Actors at the ReOrient 2023 CAMP (l to r): Hamzeh Daoud, Neamah Hussein, John Fisher, Emily M. Keyishian, John Pasha, Rose McAvoy. (Photo: Amal Bisharat)](https://ucarecdn.com/7058b553-f98b-486c-a3cb-dafabf628aba/)
+
 After the first read-through of the six plays, the artists who gathered at CAMP ‘popcorned’ their impressions of the plays and explored *‘What’s the story of the festival we want to tell through these plays?’* It’s vital to capture the audience’s imagination with a narrative journey informed by a variety of styles and themes. With a short-play format, the story might punch you in the gut or evoke laughter, but by making a cohesive aesthetic experience in one evening the audience will be carried by the journey’s ebb and flow. Scenic design, sound & original compositions by Bahar Royaee, and lighting & projections by Maxwell Bowman will all enhance the storytelling. 
 
 **Order of Plays:** 
