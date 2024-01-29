@@ -1,5 +1,6 @@
 ---
 title: New Threads Staged Reading Series 2024
+season: 2024
 date: 2024-01-24T04:40:27.887Z
 start: 2024-01-24T04:40:27.894Z
 end: 2024-01-24T04:40:27.900Z
