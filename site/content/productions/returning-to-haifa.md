@@ -3,7 +3,7 @@ title: Returning to Haifa
 pre: West Coast Premiere
 season: 2024
 date: 2024-01-24T04:37:00.926Z
-start: 2024-04-13T03:37:00.000Z
+start: 2024-04-12T03:37:00.000Z
 end: 2024-05-05T03:37:00.951Z
 writer: "Ghassan Kanafani, adapted for the stage by Ismail Khalidi and Naomi Wallace "
 director: Samer Al Saber
