@@ -2,7 +2,7 @@
 title: 11 Reflections
 date: 2024-01-24T04:42:13.635Z
 start: 2024-10-04T03:42:13.642Z
-end: 2024-10-06T03:42:13.648Z
+end: 2024-10-05T03:42:13.648Z
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist)
