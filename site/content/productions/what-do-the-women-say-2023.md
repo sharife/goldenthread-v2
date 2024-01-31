@@ -18,7 +18,7 @@ description: >-
   who are true warriors in their own right. 
 
 
-  This year’s program will be presented in a hybrid format with artists appearing in-person and virtually. Audiences will be able to join us in-person at the Brava Theater or online for a virtual presentation.
+  This year’s program is presented in a hybrid format with artists appearing in-person and virtually. Audiences are able to join us in-person at the Brava Theater or online for a virtual presentation.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
 programlabel: Read the full digital program
