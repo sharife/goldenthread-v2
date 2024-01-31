@@ -79,9 +79,7 @@ Thank you for your interest in purchasing tickets! Our ticket pricing is a refle
 
 We offer a range of tickets prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
 
-**NAME YOUR PRICE** 
-
-
+**NAME YOUR PRICE** \
 Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple prices points at $50 and under. 
 
 **PAY IT FORWARD** \
