@@ -34,7 +34,7 @@ lists:
         text: >-
           By **Ghassan Kanafani**\
 
-          Adapted for the stage by **Ismail Khalidi** and **Naomi Wallace** \
+          Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**\
 
           Directed by **Samer Al Saber** 
 
