@@ -3,21 +3,8 @@ title: Buy Tickets
 lists:
   - heading: "What Do the Women Say? 2024: Expressions of Joy"
     items:
-      - pre: Presented live at **Brava Theater Center** (2781 24th Street, San
-          Francisco) and Online via **Livestream**
+      - pre: "Friday, May 8, 2024, at 8:00 PM PST "
         text: >-
-          Presented in a hybrid format with artists appearing in-person and
-          virtually. Audiences can join **[IN
-          PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)**
-          or online via
-          **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
-
-
-          Pre-sale tickets available now at a sliding scale of $25 - $100. Seating is general admission.
-        cta: Buy now!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
-        title: "Friday, May 8, 2024, at 8:00 PM PST "
-        subtitle: >-
           The 2024 edition of our annual celebration of International Women’s
           Day, **What Do the Women Say? 2024: Expressions of Joy** will
           celebrate the resilience and richness of Palestinian traditions and
@@ -28,6 +15,17 @@ lists:
 
 
           This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show.
+
+
+          Presented in a hybrid format with artists appearing in-person and virtually. Audiences can join **[IN PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)** or online via **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
+
+
+          Pre-sale tickets available now at a sliding scale of $25 - $100. Seating is general admission.
+        cta: Buy now!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
+        title: Annual Celebration of International Women’s Day
+        subtitle: Presented live at Brava Theater Center (2781 24th Street, San
+          Francisco) and Online via Livestream
   - heading: Return to Haifa
     items:
       - pre: West Coast Premiere
