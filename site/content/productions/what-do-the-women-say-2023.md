@@ -9,16 +9,16 @@ heading: "This year's theme: Fighters for Freedom"
 description: >-
   In celebration of [International Women’s
   Day](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom),
-  Golden Thread’s *What Do the Women Say?* returns to the Brava Theater. This
-  year’s program will be presented in a hybrid format with artists appearing
-  in-person and virtually. Audiences will be able to join us in-person at the
-  Brava Theater or online for a virtual presentation.  
+  Golden Thread’s *What Do the Women Say?* returns to the Brava Theater.
+  **Fighters for Freedom** is our theme this year, aligning with the
+  International Women’s Day global theme
+  [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom).
+  We are thrilled to present the tireless and bold work of women artists from
+  Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S.
+  who are true warriors in their own right. 
 
 
-  A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
-
-
-  **Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S. who are true warriors in their own right.
+  This year’s program will be presented in a hybrid format with artists appearing in-person and virtually. Audiences will be able to join us in-person at the Brava Theater or online for a virtual presentation.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
 programlabel: Read the full digital program
@@ -286,4 +286,6 @@ Featuring the work of Middle Eastern women artists who are fighting against inju
 * emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
 * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq, featuring **Jennifer Jean**, **Hanaa Mohammed**, **Letta Neely**, **Thawra Yaqoub** and **Elham Nasser** **Al-Zabaidy**. 
 
-Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
+Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations. 
+
+A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
