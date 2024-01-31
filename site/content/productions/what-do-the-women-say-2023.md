@@ -5,7 +5,7 @@ season: 2023
 date: 2022-11-29T01:22:55.313Z
 start: 2023-03-08T08:00:00.000Z
 end: ""
-heading: "This year's theme: Fighters for Freedom"
+heading: Fighters for Freedom
 description: >-
   In celebration of [International Women’s
   Day](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom),
