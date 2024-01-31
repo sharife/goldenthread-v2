@@ -22,6 +22,8 @@ visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
 ---
+Playwright Ghassan Kanafani (1936-1972), “one of the most prominent novelists and modernist playwrights who enriched Palestinian culture with their creativity,” was assassinated by the Israeli Mossad, at just thirty-six years old. The novella *Returning to Haifa* was published in 1969, and has been adapted for film and television as well as for the stage. 
+
 “A moving confrontation between two sets of displaced people and an utterly unsentimental exploration of the complexities of home, history and parenthood.” - Michael Billington, The Guardian, 5 March 2018 
 
 "*Returning to Haifa* is a beautiful and important play portraying the personal tragedies created because of much bigger acts between humans." - Nabila Said, Exeunt Magazine, 24 March 2018
