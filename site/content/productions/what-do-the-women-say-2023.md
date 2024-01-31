@@ -15,21 +15,10 @@ description: >-
   Brava Theater or online for a virtual presentation.  
 
 
-  Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by:
+  A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
 
 
-  * **Marjan Vahdat**, Persian vocalist; 
-
-  * **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; 
-
-  * **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; 
-
-  * emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
-
-  * **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq, featuring **Jennifer Jean**, **Hanaa Mohammed**, **Letta Neely**, **Thawra Yaqoub** and **Elham Nasser** **Al-Zabaidy**. 
-
-
-  Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
+  **Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S. who are true warriors in their own right.
 background: ""
 titleimage: https://ucarecdn.com/6ad4ac18-82d7-464c-8081-e6b78c03967b/
 programlabel: Read the full digital program
@@ -289,6 +278,12 @@ bottom:
 
     [Art2Action](https://www.art2action.org/), [Crescent Moon Theatre Productions](https://www.crescentmoontheaterproductions.com/), [Her Story Is](https://www.fortpointtheatrechannel.org/her-story-is), [Iraqi + American Reconciliation Project](https://reconciliationproject.org/)
 ---
-A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality. 
+Featuring the work of Middle Eastern women artists who are fighting against injustice through their art, this year’s program will include presentations by:
 
-**Fighters for Freedom** is our theme this year, aligning with the International Women’s Day global theme [\#EmbraceEquity](https://www.internationalwomensday.com/Activity/18882/What-Do-the-Women-Say-Fighters-for-Freedom). We are thrilled to present the tireless and bold work of women artists from Iraq, Iran, Afghanistan, Syria, Lebanon, Yemen, Palestine, Egypt and the U.S. who are true warriors in their own right.
+* **Marjan Vahdat**, Persian vocalist; 
+* **Lujain Jo**, an Iraqi filmmaker, activist, and performance artist based in Beirut; 
+* **Andrea Assaf**, writer, performer, director, and cultural organizer along with Syrian coloratura soprano **Lubana Al-Quntar** from **Art2Action**; 
+* emerging Afghan performer **Mahjabin Khanzada** directed by **Polina Smith** from **Crescent Moon Theatre Productions** and accompanied by Yemeni oud artist **Layle Omeran**; and 
+* **Her Story Is**, a collective led by independent women writers and artists from the United States and Iraq, featuring **Jennifer Jean**, **Hanaa Mohammed**, **Letta Neely**, **Thawra Yaqoub** and **Elham Nasser** **Al-Zabaidy**. 
+
+Executive Artistic Director **Sahar Assaf** will facilitate a conversation between the participating artists and the audience following the presentations.
