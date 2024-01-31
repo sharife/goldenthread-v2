@@ -28,8 +28,11 @@ lists:
           Francisco) and Online via Livestream
   - heading: Return to Haifa
     items:
-      - pre: West Coast Premiere
-        subtitle: >-
+      - pre: April 12 - May 4, 2024 at Potrero Stage (1695 18th Street, San Francisco,
+          CA 94107)
+        subtitle: ""
+        title: West Coast Premiere
+        text: >-
           By **Ghassan Kanafani**
 
 
@@ -40,11 +43,9 @@ lists:
 
 
           In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? *Returning to Haifa* presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose.
-        title: April 12 - May 4, 2024 at Potrero Stage (1695 18th Street, San Francisco,
-          CA 94107)
-        text: >-
-          Performances run every **Thursday***, **Friday**, and **Saturday at 8
-          pm** and **Sundays at 3 pm**
+
+
+          Performances run every Thursday*, Friday, and Saturday at 8 pm and Sundays at 3 pm
 
 
           Pre-sale tickets available at a sliding scale starting at $20 for Previews, $30 - $100 for General Admission.
@@ -53,16 +54,16 @@ lists:
           **Special dates**
 
 
-          April 12, 13, 14 — **Pay-What-You-Want Previews**\*\*
+          April 12, 13, 14 — Pay What You Want Previews\*\*
 
 
-          April 15 — **Opening night!**
+          April 15 — Opening night!
 
 
-          April 21 — **Masked-required** **performance**  
+          April 21 — Masked-required performance  
 
 
-          May 5 - May 12, 2024 — **[Video on Demand](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** **viewing period**
+          May 5 - May 12, 2024 — [Video on Demand](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ) viewing period
 
 
           *\*No performance on Thursday, April 18. Additional performance on Wednesday, May 1.* 
@@ -72,7 +73,7 @@ lists:
 
           \
 
-          For more information a﻿bout our ticket pricing and policies, scroll d﻿own to t﻿he **Golden Thread Ticketing Policies** section.
+          For more information a﻿bout our ticket pricing and policies, scroll d﻿own to t﻿he Golden Thread Ticketing Policies section.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
         cta: Buy now!
 ---
