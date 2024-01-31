@@ -81,33 +81,36 @@ lists:
 - - -
 
 **GOLDEN THREAD TICKETING POLICIES**
-In our continuing efforts to provide an equitable and accessible theatre experience for all, we recently revised our ticketing policies and pricing structure to better reflect three fundamental values we hold that we believe foster a just, inclusive and community-driven space.
+Thank you for your interest in purchasing tickets! Our ticket pricing is a reflection of our continuing efforts to provide an equitable and accessible theatre experience for all. It is  driven by three fundamental values we hold that we believe foster a just, inclusive and community-driven space. 
 
 * All artists, staff, cast, and crew deserve fair and equal compensation.
-* Everyone should be able to access all available ticket prices.
+* Everyone should have access to a ticket price they find affordable. 
 * No one should be turned away for lack of funds.
 
-We have eliminated gatekeeping practices such as exclusive access to prices via discount codes, student/senior status, or group sales and are instead offering a broader range of ticket prices designed to achieve fair wages for our artists while maintaining financial flexibility for our audiences. These include the following ticket categories:
+We offer a range of tickets prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
 
 **NAME YOUR PRICE** 
-Ranging from $20 to $40, Name Your Price tickets offer a range of options, reflecting our more traditional prices. If you previously purchased $20 Thursday tickets, Student/Senior tickets, or General Admission tickets, these are for you!
+Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple prices points at $50 and under. 
 
 **PAY IT FORWARD** 
-Ranging from $50 to $100, Pay It Forward tickets are intentionally priced to support our goal of increasing access to low and no cost tickets, like our Community Walk-ins, each night, for every show. When you purchase one of these tickets, you’re contributing to greater access for all!
+Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are intentionally set at multiple price points up to $100 to support access to low-to-no cost tickets, like our Community Walk-ins. 
 
 **PAY WHAT YOU WANT PREVIEWS**
-A self-determined sliding scale, Pay What You Want tickets are available for any preview performance when you pay at the door. (Unfortunately, our box office software can’t do it in advance.) You can also purchase in advance online for only $15.
+A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
 
 **COMMUNITY WALK-INS**
-A consistent low or no cost option, Community Walk-ins are intended to ensure no one is turned away for lack of funds. 5% of all our seats are set aside each night and can be requested in advance by emailing us at boxoffice@goldenthread.org under the subject line ‘Community Walk-in’ or at the door subject to availability. 
+5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. 
+
+**AEA WALK-INS** \
+We welcome all current AEA members to redeem complimentary walk-in tickets to any main stage show, except opening night, pending availability. You may email ahead of time to check availability, but there is no need to contact us in advance as all walk-ins are based solely on availability. We offer one seat per member, but may accommodate one additional guest when possible. 
 
 **GENERAL BOX OFFICE INFORMATION**
-For assistance with any box office related issue, please email boxoffice@goldenthread.org.
+For assistance with any box office related issue, please email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).
 
 **Ticket Policies:**
 
 * Ticket purchases are non-refundable and valid only for the date and performance issued.
-* Free exchanges for a later date or a future show can be made via email subject to availability.
+* Free exchanges for a later date or a future show are subject to availability. Requests can be made to the box office via email.
 * All seating is general admission unless otherwise specified.
 * All tickets are available for pick up at will call under the name of the purchaser.
 * Online ticket sales end 4 hours before show time.
