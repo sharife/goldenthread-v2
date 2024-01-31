@@ -17,6 +17,7 @@ description: >-
 
 
   This year’s program is presented in a hybrid format with artists appearing in-person and virtually. Audiences are able to join us in-person at the Brava Theater or online for a virtual presentation.
+titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
 stage: "Brava Theater Center "
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
