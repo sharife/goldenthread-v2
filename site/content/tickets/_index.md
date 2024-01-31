@@ -3,12 +3,16 @@ title: Buy Tickets
 lists:
   - heading: "What Do the Women Say? 2024: Expressions of Joy"
     items:
-      - pre: Brava Theater Center (2781 24th Street, San Francisco) or via Livestream
+      - pre: An Annual Celebration of International Women’s Day
         text: >-
-          The 2024 edition of our annual celebration of International Women’s
-          Day, **What Do the Women Say? 2024: Expressions of Joy** will
-          celebrate the resilience and richness of Palestinian traditions and
-          culture through the works of Palestinian women artists.
+          Presented in a hybrid format with artists appearing in-person and
+          virtually. Audiences can join **[IN
+          PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)**
+          or online via
+          **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
+
+
+          The 2024 edition of our annual celebration of International Women’s Day, **What Do the Women Say? 2024: Expressions of Joy** will celebrate the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
 
 
           It will feature Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
@@ -17,25 +21,20 @@ lists:
           This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show.
 
 
-          Presented in a hybrid format with artists appearing in-person and virtually. Audiences can join **[IN PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)** or online via **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
-
-
           Pre-sale tickets available at a sliding scale of **$25 - $100**. Seating is general admission.
         cta: BUY NOW
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
-        title: Friday, May 8, 2024, at 8 PM (PST)
-        subtitle: An Annual Celebration of International Women’s Day
+        title: Friday, May 8, 2024, 8 PM at Brava Theater Center
+        subtitle: ""
   - heading: Return to Haifa
     items:
-      - pre: Potrero Stage (1695 18th Street, San Francisco, CA 94107)
-        subtitle: W﻿est Coast Premiere
-        title: April 12 - May 4, 2024
+      - pre: W﻿est Coast Premiere
+        subtitle: ""
+        title: April 12 - May 4, 2024 at Potrero Stage
         text: >-
-          By **Ghassan Kanafani**
+          By **Ghassan Kanafani**\
 
-
-          Adapted for the stage by **Ismail Khalidi** and **Naomi Wallace** 
-
+          Adapted for the stage by **Ismail Khalidi** and **Naomi Wallace** \
 
           Directed by **Samer Al Saber** 
 
