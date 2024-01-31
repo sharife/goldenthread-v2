@@ -3,7 +3,7 @@ title: Buy Tickets
 lists:
   - heading: "What Do the Women Say? 2024: Expressions of Joy"
     items:
-      - pre: "Friday, May 8, 2024, at 8:00 PM PST "
+      - pre: Brava Theater Center (2781 24th Street, San Francisco) or via Livestream
         text: >-
           The 2024 edition of our annual celebration of International Women’s
           Day, **What Do the Women Say? 2024: Expressions of Joy** will
@@ -21,17 +21,15 @@ lists:
 
 
           Pre-sale tickets available at a sliding scale of **$25 - $100**. Seating is general admission.
-        cta: Buy now!
+        cta: BUY NOW
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
-        title: Annual Celebration of International Women’s Day
-        subtitle: Presented live at Brava Theater Center (2781 24th Street, San
-          Francisco) and Online via Livestream
+        title: Friday, May 8, 2024, at 8 PM (PST)
+        subtitle: An Annual Celebration of International Women’s Day
   - heading: Return to Haifa
     items:
-      - pre: April 12 - May 4, 2024 at Potrero Stage (1695 18th Street, San Francisco,
-          CA 94107)
-        subtitle: ""
-        title: West Coast Premiere
+      - pre: Potrero Stage (1695 18th Street, San Francisco, CA 94107)
+        subtitle: W﻿est Coast Premiere
+        title: April 12 - May 4, 2024
         text: >-
           By **Ghassan Kanafani**
 
@@ -68,7 +66,7 @@ lists:
 
           Pre-sale tickets available at a sliding scale of **$30 - $100**. Seating is general admission.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
-        cta: "Buy now! "
+        cta: BUY NOW
 ---
 - - -
 
