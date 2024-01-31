@@ -12,7 +12,7 @@ description: In the wake of the 1967 Six-Day War, with the borders finally open
   return? *Returning to Haifa* presents a deeply human portrait of two families,
   one Palestinian, and one Jewish, forced by history into an intimacy they
   didn’t choose.
-writer: "Ghassan Kanafani, adapted for the stage by Ismail Khalidi and Naomi Wallace "
+writer: "Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi "
 director: Samer Al Saber
 additional: based on the novella by Ghassan Kanafani
 stage: Potrero Stage
