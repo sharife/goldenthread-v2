@@ -20,7 +20,7 @@ lists:
           Presented in a hybrid format with artists appearing in-person and virtually. Audiences can join **[IN PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)** or online via **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
 
 
-          Pre-sale tickets available now at a sliding scale of $25 - $100. Seating is general admission.
+          Pre-sale tickets available at a sliding scale of **$25 - $100**. Seating is general admission.
         cta: Buy now!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
         title: Annual Celebration of International Women’s Day
@@ -48,34 +48,27 @@ lists:
           Performances run every Thursday*, Friday, and Saturday at 8 pm and Sundays at 3 pm
 
 
-          Pre-sale tickets available at a sliding scale starting at $20 for Previews, $30 - $100 for General Admission.
+          **Special dates:**
 
 
-          **Special dates**
+          * April 12, 13, 14 — Pay What You Want Previews\*\*
+
+          * April 15 — Opening night!
+
+          * April 21 — Masked-required performance  
+
+          * May 5 - May 12, 2024 — **[VIDEO ON DEMAND](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** viewing period
 
 
-          April 12, 13, 14 — Pay What You Want Previews\*\*
+          *\* No performance on Thursday, April 18. Additional performance on **Wednesday, May 1**.* \
 
-
-          April 15 — Opening night!
-
-
-          April 21 — Masked-required performance  
-
-
-          May 5 - May 12, 2024 — [Video on Demand](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ) viewing period
-
-
-          *\*No performance on Thursday, April 18. Additional performance on Wednesday, May 1.* 
-
-
-          *\*\*Pay-What-You-Want Preview tickets are available at-the-door only, with online pre-sales starting at $20.* \
+          *\*\* Pay-What-You-Want Preview tickets available at-the-door only, with online pre-sales starting at $20.* \
 
           \
 
-          For more information a﻿bout our ticket pricing and policies, scroll d﻿own to t﻿he Golden Thread Ticketing Policies section.
+          Pre-sale tickets available at a sliding scale of **$30 - $100**. Seating is general admission.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
-        cta: Buy now!
+        cta: "Buy now! "
 ---
 - - -
 
