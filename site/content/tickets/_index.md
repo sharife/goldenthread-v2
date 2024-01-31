@@ -24,7 +24,7 @@ lists:
           Pre-sale tickets available at a sliding scale of **$25 - $100**. Seating is general admission.
         cta: BUY NOW
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
-        title: Friday, May 8, 2024, 8 PM at Brava Theater Center
+        title: Friday, March 8, 2024, 8 PM at Brava Theater Center
         subtitle: ""
   - heading: Return to Haifa
     items:
