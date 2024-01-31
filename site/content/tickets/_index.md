@@ -1,31 +1,82 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: Online reading of 'The Gaza Monologues' by Ashtar Theatre Palestine
+  - heading: "What Do the Women Say? 2024: Expressions of Joy"
     items:
-      - pre: Wednesday, Nov 29, 2023, at 12:00 noon Pacific time (online only) - via
-          Zoom
+      - pre: Presented live at **Brava Theater Center** (2781 24th Street, San
+          Francisco) and Online via **Livestream**
         text: >-
-          **Golden Thread Productions** and **Aviva Arts** are collaborating in
-          their response to the urgent call put out by **ASHTAR Theatre** to
-          theater makers around the world to publicly read or perform *The Gaza
-          Monologues* on November 29th, 2023, the International Day of
-          Solidarity with the Palestinian People - a significant day for those
-          who value justice, equality, and freedom for the Palestinian people.
+          Presented in a hybrid format with artists appearing in-person and
+          virtually. Audiences can join **[IN
+          PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)**
+          or online via
+          **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
 
 
-           *The Gaza Monologues* are testimonies written by ASHTAR youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They are highlighting the horrors, hopes, and resilience of the courageous Gazans to a wider audience, bringing out the voices of children and people in Gaza.
+          Pre-sale tickets available now at a sliding scale of $25 - $100. Seating is general admission.
+        cta: Buy now!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
+        title: "Friday, May 8, 2024, at 8:00 PM PST "
+        subtitle: >-
+          The 2024 edition of our annual celebration of International Women’s
+          Day, **What Do the Women Say? 2024: Expressions of Joy** will
+          celebrate the resilience and richness of Palestinian traditions and
+          culture through the works of Palestinian women artists.
 
 
-          **Golden Thread** and **Aviva Arts**' reading of *The Gaza Monologues* will be presented in multiple languages.
+          It will feature Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
 
 
-          Online registration is **FREE**
+          This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show.
+  - heading: Return to Haifa
+    items:
+      - pre: West Coast Premiere
+        subtitle: >-
+          By **Ghassan Kanafani**
 
 
-          *Once your registration is complete, you will receive a confirmation email with a link for your viewing.*
-        cta: Register now
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SHs00000VZWr7MAH
+          Adapted for the stage by **Ismail Khalidi** and **Naomi Wallace** 
+
+
+          Directed by **Samer Al Saber** 
+
+
+          In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? *Returning to Haifa* presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose.
+        title: April 12 - May 4, 2024 at Potrero Stage (1695 18th Street, San Francisco,
+          CA 94107)
+        text: >-
+          Performances run every **Thursday***, **Friday**, and **Saturday at 8
+          pm** and **Sundays at 3 pm**
+
+
+          Pre-sale tickets available at a sliding scale starting at $20 for Previews, $30 - $100 for General Admission.
+
+
+          **Special dates**
+
+
+          April 12, 13, 14 — **Pay-What-You-Want Previews**\*\*
+
+
+          April 15 — **Opening night!**
+
+
+          April 21 — **Masked-required** **performance**  
+
+
+          May 5 - May 12, 2024 — **[Video on Demand](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** **viewing period**
+
+
+          *\*No performance on Thursday, April 18. Additional performance on Wednesday, May 1.* 
+
+
+          *\*\*Pay-What-You-Want Preview tickets are available at-the-door only, with online pre-sales starting at $20.* \
+
+          \
+
+          For more information a﻿bout our ticket pricing and policies, scroll d﻿own to t﻿he **Golden Thread Ticketing Policies** section.
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
+        cta: Buy now!
 ---
 - - -
 
