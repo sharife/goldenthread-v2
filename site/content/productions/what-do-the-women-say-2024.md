@@ -6,6 +6,17 @@ date: 2024-01-24T03:38:03.816Z
 start: 2024-03-08T03:38:03.828Z
 end: 2024-03-08T03:38:03.853Z
 heading: Expressions of Joy
+description: >-
+  In celebration of [International Women’s
+  Day](https://www.internationalwomensday.com/), Golden Thread’s **What Do the
+  Women Say?** returns to the Brava Theater. **Expressions of Joy** is our theme
+  this year, aligning with the International Women’s Day global theme
+  [\#InspireInclusion](https://www.internationalwomensday.com/Theme). We
+  celebrate the resilience and richness of Palestinian traditions and culture
+  through the works of Palestinian women artists. 
+
+
+  This year’s program will be presented in a hybrid format with artists appearing in-person and virtually. Audiences will be able to join us in-person at the Brava Theater or online for a virtual presentation.
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
 ---
@@ -15,4 +26,4 @@ It will feature Palestinian melodies sung by the Aswat ensemble in an homage to 
 
 This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show. 
 
-Presented in a hybrid format with artists appearing in-person and virtually. Audiences can join in person or online.
+A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
