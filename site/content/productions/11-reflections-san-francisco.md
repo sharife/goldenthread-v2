@@ -3,6 +3,7 @@ title: "11 Reflections: San Francisco"
 date: 2024-01-24T04:42:13.635Z
 start: 2024-10-04T03:42:13.642Z
 end: 2024-10-05T03:42:13.648Z
+titleimage: https://ucarecdn.com/b4503e64-4d0c-4cd1-b47a-8ae28284bbfd/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist)
