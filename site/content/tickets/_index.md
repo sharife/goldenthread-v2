@@ -21,12 +21,12 @@ lists:
           This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show.
 
 
-          Pre-sale tickets available at a sliding scale of **$25 - $100**. Seating is general admission.
+          Pre-sale tickets available at a range of **$25 - $100**. Seating is general admission.
         cta: BUY NOW
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
         title: Friday, March 8, 2024, 8 PM at Brava Theater Center
         subtitle: ""
-  - heading: Return to Haifa
+  - heading: Returning to Haifa
     items:
       - pre: W﻿est Coast Premiere
         subtitle: ""
@@ -63,7 +63,7 @@ lists:
 
           \
 
-          Pre-sale tickets available at a sliding scale of **$30 - $100**. Seating is general admission.
+          Pre-sale tickets available at a range of **$30 - $100**. Seating is general admission.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
         cta: BUY NOW
 ---
