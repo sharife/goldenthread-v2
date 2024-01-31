@@ -82,15 +82,17 @@ Thank you for your interest in purchasing tickets! Our ticket pricing is a refle
 We offer a range of tickets prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
 
 **NAME YOUR PRICE** 
+
+
 Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple prices points at $50 and under. 
 
-**PAY IT FORWARD** 
+**PAY IT FORWARD** \
 Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are intentionally set at multiple price points up to $100 to support access to low-to-no cost tickets, like our Community Walk-ins. 
 
-**PAY WHAT YOU WANT PREVIEWS**
+**PAY WHAT YOU WANT PREVIEWS**\
 A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
 
-**COMMUNITY WALK-INS**
+**COMMUNITY WALK-INS**\
 5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. 
 
 **AEA WALK-INS** \
