@@ -17,8 +17,11 @@ description: >-
 
 
   This year’s program is presented in a hybrid format with artists appearing in-person and virtually. Audiences are able to join us in-person at the Brava Theater or online for a virtual presentation.
+stage: "Brava Theater Center "
+address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
+ticketinfo: "Tickets $25 - $100. No one turned away for lack of funds. "
 ---
 This year's edition of our annual celebration of International Women’s Day, *What Do the Women Say? 2024: Expressions of Joy* celebrates the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists. 
 
