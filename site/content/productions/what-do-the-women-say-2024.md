@@ -3,8 +3,8 @@ title: What Do the Women Say? 2024
 pre: a celebration of International Women's Day
 season: 2024
 date: 2024-01-24T03:38:03.816Z
-start: 2024-03-09T03:38:03.828Z
-end: 2024-03-09T03:38:03.853Z
+start: 2024-03-08T03:38:03.828Z
+end: 2024-03-08T03:38:03.853Z
 heading: Expressions of Joy
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
