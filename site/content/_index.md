@@ -3,8 +3,8 @@ title: Middle East Center Stage
 headline: Join Us!
 subtitle: ""
 background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
-cta: Buy Tickets!
-link: https://goldenthread.org/tickets/
+cta: Learn More!
+link: https://goldenthread.org/season/
 items:
   - subtitle: "**What Do the Women Say? 2024**"
     text: >-
