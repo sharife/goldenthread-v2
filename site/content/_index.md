@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: Now Casting!
-subtitle: Audition for Our 2024 Season
-background: https://ucarecdn.com/a1d1fffd-c70f-4d69-8e7b-6b421395ddaa/
-cta: Sign Up Today!
+headline: Join Us!
+subtitle: ""
+background: https://ucarecdn.com/8c43492c-06dc-4157-929b-a794ceaaf375/
+cta: Buy Tickets!
 link: https://goldenthread.org/get-involved/casting/
 items:
   - subtitle: "**Watch The Gaza Monologues**"
