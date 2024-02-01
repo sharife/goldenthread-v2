@@ -41,7 +41,7 @@ items:
     link: https://goldenthread.org/tickets/
   - subtitle: "**11 Reflections: September**"
     text: >-
-      West Coast Premiere 
+      West Coast Premiere  
 
 
 
