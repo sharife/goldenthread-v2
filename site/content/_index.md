@@ -4,7 +4,7 @@ headline: Join Us!
 subtitle: ""
 background: https://ucarecdn.com/8c43492c-06dc-4157-929b-a794ceaaf375/
 cta: Buy Tickets!
-link: https://goldenthread.org/get-involved/casting/
+link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**Watch The Gaza Monologues**"
     text: >-
