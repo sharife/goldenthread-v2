@@ -42,20 +42,22 @@ items:
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/tickets/
-  - image: https://ucarecdn.com/6574a4e3-61db-41c9-9162-35b635abba84/
-    subtitle: "**Support Our Season for Palestine**"
-    cta: Donate Now!
-    link: https://goldenthread.org/donate/
+  - subtitle: "**11 Reflections: September**"
     text: >-
-      Thanks to your support, in 2023 we engaged over 90 artists and gave over
-      4,500 audience members access to over 50 unforgettable performances!
+      West Coast Premiere
+
+      11 Reflections: San Francisco is part of a new national series of performance works, Eleven Reflections on the Nation, devised by Andrea Assaf. The project draws on her seminal work, Eleven Reflections on September, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine. 
 
 
-      Since its inception, Golden Thread has been dedicated to highlighting our shared humanity and challenging negative stereotypes and misinformed narratives about the Middle East. That mission has taken on even greater urgency today.
+      Created and directed by Andrea Assaf
+
+      Featuring acclaimed Syrian opera singer Lubana Al Quntar
+
+      and Turkish composer and violinist Eylem Basaldi 
 
 
-      We recognize the continuing significance of our work as we witness the Western media blatantly dehumanize and silence Palestinian voices enduring the atrocities of war. And we are taking action by dedicating our entire 2024 season to Palestine.
-
-
-      Please consider making a contribution today and join us for our 2024 Season for Palestine!
+      October 4 - 5, 2024
+    image: https://ucarecdn.com/28740959-52f6-474e-a215-85d74e4c304b/
+    cta: "Buy Tickets! "
+    link: https://goldenthread.org/tickets/
 ---
