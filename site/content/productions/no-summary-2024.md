@@ -1,8 +1,8 @@
 ---
 title: No Summary 2024
 date: 2024-01-24T04:39:48.405Z
-start: 2024-01-24T04:39:48.417Z
-end: 2024-01-24T04:39:48.426Z
+start: 2024-05-24T03:39:48.417Z
+end: 2024-06-14T03:39:48.426Z
 description: Now entering its fifth consecutive year, our digital conversation
   series No Summary will feature conversations with theatre companies in
   Palestine.
