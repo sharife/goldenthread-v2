@@ -26,6 +26,7 @@ lists:
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
         title: Friday, March 8, 2024, 8 PM at Brava Theater Center
         subtitle: ""
+        image: https://ucarecdn.com/8fd8e1db-4320-4ae6-a25a-167ed2d91c54/
   - heading: Returning to Haifa
     items:
       - pre: W﻿est Coast Premiere
@@ -66,6 +67,7 @@ lists:
           Pre-sale tickets available at a range of **$30 - $100**. Seating is general admission.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
         cta: BUY NOW
+        image: https://ucarecdn.com/9ea2dc26-8c83-41cc-a4c7-ec52d08dd967/
   - heading: "11REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
@@ -89,6 +91,7 @@ lists:
 
           For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email [info@brava.org](mailto:info@brava.org)
         text: ""
+        image: https://ucarecdn.com/c9db72c5-dd1f-473d-ac96-4033d073fa9e/
 ---
 - - -
 
