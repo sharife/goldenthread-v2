@@ -28,11 +28,13 @@ items:
       In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? Returning to Haifa presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn’t choose.  
 
 
-      by Ghassan Kanafani
+      **[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)**
 
-      Adapted for the stage by Naomi Wallace and Ismail Khalidi
+      by **Ghassan Kanafani**
 
-      Directed by Samer Al-Saber 
+      Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**
+
+      Directed by **Samer Al-Saber**
 
 
       April 12 - May 4, 2024
@@ -45,14 +47,14 @@ items:
 
 
 
-      11 Reflections: San Francisco is part of a new national series of performance works, Eleven Reflections on the Nation, devised by Andrea Assaf. The project draws on her seminal work, Eleven Reflections on September, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine. 
+      **[11 Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** is part of a new national series of performance works, **Eleven Reflections on the Nation**, devised by **Andrea Assaf**. The project draws on her seminal work, **Eleven Reflections on September**, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine. 
 
 
-      Created and directed by Andrea Assaf
+      Created and directed by **Andrea Assaf**
 
-      Featuring acclaimed Syrian opera singer Lubana Al Quntar
+      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**
 
-      and Turkish composer and violinist Eylem Basaldi 
+      and Turkish composer and violinist **Eylem Basaldi** 
 
 
       October 4 - 5, 2024
