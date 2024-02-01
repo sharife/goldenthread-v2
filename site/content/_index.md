@@ -30,9 +30,15 @@ items:
 
       **[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)**
 
+
+
       by **Ghassan Kanafani**
 
+
+
       Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**
+
+
 
       Directed by **Samer Al-Saber**
 
@@ -52,7 +58,11 @@ items:
 
       Created and directed by **Andrea Assaf**
 
+
+
       Featuring acclaimed Syrian opera singer **Lubana Al Quntar**
+
+
 
       and Turkish composer and violinist **Eylem Basaldi** 
 
