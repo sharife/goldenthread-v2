@@ -55,11 +55,7 @@ items:
 
       Created and directed by **Andrea Assaf**
 
-
-
       Featuring acclaimed Syrian opera singer **Lubana Al Quntar**
-
-
 
       and Turkish composer and violinist **Eylem Basaldi** 
 
