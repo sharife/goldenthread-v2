@@ -6,25 +6,6 @@ background: https://ucarecdn.com/8c43492c-06dc-4157-929b-a794ceaaf375/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**Watch The Gaza Monologues**"
-    text: >-
-      On November 29, 2023, Golden Thread and [Aviva
-      Arts](https://www.avivaarts.org/) collaborated on a reading of [ASHTAR
-      Theatre](https://www.ashtar-theatre.org/)’s [The Gaza
-      Monologues](https://www.gazamonologues.com/) in observance of the
-      International Day of Solidarity with the Palestinian People - an annual
-      commemoration established by the UN aimed at raising awareness about
-      Palestine and supporting justice, equality, and freedom for the
-      Palestinian people.
-
-
-      *The Gaza Monologues* are testimonies written by Gazan youth in 2010, after the first war on the Gaza Strip. Tragically, these monologues are still accurate today. They highlight the horrors, hopes, and resilience of the courageous Gazans, lifting up the voices of children and people in Gaza.
-
-
-      The reading was presented in Arabic, English, and Farsi. To download the Gaza Monologues and read along in different languages please visit: *[The Gaza Monologues](https://www.gazamonologues.com/copy-of-team)* scripts page.
-    image: https://ucarecdn.com/aac599a7-6254-4616-b250-4a0649922bbe/
-    cta: Watch the Video
-    link: https://www.youtube.com/watch?v=dgHrfZr2PCg
   - image: https://ucarecdn.com/6574a4e3-61db-41c9-9162-35b635abba84/
     subtitle: "**Support Our Season for Palestine**"
     cta: Donate Now!
@@ -41,23 +22,18 @@ items:
 
 
       Please consider making a contribution today and join us for our 2024 Season for Palestine!
-  - image: https://ucarecdn.com/8d26eab5-cff6-412d-85ea-9e504b8f6442/
-    subtitle: "**Statement of Solidarity**"
-    cta: Read the full statement.
-    link: https://goldenthread.org/posts/we-stand-in-solidarity-with-palestine/
+  - subtitle: What Do the Women Say? 2024
     text: >-
-      Golden Thread Productions mourns the loss of innocent Palestinian and
-      Israeli lives. We condemn the assault by Hamas on Israeli civilians on
-      October 7th, 2023, and the ongoing and unwarranted decades-long state
-      terrorism by Israel against the Palestinian civilians in the Occupied
-      Palestinian Territories. We denounce antisemitism, islamophobia, racism,
-      and all acts of violence and terrorism in all of its forms. We believe
-      that every human life matters and every human being deserves to live a
-      life of dignity.
+      Our annual celebration of International [Women’s Day, What Do the Women
+      Say? 2024: Expressions of
+      Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/)
+      celebrates the resilience and richness of Palestinian traditions and
+      culture through the works of Palestinian women artists.
 
+      It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by multidisciplinary artist [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the international bestseller novel by Palestinian author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**.
 
-      We call for an immediate end to the ongoing genocide and ethnic cleansing against Palestinian civilians in the Gaza Strip committed by Netanyahu’s government and sanctioned by Biden’s administration. We call on all people of conscience to demand an immediate ceasefire in Gaza and the safe release of hostages. We firmly believe that lasting peace and security in the region can only be attained through political solutions that bring an end to Israeli military occupation and state violence against Palestinians. 
-
-
-      (*continued*...)
+      This year’s celebration features pre-show activities of traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon.
+    image: https://ucarecdn.com/967313d1-0197-427f-a732-8b62c4c65589/
+    cta: Buy Tickets!
+    link: https://goldenthread.org/tickets/
 ---
