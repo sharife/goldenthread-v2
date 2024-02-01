@@ -9,8 +9,8 @@ heading: Expressions of Joy
 description: >-
   In celebration of [International Women’s
   Day](https://www.internationalwomensday.com/), Golden Thread’s ***What Do the
-  Women Say?*** returns to the Brava Theater. **Expressions of Joy** is our
-  theme this year, aligning with the International Women’s Day global theme
+  Women Say?*** returns to the Brava Theater Center. **Expressions of Joy** is
+  our theme this year, aligning with the International Women’s Day global theme
   [\#InspireInclusion](https://www.internationalwomensday.com/Theme). We
   celebrate the resilience and richness of Palestinian traditions and culture
   through the works of Palestinian women artists. 
