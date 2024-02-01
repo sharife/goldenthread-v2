@@ -1,18 +1,23 @@
 [build.environment]
-  NPM_VERSION = "6.13.4"
-  TZ = "America/Los_Angeles"
+  NETLIFY_USE_YARN = "true"
+  YARN_VERSION = "1.22.17"
 
 [build]
-  command = "npm run build"
+  command = "yarn build"
   publish = "dist"
 
 [context.deploy-preview]
-  command = "npm run build:preview"
+  command = "yarn build:preview"
 
 [dev]
-  command = "npm run start"
-  targetPort = 8888
-  TZ = "America/Los_Angeles"
+  framework = "hugo"
+  targetPort = 3000
+
+[[plugins]]
+  package = "netlify-plugin-cypress"
+
+  [plugins.inputs]
+    record = true
 
 [[redirects]]
   from = "/survey"

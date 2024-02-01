@@ -1,7 +1,7 @@
 ---
-title: 2023 Season
-currentseason: 2023
+title: 2024 Season
+currentseason: 2024
 intro: >
-  Building Forward - This year we emphasize our commitment to uplift one another as we explore ways to connect, cope, and be moved to make change. Join us as we look for comfort in comic relief, seek unity in collaboration, and find inspiration in the stories of those fighting for justice and equality.
-background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
+  Our 2024 Season for Palestine is a celebration of the talent, creativity, strength, and resilience that define the Palestinian people. As we witness the unimaginable atrocities and ongoing human rights violations Palestinians are enduring, we recognize our responsibility to combat this brutal injustice by uplifting and honoring their narratives. Join us as we embark on a season of active dialogue and communal space sparked by inspiring legacy artists, award-winning plays and playwrights, emerging new works, and exciting collaborations.
+background: /img/season-for-palestine-banner-v2.jpg
 ---

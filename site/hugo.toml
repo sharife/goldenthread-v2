@@ -3,7 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2023"
+	currentseason = "2024"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -22,45 +22,38 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "nasrudins-magnificent-journey-to-samarkand-2022"
-		name = "Nasrudin's Magnificent Journey to Samarkand"
-		url = "/productions/nasrudins-magnificent-journey-to-samarkand-2022/"
+		identifier = "what-do-the-women-say-2024"
+		name = "What Do The Women Say? 2024"
+		url = "/productions/what-do-the-women-say-2024/"
 		weight = 11
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "what-do-the-women-say-2023"
-		name = "What Do The Women Say? 2023"
-		url = "/productions/what-do-the-women-say-2023/"
+		identifier = "returning-to-haifa"
+		name = "Returning to Haifa"
+		url = "/productions/returning-to-haifa/"
 		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "no-summary-2023"
-		name = "No Summary 2023"
-		url = "/productions/no-summary-2023/"
+		identifier = "no-summary-2024"
+		name = "No Summary 2024"
+		url = "/productions/no-summary-2024/"
 		weight = 13
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "amreeka-the-comedy-show"
-		name = "Amreeka: The Comedy Show"
-		url = "/productions/amreeka-the-comedy-show/"
+		identifier = "new-threads-staged-reading-series-2024"
+		name = "New Threads 2024"
+		url = "/productions/new-threads-staged-reading-series-2024/"
 		weight = 14
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "new-threads-staged-reading-series-2023"
-		name = "New Threads Staged Reading Series 2023"
-		url = "/productions/new-threads-staged-reading-series-2023/"
+		identifier = "11-reflections-san-francisco"
+		name = "11 Reflections: San Francisco"
+		url = "/productions/11-reflections-san-francisco/"
 		weight = 15
-		
-		[[menu.primary]]
-		parent = "season"
-		identifier = "reorient-2023"
-		name = "ReOrient 2023"
-		url = "/productions/reorient-2023/"
-		weight = 16
 
 
 	[[menu.primary]]

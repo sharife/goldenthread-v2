@@ -30,7 +30,7 @@
           <p class="f4 b mb3">{{ dateFormat "January 2, 2006" .Params.itemstart }} {{ if .Params.itemend }}- {{ dateFormat "January 2, 2006" .Params.itemend }}{{ end }}</p>
         {{ end }}
         {{ if .text }}
-          <p class="f6">{{.text | markdownify}}</p>
+          <div class="f6" style="font-size: 0.8em;">{{.text | markdownify}}</div>
         {{ end }}
         {{ if .link }}
           <p class="b"><a href="{{.link}}" class="link">→ {{.cta}}</a></p>

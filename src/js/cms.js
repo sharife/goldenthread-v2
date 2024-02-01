@@ -1,8 +1,7 @@
-import React from "react";
-import CMS from "netlify-cms-app";
+import CMS from "decap-cms-app";
 
 // Import main site styles as a string to inject into the CMS preview pane
-import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
+import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.scss";
 
 // import HomePreview from "./cms-preview-templates/home";
 // import PostPreview from "./cms-preview-templates/post";
@@ -17,7 +16,7 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 // CMS.registerPreviewTemplate("values", ValuesPreview);
 // CMS.registerPreviewTemplate("contact", ContactPreview);
 
-import uploadcare from 'netlify-cms-media-library-uploadcare';
+// import uploadcare from 'decap-cms-media-library-uploadcare';
 
-CMS.registerMediaLibrary(uploadcare);
+// CMS.registerMediaLibrary(uploadcare);
 CMS.init();

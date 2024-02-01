@@ -5,15 +5,26 @@ season: 2024
 date: 2024-01-24T04:37:00.926Z
 start: 2024-04-12T03:37:00.000Z
 end: 2024-05-05T03:37:00.951Z
-writer: "Ghassan Kanafani, adapted for the stage by Ismail Khalidi and Naomi Wallace "
+description: In the wake of the 1967 Six-Day War, with the borders finally open
+  after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in
+  search of the echoes of a home they were forced to abandon during the Nakba in
+  1948. But are they truly ready for the encounter that awaits them upon their
+  return? *Returning to Haifa* presents a deeply human portrait of two families,
+  one Palestinian, and one Jewish, forced by history into an intimacy they
+  didn’t choose.
+titleimage: https://ucarecdn.com/46f4ffac-9a4c-4eec-a6dd-7e44dc02e6a4/
+writer: "Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi "
 director: Samer Al Saber
 additional: based on the novella by Ghassan Kanafani
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
+ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
 ---
-In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, returned to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? Returning to Haifa presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose. 
+**Ghassan Kanafani** was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. Using the words of Palestinian actor and storyteller Raeda Taha, in her new play *The Gazelle of Aka* about the life and death of Ghassan Kanafani, she writes: “Ghassan was a journalist, political activist, and the spokesman for the PFLP (The Popular Front for the Liberation of Palestine). He used to paint, draw, sculpt, and constantly sketch. He loved drawing - and especially enjoyed gifting his drawings to his friends \[...] Ghassan wrote Life. He wrote about his love of songs, music, and literature. He wrote about his childhood memories as a refugee, he wrote about the refugee camps. He wrote about the Nakba and the collective expulsion. He wrote about his assassination.” 
+
+His novella *Returning to Haifa*, one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
 
 “A moving confrontation between two sets of displaced people and an utterly unsentimental exploration of the complexities of home, history and parenthood.” - Michael Billington, The Guardian, 5 March 2018 
 
