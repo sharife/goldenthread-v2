@@ -14,9 +14,9 @@ items:
       celebrates the resilience and richness of Palestinian traditions and
       culture through the works of Palestinian women artists.
 
-      It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by multidisciplinary artist [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the international bestseller novel by Palestinian author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**.
+      It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of **Nabila Mango**; an excerpt play reading from *Where Can I Find Someone Like You, Ali?* by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the novel by Palestinian author **Susan Abulhawa**, followed by a facilitated conversation with audience and artists led by Golden Thread Executive Artistic Director **Sahar Assaf**.
 
-      This year’s celebration features pre-show activities of traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon.
+      Pre-show activities include traditional Palestinian food for purchase, and a tatreez (traditional Palestinian embroidery) exhibit from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon.
     image: https://ucarecdn.com/967313d1-0197-427f-a732-8b62c4c65589/
     cta: Buy Tickets!
     link: https://goldenthread.org/tickets/
