@@ -33,15 +33,9 @@ items:
 
       **[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)**
 
-
-
       by **Ghassan Kanafani**
 
-
-
       Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**
-
-
 
       Directed by **Samer Al-Saber**
 
