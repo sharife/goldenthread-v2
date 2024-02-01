@@ -22,7 +22,9 @@ visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
 ---
-Playwright Ghassan Kanafani (1936-1972), “one of the most prominent novelists and modernist playwrights who enriched Palestinian culture with their creativity,” was assassinated by the Israeli Mossad, at just thirty-six years old. The novella *Returning to Haifa* was published in 1969, and has been adapted for film and television as well as for the stage. 
+**Ghassan Kanafani** was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. Using the words of Palestinian actor and storyteller Raeda Taha, in her new play *The Gazelle of Aka* about the life and death of Ghassan Kanafani, she writes: “Ghassan was a journalist, political activist, and the spokesman for the PFLP (The Popular Front for the Liberation of Palestine). He used to paint, draw, sculpt, and constantly sketch. He loved drawing - and especially enjoyed gifting his drawings to his friends \[...] Ghassan wrote Life. He wrote about his love of songs, music, and literature. He wrote about his childhood memories as a refugee, he wrote about the refugee camps. He wrote about the Nakba and the collective expulsion. He wrote about his assassination.” 
+
+His novella *Returning to Haifa*, one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
 
 “A moving confrontation between two sets of displaced people and an utterly unsentimental exploration of the complexities of home, history and parenthood.” - Michael Billington, The Guardian, 5 March 2018 
 
