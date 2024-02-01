@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: Join Us!
 subtitle: ""
-background: https://ucarecdn.com/8c43492c-06dc-4157-929b-a794ceaaf375/
+background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
