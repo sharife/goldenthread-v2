@@ -22,7 +22,7 @@ items:
       March 8, 2024
     image: https://ucarecdn.com/967313d1-0197-427f-a732-8b62c4c65589/
     cta: Buy Tickets!
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/what-do-the-women-say-2024/
   - subtitle: "**Returning to Haifa**"
     text: >-
       West Coast Premiere 
