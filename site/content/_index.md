@@ -22,7 +22,7 @@ items:
       March 8, 2024
     image: https://ucarecdn.com/967313d1-0197-427f-a732-8b62c4c65589/
     cta: Buy Tickets!
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/what-do-the-women-say-2024/
   - subtitle: "**Returning to Haifa**"
     text: >-
       West Coast Premiere 
@@ -46,7 +46,7 @@ items:
       April 12 - May 4, 2024
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/returning-to-haifa/
   - subtitle: "**11 Reflections: September**"
     text: >-
       West Coast Premiere  
@@ -66,5 +66,5 @@ items:
       October 4 - 5, 2024
     image: https://ucarecdn.com/28740959-52f6-474e-a215-85d74e4c304b/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/11-reflections-san-francisco/
 ---
