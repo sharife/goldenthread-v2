@@ -66,5 +66,5 @@ items:
       October 4 - 5, 2024
     image: https://ucarecdn.com/28740959-52f6-474e-a215-85d74e4c304b/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/11-reflections-san-francisco/
 ---
