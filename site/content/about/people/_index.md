@@ -913,9 +913,6 @@ advisors:
         University
       name: Hamid Dabashi
       link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
-    - credit: Playwright and Professor, Playwriting, UC Berkeley
-      name: Philip Kan Gotanda
-      link: https://tdps.berkeley.edu/people/philip-kan-gotanda
     - credit: Co-Founder, Theatre Without Borders, and Senior Program Associate,
         Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
