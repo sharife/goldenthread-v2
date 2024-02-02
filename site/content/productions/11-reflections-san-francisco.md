@@ -21,6 +21,6 @@ visitlink: https://www.brava.org/visit
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 ---
-***11 Reflections: San Francisco*** is part of a new national series of performance works, ***Eleven Reflections on the Nation***, devised by Andrea Assaf. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
+***11 Reflections: San Francisco*** invites Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area to participate in Story Circles, workshops, creative writing, and theatre-making in response to the question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?
 
 Co-Produced by Golden Thread Productions, Brava for Women in the Arts and Art2Action, and in collaboration with Aviva Arts.
