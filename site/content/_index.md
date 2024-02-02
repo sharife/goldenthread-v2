@@ -3,16 +3,16 @@ title: Middle East Center Stage
 headline: Join Us!
 subtitle: ""
 background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
-cta: Buy Tickets!
-link: https://goldenthread.org/tickets/
+cta: Learn More!
+link: https://goldenthread.org/season/
 items:
   - subtitle: "**What Do the Women Say? 2024**"
     text: >-
       Our annual celebration of International Women’s Day, [What Do the Women
       Say? 2024: Expressions of
       Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/)
-      celebrates the resilience and richness of Palestinian traditions and
-      culture through the works of Palestinian women artists.
+      honors the resilience and richness of Palestinian traditions and culture
+      through the works of Palestinian women artists.
 
       It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of **Nabila Mango**; an excerpt play reading from *Where Can I Find Someone Like You, Ali?* by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the novel by Palestinian author **Susan Abulhawa**, followed by a facilitated conversation with audience and artists led by Golden Thread Executive Artistic Director **Sahar Assaf**.
 
