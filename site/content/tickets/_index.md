@@ -12,7 +12,7 @@ lists:
           **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
 
 
-          The 2024 edition of our annual celebration of International Women’s Day, **What Do the Women Say? 2024: Expressions of Joy** will celebrate the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
+          The 2024 edition of our annual celebration of International Women’s Day, **What Do the Women Say? 2024: Expressions of Joy** will honor the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
 
 
           It will feature Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
@@ -40,7 +40,7 @@ lists:
           Directed by **Samer Al Saber** 
 
 
-          In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? *Returning to Haifa* presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose.
+          In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?** *Returning to Haifa*** presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose.
 
 
           Performances run every Thursday*, Friday, and Saturday at 8 pm and Sundays at 3 pm
