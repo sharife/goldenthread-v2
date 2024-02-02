@@ -1,5 +1,5 @@
 ---
-title: Buy Tickets
+title: "Buy Tickets: 2024 Season"
 lists:
   - heading: "What Do the Women Say? 2024: Expressions of Joy"
     items:
