@@ -30,4 +30,4 @@ It features Palestinian melodies sung by the Aswat ensemble in an homage to the 
 
 This year’s celebration also offers traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show. 
 
-A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
+A highly anticipated annual offering, Golden Thread Productions celebrates International Women’s Day with *What Do the Women Say?*, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
