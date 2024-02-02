@@ -37,7 +37,7 @@ lists:
 
           Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**\
 
-          Directed by **Samer Al Saber** 
+          Directed by **Samer Al-Saber** 
 
 
           In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?** *Returning to Haifa*** presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn't choose.
@@ -68,7 +68,7 @@ lists:
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
         cta: BUY NOW
         image: https://ucarecdn.com/9ea2dc26-8c83-41cc-a4c7-ec52d08dd967/
-  - heading: "11REFLECTIONS: SAN FRANCISCO  "
+  - heading: "11 REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
         cta: BUY NOW
@@ -83,10 +83,10 @@ lists:
           and Turkish composer and violinist **Eylem Basaldi** 
 
 
-          ***11Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, Eleven Reflections on September, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
+          ***11 Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
 
 
-          Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, and **Art2Action** and in collaboration with **Aviva Arts**  \
+          Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, **Art2Action**, and in collaboration with **Aviva Arts**  \
 
           \
 
