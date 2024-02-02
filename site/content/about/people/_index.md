@@ -49,23 +49,6 @@ staff:
       credit: Managing Director
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - name: Linda Maria Girón
-      credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them)* is a multi-disciplinary theater maker,
-        visual artist and musician from Los Angeles, CA. Their work is informed
-        and inspired by ritual, queerness and anti-racist practice; with a
-        primary focus on examining the neo-colonialism of Latin America and its
-        diasporas. After receiving their Bachelor's in Theater and Performance
-        Studies from the University of California, Berkeley, Linda made their
-        professional theater debut with FaultLine Theater and has since
-        performed, collaborate and written for companies across the Bay Area
-        including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
-        CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
-        New Conservatory Theater Center, CentralWorks, Word4Word & the
-        Peripatetic Players. Follow their work at:
-        www.lindamgiron.com[](www.lindamgiron.com)"
-      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/-/crop/1249x1349/57,329/-/preview/
-      link: ""
     - name: Sheila Devitt
       credit: Marketing & Engagement Manager
       image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
@@ -91,6 +74,23 @@ staff:
         Mexico, with a focus on bilingual performances of Federico Garcia
         Lorca’s pastoral trilogy. She is a member of Theatre Bay Area since 2003
         and Theatre Communications Group since 1997."
+    - name: Linda Maria Girón
+      credit: Operations Associate
+      bio: "**Linda Maria Girón** *(they/them)* is a multi-disciplinary theater maker,
+        visual artist and musician from Los Angeles, CA. Their work is informed
+        and inspired by ritual, queerness and anti-racist practice; with a
+        primary focus on examining the neo-colonialism of Latin America and its
+        diasporas. After receiving their Bachelor's in Theater and Performance
+        Studies from the University of California, Berkeley, Linda made their
+        professional theater debut with FaultLine Theater and has since
+        performed, collaborate and written for companies across the Bay Area
+        including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
+        CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
+        New Conservatory Theater Center, CentralWorks, Word4Word & the
+        Peripatetic Players. Follow their work at:
+        www.lindamgiron.com[](www.lindamgiron.com)"
+      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/-/crop/1249x1349/57,329/-/preview/
+      link: ""
     - name: Wendy Reyes
       credit: Production Associate
       image: https://ucarecdn.com/2f9929a3-48e5-49bb-aa5f-b40e8e22909d/
