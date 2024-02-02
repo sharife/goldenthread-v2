@@ -46,7 +46,7 @@ items:
       April 12 - May 4, 2024
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
-    link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
+    link: https://goldenthread.org/productions/returning-to-haifa/
   - subtitle: "**11 Reflections: September**"
     text: >-
       West Coast Premiere  
