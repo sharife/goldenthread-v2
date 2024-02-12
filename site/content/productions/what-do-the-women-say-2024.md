@@ -43,7 +43,7 @@ Executive Artistic Director **Sahar Assaf** facilitates a conversation with part
 Pre-show lobby activities include:
 
 * traditional Palestinian food for purchase;
-* *Threads of Belonging*, curated by **Souad Amine**, a showcase of the art of tatreez (traditional Palestinian embroidery).
+* *Threads of Belonging*, curated by **Souad Amine**, a showcase of the art of tatreez, traditional Palestinian embroidery.
 
 The program is presented in a hybrid format with artists appearing in-person and virtually. Audiences can join in person or online. 
 
