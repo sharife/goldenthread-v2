@@ -139,6 +139,23 @@ cast:
         Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
         Kanafani Foundation in Beirut."
       image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
+    - name: Threads of Belonging
+      credit: exhibit
+      bio: "**THREADS OF BELONGING** originated in 2011 when it started as an order
+        for traditionally embroidered tablecloths for a Palestinian wedding.
+        Over time, it evolved into an empowerment initiative inspiring women in
+        Southern Lebanon's Palestinian refugee camps to express their talent and
+        creativity through the timeless art of Palestinian embroidery. What
+        initially served as a means to support refugee families with extra
+        income transformed into a creative endeavor, bringing joy and pride to
+        the participants in the project through a celebration of this ancient
+        Palestinian art and heritage. Thus, *Threads of Belonging* was born.
+        *Threads of Belonging* introduces innovative motifs, compositions, and
+        novel color combinations in cutting-edge clothing designs. Each
+        meticulously crafted piece bears the unique signature of its
+        embroiderer, concealing within its every stitch a longing for a home
+        that will never die."
+      image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
 bottom:
   logos: []
   text: >-
