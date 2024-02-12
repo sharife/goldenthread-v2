@@ -116,6 +116,28 @@ cast:
         tell ourselves."
       link: https://www.amalbphotography.com/about
       image: https://ucarecdn.com/332937c9-4bde-4127-9c5b-40e510de232c/
+    - name: Raeda Taha
+      credit: playwright
+      bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
+        activist. She authored and performed several one-woman plays inspired by
+        her life story and her experience as a Palestinian in the diaspora. Most
+        notably, her play *Where Can I Find Someone Like You, Ali?* directed by
+        Lina Abyad received international acclaim and was performed in over 20
+        countries. The play is featured in Brill’s *Critical Anthology on Modern
+        and Contemporary Political Theater* from the Levant, edited by Robert
+        Myers and Nada Saab. Her other one-woman plays include *36 Abbas
+        Street/Haifa 2017*, *The Fig Tree*, and *The Gazelle of Akka*. As an
+        actor, Raeda has played significant roles in plays across the Arab
+        World, including *Returning to Haifa* (2011) by Ghassan Kanafani, *80
+        Degree* (2012) directed by Alia Al-Khaldi, *Petra Rocks* (2013-2014)
+        directed by Lina Abyad, and *Ghalia’s Miles* (2017) by Zoukak Theatre
+        Company. Raeda holds a BA in Media and Journalism from George Mason
+        University. Her notable career includes serving as a media attaché for
+        President Yasser Arafat (1987-1994) and later chairing the
+        administrative committee at the Khalil al-Sakakini Cultural Center in
+        Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
+        Kanafani Foundation in Beirut."
+      image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
 bottom:
   logos: []
   text: >-
