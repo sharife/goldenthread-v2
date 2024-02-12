@@ -90,6 +90,31 @@ cast:
       name: Souad Amin
       image: https://ucarecdn.com/981107f5-fe4f-4909-ab36-5e06abae15e6/
       credit: curator, Threads of Belonging
+    - name: Amal Bisharat
+      bio: "**Amal Bisharat** *(she/her)* is a Palestinian American multidisciplinary
+        artist: a theatre director, writer, producer, musician, and
+        photographer. Bisharat is a grateful recipient of the Theater Bay Area
+        Arts Leadership Residency Grant (2022-23), Theater Bay Area CA$H Creates
+        Grant (2022), and San Francisco Arts Commission Artist Grant (2023). She
+        holds a BA in Music and Theater and for 12 years worked as a director
+        and music director in partnership with the San Francisco Unified School
+        District. Currently Bisharat works with Golden Thread Productions,
+        recently co-producing and directing for their signature program
+        [ReOrient Festival of Short Plays
+        (2023)](https://goldenthread.org/productions/reorient-2023/), as well as
+        directing an online reading of *[The Gaza
+        Monologues](https://goldenthread.org/posts/the-gaza-monologues/)* by
+        Ashtar Theatre-Palestine (2023). Bisharat is also the process of
+        creating her first musical, a Palestinian refugee story adapted from the
+        internationally best-selling novel *Mornings in Jenin* by Susan
+        Abulhawa. Bisharat is also an award-winning photographer, with her own
+        arts-focused photography company, capturing the magic of professional
+        dance, theater, and music performances for groups like Yerba Buena
+        Gardens Festival, Sarah Bush Dance Project, and Alonzo King Lines
+        Ballet. Bisharat believes in the transformative power of art and
+        storytelling whether on a stage, in a photograph, or in the stories we
+        tell ourselves."
+      link: https://www.amalbphotography.com/about
 bottom:
   logos: []
   text: >-
