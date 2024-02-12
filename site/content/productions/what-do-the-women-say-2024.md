@@ -18,11 +18,16 @@ visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
 ticketinfo: "Tickets $25 - $100. No one turned away for lack of funds. "
 bottom:
-  logos:
-    - image: https://ucarecdn.com/dbe942d9-b194-4ace-be1b-025b99a58da7/
-    - image: https://ucarecdn.com/f2df5d71-6d00-456c-bd5f-a71f63617d17/
-  text: "Co-Presenter: [Brava Theater Center](https://www.brava.org/) and Sponsor:
-    [WomenArts](https://www.womenarts.org/)"
+  logos: []
+  text: >-
+    Co-Presenter: [Brava Theater Center](https://www.brava.org/) and Sponsor:
+    [WomenArts](https://www.womenarts.org/) 
+
+
+    ![](https://ucarecdn.com/d5c59d62-b1a7-41d6-b4de-422d5de6e726/ "Co-Presenter: Brava Theater Center")
+
+
+    ![](https://ucarecdn.com/e995d29d-236a-4c48-b901-61b05d75c6da/ "Sponsor: WomenArts")
 ---
 **What Do the Women Say? 2024: Expressions of Joy** features Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by Raeda Taha; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the San Francisco Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
 
