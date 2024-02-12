@@ -24,7 +24,7 @@ bottom:
     [WomenArts](https://www.womenarts.org/) 
 
 
-    ![](https://ucarecdn.com/d5c59d62-b1a7-41d6-b4de-422d5de6e726/ "Co-Presenter: Brava Theater Center")
+    ![](https://ucarecdn.com/00b2b25a-80df-40bf-83f9-247b87b5a78e/ "Co-Presenter: Brava Theater Center")
 
 
     ![](https://ucarecdn.com/e995d29d-236a-4c48-b901-61b05d75c6da/ "Sponsor: WomenArts")
