@@ -68,6 +68,7 @@ cast:
         Writes](https://palestinewrites.org/), the first North American
         Palestinian literature festival."
       image: https://ucarecdn.com/50571502-0612-4c7b-8a30-130b825e8cbb/
+      link: https://susanabulhawa.com/
 bottom:
   logos: []
   text: >-
