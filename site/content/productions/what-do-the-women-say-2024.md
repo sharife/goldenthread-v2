@@ -49,6 +49,25 @@ cast:
       image: https://ucarecdn.com/7a530a62-ab27-446f-94d2-166e52d56e85/
       name: Aswat Ensemble
       credit: music ensemble
+    - name: Susan Abulhawa
+      credit: novelist
+      bio: "**Susan Abulhawa** is a novelist, poet, essayist, scientist, mother, and
+        activist.  Her debut novel *Mornings in Jenin* (Bloomsbury, 2010),
+        translated into 30 languages, was an international bestseller and is
+        considered a classic in Palestinian literature.  Its reach and sales
+        have made Abulhawa the most widely read Palestinian author.  Her second
+        novel, *The Blue Between Sky and Water* (Bloomsbury, 2015), was likewise
+        an international bestseller.  *Against the Loveless World* was published
+        in August 2020 by Simon & Schuster to much acclaim.  She is also the
+        author of a poetry collection, *My Voice Sought The Wind* (Just World
+        Books, 2013), contributor to several anthologies, political commentator,
+        and frequent speaker. Abulhawa is the founder of [Playgrounds for
+        Palestine](https://playgroundsforpalestine.org/), a children’s
+        organization dedicated to uplifting Palestinian children.  She is also
+        the Executive Director of [Palestine
+        Writes](https://palestinewrites.org/), the first North American
+        Palestinian literature festival."
+      image: https://ucarecdn.com/50571502-0612-4c7b-8a30-130b825e8cbb/
 bottom:
   logos: []
   text: >-
