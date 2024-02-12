@@ -12,6 +12,7 @@ description: In honor of [International Women’s
   a celebration of the resilience and richness of Palestinian traditions and
   culture through the works of Palestinian women artists.
 titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
+featuring: ""
 stage: "Brava Theater Center "
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
@@ -35,7 +36,7 @@ bottom:
 * Palestinian melodies sung by the **Aswat Ensemble**;
 * play reading excerpt from **Raeda Taha**'s *Where Can I Find Someone Like You, Ali?*  
 * traditional Palestinian dabke dance by **Al-Juthoor**; 
-* musical excerpt from **Amal Bisharat**'s *Mornings in Jenin*, adapted from **Susan Abulhawa**'s the international bestselling novel. 
+* musical excerpt from **Amal Bisharat**'s *Mornings in Jenin*, adapted from **Susan Abulhawa**'s international bestselling novel. 
 
 Executive Artistic Director **Sahar Assaf** facilitates a conversation with participating artists and audience following the presentations.
 
