@@ -87,6 +87,8 @@ cast:
         handmade pieces reflecting the rich Palestinian cultural heritage
         through thousands of stitches that tell stories of resilience and
         tradition."
+      name: Souad Amin
+      image: https://ucarecdn.com/981107f5-fe4f-4909-ab36-5e06abae15e6/
 bottom:
   logos: []
   text: >-
