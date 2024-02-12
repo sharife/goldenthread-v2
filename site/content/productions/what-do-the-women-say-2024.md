@@ -89,6 +89,7 @@ cast:
         tradition."
       name: Souad Amin
       image: https://ucarecdn.com/981107f5-fe4f-4909-ab36-5e06abae15e6/
+      credit: curator, Threads of Belonging
 bottom:
   logos: []
   text: >-
