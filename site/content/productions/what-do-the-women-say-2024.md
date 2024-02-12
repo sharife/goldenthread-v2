@@ -4,7 +4,7 @@ pre: a celebration of International Women's Day
 season: 2024
 date: 2024-01-24T03:38:03.816Z
 start: 2024-03-08T03:38:03.828Z
-end: 2024-03-08T03:38:03.853Z
+end: ""
 heading: Expressions of Joy
 description: In honor of [International Women’s
   Day](https://www.internationalwomensday.com/), Golden Thread’s ***What Do the
@@ -43,7 +43,7 @@ Executive Artistic Director **Sahar Assaf** facilitates a conversation with part
 Pre-show lobby activities include:
 
 * traditional Palestinian food for purchase;
-* *Threads of Belonging*, curated by **Souad Amine**, a showcase of the art of tatreez (traditional Palestinian embroidery).
+* *Threads of Belonging*, curated by **Souad Amine**, a showcase of the art of tatreez, traditional Palestinian embroidery.
 
 The program is presented in a hybrid format with artists appearing in-person and virtually. Audiences can join in person or online. 
 
