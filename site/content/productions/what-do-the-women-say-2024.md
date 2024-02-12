@@ -17,6 +17,10 @@ address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
 ticketinfo: "Tickets $25 - $100. No one turned away for lack of funds. "
+bottom:
+  logos:
+    - image: https://ucarecdn.com/b0d65430-f6aa-4bcf-93c4-128fa49a262a/
+    - image: https://ucarecdn.com/a3b5c0a3-b705-43e0-8afa-0a46cc0b2bf2/
 ---
 **What Do the Women Say? 2024: Expressions of Joy** features Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by Raeda Taha; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the San Francisco Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
 
