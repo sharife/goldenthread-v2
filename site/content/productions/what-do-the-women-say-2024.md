@@ -115,6 +115,7 @@ cast:
         storytelling whether on a stage, in a photograph, or in the stories we
         tell ourselves."
       link: https://www.amalbphotography.com/about
+      image: https://ucarecdn.com/332937c9-4bde-4127-9c5b-40e510de232c/
 bottom:
   logos: []
   text: >-
