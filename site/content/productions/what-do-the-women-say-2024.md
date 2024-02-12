@@ -29,9 +29,20 @@ bottom:
 
     ![](https://ucarecdn.com/e995d29d-236a-4c48-b901-61b05d75c6da/ "Sponsor: WomenArts")
 ---
-**What Do the Women Say? 2024: Expressions of Joy** features Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by Raeda Taha; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the San Francisco Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
+**What Do the Women Say? 2024: Expressions of Joy** features: 
 
-This year’s celebration also offers traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show. 
+* an homage to the legacy of **Nabila Mango,** revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area; 
+* Palestinian melodies sung by the **Aswat Ensemble**;
+* play reading excerpt from **Raeda Taha**'s *Where Can I Find Someone Like You, Ali?*  
+* traditional Palestinian dabke dance by **Al-Juthoor**; 
+* musical excerpt from **Amal Bisharat**'s *Mornings in Jenin*, adapted from **Susan Abulhawa**'s the international bestselling novel. 
+
+The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
+
+Pre-show lobby activities include:
+
+* traditional Palestinian food for purchase;
+* *Threads of Belonging*, curated by **Souad Amine**, a showcase of the art of tatreez (traditional Palestinian embroidery).
 
 The program is presented in a hybrid format with artists appearing in-person and virtually. Audiences can join in person or online. 
 
