@@ -18,6 +18,24 @@ address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
 ticketinfo: "Tickets $25 - $100. No one turned away for lack of funds. "
+cast:
+  items:
+    - name: Al-Juthoor
+      credit: dance company
+      image: https://ucarecdn.com/59fe8f01-cc43-40d9-bd79-bb5d74215558/
+      bio: >-
+        Al-Juthoor company members are **Zaynah Hindi**, **Yasmeen Odeh**,
+        **Christina Harb**, **Leila Mire**, **Basma**, **Wassim Hage**, **Linda
+        Zaro**, **Monica McCown**. Al-Juthoor ("Roots" in Arabic) of the Arab
+        Diaspora is a Dabkeh troupe that raises awareness about Arab and
+        Palestinian struggle, culture, and art. We empower our community and
+        youth to take pride in our heritage, our past, and our future by
+        honoring our history and celebrating our resistance. Across the borders
+        of our diaspora, we assert our community’s connection to our deep roots
+        in the land and the people throughout the Arab world, from Iraq,
+        Lebanon, Jordan, Syria, and Palestine. 
+
+        Our culture and very existence has become inseparable from resistance to colonialism and state violence. Dabkeh is more than just a celebratory event – its every movement is an ode to our Martyrs, a salute to our resistance fighters and political prisoners, and an expression of our will toward our collective liberation. Al-Juthoor is the soul of the dispossessed awaiting their return to their homes, olive groves, villages, and to their land. With each stomp that shakes the earth, we seek to send tremors to those that oppress us. The art of dabkeh celebrates our resistance, asserts our rage against occupation, and demonstrates our commitment to liberation while reminding the world that we are resilient and steadfast. Our people and our land will be free. WE SHALL RETURN!
 bottom:
   logos: []
   text: >-
