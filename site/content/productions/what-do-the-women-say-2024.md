@@ -6,11 +6,17 @@ date: 2024-01-24T03:38:03.816Z
 start: 2024-03-08T03:38:03.828Z
 end: ""
 heading: Expressions of Joy
-description: In honor of [International Women’s
+description: >-
+  In honor of [International Women’s
   Day](https://www.internationalwomensday.com/), Golden Thread’s ***What Do the
   Women Say?*** returns to the Brava Theater Center with **Expressions of Joy**,
   a celebration of the resilience and richness of Palestinian traditions and
   culture through the works of Palestinian women artists.
+
+
+  Pre-show lobby activities 6:30 pm/ Show 8:00 pm, Pacific Time. 
+
+  The full program is 120 minutes without intermission.
 titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
 featuring: ""
 stage: "Brava Theater Center "
