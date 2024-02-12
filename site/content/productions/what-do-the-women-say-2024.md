@@ -4,7 +4,7 @@ pre: a celebration of International Women's Day
 season: 2024
 date: 2024-01-24T03:38:03.816Z
 start: 2024-03-08T03:38:03.828Z
-end: 2024-03-08T03:38:03.853Z
+end: ""
 heading: Expressions of Joy
 description: In honor of [International Women’s
   Day](https://www.internationalwomensday.com/), Golden Thread’s ***What Do the
