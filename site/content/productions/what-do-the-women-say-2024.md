@@ -37,7 +37,7 @@ bottom:
 * traditional Palestinian dabke dance by **Al-Juthoor**; 
 * musical excerpt from **Amal Bisharat**'s *Mornings in Jenin*, adapted from **Susan Abulhawa**'s the international bestselling novel. 
 
-The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
+Executive Artistic Director **Sahar Assaf** facilitates a conversation with participating artists and audience following the presentations.
 
 Pre-show lobby activities include:
 
