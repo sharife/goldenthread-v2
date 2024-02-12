@@ -69,6 +69,24 @@ cast:
         Palestinian literature festival."
       image: https://ucarecdn.com/50571502-0612-4c7b-8a30-130b825e8cbb/
       link: https://susanabulhawa.com/
+    - bio: "**Souad Faisal Amin** is a Palestinian activist, artist, and fashion
+        designer based in Beirut, Lebanon. In 1985, she earned her Master's
+        degree in Food Technology and Nutrition from the American University of
+        Beirut but her passion for the arts led her to pursue a Bachelor of Fine
+        Arts degree from the Lebanese American University in 2000, followed by
+        Fashion Design classes at Esmode between 2005 and 2007. Between 2002 and
+        2012, Souad dedicated her time and skills to volunteering in Palestinian
+        refugee camps in Lebanon with different non-governmental organizations.
+        She also served on the Board of Directors of LOYAC, a Kuwaiti NGO
+        working in Lebanon to empower youth through various projects and
+        initiatives. In 2012, Souad took a significant step in her advocacy
+        journey by founding *Threads of Belonging*, an initiative aimed at
+        celebrating Palestinian cultural identity and promoting women’s
+        empowerment within the refugee communities. To date, *Threads of
+        Belonging* has employed more than 80 women, who produce hundreds of
+        handmade pieces reflecting the rich Palestinian cultural heritage
+        through thousands of stitches that tell stories of resilience and
+        tradition."
 bottom:
   logos: []
   text: >-
