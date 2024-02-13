@@ -16,7 +16,7 @@ description: >-
 
   Pre-show lobby activities 6:30 pm/ Show 8:00 pm, Pacific Time. 
 
-  The full program is 120 minutes without intermission.
+  Run time 120 minutes without intermission.
 titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
 featuring: ""
 stage: "Brava Theater Center "
