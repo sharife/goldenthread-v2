@@ -162,6 +162,18 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - name: Nabila Mango
+      credit: in memoriam
+      image: https://ucarecdn.com/b1642fc9-c14b-4ee8-b461-0f81aa6b2a5d/
+      bio: "**Nabila Mango** co-founded Zawaya with Haya Shawa Ben-Halim in 2003 to
+        preserve and promote the Arab arts in the San Francisco Bay Area. Aswat,
+        which predates Zawaya by three years, is Zawaya’s flagship Arabic music
+        and performance program and the Bay Area’s premiere Arabic music
+        ensemble. A member of school choirs in high school and college, Nabila
+        never lost her passion for the performing arts. Nabila was known as
+        someone who reads prolifically in politics, women’s affairs, languages,
+        music history, and cultural issues and owned the largest library of
+        Arabic music in the U.S."
 bottom:
   logos: []
   text: >-
