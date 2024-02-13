@@ -193,7 +193,7 @@ bottom:
 * Palestinian melodies sung by the **Aswat Ensemble**;
 * play reading excerpt from **Raeda Taha**'s *Where Can I Find Someone Like You, Ali?*  
 * traditional Palestinian dabke dance by **Al-Juthoor**; 
-* musical excerpt from **Amal Bisharat**'s *Mornings in Jenin*, adapted from **Susan Abulhawa**'s international bestselling novel. 
+* a selection from **Amal Bisharat**’s *Mornings in Jenin Musical*, a Palestinian refugee story adapted from **Susan Abulhawa**’s international bestselling novel. 
 
 Executive Artistic Director **Sahar Assaf** facilitates a conversation with participating artists and audience following the presentations.
 
