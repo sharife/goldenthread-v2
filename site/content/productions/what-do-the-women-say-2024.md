@@ -18,7 +18,7 @@ description: >-
 
   Run time 120 minutes without intermission.
 titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
-featuring: Al-Juthoor dance co., Aswat Ensemble, Susan Abulhawa, Souad Amin,
+featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
   Amal Bisharat, Raeda Taha
 stage: "Brava Theater Center "
 address: 2781 24th St., San Francisco, CA, 94110
