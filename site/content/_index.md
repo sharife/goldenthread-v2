@@ -20,7 +20,7 @@ items:
 
 
       March 8, 2024
-    image: https://ucarecdn.com/967313d1-0197-427f-a732-8b62c4c65589/
+    image: https://ucarecdn.com/ff2ad984-8c66-4160-9c34-7cc8390312a9/
     cta: Buy Tickets!
     link: https://goldenthread.org/productions/what-do-the-women-say-2024/
   - subtitle: "**Returning to Haifa**"
