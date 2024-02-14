@@ -17,7 +17,7 @@ description: >-
   Pre-show lobby activities 6:30 pm/ Show 8:00 pm, Pacific Time. 
 
   Run time 120 minutes without intermission.
-titleimage: https://ucarecdn.com/7d49222e-22e6-4253-b1c0-a29519fd21bb/
+titleimage: https://ucarecdn.com/feede249-a445-4b5c-88c8-e8108ffc8c44/
 featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
   Amal Bisharat, Raeda Taha
 stage: "Brava Theater Center "
