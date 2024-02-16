@@ -4,7 +4,7 @@ pre: West Coast Premiere
 season: 2024
 date: 2024-01-24T04:37:00.926Z
 start: 2024-04-12T03:37:00.000Z
-end: 2024-05-05T03:37:00.951Z
+end: 2024-05-04T03:37:00.951Z
 description: In the wake of the 1967 Six-Day War, with the borders finally open
   after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in
   search of the echoes of a home they were forced to abandon during the Nakba in
