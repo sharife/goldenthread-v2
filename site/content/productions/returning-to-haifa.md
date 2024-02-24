@@ -29,6 +29,21 @@ bottom:
     - image: https://ucarecdn.com/c5f1cd19-7a19-48c9-b03e-925baf0d6137/
     - image: https://ucarecdn.com/dc3cbdaa-4ad5-4dda-9540-66de9550de15/
     - image: https://ucarecdn.com/47c74001-a5d9-4fb1-a412-a3c9306eaf15/
+  text: >-
+    [AROC: Arab Resource and Organizing
+    Center](https://www.araborganizing.org/) 
+
+
+    [Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/) 
+
+
+    [MECA: Middle East Children's Alliance](https://www.mecaforpeace.org/) 
+
+
+    [NorCal Sabeel](https://www.norcalsabeel.org/) 
+
+
+    [Palestinian Youth Movement](https://palestinianyouthmovement.com/)
 ---
 **Ghassan Kanafani** was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. Using the words of Palestinian actor and storyteller Raeda Taha, in her new play *The Gazelle of Aka* about the life and death of Ghassan Kanafani, she writes: “Ghassan was a journalist, political activist, and the spokesman for the PFLP (The Popular Front for the Liberation of Palestine). He used to paint, draw, sculpt, and constantly sketch. He loved drawing - and especially enjoyed gifting his drawings to his friends \[...] Ghassan wrote Life. He wrote about his love of songs, music, and literature. He wrote about his childhood memories as a refugee, he wrote about the refugee camps. He wrote about the Nakba and the collective expulsion. He wrote about his assassination.” 
 
