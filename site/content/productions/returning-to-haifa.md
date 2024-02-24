@@ -21,6 +21,14 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
+bottom:
+  heading: Community Partners
+  logos:
+    - image: https://ucarecdn.com/24db5f03-a28a-4e21-bd75-004aeb1e3d64/
+    - image: https://ucarecdn.com/d790097c-f296-4e17-a0b2-3f91aba988dd/
+    - image: https://ucarecdn.com/c5f1cd19-7a19-48c9-b03e-925baf0d6137/
+    - image: https://ucarecdn.com/dc3cbdaa-4ad5-4dda-9540-66de9550de15/
+    - image: https://ucarecdn.com/47c74001-a5d9-4fb1-a412-a3c9306eaf15/
 ---
 **Ghassan Kanafani** was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. Using the words of Palestinian actor and storyteller Raeda Taha, in her new play *The Gazelle of Aka* about the life and death of Ghassan Kanafani, she writes: “Ghassan was a journalist, political activist, and the spokesman for the PFLP (The Popular Front for the Liberation of Palestine). He used to paint, draw, sculpt, and constantly sketch. He loved drawing - and especially enjoyed gifting his drawings to his friends \[...] Ghassan wrote Life. He wrote about his love of songs, music, and literature. He wrote about his childhood memories as a refugee, he wrote about the refugee camps. He wrote about the Nakba and the collective expulsion. He wrote about his assassination.” 
 
