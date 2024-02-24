@@ -237,15 +237,15 @@ cast:
     - name: Amina Goodyear
       credit: Aswat Ensemble
       image: https://ucarecdn.com/dd3f1ae7-8c21-4e0b-9f64-c4a129b3a442/
-      bio: Amina Goodyear is best known as an Egyptian dancer and dance teacher turned
-        percussionist, active since the mid 1960's. Since the 1980's she founded
-        many musical groups such as the Cairo Cats, a percussion ensemble led by
-        her daughter Susu Pampanin. She also co-founded The Arabian Knights Band
-        and Caravan Band, and was founding member of Pasha Band. Today she is a
-        founding member of Aswat Arab Music Ensemble and AWE, Aswat Women’s
-        Ensemble, Dulabina, Beit el Tarab and SF Sahra Band. She is also a
-        member of and travels throughout the U.S with the Georges Lammam
-        Ensemble.
+      bio: "**Amina Goodyear** is best known as an Egyptian dancer and dance teacher
+        turned percussionist, active since the mid 1960's. Since the 1980's she
+        founded many musical groups such as the Cairo Cats, a percussion
+        ensemble led by her daughter Susu Pampanin. She also co-founded The
+        Arabian Knights Band and Caravan Band, and was founding member of Pasha
+        Band. Today she is a founding member of Aswat Arab Music Ensemble and
+        AWE, Aswat Women’s Ensemble, Dulabina, Beit el Tarab and SF Sahra Band.
+        She is also a member of and travels throughout the U.S with the Georges
+        Lammam Ensemble."
     - name: Amira Kotb
       credit: Aswat Ensemble
       image: https://ucarecdn.com/13c7a57c-63f0-476e-989c-d4183e8993ab/
