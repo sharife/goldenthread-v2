@@ -234,6 +234,18 @@ cast:
         graduate of The Juilliard School and Mannes School of Music, Edrees also
         specializes in European classical music and Tango music.
       link: https://basmaedreesviolin.com/music-in-takht
+    - name: Amina Goodyear
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/dd3f1ae7-8c21-4e0b-9f64-c4a129b3a442/
+      bio: Amina Goodyear is best known as an Egyptian dancer and dance teacher turned
+        percussionist, active since the mid 1960's. Since the 1980's she founded
+        many musical groups such as the Cairo Cats, a percussion ensemble led by
+        her daughter Susu Pampanin. She also co-founded The Arabian Knights Band
+        and Caravan Band, and was founding member of Pasha Band. Today she is a
+        founding member of Aswat Arab Music Ensemble and AWE, Aswat Women’s
+        Ensemble, Dulabina, Beit el Tarab and SF Sahra Band. She is also a
+        member of and travels throughout the U.S with the Georges Lammam
+        Ensemble.
 bottom:
   logos: []
   text: >-
