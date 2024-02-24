@@ -43,31 +43,6 @@ cast:
         Lebanon, Jordan, Syria, and Palestine. 
 
         Our culture and very existence has become inseparable from resistance to colonialism and state violence. Dabkeh is more than just a celebratory event – its every movement is an ode to our Martyrs, a salute to our resistance fighters and political prisoners, and an expression of our will toward our collective liberation. Al-Juthoor is the soul of the dispossessed awaiting their return to their homes, olive groves, villages, and to their land. With each stomp that shakes the earth, we seek to send tremors to those that oppress us. The art of dabkeh celebrates our resistance, asserts our rage against occupation, and demonstrates our commitment to liberation while reminding the world that we are resilient and steadfast. Our people and our land will be free. WE SHALL RETURN!
-    - bio: >-
-        **Aswat Ensemble** company members are **Bisan Shehadeh** (Executive
-        Director), **Basma Edrees** (violin), **Susu Pampanin** (percussion),
-        **Amina Goodyear** (rik), **Rana Mroue** (vocalist), **Amira Kotb**
-        (vocalist), **Yasmeen Daifallah** (vocalist). 
-
-        Zawaya's musical department, **Aswat Ensemble**, is the Bay Area’s premier Arab Music Ensemble. True to Zawaya’s commitment to pluralism and inclusion, Aswat is a multi-ethnic, multi-racial, multi-cultural music ensemble and volunteer choir that reaches out to the diverse Bay Area community with folkloric, classical, and contemporary Arabic music. 
-
-        Zawaya’s vision is to achieve intercultural solidarity, respect, and understanding through the universal languages of music and the arts. We seek to educate, preserve, produce, and promote Arab Arts in the Bay Area and as broad as our efforts can reach.
-      link: https://zawaya.org/site/aswat-ensemble/
-      image: https://ucarecdn.com/7a530a62-ab27-446f-94d2-166e52d56e85/
-      name: Aswat Ensemble
-      credit: music ensemble
-    - name: Nabila Mango
-      credit: in memoriam
-      image: https://ucarecdn.com/b1642fc9-c14b-4ee8-b461-0f81aa6b2a5d/
-      bio: "**Nabila Mango** co-founded Zawaya with Haya Shawa Ben-Halim in 2003 to
-        preserve and promote the Arab arts in the San Francisco Bay Area. Aswat,
-        which predates Zawaya by three years, is Zawaya’s flagship Arabic music
-        and performance program and the Bay Area’s premiere Arabic music
-        ensemble. A member of school choirs in high school and college, Nabila
-        never lost her passion for the performing arts. Nabila was known as
-        someone who reads prolifically in politics, women’s affairs, languages,
-        music history, and cultural issues and owned the largest library of
-        Arabic music in the U.S."
     - name: Susan Abulhawa
       credit: novelist
       bio: "**Susan Abulhawa** is a novelist, poet, essayist, scientist, mother, and
@@ -217,14 +192,39 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - bio: >-
+        **Aswat Ensemble** company members are **Bisan Shehadeh** (Executive
+        Director), **Basma Edrees** (violin), **Susu Pampanin** (percussion),
+        **Amina Goodyear** (rik), **Rana Mroue** (vocalist), **Amira Kotb**
+        (vocalist), **Yasmeen Daifallah** (vocalist). 
+
+        Zawaya's musical department, **Aswat Ensemble**, is the Bay Area’s premier Arab Music Ensemble. True to Zawaya’s commitment to pluralism and inclusion, Aswat is a multi-ethnic, multi-racial, multi-cultural music ensemble and volunteer choir that reaches out to the diverse Bay Area community with folkloric, classical, and contemporary Arabic music. 
+
+        Zawaya’s vision is to achieve intercultural solidarity, respect, and understanding through the universal languages of music and the arts. We seek to educate, preserve, produce, and promote Arab Arts in the Bay Area and as broad as our efforts can reach.
+      link: https://zawaya.org/site/aswat-ensemble/
+      image: https://ucarecdn.com/7a530a62-ab27-446f-94d2-166e52d56e85/
+      name: Aswat Ensemble
+      credit: music ensemble
+    - name: Nabila Mango
+      credit: in memoriam
+      image: https://ucarecdn.com/b1642fc9-c14b-4ee8-b461-0f81aa6b2a5d/
+      bio: "**Nabila Mango** co-founded Zawaya with Haya Shawa Ben-Halim in 2003 to
+        preserve and promote the Arab arts in the San Francisco Bay Area. Aswat,
+        which predates Zawaya by three years, is Zawaya’s flagship Arabic music
+        and performance program and the Bay Area’s premiere Arabic music
+        ensemble. A member of school choirs in high school and college, Nabila
+        never lost her passion for the performing arts. Nabila was known as
+        someone who reads prolifically in politics, women’s affairs, languages,
+        music history, and cultural issues and owned the largest library of
+        Arabic music in the U.S."
     - name: Yasmeen Daifallah
       credit: "Aswat Ensemble "
       image: https://ucarecdn.com/451c0f9c-5ddb-43ca-ba46-c266e609f726/
     - name: Basma Edrees
       credit: Aswat Ensemble
       image: https://ucarecdn.com/12299a70-4006-46ce-a56a-331b5ae6a177/
-      bio: Basma Edrees is an Egyptian violinist, performer, and educator based in the
-        SF Bay Area. She is the founder of [Music
+      bio: "**Basma Edrees** is an Egyptian violinist, performer, and educator based
+        in the SF Bay Area. She is the founder of [Music
         in-Takht](https://basmaedreesviolin.com/music-in-takht), the Bay Area's
         Egyptian heritage ensemble. Passionate about introducing the world to
         the rich musical heritage of the Arab world, Edrees has given Arabic
@@ -232,20 +232,20 @@ cast:
         music and European counterpoint at the San Francisco Conservatory of
         Music and is currently a violin instructor at Santa Clara University. A
         graduate of The Juilliard School and Mannes School of Music, Edrees also
-        specializes in European classical music and Tango music.
+        specializes in European classical music and Tango music."
       link: https://basmaedreesviolin.com/music-in-takht
     - name: Amina Goodyear
       credit: Aswat Ensemble
       image: https://ucarecdn.com/dd3f1ae7-8c21-4e0b-9f64-c4a129b3a442/
-      bio: Amina Goodyear is best known as an Egyptian dancer and dance teacher turned
-        percussionist, active since the mid 1960's. Since the 1980's she founded
-        many musical groups such as the Cairo Cats, a percussion ensemble led by
-        her daughter Susu Pampanin. She also co-founded The Arabian Knights Band
-        and Caravan Band, and was founding member of Pasha Band. Today she is a
-        founding member of Aswat Arab Music Ensemble and AWE, Aswat Women’s
-        Ensemble, Dulabina, Beit el Tarab and SF Sahra Band. She is also a
-        member of and travels throughout the U.S with the Georges Lammam
-        Ensemble.
+      bio: "**Amina Goodyear** is best known as an Egyptian dancer and dance teacher
+        turned percussionist, active since the mid 1960's. Since the 1980's she
+        founded many musical groups such as the Cairo Cats, a percussion
+        ensemble led by her daughter Susu Pampanin. She also co-founded The
+        Arabian Knights Band and Caravan Band, and was founding member of Pasha
+        Band. Today she is a founding member of Aswat Arab Music Ensemble and
+        AWE, Aswat Women’s Ensemble, Dulabina, Beit el Tarab and SF Sahra Band.
+        She is also a member of and travels throughout the U.S with the Georges
+        Lammam Ensemble."
     - name: Amira Kotb
       credit: Aswat Ensemble
       image: https://ucarecdn.com/13c7a57c-63f0-476e-989c-d4183e8993ab/
@@ -255,6 +255,18 @@ cast:
         French and Greek. In addition to being a vocalist with Aswat and Huyam
         Ensembles, Amira is a student of the qanun instrument, a mother of two
         and a non-profit executive."
+    - bio: A scientist by training and profession, it took **Rana Mroue** a move to
+        the Bay Area from her native Lebanon to finally indulge in her lifelong
+        passion for Arabic music. Joining Aswat Ensemble in 2007, Rana found a
+        way to connect her love of music with community service, and quickly
+        started, under the tutelage of Nabila Mango, supporting Aswat with
+        administrative tasks from programming to grant writing. Rana continues
+        to be an active member in Aswat as a singer and vocal trainer, and is
+        currently overseeing the execution of team-building activities that aim
+        to expand DEI values in the organization.
+      name: Rana Mroue
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/3dd805c5-e9b5-4376-91e3-1b3977494b9f/
 bottom:
   logos: []
   text: >-
