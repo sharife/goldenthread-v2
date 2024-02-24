@@ -246,6 +246,15 @@ cast:
         Ensemble, Dulabina, Beit el Tarab and SF Sahra Band. She is also a
         member of and travels throughout the U.S with the Georges Lammam
         Ensemble.
+    - name: Amira Kotb
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/13c7a57c-63f0-476e-989c-d4183e8993ab/
+      bio: "**Amira Kotb** is an Egyptian American singer that specializes in Arab and
+        spiritual music. She writes and performs sacred songs in Arabic, and
+        sings in several other languages including Turkish, Persian, English,
+        French and Greek. In addition to being a vocalist with Aswat and Huyam
+        Ensembles, Amira is a student of the qanun instrument, a mother of two
+        and a non-profit executive."
 bottom:
   logos: []
   text: >-
