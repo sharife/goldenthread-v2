@@ -152,7 +152,8 @@ cast:
         toured 25 public schools in Kentucky and was supported by the Doris Duke
         Foundation for Islamic Arts. Denmo holds an MFA in Lecoq-based Actor
         Created Physical Theater (Naropa University) and a BFA in Acting (Boston
-        University). [denmoibrahim.com](https://www.denmoibrahim.com/)"
+        University). [](https://www.denmoibrahim.com/)"
+      link: https://www.denmoibrahim.com/
     - name: Raeda Taha
       credit: playwright
       bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
