@@ -279,6 +279,9 @@ cast:
         Farid and his band in Cairo, and in 2020 with Reda Henkesh of the
         world-famed Henkesh family - artists from Mohamed Ali.
       link: https://www.susudrummer.com/
+    - name: Bisan Shehadeh
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/e02d3ed6-44bf-4059-8a06-87a9c479418e/
 bottom:
   logos: []
   text: >-
