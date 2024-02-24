@@ -217,6 +217,9 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - name: Yasmeen Daifallah
+      credit: "Aswat Ensemble "
+      image: https://ucarecdn.com/451c0f9c-5ddb-43ca-ba46-c266e609f726/
 bottom:
   logos: []
   text: >-
