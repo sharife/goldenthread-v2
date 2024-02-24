@@ -64,16 +64,17 @@ cast:
       image: https://ucarecdn.com/50571502-0612-4c7b-8a30-130b825e8cbb/
       link: https://susanabulhawa.com/
     - name: Amal Bisharat
-      bio: "**Amal Bisharat** *(she/her)* is a Palestinian American multidisciplinary
-        artist: a theatre director, writer, producer, musician, and
-        photographer. Bisharat is a grateful recipient of the Theater Bay Area
-        Arts Leadership Residency Grant (2022-23), Theater Bay Area CA$H Creates
-        Grant (2022), and San Francisco Arts Commission Artist Grant (2023). She
-        holds a BA in Music and Theater and for 12 years worked as a director
-        and music director in partnership with the San Francisco Unified School
-        District. Currently Bisharat works with Golden Thread Productions,
-        recently co-producing and directing for their signature program
-        [ReOrient Festival of Short Plays
+      bio: >-
+        **Amal Bisharat** *(she/her)* is a Palestinian American
+        multidisciplinary artist: a theatre director, writer, producer,
+        musician, and photographer. Bisharat is a grateful recipient of the
+        Theater Bay Area Arts Leadership Residency Grant (2022-23), Theater Bay
+        Area CA$H Creates Grant (2022), and San Francisco Arts Commission Artist
+        Grant (2023). She holds a BA in Music and Theater and for 12 years
+        worked as a director and music director in partnership with the San
+        Francisco Unified School District. Currently Bisharat works with Golden
+        Thread Productions, recently co-producing and directing for their
+        signature program [ReOrient Festival of Short Plays
         (2023)](https://goldenthread.org/productions/reorient-2023/), as well as
         directing an online reading of *[The Gaza
         Monologues](https://goldenthread.org/posts/the-gaza-monologues/)* by
@@ -86,7 +87,15 @@ cast:
         Gardens Festival, Sarah Bush Dance Project, and Alonzo King Lines
         Ballet. Bisharat believes in the transformative power of art and
         storytelling whether on a stage, in a photograph, or in the stories we
-        tell ourselves."
+        tell ourselves. 
+
+
+
+
+        **Amal Bisharat** (*she/her*) is a Palestinian American multidisciplinary artist: a theatre director, theatre maker, producer, actor, musician, and photographer. Bisharat holds a BA in Music and Theater from Minnesota State University-Moorhead and for 12 years worked as a director and music director in partnership with San Francisco Unified School District. Currently she works with Golden Thread Productions, recently co-producing and directing for their signature program [ReOrient Festival of Short Plays (2023](https://goldenthread.org/productions/reorient-2023/)), and directing an online reading of *[The Gaza Monologues](https://goldenthread.org/posts/the-gaza-monologues/)* by Ashtar Theater (2023). Bisharat is also in the process of creating her first musical, "Morning in Jenin Musical", a Palestinian refugee story adapted from the internationally best-selling novel by the same name by Susan Abulhawa. After many years hiatus from acting, Bisharat is thrilled to be returning to her roots this year to play the role of Safiyya in Golden Thread's upcoming production of *[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)* by Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi. Bisharat is a grateful recipient of the Theater Bay Area Arts Leadership Residency Grant (2022-2023), Theater Bay Area CA$H Creates Grant (2022), and San Francisco Arts Commission Artist Grant (2023).
+
+
+        Bisharat is also a photographer with her own arts-focused photography company, capturing the magic of professional dance, theater, and music performances for groups like Yerba Buena Gardens Festival, Sarah Bush Dance Project, and Alonzo King Lines Ballet. Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
       link: https://www.amalbphotography.com/about
       image: https://ucarecdn.com/332937c9-4bde-4127-9c5b-40e510de232c/
       credit: writer, musician
