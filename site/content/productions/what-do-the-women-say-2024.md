@@ -255,6 +255,18 @@ cast:
         French and Greek. In addition to being a vocalist with Aswat and Huyam
         Ensembles, Amira is a student of the qanun instrument, a mother of two
         and a non-profit executive."
+    - bio: A scientist by training and profession, it took **Rana Mroue** a move to
+        the Bay Area from her native Lebanon to finally indulge in her lifelong
+        passion for Arabic music. Joining Aswat Ensemble in 2007, Rana found a
+        way to connect her love of music with community service, and quickly
+        started, under the tutelage of Nabila Mango, supporting Aswat with
+        administrative tasks from programming to grant writing. Rana continues
+        to be an active member in Aswat as a singer and vocal trainer, and is
+        currently overseeing the execution of team-building activities that aim
+        to expand DEI values in the organization.
+      name: Rana Mroue
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/3dd805c5-e9b5-4376-91e3-1b3977494b9f/
 bottom:
   logos: []
   text: >-
