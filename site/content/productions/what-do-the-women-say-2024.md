@@ -267,6 +267,18 @@ cast:
       name: Rana Mroue
       credit: Aswat Ensemble
       image: https://ucarecdn.com/3dd805c5-e9b5-4376-91e3-1b3977494b9f/
+    - name: Susu Pampanin
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/63d3e2cb-2dbe-4717-a6f6-a8ea2793498a/
+      bio: Susu Pampanin is a world-renowned percussionist specializing in
+        Middle-Eastern percussion. She has recorded and performed with women’s
+        world music fusion group, Wild Mango, percussion ensemble, Keith Terri
+        and Crosspulse, and Stella Mara. In 1990, Susu and the Cairo Cats,
+        Dancing Drums was released, and 2000, released her solo album Susu
+        Pampanin “Hands of Time”. In 2013 she recorded “Nostalgia” with Safaa
+        Farid and his band in Cairo, and in 2020 with Reda Henkesh of the
+        world-famed Henkesh family - artists from Mohamed Ali.
+      link: https://www.susudrummer.com/
 bottom:
   logos: []
   text: >-
