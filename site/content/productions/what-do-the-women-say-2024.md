@@ -220,6 +220,20 @@ cast:
     - name: Yasmeen Daifallah
       credit: "Aswat Ensemble "
       image: https://ucarecdn.com/451c0f9c-5ddb-43ca-ba46-c266e609f726/
+    - name: Basma Edrees
+      credit: Aswat Ensemble
+      image: https://ucarecdn.com/12299a70-4006-46ce-a56a-331b5ae6a177/
+      bio: Basma Edrees is an Egyptian violinist, performer, and educator based in the
+        SF Bay Area. She is the founder of [Music
+        in-Takht](https://basmaedreesviolin.com/music-in-takht), the Bay Area's
+        Egyptian heritage ensemble. Passionate about introducing the world to
+        the rich musical heritage of the Arab world, Edrees has given Arabic
+        music workshops at UC Berkeley and Stanford. She also taught Arabic
+        music and European counterpoint at the San Francisco Conservatory of
+        Music and is currently a violin instructor at Santa Clara University. A
+        graduate of The Juilliard School and Mannes School of Music, Edrees also
+        specializes in European classical music and Tango music.
+      link: https://basmaedreesviolin.com/music-in-takht
 bottom:
   logos: []
   text: >-
