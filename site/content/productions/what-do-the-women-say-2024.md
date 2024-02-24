@@ -154,6 +154,30 @@ cast:
         Created Physical Theater (Naropa University) and a BFA in Acting (Boston
         University). [](https://www.denmoibrahim.com/)"
       link: https://www.denmoibrahim.com/
+    - name: Bahar Royaee
+      credit: composer
+      image: https://ucarecdn.com/dc6e345f-8ad4-4df1-b6b2-8ce30b95e828/
+      bio: Bahar Royaee The acoustic and electro-acoustic music of Iranian
+        composer/sound designer Bahar Royaee has been acclaimed as “succeed(ing)
+        as a poetic incantation, brimming with ideas and colors” (Classical
+        Voice North America) and “haunting” (Boston Arts Review). Working in NYC
+        and Boston, Bahar has received the Fromm Music Foundation Commission
+        (2022), as well as honors such as the Pnea, National Sawdust Hildegard,
+        the Roger Session Memorial Composition and Korourian Electroacoustic
+        Music Awards. Bahar writes music for various genres from opera, theater
+        and film to chamber music. Her work has been performed by luminaries
+        such as Claire Chase, Suzanne Farrin, International Contemporary
+        Ensemble, Ensemble der gelbe Klang, Jack Quartet, Loadbang, Contemporary
+        Insights of Leipzig, Guerrilla Opera, Longleash. Kimia Hesabi, and
+        Splice Ensemble. Significant chamber music performances include
+        Ultraschall Berlin with Muriel Razavi (2023), ICE Festival Germany with
+        ensemble Tempus Konnex (2022), Berlin Prize for Young Artists with Adam
+        Woodward (2023), Tehran Electroacoustic Music Festival (2022) and
+        Time:Spans Festival (2020) with International Contemporary Ensemble and
+        Suzanne Farrin. Royaee is an adjunct lecturer at Baruch College and
+        Artist-in-Residence at Longy School of Music. Her composition mentors
+        have included Marti Epstein, Andrew List, Felipe Lara, Suzanne Farrin
+        and Jason Eckardt.
     - name: Raeda Taha
       credit: playwright
       bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
@@ -193,30 +217,6 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
-    - name: Bahar Royaee
-      credit: composer
-      image: https://ucarecdn.com/dc6e345f-8ad4-4df1-b6b2-8ce30b95e828/
-      bio: Bahar Royaee The acoustic and electro-acoustic music of Iranian
-        composer/sound designer Bahar Royaee has been acclaimed as “succeed(ing)
-        as a poetic incantation, brimming with ideas and colors” (Classical
-        Voice North America) and “haunting” (Boston Arts Review). Working in NYC
-        and Boston, Bahar has received the Fromm Music Foundation Commission
-        (2022), as well as honors such as the Pnea, National Sawdust Hildegard,
-        the Roger Session Memorial Composition and Korourian Electroacoustic
-        Music Awards. Bahar writes music for various genres from opera, theater
-        and film to chamber music. Her work has been performed by luminaries
-        such as Claire Chase, Suzanne Farrin, International Contemporary
-        Ensemble, Ensemble der gelbe Klang, Jack Quartet, Loadbang, Contemporary
-        Insights of Leipzig, Guerrilla Opera, Longleash. Kimia Hesabi, and
-        Splice Ensemble. Significant chamber music performances include
-        Ultraschall Berlin with Muriel Razavi (2023), ICE Festival Germany with
-        ensemble Tempus Konnex (2022), Berlin Prize for Young Artists with Adam
-        Woodward (2023), Tehran Electroacoustic Music Festival (2022) and
-        Time:Spans Festival (2020) with International Contemporary Ensemble and
-        Suzanne Farrin. Royaee is an adjunct lecturer at Baruch College and
-        Artist-in-Residence at Longy School of Music. Her composition mentors
-        have included Marti Epstein, Andrew List, Felipe Lara, Suzanne Farrin
-        and Jason Eckardt.
 bottom:
   logos: []
   text: >-
