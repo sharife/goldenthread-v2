@@ -63,27 +63,6 @@ cast:
         Palestinian literature festival."
       image: https://ucarecdn.com/50571502-0612-4c7b-8a30-130b825e8cbb/
       link: https://susanabulhawa.com/
-    - bio: "**Souad Faisal Amin** is a Palestinian activist, artist, and fashion
-        designer based in Beirut, Lebanon. In 1985, she earned her Master's
-        degree in Food Technology and Nutrition from the American University of
-        Beirut but her passion for the arts led her to pursue a Bachelor of Fine
-        Arts degree from the Lebanese American University in 2000, followed by
-        Fashion Design classes at Esmode between 2005 and 2007. Between 2002 and
-        2012, Souad dedicated her time and skills to volunteering in Palestinian
-        refugee camps in Lebanon with different non-governmental organizations.
-        She also served on the Board of Directors of LOYAC, a Kuwaiti NGO
-        working in Lebanon to empower youth through various projects and
-        initiatives. In 2012, Souad took a significant step in her advocacy
-        journey by founding *Threads of Belonging*, an initiative aimed at
-        celebrating Palestinian cultural identity and promoting women’s
-        empowerment within the refugee communities. To date, *Threads of
-        Belonging* has employed more than 80 women, who produce hundreds of
-        handmade pieces reflecting the rich Palestinian cultural heritage
-        through thousands of stitches that tell stories of resilience and
-        tradition."
-      name: Souad Amin
-      image: https://ucarecdn.com/981107f5-fe4f-4909-ab36-5e06abae15e6/
-      credit: curator, Threads of Belonging
     - name: Amal Bisharat
       bio: "**Amal Bisharat** *(she/her)* is a Palestinian American multidisciplinary
         artist: a theatre director, writer, producer, musician, and
@@ -129,6 +108,28 @@ cast:
         Created Physical Theater (Naropa University) and a BFA in Acting (Boston
         University). [](https://www.denmoibrahim.com/)"
       link: https://www.denmoibrahim.com/
+    - name: Raeda Taha
+      credit: playwright
+      bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
+        activist. She authored and performed several one-woman plays inspired by
+        her life story and her experience as a Palestinian in the diaspora. Most
+        notably, her play *Where Can I Find Someone Like You, Ali?* directed by
+        Lina Abyad received international acclaim and was performed in over 20
+        countries. The play is featured in Brill’s *Critical Anthology on Modern
+        and Contemporary Political Theater* from the Levant, edited by Robert
+        Myers and Nada Saab. Her other one-woman plays include *36 Abbas
+        Street/Haifa 2017*, *The Fig Tree*, and *The Gazelle of Akka*. As an
+        actor, Raeda has played significant roles in plays across the Arab
+        World, including *Returning to Haifa* (2011) by Ghassan Kanafani, *80
+        Degree* (2012) directed by Alia Al-Khaldi, *Petra Rocks* (2013-2014)
+        directed by Lina Abyad, and *Ghalia’s Miles* (2017) by Zoukak Theatre
+        Company. Raeda holds a BA in Media and Journalism from George Mason
+        University. Her notable career includes serving as a media attaché for
+        President Yasser Arafat (1987-1994) and later chairing the
+        administrative committee at the Khalil al-Sakakini Cultural Center in
+        Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
+        Kanafani Foundation in Beirut."
+      image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
     - name: Bahar Royaee
       credit: composer
       image: https://ucarecdn.com/dc6e345f-8ad4-4df1-b6b2-8ce30b95e828/
@@ -153,28 +154,27 @@ cast:
         Artist-in-Residence at Longy School of Music. Her composition mentors
         have included Marti Epstein, Andrew List, Felipe Lara, Suzanne Farrin
         and Jason Eckardt.
-    - name: Raeda Taha
-      credit: playwright
-      bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
-        activist. She authored and performed several one-woman plays inspired by
-        her life story and her experience as a Palestinian in the diaspora. Most
-        notably, her play *Where Can I Find Someone Like You, Ali?* directed by
-        Lina Abyad received international acclaim and was performed in over 20
-        countries. The play is featured in Brill’s *Critical Anthology on Modern
-        and Contemporary Political Theater* from the Levant, edited by Robert
-        Myers and Nada Saab. Her other one-woman plays include *36 Abbas
-        Street/Haifa 2017*, *The Fig Tree*, and *The Gazelle of Akka*. As an
-        actor, Raeda has played significant roles in plays across the Arab
-        World, including *Returning to Haifa* (2011) by Ghassan Kanafani, *80
-        Degree* (2012) directed by Alia Al-Khaldi, *Petra Rocks* (2013-2014)
-        directed by Lina Abyad, and *Ghalia’s Miles* (2017) by Zoukak Theatre
-        Company. Raeda holds a BA in Media and Journalism from George Mason
-        University. Her notable career includes serving as a media attaché for
-        President Yasser Arafat (1987-1994) and later chairing the
-        administrative committee at the Khalil al-Sakakini Cultural Center in
-        Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
-        Kanafani Foundation in Beirut."
-      image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
+    - bio: "**Souad Faisal Amin** is a Palestinian activist, artist, and fashion
+        designer based in Beirut, Lebanon. In 1985, she earned her Master's
+        degree in Food Technology and Nutrition from the American University of
+        Beirut but her passion for the arts led her to pursue a Bachelor of Fine
+        Arts degree from the Lebanese American University in 2000, followed by
+        Fashion Design classes at Esmode between 2005 and 2007. Between 2002 and
+        2012, Souad dedicated her time and skills to volunteering in Palestinian
+        refugee camps in Lebanon with different non-governmental organizations.
+        She also served on the Board of Directors of LOYAC, a Kuwaiti NGO
+        working in Lebanon to empower youth through various projects and
+        initiatives. In 2012, Souad took a significant step in her advocacy
+        journey by founding *Threads of Belonging*, an initiative aimed at
+        celebrating Palestinian cultural identity and promoting women’s
+        empowerment within the refugee communities. To date, *Threads of
+        Belonging* has employed more than 80 women, who produce hundreds of
+        handmade pieces reflecting the rich Palestinian cultural heritage
+        through thousands of stitches that tell stories of resilience and
+        tradition."
+      name: Souad Amin
+      image: https://ucarecdn.com/981107f5-fe4f-4909-ab36-5e06abae15e6/
+      credit: curator, Threads of Belonging
     - name: Threads of Belonging
       credit: exhibit
       bio: "**THREADS OF BELONGING** originated in 2011 when it started as an order
@@ -205,18 +205,6 @@ cast:
       image: https://ucarecdn.com/7a530a62-ab27-446f-94d2-166e52d56e85/
       name: Aswat Ensemble
       credit: music ensemble
-    - name: Nabila Mango
-      credit: in memoriam
-      image: https://ucarecdn.com/b1642fc9-c14b-4ee8-b461-0f81aa6b2a5d/
-      bio: "**Nabila Mango** co-founded Zawaya with Haya Shawa Ben-Halim in 2003 to
-        preserve and promote the Arab arts in the San Francisco Bay Area. Aswat,
-        which predates Zawaya by three years, is Zawaya’s flagship Arabic music
-        and performance program and the Bay Area’s premiere Arabic music
-        ensemble. A member of school choirs in high school and college, Nabila
-        never lost her passion for the performing arts. Nabila was known as
-        someone who reads prolifically in politics, women’s affairs, languages,
-        music history, and cultural issues and owned the largest library of
-        Arabic music in the U.S."
     - name: Yasmeen Daifallah
       credit: "Aswat Ensemble "
       image: https://ucarecdn.com/451c0f9c-5ddb-43ca-ba46-c266e609f726/
@@ -282,6 +270,18 @@ cast:
     - name: Bisan Shehadeh
       credit: Aswat Ensemble
       image: https://ucarecdn.com/e02d3ed6-44bf-4059-8a06-87a9c479418e/
+    - name: Nabila Mango
+      credit: in memoriam
+      image: https://ucarecdn.com/b1642fc9-c14b-4ee8-b461-0f81aa6b2a5d/
+      bio: "**Nabila Mango** co-founded Zawaya with Haya Shawa Ben-Halim in 2003 to
+        preserve and promote the Arab arts in the San Francisco Bay Area. Aswat,
+        which predates Zawaya by three years, is Zawaya’s flagship Arabic music
+        and performance program and the Bay Area’s premiere Arabic music
+        ensemble. A member of school choirs in high school and college, Nabila
+        never lost her passion for the performing arts. Nabila was known as
+        someone who reads prolifically in politics, women’s affairs, languages,
+        music history, and cultural issues and owned the largest library of
+        Arabic music in the U.S."
 bottom:
   logos: []
   text: >-
