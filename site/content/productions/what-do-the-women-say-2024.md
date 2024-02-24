@@ -175,6 +175,23 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - name: Denmo Ibrahim
+      credit: actor
+      image: https://ucarecdn.com/49f9b12d-b869-4ecd-ade4-475c01dd73f9/
+      bio: "**Denmo Ibrahim** is an American actor and playwright of Egyptian descent.
+        Her work has been produced and developed by Marin Theatre Company, New
+        York Theatre Workshop, The Civilians R&D Series, Amphibian Stage, Alter
+        Theatre, Shotgun Players, Golden Thread and Crowded Fire. Regional
+        acting credits include Berkeley Repertory, The Old Globe, Seattle
+        Repertory, American Conservatory of Theatre and CalShakes. Denmo is a
+        two-time winner of the San Francisco Bay Area Theatre Critics Circle and
+        Theatre Bay Area awards and a finalist for SPACE at Ryder Farm, O’Neill
+        National Playwrights Conference, Rainin Fellowship and Sundance Theatre
+        Lab. Her children’s book Zaynab’s Night of Destiny (Fons Vitae, 2021)
+        toured 25 public schools in Kentucky and was supported by the Doris Duke
+        Foundation for Islamic Arts. Denmo holds an MFA in Lecoq-based Actor
+        Created Physical Theater (Naropa University) and a BFA in Acting (Boston
+        University). [denmoibrahim.com](https://www.denmoibrahim.com/)"
 bottom:
   logos: []
   text: >-
