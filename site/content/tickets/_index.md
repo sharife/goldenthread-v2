@@ -114,7 +114,7 @@ Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are 
 A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
 
 **COMMUNITY WALK-INS**\
-5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
+5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advance by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
 
 **AEA WALK-INS** \
 We welcome all current AEA members to redeem complimentary walk-in tickets to any main stage show, except opening night, pending availability. You may email ahead of time to check availability, but there is no need to contact us in advance as all walk-ins are based solely on availability. We offer one seat per member, but may accommodate one additional guest when possible. 
