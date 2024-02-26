@@ -102,10 +102,10 @@ Thank you for your interest in purchasing tickets! Our ticket pricing is a refle
 * Everyone should have access to a ticket price they find affordable. 
 * No one should be turned away for lack of funds.
 
-We offer a range of tickets prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
+We offer a range of ticket prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
 
 **NAME YOUR PRICE** \
-Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple prices points at $50 and under. 
+Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple price points at $50 and under. 
 
 **PAY IT FORWARD** \
 Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are intentionally set at multiple price points up to $100 to support access to low-to-no cost tickets, like our Community Walk-ins. 
@@ -114,7 +114,7 @@ Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are 
 A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
 
 **COMMUNITY WALK-INS**\
-5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. 
+5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
 
 **AEA WALK-INS** \
 We welcome all current AEA members to redeem complimentary walk-in tickets to any main stage show, except opening night, pending availability. You may email ahead of time to check availability, but there is no need to contact us in advance as all walk-ins are based solely on availability. We offer one seat per member, but may accommodate one additional guest when possible. 
