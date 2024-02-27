@@ -8,7 +8,9 @@ sidebar:
 ---
 **Usher an Event**
 
-We are currently seeking volunteers for ***[What Do the Women Say? 2024: Expressions of Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/)***, on Friday, March 8th!
+We are currently seeking volunteers for ***[What Do the Women Say? 2024: Expressions of Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/)***, on Friday, March 8th! 
+
+![](https://ucarecdn.com/92289b04-57b0-492b-b36b-0d1d9b12f862/)
 
 Volunteers help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free!
 
