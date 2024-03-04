@@ -27,22 +27,6 @@ ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00
 ticketinfo: "Tickets $25 - $100. No one turned away for lack of funds. "
 cast:
   items:
-    - name: Al-Juthoor
-      credit: dance company
-      image: https://ucarecdn.com/59fe8f01-cc43-40d9-bd79-bb5d74215558/
-      bio: >-
-        Al-Juthoor company members are **Zaynah Hindi**, **Yasmeen Odeh**,
-        **Christina Harb**, **Leila Mire**, **Basma**, **Wassim Hage**, **Linda
-        Zaro**, **Monica McCown**. Al-Juthoor ("Roots" in Arabic) of the Arab
-        Diaspora is a Dabkeh troupe that raises awareness about Arab and
-        Palestinian struggle, culture, and art. We empower our community and
-        youth to take pride in our heritage, our past, and our future by
-        honoring our history and celebrating our resistance. Across the borders
-        of our diaspora, we assert our community’s connection to our deep roots
-        in the land and the people throughout the Arab world, from Iraq,
-        Lebanon, Jordan, Syria, and Palestine. 
-
-        Our culture and very existence has become inseparable from resistance to colonialism and state violence. Dabkeh is more than just a celebratory event – its every movement is an ode to our Martyrs, a salute to our resistance fighters and political prisoners, and an expression of our will toward our collective liberation. Al-Juthoor is the soul of the dispossessed awaiting their return to their homes, olive groves, villages, and to their land. With each stomp that shakes the earth, we seek to send tremors to those that oppress us. The art of dabkeh celebrates our resistance, asserts our rage against occupation, and demonstrates our commitment to liberation while reminding the world that we are resilient and steadfast. Our people and our land will be free. WE SHALL RETURN!
     - name: Susan Abulhawa
       credit: novelist
       bio: "**Susan Abulhawa** is a novelist, poet, essayist, scientist, mother, and
@@ -99,46 +83,6 @@ cast:
       link: https://www.amalbphotography.com/about
       image: https://ucarecdn.com/332937c9-4bde-4127-9c5b-40e510de232c/
       credit: writer, musician
-    - name: Denmo Ibrahim
-      credit: actor
-      image: https://ucarecdn.com/49f9b12d-b869-4ecd-ade4-475c01dd73f9/
-      bio: "**Denmo Ibrahim** is an American actor and playwright of Egyptian descent.
-        Her work has been produced and developed by Marin Theatre Company, New
-        York Theatre Workshop, The Civilians R&D Series, Amphibian Stage, Alter
-        Theatre, Shotgun Players, Golden Thread and Crowded Fire. Regional
-        acting credits include Berkeley Repertory, The Old Globe, Seattle
-        Repertory, American Conservatory of Theatre and CalShakes. Denmo is a
-        two-time winner of the San Francisco Bay Area Theatre Critics Circle and
-        Theatre Bay Area awards and a finalist for SPACE at Ryder Farm, O’Neill
-        National Playwrights Conference, Rainin Fellowship and Sundance Theatre
-        Lab. Her children’s book Zaynab’s Night of Destiny (Fons Vitae, 2021)
-        toured 25 public schools in Kentucky and was supported by the Doris Duke
-        Foundation for Islamic Arts. Denmo holds an MFA in Lecoq-based Actor
-        Created Physical Theater (Naropa University) and a BFA in Acting (Boston
-        University). [](https://www.denmoibrahim.com/)"
-      link: https://www.denmoibrahim.com/
-    - name: Raeda Taha
-      credit: playwright
-      bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
-        activist. She authored and performed several one-woman plays inspired by
-        her life story and her experience as a Palestinian in the diaspora. Most
-        notably, her play *Where Can I Find Someone Like You, Ali?* directed by
-        Lina Abyad received international acclaim and was performed in over 20
-        countries. The play is featured in Brill’s *Critical Anthology on Modern
-        and Contemporary Political Theater* from the Levant, edited by Robert
-        Myers and Nada Saab. Her other one-woman plays include *36 Abbas
-        Street/Haifa 2017*, *The Fig Tree*, and *The Gazelle of Akka*. As an
-        actor, Raeda has played significant roles in plays across the Arab
-        World, including *Returning to Haifa* (2011) by Ghassan Kanafani, *80
-        Degree* (2012) directed by Alia Al-Khaldi, *Petra Rocks* (2013-2014)
-        directed by Lina Abyad, and *Ghalia’s Miles* (2017) by Zoukak Theatre
-        Company. Raeda holds a BA in Media and Journalism from George Mason
-        University. Her notable career includes serving as a media attaché for
-        President Yasser Arafat (1987-1994) and later chairing the
-        administrative committee at the Khalil al-Sakakini Cultural Center in
-        Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
-        Kanafani Foundation in Beirut."
-      image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
     - name: Bahar Royaee
       credit: composer
       image: https://ucarecdn.com/dc6e345f-8ad4-4df1-b6b2-8ce30b95e828/
@@ -163,6 +107,46 @@ cast:
         Artist-in-Residence at Longy School of Music. Her composition mentors
         have included Marti Epstein, Andrew List, Felipe Lara, Suzanne Farrin
         and Jason Eckardt.
+    - name: Raeda Taha
+      credit: playwright
+      bio: "**Raeda Taha** is a Palestinian actor, storyteller, writer, and political
+        activist. She authored and performed several one-woman plays inspired by
+        her life story and her experience as a Palestinian in the diaspora. Most
+        notably, her play *Where Can I Find Someone Like You, Ali?* directed by
+        Lina Abyad received international acclaim and was performed in over 20
+        countries. The play is featured in Brill’s *Critical Anthology on Modern
+        and Contemporary Political Theater* from the Levant, edited by Robert
+        Myers and Nada Saab. Her other one-woman plays include *36 Abbas
+        Street/Haifa 2017*, *The Fig Tree*, and *The Gazelle of Akka*. As an
+        actor, Raeda has played significant roles in plays across the Arab
+        World, including *Returning to Haifa* (2011) by Ghassan Kanafani, *80
+        Degree* (2012) directed by Alia Al-Khaldi, *Petra Rocks* (2013-2014)
+        directed by Lina Abyad, and *Ghalia’s Miles* (2017) by Zoukak Theatre
+        Company. Raeda holds a BA in Media and Journalism from George Mason
+        University. Her notable career includes serving as a media attaché for
+        President Yasser Arafat (1987-1994) and later chairing the
+        administrative committee at the Khalil al-Sakakini Cultural Center in
+        Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
+        Kanafani Foundation in Beirut."
+      image: https://ucarecdn.com/d7b0d239-e35c-4c46-b8da-d90d3484ddf4/
+    - name: Denmo Ibrahim
+      credit: actor
+      image: https://ucarecdn.com/49f9b12d-b869-4ecd-ade4-475c01dd73f9/
+      bio: "**Denmo Ibrahim** is an American actor and playwright of Egyptian descent.
+        Her work has been produced and developed by Marin Theatre Company, New
+        York Theatre Workshop, The Civilians R&D Series, Amphibian Stage, Alter
+        Theatre, Shotgun Players, Golden Thread and Crowded Fire. Regional
+        acting credits include Berkeley Repertory, The Old Globe, Seattle
+        Repertory, American Conservatory of Theatre and CalShakes. Denmo is a
+        two-time winner of the San Francisco Bay Area Theatre Critics Circle and
+        Theatre Bay Area awards and a finalist for SPACE at Ryder Farm, O’Neill
+        National Playwrights Conference, Rainin Fellowship and Sundance Theatre
+        Lab. Her children’s book Zaynab’s Night of Destiny (Fons Vitae, 2021)
+        toured 25 public schools in Kentucky and was supported by the Doris Duke
+        Foundation for Islamic Arts. Denmo holds an MFA in Lecoq-based Actor
+        Created Physical Theater (Naropa University) and a BFA in Acting (Boston
+        University). [](https://www.denmoibrahim.com/)"
+      link: https://www.denmoibrahim.com/
     - bio: "**Souad Faisal Amin** is a Palestinian activist, artist, and fashion
         designer based in Beirut, Lebanon. In 1985, she earned her Master's
         degree in Food Technology and Nutrition from the American University of
@@ -201,6 +185,22 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - name: Al-Juthoor
+      credit: dance company
+      image: https://ucarecdn.com/59fe8f01-cc43-40d9-bd79-bb5d74215558/
+      bio: >-
+        Al-Juthoor company members are **Zaynah Hindi**, **Yasmeen Odeh**,
+        **Christina Harb**, **Leila Mire**, **Basma**, **Wassim Hage**, **Linda
+        Zaro**, **Monica McCown**. Al-Juthoor ("Roots" in Arabic) of the Arab
+        Diaspora is a Dabkeh troupe that raises awareness about Arab and
+        Palestinian struggle, culture, and art. We empower our community and
+        youth to take pride in our heritage, our past, and our future by
+        honoring our history and celebrating our resistance. Across the borders
+        of our diaspora, we assert our community’s connection to our deep roots
+        in the land and the people throughout the Arab world, from Iraq,
+        Lebanon, Jordan, Syria, and Palestine. 
+
+        Our culture and very existence has become inseparable from resistance to colonialism and state violence. Dabkeh is more than just a celebratory event – its every movement is an ode to our Martyrs, a salute to our resistance fighters and political prisoners, and an expression of our will toward our collective liberation. Al-Juthoor is the soul of the dispossessed awaiting their return to their homes, olive groves, villages, and to their land. With each stomp that shakes the earth, we seek to send tremors to those that oppress us. The art of dabkeh celebrates our resistance, asserts our rage against occupation, and demonstrates our commitment to liberation while reminding the world that we are resilient and steadfast. Our people and our land will be free. WE SHALL RETURN!
     - bio: >-
         **Aswat Ensemble** company members are **Bisan Shehadeh** (Executive
         Director), **Basma Edrees** (violin), **Susu Pampanin** (percussion),
@@ -291,6 +291,20 @@ cast:
         someone who reads prolifically in politics, women’s affairs, languages,
         music history, and cultural issues and owned the largest library of
         Arabic music in the U.S."
+    - name: Eman Al Farra
+      credit: traditional Palestine food catering
+      image: https://ucarecdn.com/17c45ffc-0248-4e74-b97b-81399ce7306d/
+      bio: "**Eman Al Farra** was born in Gaza and moved to the Bay Area during the
+        ceasefire in Gaza in November 2023. She raised five children between
+        Gaza, Cairo and Riyadh. Her dedication to her family saw her children
+        earn scholarships to study abroad, a testament to her belief in
+        education for a better future. Beyond her family, she dedicated her time
+        to women's empowerment in Gaza, providing resources for crafts like
+        embroidery, helping women build independent lives through their
+        artistry. In the United States, she continues to inspire by sharing her
+        culinary heritage, catering traditional foods that tell stories of her
+        homeland. Her journey embodies the spirit of resilience and empowerment,
+        making her a beacon of hope and inspiration on this Women's Day."
 bottom:
   logos: []
   text: >-
