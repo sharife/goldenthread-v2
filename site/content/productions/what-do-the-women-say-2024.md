@@ -185,6 +185,20 @@ cast:
         embroiderer, concealing within its every stitch a longing for a home
         that will never die."
       image: https://ucarecdn.com/b999731c-d486-480f-96a1-4e51273347ca/
+    - name: Eman Al Farra
+      credit: traditional Palestine food catering
+      image: https://ucarecdn.com/17c45ffc-0248-4e74-b97b-81399ce7306d/
+      bio: "**Eman Al Farra** was born in Gaza and moved to the Bay Area during the
+        ceasefire in Gaza in November 2023. She raised five children between
+        Gaza, Cairo and Riyadh. Her dedication to her family saw her children
+        earn scholarships to study abroad, a testament to her belief in
+        education for a better future. Beyond her family, she dedicated her time
+        to women's empowerment in Gaza, providing resources for crafts like
+        embroidery, helping women build independent lives through their
+        artistry. In the United States, she continues to inspire by sharing her
+        culinary heritage, catering traditional foods that tell stories of her
+        homeland. Her journey embodies the spirit of resilience and empowerment,
+        making her a beacon of hope and inspiration on this Women's Day."
     - name: Al-Juthoor
       credit: dance company
       image: https://ucarecdn.com/59fe8f01-cc43-40d9-bd79-bb5d74215558/
@@ -291,20 +305,6 @@ cast:
         someone who reads prolifically in politics, women’s affairs, languages,
         music history, and cultural issues and owned the largest library of
         Arabic music in the U.S."
-    - name: Eman Al Farra
-      credit: traditional Palestine food catering
-      image: https://ucarecdn.com/17c45ffc-0248-4e74-b97b-81399ce7306d/
-      bio: "**Eman Al Farra** was born in Gaza and moved to the Bay Area during the
-        ceasefire in Gaza in November 2023. She raised five children between
-        Gaza, Cairo and Riyadh. Her dedication to her family saw her children
-        earn scholarships to study abroad, a testament to her belief in
-        education for a better future. Beyond her family, she dedicated her time
-        to women's empowerment in Gaza, providing resources for crafts like
-        embroidery, helping women build independent lives through their
-        artistry. In the United States, she continues to inspire by sharing her
-        culinary heritage, catering traditional foods that tell stories of her
-        homeland. Her journey embodies the spirit of resilience and empowerment,
-        making her a beacon of hope and inspiration on this Women's Day."
 bottom:
   logos: []
   text: >-
