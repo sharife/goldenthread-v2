@@ -18,6 +18,8 @@ description: >-
 
   Run time 120 minutes without intermission.
 titleimage: https://ucarecdn.com/feede249-a445-4b5c-88c8-e8108ffc8c44/
+programlabel: Read the full digital program
+program: https://ucarecdn.com/5ce4c660-327a-4745-9f63-5353377a26af/
 videos:
   - id: 8OZzg2yz28U
 featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
