@@ -21,7 +21,7 @@ lists:
 
           Each ticket is valid for a **48-hour** viewing period **beginning when you press play**.
         cta: STREAM NOW
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000002HFslMAG
         title: Available to stream On Demand from March 12 - 19, 2024
         subtitle: ""
         image: https://ucarecdn.com/8fd8e1db-4320-4ae6-a25a-167ed2d91c54/
