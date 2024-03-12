@@ -1,30 +1,28 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: "What Do the Women Say? 2024: Expressions of Joy"
+  - heading: "VIDEO ON DEMAND - What Do the Women Say? 2024: Expressions of Joy"
     items:
       - pre: An Annual Celebration of International Women’s Day
         text: >-
-          Presented in a hybrid format with artists appearing in-person and
-          virtually. Audiences can join **[IN
-          PERSON](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003KaaJMAS)**
-          or online via
-          **[LIVESTREAM](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000003Ztb0MAC)**. 
+          **R﻿ecorded live on Friday, March 8, 2024, 8 PM at Brava Theater
+          Center.** Presented in a hybrid format with artists appearing
+          in-person and virtually. 
 
 
-          The 2024 edition of our annual celebration of International Women’s Day, **What Do the Women Say? 2024: Expressions of Joy** will honor the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
+          The 2024 edition of our annual celebration of International Women’s Day, ***What Do the Women Say? 2024: Expressions of Joy*** will honor the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
 
 
-          It will feature Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
+          F﻿eaturing Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
 
 
-          This year’s celebration will also offer traditional Palestinian food for purchase and a showcase of the art of tatreez (traditional Palestinian embroidery) from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon, starting at 6:30 pm in the lobby before the show.
+          Pre-sale tickets available at a range of **$25 - $100**. Seating is general admission. 
 
 
-          Pre-sale tickets available at a range of **$25 - $100**. Seating is general admission.
-        cta: BUY NOW
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftw1MAA
-        title: Friday, March 8, 2024, 8 PM at Brava Theater Center
+          Each ticket is valid for a **48-hour** viewing period **beginning when you press play**.
+        cta: STREAM NOW
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000002HFslMAG
+        title: Available to stream On Demand from March 12 - 19, 2024
         subtitle: ""
         image: https://ucarecdn.com/8fd8e1db-4320-4ae6-a25a-167ed2d91c54/
   - heading: Returning to Haifa
@@ -114,7 +112,7 @@ Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are 
 A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
 
 **COMMUNITY WALK-INS**\
-5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advanced by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
+5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advance by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
 
 **AEA WALK-INS** \
 We welcome all current AEA members to redeem complimentary walk-in tickets to any main stage show, except opening night, pending availability. You may email ahead of time to check availability, but there is no need to contact us in advance as all walk-ins are based solely on availability. We offer one seat per member, but may accommodate one additional guest when possible. 
