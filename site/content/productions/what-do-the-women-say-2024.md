@@ -19,7 +19,7 @@ description: >-
   Run time 120 minutes without intermission.
 titleimage: https://ucarecdn.com/feede249-a445-4b5c-88c8-e8108ffc8c44/
 videos:
-  - id: https://studio.youtube.com/video/8OZzg2yz28U/edit
+  - id: 8OZzg2yz28U
 featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
   Amal Bisharat, Denmo Ibrahim, Bahar Royaee, Raeda Taha
 stage: "Brava Theater Center "
