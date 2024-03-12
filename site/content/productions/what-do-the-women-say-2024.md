@@ -18,8 +18,11 @@ description: >-
 
   Run time 120 minutes without intermission.
 titleimage: https://ucarecdn.com/feede249-a445-4b5c-88c8-e8108ffc8c44/
+videos:
+  - id: 8OZzg2yz28U
 featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
   Amal Bisharat, Denmo Ibrahim, Bahar Royaee, Raeda Taha
+additional: Production photography by Hillary Goidell
 stage: "Brava Theater Center "
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
@@ -299,6 +302,30 @@ cast:
         someone who reads prolifically in politics, women’s affairs, languages,
         music history, and cultural issues and owned the largest library of
         Arabic music in the U.S."
+photos:
+  heading: "Photo Gallery: Production "
+  items:
+    - image: https://ucarecdn.com/37149593-60c2-4c48-a38a-dd08592d8917/
+    - image: https://ucarecdn.com/8bfd9c29-b984-4720-b9bd-e2966bafaea9/
+    - image: https://ucarecdn.com/8e3c974f-2da0-4b87-9ffb-05235f921cb1/
+    - image: https://ucarecdn.com/0bcb4fe7-0f5e-4cb0-aad9-3f4df3360dab/
+    - image: https://ucarecdn.com/77fcff2f-6f24-483b-8009-ba5cb8a253c9/
+    - image: https://ucarecdn.com/cc9bb489-825a-4c5d-ab20-4d25d131d6a2/
+    - image: https://ucarecdn.com/5fe2cc0c-4918-458e-8f2d-00876056e21e/
+    - image: https://ucarecdn.com/ec422543-2a2a-48c1-8811-12a1155c9c47/
+    - image: https://ucarecdn.com/f05a4536-82e6-493a-b069-cfe980302907/
+    - image: https://ucarecdn.com/bd96a405-2efc-4ab8-9af4-00c1cf0af9b6/
+    - image: https://ucarecdn.com/34bd1809-3328-4519-8091-13d73cc73970/
+    - image: https://ucarecdn.com/f1bc9f0a-3895-41c3-95ca-fa882bad4dc3/
+    - image: https://ucarecdn.com/ee8cbb4b-cca5-4176-9ac0-351ab6566115/
+    - image: https://ucarecdn.com/62a2e1ae-96bc-4376-81af-4e3dd1f1040a/
+    - image: https://ucarecdn.com/f77cf41e-c59a-48cb-b1d6-9d9d4dbabe32/
+    - image: https://ucarecdn.com/b909f2b2-fd0f-4a93-b7ff-bc85d1febc54/
+    - image: https://ucarecdn.com/cf77c82e-7db7-4629-a50a-6c7fbee1c795/
+    - image: https://ucarecdn.com/90b921ff-4206-40f6-8918-af9e0731c988/
+    - image: https://ucarecdn.com/75287091-4af8-4fec-906d-4d3c907ab215/
+    - image: https://ucarecdn.com/a1db1390-db65-477d-8f25-28217dce3d2a/
+    - image: https://ucarecdn.com/1afa1381-394d-415d-9057-89e1f96a2b0e/
 bottom:
   logos: []
   text: >-
