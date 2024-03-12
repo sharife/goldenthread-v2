@@ -301,6 +301,12 @@ cast:
         someone who reads prolifically in politics, women’s affairs, languages,
         music history, and cultural issues and owned the largest library of
         Arabic music in the U.S."
+photos:
+  heading: "Photo Gallery: Production "
+  items:
+    - image: https://ucarecdn.com/37149593-60c2-4c48-a38a-dd08592d8917/
+    - image: https://ucarecdn.com/8bfd9c29-b984-4720-b9bd-e2966bafaea9/
+    - image: https://ucarecdn.com/0bcb4fe7-0f5e-4cb0-aad9-3f4df3360dab/
 bottom:
   logos: []
   text: >-
