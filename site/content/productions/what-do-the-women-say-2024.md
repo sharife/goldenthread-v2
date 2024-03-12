@@ -22,6 +22,7 @@ videos:
   - id: 8OZzg2yz28U
 featuring: Al-Juthoor dance company, Aswat Ensemble, Susan Abulhawa, Souad Amin,
   Amal Bisharat, Denmo Ibrahim, Bahar Royaee, Raeda Taha
+additional: Production photography by Hillary Goidell
 stage: "Brava Theater Center "
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
