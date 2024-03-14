@@ -104,6 +104,25 @@ cast:
         directing Ismail Khalidi and Naomi Wallace’s adaption of Ghassan
         Kanafani’s *Returning To Haifa* for Golden Thread Productions in San
         Francisco."
+    - name: Marina Johnson
+      credit: dramaturg
+      image: https://ucarecdn.com/a6e95f5a-4168-4468-b1e1-b042ac4dd2e4/
+      bio: "**Marina Johnson** is a Ph.D. candidate in TAPS at Stanford University
+        (M.F.A in Directing, University of Iowa). Her dissertation research
+        focuses on Palestinian performance from 2015 to the present. Johnson is
+        the co-host of *Kunafa and Shay*, a MENA theatre podcast produced by
+        HowlRound Theatre Commons, and they are also a member of Silk Road
+        Rising’s Polycultural Institute. Johnson’s work has appeared or is
+        forthcoming in Theatre/Practice, Arab Stages, Decolonizing Dramaturgy in
+        a Global Context (Bloomsbury), Milestones in Staging Contemporary
+        Genders and Sexualities (Routledge), Women’s Innovations in Theatre,
+        Dance, and Performance, Volume I: Performers (Bloomsbury). Prior to her
+        Ph.D., she was a Visiting Assistant Professor at Beloit College for
+        three years. Most recently, Johnson directed *The Wolves* at Stanford
+        University, dramaturged two plays in Golden Thread Productions’ ReOrient
+        Festival, and directed *The Shroud Maker* with the International Voices
+        Project. www.marina-johnson.com"
+      link: https://marina-johnson.com/
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
