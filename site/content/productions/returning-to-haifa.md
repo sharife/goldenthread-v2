@@ -26,6 +26,45 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
+cast:
+  items:
+    - name: Ghassan Kanafani
+      credit: novelist
+      image: https://ucarecdn.com/d740b9a7-9c7f-42d0-937e-d3eeac3e162a/
+      bio: >-
+        **Ghassan Kanafani** was one of the most prominent Arab novelists and
+        modernist playwrights whose pen made him a target for the Israeli
+        Mossad, who assassinated him at the age of thirty-six years old. Using
+        the words of Palestinian actor and storyteller Raeda Taha, in her new
+        play *The Gazelle of Aka* about the life and death of Ghassan Kanafani,
+        she writes: “Ghassan was a journalist, political activist, and the
+        spokesman for the PFLP (The Popular Front for the Liberation of
+        Palestine). He used to paint, draw, sculpt, and constantly sketch. He
+        loved drawing - and especially enjoyed gifting his drawings to his
+        friends \[…] Ghassan wrote Life. He wrote about his love of songs,
+        music, and literature. He wrote about his childhood memories as a
+        refugee, he wrote about the refugee camps. He wrote about the Nakba and
+        the collective expulsion. He wrote about his assassination.”
+
+
+        His novella *Returning to Haifa*, one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
+    - name: Naomi Wallace
+      credit: playwright
+      image: https://ucarecdn.com/de104f86-8757-4163-aaa0-4893eac4d19d/
+      bio: "**Naomi Wallace**’s plays have been produced in the United States, the
+        U.K., Europe and the Middle East and include *One Flea Spare*, *The
+        Trestle at Pope Lick Creek*, *In the Heart of America*, *The Breach*,
+        *Things of Dry Hours*, *The Fever Chart: Three Visions of the Middle
+        East*, *And I and Silence*, *Night is a Room*, *The Return of Benjamin
+        Lay* (co-written with Marcus Rediker) and an adaptation of *Returning to
+        Haifa* by Ghassan Kanafani and *The Corpse Washer* by Sinan Antoon (both
+        adaptations co-written with Ismail Khalidi). Awards include the
+        MacArthur Award, Susan Smith Blackburn Prize, Fellowship of Southern
+        Writers Drama Award, Horton Foote Award, Obie, Arts and Letters Award in
+        Literature, and the inaugural Windham Campbell prize for drama. Wallace
+        is currently writing the book for the Loretta Lynn musical, and new John
+        Mellencamp musical *Small Town*. Wallace is presently co-writing a new
+        play with Ismail Khalidi for Ashtar theater in Ramallah."
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
