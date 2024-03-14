@@ -15,6 +15,11 @@ description: In the wake of the 1967 Six-Day War, with the borders finally open
 titleimage: https://ucarecdn.com/6710389c-6746-4d15-a25d-f786caf16020/
 writer: "Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi "
 director: Samer Al-Saber
+featuring: Diala Al-Abed, Amal Bisharat, Jacob Henrie-Naffaa, Lijesh Krishnan,
+  Michelle Navarrete
+designteam: Carlos Aceves (Scenic), Samantha Alexa (Props), Cassie Barnes
+  (Light), Madeline Berger (Costume), Derek Schmidt (Sound)
+dramaturg: Marina Johnson
 additional: based on the novella by Ghassan Kanafani
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
