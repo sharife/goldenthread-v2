@@ -65,6 +65,24 @@ cast:
         is currently writing the book for the Loretta Lynn musical, and new John
         Mellencamp musical *Small Town*. Wallace is presently co-writing a new
         play with Ismail Khalidi for Ashtar theater in Ramallah."
+    - name: Ismail Khalidi
+      credit: playwright
+      image: https://ucarecdn.com/63ac6b16-1592-4aea-a997-af8b39585b51/
+      bio: "Born in Beirut to Palestinian parents and raised in Chicago, **Ismail
+        Khalidi** is a playwright and director who has written, directed,
+        performed, curated and taught internationally. Khalidi's plays include
+        *Tennis in Nablus* (Alliance Theatre, 2010), *Truth Serum Blues* (Pangea
+        World Theater, 2005), *Foot* (Teatro Amal, 2016-17), *Sabra Falling*
+        (Pangea World Theater, 2017), *Returning to Haifa* (Finborough Theatre,
+        2018) and *Dead Are My People* (Noor Theatre, 2019). Khalidi's plays
+        have been published in numerous anthologies. His writing on politics and
+        culture has appeared in The Nation, Guernica, American Theatre Magazine,
+        and Remezcla. His poetry and plays have been published by Mizna , and he
+        co-edited I*nside/Outside: Six Plays from Palestine and the Diaspora*
+        (TCG, 2015). Khalidi has received commissions from the Actors Theatre of
+        Louisville, Noor Theatre, Pangea World Theatre, and The Public Theatre,
+        and is currently a Visiting Artist at Teatro Amal in Chile. He holds an
+        MFA in Dramatic Writing from NYU's Tisch School of the Arts."
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
