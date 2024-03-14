@@ -161,6 +161,24 @@ cast:
 
 
         Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
+    - name: Jacob Henrie-Naffaa
+      credit: ensemble cast (Dov & Young Said)
+      image: https://ucarecdn.com/0ea44aa5-8c8b-405b-9a6f-bec2007fdf8e/
+      bio: "**Jacob Henrie-Naffaa** is a Bay Area native actor, writer, director,
+        educator, singer and dancer. He began performing professionally at the
+        age of seven and has been seen performing on stages around the Bay since
+        2009. Favorite theatre credits include Sonny in *In The Heights*, Tulsa
+        in *Gypsy* and Bullshot Crummond in *Bullshot Crummond*. In 2019, Jacob
+        began exploring the world of camera acting, and has appeared in a large
+        assortment of commercials and short films, favorite credits including
+        Izzy in the Robert Cuccioli-directed *She’s Blown Away*, Charlie in
+        Samsung’s SmartThings 2023 commercial and Me-Time Guy in Jolibee’s 2024
+        Jolibee Family Deals commercial. Jacob is also regularly seen on the
+        popular YouTube channel Illumeably, appearing in multiple roles in
+        various skits and short films. Jacob has a baritenor range and is
+        trained in Hip-Hop, tap, jazz, ballet and modern dance styles. Jacob’s
+        goal in life is to get an EGOT or die trying. He can next be seen as
+        Cliff in CenterRep’s *Cabaret* this coming summer."
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
