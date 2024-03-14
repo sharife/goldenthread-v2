@@ -179,6 +179,8 @@ cast:
         trained in Hip-Hop, tap, jazz, ballet and modern dance styles. Jacob’s
         goal in life is to get an EGOT or die trying. He can next be seen as
         Cliff in CenterRep’s *Cabaret* this coming summer."
+    - name: Lijesh Krishnan
+      credit: ensemble cast (Said)
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
