@@ -78,11 +78,32 @@ cast:
         have been published in numerous anthologies. His writing on politics and
         culture has appeared in The Nation, Guernica, American Theatre Magazine,
         and Remezcla. His poetry and plays have been published by Mizna , and he
-        co-edited I*nside/Outside: Six Plays from Palestine and the Diaspora*
+        co-edited *Inside/Outside: Six Plays from Palestine and the Diaspora*
         (TCG, 2015). Khalidi has received commissions from the Actors Theatre of
         Louisville, Noor Theatre, Pangea World Theatre, and The Public Theatre,
         and is currently a Visiting Artist at Teatro Amal in Chile. He holds an
         MFA in Dramatic Writing from NYU's Tisch School of the Arts."
+    - name: Samer Al-Saber
+      credit: director
+      image: https://ucarecdn.com/e460c506-16e0-43ba-ad3f-cb81e92ab183/
+      bio: "**Samer Al-Saber** is an Assistant Professor of Theater and Performance
+        Studies at Stanford University. He is affiliated with the Center for the
+        Comparative Study of Race and Ethnicity and the Abbasi Program in
+        Islamic Studies. His work appeared in Theatre Research International,
+        Alt.Theatre, Performance Paradigm, Critical Survey, Theatre
+        Survey, Jadaliyya, Counterpunch, This Week In Palestine, and various
+        edited volumes, such as Palgrave’s *Performing For Survival*, and
+        Edinburgh Press’ *Being Palestinian*. He is co-editor of the anthology
+        *Stories Under Occupation and Other Plays from Palestine* (Seagull
+        Press/University of Chicago Press) and editor of *To The Good People of
+        Gaza* (Bloomsbury Press). Directing credits include Betty Shamieh’s *As
+        Soon As Impossible*, Hasan Abdelrazzak’s *The Prophet*, Arthur Milner’s
+        *Facts*, and a Palestinian adaptation of *A Midsummer Night’s Dream* (in
+        Arabic). As playwright, most recently in 2023, he wrote and directed
+        *Decolonizing Sarah* for Chicago’s Uprising Theater. He is currently
+        directing Ismail Khalidi and Naomi Wallace’s adaption of Ghassan
+        Kanafani’s *Returning To Haifa* for Golden Thread Productions in San
+        Francisco."
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
