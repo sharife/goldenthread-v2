@@ -26,6 +26,175 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
+cast:
+  items:
+    - name: Ghassan Kanafani
+      credit: novelist
+      image: https://ucarecdn.com/d740b9a7-9c7f-42d0-937e-d3eeac3e162a/
+      bio: >-
+        **Ghassan Kanafani** was one of the most prominent Arab novelists and
+        modernist playwrights whose pen made him a target for the Israeli
+        Mossad, who assassinated him at the age of thirty-six years old. Using
+        the words of Palestinian actor and storyteller Raeda Taha, in her new
+        play *The Gazelle of Aka* about the life and death of Ghassan Kanafani,
+        she writes: “Ghassan was a journalist, political activist, and the
+        spokesman for the PFLP (The Popular Front for the Liberation of
+        Palestine). He used to paint, draw, sculpt, and constantly sketch. He
+        loved drawing - and especially enjoyed gifting his drawings to his
+        friends \[…] Ghassan wrote Life. He wrote about his love of songs,
+        music, and literature. He wrote about his childhood memories as a
+        refugee, he wrote about the refugee camps. He wrote about the Nakba and
+        the collective expulsion. He wrote about his assassination.”
+
+
+        His novella *Returning to Haifa*, one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
+    - name: Naomi Wallace
+      credit: playwright
+      image: https://ucarecdn.com/61945328-a545-433e-be00-67ceefa06804/
+      bio: "**Naomi Wallace**’s plays have been produced in the United States, the
+        U.K., Europe and the Middle East and include *One Flea Spare*, *The
+        Trestle at Pope Lick Creek*, *In the Heart of America*, *The Breach*,
+        *Things of Dry Hours*, *The Fever Chart: Three Visions of the Middle
+        East*, *And I and Silence*, *Night is a Room*, *The Return of Benjamin
+        Lay* (co-written with Marcus Rediker) and an adaptation of *Returning to
+        Haifa* by Ghassan Kanafani and *The Corpse Washer* by Sinan Antoon (both
+        adaptations co-written with Ismail Khalidi). Awards include the
+        MacArthur Award, Susan Smith Blackburn Prize, Fellowship of Southern
+        Writers Drama Award, Horton Foote Award, Obie, Arts and Letters Award in
+        Literature, and the inaugural Windham Campbell prize for drama. Wallace
+        is currently writing the book for the Loretta Lynn musical, and new John
+        Mellencamp musical *Small Town*. Wallace is presently co-writing a new
+        play with Ismail Khalidi for Ashtar theater in Ramallah."
+    - name: Ismail Khalidi
+      credit: playwright
+      image: https://ucarecdn.com/63ac6b16-1592-4aea-a997-af8b39585b51/
+      bio: "Born in Beirut to Palestinian parents and raised in Chicago, **Ismail
+        Khalidi** is a playwright and director who has written, directed,
+        performed, curated and taught internationally. Khalidi's plays include
+        *Tennis in Nablus* (Alliance Theatre, 2010), *Truth Serum Blues* (Pangea
+        World Theater, 2005), *Foot* (Teatro Amal, 2016-17), *Sabra Falling*
+        (Pangea World Theater, 2017), *Returning to Haifa* (Finborough Theatre,
+        2018) and *Dead Are My People* (Noor Theatre, 2019). Khalidi's plays
+        have been published in numerous anthologies. His writing on politics and
+        culture has appeared in The Nation, Guernica, American Theatre Magazine,
+        and Remezcla. His poetry and plays have been published by Mizna , and he
+        co-edited *Inside/Outside: Six Plays from Palestine and the Diaspora*
+        (TCG, 2015). Khalidi has received commissions from the Actors Theatre of
+        Louisville, Noor Theatre, Pangea World Theatre, and The Public Theatre,
+        and is currently a Visiting Artist at Teatro Amal in Chile. He holds an
+        MFA in Dramatic Writing from NYU's Tisch School of the Arts."
+    - name: Samer Al-Saber
+      credit: director
+      image: https://ucarecdn.com/e460c506-16e0-43ba-ad3f-cb81e92ab183/
+      bio: "**Samer Al-Saber** is an Assistant Professor of Theater and Performance
+        Studies at Stanford University. He is affiliated with the Center for the
+        Comparative Study of Race and Ethnicity and the Abbasi Program in
+        Islamic Studies. His work appeared in Theatre Research International,
+        Alt.Theatre, Performance Paradigm, Critical Survey, Theatre
+        Survey, Jadaliyya, Counterpunch, This Week In Palestine, and various
+        edited volumes, such as Palgrave’s *Performing For Survival*, and
+        Edinburgh Press’ *Being Palestinian*. He is co-editor of the anthology
+        *Stories Under Occupation and Other Plays from Palestine* (Seagull
+        Press/University of Chicago Press) and editor of *To The Good People of
+        Gaza* (Bloomsbury Press). Directing credits include Betty Shamieh’s *As
+        Soon As Impossible*, Hasan Abdelrazzak’s *The Prophet*, Arthur Milner’s
+        *Facts*, and a Palestinian adaptation of *A Midsummer Night’s Dream* (in
+        Arabic). As playwright, most recently in 2023, he wrote and directed
+        *Decolonizing Sarah* for Chicago’s Uprising Theater. He is currently
+        directing Ismail Khalidi and Naomi Wallace’s adaption of Ghassan
+        Kanafani’s *Returning To Haifa* for Golden Thread Productions in San
+        Francisco."
+    - name: Marina Johnson
+      credit: dramaturg
+      image: https://ucarecdn.com/a6e95f5a-4168-4468-b1e1-b042ac4dd2e4/
+      bio: "**Marina Johnson** is a Ph.D. candidate in TAPS at Stanford University
+        (M.F.A in Directing, University of Iowa). Her dissertation research
+        focuses on Palestinian performance from 2015 to the present. Johnson is
+        the co-host of *Kunafa and Shay*, a MENA theatre podcast produced by
+        HowlRound Theatre Commons, and they are also a member of Silk Road
+        Rising’s Polycultural Institute. Johnson’s work has appeared or is
+        forthcoming in Theatre/Practice, Arab Stages, Decolonizing Dramaturgy in
+        a Global Context (Bloomsbury), Milestones in Staging Contemporary
+        Genders and Sexualities (Routledge), Women’s Innovations in Theatre,
+        Dance, and Performance, Volume I: Performers (Bloomsbury). Prior to her
+        Ph.D., she was a Visiting Assistant Professor at Beloit College for
+        three years. Most recently, Johnson directed *The Wolves* at Stanford
+        University, dramaturged two plays in Golden Thread Productions’ ReOrient
+        Festival, and directed *The Shroud Maker* with the International Voices
+        Project. www.marina-johnson.com"
+      link: https://marina-johnson.com/
+    - name: Diala Al-Abed
+      credit: ensemble cast (Young Safiyya)
+      image: https://ucarecdn.com/f1506c76-abb0-42e3-9958-6bccc892a5ad/
+      bio: "**Diala Al-Abed** (she/her) is a Palestinian actor born in the North
+        Carolina mountains. It is in North Carolina that she obtained her BFA in
+        Theatre Performance and Dance Studies at UNC Charlotte where she trained
+        in various disciplines including but not limited to: modern dance,
+        aerial arts, and Commedia dell’arte. Credits include *The Long Christmas
+        Ride Home* and *Servant of Two Masters*. She would later go on to train
+        in film acting techniques and scene study under the teachings of Lon
+        Baumgarner in a Stanislavski style approach, as well as on camera
+        techniques and stage acting through the training of Kevin Patrick
+        Murphy. Her love for acting stems from her fascination in human
+        connection and a scene’s ability to enforce the confrontations of one’s
+        own emotions and self. When she’s not in a class or doing scene work,
+        you can find her on a nature walk, thrifting, or working on film
+        photography."
+    - name: "Amal Bisharat "
+      credit: "ensemble cast (Safiyya) "
+      image: https://ucarecdn.com/a31af57b-0ab9-4caa-b09c-8b396a1f7d06/
+      bio: >-
+        **Amal Bisharat** (she/her) is a Palestinian American multidisciplinary
+        artist: a theatre director, theatre maker, producer, actor, musician,
+        and photographer. Bisharat holds a BA in Music and Theater from
+        Minnesota State University-Moorhead and for 12 years worked as a
+        director and music director in partnership with San Francisco Unified
+        School District. Currently she works with Golden Thread Productions,
+        recently co-producing and directing for their signature program ReOrient
+        Festival of Short Plays (2023), and directing an online reading of *The
+        Gaza Monologues* by Ashtar Theater (2023). Bisharat is also in the
+        process of creating her first musical, *Morning in Jenin Musical*, a
+        Palestinian refugee story adapted from the internationally best-selling
+        novel by the same name by Susan Abulhawa.
+
+        After many years hiatus from acting, she is thrilled to be returning to her roots this year to play the role of Safiyya in Golden Thread's production of *Returning to Haifa* by Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi. Bisharat is a grateful recipient of the Theater Bay Area Arts Leadership Residency Grant (2022-2023), Theater Bay Area CA$H Creates Grant (2022), and San Francisco Arts Commission Artist Grant (2023). 
+
+
+        Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
+    - name: Jacob Henrie-Naffaa
+      credit: ensemble cast (Dov & Young Said)
+      image: https://ucarecdn.com/0ea44aa5-8c8b-405b-9a6f-bec2007fdf8e/
+      bio: "**Jacob Henrie-Naffaa** is a Bay Area native actor, writer, director,
+        educator, singer and dancer. He began performing professionally at the
+        age of seven and has been seen performing on stages around the Bay since
+        2009. Favorite theatre credits include Sonny in *In The Heights*, Tulsa
+        in *Gypsy* and Bullshot Crummond in *Bullshot Crummond*. In 2019, Jacob
+        began exploring the world of camera acting, and has appeared in a large
+        assortment of commercials and short films, favorite credits including
+        Izzy in the Robert Cuccioli-directed *She’s Blown Away*, Charlie in
+        Samsung’s SmartThings 2023 commercial and Me-Time Guy in Jolibee’s 2024
+        Jolibee Family Deals commercial. Jacob is also regularly seen on the
+        popular YouTube channel Illumeably, appearing in multiple roles in
+        various skits and short films. Jacob has a baritenor range and is
+        trained in Hip-Hop, tap, jazz, ballet and modern dance styles. Jacob’s
+        goal in life is to get an EGOT or die trying. He can next be seen as
+        Cliff in CenterRep’s *Cabaret* this coming summer."
+    - name: Lijesh Krishnan
+      credit: ensemble cast (Said)
+    - name: Michelle Navarrete
+      credit: ensemble cast (Miriam)
+      image: https://ucarecdn.com/47402f03-233c-4b70-80ef-1664cd8fcd7a/
+      bio: "**Michelle Navarrete** (she/her) is a Theatre Artist, both on and off the
+        stage. Born and raised in San Francisco, she fell in love with the
+        performing arts and storytelling at an early age. After receiving her
+        BFA in Acting from Marymount Manhattan College, she continued her career
+        in NYC performing and producing theatre. In the Bay Area, Michelle has
+        worked with SF Playhouse, Cal Shakes, TheatreFirst, Custom Made Theatre
+        Co, Bay Area Children's Theatre, Impact Theatre, Faultline Theatre,
+        Theatre Cultura, to name a few. As a performer, educator and activist,
+        she has made theatre and the performing arts part of her life and
+        message. Thank you to my fighting Irish dad for being my biggest fan.
+        Miss you pops!"
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
