@@ -123,6 +123,23 @@ cast:
         Festival, and directed *The Shroud Maker* with the International Voices
         Project. www.marina-johnson.com"
       link: https://marina-johnson.com/
+    - name: Diala Al-Abed
+      credit: ensemble cast (Young Safiyya)
+      image: https://ucarecdn.com/f1506c76-abb0-42e3-9958-6bccc892a5ad/
+      bio: "**Diala Al-Abed** (she/her) is a Palestinian actor born in the North
+        Carolina mountains. It is in North Carolina that she obtained her BFA in
+        Theatre Performance and Dance Studies at UNC Charlotte where she trained
+        in various disciplines including but not limited to: modern dance,
+        aerial arts, and Commedia dell’arte. Credits include *The Long Christmas
+        Ride Home* and *Servant of Two Masters*. She would later go on to train
+        in film acting techniques and scene study under the teachings of Lon
+        Baumgarner in a Stanislavski style approach, as well as on camera
+        techniques and stage acting through the training of Kevin Patrick
+        Murphy. Her love for acting stems from her fascination in human
+        connection and a scene’s ability to enforce the confrontations of one’s
+        own emotions and self. When she’s not in a class or doing scene work,
+        you can find her on a nature walk, thrifting, or working on film
+        photography."
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
