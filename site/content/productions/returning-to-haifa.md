@@ -140,6 +140,27 @@ cast:
         own emotions and self. When she’s not in a class or doing scene work,
         you can find her on a nature walk, thrifting, or working on film
         photography."
+    - name: "Amal Bisharat "
+      credit: "ensemble cast (Safiyya) "
+      image: https://ucarecdn.com/a31af57b-0ab9-4caa-b09c-8b396a1f7d06/
+      bio: >-
+        **Amal Bisharat** (she/her) is a Palestinian American multidisciplinary
+        artist: a theatre director, theatre maker, producer, actor, musician,
+        and photographer. Bisharat holds a BA in Music and Theater from
+        Minnesota State University-Moorhead and for 12 years worked as a
+        director and music director in partnership with San Francisco Unified
+        School District. Currently she works with Golden Thread Productions,
+        recently co-producing and directing for their signature program ReOrient
+        Festival of Short Plays (2023), and directing an online reading of *The
+        Gaza Monologues* by Ashtar Theater (2023). Bisharat is also in the
+        process of creating her first musical, *Morning in Jenin Musical*, a
+        Palestinian refugee story adapted from the internationally best-selling
+        novel by the same name by Susan Abulhawa.
+
+        After many years hiatus from acting, she is thrilled to be returning to her roots this year to play the role of Safiyya in Golden Thread's production of *Returning to Haifa* by Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi. Bisharat is a grateful recipient of the Theater Bay Area Arts Leadership Residency Grant (2022-2023), Theater Bay Area CA$H Creates Grant (2022), and San Francisco Arts Commission Artist Grant (2023). 
+
+
+        Bisharat believes in the transformative power of art and storytelling whether on a stage, in a photograph, or in the stories we tell ourselves.
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
