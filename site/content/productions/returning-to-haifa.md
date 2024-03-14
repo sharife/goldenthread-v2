@@ -50,7 +50,7 @@ cast:
         His novella *Returning to Haifa*, one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
     - name: Naomi Wallace
       credit: playwright
-      image: https://ucarecdn.com/de104f86-8757-4163-aaa0-4893eac4d19d/
+      image: https://ucarecdn.com/61945328-a545-433e-be00-67ceefa06804/
       bio: "**Naomi Wallace**’s plays have been produced in the United States, the
         U.K., Europe and the Middle East and include *One Flea Spare*, *The
         Trestle at Pope Lick Creek*, *In the Heart of America*, *The Breach*,
