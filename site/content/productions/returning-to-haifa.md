@@ -181,6 +181,20 @@ cast:
         Cliff in CenterRep’s *Cabaret* this coming summer."
     - name: Lijesh Krishnan
       credit: ensemble cast (Said)
+    - name: Michelle Navarrete
+      credit: ensemble cast (Miriam)
+      image: https://ucarecdn.com/47402f03-233c-4b70-80ef-1664cd8fcd7a/
+      bio: "**Michelle Navarrete** (she/her) is a Theatre Artist, both on and off the
+        stage. Born and raised in San Francisco, she fell in love with the
+        performing arts and storytelling at an early age. After receiving her
+        BFA in Acting from Marymount Manhattan College, she continued her career
+        in NYC performing and producing theatre. In the Bay Area, Michelle has
+        worked with SF Playhouse, Cal Shakes, TheatreFirst, Custom Made Theatre
+        Co, Bay Area Children's Theatre, Impact Theatre, Faultline Theatre,
+        Theatre Cultura, to name a few. As a performer, educator and activist,
+        she has made theatre and the performing arts part of her life and
+        message. Thank you to my fighting Irish dad for being my biggest fan.
+        Miss you pops!"
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
