@@ -46,7 +46,7 @@ items:
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/returning-to-haifa/
-  - subtitle: "**11 Reflections: September**"
+  - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
 
