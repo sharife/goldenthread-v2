@@ -74,7 +74,7 @@ cast:
         play with Ismail Khalidi for Ashtar theater in Ramallah."
     - name: Ismail Khalidi
       credit: playwright
-      image: https://ucarecdn.com/63ac6b16-1592-4aea-a997-af8b39585b51/
+      image: https://ucarecdn.com/800de049-e05b-4d8d-998b-33b4f0803036/
       bio: "Born in Beirut to Palestinian parents and raised in Chicago, **Ismail
         Khalidi** is a playwright and director who has written, directed,
         performed, curated and taught internationally. Khalidi's plays include
