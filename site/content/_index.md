@@ -27,7 +27,7 @@ items:
       West Coast Premiere 
 
 
-      In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? Returning to Haifa presents a deeply human portrait of two families, one Palestinian, and one Jewish, forced by history into an intimacy they didn’t choose.  
+      In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? Returning to Haifa presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose.  
 
 
       Ghassan Kanafani was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. His novella "Returning to Haifa," one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
