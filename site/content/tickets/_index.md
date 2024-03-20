@@ -1,30 +1,6 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: "VIDEO ON DEMAND - What Do the Women Say? 2024: Expressions of Joy"
-    items:
-      - pre: An Annual Celebration of International Women’s Day
-        text: >-
-          **R﻿ecorded live on Friday, March 8, 2024, 8 PM at Brava Theater
-          Center.** Presented in a hybrid format with artists appearing
-          in-person and virtually. 
-
-
-          The 2024 edition of our annual celebration of International Women’s Day, ***What Do the Women Say? 2024: Expressions of Joy*** will honor the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
-
-
-          F﻿eaturing Palestinian melodies sung by the Aswat ensemble in an homage to the legacy of revered Palestinian activist, leader, and guardian of Palestinian culture and community in the Bay Area, **Nabila Mango**; an excerpt reading from *Where Can I Find Someone Like You, Ali?* a play by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**, a Palestinian Levantine Arab dabke troupe in the SF Bay Area; and a selection of material from the musical *Mornings in Jenin*, a work-in-progress written and composed by multidisciplinary artist **Amal Bisharat**, based on the international bestseller novel by Palestinian renowned author **Susan Abulhawa**. The program concludes with a conversation featuring the artists facilitated by Golden Thread Executive Artistic Director **Sahar Assaf**. 
-
-
-          Pre-sale tickets available at a range of **$25 - $100**. Seating is general admission. 
-
-
-          Each ticket is valid for a **48-hour** viewing period **beginning when you press play**.
-        cta: STREAM NOW
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000002HFslMAG
-        title: Available to stream On Demand from March 12 - 19, 2024
-        subtitle: ""
-        image: https://ucarecdn.com/8fd8e1db-4320-4ae6-a25a-167ed2d91c54/
   - heading: Returning to Haifa
     items:
       - pre: W﻿est Coast Premiere
