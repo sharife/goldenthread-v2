@@ -11,8 +11,8 @@ description: >-
   the echoes of a home they were forced to abandon during the Nakba in 1948. But
   are they truly ready for the encounter that awaits them upon their return?
   *Returning to Haifa* presents a deeply human portrait of two families, one
-  Palestinian, and one Jewish, forced by history into an intimacy they didn’t
-  choose. 
+  Palestinian, and one Israeli Jewish, forced by history into an intimacy they
+  didn’t choose. 
 
 
   “A moving confrontation between two sets of displaced people and an utterly unsentimental exploration of the complexities of home, history and parenthood.” - *Michael Billington, The Guardian, 5 March 2018* 
