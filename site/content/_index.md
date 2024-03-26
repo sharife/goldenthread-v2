@@ -50,7 +50,7 @@ items:
 
       Cast includes Deborah Eliezer\*, Maya Nazzal, and Lawrence Radecker\* \
 
-      * Golden Thread Resident Artists\
+      Golden Thread Resident Artists\
 
       \
 
