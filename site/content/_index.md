@@ -6,22 +6,6 @@ background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
 cta: Learn More!
 link: https://goldenthread.org/season/
 items:
-  - subtitle: "**What Do the Women Say? 2024**"
-    text: >-
-      Video-on-Demand viewing available March 12-19, 2024
-
-
-      Our annual celebration of International Women’s Day, [What Do the Women Say? 2024: Expressions of Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/) honors the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
-
-      It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of **Nabila Mango**; an excerpt play reading from *Where Can I Find Someone Like You, Ali?* by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the novel by Palestinian author **Susan Abulhawa**, followed by a facilitated conversation with audience and artists led by Golden Thread Executive Artistic Director **Sahar Assaf**.
-
-      Pre-show activities include traditional Palestinian food for purchase, and a tatreez (traditional Palestinian embroidery) exhibit from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon. 
-
-
-      March 8, 2024
-    image: https://ucarecdn.com/ff2ad984-8c66-4160-9c34-7cc8390312a9/
-    cta: Buy Tickets!
-    link: https://goldenthread.org/productions/what-do-the-women-say-2024/
   - subtitle: "**Returning to Haifa**"
     text: >-
       West Coast Premiere 
@@ -46,6 +30,30 @@ items:
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/returning-to-haifa/
+  - subtitle: "**The Tutor by Torange Yeghiazarian**"
+    text: >-
+      NEW CONSERVATORY THEATRE CENTER PRESENTS\
+
+      **The Tutor**\
+
+      by Torange Yeghiazarian\
+
+      directed by Sahar Assaf\
+
+      April 5, 2024 to May 12, 2024\
+
+      New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco\
+
+      \
+
+      In partnership with Golden Thread Productions, NCTC presents the world premiere of Torange Yeghiazarian’s passionate and evocative *The Tutor*.\
+
+      \
+
+      Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth.
+    image: https://ucarecdn.com/382740fc-69d3-4525-bb22-0a470dafedd9/
+    cta: Buy Tickets!
+    link: https://nctcsf.org/event/the-tutor/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
