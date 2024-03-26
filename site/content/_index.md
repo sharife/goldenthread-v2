@@ -32,6 +32,10 @@ items:
     link: https://goldenthread.org/productions/returning-to-haifa/
   - subtitle: "**The Tutor by Torange Yeghiazarian**"
     text: >-
+      In partnership with Golden Thread Productions, NCTC presents the world
+      premiere of Torange Yeghiazarian’s passionate and evocative *The Tutor*.
+
+
       NEW CONSERVATORY THEATRE CENTER PRESENTS \
 
       \
@@ -42,13 +46,11 @@ items:
 
       directed by Sahar Assaf\
 
-      April 5, 2024 to May 12, 2024\
-
-      New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco\
-
       \
 
-      In partnership with Golden Thread Productions, NCTC presents the world premiere of Torange Yeghiazarian’s passionate and evocative *The Tutor*.\
+      Cast includes Deborah Eliezer\*, Maya Nazzal, and Lawrence Radecker\* \
+
+      * Golden Thread Resident Artists\
 
       \
 
