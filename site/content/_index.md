@@ -32,7 +32,9 @@ items:
     link: https://goldenthread.org/productions/returning-to-haifa/
   - subtitle: "**The Tutor by Torange Yeghiazarian**"
     text: >-
-      NEW CONSERVATORY THEATRE CENTER PRESENTS\
+      NEW CONSERVATORY THEATRE CENTER PRESENTS \
+
+      \
 
       **The Tutor**\
 
@@ -50,7 +52,13 @@ items:
 
       \
 
-      Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth.
+      Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. \
+
+      \
+
+      April 5 - May 12, 2024\
+
+      New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
     image: https://ucarecdn.com/382740fc-69d3-4525-bb22-0a470dafedd9/
     cta: Buy Tickets!
     link: https://nctcsf.org/event/the-tutor/
