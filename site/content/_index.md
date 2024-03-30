@@ -32,7 +32,7 @@ items:
     link: https://goldenthread.org/productions/returning-to-haifa/
   - subtitle: "**Support *Returning to Haifa***"
     text: >-
-      Your Support Helps!
+      Your Contribution Helps!
 
 
       The west coast premiere of **Returning to Haifa** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
