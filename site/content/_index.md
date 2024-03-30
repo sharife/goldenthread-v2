@@ -6,6 +6,18 @@ background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
 cta: Learn More!
 link: https://goldenthread.org/season/
 items:
+  - subtitle: "**Support *Returning to Haifa***"
+    text: >-
+      Your Contribution Helps!
+
+
+      The west coast premiere of **Returning to Haifa** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
+
+
+      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience!
+    image: https://ucarecdn.com/9169f094-2189-4323-ba52-24af3864fe75/
+    cta: Donate Today!
+    link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
   - subtitle: "**Returning to Haifa**"
     text: >-
       West Coast Premiere 
@@ -30,18 +42,6 @@ items:
     image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/returning-to-haifa/
-  - subtitle: "**Support *Returning to Haifa***"
-    text: >-
-      Your Contribution Helps!
-
-
-      The west coast premiere of **Returning to Haifa** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
-
-
-      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience!
-    image: https://ucarecdn.com/9169f094-2189-4323-ba52-24af3864fe75/
-    cta: Donate Today!
-    link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
