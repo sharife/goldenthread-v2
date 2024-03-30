@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: A Season for Palestine
 subtitle: ""
-background: https://ucarecdn.com/7a76fcc7-8846-449b-968c-dd1a9de58774/
+background: https://ucarecdn.com/aa1a1c54-b96a-49d1-97f7-8261bdd79953/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
@@ -33,10 +33,10 @@ items:
     link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
   - subtitle: "**The Tutor at New Conservatory Theatre Center**"
     text: >-
-      Golden Thread is thrilled to announce the world premiere of **The Tutor**,
-      a new play by our founder **Torange Yeghiazarian**, commissioned and
-      produced by New Conservatory Theatre Center, and directed by
-      **Sahar Assaf**, our Executive Artistic Director.
+      World Premiere
+
+
+      Golden Thread is thrilled to announce the world premiere of **The Tutor**, a new play by our founder **Torange Yeghiazarian**, commissioned and produced by New Conservatory Theatre Center, and directed by **Sahar Assaf**, our Executive Artistic Director.
 
       This exciting collaboration between our companies highlights the spirit of artistic exchange and the exemplar of unifying leadership and cooperation. 
 
@@ -44,17 +44,19 @@ items:
       Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. 
 
 
-      NEW CONSERVATORY THEATRE CENTER PRESENTS
+      Cast: Deborah Eliezer, Maya Nazzal. Lawrence Radecker
 
-      The Tutor 
 
-      by Torange Yeghiazarian 
+      NEW CONSERVATORY THEATRE CENTER PRESENTS 
 
-      directed by Sahar Assaf
 
-      April 5, 2024 to May 12, 2024
+      **The Tutor** by Torange Yeghiazarian, directed by Sahar Assaf
+
 
       New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
+
+
+      April 5, 2024 to May 12, 2024
     image: https://ucarecdn.com/10279d47-a4d3-4965-bbf1-f410a7b4b1ac/
     cta: "Buy Tickets! "
     link: https://nctcsf.org/event/the-tutor/
