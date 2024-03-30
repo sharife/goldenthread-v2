@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: Join Us!
+headline: A Season for Palestine
 subtitle: ""
 background: https://ucarecdn.com/7a76fcc7-8846-449b-968c-dd1a9de58774/
 cta: Buy Tickets!
