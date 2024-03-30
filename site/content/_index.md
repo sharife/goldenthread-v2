@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: A Season for Palestine
+headline: Returning to Haifa
 subtitle: ""
 background: https://ucarecdn.com/aa1a1c54-b96a-49d1-97f7-8261bdd79953/
 cta: Buy Tickets!
