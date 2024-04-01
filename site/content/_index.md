@@ -1,37 +1,22 @@
 ---
 title: Middle East Center Stage
-headline: Join Us!
+headline: Returning to Haifa
 subtitle: ""
-background: https://ucarecdn.com/77feaee6-adb1-4bde-b094-25f86c32b567/
-cta: Learn More!
-link: https://goldenthread.org/season/
+background: https://ucarecdn.com/aa1a1c54-b96a-49d1-97f7-8261bdd79953/
+cta: Buy Tickets!
+link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**What Do the Women Say? 2024**"
+  - subtitle: "**Support *Returning to Haifa***"
     text: >-
-      Video-on-Demand viewing available March 12-19, 2024
+      Your Contribution Helps!
 
 
-      Our annual celebration of International Women’s Day, [What Do the Women Say? 2024: Expressions of Joy](https://goldenthread.org/productions/what-do-the-women-say-2024/) honors the resilience and richness of Palestinian traditions and culture through the works of Palestinian women artists.
-
-      It features Palestinian melodies sung by the **Aswat ensemble** in homage to the legacy of **Nabila Mango**; an excerpt play reading from *Where Can I Find Someone Like You, Ali?* by **Raeda Taha**; a traditional Palestinian dabke dance performance by **Al-Juthoor**; and selections from the work-in-progress musical *Mornings in Jenin*, written and composed by [Amal Bisharat](https://goldenthread.org/productions/reorient-2023/#open-modal-Amal%20Bisharat), based on the novel by Palestinian author **Susan Abulhawa**, followed by a facilitated conversation with audience and artists led by Golden Thread Executive Artistic Director **Sahar Assaf**.
-
-      Pre-show activities include traditional Palestinian food for purchase, and a tatreez (traditional Palestinian embroidery) exhibit from “Threads for Belonging”, curated by **Souad Amine**, a Palestinian artist based in Lebanon. 
+      The west coast premiere of **Returning to Haifa** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
 
 
-      March 8, 2024
-    image: https://ucarecdn.com/ff2ad984-8c66-4160-9c34-7cc8390312a9/
-    cta: Buy Tickets!
-    link: https://goldenthread.org/productions/what-do-the-women-say-2024/
-  - subtitle: "**Returning to Haifa**"
-    text: >-
-      West Coast Premiere 
+      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience! \
 
-
-      In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return? Returning to Haifa presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose.  
-
-
-      Ghassan Kanafani was one of the most prominent Arab novelists and modernist playwrights whose pen made him a target for the Israeli Mossad, who assassinated him at the age of thirty-six years old. His novella "Returning to Haifa," one of the most important works in contemporary Palestinian literature, was first published in 1969 and was translated into various languages, including Japanese, English, Russian, and Persian.
-
+      \
 
       **[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)**
 
@@ -43,9 +28,38 @@ items:
 
 
       April 12 - May 4, 2024
-    image: https://ucarecdn.com/c5bd08c9-e379-42c4-95a2-aec638f6a34a/
+    image: https://ucarecdn.com/932fbc5f-21e3-469a-b601-14835480d7e7/
+    cta: Donate Today!
+    link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
+  - subtitle: "**The Tutor at New Conservatory Theatre Center**"
+    text: >-
+      World Premiere
+
+
+      Golden Thread is thrilled to announce the world premiere of **The Tutor**, a new play by our founder **Torange Yeghiazarian**, commissioned and produced by New Conservatory Theatre Center, and directed by **Sahar Assaf**, our Executive Artistic Director.
+
+      This exciting collaboration between our companies highlights the spirit of artistic exchange and the exemplar of unifying leadership and cooperation. 
+
+
+      Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. 
+
+
+      Cast: Deborah Eliezer, Maya Nazzal. Lawrence Radecker
+
+
+      NEW CONSERVATORY THEATRE CENTER PRESENTS 
+
+
+      **The Tutor** by Torange Yeghiazarian, directed by Sahar Assaf
+
+
+      New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
+
+
+      April 5, 2024 to May 12, 2024
+    image: https://ucarecdn.com/10279d47-a4d3-4965-bbf1-f410a7b4b1ac/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/productions/returning-to-haifa/
+    link: https://nctcsf.org/event/the-tutor/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
