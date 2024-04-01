@@ -28,7 +28,7 @@ items:
 
 
       April 12 - May 4, 2024
-    image: https://ucarecdn.com/932fbc5f-21e3-469a-b601-14835480d7e7/
+    image: https://ucarecdn.com/b4c33533-9145-44a7-8b5a-4debc76e56c1/
     cta: Donate Today!
     link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
   - subtitle: "**The Tutor at New Conservatory Theatre Center**"
