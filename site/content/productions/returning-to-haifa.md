@@ -193,10 +193,12 @@ cast:
       image: https://ucarecdn.com/60ba53e4-dde0-46ff-94d1-99e8940e956f/
       bio: Lijesh Krishnan grew up in Kuwait and India and spent a decade in the Twin
         Cities before making San Francisco his home. In the Bay Area, he has
-        acted with African American Shakespeare, Crowded Fire, Golden Thread,
-        Marin Shakespeare, Aluminous, Altarena, Those Women Productions, Ninjaz
-        of Drama, Theater of Others, and others. He is honored to be part of
-        this cast and crew.
+        acted with African American Shakespeare, Crowded Fire, Golden Thread
+        ([On the
+        Periphery](https://goldenthread.org/productions/on-the-periphery/),
+        2020), Marin Shakespeare, Aluminous, Altarena, Those Women Productions,
+        Ninjaz of Drama, Theater of Others, and others. He is honored to be part
+        of this cast and crew.
     - name: Michelle Navarrete
       credit: ensemble cast (Miriam)
       image: https://ucarecdn.com/47402f03-233c-4b70-80ef-1664cd8fcd7a/
