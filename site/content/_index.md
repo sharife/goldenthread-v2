@@ -36,15 +36,12 @@ items:
       World Premiere
 
 
-      Golden Thread is thrilled to announce the world premiere of **The Tutor**, a new play by our founder **Torange Yeghiazarian**, commissioned and produced by New Conservatory Theatre Center, and directed by **Sahar Assaf**, our Executive Artistic Director.
+      Golden Thread is thrilled to announce the world premiere of **The Tutor**, a new play by our founder **Torange Yeghiazarian**, commissioned and produced by New Conservatory Theatre Center, and directed by **Sahar Assaf**, our Executive Artistic Director, with a cast of Golden Thread Resident Artists: Deborah Eliezer, Maya Nazzal, Lawrence Radecker.
 
       This exciting collaboration between our companies highlights the spirit of artistic exchange and the exemplar of unifying leadership and cooperation. 
 
 
       Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. 
-
-
-      Cast: Deborah Eliezer, Maya Nazzal. Lawrence Radecker
 
 
       NEW CONSERVATORY THEATRE CENTER PRESENTS 
@@ -56,7 +53,7 @@ items:
       New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
 
 
-      April 5, 2024 to May 12, 2024
+      April 5 - May 12, 2024
     image: https://ucarecdn.com/10279d47-a4d3-4965-bbf1-f410a7b4b1ac/
     cta: "Buy Tickets! "
     link: https://nctcsf.org/event/the-tutor/
