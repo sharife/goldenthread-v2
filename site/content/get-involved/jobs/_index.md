@@ -71,6 +71,17 @@ After successfully and smoothly completing our first ever leadership transition 
 * Build a positive relationship with Golden Thread’s community, attending company functions such as artist meetings, production meetings, first rehearsals, design runs, first previews and opening nights as needed.
 * Enhance the organization’s visibility in the San Francisco community and greater Bay Area, and in conjunction with the Artistic Director and when called upon, act as a visible spokesperson and speak to private and public organizations and to the press.
 
+**QUALIFICATIONS AND CHARACTERISTICS** - We believe that people gain skills through a variety of professional, personal, educational, and volunteer experiences. If you believe you have the skills necessary to fulfill the responsibilities of this role, we encourage you to apply. 
+
+The Managing Director will be a strategic thinker and creative leader who motivates, inspires, and is passionate about Golden Thread’s mission. They will demonstrate strong financial, managerial, and fundraising acumen. They will effectively manage risk while remaining grounded and be undeterred by frequent change and unique challenges. They will be committed to building community and value deep dialogue, self-examination and inquiry.
+
+Qualified candidates will exhibit a collaborative spirit; self-motivating and adaptable approach; excellent interpersonal, verbal, and written communication skills; and an ability to work with varied communication styles. They will have proven organizational and time management skills, attention to detail, strategic and analytical thinking with an ability to manage multiple projects at once, set priorities, and meet deadlines. With a sustained dedication to equity and inclusion, they will have the ability to work with diverse groups of artists and audiences. A background in theatre arts administration would be preferred. The ideal candidate will be politically aware and sensitive to the plurality of thought and culture both within the Middle East and its world-wide diaspora.
+
+**COMPENSATION AND START DATE -** This is a full-time, exempt position. The salary for this position is budgeted at $70,000. Benefits include medical, dental and vision insurance, paid time off, holiday pay, sick leave, a flexible schedule, and the ability to perform some work remotely.  
+
+**HOW TO APPLY** - Please email one PDF containing a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references to MDSearch@goldenthread.org.
+Applications will be reviewed on a rolling basis and the position will remain open until filled. Preferred start date is June 1, 2024. For questions, email MDSearch@goldenthread.org.
+
 ![]()
 
 ### **Production, Design & Technical Personnel**
