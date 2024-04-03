@@ -11,7 +11,6 @@ sidebar:
 
 **SUMMARY OF OPPORTUNITY** – Golden Thread Productions (goldenthread.org) is seeking a new Managing Director. This is a full-time position in San Francisco, CA. Reporting to the board of trustees in partnership with the Artistic Director, the Managing Director is responsible for the business and administrative management of the organization in support of a 5-year strategic plan and the Artistic Director’s vision and the mission of the company. This entails leading efforts in administration, financial management, human resources, fundraising, and development. The Managing Director will oversee the duties of the Development/Patron Services Associate and the Patron Services Manager/Graphic Design Associate. The ideal candidate would have experience in non-profit management and/or arts administration, be familiar with the operational and developmental needs of a performing arts organization, and possess strong management, strategic, and analytical skills combined with an understanding of Middle Eastern and Middle Eastern American theatre as well as the diverse communities that shape it.
 
-
 **BACKGROUND** – Founded in 1996, Golden Thread Productions is the first American theatre company focused on the Middle East, defined broadly and inclusively. Golden Thread’s mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
 
 For more than two decades, Golden Thread Productions has been expanding the scope of mainstream American storytelling to include Middle Eastern immigrant perspectives and advocating for diversity and inclusion in the American theatre nationally. Our programs expose non-Middle Eastern audiences to the authentic voices and alternative perspectives of the region, while serving Middle Eastern audiences who rarely encounter meaningful reflections of their own culture in the performing arts. Instilling pride, facilitating conversations and building cultural bridges among artists, audiences, and diverse communities is at the core of our artistic practice.
@@ -33,6 +32,13 @@ After successfully and smoothly completing our first ever leadership transition 
 * Direct organizational data collection and management.
 * Manage production administration including contracts and payments.
 * Provide box office and front of the house oversight.
+
+**Provide financial management and budgetary oversight.**
+
+* Develop and manage annual operating budgets, multi-year projections, programming income and expense forecasts, and collaborate with the Artistic Director to produce production budgets.
+* Manage accounts payable/receivable and provide oversight of all financial reporting and recordkeeping controls in accordance with Generally Accepted Accounting Principles (GAAP).
+* Prepare and present financial evaluations to measure fiscal effectiveness to the Artistic Director, Treasurer, and Board of Trustees.
+* Oversee annual audit and tax preparation.
 
 ![]()
 
