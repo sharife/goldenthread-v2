@@ -44,12 +44,6 @@ items:
       Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. 
 
 
-      NEW CONSERVATORY THEATRE CENTER PRESENTS 
-
-
-      **The Tutor** by Torange Yeghiazarian, directed by Sahar Assaf
-
-
       New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
 
 
