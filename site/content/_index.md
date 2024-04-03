@@ -11,10 +11,13 @@ items:
       Your Contribution Helps!
 
 
-      The west coast premiere of **Returning to Haifa** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
+      The west coast premiere of ***Returning to Haifa*** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda. 
 
 
-      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience! \
+      Adapted from Ghassan Kanafani's brilliant novella by Naomi Wallace and Ismail Khalidi, *Returning to Haifa* is a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose.
+
+
+      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience! And don't forget to get your tickets today!\
 
       \
 
