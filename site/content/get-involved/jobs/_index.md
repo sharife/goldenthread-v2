@@ -54,6 +54,23 @@ After successfully and smoothly completing our first ever leadership transition 
 * Maintain donor treatment, acknowledgement procedures, Prospect Cultivation protocols, and donor/patron records.
 * Administrate the CRM database and utilize the data to provide analysis and insight.
 
+**Manage development strategy and portfolio.**
+
+* Direct and lead institutional fundraising with foundations, corporations, and government agencies.
+* Manage all operations related grants, proposals and reports, and assist the Artistic Director with project-specific grant research, applications and reporting.
+* Manage the annual grants calendar according to opportunities for operations, productions, and programs.
+
+**In collaboration with the Artistic Director:**
+
+**Provide organizational leadership and strategy.**
+
+* Set priorities and objectives for the organization and align the distribution and allocation of financial capacity and human resources with the achievement of the mission, values, artistic vision and strategic goals of the company in conjunction with the board, Artistic Director, and staff.
+* Grow and diversify the board of trustees, while managing board relations through regular and effective communication and ensuring that board members are best engaged according to their skills and interests.
+* Sustain and expand Golden Thread’s accountability, anti-racism, and EDI efforts in collaboration with the AD and safeguard the well-being of our artists, audiences, staff, and board.
+* Serve as an ex officio member of the board, attending meetings and participating on board committees, including the development committee, and others as necessary.
+* Build a positive relationship with Golden Thread’s community, attending company functions such as artist meetings, production meetings, first rehearsals, design runs, first previews and opening nights as needed.
+* Enhance the organization’s visibility in the San Francisco community and greater Bay Area, and in conjunction with the Artistic Director and when called upon, act as a visible spokesperson and speak to private and public organizations and to the press.
+
 ![]()
 
 ### **Production, Design & Technical Personnel**
