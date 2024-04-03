@@ -7,13 +7,38 @@ sidebar:
 ---
 ![]()
 
+### Managing Director
+
+**SUMMARY OF OPPORTUNITY** – Golden Thread Productions (goldenthread.org) is seeking a new Managing Director. This is a full-time position in San Francisco, CA. Reporting to the board of trustees in partnership with the Artistic Director, the Managing Director is responsible for the business and administrative management of the organization in support of a 5-year strategic plan and the Artistic Director’s vision and the mission of the company. This entails leading efforts in administration, financial management, human resources, fundraising, and development. The Managing Director will oversee the duties of the Development/Patron Services Associate and the Patron Services Manager/Graphic Design Associate. The ideal candidate would have experience in non-profit management and/or arts administration, be familiar with the operational and developmental needs of a performing arts organization, and possess strong management, strategic, and analytical skills combined with an understanding of Middle Eastern and Middle Eastern American theatre as well as the diverse communities that shape it.
+
+
+**BACKGROUND** – Founded in 1996, Golden Thread Productions is the first American theatre company focused on the Middle East, defined broadly and inclusively. Golden Thread’s mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
+
+For more than two decades, Golden Thread Productions has been expanding the scope of mainstream American storytelling to include Middle Eastern immigrant perspectives and advocating for diversity and inclusion in the American theatre nationally. Our programs expose non-Middle Eastern audiences to the authentic voices and alternative perspectives of the region, while serving Middle Eastern audiences who rarely encounter meaningful reflections of their own culture in the performing arts. Instilling pride, facilitating conversations and building cultural bridges among artists, audiences, and diverse communities is at the core of our artistic practice.
+Golden Thread’s signature programs include the development and production of full-length plays; the ReOrient Festival of short plays; the New Threads staged reading series; an annual event featuring Middle Eastern women artists entitled What Do the Women Say?, and the Golden Thread Fairytale Players which features the creation and touring of theatre for young audiences based on Middle Eastern folktales and traditions.
+
+Over the last decade, Golden Thread has achieved steady growth expanding from a $215K budget in 2013 to $650K in 2023 through significant investment in staff and board development, community engagement, and funder relationships. We have served over 50,000 audience members, premiered more than 100 new plays, including seven plays for young audiences, and employed more than 1,000 artists. Today, the company enjoys a leading position as the first American theatre company devoted to the Middle East, a robust donor and audience base, an engaged board, and strong community partnerships.
+
+After successfully and smoothly completing our first ever leadership transition in 2021, following 25 years under our Founding Artistic Director, we are transitioning from a single Executive Artistic Director solely reporting to the board of trustees to a dual reporting structure, where a dynamic and cohesive partnership between the Artistic Director and the Managing Director will enhance our collaborative decision-making, accountability, and adaptability, and ultimately, the overall success of our organization. The Artistic Director will focus on setting the company’s artistic vision, developing and producing new work, building relationships with local, national, and international artists, and representing the company to community members, audiences, and supporters. The Managing Director will focus on setting the vision for the company’s organizational structure and capacity, managing financial and human resources, and building relationships with external partners to advance the company’s strategic goals. Both positions will report directly to the Board of Trustees.
+
+**DESCRIPTION** – The position of Managing Director is full time. This position reports directly to the Board of Trustees and operates in partnership with the Artistic Director. Together, the Artistic Director and Managing Director guide the company’s long-term vision laid out in a 5-year strategic plan, enhancing visibility and amplifying impact. The primary objective of this collaboration is to realize Golden Thread's mission through the implementation of compelling artistic programming, visionary strategic planning, and effective operational management. The Managing Director is responsible for the business and administrative management of the organization in support of a 5-year strategic plan and the Artistic Director’s vision and the mission of the company. This entails leading efforts in administration, financial management, human resources, fundraising, and development.
+
+**Primary Responsibilities:**
+
+**Manage daily operations and oversee all administrative functions.**
+
+* Maintain relationships and communications with a wide range of partners, including artists, agents, contractors, vendors, community partners, and service organizations.
+* Maintain leases, rental agreements and service contracts and manage contractual negotiations with various unions including but not limited to Actor’s Equity Association (AEA), United Scenic Artists, and the Stage Directors and Choreographers (SDC).
+* Ensure maintenance of all insurance, permits, and licenses legally required.
+* Direct organizational data collection and management.
+* Manage production administration including contracts and payments.
+* Provide box office and front of the house oversight.
+
 ![]()
 
 ### **Production, Design & Technical Personnel**
 
 Golden Thread accepts ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). 
-
-
 
 **About Golden Thread Productions:** 
 
