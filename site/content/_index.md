@@ -11,7 +11,7 @@ items:
       Your Contribution Helps!
 
 
-      The west coast premiere of ***Returning to Haifa*** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the Go Fund Me campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda.
+      The west coast premiere of ***Returning to Haifa*** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the [Go Fund Me](https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer) campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda.
 
 
       *Returning to Haifa* presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose. In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?
