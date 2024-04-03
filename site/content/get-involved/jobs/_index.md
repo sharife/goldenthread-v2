@@ -82,6 +82,8 @@ Qualified candidates will exhibit a collaborative spirit; self-motivating and ad
 **HOW TO APPLY** - Please email one PDF containing a resume and a detailed cover letter explaining your interest in the position and our organization, along with three or more references to MDSearch@goldenthread.org.
 Applications will be reviewed on a rolling basis and the position will remain open until filled. Preferred start date is June 1, 2024. For questions, email MDSearch@goldenthread.org.
 
+
+
 ![](https://ucarecdn.com/72f7c7b2-edd5-49af-811e-566b042b14ce/)
 
 ### **Production, Design & Technical Personnel**
