@@ -40,6 +40,20 @@ After successfully and smoothly completing our first ever leadership transition 
 * Prepare and present financial evaluations to measure fiscal effectiveness to the Artistic Director, Treasurer, and Board of Trustees.
 * Oversee annual audit and tax preparation.
 
+**Manage all human resources functions.**
+
+* Review and maintain all employment policies, procedures and documentation and ensure the ongoing compliancy of employment practices and the employee handbook.
+* Oversee the recruiting, hiring, and supervision of key administrative positions and assist the Artistic Director as needed for production hiring.
+* Create and fulfill production and employment contracts.
+* Conduct all initial employee onboarding and benefits administration.
+
+**Strategize, plan and lead all fundraising efforts.**
+
+* Actively seek out new and renewed sources of contributed income, with a particular focus on identifying and establishing relationships with key individual donors, while motivating and inspiring board members in their fundraising responsibilities to leverage their skills and networks.
+* Manage all annual fundraising activities through the creation of campaigns, development of case statements, strategy design, and direction of the creation of materials including annual solicitations and special campaigns.
+* Maintain donor treatment, acknowledgement procedures, Prospect Cultivation protocols, and donor/patron records.
+* Administrate the CRM database and utilize the data to provide analysis and insight.
+
 ![]()
 
 ### **Production, Design & Technical Personnel**
