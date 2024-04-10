@@ -213,6 +213,12 @@ cast:
         she has made theatre and the performing arts part of her life and
         message. Thank you to my fighting Irish dad for being my biggest fan.
         Miss you pops!"
+photos:
+  heading: Publicity Photos
+  items:
+    - image: https://ucarecdn.com/04430198-3366-48d0-8b7f-b9b8294bcb75/
+    - image: https://ucarecdn.com/81347ebc-6afa-451b-afae-18b6c8412a42/
+    - image: https://ucarecdn.com/541d50e9-44b4-4b67-b109-f5101dc94030/
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
