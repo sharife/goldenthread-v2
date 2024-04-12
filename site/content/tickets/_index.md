@@ -23,11 +23,21 @@ lists:
           **Special dates:**
 
 
-          * April 12, 13, 14 — Pay What You Want Previews\*\*
+          * April 12, 13, 14 - Pay What You Want Previews\*\*
 
-          * April 15 — Opening night!
+          * April 15 - Opening night! 
 
-          * April 21 — Masked-required performance  
+          * April 19 - Community Sponsor [MECA: Middle East Children's Alliance](https://www.mecaforpeace.org/)
+
+          * April 20 - Community Sponsor [Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/); **post-show discussion** with JVP, moderated by Community Council member [Arielle Tonkin](https://goldenthread.org/productions/reorient-2023/#open-modal-Arielle%20Tonkin) 
+
+          * April 21 - Community Sponsor [NorCal Sabeel](https://www.norcalsabeel.org/); **post-show discussion** with actors, director and dramaturg; **Masked-required performance**  
+
+          * April 25 - Community Sponsor [Palestinian Youth Movement](https://palestinianyouthmovement.com/) 
+
+          * April 28 - Community Sponsor [AROC: Arab Resource and Organizing Center](http://www.araborganizing.org/); **post-show discussion** with AROC, JVP, MECA, moderated by Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf)
+
+          * April 30 - (no performance) [Community Listening Circle](https://docs.google.com/forms/d/1TWoV3zFOYk1YhLTV8spWcN5LJW0tnrpcB5qTrEGww_Y/viewform?ts=6615f2bb&edit_requested=true) with [Aviva Arts](https://www.avivaarts.org/)
 
           * May 5 - May 12, 2024 — **[VIDEO ON DEMAND](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** viewing period
 
