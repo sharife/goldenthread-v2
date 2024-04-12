@@ -12,7 +12,7 @@ sidebar:
 
 Volunteers help with event door monitoring, seating assistance, and general support including audience survey distribution. Our volunteers are a very important part of any successful event, and they get to see the show for free! 
 
-Golden Thread is currently seeking volunteer ushers for ***[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)***, a west coast premiere and part of our 2024 Season for Palestine. We are looking for 2 volunteer ushers each show to assist for a total of 4 hours per shift. We ask our volunteers to **arrive 1.5 hours prior to showtime**. The run time for this show is 70 minutes.
+Golden Thread is currently seeking volunteer ushers for ***[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)***, a west coast premiere and part of our 2024 Season for Palestine. We are looking for 2 volunteer ushers each show to assist for a total of 4 hours per shift. We ask our volunteers to **arrive 1.5 hours prior to showtime**. The **run time** for this show is **70 minutes**.
 
 We need volunteer ushers for the following event dates and show times: 
 
