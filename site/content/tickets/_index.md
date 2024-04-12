@@ -37,7 +37,7 @@ lists:
 
           * April 28 - Community Sponsor [AROC: Arab Resource and Organizing Center](http://www.araborganizing.org/); **post-show discussion** with AROC, JVP, MECA, moderated by Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf)
 
-          * April 30 - (no performance) [Community Listening Circle](https://docs.google.com/forms/d/1TWoV3zFOYk1YhLTV8spWcN5LJW0tnrpcB5qTrEGww_Y/viewform?ts=6615f2bb&edit_requested=true) with [Aviva Arts](https://www.avivaarts.org/)
+          * April 30 - (no performance) [Community Listening Circle](https://www.avivaarts.org/listening-circle) with [Aviva Arts](https://www.avivaarts.org/)
 
           * May 5 - May 12, 2024 — **[VIDEO ON DEMAND](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** viewing period
 
