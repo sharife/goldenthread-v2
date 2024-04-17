@@ -217,7 +217,7 @@ cast:
         message. Thank you to my fighting Irish dad for being my biggest fan.
         Miss you pops!"
 photos:
-  heading: Publicity Photos
+  heading: Publicity Photos by Najib Joe Hakim
   items:
     - image: https://ucarecdn.com/04430198-3366-48d0-8b7f-b9b8294bcb75/
     - image: https://ucarecdn.com/81347ebc-6afa-451b-afae-18b6c8412a42/
