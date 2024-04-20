@@ -35,9 +35,13 @@ lists:
 
           * April 25 - Community Sponsor [Palestinian Youth Movement](https://palestinianyouthmovement.com/) 
 
-          * April 28 - Community Sponsor [AROC: Arab Resource and Organizing Center](http://www.araborganizing.org/); **post-show discussion** with AROC, JVP, MECA, moderated by Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf)
+          * April 28 - Community Sponsor [AROC: Arab Resource and Organizing Center](http://www.araborganizing.org/); **post-show discussion** with AROC, JVP, MECA, moderated by Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf) 
+
+          * ADDED EVENING SHOW - Sunday, April 28, 8:00 pm
 
           * April 30 - (no performance) [Community Listening Circle](https://www.avivaarts.org/listening-circle) with [Aviva Arts](https://www.avivaarts.org/)
+
+          * ADDED MATINEE SHOW - Saturday, May 4, 3:00 pm
 
           * May 5 - May 12, 2024 — **[VIDEO ON DEMAND](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** viewing period
 
