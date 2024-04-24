@@ -1,11 +1,11 @@
 ---
-title: "11 Reflections: San Francisco"
+title: "11Reflections: San Francisco"
 season: 2024
 date: 2024-01-24T04:42:13.635Z
 start: 2024-10-04T03:42:13.642Z
 end: 2024-10-05T03:42:13.648Z
 description: >-
-  ***11 Reflections: San Francisco*** is part of a new national series of
+  ***11Reflections: San Francisco*** is part of a new national series of
   performance works, ***Eleven Reflections on the Nation***, devised by Andrea
   Assaf. 
 
@@ -28,4 +28,4 @@ bottom:
   text: Co-Produced by Golden Thread Productions, Brava for Women in the Arts,
     Art2Action, and in collaboration with Aviva Arts.
 ---
-***11 Reflections: San Francisco*** invites Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area to participate in Story Circles, workshops, creative writing, and theatre-making in response to the question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?
+***11Reflections: San Francisco*** invites Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area to participate in Story Circles, workshops, creative writing, and theatre-making in response to the question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?
