@@ -20,6 +20,42 @@ address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
+mentions:
+  heading: Story Circles in May, 2024
+  text: >-
+    These Story Circle workshops, facilitated by [Andrea
+    Assaf](https://www.art2action.org/artists/andrea-assaf), are part of a
+    series inviting Southwest/Central Asian and North African (SWANA), Middle
+    Eastern/North African/South Asian (MENASA), and Muslim American artists,
+    BIPOC artists and allies, and impacted communities in the Bay Area to
+    participate in workshops, creative writing, and theatre-making in response
+    to the question: **What has the impact of the post-9/11 era been in your
+    city, and how does it connect to what’s happening today in Palestine?**
+
+
+    These FREE workshops are offered in conjunction with a new project, **11Reflections: San Francisco**, devised and directed by Andrea Assaf, featuring Syrian vocalist Lubana Al Quntar and Turkish violinist Eylem Basaldi, premiering October 4-5, 2024 at Brava Theatre. This project is the second in a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections). In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. \
+
+    \
+
+    Community Story Circle @ Brava Cabaret!
+
+    Presented by Aviva Arts
+
+    Monday, May 13, 6-9pm 
+
+
+    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco-1/form). \
+
+    \
+
+    Community Story Circle @ Red Poppy Art House! 
+
+    Presented by Red Poppy 
+
+    Thursday, May 16, 5:30-8:30pm
+
+
+    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco/form).
 bottom:
   logos:
     - image: https://ucarecdn.com/84b8a29c-018e-4cee-98cf-a6c2b8ad0d97/
