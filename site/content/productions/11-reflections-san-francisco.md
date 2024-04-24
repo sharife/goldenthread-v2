@@ -26,6 +26,6 @@ bottom:
     - image: https://ucarecdn.com/5b158ce3-2a68-4d37-810a-3bf39efff8ea/
     - image: https://ucarecdn.com/d6241c67-b7a4-42b6-b89c-5ea230ee2893/
   text: Co-Produced by Golden Thread Productions, Brava for Women in the Arts,
-    Art2Action, and in collaboration with Aviva Arts.
+    Art2Action, and in collaboration with Aviva Arts and Red Poppy Art House.
 ---
 ***11Reflections: San Francisco*** invites Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area to participate in Story Circles, workshops, creative writing, and theatre-making in response to the question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?
