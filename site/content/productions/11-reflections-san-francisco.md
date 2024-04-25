@@ -20,6 +20,34 @@ address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
+mentions:
+  heading: Story Circles in May, 2024
+  text: >-
+    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies
+    in the Bay Area to participate in Community Story Circle workshops led by
+    [Andrea Assaf](https://www.art2action.org/artists/andrea-assaf) as part of
+    the *11Reflections: San Francisco* project. 
+
+
+    Monday, May 13, 6-9pm
+
+    Community Story Circle @ Brava!
+
+    Presented by Aviva Arts
+
+
+    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco-1/form). \
+
+    \
+
+    Thursday, May 16, 5:30-8:30pm
+
+    Community Story Circle @ Red Poppy Art House! 
+
+    Presented by Red Poppy
+
+
+    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco/form).
 bottom:
   logos:
     - image: https://ucarecdn.com/84b8a29c-018e-4cee-98cf-a6c2b8ad0d97/
