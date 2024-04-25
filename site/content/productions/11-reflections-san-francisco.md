@@ -29,24 +29,22 @@ mentions:
     We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies in the Bay Area to participate in Community Story Circle workshops led by Andrea Assaf as part of the *11Reflections: San Francisco* project. 
 
 
-    \
+    Monday, May 13, 6-9pm
 
-    Community Story Circle @ Brava Cabaret!
+    Community Story Circle @ Brava!
 
-    Presented by Aviva Arts,
-
-    Monday, May 13, 6-9pm 
+    Presented by Aviva Arts
 
 
     Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco-1/form). \
 
     \
 
+    Thursday, May 16, 5:30-8:30pm
+
     Community Story Circle @ Red Poppy Art House! 
 
-    Presented by Red Poppy, 
-
-    Thursday, May 16, 5:30-8:30pm
+    Presented by Red Poppy
 
 
     Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco/form).
