@@ -33,7 +33,7 @@ mentions:
 
     Community Story Circle @ Brava Cabaret!
 
-    Presented by Aviva Arts
+    Presented by Aviva Arts,
 
     Monday, May 13, 6-9pm 
 
@@ -44,7 +44,7 @@ mentions:
 
     Community Story Circle @ Red Poppy Art House! 
 
-    Presented by Red Poppy 
+    Presented by Red Poppy, 
 
     Thursday, May 16, 5:30-8:30pm
 
