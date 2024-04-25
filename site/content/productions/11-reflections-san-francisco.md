@@ -23,10 +23,9 @@ ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 mentions:
   heading: Story Circles in May, 2024
   text: >-
-    Story Circles in May, 2024 
-
-
-    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies in the Bay Area to participate in Community Story Circle workshops led by Andrea Assaf as part of the *11Reflections: San Francisco* project. 
+    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies
+    in the Bay Area to participate in Community Story Circle workshops led by
+    Andrea Assaf as part of the *11Reflections: San Francisco* project. 
 
 
     Monday, May 13, 6-9pm
