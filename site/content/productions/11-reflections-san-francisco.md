@@ -23,17 +23,11 @@ ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 mentions:
   heading: Story Circles in May, 2024
   text: >-
-    These Story Circle workshops, facilitated by [Andrea
-    Assaf](https://www.art2action.org/artists/andrea-assaf), are part of a
-    series inviting Southwest/Central Asian and North African (SWANA), Middle
-    Eastern/North African/South Asian (MENASA), and Muslim American artists,
-    BIPOC artists and allies, and impacted communities in the Bay Area to
-    participate in workshops, creative writing, and theatre-making in response
-    to the question: **What has the impact of the post-9/11 era been in your
-    city, and how does it connect to what’s happening today in Palestine?**
+    Story Circles in May, 2024 
 
 
-    These FREE workshops are offered in conjunction with a new project, **11Reflections: San Francisco**, devised and directed by Andrea Assaf, featuring Syrian vocalist Lubana Al Quntar and Turkish violinist Eylem Basaldi, premiering October 4-5, 2024 at Brava Theatre. This project is the second in a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections). In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. \
+    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies in the Bay Area to participate in Community Story Circle workshops led by Andrea Assaf as part of the *11Reflections: San Francisco* project. 
+
 
     \
 
