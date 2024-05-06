@@ -53,7 +53,7 @@ lists:
           \
 
           Pre-sale tickets available at a range of **$30 - $100**. Seating is general admission.
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ
         cta: BUY NOW
         image: https://ucarecdn.com/9ea2dc26-8c83-41cc-a4c7-ec52d08dd967/
   - heading: "11 REFLECTIONS: SAN FRANCISCO  "
