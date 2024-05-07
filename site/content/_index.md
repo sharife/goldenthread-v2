@@ -6,28 +6,26 @@ background: https://ucarecdn.com/aa1a1c54-b96a-49d1-97f7-8261bdd79953/
 cta: Buy Tickets!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**Support *Returning to Haifa***"
+  - subtitle: "**No Summary 2024**"
     text: >-
-      Your Contribution Helps!
+      Conversations with Artists Who Don't Fit in a Box 
 
 
-      The west coast premiere of ***[Returning to Haifa](https://goldenthread.org/productions/returning-to-haifa/)*** is the cornerstone of our 2024 Season for Palestine. We are still raising funds for this production and we could use your support! Join the [Go Fund Me](https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer) campaign hosted by our longtime supporters Mona Masri, Jumana Muwafi, and Hassan Fouda.
+      Now entering its fifth consecutive year, our digital conversation series **No Summary** will feature conversations with theatre companies in Palestine.
 
 
-      *Returning to Haifa* presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose. In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?
+      Our 2024 virtual artist conversation series will embark on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode will spotlight a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. \
 
 
-      Every contribution, no matter the size, will make a difference. Help us bring this powerful story to the stage for everyone to experience! And don't forget to get your tickets today!\
+      Online via Zoom and Howlround TV
 
-      \
-
-      P﻿otrero Stage, 1696 18th Street, San Francisco
+      Free with Reservation 
 
 
-      April 12 - May 4, 2024
-    image: https://ucarecdn.com/d55219fd-fb4c-48fc-980b-1c0b58b7d30c/
-    cta: Donate Today!
-    link: https://www.gofundme.com/f/palestinian-voices-returning-to-haifa-performance?member=32712677&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=copy_link&utm_source=customer
+      May 24 – June 14, 2024
+    image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
+    cta: Learn More!
+    link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**The Tutor at New Conservatory Theatre Center**"
     text: >-
       World Premiere
