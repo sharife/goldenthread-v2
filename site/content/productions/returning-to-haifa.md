@@ -36,7 +36,7 @@ additional: based on the novella by Ghassan Kanafani
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
-ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001ftrBMAQ
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ
 ticketinfo: "Tickets $30 - $100. No one turned away for lack of funds. "
 cast:
   items:
