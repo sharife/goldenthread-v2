@@ -28,6 +28,7 @@ lists:
           * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
         cta: Register for free!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh0000032B5nMAE
+        image: https://ucarecdn.com/c66ce43e-ad7a-482b-a20e-a19a3e779fd5/
   - heading: "11 REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
