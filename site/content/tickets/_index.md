@@ -1,61 +1,34 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: Returning to Haifa
+  - heading: No Summary 2024
     items:
-      - pre: W﻿est Coast Premiere
-        subtitle: ""
-        title: April 12 - May 4, 2024 at Potrero Stage
+      - title: May 24 - June 13, 2024 Online via Zoom and Howlround TV
+        pre: Conversations with Artists Who Don’t Fit in a Box
         text: >-
-          By **Ghassan Kanafani**\
-
-          Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**\
-
-          Directed by **Samer Al-Saber** 
-
-
-          In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?** *Returning to Haifa*** presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn't choose.
-
-
-          Performances run every Thursday*, Friday, and Saturday at 8 pm and Sundays at 3 pm
+          Our 2024 virtual artist conversation series will embark on a tour of
+          four Palestinian cities to offer audiences in the Bay Area and beyond
+          a taste of the Palestinian theatre scene today. Each episode will
+          spotlight a different theater, showcasing its history, notable
+          performances, challenges, and life behind the scenes through
+          interviews with its artists and community members. Theater makers,
+          audiences, professors, and students are all invited to join in these
+          stimulating conversations.
 
 
-          **Special dates:**
+          **F﻿ull list of episodes:**
 
 
-          * April 12, 13, 14 - Pay What You Want Previews\*\*
+          * **[Episode 1: Ashtar Theatre of Ramallah](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nC2zMAE)** Friday, May 24 at 11 AM PT (9 PM Palestine)  
 
-          * April 15 - Opening night! 
+          * **[E﻿pisode 2: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** Friday, May 31 at 11 AM PT (9 PM Palestine)
 
-          * April 19 - Community Sponsor [MECA: Middle East Children's Alliance](https://www.mecaforpeace.org/)
+          * **[E﻿pisode 3: Al-Harah Theater of Beit Jala](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE)** Friday, June 7 at 11 AM PT (9 PM Palestine)
 
-          * April 20 - Community Sponsor [Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/); **post-show discussion** with JVP, moderated by Community Council member [Arielle Tonkin](https://goldenthread.org/productions/reorient-2023/#open-modal-Arielle%20Tonkin) 
-
-          * April 21 - Community Sponsor [NorCal Sabeel](https://www.norcalsabeel.org/); **post-show discussion** with actors, director and dramaturg; **Masked-required performance**  
-
-          * April 25 - Community Sponsor [Palestinian Youth Movement](https://palestinianyouthmovement.com/) 
-
-          * April 28 - Community Sponsor [AROC: Arab Resource and Organizing Center](http://www.araborganizing.org/); **post-show discussion** with AROC, JVP, MECA, moderated by Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf) 
-
-          * ADDED EVENING SHOW - Sunday, April 28, 8:00 pm
-
-          * April 30 - (no performance) [Community Listening Circle](https://www.avivaarts.org/listening-circle) with [Aviva Arts](https://www.avivaarts.org/)
-
-          * ADDED MATINEE SHOW - Saturday, May 4, 3:00 pm
-
-          * May 5 - May 12, 2024 — **[VIDEO ON DEMAND](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ)** viewing period
-
-
-          *\* No performance on Thursday, April 18. Additional performance on **Wednesday, May 1**.* \
-
-          *\*\* Pay-What-You-Want Preview tickets available at-the-door only, with online pre-sales starting at $20.* \
-
-          \
-
-          Pre-sale tickets available at a range of **$30 - $100**. Seating is general admission.
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000001kp5NMAQ
-        cta: BUY NOW
-        image: https://ucarecdn.com/9ea2dc26-8c83-41cc-a4c7-ec52d08dd967/
+          * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
+        cta: Register for free!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh0000032B5nMAE
+        image: https://ucarecdn.com/c66ce43e-ad7a-482b-a20e-a19a3e779fd5/
   - heading: "11 REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
