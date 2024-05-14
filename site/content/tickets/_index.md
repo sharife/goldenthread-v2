@@ -80,6 +80,33 @@ lists:
 
           For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email [info@brava.org](mailto:info@brava.org)
         image: https://ucarecdn.com/c9db72c5-dd1f-473d-ac96-4033d073fa9e/
+  - heading: No Summary 2024
+    items:
+      - title: May 24 - June 13, 2024 Online via Zoom and Howlround TV
+        pre: ""
+        text: >-
+          Our 2024 virtual artist conversation series will embark on a tour of
+          four Palestinian cities to offer audiences in the Bay Area and beyond
+          a taste of the Palestinian theatre scene today. Each episode will
+          spotlight a different theater, showcasing its history, notable
+          performances, challenges, and life behind the scenes through
+          interviews with its artists and community members. Theater makers,
+          audiences, professors, and students are all invited to join in these
+          stimulating conversations.
+
+
+          **F﻿ull list of episodes:**
+
+
+          * **[Episode 1: Ashtar Theatre of Ramallah](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nC2zMAE)** Friday, May 24 at 11 AM PT (9 PM Palestine)  
+
+          * **[E﻿pisode 2: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** Friday, May 31 at 11 AM PT (9 PM Palestine)
+
+          * **[E﻿pisode 3: Al-Harah Theater of Beit Jala](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE)** Friday, June 7 at 11 AM PT (9 PM Palestine)
+
+          * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
+        cta: Register for free!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh0000032B5nMAE
 ---
 - - -
 
