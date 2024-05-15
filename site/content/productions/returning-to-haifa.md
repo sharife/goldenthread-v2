@@ -33,7 +33,7 @@ featuring: Diala Al-Abed, Amal Bisharat, Jacob Henrie-Naffaa, Lijesh Krishnan,
 designteam: Carlos Aceves (Scenic), Samantha Alexa (Props), Cassie Barnes
   (Light), Madeline Berger (Costume), Derek Schmidt (Sound)
 dramaturg: Marina Johnson
-additional: publicity & production photgraphy by Najib Joe Hakim
+additional: publicity & production photography by Najib Joe Hakim
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
