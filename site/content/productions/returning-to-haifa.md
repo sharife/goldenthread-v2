@@ -235,6 +235,8 @@ photos2:
     - image: https://ucarecdn.com/1806a396-87fa-4f37-bd28-6c261cb2758d/
     - image: https://ucarecdn.com/3bbaf2aa-178d-4963-8df6-9d88ecdab03b/
     - image: https://ucarecdn.com/13666ff3-f976-4810-a362-8be6b5ce5eca/
+    - image: https://ucarecdn.com/3e70362e-5b09-4965-b42a-442a3dd463f2/
+    - image: https://ucarecdn.com/aac761a5-8e6d-451c-a1bd-4b3d0ce58152/
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
