@@ -19,6 +19,7 @@ description: >-
 
 
   "*Returning to Haifa* is a beautiful and important play portraying the personal tragedies created because of much bigger acts between humans." - *Nabila Said, Exeunt Magazine, 24 March 2018*
+background: https://ucarecdn.com/13773d9e-e09a-4d9b-9c12-91b6e924e1f8/
 titleimage: https://ucarecdn.com/6710389c-6746-4d15-a25d-f786caf16020/
 program: ""
 pdflabel: Download the digital playbill
