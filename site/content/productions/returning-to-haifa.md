@@ -32,7 +32,7 @@ featuring: Diala Al-Abed, Amal Bisharat, Jacob Henrie-Naffaa, Lijesh Krishnan,
 designteam: Carlos Aceves (Scenic), Samantha Alexa (Props), Cassie Barnes
   (Light), Madeline Berger (Costume), Derek Schmidt (Sound)
 dramaturg: Marina Johnson
-additional: based on the novella by Ghassan Kanafani
+additional: publicity & production photgraphy by Najib Joe Hakim
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: https://goldenthread.org/about/visit/
@@ -217,13 +217,13 @@ cast:
         message. Thank you to my fighting Irish dad for being my biggest fan.
         Miss you pops!"
 photos:
-  heading: "Publicity Photos: by Najib Joe Hakim"
+  heading: "Photo Gallery: Publicity "
   items:
     - image: https://ucarecdn.com/04430198-3366-48d0-8b7f-b9b8294bcb75/
     - image: https://ucarecdn.com/81347ebc-6afa-451b-afae-18b6c8412a42/
     - image: https://ucarecdn.com/541d50e9-44b4-4b67-b109-f5101dc94030/
 photos2:
-  heading: "Production Photos: by Najib Joe Hakim "
+  heading: "Photo Gallery: Production Photos: by Najib Joe Hakim "
   items:
     - image: https://ucarecdn.com/d1b3d99b-5485-4b5b-bfad-cf239ea212c9/
     - image: https://ucarecdn.com/3b53a2d7-34c9-4a29-8d0f-3b2238ba1ef7/
@@ -237,6 +237,12 @@ photos2:
     - image: https://ucarecdn.com/13666ff3-f976-4810-a362-8be6b5ce5eca/
     - image: https://ucarecdn.com/3e70362e-5b09-4965-b42a-442a3dd463f2/
     - image: https://ucarecdn.com/aac761a5-8e6d-451c-a1bd-4b3d0ce58152/
+photos3:
+  heading: It Takes a Village!
+  items:
+    - image: https://ucarecdn.com/e5ea75e4-b64b-4e6e-869d-061fcf29acac/
+    - image: https://ucarecdn.com/4c64395a-c25e-4a7c-bcb5-9fe92a45f0a1/
+    - image: https://ucarecdn.com/db15041f-8b8f-41e2-9e16-3e7778781ab6/
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
