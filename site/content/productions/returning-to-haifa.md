@@ -237,6 +237,12 @@ photos2:
     - image: https://ucarecdn.com/13666ff3-f976-4810-a362-8be6b5ce5eca/
     - image: https://ucarecdn.com/3e70362e-5b09-4965-b42a-442a3dd463f2/
     - image: https://ucarecdn.com/aac761a5-8e6d-451c-a1bd-4b3d0ce58152/
+photos3:
+  heading: It Takes a Village!
+  items:
+    - image: https://ucarecdn.com/e5ea75e4-b64b-4e6e-869d-061fcf29acac/
+    - image: https://ucarecdn.com/4c64395a-c25e-4a7c-bcb5-9fe92a45f0a1/
+    - image: https://ucarecdn.com/db15041f-8b8f-41e2-9e16-3e7778781ab6/
 bottom:
   heading: We are grateful for the support of our Community Partners
   logos:
