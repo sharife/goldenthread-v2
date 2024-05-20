@@ -50,7 +50,7 @@ lists:
 cast:
   items:
     - name: Iman Aoun
-      credit: "episode 1: Ashtar Theatre"
+      credit: "Panelist, episode 1: Ashtar Theatre"
       image: https://ucarecdn.com/226af894-a804-4f7d-850d-4d85ec3af41a/
       bio: 'Co-Founder and Executive Director of ASHTAR Theatre (Actress, Director,
         Producer), and an award-winning actress who works in theatre, TV series,
@@ -70,5 +70,6 @@ cast:
         in 2003 with IETM, “[The Gaza
         Monologues](https://www.gazamonologues.com/)” in 2010 and "The Syrian
         Monologues" in 2015'
+    - name: Ash Marinaccio
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
