@@ -70,6 +70,21 @@ cast:
         notable: “One Hundred Artist for Palestine” in 2003 with IETM, “[The
         Gaza Monologues](https://www.gazamonologues.com/)” in 2010 and "The
         Syrian Monologues" in 2015'
+    - name: Emile Saba
+      credit: "Panelist, episode 1: Ashtar Theatre"
+      bio: "**Emile Saba** is a Palestinian theater maker, and actor. Saba, joined
+        Ashtar Theatre in 2001, as a theater student, graduating later from it
+        with a diploma in theater and working at it as an actor and trainer till
+        2014. Alongside theater, Saba, has a bachelor degree in English
+        Literature, and in Business from Birzeit University. By 27, Saba
+        graduated with an MFA in Acting from the University of Connecticut
+        (UConn). Returning back to Palestine, Saba perused a career in Stage
+        directing and acting, teaching acting, casting directing and acting for
+        film and television. Saba is interested in self and collective
+        awareness, the supernatural, the monster, the goddess, mythology,
+        politics, comedy, the impact of art on life, and the importance of
+        imagination. The world of his work, lives in magical – realism roams."
+      image: https://ucarecdn.com/f1149512-6d85-4461-83e2-648526dd4579/
     - name: Ash Marinaccio
       credit: "Facilitator, episode 1: Ashtar Theatre"
       bio: "**Ash Marinaccio, PhD**, is a multidisciplinary documentarian working in
@@ -86,20 +101,24 @@ cast:
         is dedicated to bringing artists across documentary genres together for
         live performance collaborations."
       image: https://ucarecdn.com/cc169e14-7268-4f8b-9e1b-9860ecde9f5b/
-    - name: Emile Saba
-      credit: "Panelist, episode 1: Ashtar Theatre"
-      bio: "**Emile Saba** is a Palestinian theater maker, and actor. Saba, joined
-        Ashtar Theatre in 2001, as a theater student, graduating later from it
-        with a diploma in theater and working at it as an actor and trainer till
-        2014. Alongside theater, Saba, has a bachelor degree in English
-        Literature, and in Business from Birzeit University. By 27, Saba
-        graduated with an MFA in Acting from the University of Connecticut
-        (UConn). Returning back to Palestine, Saba perused a career in Stage
-        directing and acting, teaching acting, casting directing and acting for
-        film and television. Saba is interested in self and collective
-        awareness, the supernatural, the monster, the goddess, mythology,
-        politics, comedy, the impact of art on life, and the importance of
-        imagination. The world of his work, lives in magical – realism roams."
-      image: https://ucarecdn.com/f1149512-6d85-4461-83e2-648526dd4579/
+    - name: ASHTAR Theatre
+      image: https://ucarecdn.com/424a7b73-06c5-408f-b9c2-1744a0a62552/
+      bio: ASHTAR is a Palestinian non-profit NGO found in 1991 by two prominent
+        actors, Edward Muallem and Iman Aoun. Today ASHTAR has a group of
+        professional female and male actors and directors, who use theatre
+        beyond its artistic means to create social change in our society.
+        ASHTAR’s work is spread out in Palestine and internationally. Working
+        with young people, youth and women, focusing on human rights issues. One
+        of ASHTAR’s specialty is ‘Theatre of the Oppressed – Forum Theatre’
+        methodology, that transforms a commonly passive audience into active and
+        involved participants. Through the use of Forum Theatre, ASHTAR stands
+        as an agent of change in Palestine. ASHTAR’s Mission:  To contribute to
+        the creation of a cultured society that adopts the principles of
+        freedom, justice and equality.  To utilize theatre as a tool to
+        encourage and assert marginalized groups, youth and women to become
+        agents of social change.  To help create imaginative, progressive and
+        productive Palestinian youth, able to express themselves, and
+        communicate with their surrounding creatively.
+      link: https://www.ashtar-theatre.org/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
