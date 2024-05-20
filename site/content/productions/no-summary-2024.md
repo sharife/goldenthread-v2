@@ -20,10 +20,15 @@ lists:
         itemend: 2024-04-24T00:14:18.460Z
         title: "Episode 1: Ashtar Theatre of Ramallah"
         pre: Friday, May 24, 11:00 AM PT (9:00 PM Palestine)
-        text: |-
+        text: >-
           Panelists: Iman Aoun, Emile Saba 
 
-          Moderator: Ash Marinaccio
+
+          Moderator: Ash Marinaccio 
+
+
+          Golden Thread invites multidisciplinary documentarian **Ash Marinaccio** to facilitate a conversation with **Iman Aoun** and **Emile Saba** of [ASHTAR Theatre](https://www.ashtar-theatre.org/), of Ramallah, Palestine. ASHTAR Theatre is a non-profit organization that was established in 1991 in Jerusalem as the first theatre training organization for youth in Palestine by Edward Muallem and Iman Aoun, two Palestinian prominent actors who worked in theatre since 1977. Join the conversation to learn more about ASHTAR and hear directly from its lead artists about making theatre under occupation and during times of mass atrocities and genocide.
+        cta: Register for Free
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 2: Freedom Theatre of Jenin "
