@@ -52,27 +52,27 @@ cast:
     - name: Iman Aoun
       credit: "Panelist, episode 1: Ashtar Theatre"
       image: https://ucarecdn.com/226af894-a804-4f7d-850d-4d85ec3af41a/
-      bio: 'Co-Founder and Executive Director of ASHTAR Theatre (Actress, Director,
-        Producer), and an award-winning actress who works in theatre, TV series,
-        and films. Holds a Bachelor Degree in Social Studies and a Diploma in
-        Psychodrama. Started her acting career with El-Hakawati Theatre Company
-        in Jerusalem in 1984 and co-founder ASHTAR for Theatre Productions and
-        Training in 1991. Ms. Aoun received various notifications for her work
-        from different countries and international organizations and festivals.
-        In 2020 was a finalist at the Gilder/Coigney Award – NYC. She runs
-        ASHTAR International Youth Theatre Festival since 2012. Written and
-        published several articles on the subject of theatre in Palestine, and
-        co-written two books on theatre training. She was panelist in a number
-        of international conferences and World Summits, and participated at the
-        UNESCO Arts Lab. An internationally recognized theatre trainer
-        specialized in Theatre of the Oppressed. She is the initiator of various
-        international projects, most notable: “One Hundred Artist for Palestine”
-        in 2003 with IETM, “[The Gaza
-        Monologues](https://www.gazamonologues.com/)” in 2010 and "The Syrian
-        Monologues" in 2015'
+      bio: '**Iman Aoun** is Co-Founder and Executive Director of ASHTAR Theatre
+        (Actress, Director, Producer), and an award-winning actress who works in
+        theatre, TV series, and films. Holds a Bachelor Degree in Social Studies
+        and a Diploma in Psychodrama. Started her acting career with El-Hakawati
+        Theatre Company in Jerusalem in 1984 and co-founder ASHTAR for Theatre
+        Productions and Training in 1991. Ms. Aoun received various
+        notifications for her work from different countries and international
+        organizations and festivals. In 2020 was a finalist at the
+        Gilder/Coigney Award – NYC. She runs ASHTAR International Youth Theatre
+        Festival since 2012. Written and published several articles on the
+        subject of theatre in Palestine, and co-written two books on theatre
+        training. She was panelist in a number of international conferences and
+        World Summits, and participated at the UNESCO Arts Lab. An
+        internationally recognized theatre trainer specialized in Theatre of the
+        Oppressed. She is the initiator of various international projects, most
+        notable: “One Hundred Artist for Palestine” in 2003 with IETM, “[The
+        Gaza Monologues](https://www.gazamonologues.com/)” in 2010 and "The
+        Syrian Monologues" in 2015'
     - name: Ash Marinaccio
       credit: "Facilitator, episode 1: Ashtar Theatre"
-      bio: Ash Marinaccio, PhD, is a multidisciplinary documentarian working in
+      bio: "**Ash Marinaccio, PhD**, is a multidisciplinary documentarian working in
         theatre, photography, and film. She is dedicated to storytelling,
         highlighting the socio-political issues defining our times, and
         regularly works throughout the United States and internationally. For
@@ -84,7 +84,7 @@ cast:
         Speaker. Ash is the founding artistic director of the United Nations
         recognized NGO Girl Be Heard and founder of Docbloc (docbloc.org), which
         is dedicated to bringing artists across documentary genres together for
-        live performance collaborations.
+        live performance collaborations."
       image: https://ucarecdn.com/cc169e14-7268-4f8b-9e1b-9860ecde9f5b/
     - name: Emile Saba
       credit: "Panelist, episode 1: Ashtar Theatre"
