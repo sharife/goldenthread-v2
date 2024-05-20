@@ -47,5 +47,28 @@ lists:
         title: "Episode 4: El Hakawati Theatre of Jerusalem"
         pre: Thursday, June 13 at 11:00 am PT (9:00 PM Palestine)
         text: "Moderator: Kate Moore Heaney"
+cast:
+  items:
+    - name: Iman Aoun
+      credit: "episode 1: Ashtar Theatre"
+      image: https://ucarecdn.com/226af894-a804-4f7d-850d-4d85ec3af41a/
+      bio: 'Co-Founder and Executive Director of ASHTAR Theatre (Actress, Director,
+        Producer), and an award-winning actress who works in theatre, TV series,
+        and films. Holds a Bachelor Degree in Social Studies and a Diploma in
+        Psychodrama. Started her acting career with El-Hakawati Theatre Company
+        in Jerusalem in 1984 and co-founder ASHTAR for Theatre Productions and
+        Training in 1991. Ms. Aoun received various notifications for her work
+        from different countries and international organizations and festivals.
+        In 2020 was a finalist at the Gilder/Coigney Award – NYC. She runs
+        ASHTAR International Youth Theatre Festival since 2012. Written and
+        published several articles on the subject of theatre in Palestine, and
+        co-written two books on theatre training. She was panelist in a number
+        of international conferences and World Summits, and participated at the
+        UNESCO Arts Lab. An internationally recognized theatre trainer
+        specialized in Theatre of the Oppressed. She is the initiator of various
+        international projects, most notable: “One Hundred Artist for Palestine”
+        in 2003 with IETM, “[The Gaza
+        Monologues](https://www.gazamonologues.com/)” in 2010 and "The Syrian
+        Monologues" in 2015'
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
