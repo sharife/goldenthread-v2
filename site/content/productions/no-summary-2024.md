@@ -120,5 +120,6 @@ cast:
         productive Palestinian youth, able to express themselves, and
         communicate with their surrounding creatively.
       link: https://www.ashtar-theatre.org/
+      credit: Ramallah, Palestine
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
