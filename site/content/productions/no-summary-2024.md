@@ -71,5 +71,35 @@ cast:
         Monologues](https://www.gazamonologues.com/)” in 2010 and "The Syrian
         Monologues" in 2015'
     - name: Ash Marinaccio
+      credit: "Facilitator, episode 1: Ashtar Theatre"
+      bio: Ash Marinaccio, PhD, is a multidisciplinary documentarian working in
+        theatre, photography, and film. She is dedicated to storytelling,
+        highlighting the socio-political issues defining our times, and
+        regularly works throughout the United States and internationally. For
+        her work, Ash has received the Lucille Lortel Visionary Award from the
+        League of Professional Theatre Women, a Drama League Residency,
+        fellowships from the Mellon Foundation, NY Public Humanities, and
+        National Endowment for the Humanities, been listed as one of Culture
+        Trip’s “50 Women in Theatre You Should Know”, and is a two-time TEDx
+        Speaker. Ash is the founding artistic director of the United Nations
+        recognized NGO Girl Be Heard and founder of Docbloc (docbloc.org), which
+        is dedicated to bringing artists across documentary genres together for
+        live performance collaborations.
+      image: https://ucarecdn.com/cc169e14-7268-4f8b-9e1b-9860ecde9f5b/
+    - name: Emile Saba
+      credit: "Panelist, episode 1: Ashtar Theatre"
+      bio: "**Emile Saba** is a Palestinian theater maker, and actor. Saba, joined
+        Ashtar Theatre in 2001, as a theater student, graduating later from it
+        with a diploma in theater and working at it as an actor and trainer till
+        2014. Alongside theater, Saba, has a bachelor degree in English
+        Literature, and in Business from Birzeit University. By 27, Saba
+        graduated with an MFA in Acting from the University of Connecticut
+        (UConn). Returning back to Palestine, Saba perused a career in Stage
+        directing and acting, teaching acting, casting directing and acting for
+        film and television. Saba is interested in self and collective
+        awareness, the supernatural, the monster, the goddess, mythology,
+        politics, comedy, the impact of art on life, and the importance of
+        imagination. The world of his work, lives in magical – realism roams."
+      image: https://ucarecdn.com/f1149512-6d85-4461-83e2-648526dd4579/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
