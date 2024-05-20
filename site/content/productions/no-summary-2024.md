@@ -95,7 +95,7 @@ cast:
         imagination. The world of his work, lives in magical – realism roams."
       image: https://ucarecdn.com/f1149512-6d85-4461-83e2-648526dd4579/
     - name: Ash Marinaccio
-      credit: "Facilitator, episode 1: Ashtar Theatre"
+      credit: "Moderator, episode 1: Ashtar Theatre"
       bio: "**Ash Marinaccio, PhD**, is a multidisciplinary documentarian working in
         theatre, photography, and film. She is dedicated to storytelling,
         highlighting the socio-political issues defining our times, and
