@@ -41,7 +41,7 @@ lists:
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 2: Freedom Theatre of Jenin "
-        pre: "Friday, May 31, 11:00 AM PT (9:00 PM Palestine) "
+        pre: DATE To Be Confirmed
         text: "Moderator: Gary English"
       - itemstart: 2024-04-24T00:18:06.533Z
         itemend: 2024-04-24T00:18:06.550Z
@@ -54,7 +54,7 @@ lists:
       - itemstart: 2024-04-24T00:19:50.223Z
         itemend: 2024-04-24T00:19:50.240Z
         title: "Episode 4: El Hakawati Theatre of Jerusalem"
-        pre: Thursday, June 13 at 11:00 am PT (9:00 PM Palestine)
+        pre: DATE To Be Confirmed
         text: "Moderator: Kate Moore Heaney"
 cast:
   items:
