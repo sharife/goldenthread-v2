@@ -1,7 +1,7 @@
 ---
 title: Middle East Center Stage
 headline: No Summary
-subtitle: Conversations with Artists Who Don't Fit in a Box
+subtitle: ""
 background: https://ucarecdn.com/f2a46423-cad5-4734-bd87-6d9a0cd12c2c/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
