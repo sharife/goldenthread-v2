@@ -21,12 +21,12 @@ lists:
 
           * **[Episode 1: Ashtar Theatre of Ramallah](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nC2zMAE)** Friday, May 24 at 11 AM PT (9 PM Palestine)  
 
-          * **[E﻿pisode 2: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** Friday, May 31 at 11 AM PT (9 PM Palestine)
+          * **[E﻿pisode 2: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** DATE To Be Confirmed
 
           * **[E﻿pisode 3: Al-Harah Theater of Beit Jala](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE)** Friday, June 7 at 11 AM PT (9 PM Palestine)
 
-          * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
-        cta: Register for free!
+          * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** DATE To Be Confirmed
+        cta: REGISTER FOR FREE
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh0000032B5nMAE
         image: https://ucarecdn.com/c66ce43e-ad7a-482b-a20e-a19a3e779fd5/
   - heading: "11 REFLECTIONS: SAN FRANCISCO  "
