@@ -26,26 +26,29 @@ items:
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**The Tutor at New Conservatory Theatre Center**"
+  - subtitle: "**No Summary episode 1: ASHTAR Theatre**"
     text: >-
-      World Premiere
+      Golden Thread invites multidisciplinary documentarian **Ash Marinaccio**
+      to facilitate a conversation with **Iman Aoun** and **Emile Saba** of
+      **ASHTAR Theatre**, of Ramallah, Palestine. ASHTAR Theatre is a non-profit
+      organization that was established in 1991 in Jerusalem as the first
+      theatre training organization for youth in Palestine by Edward Muallem and
+      Iman Aoun, two Palestinian prominent actors who worked in theatre since
+      1977. Join the conversation to learn more about ASHTAR and hear directly
+      from its lead artists about making theatre under occupation and during
+      times of mass atrocities and genocide.
 
 
-      Golden Thread is thrilled to announce the world premiere of **The Tutor**, a new play by our founder **Torange Yeghiazarian**, commissioned and produced by New Conservatory Theatre Center, and directed by **Sahar Assaf**, our Executive Artistic Director, with a cast of Golden Thread Resident Artists: Deborah Eliezer, Maya Nazzal, Lawrence Radecker.
-
-      This exciting collaboration between our companies highlights the spirit of artistic exchange and the exemplar of unifying leadership and cooperation. 
+      Online via Zoom and Howlround TV 
 
 
-      Things are looking up for Kayvon. He’s just married Baran, a beautiful young Iranian woman, and brought her back to his Bay Area home. But when he asks his lifelong friend Azar to tutor Baran, all three lives begin to unravel as the two women fall into a passionate love affair. A study of preconceived notions and the hypocrisies that drive them, The Tutor is a provocative look at the cost of owning one’s truth. 
+      Free with Reservation
 
 
-      New Conservatory Theatre Center, 25 Van Ness, Lower Level, San Francisco
-
-
-      April 5 - May 12, 2024
-    image: https://ucarecdn.com/10279d47-a4d3-4965-bbf1-f410a7b4b1ac/
-    cta: "Buy Tickets! "
-    link: https://nctcsf.org/event/the-tutor/
+      Friday, May 24, 2024, 11am PT (9pm Palestine)
+    image: https://ucarecdn.com/0f3690da-08ad-47fe-9330-69892928b82c/
+    cta: Register for FREE!
+    link: https://goldenthread.org/tickets/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
