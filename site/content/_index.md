@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: Returning to Haifa
-subtitle: by Ghassan Kanafani. Adapted for the stage by Naomi Wallace and Ismail Khalidi.
-background: https://ucarecdn.com/aa1a1c54-b96a-49d1-97f7-8261bdd79953/
-cta: Buy Tickets!
+headline: No Summary
+subtitle: Conversations with Artists Who Don't Fit in a Box
+background: https://ucarecdn.com/f2a46423-cad5-4734-bd87-6d9a0cd12c2c/
+cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**No Summary 2024**"
