@@ -81,18 +81,19 @@ cast:
         Syrian Monologues" in 2015'
     - name: Emile Saba
       credit: "Panelist, episode 1: Ashtar Theatre"
-      bio: "**Emile Saba** is a Palestinian theater maker, and actor. Saba, joined
-        Ashtar Theatre in 2001, as a theater student, graduating later from it
-        with a diploma in theater and working at it as an actor and trainer till
-        2014. Alongside theater, Saba, has a bachelor degree in English
-        Literature, and in Business from Birzeit University. By 27, Saba
-        graduated with an MFA in Acting from the University of Connecticut
-        (UConn). Returning back to Palestine, Saba perused a career in Stage
-        directing and acting, teaching acting, casting directing and acting for
-        film and television. Saba is interested in self and collective
-        awareness, the supernatural, the monster, the goddess, mythology,
-        politics, comedy, the impact of art on life, and the importance of
-        imagination. The world of his work, lives in magical – realism roams."
+      bio: >-
+        **Emile Saba** born in September 1989, is a Palestinian director and
+        actor, currently assumes the role of Artistic Director at ASHTAR
+        Theatre. Originally from Jaffa but was born and lives in the city of
+        Ramallah, Saba's artistic journey reflects a passion to exploring the
+        realms of magical realism and pushing the boundaries of the
+        audience-performer relationship.
+
+        Saba's academic and theatre foundation was laid at ASHTAR Theatre and later was developed at the University of Connecticut, where he earned his Master of Fine Arts in stage performance. The core of Saba's artistic identity lies in his curiosity to understand the human behavior and thinking.
+
+        Among his notable acting productions is "2077, Who Wants to Survive," a compelling piece created by the director Simon Eifeler at Bridgeworks Theatre. His contributions to ASHTAR Theatre include noteworthy productions like "Free Play" and "Love on the Shelf," where he continues to push the boundaries of immersive theatre.
+
+        Saba's artistic canvas, is taps into different genres and styles; such as "Taming of the Shrew" at Al Kasaba Theatre and “Monodrama Jabra" at Inad Theatre. His collaboration with the Amwaj Choir Group in "Opera Amal" and "People by the Sea" at The Palestinian Museum and the circus show “Asimo” showcase his commitment to diversifying his artistic portfolio. Saba is currently preparing to start rehearsals on his new production “Guernica- Gaza”, a new collaboration between ASHTAR Theatre and two prominent playwrights, Naomi Wallace and Ismail Khalidi. The production will open in July 2024 and will participate at “Uncaging Our World” festival in Oxford.
       image: https://ucarecdn.com/f1149512-6d85-4461-83e2-648526dd4579/
     - name: Ash Marinaccio
       credit: "Moderator, episode 1: Ashtar Theatre"
