@@ -46,7 +46,7 @@ lists:
       - itemstart: 2024-04-24T00:18:06.533Z
         itemend: 2024-04-24T00:18:06.550Z
         title: "Episode 3: Al-Hara Theatre of Beit Jala"
-        pre: "Friday, June 7, 11:00 am PT (9:00 PM Palestine) "
+        pre: "Thursday, June 6, 11:00 am PT (9:00 PM Palestine) "
         text: |-
           Panelists: Nicola Zreineh, Marina Barham 
 
