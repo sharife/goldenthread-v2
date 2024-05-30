@@ -168,8 +168,7 @@ cast:
     - name: Al-Harah Theatre
       credit: Beit Jala, Palestine
       image: https://ucarecdn.com/1f9b6b5c-51d2-457e-bdd3-3004f509a3d4/
-      bio: >-
-        **Al-Harah Theater** is a non-profit organization founded in 2005, based
+      bio: "**Al-Harah Theater** is a non-profit organization founded in 2005, based
         in Beit Jala- Palestine. It aims at raising awareness, creating positive
         change in the society, enhancing the cultural level and artistic taste
         of people and delivering the Palestinian voice through the production
@@ -177,9 +176,7 @@ cast:
         of the Palestinian Arabs and international societies in general,
         children and youth in particular. In addition to training and capacity
         building of young theater cadres and developing partnerships with local,
-        Arabs and internationals organizations and networks. 
-
-
-        <https://alharah.org/>
+        Arabs and internationals organizations and networks."
+      link: https://alharah.org/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
