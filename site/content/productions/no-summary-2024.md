@@ -145,5 +145,25 @@ cast:
         2006 with Al Mawred Resource, Tamasi Collective and Goethe Institute in
         Berlin and in Palestine. A speaker at several international conferences,
         festivals and events."
+    - credit: "Moderator, episode 3: Al-Harah Theatre"
+      name: Marina Johnson
+      image: https://ucarecdn.com/8f0daa74-673d-4469-a072-e83e9aa97823/
+      bio: '**Marina Johnson** is a PhD candidate in TAPS at Stanford University (MFA
+        in Directing, University of Iowa). Her dissertation research concerns
+        Palestinian performance from 2015 to the present. Johnson is the co-host
+        of Kunafa and Shay, a MENA theatre podcast produced by HowlRound Theatre
+        Commons, and they are also a member of Silk Road Rising’s Polycultural
+        Institute. Johnson’s work has appeared or is forthcoming in TDR: The
+        Drama Review, Theatre/Practice, Arab Stages, "Decolonizing Dramaturgy in
+        a Global Context" (Bloomsbury), "Milestones in Staging Contemporary
+        Genders and Sexualities" (Routledge), and "Women’s Innovations in
+        Theatre, Dance, and Performance, Volume I: Performers" (Bloomsbury).
+        Prior to her PhD, she was a Visiting Assistant Professor at Beloit
+        College for three years. Select recent directing credits include: The
+        Wolves (Stanford) The Shroud Maker (International Voices Project),
+        Shakespeare’s Sisters (Stanford), The Palestinian Youth Monologues
+        (Stanford), Five Lesbians Eating a Quiche (Beloit College), and In the
+        Next Room (Beloit College).
+        [www.marina-johnson.com](https://marina-johnson.com/)'
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
