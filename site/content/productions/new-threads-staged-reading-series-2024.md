@@ -9,7 +9,9 @@ description: "The 2024 **New Threads Staged Reading Series** features the work
   someone like you, Ali?* and Hanna Eady’s *The Return*. Each reading includes a
   post-show conversation with the audience and the artists."
 titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
-writer: Hanna Eady, Raeda Taha
+writer: Hanna Eady, Edward Mast, Raeda Taha
+director: Hala Baki, Hanna Eady
+featuring: Maya Nazal, Wiley Naman Strasser*, Elissa Beth Stebbins*
 stage: "Red poppy Art House "
 address: 2698 Folsom St, San Francisco, CA 94110
 visitlink: https://redpoppyarthouse.org/about/contact-hours-location/
