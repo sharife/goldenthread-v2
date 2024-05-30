@@ -21,11 +21,11 @@ lists:
         itemend: 2024-05-30T04:12:30.875Z
         title: "Where can I find someone like you, Ali? "
         subtitle: |-
-          by Raeda Taha 
+          by **Raeda Taha** 
 
-          directed by Hala Baki 
+          directed by **Hala Baki** 
 
-          performed by Maya Nazzal
+          performed by **Maya Nazzal**
         text: >-
           An autobiographical monodrama written by Raeda Taha, a Palestinian
           actor, storyteller, writer, and political activist based on her
@@ -43,5 +43,29 @@ lists:
 
 
           Duration: 75-minute, no intermission
+        pre: Friday, August 2 at 7:00 pm
+      - itemstart: 2024-05-30T04:15:34.397Z
+        itemend: 2024-05-30T04:15:34.412Z
+        title: The Return
+        subtitle: |-
+          by **Hanna Eady** and **Edward Mast** 
+
+          directed by **Hanna Eady** 
+
+          performed by **Wiley Naman Strasser*** and **Elissa Beth Stebbins***
+        text: >-
+          Two people meet in an auto-body shop in the mid-sized city Herzliya.
+          They might or might not have known each other in the past. One of them
+          is Palestinian, one of them is Israeli Jewish. By the end of the play,
+          both of their lives will be changed forever by the realities that
+          surround them.
+
+
+          The authors have stated “*The Return* is not a documentary. There are no checkpoints or tanks onstage.  The play is a personal closeup of what happens underneath the headlines, every day for decade after decade, even when bombs are not falling to catch the world’s attention.” 
+
+
+
+          Duration: 75-minute, no intermission
+        pre: Friday, August 9 at 7:00 pm
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
