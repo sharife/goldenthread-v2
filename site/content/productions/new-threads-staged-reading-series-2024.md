@@ -9,10 +9,10 @@ description: >-
   international Palestinian playwrights: 
 
 
-  Raeda Taha’s *Where can I find someone like you, Ali?* and 
+  Raeda Taha’s *Where can I find someone like you, Ali?* 
 
 
-  Hanna Eady’s *The Return*. 
+  Hanna Eady’s *The Return*
 
 
   Each reading includes a post-show conversation with the audience and the artists.
