@@ -10,5 +10,8 @@ description: "The 2024 **New Threads Staged Reading Series** features the work
   post-show conversation with the audience and the artists."
 titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
 writer: Hanna Eady, Raeda Taha
+stage: "Red poppy Art House "
+address: 2698 Folsom St, San Francisco, CA 94110
+visitlink: https://redpoppyarthouse.org/about/contact-hours-location/
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
