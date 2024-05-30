@@ -131,5 +131,19 @@ cast:
         communicate with their surrounding creatively.
       link: https://www.ashtar-theatre.org/
       credit: Ramallah, Palestine
+    - credit: "Panelist, episode 3: Al-Harah Theatre"
+      name: Marina Barham
+      image: https://ucarecdn.com/147a39fa-aa24-4c0b-8297-e70aeb6aa050/
+      bio: "**Marina Barham**, cofounder, General Director of Al-Harah Theater,
+        President of the Palestinian Performing Arts Network from 2019-2021. An
+        active cultural operator in Palestine, the Middle East and in Europe
+        since 1998. A Fellow of [ISPA](https://www.ispa.org/) \\[International
+        Society for the Performing Arts] and Salzburg Global Seminar.
+        [IETM](https://www.ietm.org/en) \\[International Network for
+        Contemporary Performing Arts] Global Connector and Board member in 2023.
+        A Trainer in the field of Cultural Management in the Arab World since
+        2006 with Al Mawred Resource, Tamasi Collective and Goethe Institute in
+        Berlin and in Palestine. A speaker at several international conferences,
+        festivals and events."
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
