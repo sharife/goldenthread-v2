@@ -54,7 +54,9 @@ lists:
 
           directed by **Hanna Eady** 
 
-          performed by **Wiley Naman Strasser*** and **Elissa Beth Stebbins***
+          performed by **Wiley Naman Strasser*** and **Elissa Beth Stebbins*** 
+
+          *\*Member, Actors Equity*
         text: >-
           Two people meet in an auto-body shop in the mid-sized city Herzliya.
           They might or might not have known each other in the past. One of them
