@@ -131,5 +131,52 @@ cast:
         communicate with their surrounding creatively.
       link: https://www.ashtar-theatre.org/
       credit: Ramallah, Palestine
+    - credit: "Panelist, episode 3: Al-Harah Theatre"
+      name: Marina Barham
+      image: https://ucarecdn.com/147a39fa-aa24-4c0b-8297-e70aeb6aa050/
+      bio: "**Marina Barham**, cofounder, General Director of Al-Harah Theater,
+        President of the Palestinian Performing Arts Network from 2019-2021. An
+        active cultural operator in Palestine, the Middle East and in Europe
+        since 1998. A Fellow of [ISPA](https://www.ispa.org/) \\[International
+        Society for the Performing Arts] and Salzburg Global Seminar.
+        [IETM](https://www.ietm.org/en) \\[International Network for
+        Contemporary Performing Arts] Global Connector and Board member in 2023.
+        A Trainer in the field of Cultural Management in the Arab World since
+        2006 with Al Mawred Resource, Tamasi Collective and Goethe Institute in
+        Berlin and in Palestine. A speaker at several international conferences,
+        festivals and events."
+    - credit: "Moderator, episode 3: Al-Harah Theatre"
+      name: Marina Johnson
+      image: https://ucarecdn.com/8f0daa74-673d-4469-a072-e83e9aa97823/
+      bio: '**Marina Johnson** is a PhD candidate in TAPS at Stanford University (MFA
+        in Directing, University of Iowa). Her dissertation research concerns
+        Palestinian performance from 2015 to the present. Johnson is the co-host
+        of Kunafa and Shay, a MENA theatre podcast produced by HowlRound Theatre
+        Commons, and they are also a member of Silk Road Rising’s Polycultural
+        Institute. Johnson’s work has appeared or is forthcoming in TDR: The
+        Drama Review, Theatre/Practice, Arab Stages, "Decolonizing Dramaturgy in
+        a Global Context" (Bloomsbury), "Milestones in Staging Contemporary
+        Genders and Sexualities" (Routledge), and "Women’s Innovations in
+        Theatre, Dance, and Performance, Volume I: Performers" (Bloomsbury).
+        Prior to her PhD, she was a Visiting Assistant Professor at Beloit
+        College for three years. Select recent directing credits include: The
+        Wolves (Stanford) The Shroud Maker (International Voices Project),
+        Shakespeare’s Sisters (Stanford), The Palestinian Youth Monologues
+        (Stanford), Five Lesbians Eating a Quiche (Beloit College), and In the
+        Next Room (Beloit College).
+        [www.marina-johnson.com](https://marina-johnson.com/)'
+    - name: Al-Harah Theatre
+      credit: Beit Jala, Palestine
+      image: https://ucarecdn.com/1f9b6b5c-51d2-457e-bdd3-3004f509a3d4/
+      bio: "**Al-Harah Theater** is a non-profit organization founded in 2005, based
+        in Beit Jala- Palestine. It aims at raising awareness, creating positive
+        change in the society, enhancing the cultural level and artistic taste
+        of people and delivering the Palestinian voice through the production
+        and distribution of theater work at a high artistic level to all members
+        of the Palestinian Arabs and international societies in general,
+        children and youth in particular. In addition to training and capacity
+        building of young theater cadres and developing partnerships with local,
+        Arabs and internationals organizations and networks."
+      link: https://alharah.org/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
