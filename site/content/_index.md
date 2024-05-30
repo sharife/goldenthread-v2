@@ -47,8 +47,8 @@ items:
 
       Friday, May 24, 2024, 11am PT (9pm Palestine)
     image: https://ucarecdn.com/0f3690da-08ad-47fe-9330-69892928b82c/
-    cta: Register for FREE!
-    link: https://goldenthread.org/tickets/
+    cta: Watch the Video!
+    link: https://www.youtube.com/watch?v=LxSPqljSk5o
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
