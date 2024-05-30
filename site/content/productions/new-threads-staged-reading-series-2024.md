@@ -3,7 +3,7 @@ title: New Threads Staged Reading Series 2024
 season: 2024
 date: 2024-01-23T20:00:27.887Z
 start: 2024-08-02T14:00:00.000Z
-end: 2024-08-10T02:00:27.900Z
+end: 2024-08-09T19:00:27.900Z
 description: >-
   The 2024 **New Threads Staged Reading Series** features the work of
   international Palestinian playwrights: 
