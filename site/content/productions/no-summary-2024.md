@@ -54,6 +54,8 @@ lists:
 
           Join the conversation to learn more about Al-Harah Theatre from **Marina Barham**, its co-Founder and General Director. **Marina Johnson**, a director, dramaturg and a PhD candidate in TAPS (Theatre and Performance Studies) at Stanford University will moderate the conversation.
         image: https://ucarecdn.com/2e779f4d-dbad-46ae-bac0-7c09e3aafda7/
+        cta: Register for FREE!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 3: Freedom Theatre of Jenin "
