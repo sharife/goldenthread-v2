@@ -38,19 +38,26 @@ lists:
         cta: Watch the full episode
         image: https://ucarecdn.com/ebdea71f-60d3-4a4c-98ef-ba906e92a46e/
         link: https://www.youtube.com/watch?v=LxSPqljSk5o
+      - itemstart: 2024-04-24T00:18:06.533Z
+        itemend: 2024-04-24T00:18:06.550Z
+        title: "Episode 2: Al-Harah Theatre of Beit Jala"
+        pre: "Thursday, June 6, 11:00 am PT (9:00 PM Palestine) "
+        text: >-
+          Panelist: Marina Barham 
+
+
+          Moderator: Marina Johnson 
+
+
+          Golden Thread continues the series of online conversations with Palestinian theatres this week with a spotlight on [Al-Harah Theatre](https://alharah.org/), a non-profit cultural organization based in Beit-Jala, Palestine. **Al-Harah Theatre** is dedicated to fostering a civil society that prioritizes human rights, democracy, and freedom of expression. They work with all age groups through performances, festivals, training programs, and cultural projects. By engaging the local Palestinian community, including marginalized areas, and forming international partnerships, Al-Harah Theater aims to enhance both its own work and the performing arts sector in Palestine.
+
+
+          Join the conversation to learn more about Al-Harah Theatre from **Marina Barham**, its co-Founder and General Director. **Marina Johnson**, a director, dramaturg and a PhD candidate in TAPS (Theatre and Performance Studies) at Stanford University will moderate the conversation.
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 2: Freedom Theatre of Jenin "
         pre: DATE To Be Confirmed
         text: "Moderator: Gary English"
-      - itemstart: 2024-04-24T00:18:06.533Z
-        itemend: 2024-04-24T00:18:06.550Z
-        title: "Episode 3: Al-Hara Theatre of Beit Jala"
-        pre: "Thursday, June 6, 11:00 am PT (9:00 PM Palestine) "
-        text: |-
-          Panelists: Nicola Zreineh, Marina Barham 
-
-          Moderator: Marina Johnson
       - itemstart: 2024-04-24T00:19:50.223Z
         itemend: 2024-04-24T00:19:50.240Z
         title: "Episode 4: El Hakawati Theatre of Jerusalem"
