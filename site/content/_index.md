@@ -26,7 +26,7 @@ items:
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**No Summary episode 1: ASHTAR Theatre**"
+  - subtitle: "**No Summary episode 2: Al Theatre**"
     text: >-
       Golden Thread invites multidisciplinary documentarian **Ash Marinaccio**
       to facilitate a conversation with **Iman Aoun** and **Emile Saba** of
