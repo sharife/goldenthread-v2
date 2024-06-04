@@ -11,10 +11,10 @@ items:
       Conversations with Artists Who Don't Fit in a Box 
 
 
-      Now entering its fifth consecutive year, our digital conversation series **No Summary** will feature conversations with theatre companies in Palestine.
+      Now entering its fifth consecutive year, our digital conversation series **No Summary** features conversations with theatre companies in Palestine.
 
 
-      Our 2024 virtual artist conversation series will embark on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode will spotlight a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
+      Our 2024 virtual artist conversation series embarks on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode spotlights a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
 
 
       Online via Zoom and Howlround TV
@@ -26,17 +26,21 @@ items:
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**No Summary episode 1: ASHTAR Theatre**"
+  - subtitle: "**No Summary episode 2: Al-Harah Theatre**"
     text: >-
-      Golden Thread invites multidisciplinary documentarian **Ash Marinaccio**
-      to facilitate a conversation with **Iman Aoun** and **Emile Saba** of
-      **ASHTAR Theatre**, of Ramallah, Palestine. ASHTAR Theatre is a non-profit
-      organization that was established in 1991 in Jerusalem as the first
-      theatre training organization for youth in Palestine by Edward Muallem and
-      Iman Aoun, two Palestinian prominent actors who worked in theatre since
-      1977. Join the conversation to learn more about ASHTAR and hear directly
-      from its lead artists about making theatre under occupation and during
-      times of mass atrocities and genocide.
+      Golden Thread continues the series of online conversations with
+      Palestinian theatres this week with a spotlight on **Al-Harah Theatre**, a
+      non-profit cultural organization based in Beit-Jala, Palestine. Al-Harah
+      Theatre is dedicated to fostering a civil society that prioritizes human
+      rights, democracy, and freedom of expression. They work with all age
+      groups through performances, festivals, training programs, and cultural
+      projects. By engaging the local Palestinian community, including
+      marginalized areas, and forming international partnerships, Al-Harah
+      Theater aims to enhance both its own work and the performing arts sector
+      in Palestine. 
+
+
+      Join the conversation to learn more about Al-Harah Theatre from **Marina Barham**, its co-Founder and General Director. **Marina Johnson**, a director, dramaturg and a PhD candidate in TAPS at Stanford University will moderate the conversation. 
 
 
       Online via Zoom and Howlround TV 
@@ -45,10 +49,10 @@ items:
       Free with Reservation
 
 
-      Friday, May 24, 2024, 11am PT (9pm Palestine)
-    image: https://ucarecdn.com/0f3690da-08ad-47fe-9330-69892928b82c/
+      Thursday, June 6, 2024, 11am PT (9pm Palestine)
+    image: https://ucarecdn.com/e5d577ba-8034-41a5-864b-47da0f640c08/
     cta: Register for FREE!
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
