@@ -200,5 +200,26 @@ cast:
         building of young theater cadres and developing partnerships with local,
         Arabs and internationals organizations and networks."
       link: https://alharah.org/
+    - name: Amer Khalil
+      credit: "Panelist, episode 3: El-Hakawati Theatre"
+      bio: "**Amer Khalil** was born and resides in Jerusalem. He began his theater
+        career early with the El-Hakawati troupe in 1980, volunteering to sell
+        tickets and assist during local tours in Palestine. Amer's relationship
+        with the late François Abu Salem, director and founder of El-Hakawati,
+        was distinctive and very special. Under François' guidance, Amer
+        received intensive training in theater. In 1983, Amer co-founded the El
+        Nozha Hakawati Theater, later known as the Palestinian National Theater.
+        Initially working behind the scenes in technical roles, he soon
+        transitioned to acting. His stage debut was in 1985 with the play \"The
+        Eye and the Sun,\" and he subsequently participated in most of the
+        Hakawati troupe's productions. Throughout his career, Amer took numerous
+        courses and workshops in acting and directing, learning from many Arab
+        and international artists. From 1988 to 1991, he lived in Paris, where
+        he studied French and worked extensively with various theater groups as
+        a resident artist. He gained valuable experience and training from
+        French and Dutch directors and collaborated with European theater groups
+        to further his education and skills. Amer's love for singing and
+        traveling has always been an integral part of his theatrical work."
+      image: https://ucarecdn.com/9d6c2728-93bc-4519-8ffc-e95a474404a4/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
