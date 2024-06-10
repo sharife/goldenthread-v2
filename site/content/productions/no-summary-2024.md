@@ -72,6 +72,7 @@ lists:
 
           Golden Thread invites NYC-based theatre director **Kate Moore Heaney** to moderate the conversation with the director of El-Hakawati theatre, **Amer Khalil**.
         image: https://ucarecdn.com/c162e766-fd5f-4815-93de-d06a7cbb0c3a/
+        cta: Register for FREE!
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 4: Freedom Theatre of Jenin "
