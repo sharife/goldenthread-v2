@@ -23,7 +23,7 @@ lists:
 
           * **[E﻿pisode 2: Al-Harah Theater of Beit Jala](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE)** Thursday, June 6 at 11 AM PT (9 PM Palestine) 
 
-          * **[E﻿pisode 3: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** **DATE To Be Confirmed**
+          * **[E﻿pisode 3: Freedom Theatre of Jenin](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006n0uhMAA)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
 
           * **[E﻿pisode 4: El Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** **DATE To Be Confirmed**
         cta: REGISTER FOR FREE
