@@ -221,5 +221,7 @@ cast:
         to further his education and skills. Amer's love for singing and
         traveling has always been an integral part of his theatrical work."
       image: https://ucarecdn.com/9d6c2728-93bc-4519-8ffc-e95a474404a4/
+    - name: Kate Moore Heaney
+      credit: "Moderator, episode 3: El-Hakawati Theatre"
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
