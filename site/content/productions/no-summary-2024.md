@@ -153,7 +153,7 @@ cast:
         communicate with their surrounding creatively.
       link: https://www.ashtar-theatre.org/
       credit: Ramallah, Palestine
-    - credit: "Panelist, episode 3: Al-Harah Theatre"
+    - credit: "Panelist, episode 2: Al-Harah Theatre"
       name: Marina Barham
       image: https://ucarecdn.com/147a39fa-aa24-4c0b-8297-e70aeb6aa050/
       bio: "**Marina Barham**, cofounder, General Director of Al-Harah Theater,
@@ -167,7 +167,7 @@ cast:
         2006 with Al Mawred Resource, Tamasi Collective and Goethe Institute in
         Berlin and in Palestine. A speaker at several international conferences,
         festivals and events."
-    - credit: "Moderator, episode 3: Al-Harah Theatre"
+    - credit: "Moderator, episode 2: Al-Harah Theatre"
       name: Marina Johnson
       image: https://ucarecdn.com/8f0daa74-673d-4469-a072-e83e9aa97823/
       bio: '**Marina Johnson** is a PhD candidate in TAPS at Stanford University (MFA
