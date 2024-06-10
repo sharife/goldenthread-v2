@@ -67,7 +67,7 @@ lists:
           Moderator: Kate Moore Heaney 
 
 
-          As part of the series of online conversations with Palestinian theatres, the spotlight this week is on **El-Hakawati Theatre**, the main public theatre institution in East Jerusalem. El-Hakawati is a Palestinian nonprofit cultural institution which strives to create and to develop a unique cultural life in Jerusalem, by way of producing and presenting artistic, educational, and entertaining programs that reflect the aspirations of the Palestinian people. Since its inception in 1984, El Hakawati operated as a forum for cultural and artistic platforms, and developing creative strategies and activities towards upgrading Arab arts and culture in Jerusalem. 
+          As part of the series of online conversations with Palestinian theatres, the spotlight this week is on **El-Hakawati Theatre**, the main public theatre institution in East Jerusalem. [El-Hakawati](https://el-hakawati.org/) is a Palestinian nonprofit cultural institution which strives to create and to develop a unique cultural life in Jerusalem, by way of producing and presenting artistic, educational, and entertaining programs that reflect the aspirations of the Palestinian people. Since its inception in 1984, El Hakawati operated as a forum for cultural and artistic platforms, and developing creative strategies and activities towards upgrading Arab arts and culture in Jerusalem. 
 
 
           Golden Thread invites NYC-based theatre director **Kate Moore Heaney** to moderate the conversation with the director of El-Hakawati theatre, **Amer Khalil**.
@@ -238,5 +238,18 @@ cast:
         Clubbed Thumb, Yale Institute for Music Theatre, and The 24 Hour Plays
         on Broadway. B.A.: Yale."
       link: https://www.katemooreheaney.com/
+    - name: El-Hakawati Theatre
+      credit: Jerusalem, Palestine
+      bio: >-
+        The El Hakawati National Theatre officially opened its doors to the
+        world on May 9th, 1984 as the first Palestinian specialized cultural
+        center and theatre. One year later, the theatre’s administration was
+        handed to an independent Board of Trustees that included a number of
+        authors, artists, poets, and Palestinian figures that are active on
+        community and national levels.
+
+        The National Theatre, El Hakawati, made it its mission to be the theatre that acts as a cultural and artistic platform that provides the grounds to develop strategies and activities that upscale the theatrical and artistic works on the national level. The activities of the theatre evolved to become not only preservers of the Palestinian cultural heritage, but also a method to implant this civilizational record in the heart of the Palestinian society, add further achievements to it, and look for unprecedented ideas and constructive guidance to allow more room for Palestinian artists for experimentation and innovation.
+      link: https://el-hakawati.org/
+      image: https://ucarecdn.com/c749d45d-dd51-41b9-b465-31beedf25b7b/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
