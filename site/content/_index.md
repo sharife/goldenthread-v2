@@ -26,21 +26,24 @@ items:
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**No Summary episode 2: Al-Harah Theatre**"
+  - subtitle: "**No Summary episode 3: El-Hakawati Theatre**"
     text: >-
       Golden Thread continues the series of online conversations with
-      Palestinian theatres this week with a spotlight on **Al-Harah Theatre**, a
-      non-profit cultural organization based in Beit-Jala, Palestine. Al-Harah
-      Theatre is dedicated to fostering a civil society that prioritizes human
-      rights, democracy, and freedom of expression. They work with all age
-      groups through performances, festivals, training programs, and cultural
-      projects. By engaging the local Palestinian community, including
-      marginalized areas, and forming international partnerships, Al-Harah
-      Theater aims to enhance both its own work and the performing arts sector
-      in Palestine. 
+      Palestinian theatres this week with a spotlight on **El-Hakawati**, a
+      non-profit cultural organization based in Jerusalem, Palestine. The
+      National Theatre, [El Hakawati](https://el-hakawati.org/) made it its
+      mission to be the theatre that acts as a cultural and artistic platform
+      that provides the grounds to develop strategies and activities that
+      upscale the theatrical and artistic works on the national level. The
+      activities of the theatre evolved to become not only preservers of the
+      Palestinian cultural heritage, but also a method to implant this
+      civilizational record in the heart of the Palestinian society, add further
+      achievements to it, and look for unprecedented ideas and constructive
+      guidance to allow more room for Palestinian artists for experimentation
+      and innovation.
 
 
-      Join the conversation to learn more about Al-Harah Theatre from **Marina Barham**, its co-Founder and General Director. **Marina Johnson**, a director, dramaturg and a PhD candidate in TAPS at Stanford University will moderate the conversation. 
+      Join the conversation to learn more about El-Hakawati Theatre from **Amer Khalil**, its Director. **Kate Moore Heaney**, a NYC-based director moderates the conversation. 
 
 
       Online via Zoom and Howlround TV 
@@ -49,8 +52,8 @@ items:
       Free with Reservation
 
 
-      Thursday, June 6, 2024, 11am PT (9pm Palestine)
-    image: https://ucarecdn.com/e5d577ba-8034-41a5-864b-47da0f640c08/
+      Thursday, June 13, 2024, 11am PT (9pm Palestine)
+    image: https://ucarecdn.com/b2f24715-55b7-4291-9967-b63a50ced1c3/
     cta: Register for FREE!
     link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**11 Reflections: San Francisco**"
