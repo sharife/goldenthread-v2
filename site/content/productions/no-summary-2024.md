@@ -60,7 +60,18 @@ lists:
         itemend: 2024-04-24T00:19:50.240Z
         title: "Episode 3: El Hakawati Theatre of Jerusalem"
         pre: Thursday, June 13, 11:00 am PT (9:00 PM Palestine)
-        text: "Moderator: Kate Moore Heaney"
+        text: >-
+          Panelist: Amer Khalil
+
+
+          Moderator: Kate Moore Heaney 
+
+
+          As part of the series of online conversations with Palestinian theatres, the spotlight this week is on **El-Hakawati Theatre**, the main public theatre institution in East Jerusalem. El-Hakawati is a Palestinian nonprofit cultural institution which strives to create and to develop a unique cultural life in Jerusalem, by way of producing and presenting artistic, educational, and entertaining programs that reflect the aspirations of the Palestinian people. Since its inception in 1984, El Hakawati operated as a forum for cultural and artistic platforms, and developing creative strategies and activities towards upgrading Arab arts and culture in Jerusalem. 
+
+
+          Golden Thread invites NYC-based theatre director **Kate Moore Heaney** to moderate the conversation with the director of El-Hakawati theatre, **Amer Khalil**.
+        image: https://ucarecdn.com/c162e766-fd5f-4815-93de-d06a7cbb0c3a/
       - itemstart: 2024-04-24T00:16:56.983Z
         itemend: 2024-04-24T00:16:56.996Z
         title: "Episode 4: Freedom Theatre of Jenin "
