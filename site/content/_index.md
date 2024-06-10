@@ -28,19 +28,17 @@ items:
     link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**No Summary episode 3: El-Hakawati Theatre**"
     text: >-
-      Golden Thread continues the series of online conversations with
-      Palestinian theatres this week with a spotlight on **El-Hakawati**, a
-      non-profit cultural organization based in Jerusalem, Palestine. The
-      National Theatre, [El Hakawati](https://el-hakawati.org/) made it its
-      mission to be the theatre that acts as a cultural and artistic platform
-      that provides the grounds to develop strategies and activities that
-      upscale the theatrical and artistic works on the national level. The
-      activities of the theatre evolved to become not only preservers of the
-      Palestinian cultural heritage, but also a method to implant this
-      civilizational record in the heart of the Palestinian society, add further
-      achievements to it, and look for unprecedented ideas and constructive
-      guidance to allow more room for Palestinian artists for experimentation
-      and innovation.
+      As part of the series of online conversations with Palestinian theatres,
+      the spotlight this week is on **El-Hakawati Theatre**, the main public
+      theatre institution in East Jerusalem.
+      [El-Hakawati](https://el-hakawati.org/) is a Palestinian nonprofit
+      cultural institution which strives to create and to develop a unique
+      cultural life in Jerusalem, by way of producing and presenting artistic,
+      educational, and entertaining programs that reflect the aspirations of the
+      Palestinian people. Since its inception in 1984, El Hakawati operated as a
+      forum for cultural and artistic platforms, and developing creative
+      strategies and activities towards upgrading Arab arts and culture in
+      Jerusalem.
 
 
       Join the conversation to learn more about El-Hakawati Theatre from **Amer Khalil**, its Director. **Kate Moore Heaney**, a NYC-based director moderates the conversation. 
