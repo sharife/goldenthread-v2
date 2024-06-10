@@ -56,16 +56,16 @@ lists:
         image: https://ucarecdn.com/2e779f4d-dbad-46ae-bac0-7c09e3aafda7/
         cta: Register for FREE!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE
-      - itemstart: 2024-04-24T00:16:56.983Z
-        itemend: 2024-04-24T00:16:56.996Z
-        title: "Episode 3: Freedom Theatre of Jenin "
-        pre: DATE To Be Confirmed
-        text: "Moderator: Gary English"
       - itemstart: 2024-04-24T00:19:50.223Z
         itemend: 2024-04-24T00:19:50.240Z
-        title: "Episode 4: El Hakawati Theatre of Jerusalem"
-        pre: DATE To Be Confirmed
+        title: "Episode 3: El Hakawati Theatre of Jerusalem"
+        pre: Thursday, June 13, 11:00 am PT (9:00 PM Palestine)
         text: "Moderator: Kate Moore Heaney"
+      - itemstart: 2024-04-24T00:16:56.983Z
+        itemend: 2024-04-24T00:16:56.996Z
+        title: "Episode 4: Freedom Theatre of Jenin "
+        pre: DATE To Be Confirmed
+        text: "Moderator: Gary English"
 cast:
   items:
     - name: Iman Aoun
