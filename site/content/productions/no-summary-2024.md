@@ -19,7 +19,7 @@ description: >-
   Free with Reservation
 titleimage: https://ucarecdn.com/c8292236-1747-4544-863f-75b4056b6b42/
 ticketlink: https://goldenthread.org/tickets/
-ticketinfo: Online via Zoom and Howlround TV; Free with Reservation
+ticketinfo: Online via Zoom and Howlround TV; FREE with Reservation
 lists:
   - heading: "List of Episodes "
     items:
