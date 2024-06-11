@@ -20,7 +20,7 @@ titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
 writer: Hanna Eady, Edward Mast, Raeda Taha
 director: Hala Baki, Hanna Eady
 featuring: Maya Nazzal, Wiley Naman Strasser*, Elissa Beth Stebbins*
-stage: "Red poppy Art House "
+stage: "Red Poppy Art House "
 address: 2698 Folsom St, San Francisco, CA 94110
 visitlink: https://redpoppyarthouse.org/about/contact-hours-location/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
