@@ -225,19 +225,18 @@ cast:
     - name: Kate Moore Heaney
       credit: "Moderator, episode 3: El-Hakawati Theatre"
       image: https://ucarecdn.com/10ddd8b4-d35f-461b-b62f-78732f77d449/
-      bio: "**Kate Moore Heaney** (she/her) is a NYC-based theatre director, producer,
-        and dramaturg of Lebanese & Irish descent. She is committed to promoting
-        empathy and investigating social, political, and human rights issues
-        through theatre. In addition to serving as Artistic Producer of Noor
-        Theatre, Kate is also a steering committee member for the Middle Eastern
-        and North African Theater Makers Alliance (MENATMA) and a member of the
-        literary team at Long Wharf Theatre. She has also directed and/or
-        developed new work with The Civilians’ R&D Group, New York Theatre
-        Workshop, The Amoralists, The Flea, The Shakespeare Society, The 24 Hour
-        Plays: Nationals, and other NYC companies. She has assistant or
-        associate directed with Ibex Theatricals/The New Vic, McCarter Theatre,
-        Clubbed Thumb, Yale Institute for Music Theatre, and The 24 Hour Plays
-        on Broadway. B.A.: Yale."
+      bio: "**Kate Moore Heaney** (she/her) is a theatre director, producer, and
+        dramaturg. She is the Artistic Producer of Noor Theatre, a founding
+        board member of the Middle Eastern and North African Theater Makers
+        Alliance (MENATMA), and Associate Producer at Long Wharf Theatre. She
+        has directed and/or developed new work with The Soho Rep Writer/Director
+        Lab, The Playwrights Realm, Premiere Stages, The Civilians’ R&D Group,
+        New York Theatre Workshop, NYU Abu Dhabi Institute (NYC), The
+        Amoralists, The Flea, The Shakespeare Society, The 24 Hour Plays:
+        Nationals, and other NYC companies. She has assistant or associate
+        directed with Ibex Theatricals/The New Vic, McCarter Theatre, Clubbed
+        Thumb, Yale Institute for Music Theatre, and The 24 Hour Plays on
+        Broadway. B.A.: Yale."
       link: https://www.katemooreheaney.com/
     - name: El-Hakawati Theatre
       credit: Jerusalem, Palestine
