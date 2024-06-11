@@ -2,7 +2,7 @@
 photos:
   heading: " "
 wordpress_id: 10361
-titleimage: /img/archive/2015/10/NewThreads-Slider2-1024x315.jpg
+titleimage: https://ucarecdn.com/2a4ccdd6-42f7-4628-9f78-4c2729dbcaa1/
 layout: page
 author: Torange
 slug: new-threads
