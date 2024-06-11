@@ -56,16 +56,29 @@ lists:
         image: https://ucarecdn.com/2e779f4d-dbad-46ae-bac0-7c09e3aafda7/
         cta: Register for FREE!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE
-      - itemstart: 2024-04-24T00:16:56.983Z
-        itemend: 2024-04-24T00:16:56.996Z
-        title: "Episode 3: Freedom Theatre of Jenin "
-        pre: DATE To Be Confirmed
-        text: "Moderator: Gary English"
       - itemstart: 2024-04-24T00:19:50.223Z
         itemend: 2024-04-24T00:19:50.240Z
-        title: "Episode 4: El Hakawati Theatre of Jerusalem"
+        title: "Episode 3: El Hakawati Theatre of Jerusalem"
+        pre: Thursday, June 13, 11:00 am PT (9:00 PM Palestine)
+        text: >-
+          Panelist: Amer Khalil
+
+
+          Moderator: Kate Moore Heaney 
+
+
+          As part of the series of online conversations with Palestinian theatres, the spotlight this week is on **El-Hakawati Theatre**, the main public theatre institution in East Jerusalem. [El-Hakawati](https://el-hakawati.org/) is a Palestinian nonprofit cultural institution which strives to create and to develop a unique cultural life in Jerusalem, by way of producing and presenting artistic, educational, and entertaining programs that reflect the aspirations of the Palestinian people. Since its inception in 1984, El Hakawati operated as a forum for cultural and artistic platforms, and developing creative strategies and activities towards upgrading Arab arts and culture in Jerusalem. 
+
+
+          Golden Thread invites NYC-based theatre director **Kate Moore Heaney** to moderate the conversation with the director of El-Hakawati theatre, **Amer Khalil**.
+        image: https://ucarecdn.com/c162e766-fd5f-4815-93de-d06a7cbb0c3a/
+        cta: Register for FREE!
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM
+      - itemstart: 2024-04-24T00:16:56.983Z
+        itemend: 2024-04-24T00:16:56.996Z
+        title: "Episode 4: Freedom Theatre of Jenin "
         pre: DATE To Be Confirmed
-        text: "Moderator: Kate Moore Heaney"
+        text: "Moderator: Gary English"
 cast:
   items:
     - name: Iman Aoun
@@ -141,7 +154,7 @@ cast:
         communicate with their surrounding creatively.
       link: https://www.ashtar-theatre.org/
       credit: Ramallah, Palestine
-    - credit: "Panelist, episode 3: Al-Harah Theatre"
+    - credit: "Panelist, episode 2: Al-Harah Theatre"
       name: Marina Barham
       image: https://ucarecdn.com/147a39fa-aa24-4c0b-8297-e70aeb6aa050/
       bio: "**Marina Barham**, cofounder, General Director of Al-Harah Theater,
@@ -155,7 +168,7 @@ cast:
         2006 with Al Mawred Resource, Tamasi Collective and Goethe Institute in
         Berlin and in Palestine. A speaker at several international conferences,
         festivals and events."
-    - credit: "Moderator, episode 3: Al-Harah Theatre"
+    - credit: "Moderator, episode 2: Al-Harah Theatre"
       name: Marina Johnson
       image: https://ucarecdn.com/8f0daa74-673d-4469-a072-e83e9aa97823/
       bio: '**Marina Johnson** is a PhD candidate in TAPS at Stanford University (MFA
@@ -188,5 +201,56 @@ cast:
         building of young theater cadres and developing partnerships with local,
         Arabs and internationals organizations and networks."
       link: https://alharah.org/
+    - name: Amer Khalil
+      credit: "Panelist, episode 3: El-Hakawati Theatre"
+      bio: "**Amer Khalil** was born and resides in Jerusalem. He began his theater
+        career early with the El-Hakawati troupe in 1980, volunteering to sell
+        tickets and assist during local tours in Palestine. Amer's relationship
+        with the late François Abu Salem, director and founder of El-Hakawati,
+        was distinctive and very special. Under François' guidance, Amer
+        received intensive training in theater. In 1983, Amer co-founded the El
+        Nozha Hakawati Theater, later known as the Palestinian National Theater.
+        Initially working behind the scenes in technical roles, he soon
+        transitioned to acting. His stage debut was in 1985 with the play \"The
+        Eye and the Sun,\" and he subsequently participated in most of the
+        Hakawati troupe's productions. Throughout his career, Amer took numerous
+        courses and workshops in acting and directing, learning from many Arab
+        and international artists. From 1988 to 1991, he lived in Paris, where
+        he studied French and worked extensively with various theater groups as
+        a resident artist. He gained valuable experience and training from
+        French and Dutch directors and collaborated with European theater groups
+        to further his education and skills. Amer's love for singing and
+        traveling has always been an integral part of his theatrical work."
+      image: https://ucarecdn.com/9d6c2728-93bc-4519-8ffc-e95a474404a4/
+    - name: Kate Moore Heaney
+      credit: "Moderator, episode 3: El-Hakawati Theatre"
+      image: https://ucarecdn.com/10ddd8b4-d35f-461b-b62f-78732f77d449/
+      bio: "**Kate Moore Heaney** (she/her) is a NYC-based theatre director, producer,
+        and dramaturg of Lebanese & Irish descent. She is committed to promoting
+        empathy and investigating social, political, and human rights issues
+        through theatre. In addition to serving as Artistic Producer of Noor
+        Theatre, Kate is also a steering committee member for the Middle Eastern
+        and North African Theater Makers Alliance (MENATMA) and a member of the
+        literary team at Long Wharf Theatre. She has also directed and/or
+        developed new work with The Civilians’ R&D Group, New York Theatre
+        Workshop, The Amoralists, The Flea, The Shakespeare Society, The 24 Hour
+        Plays: Nationals, and other NYC companies. She has assistant or
+        associate directed with Ibex Theatricals/The New Vic, McCarter Theatre,
+        Clubbed Thumb, Yale Institute for Music Theatre, and The 24 Hour Plays
+        on Broadway. B.A.: Yale."
+      link: https://www.katemooreheaney.com/
+    - name: El-Hakawati Theatre
+      credit: Jerusalem, Palestine
+      bio: >-
+        The El Hakawati National Theatre officially opened its doors to the
+        world on May 9th, 1984 as the first Palestinian specialized cultural
+        center and theatre. One year later, the theatre’s administration was
+        handed to an independent Board of Trustees that included a number of
+        authors, artists, poets, and Palestinian figures that are active on
+        community and national levels.
+
+        The National Theatre, El Hakawati, made it its mission to be the theatre that acts as a cultural and artistic platform that provides the grounds to develop strategies and activities that upscale the theatrical and artistic works on the national level. The activities of the theatre evolved to become not only preservers of the Palestinian cultural heritage, but also a method to implant this civilizational record in the heart of the Palestinian society, add further achievements to it, and look for unprecedented ideas and constructive guidance to allow more room for Palestinian artists for experimentation and innovation.
+      link: https://el-hakawati.org/
+      image: https://ucarecdn.com/c749d45d-dd51-41b9-b465-31beedf25b7b/
 ---
 These curated digital discussions invite artists of Middle Eastern and North African heritage to discuss the many layers of their identity and how it impacts their work and artistic choices.
