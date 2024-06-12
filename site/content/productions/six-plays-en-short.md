@@ -1,7 +1,7 @@
 ---
 title: Six Plays en Short
 season: 1999
-date: 1999-05-14T20:44:00.000Z
+date: 1999-07-04T20:44:00.000Z
 start: 1999-08-04T20:42:00.000Z
 end: 1999-08-28T20:42:00.000Z
 heading: A collection of contemporary works ranging from parody to profound
