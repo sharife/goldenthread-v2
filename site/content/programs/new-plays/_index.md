@@ -11,7 +11,7 @@ lists:
   items:
     - title: >
         New Threads Staged Reading Series
-      image: /img/archive/2012/05/Programs-NewThreads.jpg
+      image: /img/programs-newthreads.jpg
       text: >-
         New Threads is an annual staged reading and workshop series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Many of the New Threads plays continue on to receive main stage productions. [**Find out more about New Threads.**](/programs/new-threads)
     - title: >
