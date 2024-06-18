@@ -11,7 +11,7 @@ description: >-
   Summary** features conversations with theatre companies in Palestine. 
 
 
-  Our 2024 virtual artist conversation series embarks on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode spotlights a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
+  Our 2024 virtual artist conversation series embarks on a tour of Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode spotlights a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
 
 
   Online via Zoom and Howlround TV
