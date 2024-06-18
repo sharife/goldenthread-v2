@@ -54,8 +54,8 @@ lists:
 
           Join the conversation to learn more about Al-Harah Theatre from **Marina Barham**, its co-Founder and General Director. **Marina Johnson**, a director, dramaturg and a PhD candidate in TAPS (Theatre and Performance Studies) at Stanford University will moderate the conversation.
         image: https://ucarecdn.com/2e779f4d-dbad-46ae-bac0-7c09e3aafda7/
-        cta: Register for FREE!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=YOwg4mLAQcg
       - itemstart: 2024-04-24T00:19:50.223Z
         itemend: 2024-04-24T00:19:50.240Z
         title: "Episode 3: El Hakawati Theatre of Jerusalem"
@@ -72,8 +72,8 @@ lists:
 
           Golden Thread invites NYC-based theatre director **Kate Moore Heaney** to moderate the conversation with the director of El-Hakawati theatre, **Amer Khalil**.
         image: https://ucarecdn.com/c162e766-fd5f-4815-93de-d06a7cbb0c3a/
-        cta: Register for FREE!
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM
+        cta: Watch the full episode
+        link: https://www.youtube.com/watch?v=aMZGR9cOk8A
 cast:
   items:
     - name: Iman Aoun
