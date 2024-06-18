@@ -74,11 +74,6 @@ lists:
         image: https://ucarecdn.com/c162e766-fd5f-4815-93de-d06a7cbb0c3a/
         cta: Register for FREE!
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM
-      - itemstart: 2024-04-24T00:16:56.983Z
-        itemend: 2024-04-24T00:16:56.996Z
-        title: "Episode 4: Freedom Theatre of Jenin "
-        pre: DATE To Be Confirmed
-        text: "Moderator: Gary English"
 cast:
   items:
     - name: Iman Aoun
