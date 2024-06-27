@@ -52,7 +52,7 @@ items:
 
       Thursday, June 13, 2024, 11am PT (9pm Palestine)
     image: https://ucarecdn.com/b2f24715-55b7-4291-9967-b63a50ced1c3/
-    cta: Register for FREE!
+    cta: Watch the full episode
     link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
