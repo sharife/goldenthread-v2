@@ -3,8 +3,8 @@ title: "Buy Tickets: 2024 Season"
 lists:
   - heading: New Threads Reading Series 2024
     items:
-      - title: May 24 - June 13, 2024 Online via Zoom and Howlround TV
-        pre: Conversations with Artists Who Don’t Fit in a Box
+      - title: August 2 & 9, 2024 at Red Poppy Art House
+        pre: ""
         text: >-
           New Threads is Golden Thread’s annual staged reading series that
           engages its audience in the process of playmaking and allows writers
