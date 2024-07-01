@@ -1,34 +1,32 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: No Summary 2024
+  - heading: New Threads Reading Series 2024
     items:
-      - title: May 24 - June 13, 2024 Online via Zoom and Howlround TV
-        pre: Conversations with Artists Who Don’t Fit in a Box
+      - title: August 2 & 9, 2024 at Red Poppy Art House
+        pre: ""
         text: >-
-          Our 2024 virtual artist conversation series will embark on a tour of
-          four Palestinian cities to offer audiences in the Bay Area and beyond
-          a taste of the Palestinian theatre scene today. Each episode will
-          spotlight a different theater, showcasing its history, notable
-          performances, challenges, and life behind the scenes through
-          interviews with its artists and community members. Theater makers,
-          audiences, professors, and students are all invited to join in these
-          stimulating conversations.
+          New Threads is Golden Thread’s annual staged reading series that
+          engages its audience in the process of playmaking and allows writers
+          of Middle Eastern and non-Middle Eastern descent an authentic and
+          supportive space to develop work about the Middle East. Since its
+          launch in 2011, many New Threads plays and playwrights have continued
+          on to receive mainstage productions. The 2024 New Threads Staged
+          Reading Series will feature the work of international Palestinian
+          playwrights. 
 
 
-          **F﻿ull list of episodes:**
+          * ***[Where can I find someone like you, Ali?](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS)*** by **Raeda Taha**\
+            Friday, August 2, 2024 at 7:00 pm
+          * ***[The Return](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DyeZMAS)*** by **Hanna Eady**\
+            Friday, August 9, 2024 at 7:00 pm
 
+          Each reading includes a post-show conversation with the audience and the artists.\
 
-          * **[Episode 1: Ashtar Theatre of Ramallah](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nC2zMAE)** Friday, May 24 at 11 AM PT (9 PM Palestine) 
-
-          * **[E﻿pisode 2: Al-Harah Theater of Beit Jala](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nEkjMAE)** Thursday, June 6 at 11 AM PT (9 PM Palestine) 
-
-          * **[E﻿pisode 3: El-Hakawati Theatre of Jerusalem](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000006nDDaMAM)** Thursday, June 13 at 11 AM PT (9 PM Palestine)
-
-          * **E﻿pisode 4: Freedom Theatre of Jenin** **DATE To Be Confirmed**
+          Free admission. Pre-registration is highly encouraged as space is limited.
         cta: REGISTER FOR FREE
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh0000032B5nMAE
-        image: https://ucarecdn.com/c66ce43e-ad7a-482b-a20e-a19a3e779fd5/
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000003fwsmMAA
+        image: https://ucarecdn.com/ce50c426-835d-4987-8e67-6d8ea26360f3/
   - heading: "11 REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
