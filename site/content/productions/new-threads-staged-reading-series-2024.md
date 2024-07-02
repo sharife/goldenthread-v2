@@ -23,6 +23,7 @@ featuring: Maya Nazzal, Wiley Naman Strasser*, Elissa Beth Stebbins*
 stage: "Red Poppy Art House "
 address: 2698 Folsom St, San Francisco, CA 94110
 visitlink: https://redpoppyarthouse.org/about/contact-hours-location/
+ticketlink: https://goldenthread.org/tickets/
 ticketinfo: Readings are FREE, however registration is recommended as space is limited.
 lists:
   - heading: "New Threads 2024 "
@@ -54,6 +55,8 @@ lists:
 
           Duration: 75-minute, no intermission
         pre: Friday, August 2 at 7:00 pm
+        cta: Register for FREE
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS
       - itemstart: 2024-05-30T04:15:34.397Z
         itemend: 2024-05-30T04:15:34.412Z
         title: The Return
@@ -79,5 +82,7 @@ lists:
 
           Duration: 75-minute, no intermission
         pre: Friday, August 9 at 7:00 pm
+        cta: Register for FREE
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DyeZMAS
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
