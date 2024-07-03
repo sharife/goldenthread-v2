@@ -27,7 +27,7 @@ items:
       July 20-21, 2024
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
-    link: https://goldenthread.org/productions/no-summary-2024/
+    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
   - subtitle: "**New Threads**"
     text: >-
       The 2024 Season for Palestine by dedicates our annual New Threads program
