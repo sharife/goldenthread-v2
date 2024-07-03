@@ -14,9 +14,10 @@ description: >-
 
   (Title inspired by Palestinian poet Mahmoud Darwish)
 titleimage: https://ucarecdn.com/c0c599dd-b38a-4f87-83b4-f3df64bed1e2/
+stage: HowlRound TV
 bottom:
   logos:
-    - {}
+    - image: https://ucarecdn.com/f9354bfc-8707-4446-abe1-1d6cf287d479/
   text: Organized and produced by Golden Thread Productions, co-produced with
     [Art2Action](https://www.art2action.org/) and in partnership with the MENA
     Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), [Ashtar
