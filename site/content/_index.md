@@ -1,28 +1,33 @@
 ---
 title: Middle East Center Stage
-headline: No Summary
+headline: New Threads
 subtitle: ""
-background: https://ucarecdn.com/f2a46423-cad5-4734-bd87-6d9a0cd12c2c/
+background: https://ucarecdn.com/c29ed64a-4a16-4bc0-baee-6600b3cc463c/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**No Summary 2024**"
+  - subtitle: |-
+      **24 Hours for Palestine** 
+
+      **A Moon Will Rise in Darkness**
     text: >-
-      Conversations with Artists Who Don't Fit in a Box 
+      A 24-hour online event featuring 100+ Global Artists and Activists for a
+      Free Palestine, including performances and presentations honoring the
+      Palestinian people and their steadfastness in the face of genocide, and
+      discussions of how to build solidarity in the global movement for
+      Palestinian liberation. (Title inspired by Palestinian poet Mahmoud
+      Darwish) 
 
 
-      Now entering its fifth consecutive year, our digital conversation series **No Summary** features conversations with theatre companies in Palestine.
+      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, and Donkeysaddle Projects; and hosted by HowlRound Theatre Commons. \
+       \
+      Live on HowlRound TV 
 
 
-      Our 2024 virtual artist conversation series embarks on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode spotlights a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
+      FREE 
 
 
-      Online via Zoom and Howlround TV
-
-      Free with Reservation 
-
-
-      May 24 – June 14, 2024
+      July 20-21, 2024
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
