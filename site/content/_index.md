@@ -28,32 +28,23 @@ items:
     image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**No Summary episode 3: El-Hakawati Theatre**"
+  - subtitle: "**New Threads**"
     text: >-
-      As part of the series of online conversations with Palestinian theatres,
-      the spotlight this week is on **El-Hakawati Theatre**, the main public
-      theatre institution in East Jerusalem.
-      [El-Hakawati](https://el-hakawati.org/) is a Palestinian nonprofit
-      cultural institution which strives to create and to develop a unique
-      cultural life in Jerusalem, by way of producing and presenting artistic,
-      educational, and entertaining programs that reflect the aspirations of the
-      Palestinian people. Since its inception in 1984, El Hakawati operated as a
-      forum for cultural and artistic platforms, and developing creative
-      strategies and activities towards upgrading Arab arts and culture in
-      Jerusalem.
+      The 2024 Season for Palestine by dedicates our annual New Threads program
+      to two plays by contemporary Palestinian authors. 
 
 
-      Join the conversation to learn more about El-Hakawati Theatre from **Amer Khalil**, its Director. **Kate Moore Heaney**, a NYC-based director moderates the conversation. 
+      August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
 
 
-      Online via Zoom and Howlround TV 
+      August 9: ***The Return*** by Hanna Eady and Edward Mast, portraying a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
 
 
-      Free with Reservation
+      Red Poppy Art House 
 
 
-      Thursday, June 13, 2024, 11am PT (9pm Palestine)
-    image: https://ucarecdn.com/b2f24715-55b7-4291-9967-b63a50ced1c3/
+      FREE with reservation
+    image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
     cta: Watch the full episode
     link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**11 Reflections: San Francisco**"
