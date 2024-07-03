@@ -18,6 +18,15 @@ stage: HowlRound TV
 bottom:
   logos:
     - image: https://ucarecdn.com/f9354bfc-8707-4446-abe1-1d6cf287d479/
+    - image: https://ucarecdn.com/33dbab43-2a4c-48b9-a0ef-c5e026cd089e/
+    - image: https://ucarecdn.com/4eaa4247-8506-4a92-93f2-5f1e096b1eaf/
+    - image: https://ucarecdn.com/0e2285ee-3322-4229-a21d-2408084d5eb1/
+    - image: https://ucarecdn.com/0c31c014-266b-4c1d-a9e4-89fcffb3c698/
+    - image: https://ucarecdn.com/e7e7f4d9-5251-4ed9-bc6a-8161231741bb/
+    - image: https://ucarecdn.com/067510db-cf1d-4df3-875b-44838c190409/
+    - image: https://ucarecdn.com/3c9605ab-f0de-419f-b120-24c9d7b4c446/
+    - image: https://ucarecdn.com/c3e858b4-46aa-42da-8ecb-36d9309f413e/
+    - image: https://ucarecdn.com/c184e8e2-c944-4d99-808f-e56d22e63b07/
   text: Organized and produced by Golden Thread Productions, co-produced with
     [Art2Action](https://www.art2action.org/) and in partnership with the MENA
     Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), [Ashtar
