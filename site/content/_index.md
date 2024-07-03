@@ -43,7 +43,10 @@ items:
       Red Poppy Art House 
 
 
-      FREE with reservation
+      FREE with reservation 
+
+
+      August 2 & August 9, 2024
     image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
     cta: Reserve your FREE tickets
     link: https://goldenthread.org/tickets/
