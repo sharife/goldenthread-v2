@@ -6,10 +6,7 @@ background: https://ucarecdn.com/c29ed64a-4a16-4bc0-baee-6600b3cc463c/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: |-
-      **24 Hours for Palestine** 
-
-      **A Moon Will Rise in Darkness**
+  - subtitle: "**24 Hours for Palestine:** **A Moon Will Rise in Darkness**"
     text: >-
       A 24-hour online event featuring 100+ Global Artists and Activists for a
       Free Palestine, including performances and presentations honoring the
