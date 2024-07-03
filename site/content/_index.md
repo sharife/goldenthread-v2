@@ -37,7 +37,7 @@ items:
       August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
 
 
-      August 9: ***The Return*** by Hanna Eady and Edward Mast, portraying a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
+      August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
 
 
       Red Poppy Art House 
