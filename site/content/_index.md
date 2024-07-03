@@ -45,8 +45,8 @@ items:
 
       FREE with reservation
     image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
-    cta: Watch the full episode
-    link: https://goldenthread.org/productions/no-summary-2024/
+    cta: Reserve your FREE tickets
+    link: https://goldenthread.org/tickets/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
