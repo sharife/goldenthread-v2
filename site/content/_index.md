@@ -1,59 +1,55 @@
 ---
 title: Middle East Center Stage
-headline: No Summary
+headline: New Threads
 subtitle: ""
-background: https://ucarecdn.com/f2a46423-cad5-4734-bd87-6d9a0cd12c2c/
+background: https://ucarecdn.com/c29ed64a-4a16-4bc0-baee-6600b3cc463c/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**No Summary 2024**"
+  - subtitle: "**24 Hours for Palestine:** **A Moon Will Rise in Darkness**"
     text: >-
-      Conversations with Artists Who Don't Fit in a Box 
+      A 24-hour online event featuring 100+ Global Artists and Activists for a
+      Free Palestine, including performances and presentations honoring the
+      Palestinian people and their steadfastness in the face of genocide, and
+      discussions of how to build solidarity in the global movement for
+      Palestinian liberation. (Title inspired by Palestinian poet Mahmoud
+      Darwish) 
 
 
-      Now entering its fifth consecutive year, our digital conversation series **No Summary** features conversations with theatre companies in Palestine.
+      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, and Donkeysaddle Projects; and hosted by HowlRound Theatre Commons. \
+       \
+      Live on HowlRound TV 
 
 
-      Our 2024 virtual artist conversation series embarks on a tour of four Palestinian cities to offer audiences in the Bay Area and beyond a taste of the Palestinian theatre scene today. Each episode spotlights a different theater, showcasing its history, notable performances, challenges, and life behind the scenes through interviews with its artists and community members. Theater makers, audiences, professors, and students are all invited to join in these stimulating conversations. 
+      FREE 
 
 
-      Online via Zoom and Howlround TV
-
-      Free with Reservation 
-
-
-      May 24 – June 14, 2024
-    image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
+      July 20-21, 2024
+    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
-    link: https://goldenthread.org/productions/no-summary-2024/
-  - subtitle: "**No Summary episode 3: El-Hakawati Theatre**"
+    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
+  - subtitle: "**New Threads**"
     text: >-
-      As part of the series of online conversations with Palestinian theatres,
-      the spotlight this week is on **El-Hakawati Theatre**, the main public
-      theatre institution in East Jerusalem.
-      [El-Hakawati](https://el-hakawati.org/) is a Palestinian nonprofit
-      cultural institution which strives to create and to develop a unique
-      cultural life in Jerusalem, by way of producing and presenting artistic,
-      educational, and entertaining programs that reflect the aspirations of the
-      Palestinian people. Since its inception in 1984, El Hakawati operated as a
-      forum for cultural and artistic platforms, and developing creative
-      strategies and activities towards upgrading Arab arts and culture in
-      Jerusalem.
+      The 2024 Season for Palestine by dedicates our annual New Threads program
+      to two plays by contemporary Palestinian authors. 
 
 
-      Join the conversation to learn more about El-Hakawati Theatre from **Amer Khalil**, its Director. **Kate Moore Heaney**, a NYC-based director moderates the conversation. 
+      August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
 
 
-      Online via Zoom and Howlround TV 
+      August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
 
 
-      Free with Reservation
+      Red Poppy Art House 
 
 
-      Thursday, June 13, 2024, 11am PT (9pm Palestine)
-    image: https://ucarecdn.com/b2f24715-55b7-4291-9967-b63a50ced1c3/
-    cta: Watch the full episode
-    link: https://goldenthread.org/productions/no-summary-2024/
+      FREE with reservation 
+
+
+      August 2 & August 9, 2024
+    image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
+    cta: Reserve your FREE tickets
+    link: https://goldenthread.org/tickets/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
