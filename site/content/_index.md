@@ -6,7 +6,9 @@ background: https://ucarecdn.com/09af6f15-9846-4fb6-8a8e-136a34168e0d/
 cta: Learn More
 link: https://goldenthread.org/productions/24-hours-for-palestine/
 items:
-  - subtitle: "**24 Hours for Palestine:** **A Moon Will Rise in Darkness**"
+  - subtitle: |-
+      **24 Hours for Palestine:** \
+      **A Moon Will Rise in Darkness**
     text: >-
       A 24-hour online event featuring 100+ Global Artists and Activists for a
       Free Palestine, including performances and presentations honoring the
