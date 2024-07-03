@@ -2,9 +2,9 @@
 title: Middle East Center Stage
 headline: New Threads
 subtitle: ""
-background: https://ucarecdn.com/c29ed64a-4a16-4bc0-baee-6600b3cc463c/
-cta: Register for FREE!
-link: https://goldenthread.org/tickets/
+background: https://ucarecdn.com/10d6fc63-7e5c-4205-a05c-a65412fc5da9/
+cta: Learn More
+link: https://goldenthread.org/productions/24-hours-for-palestine/
 items:
   - subtitle: "**24 Hours for Palestine:** **A Moon Will Rise in Darkness**"
     text: >-
