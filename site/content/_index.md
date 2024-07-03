@@ -30,8 +30,8 @@ items:
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
   - subtitle: "**New Threads**"
     text: >-
-      The 2024 Season for Palestine by dedicates our annual New Threads program
-      to two plays by contemporary Palestinian authors. 
+      The 2024 Season for Palestine dedicates our annual New Threads program to
+      two plays by contemporary Palestinian authors. 
 
 
       August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
