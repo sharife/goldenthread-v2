@@ -42,8 +42,12 @@ bottom:
 We come together, from North America to the Middle East and across the world, to speak out against genocide, forced displacement, cultural erasure, the murder of civilians, and the systematic silencing of Palestinian voices, narratives and heritage. We call for an immediate and permanent end to Israel’s genocidal military campaign against the Palestinian people, funded by U.S. tax dollars. We call for an end to Israel's apartheid system and its illegal occupation of Palestine. We call for the complete and unequivocal liberation of the Palestinian people, including the right of return. And we call on our global theatre community to stand with us, and to speak out with us, against genocide and for justice and liberation. We call on you to stand on the right side of history. Join us. \
 \
 20th – 21st July, 2024
-Start time:
-8:00 PM Palestine
-10:00 AM Pacific
-1:00 PM Eastern
+Start time: 
+
+8:00 PM Palestine 
+
+10:00 AM Pacific 
+
+1:00 PM Eastern 
+
 Live on [www.howlround.com](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)
