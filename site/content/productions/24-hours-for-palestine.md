@@ -3,8 +3,8 @@ title: 24 Hours for Palestine
 pre: A Moon Will Rise from Darkness
 season: 2024
 date: 2024-07-03T01:57:57.471Z
-start: 2024-07-03T01:57:57.488Z
-end: 2024-07-03T01:57:57.503Z
+start: ""
+end: ""
 description: ""
 titleimage: https://ucarecdn.com/c0c599dd-b38a-4f87-83b4-f3df64bed1e2/
 bottom:
