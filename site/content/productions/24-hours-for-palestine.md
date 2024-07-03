@@ -18,10 +18,16 @@ bottom:
   logos:
     - {}
   text: Organized and produced by Golden Thread Productions, co-produced with
-    Art2Action and in partnership with the MENA Theatre-Makers Alliance
-    (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor
-    Theatre, Donkeysaddle Projects, Dunya Productions, and New Arab American
-    Theater; and hosted by HowlRound Theatre Commons.
+    [Art2Action](https://www.art2action.org/) and in partnership with the MENA
+    Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), [Ashtar
+    Theatre](https://www.ashtar-theatre.org/), [The Freedom
+    Theatre](https://thefreedomtheatre.org/), [Zoukak Theatre
+    Company](https://zoukak.org/), [Noor Theatre](https://www.noortheatre.org/),
+    [Donkeysaddle Projects](https://www.donkeysaddle.org/), [Dunya
+    Productions](https://www.dunyaproductions.org/), and [New Arab American
+    Theater](https://www.newarabamericantheaterworks.org/); and hosted by
+    [HowlRound Theatre
+    Commons](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness).
 ---
 We come together, from North America to the Middle East and across the world, to speak out against genocide, forced displacement, cultural erasure, the murder of civilians, and the systematic silencing of Palestinian voices, narratives and heritage. We call for an immediate and permanent end to Israel’s genocidal military campaign against the Palestinian people, funded by U.S. tax dollars. We call for an end to Israel's apartheid system and its illegal occupation of Palestine. We call for the complete and unequivocal liberation of the Palestinian people, including the right of return. And we call on our global theatre community to stand with us, and to speak out with us, against genocide and for justice and liberation. We call on you to stand on the right side of history. Join us. \
 \
