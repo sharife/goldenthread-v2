@@ -25,7 +25,7 @@ items:
 
 
       July 20-21, 2024
-    image: https://ucarecdn.com/88c742be-2f59-4bbd-a315-d3504b5d31e1/
+    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://goldenthread.org/productions/no-summary-2024/
   - subtitle: "**New Threads**"
