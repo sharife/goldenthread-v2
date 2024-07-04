@@ -18,7 +18,7 @@ items:
       Darwish) 
 
 
-      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, and Donkeysaddle Projects; and hosted by HowlRound Theatre Commons. \
+      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions, and New Arab American Theater; and hosted by HowlRound Theatre Commons. \
        \
       Live on HowlRound TV 
 
