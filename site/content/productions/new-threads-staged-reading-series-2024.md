@@ -189,5 +189,18 @@ cast:
         produce and devise physical theatre. Elissa graduated from Santa Clara
         University, and has continued training with Shakespeare and Company, and
         Atelier Mask Movement Theatre in Italy."
+      credit: performer, The Return
+    - name: Wiley Naman Strasser
+      credit: performer, The Return
+      image: https://ucarecdn.com/e1e9eff9-242c-4e0f-8c0c-ba0cff46b288/
+      bio: "**Wiley Naman Strasser** is an actor, dancer, singer and musician.
+        Previous work with Golden Thread include productions of *Drowning in
+        Cairo* and *Urge For Going*. Other recent credits include national tours
+        of *The Kite Runner* and *A Christmas Carol*, *Crave* with Stairwell
+        Theatre, *We Build Houses Here* with Detour Productions, and workshops
+        with The Civilians, Boise Contemporary Theatre, and the Ashland New
+        Plays Festival. Up next: *As You Like It* at CalShakes.
+        [wileynamanstrasser.com](http://www.wileynamanstrasser.com/)"
+      link: http://www.wileynamanstrasser.com/
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
