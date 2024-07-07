@@ -98,5 +98,19 @@ cast:
         Francisco Mime Troupe; *Two Rooms* by Lee Blessing. 
 
         In 1993 he returned home to create a docudrama about the internal Palestinian refugees in Israel and co-created *Sahmatah, Memory of Stones* with Edward Mast. He played the role of Ibrahim in the US production of *The Admission* by Motti Lerner, and in the Hebrew production at Yafa, Al-Saraya Theater. *The Return* (Hebrew title *Oved Shabbat*), co-written with Edward Mast, received its US premier at Mosaic Theater in Washington DC, and most recently produced at Dunya Theatre, Seattle. Writing and directing credits for Alhaneen Theater in Nazareth include: the black comedy *Love Tunnel*, *Hajjar El-Arab* (Hajjar, Bishop of all Arabs). In 2019 he founded Dunya Productions, premiering *Flood* with Jenna Eady, *Letters From Palestine in the Time of Covid*, and *Loved Ones, Families of Incarcerated* with Edward Mast. His up-coming world premier *Almond Blossom at Deir Yassin* is scheduled to open in 2025 at Dunya Productions in Seattle. Mr. Eady has an MFA from the University of Washington School of Drama in Directing, a BFA in Theater from the University of Wisconsin, and a BA in Social Work and Psychology from the University of Haifa.
+    - name: Edward Mast
+      credit: playwright, The Return
+      image: https://ucarecdn.com/ea5aac86-d98c-488b-8685-151a5add3a22/
+      bio: "**Edward Mast**’s plays and solo performances have been seen in Seattle,
+        New York, Chicago, Los Angeles, Kansas City, Honolulu, Oxford, Tashkent,
+        Jerusalem, and other cities.  Recent productions include *Shearwater
+        River*, *Tent City Planet*, *Letters From the Future*, *Tales From Under
+        the Asphalt*, and *Cry Fury*.  Plays co-written and produced with Hanna
+        Eady include *Sahmatah: Memory of Stones*, *The Return*, *The Love
+        Tunnel* and upcoming *The Mulberry Tree*. He has received commissions,
+        awards, grants and fellowships from Seattle Arts Commission, Artist
+        Trust, Seattle Childrens Theater, American Alliance for Theater and
+        Education, CalArts Center for New Theater, and the John F. Kennedy
+        Center for the Performing Arts."
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
