@@ -84,5 +84,19 @@ lists:
         pre: Friday, August 9 at 7:00 pm
         cta: Register for FREE
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DyeZMAS
+cast:
+  items:
+    - name: Hanna Eady
+      credit: playwright, director, The Return
+      image: https://ucarecdn.com/f62e70b6-004c-4ef9-b296-93309d023a80/
+      bio: >-
+        **Hanna Eady** is a Palestinian American theater artist. He founded the
+        first theater at his native village in Buqayah (Peqiin), where he wrote
+        his first play *Art and Politics* (1976). Founder of New Image Theater
+        in Seattle, Washington, writing and directing world premiers among them:
+        *Abraham’s Land*, and *Bosnia-Moya*; *Seeing Double* by the San
+        Francisco Mime Troupe; *Two Rooms* by Lee Blessing. 
+
+        In 1993 he returned home to create a docudrama about the internal Palestinian refugees in Israel and co-created *Sahmatah, Memory of Stones* with Edward Mast. He played the role of Ibrahim in the US production of *The Admission* by Motti Lerner, and in the Hebrew production at Yafa, Al-Saraya Theater. *The Return* (Hebrew title *Oved Shabbat*), co-written with Edward Mast, received its US premier at Mosaic Theater in Washington DC, and most recently produced at Dunya Theatre, Seattle. Writing and directing credits for Alhaneen Theater in Nazareth include: the black comedy *Love Tunnel*, *Hajjar El-Arab* (Hajjar, Bishop of all Arabs). In 2019 he founded Dunya Productions, premiering *Flood* with Jenna Eady, *Letters From Palestine in the Time of Covid*, and *Loved Ones, Families of Incarcerated* with Edward Mast. His up-coming world premier *Almond Blossom at Deir Yassin* is scheduled to open in 2025 at Dunya Productions in Seattle. Mr. Eady has an MFA from the University of Washington School of Drama in Directing, a BFA in Theater from the University of Wisconsin, and a BA in Social Work and Psychology from the University of Haifa.
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
