@@ -174,5 +174,20 @@ cast:
         a focus on Middle-Eastern inspired creation, her art brings a warm
         feeling of familiarity to the bay for those who are home away from
         home."
+    - name: Elissa Beth Stebbins
+      image: https://ucarecdn.com/336cd220-82c2-44b8-953c-005ae2db68fe/
+      bio: "**Elissa Beth Stebbins** (she/they) is a Bay Area based actor, teaching
+        artist, and theatre maker. Recent regional credits include *Mrs.
+        Christie* and *Nan and the Lower Body* (TheatreWorks), *Colonialism is
+        Terrible, but Pho is Delicious* (Aurora Theatre Company), *Becky Nurse
+        of Salem* (Berkeley Rep), *Kings*, *Kiss*, *The Village Bike*, and
+        *Caught* (Shotgun Players), *In Braunau* (San Francisco Playhouse
+        Sandbox Series), *Revolt. She Said. Revolt Again.* and *You For Me For
+        You* (Crowded Fire Theatre), *The Little Prince* (Marin Theater
+        Company), and *Minneola Twins* (Cutting Ball), among others. Elissa is
+        also a Teaching Artist, and a co-founder of Analog Theatre, where they
+        produce and devise physical theatre. Elissa graduated from Santa Clara
+        University, and has continued training with Shakespeare and Company, and
+        Atelier Mask Movement Theatre in Italy."
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
