@@ -202,5 +202,10 @@ cast:
         Plays Festival. Up next: *As You Like It* at CalShakes.
         [wileynamanstrasser.com](http://www.wileynamanstrasser.com/)"
       link: http://www.wileynamanstrasser.com/
+bottom:
+  logos:
+    - image: https://ucarecdn.com/a229cc73-cfdd-440f-a207-de0840036bf8/
+    - image: https://ucarecdn.com/6a6e5e75-351f-4b75-8de0-ef54ad50ca24/
+    - image: https://ucarecdn.com/638dbcf9-08f1-4a68-952d-dbb32dffa354/
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
