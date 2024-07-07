@@ -134,5 +134,23 @@ cast:
         administrative committee at the Khalil al-Sakakini Cultural Center in
         Ramallah (2000-2008). Since 2010, Raeda has been a member of the Ghassan
         Kanafani Foundation in Beirut."
+    - name: Hala Baki
+      credit: director, Where can I find someone like you, Ali?
+      image: https://ucarecdn.com/4478a445-f7f6-4453-b957-0b31c7178039/
+      bio: "**Hala Baki** (she/her) is a theater director, dramaturg, dialect coach,
+        scholar, and educator who specializes in Arab, Middle Eastern and North
+        African American theater. Her recent credits include Yussef El Guindi’s
+        *Wife of Headless Man Investigates Her Own Disappearance* (2023), Mona
+        Mansour’s *unseen* (OSF 2022), the devised ensemble play *Writer’s
+        Block* (2021), and Kareem Fahmy’s *American Fast* (LaunchPad 2021). Hala
+        holds a PhD in Theater, Dance, and Performance Studies from UC Santa
+        Barbara and serves as a faculty member of the Theatre and Dance
+        Department at California Polytechnic State University in San Luis
+        Obispo. She has published her work in Modern Drama, Theatre Journal,
+        Theatre Topics, Asian Theatre Journal and the Oxford Research
+        Encyclopedia of American History, as well as co-edited The Vagrant
+        Trilogy: Three Plays by Mona Mansour (Methuen Drama 2022). Together, her
+        research, publications, and artistic work advance the representation of
+        marginalized and misrepresented MENA communities in American theater."
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
