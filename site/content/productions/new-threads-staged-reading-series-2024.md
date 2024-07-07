@@ -204,7 +204,7 @@ cast:
       link: http://www.wileynamanstrasser.com/
 bottom:
   logos:
-    - image: https://ucarecdn.com/a229cc73-cfdd-440f-a207-de0840036bf8/
+    - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
     - image: https://ucarecdn.com/6a6e5e75-351f-4b75-8de0-ef54ad50ca24/
     - image: https://ucarecdn.com/638dbcf9-08f1-4a68-952d-dbb32dffa354/
 ---
