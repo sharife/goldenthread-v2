@@ -152,5 +152,27 @@ cast:
         Trilogy: Three Plays by Mona Mansour (Methuen Drama 2022). Together, her
         research, publications, and artistic work advance the representation of
         marginalized and misrepresented MENA communities in American theater."
+    - name: Maya Nazzal
+      credit: "performer, Where can I find someone like you, Ali? "
+      image: https://ucarecdn.com/70fd451e-aba7-47a2-a598-f53ffa4324b3/
+      bio: "**Maya Nazzal** is a Palestinian-American actor, writer, and visual artist
+        in the Bay Area and a current voice on the community council for Golden
+        Thread’s “Season For Palestine”. Maya received a BA in Theatre Arts from
+        San Francisco State University and trained at the Stella Adler Studio of
+        Acting in New York. Her acting credits include the recent role of Baran
+        in New Conservatory Theatre Center’s world premiere of *The Tutor*,
+        Maryam in *Noura* at Marin Theatre Company, and Vice Arabia’s short film
+        selection, *Asya*. She’s worked closely with Golden Thread Productions
+        throughout the years, most prominently as a stage manager and performer
+        in Fairytale Players. Maya has participated as a writer and associate
+        producer for CNN’s docu-series *Jersualem*, navigating the cultural
+        sensitivity of the project from a Palestinian lens. In 2022, her
+        original work was selected by the Red Sea Film Festival and Middle
+        Eastern Media Initiative for writing development in Saudi Arabia.
+        Outside of the performance arts, Maya has become a self-taught artist,
+        starting with hand painted denim to ceilings and four-wall murals. With
+        a focus on Middle-Eastern inspired creation, her art brings a warm
+        feeling of familiarity to the bay for those who are home away from
+        home."
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
