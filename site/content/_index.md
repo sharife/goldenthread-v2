@@ -1,14 +1,14 @@
 ---
 title: Middle East Center Stage
-headline: New Threads
+headline: 24 Hours for Palestine
 subtitle: ""
-background: https://ucarecdn.com/e2193419-7b6e-43ce-8e43-c158e48adbb6/
-cta: Register for FREE
-link: https://goldenthread.org/tickets/
+background: https://ucarecdn.com/ee96d14b-b6c2-46bc-85b4-723b7c510463/
+cta: Learn More
+link: https://goldenthread.org/productions/24-hours-for-palestine/
 items:
   - subtitle: |-
       **24 Hours for Palestine:** \
-      **A Moon Will Rise in Darkness**
+      **A Moon Will Rise From Darkness**
     text: >-
       A 24-hour online event featuring 100+ Global Artists and Activists for a
       Free Palestine, including performances and presentations honoring the
@@ -18,7 +18,7 @@ items:
       Darwish) 
 
 
-      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions, and New Arab American Theater; and hosted by HowlRound Theatre Commons. \
+      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions; and hosted by HowlRound Theatre Commons. \
        \
       Live on HowlRound TV 
 
