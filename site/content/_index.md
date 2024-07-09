@@ -8,7 +8,7 @@ link: https://goldenthread.org/productions/24-hours-for-palestine/
 items:
   - subtitle: |-
       **24 Hours for Palestine:** \
-      **A Moon Will Rise in Darkness**
+      **A Moon Will Rise From Darkness**
     text: >-
       A 24-hour online event featuring 100+ Global Artists and Activists for a
       Free Palestine, including performances and presentations honoring the
