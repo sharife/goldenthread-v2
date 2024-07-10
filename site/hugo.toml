@@ -19,33 +19,33 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 	name = "SEASON"
 	url = "/season"
 	weight = 1
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "24-hours-for-palestine"
-		name = "24 Hours for Palestine"
-		url = "/productions/24-hours-for-palestine/"
-		weight = 11
-
+		
   		[[menu.primary]]
 		parent = "season"
 		identifier = "what-do-the-women-say-2024"
 		name = "What Do The Women Say? 2024"
 		url = "/productions/what-do-the-women-say-2024/"
-		weight = 12
+		weight = 11
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "returning-to-haifa"
 		name = "Returning to Haifa"
 		url = "/productions/returning-to-haifa/"
-		weight = 13
+		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "no-summary-2024"
 		name = "No Summary 2024"
 		url = "/productions/no-summary-2024/"
+		weight = 13
+
+  		[[menu.primary]]
+		parent = "season"
+		identifier = "24-hours-for-palestine"
+		name = "24 Hours for Palestine"
+		url = "/productions/24-hours-for-palestine/"
 		weight = 14
 
 		[[menu.primary]]
