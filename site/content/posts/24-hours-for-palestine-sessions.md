@@ -4,26 +4,25 @@ date: 2024-07-16T22:40:04.710Z
 description: July, 2024
 background: https://ucarecdn.com/9e3d62ac-22e6-4e64-9013-253004a08560/
 ---
-# 24 Hours for Palestine: 
+# 24 Hours for Palestine:
 
-## A Moon will Rise from Darkness 
+## A Moon will Rise from Darkness
 
-
-### July 20-21, 2024 
+### July 20-21, 2024
 
 A 24-hour online event featuring 100+ Global Artists and Activists for a Free Palestine, including performances and presentations honoring the Palestinian people and their steadfastness in the face of genocide, and discussions of how to build solidarity in the global movement for Palestinian liberation. 
 
 Title inspired by Palestinian poet Mahmoud Darwish 
 
-Organized and produced by [Golden Thread Productions](https://goldenthread.org/), co-produced with [Art2Action](https://www.art2action.org/), in partnership with the MENA Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), hosted by [HowlRound Theater Commons](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness). \
+Organized and produced by [Golden Thread Productions](https://goldenthread.org/), co-produced with [Art2Action](https://www.art2action.org/), in partnership with the MENA Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), [Ashtar Theatre](https://www.ashtar-theatre.org/), [The Freedom Theatre](https://thefreedomtheatre.org/), [Zoukak Theatre Company](https://zoukak.org/), [Noor Theatre](https://www.noortheatre.org/), [Donkeysaddle Projects](https://www.donkeysaddle.org/), and [Dunya Productions](https://www.dunyaproductions.org/); hosted by [HowlRound Theater Commons](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness). \
 \
 No registration required. Livestream on [HowlRound](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness). 
 
-## SCHEDULE 
+## SCHEDULE
 
 View the Digital Program here. 
 
-### Saturday, July 20, 2024 
+### Saturday, July 20, 2024
 
 *Session #1* 
 **10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine** 
@@ -121,7 +120,7 @@ Title: Silencing Voices for Palestine in Hollywood**
 **Speakers:** Rolla Selbak (Filmmaker), Myriam Ali-Ahmad (Actor), Sarah Alami (Actor)
 **Duration:** 60 minutes 
 
-### Sunday, July 21, 2024 
+### Sunday, July 21, 2024
 
 *Session #13*
 **12:00 AM Pacific | 3:00 AM Eastern | 10:00 AM Palestine 
