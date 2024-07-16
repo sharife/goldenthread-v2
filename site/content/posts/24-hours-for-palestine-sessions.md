@@ -24,7 +24,7 @@ View the Digital Program (here) coming soon.
 
 ### Saturday, July 20, 2024
 
-*Session #1* 
+* *Session #1* 
 
 **10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine** 
 
@@ -37,7 +37,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 80 minutes 
 
-*Session #2*
+* *Session #2*
 
 **11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine** 
 
@@ -51,7 +51,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 90 minutes 
 
-*Session #3*
+* *Session #3*
 
 **1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine** 
 
@@ -67,7 +67,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 60 minutes 
 
-*Session #4*
+* *Session #4*
 
 **2:00 PM Pacific (July 20)| 5:00 PM Eastern (July 20) | 12:00 AM Palestine (July 21)**
 
@@ -81,7 +81,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 60 minutes 
 
-*Session #5*
+* *Session #5*
 
 **3:00 PM Pacific (July 20)| 6:00 PM Eastern (July 20) |  1:00 AM Palestine (July 21)**
 
@@ -95,7 +95,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 60 minutes 
 
-*Session #6*
+* *Session #6*
 
 **4:00 PM Pacific (July 20) | 7:00 PM Eastern (July 20) | 2:00 AM Palestine (July 21)**
 
@@ -109,120 +109,85 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Duration:** 60 minutes 
 
-*Session #7*
-
+* *Session #7*
 
 **5:00 PM Pacific (July 20) | 8:00 PM Eastern (July 20) | 3:00 AM Palestine (July 21)**
 
-
 **Title: Shared Struggles and Resilience**
-
 
 **Description:** A discussion with Afghan artists exploring the common struggles between their life experiences and those of Palestinians, focusing on how the war against Palestinians has impacted their activism and artistic expression. The panel aims to shed light on the resilience and creativity that emerge in times of conflict, fostering a deeper understanding, allyship, and solidarity between communities with shared struggles and histories.
 
-
 **Moderator:** Humaira Ghilzai (Cultural Producer and Co-Founder Afghan Friends Network)
-
 
 **Speakers:** Matin Maulawizada (Co-founder of Afghan Hands and Human Rights Advocate), Gazelle Samizay (Multimedia Artist), Zelikha Shoja (Filmmaker), Alexandra Millatmal (Writer and Unionized Software Engineer)
 
-
 **Duration:** 60 minutes 
 
-*Session #8* 
-
+* *Session #8* 
 
 **6:00 PM Pacific (July 20) | 9:00 PM Eastern (July 20) | 4:00 AM Palestine (July 21)**
 
-
 **Title: A Moon Will Rise from Darkness: Poetry for Palestine**
-
 
 **Description:** Internationally acclaimed poets from Palestine, Lebanon, and the diaspora in the United States come together for a special reading of their poetry, which has for decades uplifted the stories, voices, resilience, beauty, and resistance of the Palestinian people. Poetry for Palestine illuminates the soul of a people, tells the truths of lived experience, and celebrates the rising global movement toward liberation, even in these darkest hours. (Title inspired by Mahmoud Darwish.)
 
-
 **Moderator:** Andrea Assaf 
-
 
 **Poets:** Naomi Shihab Nye, Suheir Hammad, Deema Shehabi, and Zeina Hashem Beck
 
-
 **Duration:** 90 minutes 
 
-*Session #9*
-
+* *Session #9*
 
 **7:30 PM Pacific (July 20) | 10:30 PM Eastern (July 20) | 5:30 AM Palestine (July 21)**
 
-
 **Title: “As We Near The End”: Play Reading and Conversation**
-
 
 **Description:** "As We Near The End (or What Adorno Said)" by Yussef El Guindi focuses on the speaker’s attempt to grapple with whether or not art is useful during a time of dire conflict. The discussion to follow will expand on that theme and wrestle further with the question of art’s effectiveness (or ineffectiveness) to resist the machinery of war. Can art be of any use at such a time? Is it a distraction, or can it move the needle on anything?
 
-
 **Director/Moderator:** Torange Yeghiazarian (Playwright, Director)
-
 
 **Speakers:** Sholeh Asgary (Interdisciplinary artist, electroacoustic composer, performer, and educator.), Roberto Varea, Heather Raffo (Playwright and Actor) and Yussef El Guindi (Playwright)
 
-
 **Duration:** 60 minutes 
 
-*Session #10*
-
+* *Session #10*
 
 **8:30 PM Pacific (July 20) | 11:30 PM Eastern (July 20) | 6:30 AM Palestine (July 21)**
 
-
 **Title: Palestinian Art & Queer Resistance**
-
 
 **Description:** A walk-through history of Palestinian queer resistance until present time. How we continue challenging the empire through Palestinian queer expression. 
 
-
 **Presenter:** Mama Ganuush, Drag Artist & Activist
-
 
 **Duration:** 60 minutes 
 
-*Session #11*
-
+* *Session #11*
 
 **9:30 PM Pacific (July 20) | 12:30 AM Eastern (July 21) | 7:30 AM Palestine (July 21)**
 
-
 **Title: There Is A Field: Screening & Discussion**
-
 
 **Description:** In October 2000, a police officer shot and killed unarmed 17-year old Asel Asleh. His story is tragically familiar for Americans, but Asel was not killed in Ferguson, New York City, Atlanta, or Minneapolis. Asel was a Palestinian teenager who was murdered by Israeli police as he participated in a demonstration, calling for an end to the Israeli occupation and settler-colonization. There Is A Field began as a play about Asel, told from the perspective of his older sister, Nardin. Through Nardin’s struggle to cope with the murder of her brother, the play offers a uniquely personal lens for learning about intersecting systems of oppression, including Zionism and white supremacy—root causes of state-sanctioned violence and structural racism. Donkeysaddle Projects filmed a performance-reading of There Is A Field, performed by activists, artists and organizers from the Movement for Black Lives. There Is A Field film weaves together their performance with archival footage of Asel, and the activists’ own realizations of the parallels they see between Asel’s story and the experiences of Black, Indigenous, People of Color (BIPOC) communities in the United States. The film, set in Palestine and performed by BIPOC artists and activists in the US, builds solidarity across intersectional struggles for liberation and decolonization, and is sure to spark conversation and connection.
 
-
 **Moderator:** Aejay Mitchell (Actor)
-
 
 **Speakers:** Jen Marlowe (Founder, Donkeysaddle Projects), James Klynn (Performer-activist), Anyssa Mahmoud 
 
-
 **Duration:** 90 minutes 
 
-*Session #12*
-
+* *Session #12*
 
 **11:00 PM Pacific (July 20) | 2:00 AM Eastern (July 21) | 9:00 AM Palestine (July 21)**
 
-
 **Title: Silencing Voices for Palestine in Hollywood**
-
 
 **Description:** Los Angeles based artists in the entertainment industry talk about the challenges of advocating for Palestine in an incredibly Zionist environment.
 
-
 **Moderator:** Edward Hong, Actor + Watermelon Club Member
 
-
 **Speakers:** Rolla Selbak (Filmmaker), Myriam Ali-Ahmad (Actor), Sarah Alami (Actor)
-
 
 **Duration:** 60 minutes 
 
