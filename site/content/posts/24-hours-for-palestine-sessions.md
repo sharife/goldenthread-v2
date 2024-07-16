@@ -25,52 +25,124 @@ View the Digital Program (here) coming soon.
 ### Saturday, July 20, 2024
 
 *Session #1* 
+
+
 **10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine** 
+
+
 **Title:** **The Freedom Theatre: Making Art in the Midst of War**
 Description: This session will present the work that The Freedom Theatre continues to produce amidst the worst circumstances the theatre has faced in history. Artistic Director Ahmad Tobasi will discuss the current circumstances at the theatre and in Jenin Camp. Two student actors will present their perspectives, and Alla Sheheda, actor, comedian and graduate of the TFT Acting School will perform a selection of his one man play, "The Horse". 
+
+
 **Moderator:** Gary M. English (Former Artistic Staff, The Freedom Theatre; Distinguished Professor of Drama, UConn; Visiting Professor Al Quds University, Palestine).
+
+
 **Speakers:** Ahmad Tobasi, Alaa Shehada, and Ranin Odeh 
+
+
 **Duration:** 80 minutes 
 
 *Session #2*
+
+
 **11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine** 
+
+
 **Title: Palestinian Artists in the Global Diaspora**
+
+
 **Description:** A conversation with Palestinian theater and film artists and activists Raeda Taha, Aliya Khalidi and Eyas Younis, following a short presentation of original work by Raeda Taha titled “The Significance of the Palestinian Narrative in Collective Memory Through Theatre.”
+
+
 **Moderator:** Catherine Coray, (Arts Professor, NYU and Producing Associate, Noor Theatre)
+
+
 **Speakers:** Raeda Taha, Eyas Younis, Aliya Khalidi
+
+
 **Duration:** 90 minutes 
 
 *Session #3*
+
+
 **1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine** 
+
+
 **Title: Gaza Now: Witnessing the Witnesses**
+
+
 **Description:** A reading of found testimonies and words by witnesses and survivors of the Israeli genocidal campaign in Gaza, Palestine which started on October 7 and is still ongoing. The reading will be followed by a conversation with Youmna El Sayed, a journalist and a correspondent for Al Jazeera English based in Gaza Strip. 
+
+
 **Presenter:** Sahar Assaf (Executive Artistic Director of Golden Thread Productions) 
+
+
 **Actors:** Nora el Samahy, Hadi Tabbal, Maya Nazzal, Hiba Sleiman 
+
+
 **Speaker:** Youmna El Sayed (Journalist)
+
+
 **Duration:** 60 minutes 
 
 *Session #4*
+
+
 **2:00 PM Pacific (July 20)| 5:00 PM Eastern (July 20) | 12:00 AM Palestine (July 21)**
+
+
 **Title: The Revolution's Promise**
+
+
 **Description:** A reading of excerpts from The Revolution's Promise, a collection of testimonies from artists across Palestine. The monologues celebrate cultural resistance while highlighting censorship and attacks on artists.
+
+
 **Moderator:** Kate Moore Heaney (Artistic Producer, Noor Theatre)
+
+
 **Actors:** Waseem Alzer, Heather Raffo, Najla Said, Victoria Nassif, Haneen Rafat, Haneen Arafat Murphy, Rudy Roushdi. 
+
+
 **Duration:** 60 minutes 
 
 *Session #5*
+
+
 **3:00 PM Pacific (July 20)| 6:00 PM Eastern (July 20) |  1:00 AM Palestine (July 21)**
+
+
 **Title: Creating free Palestine through song, dance, and stories from the diaspora**
+
+
 **Description:** Exploring the work of Fouad Dakwar, and will share a selection of songs from his piece FOUAD OF NAZARETH and/or to curate a panel/performance that is music for Palestinian liberation. Explore the work of electro-dabke band 47 Soul in activating the diaspora through song and dance. 
+
+
 **Moderator:** J.J. El-Far (Independent Creative Producer) and Kate Moore Heaney (Arts Manager)
+
+
 **Artists:** Fouad Dakwar and Naima Shalhoub 
+
+
 **Duration:** 60 minutes 
 
 *Session #6*
+
+
 **4:00 PM Pacific (July 20) | 7:00 PM Eastern (July 20) | 2:00 AM Palestine (July 21)**
+
+
 **Title: From Kars to Gaza**
+
+
 **Description:** Armenians experienced genocide in 1915 and forced displacement as recently as 2023. How does this history inform our understanding and response to the atrocities in Gaza?
+
+
 **Moderator:** Torange Yeghiazarian (Founding Artistic Director Emeritus, Golden Thread Productions/Founding Board Member, MENA Theater Makers Alliance)
+
+
 **Speakers:** Raffi Wartanian (poet & performer), Ojig Yeretsian (community builder), SEVAN SEVAN (playwright & performer), Nancy Agabian (author) 
+
+
 **Duration:** 60 minutes 
 
 *Session #7*
