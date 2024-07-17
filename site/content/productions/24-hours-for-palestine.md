@@ -21,7 +21,7 @@ lists:
       - itemstart: 2024-07-20T16:00:12.748Z
         itemend: 2024-07-21T16:00:12.761Z
         title: July 20-21, 2024
-        pre: A Moon Will Rise From Darkness
+        pre: "24 Hours for Palestine: A Moon Will Rise From Darkness"
         text: For the full schedule, please click
           [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/).
         image: https://ucarecdn.com/3c9fa783-a899-4a4d-8f75-68aedcb9c559/
