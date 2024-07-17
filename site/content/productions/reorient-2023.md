@@ -144,7 +144,7 @@ lists:
 
 
           **For more information, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).**
-        cta: "Registration link coming soon. "
+        cta: ""
         pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
         image: https://ucarecdn.com/bb349850-e9de-4ab4-8363-b241e00a6e7a/
 grids: []
