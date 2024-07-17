@@ -302,21 +302,21 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Speakers:** Marisa Carr (Playwright, Actor), Princess Daazhraii Johnson (Actor, Writer, Director, Producer), Ryan Victor Pierce ("Opalanietet," Actor, Educator, founder of Eagle Projects)
 
-**Duration:** 60 
+**Duration:** 60 minutes
 
 * *Session #21*
 
 **8:30 AM Pacific | 11:30 AM Eastern | 6:30 PM Palestine**
 
-**Title: BDS: Call to Action**
+**Title: Boycott, Divestment, and Sanctions: A Call to Action**
 
-**Description: TBD**
+**Description:** This session will discuss the importance of Boycotting, Divesting, and Sanctioning (BDS) Israel as a means of exerting pressure. We will explore what BDS entails in practical terms, including its goals, methods, and the impact it seeks to achieve. Join us for an in-depth examination of how BDS serves as a non-violent strategy to support Palestinian rights and promote justice.
 
 **Moderator:** Mei Shigenobu (Journalist, Producer, Researcher) 
 
-**Speakers:** TBD
+**Speakers:** Mustafa Barghouti (Palestinian physician, activist, and politician), Nadya Tannous (General Coordinator of the Palestinian Youth Movement), and Khalid (student)
 
-**Duration:** 90 
+**Duration:** 90 minutes
 
 * *Session #22*
 
@@ -324,8 +324,8 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Title: Letters to Gaza by Ashtar Theater**
 
-**Description: TBD**
+**Description:** This closing session of the 24 Hours for Palestine will feature members of ASHTAR Theatre’s community in Ramallah, as they come together to read a collection of messages received from the global community in response to ASHTAR’s campaign, "Letter to Gaza." Letters to Gaza is a continuation of ASHTAR's Gaza Monologues call that received responses from more than 400 institutions and groups across 60 countries, reaching thousands of audience members. These letters, filled with solidarity and hope, reflect the international outcry against the genocide in Gaza and the unwavering human spirit that connects us all.
 
-**Speakers:** TBD
+**Speakers:** Iman Aoun
 
-**Duration:** 45
+**Duration:** 45 minutes
