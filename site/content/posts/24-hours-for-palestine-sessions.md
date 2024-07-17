@@ -194,79 +194,189 @@ Description: This session will present the work that The Freedom Theatre continu
 ### Sunday, July 21, 2024
 
 *Session #13*
-**12:00 AM Pacific | 3:00 AM Eastern | 10:00 AM Palestine 
-Title: Feminism & Palestine: How Our Liberation is Mutual, Collective & Intertwined**
+
+
+**12:00 AM Pacific | 3:00 AM Eastern | 10:00 AM Palestine** 
+
+
+**Title: Feminism & Palestine: How Our Liberation is Mutual, Collective & Intertwined**
+
+
 **Description:** A discussion with regional feminist activists on political feminism, colonization & the patriarchy and how they intersect with the Palestinian struggle
+
+
 **Moderator:** Nadia Ahmad 
+
+
 **Speakers:** Hayat Mirshad, Farah Deibes, Rula Jebreal
+
+
 **Duration:** 60 minutes 
 
 *Session #14*
-**1:00 AM Pacific | 4:00 AM Eastern | 11:00 AM Palestine 
-Title: Palestine Censored; an international Siege on Art & Culture**
+
+
+**1:00 AM Pacific | 4:00 AM Eastern | 11:00 AM Palestine** 
+
+
+**Title: Palestine Censored; an international Siege on Art & Culture**
+
+
 **Description:** Censorship can be bold and visible. It can also be subtle and sly. In all cases, suppressing words, ideas, and images reflects the lack of confidence of a society in itself. The recent Israeli war on Gaza, West Bank, East Jerusalem, and Lebanon activated censorship in several countries including European countries and the United States of America, which had proclaimed themselves as defenders and proponents of freedoms, specifically freedom of expression. Artists, scholars, academics, journalists, students, employees are constantly being canceled, silenced, or challenged whenever they directly or indirectly reference Palestine or the current atrocities unfolding before our eyes in Palestine and Lebanon. This conversation brings together Lebanese artists who have witnessed or have had to deal with censorship or attempts of censorship since October 7th, 2024, to reflect on their experiences, the different faces and forms of censorship today, and how to handle it to protect and to practice freedom of expression across borders.
 Moderator: Mohamad Hamdan, Theatre Maker, Trainer in Nonviolent Communication, Zoukak Theatre Collective
+
+
 **Speakers:** Hanane Haj Ali (Theatremaker, Activist, Researcher), Joseph Junior Sfeir (Musician, Frequent Defect Collective), Junaid Sarieddine (Theatre actor, director, dramaturge, Zoukak Theatre Collective) and Randa Mirza (Visual Artist).
+
+
 **Duration:** 90 minutes 
 
 *Session #15*
-**2:30 AM Pacific | 5:30 AM Eastern | 12:30 PM Palestine 
-Title: A conversation with Palestinian Journalists
-Description:
-Moderator:** Vera Sejrawi
+
+
+**2:30 AM Pacific | 5:30 AM Eastern | 12:30 PM Palestine** 
+
+
+**Title: A conversation with Palestinian Journalists**
+
+
+**Description:**
+
+
+**Moderator:** Vera Sejrawi
 Journalists: Jamileh Tawfiq, Shuruk Asad
+
+
 **Duration:** 60 minutes 
 
 *Session #16*
-**3:30 AM Pacific | 6:30 AM Eastern | 1:30 PM Palestine 
-Title: A Roundtable with Palestinian Artists in the US
-Description:** A roundtable exchange between interdisciplinary Palestinian creatives throughout the diaspora sharing what it means to make art in the United States.
+
+
+**3:30 AM Pacific | 6:30 AM Eastern | 1:30 PM Palestine** 
+
+
+**Title: A Roundtable with Palestinian Artists in the US**
+
+
+**Description:** A roundtable exchange between interdisciplinary Palestinian creatives throughout the diaspora sharing what it means to make art in the United States.
 Moderator: Alyssa Haddad-Chin (Playwright, educator, arts administrator) and Adam M. Kassim (Director and Arts Administrator),
+
+
 **Speakers:** Waseem Alzer (Actor and Writer), Haneen Arafat Murphy (Actor),  Jon Akkawi (Filmmaker and Producer), and Grace Canahuati (Actor and Comedian). 
+
+
 **Duration:** 60 minutes 
 
 *Session #17*
-**4:30 AM Pacific | 7:30 AM Eastern | 2:30 PM Palestine 
-Title: Reading Excerpts from Dalia Taha's Fireworks
-Description:** In a small act of solidarity, students from the AUK Theatre Honor Society (APO) are reading excerpts of Fireworks, a 2015 play, by the Palestinian writer Dalia Taha. Fireworks follows two families living in an abandoned building in a Palestinian town. The Guardian review of the play reads: “This is a compelling example of the power of theater to transport us deep into the human reality of a conflict from which, packaged on our television screens, it is far too easy to turn our minds.” The reading will be followed by a discussion.
+
+
+**4:30 AM Pacific | 7:30 AM Eastern | 2:30 PM Palestine** 
+
+
+**Title: Reading Excerpts from Dalia Taha's Fireworks**
+
+
+**Description:** In a small act of solidarity, students from the AUK Theatre Honor Society (APO) are reading excerpts of Fireworks, a 2015 play, by the Palestinian writer Dalia Taha. Fireworks follows two families living in an abandoned building in a Palestinian town. The Guardian review of the play reads: “This is a compelling example of the power of theater to transport us deep into the human reality of a conflict from which, packaged on our television screens, it is far too easy to turn our minds.” The reading will be followed by a discussion.
+
+
 **Moderator:** Q-mars Haeri, Lecturer of Theatre and Drama - American University of Kuwait
+
+
 **Actors:** Taiba Al-Husain, Khalifa Bunashi, Sami Fouad Abou Saleh, Nimra Riaz, Nusaybah Al-Menaii, Farah abu Alrub, Mariam Hassan, Farida Amr Hassan, and Seifalla Elgamal.
+
+
 **Duration:** 60 minutes 
 
 *Session #18*
-**5:30 AM Pacific | 8:30 AM Eastern | 3:30 PM Palestine
-Title: Letters from Palestine & Loved Ones: Excerpts from Zoom Productions
-Description:** During the height of COVID, Dunya Productions compiled testimonials from people in Palestine and weaved them into two verbatim theatre pieces that were performed by the company on Zoom. Adapted and directed by Hanna Eady and Ed Mast.
+
+
+**5:30 AM Pacific | 8:30 AM Eastern | 3:30 PM Palestine**
+
+
+**Title: Letters from Palestine & Loved Ones: Excerpts from Zoom Productions**
+
+
+**Description:** During the height of COVID, Dunya Productions compiled testimonials from people in Palestine and weaved them into two verbatim theatre pieces that were performed by the company on Zoom. Adapted and directed by Hanna Eady and Ed Mast.
+
+
 **Performers:** Manal Alsharif-Hanna, Hanna Eady, Jenna Eady, Jen Marlowe, Edward Mast, Nabra Nelson, Annette Toutonghi, Jenna Eady, Juju Alhader, Meg Savlov, Lia Fakhouri, Alyza DelPan-Monley, Annette Toutonghi, Hanna Eady, and Jenna Eady, with Camella Cooper.
+
+
 **Duration:** 60 minutes 
 
 *Session #19*
-**6:30 AM Pacific | 9:30 AM Eastern | 4:30 PM Palestine
-Title: Jewish-SWANA Palestine organizers 
-Description:
-Moderator:
-Speakers
-Duration:** 60 
+
+
+**6:30 AM Pacific | 9:30 AM Eastern | 4:30 PM Palestine**
+
+
+**Title: Jewish-SWANA Palestine organizers** 
+
+
+**Description:**
+
+
+**Moderator:**
+
+
+**Speakers**
+
+
+**Duration:** 60 
 
 *Session #20*
-**7:30 AM Pacific | 10:30 AM Eastern | 5:30 PM Palestine
-Title: From Birch & Cedar to Olive Trees: Native Artists in Solidarity
-Description:** This session is a Native American-led conversation in solidarity with the Palestinian people, about lineages of displacement, and tending and caring for ancestral homelands. It will explore the intersections of indigeneity, the genocide happening right now in Gaza and parallels with Native history in the U.S., and share examples of Palestinian and Native American collaboration.
+
+
+**7:30 AM Pacific | 10:30 AM Eastern | 5:30 PM Palestine**
+
+
+**Title: From Birch & Cedar to Olive Trees: Native Artists in Solidarity**
+
+
+**Description:** This session is a Native American-led conversation in solidarity with the Palestinian people, about lineages of displacement, and tending and caring for ancestral homelands. It will explore the intersections of indigeneity, the genocide happening right now in Gaza and parallels with Native history in the U.S., and share examples of Palestinian and Native American collaboration.
+
+
 **Moderator:** DeLanna Studi (Director, Actor, Artistic Director of Native Voices at the Autry)
+
+
 **Speakers:** Marisa Carr (Playwright, Actor), Princess Daazhraii Johnson (Actor, Writer, Director, Producer), Ryan Victor Pierce ("Opalanietet," Actor, Educator, founder of Eagle Projects)
+
+
 **Duration:** 60 
 
 *Session #21*
-**8:30 AM Pacific | 11:30 AM Eastern | 6:30 PM Palestine
-Title: BDS: Call to Action
-Description:
-Moderator:** Mei Shigenobu (Journalist, Producer, Researcher) 
-**Speakers: 
-Duration:** 90 
+
+
+**8:30 AM Pacific | 11:30 AM Eastern | 6:30 PM Palestine**
+
+
+**Title: BDS: Call to Action**
+
+
+**Description:**
+
+
+**Moderator:** Mei Shigenobu (Journalist, Producer, Researcher) 
+
+
+**Speakers:** 
+
+
+**Duration:** 90 
 
 *Session #22*
-**10:00 AM Pacific |1:00 PM Eastern | 8:00 PM Palestine
-Title: Letters to Gaza by Ashtar Theater
-Description:
-Speakers: 
-Duration:** 45
+
+
+**10:00 AM Pacific |1:00 PM Eastern | 8:00 PM Palestine**
+
+
+**Title: Letters to Gaza by Ashtar Theater**
+
+
+**Description:**
+
+
+**Speakers:** 
+
+
+**Duration:** 45
