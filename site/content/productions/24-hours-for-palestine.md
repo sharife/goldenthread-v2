@@ -59,4 +59,4 @@ Start time:
 
 1:00 PM Eastern 
 
-Live on [www.howlround.com](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)
+No registration required. Live stream on [www.howlround.com](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)
