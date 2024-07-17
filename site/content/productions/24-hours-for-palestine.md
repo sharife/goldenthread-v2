@@ -23,8 +23,12 @@ lists:
         itemend: 2024-07-21T16:00:12.761Z
         title: July 20-21, 2024
         pre: "24 Hours for Palestine: A Moon Will Rise From Darkness"
-        text: For the full schedule, please click
-          [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/).
+        text: >-
+          For the full schedule, please click
+          [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/). 
+
+
+          "Despite our efforts this year with the [Season for Palestine](https://goldenthread.org/season/), we continue to feel that what we are doing is not enough in the face of what's happening to our people,” states Executive Artistic Director [Sahar Assaf](https://goldenthread.org/about/people/#open-modal-Sahar%20Assaf). “We are adding this extra program—**24 Hours for Palestine: A Moon Will Rise From Darkness**—to our season to further mobilize and encourage artists to use their platforms to speak out against genocide and colonization. It is bewildering how many artists, especially in the U.S., remain silent despite the fact that the U.S. is actively complicit in this atrocity."
         image: https://ucarecdn.com/3c9fa783-a899-4a4d-8f75-68aedcb9c559/
 bottom:
   logos:
