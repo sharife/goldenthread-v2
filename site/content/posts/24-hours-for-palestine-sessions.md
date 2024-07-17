@@ -215,7 +215,6 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Description:** Censorship can be bold and visible. It can also be subtle and sly. In all cases, suppressing words, ideas, and images reflects the lack of confidence of a society in itself. The recent Israeli war on Gaza, West Bank, East Jerusalem, and Lebanon activated censorship in several countries including European countries and the United States of America, which had proclaimed themselves as defenders and proponents of freedoms, specifically freedom of expression. Artists, scholars, academics, journalists, students, employees are constantly being canceled, silenced, or challenged whenever they directly or indirectly reference Palestine or the current atrocities unfolding before our eyes in Palestine and Lebanon. This conversation brings together Lebanese artists who have witnessed or have had to deal with censorship or attempts of censorship since October 7th, 2024, to reflect on their experiences, the different faces and forms of censorship today, and how to handle it to protect and to practice freedom of expression across borders.
 
-
 **Moderator:** Mohamad Hamdan, Theatre Maker, Trainer in Nonviolent Communication, Zoukak Theatre Collective
 
 **Speakers:** Hanane Haj Ali (Theatremaker, Activist, Researcher), Joseph Junior Sfeir (Musician, Frequent Defect Collective), Junaid Sarieddine (Theatre actor, director, dramaturge, Zoukak Theatre Collective) and Randa Mirza (Visual Artist).
@@ -243,8 +242,7 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Description:** A roundtable exchange between interdisciplinary Palestinian creatives throughout the diaspora sharing what it means to make art in the United States.
 
-
-Moderator: Alyssa Haddad-Chin (Playwright, educator, arts administrator) and Adam M. Kassim (Director and Arts Administrator),
+**Moderator:** Alyssa Haddad-Chin (Playwright, educator, arts administrator) and Adam M. Kassim (Director and Arts Administrator),
 
 **Speakers:** Waseem Alzer (Actor and Writer), Haneen Arafat Murphy (Actor),  Jon Akkawi (Filmmaker and Producer), and Grace Canahuati (Actor and Comedian). 
 
@@ -256,7 +254,7 @@ Moderator: Alyssa Haddad-Chin (Playwright, educator, arts administrator) and Ada
 
 **Title: Reading Excerpts from Dalia Taha's Fireworks**
 
-**Description:** In a small act of solidarity, students from the AUK Theatre Honor Society (APO) are reading excerpts of Fireworks, a 2015 play, by the Palestinian writer Dalia Taha. Fireworks follows two families living in an abandoned building in a Palestinian town. The Guardian review of the play reads: “This is a compelling example of the power of theater to transport us deep into the human reality of a conflict from which, packaged on our television screens, it is far too easy to turn our minds.” The reading will be followed by a discussion.
+**Description:** In a small act of solidarity, students from the AUK Theatre Honor Society (APO) are reading excerpts of *Fireworks*, a 2015 play, by the Palestinian writer Dalia Taha. *Fireworks* follows two families living in an abandoned building in a Palestinian town. The Guardian review of the play reads: “This is a compelling example of the power of theater to transport us deep into the human reality of a conflict from which, packaged on our television screens, it is far too easy to turn our minds.” The reading will be followed by a discussion.
 
 **Moderator:** Q-mars Haeri, Lecturer of Theatre and Drama - American University of Kuwait
 
