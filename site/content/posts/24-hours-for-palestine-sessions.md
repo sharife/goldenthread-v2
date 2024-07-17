@@ -33,7 +33,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Moderator:** Gary M. English (Former Artistic Staff, The Freedom Theatre; Distinguished Professor of Drama, UConn; Visiting Professor Al Quds University, Palestine).
 
-**Speakers:** Ahmad Tobasi, Alaa Shehada, and Ranin Odeh 
+**Speakers:** Ahmad Tobasi (Artistic Director), Alaa Shehada (Actor), and Ranin Odeh and students Chantel Rizkalla, Aya Samara and Naqaa Sammor 
 
 **Duration:** 80 minutes 
 
@@ -57,13 +57,13 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Title: Gaza Now: Witnessing the Witnesses**
 
-**Description:** A reading of found testimonies and words by witnesses and survivors of the Israeli genocidal campaign in Gaza, Palestine which started on October 7 and is still ongoing. The reading will be followed by a conversation with Youmna El Sayed, a journalist and a correspondent for Al Jazeera English based in Gaza Strip. 
+**Description:** A reading of found testimonies and words by witnesses and survivors of the Israeli genocidal campaign in Gaza, Palestine which started on October 7 and is still ongoing. The reading will be followed by a conversation with Youmna El Sayed, a journalist and a correspondent for Al Jazeera English, and Mosab Abu Toha, a Palestinian poet, scholar, and librarian, both from the Gaza Strip. 
 
 **Presenter:** Sahar Assaf (Executive Artistic Director of Golden Thread Productions) 
 
 **Actors:** Nora el Samahy, Hadi Tabbal, Maya Nazzal, Hiba Sleiman 
 
-**Speaker:** Youmna El Sayed (Journalist)
+**Speaker:** Youmna El Sayed (Journalist) and Mosab Abu Toha (Poet)
 
 **Duration:** 60 minutes 
 
@@ -87,7 +87,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Title: Creating free Palestine through song, dance, and stories from the diaspora**
 
-**Description:** Exploring the work of Fouad Dakwar, and will share a selection of songs from his piece FOUAD OF NAZARETH and/or to curate a panel/performance that is music for Palestinian liberation. Explore the work of electro-dabke band 47 Soul in activating the diaspora through song and dance. 
+**Description:** Exploring the work of artists including electro-dabke band 47Soul, musical theatre writer Fouad Dakwar, songwriter Naima Shalhoub, and more, we will discuss the role of these artists in activating the diaspora through song and dance. 
 
 **Moderator:** J.J. El-Far (Independent Creative Producer) and Kate Moore Heaney (Arts Manager)
 
@@ -131,9 +131,9 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Description:** Internationally acclaimed poets from Palestine, Lebanon, and the diaspora in the United States come together for a special reading of their poetry, which has for decades uplifted the stories, voices, resilience, beauty, and resistance of the Palestinian people. Poetry for Palestine illuminates the soul of a people, tells the truths of lived experience, and celebrates the rising global movement toward liberation, even in these darkest hours. (Title inspired by Mahmoud Darwish.)
 
-**Moderator:** Andrea Assaf 
+**Moderator:** Andrea Assaf (Artistic / Executive Director, Art2Action)
 
-**Poets:** Naomi Shihab Nye, Suheir Hammad, Deema Shehabi, and Zeina Hashem Beck
+**Poets:** Naomi Shihab Nye, Suheir Hammad, Deema Shehabi, Mosab Abou Toha, and Zeina Hashem Beck
 
 **Duration:** 90 minutes 
 
@@ -147,7 +147,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Director/Moderator:** Torange Yeghiazarian (Playwright, Director)
 
-**Speakers:** Sholeh Asgary (Interdisciplinary artist, electroacoustic composer, performer, and educator.), Roberto Varea, Heather Raffo (Playwright and Actor) and Yussef El Guindi (Playwright)
+**Speakers:** Sholeh Asgary (Interdisciplinary artist, electroacoustic composer, performer, and educator.), Roberto Varea (Founding Faculty, Performing Arts and Social Justice Program, University of San Francisco), Heather Raffo (Playwright and Actor), and Yussef El Guindi (Playwright)
 
 **Duration:** 60 minutes 
 
@@ -158,6 +158,8 @@ Description: This session will present the work that The Freedom Theatre continu
 **Title: Palestinian Art & Queer Resistance**
 
 **Description:** A walk-through history of Palestinian queer resistance until present time. How we continue challenging the empire through Palestinian queer expression. 
+
+**Moderator:** Nida Liftawiya, Palestinian Activist, Artist & Educator
 
 **Presenter:** Mama Ganuush, Drag Artist & Activist
 
@@ -185,7 +187,7 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Description:** Los Angeles based artists in the entertainment industry talk about the challenges of advocating for Palestine in an incredibly Zionist environment.
 
-**Moderator:** Edward Hong, Actor + Watermelon Club Member
+**Moderator:** Edward Hong (Actor + Watermelon Club Member)
 
 **Speakers:** Rolla Selbak (Filmmaker), Myriam Ali-Ahmad (Actor), Sarah Alami (Actor)
 
@@ -201,9 +203,9 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Description:** A discussion with regional feminist activists on political feminism, colonization & the patriarchy and how they intersect with the Palestinian struggle
 
-**Moderator:** Nadia Ahmad 
+**Moderator:** Nadia Ahmad (Activist and Managing Director of LOYAC Lebanon
 
-**Speakers:** Hayat Mirshad, Farah Deibes, Rula Jebreal
+**Speakers:** Hayat Mirshad (Feminist Activist, Executive Director of FEMALE and Editor in Chief, Sharika Wa Laken), Farah Deibes (Feminist Activist and Senior Program Manager, Political Feminism (MENA), Rula Jebreal (Journalist, Author)
 
 **Duration:** 60 minutes 
 
@@ -227,9 +229,9 @@ Description: This session will present the work that The Freedom Theatre continu
 
 **Title: A conversation with Palestinian Journalists**
 
-**Description:**
+**Description:** This session offers a discussion of the challenges and responsibilities of being a Palestinian journalist today and the importance of unbiased reporting. The discussion will highlight the barriers to reporting in Palestine and the impact of restricted access on global awareness and understanding of the genocide in Gaza.
 
-**Moderator:** Vera Sejrawi
+**Moderator:** Vera Sejrawi (Journalist)
 Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Duration:** 60 minutes 
@@ -258,7 +260,7 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Moderator:** Q-mars Haeri, Lecturer of Theatre and Drama - American University of Kuwait
 
-**Actors:** Taiba Al-Husain, Khalifa Bunashi, Sami Fouad Abou Saleh, Nimra Riaz, Nusaybah Al-Menaii, Farah abu Alrub, Mariam Hassan, Farida Amr Hassan, and Seifalla Elgamal.
+**Student Actors:** Taiba Al-Husain, Khalifa Bunashi, Sami Fouad Abou Saleh, Nimra Riaz, Nusaybah Al-Menaii, Farah abu Alrub, Mariam Hassan, Farida Amr Hassan, and Seifalla Elgamal.
 
 **Duration:** 60 minutes 
 
@@ -270,7 +272,7 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Description:** During the height of COVID, Dunya Productions compiled testimonials from people in Palestine and weaved them into two verbatim theatre pieces that were performed by the company on Zoom. Adapted and directed by Hanna Eady and Ed Mast.
 
-**Performers:** Manal Alsharif-Hanna, Hanna Eady, Jenna Eady, Jen Marlowe, Edward Mast, Nabra Nelson, Annette Toutonghi, Jenna Eady, Juju Alhader, Meg Savlov, Lia Fakhouri, Alyza DelPan-Monley, Annette Toutonghi, Hanna Eady, and Jenna Eady, with Camella Cooper.
+**Performers:** Manal Alsharif-Hanna, Hanna Eady, Jenna Eady, Jen Marlowe, Edward Mast, Nabra Nelson, Annette Toutonghi, Juju Alhader, Meg Savlov, Lia Fakhouri, Alyza DelPan-Monley, with Camella Cooper.
 
 **Duration:** 60 minutes 
 
@@ -278,15 +280,15 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **6:30 AM Pacific | 9:30 AM Eastern | 4:30 PM Palestine**
 
-**Title: Jewish-SWANA Palestine organizers** 
+**Title: Arab Jewish and Sephardi Artists for a Free Palestine** 
 
-**Description: TBD**
+**Description:** We are a motley crew of Sephardi, Arab Jewish and J-SWANA arts + culture workers organizing for a Free Palestine. Some of us organize with JVP, others of us organize in our local communities and arts organizations and beyond. Our Jewish tradition teaches: justice, justice, you shall pursue it; and, to save one life is to save a world. Creation stories from across the Levant teach that the world was spoken into being. We are convening to show up as vocal manifestations of the intersection of Jewish, Arab, Sephardi and SWANA identities to demonstrate our active presence as partners and allies towards a Free Palestine.
 
-**Moderator: TBD**
+**Moderator:** Sivan Battat (Director, NYC) and Arielle Tonkin (interdisciplinary artist, SF Bay Area)
 
-**Speakers: TBD**
+**Speakers:** Danny Bryck (Playwright and Actor), Coral Cohen (Director, NYC), Lena Sibony (Actor, SF Bay Area) with contributions from Mazal Etedji (drama therapist, mizrahi herbalist, Philadelphia) and Shirly Bahar (author, Documentary Cinema in Israel-Palestine: Performance, the Body, the Home)
 
-**Duration:** 60 
+**Duration:** 60 minutes
 
 * *Session #20*
 
