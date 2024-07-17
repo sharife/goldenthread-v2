@@ -15,6 +15,15 @@ description: >-
   (Title inspired by Palestinian poet Mahmoud Darwish)
 titleimage: https://ucarecdn.com/c0c599dd-b38a-4f87-83b4-f3df64bed1e2/
 stage: HowlRound TV
+lists:
+  - heading: Sessions Schedule
+    items:
+      - itemstart: 2024-07-17T01:24:12.748Z
+        itemend: 2024-07-17T01:24:12.761Z
+        title: July 20-21, 2024
+        pre: A Moon Will Rise From Darkness
+        text: For the full schedule, please click
+          [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/).
 bottom:
   logos:
     - image: https://ucarecdn.com/f9354bfc-8707-4446-abe1-1d6cf287d479/
