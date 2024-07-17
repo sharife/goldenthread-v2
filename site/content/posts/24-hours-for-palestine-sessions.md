@@ -214,7 +214,9 @@ Description: This session will present the work that The Freedom Theatre continu
 **Title: Palestine Censored; an international Siege on Art & Culture**
 
 **Description:** Censorship can be bold and visible. It can also be subtle and sly. In all cases, suppressing words, ideas, and images reflects the lack of confidence of a society in itself. The recent Israeli war on Gaza, West Bank, East Jerusalem, and Lebanon activated censorship in several countries including European countries and the United States of America, which had proclaimed themselves as defenders and proponents of freedoms, specifically freedom of expression. Artists, scholars, academics, journalists, students, employees are constantly being canceled, silenced, or challenged whenever they directly or indirectly reference Palestine or the current atrocities unfolding before our eyes in Palestine and Lebanon. This conversation brings together Lebanese artists who have witnessed or have had to deal with censorship or attempts of censorship since October 7th, 2024, to reflect on their experiences, the different faces and forms of censorship today, and how to handle it to protect and to practice freedom of expression across borders.
-Moderator: Mohamad Hamdan, Theatre Maker, Trainer in Nonviolent Communication, Zoukak Theatre Collective
+
+
+**Moderator:** Mohamad Hamdan, Theatre Maker, Trainer in Nonviolent Communication, Zoukak Theatre Collective
 
 **Speakers:** Hanane Haj Ali (Theatremaker, Activist, Researcher), Joseph Junior Sfeir (Musician, Frequent Defect Collective), Junaid Sarieddine (Theatre actor, director, dramaturge, Zoukak Theatre Collective) and Randa Mirza (Visual Artist).
 
@@ -240,6 +242,8 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 **Title: A Roundtable with Palestinian Artists in the US**
 
 **Description:** A roundtable exchange between interdisciplinary Palestinian creatives throughout the diaspora sharing what it means to make art in the United States.
+
+
 Moderator: Alyssa Haddad-Chin (Playwright, educator, arts administrator) and Adam M. Kassim (Director and Arts Administrator),
 
 **Speakers:** Waseem Alzer (Actor and Writer), Haneen Arafat Murphy (Actor),  Jon Akkawi (Filmmaker and Producer), and Grace Canahuati (Actor and Comedian). 
