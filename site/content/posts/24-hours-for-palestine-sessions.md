@@ -280,11 +280,11 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Title: Jewish-SWANA Palestine organizers** 
 
-**Description:**
+**Description: TBD**
 
-**Moderator:**
+**Moderator: TBD**
 
-**Speakers**
+**Speakers: TBD**
 
 **Duration:** 60 
 
@@ -308,11 +308,11 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Title: BDS: Call to Action**
 
-**Description:**
+**Description: TBD**
 
 **Moderator:** Mei Shigenobu (Journalist, Producer, Researcher) 
 
-**Speakers:** 
+**Speakers:** TBD
 
 **Duration:** 90 
 
@@ -322,8 +322,8 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Title: Letters to Gaza by Ashtar Theater**
 
-**Description:**
+**Description: TBD**
 
-**Speakers:** 
+**Speakers:** TBD
 
 **Duration:** 45
