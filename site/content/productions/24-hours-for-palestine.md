@@ -15,6 +15,17 @@ description: >-
   (Title inspired by Palestinian poet Mahmoud Darwish)
 titleimage: https://ucarecdn.com/c0c599dd-b38a-4f87-83b4-f3df64bed1e2/
 stage: HowlRound TV
+ticketinfo: FREE
+lists:
+  - heading: Sessions Schedule
+    items:
+      - itemstart: 2024-07-20T16:00:12.748Z
+        itemend: 2024-07-21T16:00:12.761Z
+        title: July 20-21, 2024
+        pre: "24 Hours for Palestine: A Moon Will Rise From Darkness"
+        text: For the full schedule, please click
+          [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/).
+        image: https://ucarecdn.com/3c9fa783-a899-4a4d-8f75-68aedcb9c559/
 bottom:
   logos:
     - image: https://ucarecdn.com/f9354bfc-8707-4446-abe1-1d6cf287d479/
@@ -48,4 +59,4 @@ Start time:
 
 1:00 PM Eastern 
 
-Live on [www.howlround.com](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)
+No registration required. Live stream on [www.howlround.com](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)
