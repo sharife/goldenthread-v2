@@ -284,9 +284,9 @@ Journalists: Jamileh Tawfiq, Shuruk Asad
 
 **Description:** We are a motley crew of Sephardi, Arab Jewish and J-SWANA arts + culture workers organizing for a Free Palestine. Some of us organize with JVP, others of us organize in our local communities and arts organizations and beyond. Our Jewish tradition teaches: justice, justice, you shall pursue it; and, to save one life is to save a world. Creation stories from across the Levant teach that the world was spoken into being. We are convening to show up as vocal manifestations of the intersection of Jewish, Arab, Sephardi and SWANA identities to demonstrate our active presence as partners and allies towards a Free Palestine.
 
-**Moderator:** Sivan Battat (Director, NYC) and Arielle Tonkin (interdisciplinary artist, SF Bay Area)
+**Moderator:** Arielle Tonkin (interdisciplinary artist, SF Bay Area)
 
-**Speakers:** Danny Bryck (Playwright and Actor), Coral Cohen (Director, NYC), Lena Sibony (Actor, SF Bay Area) with contributions from Mazal Etedji (drama therapist, mizrahi herbalist, Philadelphia) and Shirly Bahar (author, Documentary Cinema in Israel-Palestine: Performance, the Body, the Home)
+**Speakers:** Danny Bryck (Playwright and Actor), Sivan Battat (Director, NYC), Coral Cohen (Director, NYC), Lena Sibony (Actor, SF Bay Area) with contributions from Mazal Etedji (drama therapist, mizrahi herbalist, Philadelphia) and Shirly Bahar (author, Documentary Cinema in Israel-Palestine: Performance, the Body, the Home)
 
 **Duration:** 60 minutes
 
