@@ -2,126 +2,115 @@
 title: Donors
 intro: We are privileged to recognize the generous individuals and institutions
   that support our mission and make our programming possible. (Combined gifts
-  from 03/01/2022 through 08/31/2023)
+  from 01/01/2024 through 07/18/2024)
 sidebar:
   text: |-
-    **Thank you to these corporations for their Matching Gift programs:**
-
-    Amazon\
-    Chevron\
-    Genentech\
-    Google\
-    San Francisco State University Center for Iranian Diaspora Studies\
-    Women Arts\
-    Working Solutions CDFI\
-    Xperi  
-
     **Thank you to the following for their In-Kind support:**
 
-    May Allam\
-    Humaira Ghilzai\
-    Pam Hommeyer\
-    Murrey E. Nelson\
-    Helen, Wayne & Alex Nowak
+    Linda Chang & Emin Maltepe
 ---
 ## **LEADERSHIP CIRCLE**
 
-**Golden Sponsor ($250,000 & Above)**
+**Golden Sponsor ($100,000 & Above)**
 
-Doris Duke Charitable Foundation
+San Francisco Arts Commission
 
 William and Flora Hewlett Foundation
 
 **Season Sponsor ($50,000 to $99,000)**
 
-Gerbode Foundation
-
-National Endowment for the Arts
-
-Sam Mazza Foundation
-
-San Francisco Arts Commission
-
 San Francisco Grants for the Arts
-
-The State of California
-
-Theatre Communications Group
 
 **Lead Sponsor ($25,000 to $49,000)**
 
-Shubert Foundation
+Sam Mazza Foundation
+
+Walter & Elise Haas Fund
 
 ## **PRODUCER CIRCLE**
 
 **Season Producer ($10,000 to $24,999)**
 
-John Atwood & Sofia Ahmad
-
-Bob Miller & Judith Wilber
-
-Theatre Bay Area
+Theater League of Kansas City
 
 Zellerbach Family Foundation
 
 **Executive Producer ($5,000 to $9,999)**
 
-Nora el Samahy & Patrick Kaliski
+Sofia Ahmad & John Atwood
 
-Fleishhacker Foundation
-
-Rita Hovakimian & Robert Weinberg
-
-Merrill Family Charitable Foundation, Inc.
-
-Murrey E. Nelson
+Bob Miller & Judy Wilber
 
 **Lead Producer ($2,500 to $4,999)**
 
-May Allam
+Rita Hovakimian & Robert Weinberg
 
-Suzanne and Abbas El Gamal
+Murrey E. Nelson
 
-Harbor Point Charitable Foundation
+Rainbow Grocery
 
 **Associate Producer ($1,000 to $2,499)**
 
-Sahar Assaf
+Anonymous
 
-Tom Bell & Nina Ghandi
-
-Linda Chang & Emin Maltepe
+May Allam
 
 Nancy Chemaly
 
-Liana and Dan Crosby
+Dina Ezzeddine
 
 Hassan Fouda
 
-Amy Merrill
+Lena LaVine
+
+Mona Masri
 
 Duraid Musleh
 
-Gabrielle & Jalal Saad
+Jumana Muwafi
 
-Babak Sani
+NorCal Sabeel
+
+Ziad Saba
+
+WomenArts
+
+Sophie Ziegler & Jonathan Schwartz
 
 **$500 to $999**
 
-Anonymous x5, Amer & Anna Budayr, Humaira Ghilzai, Alexa Hauser in memory of Terry Lamb, Jeanette Harrison in memory of Termeh Yeghiazarian, Nabil Hissen, Raymond Kaliski & Carla Daro, Mona Masri on behalf of Ibtisam Masri, Jumana Muwafi, Tarik Muwafi, Rebecca Novick, Evren Odcikin & Jack King Choi, John O'Farrell, Sara Razavi & Jillian Goldstein, J. Reed, Christine Safavi, Matthew Spangler, Wallace Foundation, Torange Yeghiazarian			
+Deni Chambers
+
+Amelia Gonzalez
+
+Denmo Ibrahim
+
+Raymond Kaliski & Carla Daro in honor of Nora El Samahy
+
+Gabrielle & Jalal Saad			
 
 **$250 to $499**
 
-Anonymous, Iren Jenny Aslanian, Kathleen Atwood, Kate Boyd, Winnie Chu, Levon Der Bedrossian, Waeil Elbhassi, Shahnaz & Tim Graham, Terry Griffith & Lila Shadloo, Ramsey Hissen, Lila Lahood, Nabila Mango, Richard Nahass, Pamela Rupright, Ziad Saba, Armen Sedrakian & Ruth Alahydoian, Anonymous in honor of Lynne Soffer, Houda Soubra, Bibi Tiphane
+Kathleen Atwood
+
+Levon Der Bedrossian
+
+Christina Espinosa-Pieb
+
+Humaira Ghilzai & Jim Morris
+
+Sunita Jaffrey
+
+Tyler Miller
 
 **$100 to $249**
 
-Anonymous x3, Fatma Abdelhalim, Selma Abinader, Zahwa Amad, Katrin Arefy in honor of Artin Der Minassians, Sepideh Asgari, Amer Bata, Laura Baum, Jeff Becerra, Janelle Becerra in memory of Gloria Riordan, Radha Blackman, Darryl Carbonaro, Jeanette Cool, Ebby Dabiri & Romona Kavianian, Ed Decker, Artin Der Minassians, Rizvan Dhalla, Jaleh Doane, Gilles & Jill Eberhard, John Eisner, Jaleh Etemad, Kathy Foley, Anna Ghosh, Anne & Conn Hallinan, Judy Helfand, Paul Heller & Helen Goldsmith, Armineh Hovanesian in honor of Termeh Yeghiazarian, Deena Jamal, Ghada Jamil, Arzhang Kalbali, Mohammed & Leila Kashani-Sabet, Nazy Kaviani in memory of Termeh Yeghiazarian, Nida Khalil, Jamil Khoury, Suzanne Lampert, Elizabeth Macken, Farnia Maghsoudlou, George Maguire, Zahra Mahloudji & Michael Goldbach, Kenneth Mahru in memory of Wayne Gamble, Sami Masri, Stephen Melikian, Jessica Metoyer in honor of Murrey Nelson, Masood Mokhtary, Michelle Mulholland, Malek Najjar, Chris Nelson on behalf of Murrey Nelson, Kara Owens, Andoni Panici, Vicki Penny, Frances Phillips, Lawrence Radecker, Abeer Rafidi in memory of Shireen Abu Akleh, Kamini Ramani & Omar Khan, Bella Ramazannia, Donald Raphael, Candice Reimers, Karen Runk, David Rutan, Bothaina Salama, Steven Scher, David Sinaiko & Annie Elias, Basil Stamos on behalf of Nabil & Zeina Hissen, Allyson Washburn, Fariba Zolnasr
+Anonymous x3, Ruth Alahydoian & Armen Sedrakian, Basil Ayish, Valerie Barth, Jeff Becerra, Jack King Choi, Winnie Chu, JoAnn Consiglieri, Al Elhaj, Soluna Espinosa Pieb, Rima Fotoohi, Dina Hassanein, Haleh Hatami, Vinod Kurupath, Elizabeth Macken, Tamar & Ken Mahru in honor of Michelle Mulholland, Nadine Makki, Therese Mughannam-Walrath, Layal Nawfal, Andrew Phillips, Paula Rainey, John Ruskin, Patricia & William Thompson, Muneer Waheed, Mark Westerhout, Joanne Winship, Torange Yeghiazarian, Zeina Zayour
 
 **$99 & under**
 
-Anonymous x4, Soudy Abbasi, Sama Abu Ayyash, Lada Alexeenko, Adam Ashraf Elsayigh, James Atwood on behalf of John Atwood, Basil Ayish, Mehdi Banijamaly, Jeremy Barcan, Beau Beausoleil, Zeina Beck, Saied Behzad, Charles Belov, Ines Betancourt, Bill Cawley, Janis Chan, Melissa Chin-Parker, Loren Clift, Meghan Crosby-Jolliffe, Helen Davaran in memory of Dr. Ardavan Davaran, Michael (Terry) Davis, Suzette Davidson, Gail DeBellis, Carol Delton, Susan Detwiler, Barbara Deutsch, Suzanne Diers, Libby Dietrich, Sally Doane, Farahnas Doost, Fran Dreier, Elaine Eger, Sarah Estephan, Kevin Filocamo, Krystyna Finlayson, Jeanne Fitzpatrick, Marion Gedeon, Frog Gilmore, Linda Girón, Michaela Goldhaber, Behzad Golemohammadi, Margo Hall in memory of Martha Hall-Harris, Kim Harris, Anonymous in memory of Sarah Hegazi, Bryan Herndon, Fariha Hilaly, Arlene Hood, Frances Hopson, Anonymous in honor of Rita Hovakimian & Robert Weinberg, Sara Iverson, Wardah Jamil, Naseem Jamnia, Betsy Jasny, Lori Johnson, Shahrazad Junblat, Nada Kaissi, Onsi Kamel, Rami Khouri, Christopher Lack, Marilyn Langbehn, Heather Lanyi, Thomas Lumsden, Barbara Lyon, Eman Magzoub, Ruth Mankin, Pierre Emmanuel Mariaca, Alfie Massey, Michael McGinley, Marjan Moosavi in honor of Marziyeh Hosseinpour Hajjar, Brigid Morris, Noreen Morris on behalf of Humaira Ghilzai, Phoebe Elinor Moyer, David Mulholland, Debra Murov & Joseph Engelman, Laura Nabity, Deanna Naman, Vance Nesbitt, Joe Novak, Pat O'reilley, Andrew Page, Sonali Pahwa, Nisha Patel, Evelyn Jean Pine, Allan Pleaner, Anastacia Powers Cuellar, David Rachleff, Paula Rainey, Marwan Rammah, Virginia Reed, Abby Schrock, Katie Simpson, Regina Sneed, Dore Steinberg, Susan Terris, Colin Thomson, Ruby Unger, Anne Verga, Sarosh Waheed, Kim Waldron, May Welsh, Ana Williamson, Joanne Winter & Adrian Elfenbaum, Zêdan Xelef, Anonymous in honor of Torange Yeghiazarian, Lois Yuen, Sophie Ziegler, Salma Zohdi	
+Anonymous x7, Mitra Akhtari, Adel Ammar, Adam Ashraf Elsayigh, Heather Babbott, Andrea Baruch de la Pardo, Maria Bastias, Dabdoub Batbout, Anna Bigelow, Martha Bisharat, Meg Bowerman, Kate Boyd, Steven Burrke, Claudia Campos, Sheila Carrillo, Yolanda Catzaoco, Rosa Contreras, Ramsey Demeter, Armen & Nelly Der Kiureghian, Jackie Espinosa, Diana Fakhoury, Beth Frankland, Mama Ganuush, Cassandra Garcia, Michaela S. Goldhaber, Ali Goodley-Espinosa, Hollis Greenwood, Toni Guidry, Andrew Gutierrez, Margo Hall, Larry Hendel, Gina Hernandez, Armineh Hovanesian in honor of Termeh Yeghiazarian, John Jimenez, Mona Jones-Romansic, Nada Kaissi, Ramona Kavianian, Edith Khachatourian, Mahtaj Khamneian, Komal Khan, Norma Khayat, Kay Koh, Elaine Lai, Sandy & Terry Lillie, Kathleen Lussier-West, Marita Mayer, Christina Min, Patrick Oltraver, Alycia Peters, Henri Picciotto, Abeer Rafidi, Azad Rayyes in memory of Laila Rayyes, Sandra Ried, Nelson Rivera, Keiliki Rodriguez, David Rutan, Elizabeth Scott, Niku Sharei, Surveen Singh, Susan Stein, Lisa Tateosian, Mohamed Tawfik, Roberto Varea & Violeta Luna, Daniel Vrooman, Russell Ward, David Welsh, Tammey Welty, Zuriani Zonneveld	
 
 - - -
 
-**We strive for accurate donor listings. If you have a correction or questions, or would like to find out more about ways to support Golden Thread, please contact Michelle Mulholland at [michelle@goldenthread.org](mailto:michelle@goldenthread.org).**
+**We strive for accurate donor listings. If you have a correction or questions, or would like to find out more about ways to support Golden Thread, please contact Soluna Espinosa Pieb at [soluna@goldenthread.org](mailto:michelle@goldenthread.org).**
