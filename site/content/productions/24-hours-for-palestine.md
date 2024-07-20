@@ -24,7 +24,7 @@ lists:
         title: July 20-21, 2024
         pre: "24 Hours for Palestine: A Moon Will Rise From Darkness"
         text: >-
-          **For the full schedule, please click
+          **For the full schedule and digital program, please click
           [here](https://goldenthread.org/posts/24-hours-for-palestine-sessions/).** 
 
 
