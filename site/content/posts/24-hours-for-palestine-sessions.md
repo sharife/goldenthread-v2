@@ -20,7 +20,7 @@ No registration required. Livestream on [HowlRound](https://howlround.com/happen
 
 ## SCHEDULE
 
-View the Digital Program (here) coming soon. 
+View the Digital Program [here](https://www.flipsnack.com/goldenthread/program-24-hr-marathon-digital/full-view.html). 
 
 ### Saturday, July 20, 2024
 
