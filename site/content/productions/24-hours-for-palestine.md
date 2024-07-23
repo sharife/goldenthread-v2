@@ -14,6 +14,7 @@ description: >-
 
   (Title inspired by Palestinian poet Mahmoud Darwish)
 titleimage: https://ucarecdn.com/c0c599dd-b38a-4f87-83b4-f3df64bed1e2/
+programlabel: Full Digital Program
 stage: HowlRound TV
 ticketinfo: FREE
 lists:
