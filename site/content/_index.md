@@ -6,30 +6,6 @@ background: https://ucarecdn.com/a816cbc1-3a15-48ef-83ca-c095571c0908/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: |-
-      **24 Hours for Palestine:** \
-      **A Moon Will Rise From Darkness**
-    text: >-
-      A 24-hour online event featuring 100+ Global Artists and Activists for a
-      Free Palestine, including performances and presentations honoring the
-      Palestinian people and their steadfastness in the face of genocide, and
-      discussions of how to build solidarity in the global movement for
-      Palestinian liberation. (Title inspired by Palestinian poet Mahmoud
-      Darwish) 
-
-
-      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions; and hosted by HowlRound Theatre Commons. \
-       \
-      Live on HowlRound TV 
-
-
-      FREE 
-
-
-      July 20-21, 2024
-    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
-    cta: Learn More!
-    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
   - subtitle: "**New Threads**"
     text: >-
       The 2024 Season for Palestine dedicates our annual New Threads program to
@@ -52,6 +28,30 @@ items:
     image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
     cta: Reserve your FREE tickets
     link: https://goldenthread.org/tickets/
+  - subtitle: |-
+      **24 Hours for Palestine:** \
+      **A Moon Will Rise From Darkness**
+    text: >-
+      A 24-hour online event featuring 100+ Global Artists and Activists for a
+      Free Palestine, including performances and presentations honoring the
+      Palestinian people and their steadfastness in the face of genocide, and
+      discussions of how to build solidarity in the global movement for
+      Palestinian liberation. (Title inspired by Palestinian poet Mahmoud
+      Darwish) 
+
+
+      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions; and hosted by HowlRound Theatre Commons. \
+       \
+      View video recordings on HowlRound TV 
+
+
+      FREE 
+
+
+      Live-streamed July 20-21, 2024
+    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
+    cta: Learn More!
+    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
