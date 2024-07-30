@@ -1,11 +1,33 @@
 ---
 title: Middle East Center Stage
-headline: Coming Soon
+headline: New Threads
 subtitle: ""
-background: https://ucarecdn.com/ee96d14b-b6c2-46bc-85b4-723b7c510463/
-cta: Learn More
-link: https://goldenthread.org/productions/24-hours-for-palestine/
+background: https://ucarecdn.com/a816cbc1-3a15-48ef-83ca-c095571c0908/
+cta: Register for FREE!
+link: https://goldenthread.org/tickets/
 items:
+  - subtitle: "**New Threads**"
+    text: >-
+      The 2024 Season for Palestine dedicates our annual New Threads program to
+      two plays by contemporary Palestinian authors. 
+
+
+      August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
+
+
+      August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
+
+
+      [Red Poppy Art House](https://redpoppyarthouse.org/about/contact-hours-location/), 2698 Folsom St, San Francisco, CA 94110 
+
+
+      FREE with reservation 
+
+
+      August 2 & August 9, 2024
+    image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
+    cta: Reserve your FREE tickets
+    link: https://goldenthread.org/tickets/
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
@@ -20,38 +42,16 @@ items:
 
       Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions; and hosted by HowlRound Theatre Commons. \
        \
-      Live on HowlRound TV 
+      View video recordings on HowlRound TV 
 
 
       FREE 
 
 
-      July 20-21, 2024
+      Live-streamed July 20-21, 2024
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
-  - subtitle: "**New Threads**"
-    text: >-
-      The 2024 Season for Palestine dedicates our annual New Threads program to
-      two plays by contemporary Palestinian authors. 
-
-
-      August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
-
-
-      August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
-
-
-      Red Poppy Art House 
-
-
-      FREE with reservation 
-
-
-      August 2 & August 9, 2024
-    image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
-    cta: Reserve your FREE tickets
-    link: https://goldenthread.org/tickets/
   - subtitle: "**11 Reflections: San Francisco**"
     text: >-
       West Coast Premiere  
