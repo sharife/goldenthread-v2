@@ -2,9 +2,9 @@
 title: Middle East Center Stage
 headline: Coming Soon
 subtitle: ""
-background: https://ucarecdn.com/ee96d14b-b6c2-46bc-85b4-723b7c510463/
-cta: Learn More
-link: https://goldenthread.org/productions/24-hours-for-palestine/
+background: https://ucarecdn.com/a816cbc1-3a15-48ef-83ca-c095571c0908/
+cta: Register Now!
+link: https://goldenthread.org/tickets/
 items:
   - subtitle: |-
       **24 Hours for Palestine:** \
@@ -42,7 +42,7 @@ items:
       August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
 
 
-      Red Poppy Art House 
+      [Red Poppy Art House](https://redpoppyarthouse.org/about/contact-hours-location/), 2698 Folsom St, San Francisco, CA 94110 
 
 
       FREE with reservation 
