@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: Where can I find someone like you, Ali?
+headline: New Threads
 subtitle: ""
 background: https://ucarecdn.com/a816cbc1-3a15-48ef-83ca-c095571c0908/
 cta: Register Now!
