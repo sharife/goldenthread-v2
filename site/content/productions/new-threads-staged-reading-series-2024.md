@@ -28,15 +28,8 @@ ticketinfo: Readings are FREE, however registration is recommended as space is l
 lists:
   - heading: "New Threads 2024 "
     items:
-      - itemstart: 2024-05-30T04:12:30.864Z
+      - pre: Friday, August 2 at 7:00 pm
         itemend: 2024-05-30T04:12:30.875Z
-        title: "Where can I find someone like you, Ali? "
-        subtitle: |-
-          by **Raeda Taha** 
-
-          directed by **Hala Baki** 
-
-          performed by **Maya Nazzal**
         text: >-
           An autobiographical monodrama written by Raeda Taha, a Palestinian
           actor, storyteller, writer, and political activist based on her
@@ -54,9 +47,17 @@ lists:
 
 
           Duration: 75-minute, no intermission
-        pre: Friday, August 2 at 7:00 pm
+        itemstart: 2024-05-30T04:12:30.864Z
         cta: Register for FREE
+        subtitle: |-
+          by **Raeda Taha** 
+
+          directed by **Hala Baki** 
+
+          performed by **Maya Nazzal**
+        title: "Where can I find someone like you, Ali? "
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS
+        image: https://ucarecdn.com/80983463-e7fe-4645-a6bc-3befe16fee11/
       - itemstart: 2024-05-30T04:15:34.397Z
         itemend: 2024-05-30T04:15:34.412Z
         title: The Return
