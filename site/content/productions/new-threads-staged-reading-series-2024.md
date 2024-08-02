@@ -203,6 +203,19 @@ cast:
         Plays Festival. Up next: *As You Like It* at CalShakes.
         [wileynamanstrasser.com](http://www.wileynamanstrasser.com/)"
       link: http://www.wileynamanstrasser.com/
+    - name: Lucia Moratinos-Chu
+      credit: production intern, Where can I find someone like you, Ali?
+      image: https://ucarecdn.com/e8e931b6-7f87-4721-87bc-ff156adbc3e9/
+      bio: '**Lucia Moratinos-Chu** is a political science student at Cal Poly San
+        Luis Obispo University. She has a background in dancing, singing,
+        acting, and musical theater. In Spain, she sang and acted alongside the
+        "Coro Infantil de Elena Peinado" in the operas *Carmen* and *I
+        Pagliacci*. She attended the Oakland School for the Arts for two years,
+        where she cultivated her skills in singing. And throughout high school,
+        she was part of the Destiny Arts Youth Performance Company. Although she
+        has extensive experience performing and being on stage, this is her
+        first time assistant directing a play, and thus is beyond excited about
+        this opportunity!'
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
