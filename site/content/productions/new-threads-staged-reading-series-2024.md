@@ -28,15 +28,8 @@ ticketinfo: Readings are FREE, however registration is recommended as space is l
 lists:
   - heading: "New Threads 2024 "
     items:
-      - itemstart: 2024-05-30T04:12:30.864Z
+      - pre: Friday, August 2 at 7:00 pm
         itemend: 2024-05-30T04:12:30.875Z
-        title: "Where can I find someone like you, Ali? "
-        subtitle: |-
-          by **Raeda Taha** 
-
-          directed by **Hala Baki** 
-
-          performed by **Maya Nazzal**
         text: >-
           An autobiographical monodrama written by Raeda Taha, a Palestinian
           actor, storyteller, writer, and political activist based on her
@@ -54,9 +47,17 @@ lists:
 
 
           Duration: 75-minute, no intermission
-        pre: Friday, August 2 at 7:00 pm
+        itemstart: 2024-05-30T04:12:30.864Z
         cta: Register for FREE
+        subtitle: |-
+          by **Raeda Taha** 
+
+          directed by **Hala Baki** 
+
+          performed by **Maya Nazzal**
+        title: "Where can I find someone like you, Ali? "
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS
+        image: https://ucarecdn.com/80983463-e7fe-4645-a6bc-3befe16fee11/
       - itemstart: 2024-05-30T04:15:34.397Z
         itemend: 2024-05-30T04:15:34.412Z
         title: The Return
@@ -202,6 +203,19 @@ cast:
         Plays Festival. Up next: *As You Like It* at CalShakes.
         [wileynamanstrasser.com](http://www.wileynamanstrasser.com/)"
       link: http://www.wileynamanstrasser.com/
+    - name: Lucia Moratinos-Chu
+      credit: production intern, Where can I find someone like you, Ali?
+      image: https://ucarecdn.com/e8e931b6-7f87-4721-87bc-ff156adbc3e9/
+      bio: '**Lucia Moratinos-Chu** is a political science student at Cal Poly San
+        Luis Obispo University. She has a background in dancing, singing,
+        acting, and musical theater. In Spain, she sang and acted alongside the
+        "Coro Infantil de Elena Peinado" in the operas *Carmen* and *I
+        Pagliacci*. She attended the Oakland School for the Arts for two years,
+        where she cultivated her skills in singing. And throughout high school,
+        she was part of the Destiny Arts Youth Performance Company. Although she
+        has extensive experience performing and being on stage, this is her
+        first time assistant directing a play, and thus is beyond excited about
+        this opportunity!'
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
