@@ -216,6 +216,19 @@ cast:
         has extensive experience performing and being on stage, this is her
         first time assistant directing a play, and thus is beyond excited about
         this opportunity!'
+    - name: Atusa Assadi
+      image: https://ucarecdn.com/05da5484-b6ef-4886-a66f-26bea792b7a9/
+      credit: Stage Manager
+      bio: "**Atusa Assadi** is an Iranian American film student, writer, and activist
+        from the Bay Area. She is thrilled to be stage managing this year’s New
+        Threads Staged Reading Series. Atusa is dedicated to the fight for
+        Palestinian Liberation and is honored to be included in the storytelling
+        of this year’s Season for Palestine. Her last New Threads experience was
+        as a performer in 2017 in Betty Shamieh’s play *As Soon As Impossible*.
+        Recently she’s worked on *The Tutor* at NCTC in collaboration with
+        Golden Thread, *Rent* at Berkeley Playhouse, *ReOrient Festival of Short
+        Plays* 2023 at Golden Thread, and on the San Francisco Mime Troupe’s
+        Summer ‘24, ‘23 and ‘22 touring productions."
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
