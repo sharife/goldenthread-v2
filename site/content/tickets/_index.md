@@ -27,7 +27,7 @@ lists:
         cta: REGISTER FOR FREE
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000003fwsmMAA
         image: https://ucarecdn.com/ce50c426-835d-4987-8e67-6d8ea26360f3/
-  - heading: "11 REFLECTIONS: SAN FRANCISCO  "
+  - heading: "11REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
         cta: BUY NOW
