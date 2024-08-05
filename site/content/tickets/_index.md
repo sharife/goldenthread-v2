@@ -27,7 +27,7 @@ lists:
         cta: REGISTER FOR FREE
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000003fwsmMAA
         image: https://ucarecdn.com/ce50c426-835d-4987-8e67-6d8ea26360f3/
-  - heading: "11 REFLECTIONS: SAN FRANCISCO  "
+  - heading: "11REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
         cta: BUY NOW
@@ -42,7 +42,7 @@ lists:
           and Turkish composer and violinist **Eylem Basaldi** 
 
 
-          ***11 Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
+          ***11Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
 
 
           Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, **Art2Action**, and in collaboration with **Aviva Arts**  \
