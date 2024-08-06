@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: New Threads
 subtitle: ""
-background: https://ucarecdn.com/a816cbc1-3a15-48ef-83ca-c095571c0908/
+background: https://ucarecdn.com/ef79951b-9550-4aee-b22a-43131d34cd4f/
 cta: Register for FREE!
 link: https://goldenthread.org/tickets/
 items:
