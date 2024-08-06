@@ -58,17 +58,8 @@ lists:
         title: "Where can I find someone like you, Ali? "
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS
         image: https://ucarecdn.com/80983463-e7fe-4645-a6bc-3befe16fee11/
-      - itemstart: 2024-05-30T04:15:34.397Z
+      - pre: Friday, August 9 at 7:00 pm
         itemend: 2024-05-30T04:15:34.412Z
-        title: The Return
-        subtitle: |-
-          by **Hanna Eady** and **Edward Mast** 
-
-          directed by **Hanna Eady** 
-
-          performed by **Wiley Naman Strasser*** and **Elissa Beth Stebbins*** 
-
-          *\*Member, Actors Equity*
         text: >-
           Two people meet in an auto-body shop in the mid-sized city Herzliya.
           They might or might not have known each other in the past. One of them
@@ -82,9 +73,19 @@ lists:
 
 
           Duration: 75-minute, no intermission
-        pre: Friday, August 9 at 7:00 pm
+        itemstart: 2024-05-30T04:15:34.397Z
         cta: Register for FREE
+        subtitle: |-
+          by **Hanna Eady** and **Edward Mast** 
+
+          directed by **Hanna Eady** 
+
+          performed by **Wiley Naman Strasser*** and **Elissa Beth Stebbins*** 
+
+          *\*Member, Actors Equity*
+        title: The Return
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DyeZMAS
+        image: https://ucarecdn.com/fe3ff9f9-d9fc-4634-9ad4-552b5af1cb0a/
 cast:
   items:
     - name: Hanna Eady
