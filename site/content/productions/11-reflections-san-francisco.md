@@ -53,7 +53,7 @@ bottom:
     - image: https://ucarecdn.com/84b8a29c-018e-4cee-98cf-a6c2b8ad0d97/
     - image: https://ucarecdn.com/00de42c3-2bf3-429a-b12f-70c0d575a062/
     - image: https://ucarecdn.com/d6241c67-b7a4-42b6-b89c-5ea230ee2893/
-    - image: https://ucarecdn.com/8f0e3adb-48e2-4257-bc22-25011df0da6b/
+    - image: https://ucarecdn.com/3b017edf-3d31-4ec9-ad7c-a0548f5e477c/
   text: Co-Produced by Golden Thread Productions, Brava for Women in the Arts,
     Art2Action, and in collaboration with Aviva Arts and Red Poppy Art House.
 ---
