@@ -48,6 +48,50 @@ cast:
         the Middle Eastern/North African Theatre-Makers Alliance (MENATMA). \
 
         [art2action.org/artists/Andrea-Assaf ](<https://www.art2action.org/artists/Andrea-Assaf >)
+    - name: Lubana al Quntar
+      credit: "Vocalist "
+      bio: "**LUBANA AL QUNTAR** (VOCALIST) was born in Damascus, Syria, to a family
+        of traditional singers. A descendant of famous Syrian singer, Amal Al
+        Atrash, and renowned composer and singer, Farid Al Atrash, Lubana
+        trained in classical international conservatories under the supervision
+        of world-renowned opera singers such as Galina Khaldieva, Kenneth
+        Woollam, and Maestra Mya Besselink. Lubana’s wide repertoire includes
+        classical and popular Arab music, folk songs, including traditional
+        Syriac and Aramaic languages, and classical opera. She has been awarded
+        prestigious titles including First Arab Opera Singer of Syria, and fifth
+        prize at The Queen Elizabeth Singing Competition in Brussels, Belgium.
+        Lubana has toured internationally in over 10 countries, in Europe, the
+        Middle East, North Africa, and North America. Between 2006 and 2012, she
+        served at the Syrian National Conservatory as the Voice Chair for the
+        Department of Opera Singing, where she also founded and launched the
+        Department of Classical Arabic Singing. Lubana continues to share her
+        craft to promote and preserve ancient Syrian cultural heritage."
+      image: https://ucarecdn.com/47ff7993-6e7b-4d4c-b15c-753fde6e2328/
+    - name: "Eylem Basaldi "
+      bio: >-
+        **Eylem Basaldi** (MUSIC DIRECTOR / VIOLINIST) A Turkish-born violinist,
+        Eylem was on the classical track at the New England Conservatory when
+        she rediscovered her passion for Turkish folk music, and a wide array of
+        musical traditions. She is now a member of several ensembles, including
+        Dolunay, which plays the songs of the people of Turkish descent who
+        lived across Rumeli, the southern region of the Balkans; and Sandaraa, a
+        band that explores a vast repertoire of South & Central Asian material
+        (from Balochistan, Afghanistan and beyond) while blending it with the
+        sounds of Eastern Europe, the Balkans, and more. She has performed in
+        venues such as Carnegie Hall, Lincoln Center, on and off-Broadway in New
+        York, at Symphony Hall in Boston, and has appeared on the Late Night
+        with Jimmy Fallon Show with the Indie Rock band Afghan Whigs. She has
+        played, collaborated, and recorded with groups such as Grammy winner
+        Snarky Puppy, Dave Brubeck, Boston Philharmonic Orchestra, and more.
+        Eylem is also a composer, a violin instructor, and tours widely in the
+        U.S., Europe, and the Middle East.
+
+
+        Eylem serves as Music Director for Art2Action on multiple projects. She has been a lead musician in live touring production of *Eleven Reflections on September* since 2015, and is featured in the 2021 digital film. Performances with Art2Action have included the historic First Floor Theatre at La MaMa ETC, the 2016 National Asian American Theatre Festival at Oregon Shakespeare Festival (OSF, produced by CAATA), the Kennedy Center Millennium Stage as part of the 2015 Women’s Voices Theatre Festival, and more. Eylem also serves as the music director for *DRONE*, a new play by Andrea Assaf. 
+
+
+        [eylembasaldi.com](https://www.eylembasaldi.com/)
+      image: https://ucarecdn.com/39d170ae-b22e-451b-8e37-c827ad63dd83/
 mentions:
   heading: Story Circles in May, 2024
   text: >-
