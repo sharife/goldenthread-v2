@@ -62,6 +62,13 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		url = "/productions/11-reflections-san-francisco/"
 		weight = 16
 
+  		[[menu.primary]]
+		parent = "season"
+		identifier = "alaa-a-family-trilogy"
+		name = "ALAA: A Family Trilogy"
+		url = "/productions/alaa-a-family-trilogy-1/"
+		weight = 17
+
 
 	[[menu.primary]]
 	identifier = "about"
