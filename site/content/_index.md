@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: New Threads
+headline: "11Reflections: San Francisco"
 subtitle: ""
-background: https://ucarecdn.com/ef79951b-9550-4aee-b22a-43131d34cd4f/
-cta: Register for FREE!
+background: https://ucarecdn.com/b05c01b6-0675-4fa2-bcc5-9c59921a5a36/
+cta: Tickets on sale NOW!
 link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**New Threads**"
