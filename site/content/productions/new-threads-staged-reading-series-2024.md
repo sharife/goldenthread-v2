@@ -247,7 +247,7 @@ photos2:
     - image: https://ucarecdn.com/7d0b3067-8a62-4a38-ab07-80d73e7efd84/
     - image: https://ucarecdn.com/8f78239d-713a-491f-be0d-82c1906e4e5d/
 photos3:
-  heading: The Team (small but mighty)
+  heading: "The Team "
   items:
     - image: https://ucarecdn.com/2a6bc550-9a9d-4e9a-bbd4-f2d47946f726/
     - image: https://ucarecdn.com/f8898225-9f47-4558-a57b-74f134d5e346/-/crop/674x684/185,0/-/preview/
