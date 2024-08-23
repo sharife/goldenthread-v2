@@ -234,6 +234,12 @@ cast:
         Golden Thread, *Rent* at Berkeley Playhouse, *ReOrient Festival of Short
         Plays* 2023 at Golden Thread, and on the San Francisco Mime Troupe’s
         Summer ‘24, ‘23 and ‘22 touring productions."
+photos:
+  heading: The Return by Hanna Eady
+  items:
+    - image: https://ucarecdn.com/4ef93953-21bb-4c96-9517-042b0feaa4b5/
+    - image: https://ucarecdn.com/d9466503-9bd3-4f9a-a8f6-4b505e865262/
+    - image: https://ucarecdn.com/807c59e4-3a7d-458a-b852-dd60d78872ba/-/crop/845x602/113,82/-/preview/
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
