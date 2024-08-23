@@ -17,6 +17,9 @@ description: >-
 
   Each reading includes a post-show conversation with the audience and the artists.
 titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
+program: ""
+pdflabel: Download the digital playbil
+pdf: https://ucarecdn.com/f1c67e59-2091-4a06-ab1d-20dbbb108605/
 writer: Hanna Eady, Edward Mast, Raeda Taha
 director: Hala Baki, Hanna Eady
 featuring: Maya Nazzal, Wiley Naman Strasser*, Elissa Beth Stebbins*
