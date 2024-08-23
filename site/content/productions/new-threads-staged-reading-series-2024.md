@@ -240,6 +240,12 @@ photos:
     - image: https://ucarecdn.com/4ef93953-21bb-4c96-9517-042b0feaa4b5/
     - image: https://ucarecdn.com/d9466503-9bd3-4f9a-a8f6-4b505e865262/
     - image: https://ucarecdn.com/807c59e4-3a7d-458a-b852-dd60d78872ba/-/crop/845x602/113,82/-/preview/
+photos2:
+  heading: "Deeper Dialogues: post-show discussion"
+  items:
+    - image: https://ucarecdn.com/83004403-d9d6-4a53-929e-b501d6677efd/-/crop/993x680/31,0/-/preview/
+    - image: https://ucarecdn.com/7d0b3067-8a62-4a38-ab07-80d73e7efd84/
+    - image: https://ucarecdn.com/8f78239d-713a-491f-be0d-82c1906e4e5d/
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
