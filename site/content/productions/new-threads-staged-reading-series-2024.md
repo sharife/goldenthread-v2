@@ -246,6 +246,15 @@ photos2:
     - image: https://ucarecdn.com/83004403-d9d6-4a53-929e-b501d6677efd/-/crop/993x680/31,0/-/preview/
     - image: https://ucarecdn.com/7d0b3067-8a62-4a38-ab07-80d73e7efd84/
     - image: https://ucarecdn.com/8f78239d-713a-491f-be0d-82c1906e4e5d/
+photos3:
+  heading: The Team (small but mighty)
+  items:
+    - image: https://ucarecdn.com/2a6bc550-9a9d-4e9a-bbd4-f2d47946f726/
+    - image: https://ucarecdn.com/f8898225-9f47-4558-a57b-74f134d5e346/-/crop/674x684/185,0/-/preview/
+    - image: https://ucarecdn.com/f067d07d-2197-4098-a4e8-c562aee0dcf2/
+    - image: https://ucarecdn.com/4dd9568c-9e0b-4c94-b2ef-7273b90e02a3/-/crop/981x1154/0,237/-/preview/
+    - image: https://ucarecdn.com/58f0495d-28de-4d1f-8f10-da41b7586ee9/
+    - image: https://ucarecdn.com/2837eaa9-58d2-4a91-87f1-f6cb27ce80de/-/crop/1021x1366/0,168/-/preview/
 bottom:
   logos:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
