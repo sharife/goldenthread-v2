@@ -239,5 +239,6 @@ bottom:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
     - image: https://ucarecdn.com/6a6e5e75-351f-4b75-8de0-ef54ad50ca24/
     - image: https://ucarecdn.com/638dbcf9-08f1-4a68-952d-dbb32dffa354/
+  heading: "We are grateful for the support of the following institutions:"
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
