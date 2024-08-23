@@ -17,9 +17,13 @@ description: >-
 
   Each reading includes a post-show conversation with the audience and the artists.
 titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
+program: ""
+pdflabel: Download the digital playbil
+pdf: https://ucarecdn.com/f1c67e59-2091-4a06-ab1d-20dbbb108605/
 writer: Hanna Eady, Edward Mast, Raeda Taha
 director: Hala Baki, Hanna Eady
 featuring: Maya Nazzal, Wiley Naman Strasser*, Elissa Beth Stebbins*
+additional: photography for THE RETURN by Amal Bisharat
 stage: "Red Poppy Art House "
 address: 2698 Folsom St, San Francisco, CA 94110
 visitlink: https://redpoppyarthouse.org/about/contact-hours-location/
@@ -235,5 +239,6 @@ bottom:
     - image: https://ucarecdn.com/11a8939b-05da-4c18-a1d1-16aee3583c98/
     - image: https://ucarecdn.com/6a6e5e75-351f-4b75-8de0-ef54ad50ca24/
     - image: https://ucarecdn.com/638dbcf9-08f1-4a68-952d-dbb32dffa354/
+  heading: "We are grateful for the support of the following institutions:"
 ---
 New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. Since its launch in 2011, many New Threads plays and playwrights have continued on to receive mainstage productions.
