@@ -734,18 +734,31 @@ artists:
       credit: Playwright
       image: /img/archive/2013/07/mona-headshot.jpg
       name: Mona Mansour
-    - bio: "**Evren Odcikin** is the Interim Associate Artistic Director at Oregon
-        Shakespeare Festival, a founder of Maia Directors, and a resident artist
-        at Golden Thread. As a director, he's worked at South Coast Rep,
-        Berkeley Rep, New York Theater Workshop, Kennedy Center, InterAct
-        (Philadelphia), Cleveland Public Theatre, The Lark, Magic Theatre,
-        Crowded Fire, Shotgun Players, TheatreFirst, and Playwrights Foundation,
-        amongst many others. He will direct Heather Raffo's*Nine Parts of
-        Desire*at Portland Center Stage next, and he is under commission at Cal
-        Shakes with Leila Buck to create*1001 Nights (A Retelling)*, which he
-        will direct in 2020.[odcikin.com](https://www.odcikin.com/)"
-      image: https://ucarecdn.com/300227b3-3f99-4951-b869-a3cec629c2e3/
+    - bio: "**EVREN ODCIKIN** (he/him) is a Turkish-American director, writer, and
+        arts leader committed to championing historically excluded voices and
+        stories in the American theater. His work is heart-centered, politically
+        engaged, globally minded, and centers joy as resistance. He is proud to
+        be the 2024-25 Artist in Residence at Golden Thread Productions, a
+        company he’s been associated with since 2005. Directing: *Macbeth* and
+        Mona Mansour’s *unseen* (Oregon Shakespeare Festival), *Torch
+        Song* (Marin Theatre), christopher oscar peña’s *Our Orange
+        Sky* (Profile Theatre), Sylvia Khoury’s *Selling Kabul* (Northern
+        Stage), and Amir Nizar Zuabi’s *This is Who I Am* (Woolly Mammoth,
+        PlayCo, A.R.T., Guthrie, and OSF), as well as work at Geva, Berkeley
+        Rep, South Coast Rep, InterAct, Cleveland Public Theatre, Playwrights
+        Foundation, and Magic Theatre amongst many others. Playwriting and
+        translation: Commissions and productions at Cal Shakes, NYU Abu Dhabi,
+        Golden Thread and Crowded Fire, and Custom Made. In 2023, he served as
+        the Interim Artistic Director at OSF, where he had been the Associate
+        Artistic Director and Director of Artistic Programming since 2019. At
+        OSF, he was instrumental in “saving” the 2023 Season, programmed the
+        successful 2024 Season for the company, and over five years, produced
+        more than 30 productions. Evren is a founder of Maia Directors and
+        serves on the Boards of MENA Theater Makers Alliance and Playwrights
+        Foundation. [odcikin.com](https://www.odcikin.com/)"
+      image: https://ucarecdn.com/04901a7c-ec83-4b2c-9441-a14b91dd8374/
       name: Evren Odcikin
+      link: https://www.odcikin.com/
     - bio: <strong>LAWRENCE RADECKER’s (Resident Artist / Actor) </strong>first
         production with Golden Thread was the ReOrient 2003 Festival, which then
         turned into an ongoing relationship with Torange and the company through
