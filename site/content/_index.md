@@ -36,7 +36,7 @@ items:
       commitment to Golden Thread, while getting to celebrate his creativity and artistic journey.'
     image: https://ucarecdn.com/9e790345-b9e4-4412-84b8-7ea2e0e63bcd/
     cta: FIND OUT MORE
-    link: https://www.odcikin.com/about
+    link: https://goldenthread.org/posts/welcome-back-evren-odcikin-2/
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
