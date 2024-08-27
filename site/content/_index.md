@@ -8,13 +8,12 @@ link: https://goldenthread.org/tickets/
 items:
   - subtitle: "**Welcome (back) Evren Odcikin!**"
     text: >-
-      
-      We’re proud to announce acclaimed Turkish-American director, writer, and arts leader Evren
+      We’re proud to announce acclaimed Turkish-American director, writer, and
+      arts leader Evren
 
       Odcikin as our 2024-25 Artist in Residence. This is a real homecoming for Evren who has been
 
       involved with Golden Thread since 2005 as an affiliated artist and staff member.
-
 
 
       As part of his residency, Evren will direct Adam Ashraf Elsayigh’s *ALAA: A Family Trilogy* and
@@ -24,12 +23,11 @@ items:
       artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
 
 
-
       “Over his two-decade career, Evren has done much for Middle Eastern artists at Golden Thread
 
-      and beyond, so it;s a real joy to be able to support his artistry with this residency,” says
+      and beyond, so it's a real joy to be able to support his artistry with this residency,” says
 
-      **Executive Artistic Director Sahar Assaf**. His artistic voice is unique, his passion for
+      Executive Artistic Director Sahar Assaf. His artistic voice is unique, his passion for
 
       community engagement and brave political art is contagious, and his impact on the national
 
