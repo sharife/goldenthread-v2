@@ -8,12 +8,14 @@ description: >-
   Evren Odcikin as our 2024-25 Artist in Residence.
 background: https://ucarecdn.com/04f3dcc7-4a9d-4739-a787-e6a0b598f545/
 ---
-We’re proud to announce acclaimed Turkish-American director, writer, and arts leader
-Evren Odcikin as our 2024-25 Artist in Residence. As part of his residency, Evren will direct Adam Ashraf Elsayigh’s ***ALAA: A Family Trilogy*** and develop his new play, ***ORIENTAL: 1001 Ways to Tie Yourself in Knots***. Evren also joins the artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
+**We’re proud to announce acclaimed Turkish-American director, writer, and arts leader
+Evren Odcikin as our 2024-25 Artist in Residence.** 
 
-“I am a lucky, lucky man! Golden Thread has been my artistic home for two decades — it’s where I’ve become the artist that I am today. I am thankful to be formally back in this new capacity to work closely with the brilliant Sahar Assaf who has led Golden Thread with passion and grace during these impossible times,” said Evren Odcikin. “And it's an honor to have my my work support the brilliant staff, artists, and volunteers uplifting Golden Thread’s 2024 Season for Palestine.” 
+As part of his residency, Evren will direct Adam Ashraf Elsayigh’s ***ALAA: A Family Trilogy*** and develop his new play, ***ORIENTAL: 1001 Ways to Tie Yourself in Knots***. Evren also joins the artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
 
-This is a real homecoming for Evren who has been involved with Golden Thread since 2005 as an affiliated artist and staff member. His past Golden Thread credits include directing premieres by Mona Mansour, Yussef El Guindi, Denmo Ibrahim, Kevin Artigue, Hannah Khalil, Said Sayrafiezadeh, and translating Sedef Ecer’s On the Periphery, amongst many others. He is responsible for relaunching Golden Thread’s celebrated New Threads staged reading series back in 2011, and has produced numerous productions for the company, including three ReOrient Festivals.
+> “I am a lucky, lucky man! Golden Thread has been my artistic home for two decades — it’s where I’ve become the artist that I am today. I am thankful to be formally back in this new capacity to work closely with the brilliant Sahar Assaf who has led Golden Thread with passion and grace during these impossible times,” said Evren Odcikin. “And it's an honor to have my my work support the brilliant staff, artists, and volunteers uplifting Golden Thread’s 2024 Season for Palestine.” 
+
+This is a real homecoming for Evren who has been involved with Golden Thread since 2005 as an affiliated artist and staff member. His past Golden Thread credits include directing premieres by Mona Mansour, Yussef El Guindi, Denmo Ibrahim, Kevin Artigue, Hannah Khalil, Said Sayrafiezadeh, and translating Sedef Ecer’s *On the Periphery*, amongst many others. He is responsible for relaunching Golden Thread’s celebrated New Threads staged reading series back in 2011, and has produced numerous productions for the company, including three ReOrient Festivals.
 
 Executive Artistic Director **Sahar Assaf** adds: “Over his two-decade career, Evren has done much for Middle Eastern artists at Golden Thread and beyond, so it's a real joy to be able to support his artistry with this residency. His artistic voice is unique, his passion for community engagement and brave political art is contagious, and his impact on the national theater field is unquestionable. What a gift to be able to benefit from his expertise and commitment to Golden Thread, while getting to celebrate his creativity and artistic journey.”
 
@@ -21,4 +23,4 @@ Executive Artistic Director **Sahar Assaf** adds: “Over his two-decade career,
 
 <hr>
 
-Launched in 2022, Golden Thread’s Artist in Residence program offers multidisciplinary theater artists of Middle Eastern descent an opportunity to join the Golden Thread's artistic staff in support of programming and productions, as well as receive financial and developmental support for their own work. Past participants include Iraqi-born visual and performance artist and professor Wafaa Bilal and Palestinian-American composer, actor, and director Amal Bisharat, whose residency was made possible by Theater Bay Area's Arts Leadership Residency.
+Launched in 2022, **Golden Thread’s Artist in Residence program** offers multidisciplinary theater artists of Middle Eastern descent an opportunity to join the Golden Thread's artistic staff in support of programming and productions, as well as receive financial and developmental support for their own work. Past participants include Iraqi-born visual and performance artist and professor Wafaa Bilal and Palestinian-American composer, actor, and director Amal Bisharat, whose residency was made possible by Theater Bay Area's Arts Leadership Residency.
