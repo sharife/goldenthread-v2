@@ -1,6 +1,6 @@
 ---
 title: WELCOME (BACK) EVREN ODCIKIN!
-date: 2024-08-27T20:32:32.503Z
+date: 2024-08-27T20:41:03.083Z
 description: >-
   We’re proud to announce acclaimed Turkish-American director, writer, and arts
   leader
@@ -20,4 +20,4 @@ Executive Artistic Director **Sahar Assaf** adds: “Over his two-decade career,
 
 <hr>
 
-Launched in 2022, Golden Thread’s Artist in Residence program offers multidisciplinary theater artists of Middle Eastern descent an opportunity to join the Golden Thread's artistic staff in support of programming and productions, as well as receive financial and developmental support for their own work. Past participants include Iraqi-born visual and performance artist and professor Wafaa Bilal and Palestinian-American composer, actor, and director Amal Bisharat, whose residency was made possible by Theater Bay Area's Arts Leadership Residency.
+Launched in 2022, Golden Thread’s **Artist in Residence** program offers multidisciplinary theater artists of Middle Eastern descent an opportunity to join the Golden Thread's artistic staff in support of programming and productions, as well as receive financial and developmental support for their own work. Past participants include Iraqi-born visual and performance artist and professor Wafaa Bilal and Palestinian-American composer, actor, and director Amal Bisharat, whose residency was made possible by Theater Bay Area's Arts Leadership Residency.
