@@ -6,7 +6,7 @@ description: >-
   leader
 
   Evren Odcikin as our 2024-25 Artist in Residence.
-background: https://ucarecdn.com/e886b60e-e5db-4d80-999c-166de3d30f0d/
+background: https://ucarecdn.com/04f3dcc7-4a9d-4739-a787-e6a0b598f545/
 ---
 We’re proud to announce acclaimed Turkish-American director, writer, and arts leader
 Evren Odcikin as our 2024-25 Artist in Residence. As part of his residency, Evren will direct Adam Ashraf Elsayigh’s ***ALAA: A Family Trilogy*** and develop his new play, ***ORIENTAL: 1001 Ways to Tie Yourself in Knots***. Evren also joins the artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
