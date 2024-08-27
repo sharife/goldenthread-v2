@@ -8,7 +8,7 @@ description: >-
   Evren Odcikin as our 2024-25 Artist in Residence.
 background: https://ucarecdn.com/e886b60e-e5db-4d80-999c-166de3d30f0d/
 ---
-We’re proud to announce acclaimed Turkish-American director, writer, and arts leader Evren Odcikin as our 2024-25 Artist in Residence. As part of his residency, Evren will direct Adam Ashraf Elsayigh’s ***ALAA: A Family Trilogy*** and develop his new play, ***ORIENTAL: 1001 Ways to Tie Yourself in Knots***. Evren also joins the artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
+As part of his residency, Evren will direct Adam Ashraf Elsayigh’s ***ALAA: A Family Trilogy*** and develop his new play, ***ORIENTAL: 1001 Ways to Tie Yourself in Knots***. Evren also joins the artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
 
 “I am a lucky, lucky man! Golden Thread has been my artistic home for two decades — it’s where I’ve become the artist that I am today. I am thankful to be formally back in this new capacity to work closely with the brilliant Sahar Assaf who has led Golden Thread with passion and grace during these impossible times,” said Evren Odcikin. “And it's an honor to have my my work support the brilliant staff, artists, and volunteers uplifting Golden Thread’s 2024 Season for Palestine.” 
 
