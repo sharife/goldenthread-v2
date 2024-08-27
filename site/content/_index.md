@@ -6,28 +6,39 @@ background: https://ucarecdn.com/b05c01b6-0675-4fa2-bcc5-9c59921a5a36/
 cta: Tickets on sale NOW!
 link: https://goldenthread.org/tickets/
 items:
-  - subtitle: "**New Threads**"
+  - subtitle: "**Welcome (back) Evren Odcikin!**"
     text: >-
-      The 2024 Season for Palestine dedicates our annual New Threads program to
-      two plays by contemporary Palestinian authors. 
+      
+      We’re proud to announce acclaimed Turkish-American director, writer, and arts leader Evren
+
+      Odcikin as our 2024-25 Artist in Residence. This is a real homecoming for Evren who has been
+
+      involved with Golden Thread since 2005 as an affiliated artist and staff member.
 
 
-      August 2: Palestinian storyteller Raeda Taha’s autobiographical play ***Where can I find someone like you, Ali?*** is an epic narrative that delves into the complexities of loss, grief, and the enduring impact of political conflict. 
+
+      As part of his residency, Evren will direct Adam Ashraf Elsayigh’s *ALAA: A Family Trilogy* and
+
+      develop his new play, *ORIENTAL: 1001 Ways to Tie Yourself in Knots*. Evren also joins the
+
+      artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
 
 
-      August 9: ***The Return*** by Hanna Eady and Edward Mast, portrays a fateful meeting between a Palestinian and an Israeli in an auto-body shop. Both of their lives will be forever changed by the realities that surround them. 
 
+      “Over his two-decade career, Evren has done much for Middle Eastern artists at Golden Thread
 
-      [Red Poppy Art House](https://redpoppyarthouse.org/about/contact-hours-location/), 2698 Folsom St, San Francisco, CA 94110 
+      and beyond, so it;s a real joy to be able to support his artistry with this residency,” says
 
+      **Executive Artistic Director Sahar Assaf**. His artistic voice is unique, his passion for
 
-      FREE with reservation 
+      community engagement and brave political art is contagious, and his impact on the national
 
+      theater field is unquestionable. What a gift to be able to benefit from his expertise and
 
-      August 2 & August 9, 2024
-    image: https://ucarecdn.com/42eab0a5-6d07-45cb-a69c-48afccf91589/
-    cta: Reserve your FREE tickets
-    link: https://goldenthread.org/tickets/
+      commitment to Golden Thread, while getting to celebrate his creativity and artistic journey.'
+    image: https://ucarecdn.com/9e790345-b9e4-4412-84b8-7ea2e0e63bcd/
+    cta: FIND OUT MORE
+    link: https://www.odcikin.com/about
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
