@@ -9,18 +9,11 @@ items:
   - subtitle: "**Welcome (back) Evren Odcikin!**"
     text: >-
       We’re proud to announce acclaimed Turkish-American director, writer, and
-      arts leader Evren
+      arts leader **[Evren
 
-      Odcikin as our 2024-25 Artist in Residence. This is a real homecoming for Evren who has been
+      Odcikin](https://goldenthread.org/posts/welcome-back-evren-odcikin-2/)** as our 2024-25 Artist in Residence. This is a real homecoming for Evren who has been
 
       involved with Golden Thread since 2005 as an affiliated artist and staff member.
-
-
-      As part of his residency, Evren will direct Adam Ashraf Elsayigh’s *ALAA: A Family Trilogy* and
-
-      develop his new play, *ORIENTAL: 1001 Ways to Tie Yourself in Knots*. Evren also joins the
-
-      artistic staff to help produce the culmination of the 2024 Season and launch the 2025 Season.
 
 
       “Over his two-decade career, Evren has done much for Middle Eastern artists at Golden Thread
@@ -33,51 +26,45 @@ items:
 
       theater field is unquestionable. What a gift to be able to benefit from his expertise and
 
-      commitment to Golden Thread, while getting to celebrate his creativity and artistic journey.'
+      commitment to Golden Thread, while getting to celebrate his creativity and artistic journey."
     image: https://ucarecdn.com/9e790345-b9e4-4412-84b8-7ea2e0e63bcd/
-    cta: FIND OUT MORE
+    cta: Find out more
     link: https://goldenthread.org/posts/welcome-back-evren-odcikin-2/
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
     text: >-
-      A 24-hour online event featuring 100+ Global Artists and Activists for a
-      Free Palestine, including performances and presentations honoring the
-      Palestinian people and their steadfastness in the face of genocide, and
-      discussions of how to build solidarity in the global movement for
-      Palestinian liberation. (Title inspired by Palestinian poet Mahmoud
-      Darwish) 
+      W﻿atch FREE video recordings of the 24-hour online event featuring 100+
+      global artists and activists for a Free Palestine. Offerings include
+      performances and presentations honoring the Palestinian people and their
+      steadfastness in the face of genocide, and discussions of how to build
+      solidarity in the global movement for Palestinian liberation.
 
 
-      Organized and produced by Golden Thread Productions, co-produced with Art2Action and in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, Dunya Productions; and hosted by HowlRound Theatre Commons. \
-       \
-      View video recordings on HowlRound TV 
-
-
-      FREE 
-
-
-      Live-streamed July 20-21, 2024
+      Organized and produced by Golden Thread Productions a﻿nd Art2Action, in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, and Dunya Productions. S﻿tream hosted by HowlRound Theatre Commons.
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
-  - subtitle: "**11 Reflections: San Francisco**"
+  - subtitle: "**11Reflections: San Francisco**"
     text: >-
-      West Coast Premiere  
+      Devised and directed by **Andrea Assaf**\
+
+      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**\
+
+      and Turkish composer and violinist **Eylem Basaldi**
 
 
-
-      **[11 Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** is part of a new national series of performance works, **Eleven Reflections on the Nation**, devised by **Andrea Assaf**. The project draws on her seminal work, **Eleven Reflections on September**, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine. 
-
-
-      Created and directed by **Andrea Assaf**
-
-      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**
-
-      and Turkish composer and violinist **Eylem Basaldi** 
+      An episodic, multimedia performance, **[11Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** features international renowned performers alongside Bay Area artists who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
 
 
-      October 4 - 5, 2024
+      P﻿roducedb﻿y Golden Thread Productions, Brava for Women in the Arts, and Art2Action, and in association with Aviva Arts and Red Poppy Arthouse.
+
+
+      TWO PERFORMANCES ONLY!\
+
+      Oct 4 & 5, 2024 at 7pm\
+
+      at Brava Theater Center, San Francisco
     image: https://ucarecdn.com/28740959-52f6-474e-a215-85d74e4c304b/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/11-reflections-san-francisco/
