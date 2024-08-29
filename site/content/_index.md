@@ -20,7 +20,7 @@ items:
 
       and beyond, so it's a real joy to be able to support his artistry with this residency,” says
 
-      Executive Artistic Director Sahar Assaf. His artistic voice is unique, his passion for
+      Executive Artistic Director Sahar Assaf. "His artistic voice is unique, his passion for
 
       community engagement and brave political art is contagious, and his impact on the national
 
