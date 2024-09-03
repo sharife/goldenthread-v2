@@ -1,32 +1,6 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: New Threads Reading Series 2024
-    items:
-      - title: August 2 & 9, 2024 at Red Poppy Art House
-        pre: ""
-        text: >-
-          New Threads is Golden Thread’s annual staged reading series that
-          engages its audience in the process of playmaking and allows writers
-          of Middle Eastern and non-Middle Eastern descent an authentic and
-          supportive space to develop work about the Middle East. Since its
-          launch in 2011, many New Threads plays and playwrights have continued
-          on to receive mainstage productions. The 2024 New Threads Staged
-          Reading Series will feature the work of international Palestinian
-          playwrights. 
-
-
-          * ***[Where can I find someone like you, Ali?](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DrrYMAS)*** by **Raeda Taha**\
-            Friday, August 2, 2024 at 7:00 pm
-          * ***[The Return](https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh000008DyeZMAS)*** by **Hanna Eady**\
-            Friday, August 9, 2024 at 7:00 pm
-
-          Each reading includes a post-show conversation with the audience and the artists.\
-
-          Free admission. Pre-registration is highly encouraged as space is limited.
-        cta: REGISTER FOR FREE
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000003fwsmMAA
-        image: https://ucarecdn.com/ce50c426-835d-4987-8e67-6d8ea26360f3/
   - heading: "11REFLECTIONS: SAN FRANCISCO  "
     items:
       - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
@@ -45,7 +19,10 @@ lists:
           ***11Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
 
 
-          Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, **Art2Action**, and in collaboration with **Aviva Arts**  \
+          Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, **Art2Action**, and in collaboration with **Aviva Arts**  
+
+
+          Sliding scale ticket prices starting at **$25 - $100** (+3.25 fee) \
 
           \
 
