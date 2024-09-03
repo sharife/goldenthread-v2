@@ -2,8 +2,8 @@
 title: Welcome (back) Evren Odcikin!
 date: 2024-08-27T20:32:32.503Z
 description: >-
-  We’re proud to announce acclaimed Turkish-American director, writer, and arts
-  leader
+  August, 2024 - We’re proud to announce acclaimed Turkish-American director,
+  writer, and arts leader
 
   Evren Odcikin as our 2024-25 Artist in Residence.
 background: https://ucarecdn.com/04f3dcc7-4a9d-4739-a787-e6a0b598f545/
