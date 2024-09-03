@@ -60,7 +60,7 @@ For assistance with any box office related issue, please email [boxoffice@golden
 
 **Ticket Policies:**
 
-* Ticket purchases are non-refundable and valid only for the date and performance issued.
+* Ticket purchases are **non-refundable** and valid only for the date and performance issued.
 * Free exchanges for a later date or a future show are subject to availability. Requests can be made to the box office via email.
 * All seating is general admission unless otherwise specified.
 * All tickets are available for pick up at will call under the name of the purchaser.
