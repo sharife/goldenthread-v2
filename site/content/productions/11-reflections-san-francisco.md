@@ -11,7 +11,7 @@ description: >-
 
 
   The project draws on Andrea Assaf’s seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine.
-titleimage: https://ucarecdn.com/b4503e64-4d0c-4cd1-b47a-8ae28284bbfd/
+titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist)
