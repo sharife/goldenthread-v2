@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: "11Reflections: San Francisco"
 subtitle: ""
-background: https://ucarecdn.com/b05c01b6-0675-4fa2-bcc5-9c59921a5a36/
+background: https://ucarecdn.com/4e23c60a-3fc5-4f27-a27b-0d400a55f2cf/
 cta: Tickets on sale NOW!
 link: https://goldenthread.org/tickets/
 items:
@@ -63,7 +63,7 @@ items:
       **Oct 4 & 5, 2024 at 7pm**\
 
       at Brava Theater Center, San Francisco
-    image: https://ucarecdn.com/28740959-52f6-474e-a215-85d74e4c304b/
+    image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/11-reflections-san-francisco/
 ---
