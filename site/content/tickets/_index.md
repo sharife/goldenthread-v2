@@ -27,7 +27,7 @@ lists:
           \
 
           For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email [info@brava.org](mailto:info@brava.org)
-        image: https://ucarecdn.com/1fe3e851-baeb-44dd-8056-a38eeecd2edb/
+        image: https://ucarecdn.com/1fe3e851-baeb-44dd-8056-a38eeecd2edb/-/crop/1920x707/0,0/-/preview/
 ---
 - - -
 
