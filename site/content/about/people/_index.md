@@ -967,4 +967,23 @@ advisors:
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
       link: https://www.naomiwallace.com/
+    - name: Heather Rastovac Akbarzadeh
+      image: https://ucarecdn.com/d1ff8d0c-4241-4514-87f3-83a062859314/
+      bio: "**Heather Rastovac Akbarzadeh** is an interdisciplinary scholar-artist and
+        assistant professor in critical dance studies at the University of
+        California, Riverside. Building upon two decades as a dance-maker,
+        artistic director, and dramaturg among diasporic SWANA communities,
+        Heather’s research examines diasporic SWANA performances of refusal that
+        are oriented toward undermining (neo)colonial structures of seeing,
+        feeling, and knowing the “Middle East.” Heather earned her Ph.D. in
+        Performance Studies from UC Berkeley with a designated emphasis in
+        Women, Gender, and Sexuality, followed by a Mellon postdoctoral
+        fellowship in Dance Studies at Stanford University and a UC Chancellor’s
+        postdoctoral fellowship in Asian American Studies at UC Davis. Her first
+        book monograph-in-progress is entitled *Choreographing the Iranian
+        Diaspora: Dance, Spectatorship, and the Politics of Belonging*. Her
+        publications include chapters in the *Oxford Handbook of Dance Praxis*
+        (under review); *Dance in the Persianate World: History, Aesthetics, and
+        Performance* (2023); *Performing Iran: Cultural Identity and Theatrical
+        Performance* (2022); and *Futures of Dance Studies* (2020)."
 ---
