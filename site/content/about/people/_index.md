@@ -967,7 +967,7 @@ advisors:
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
       link: https://www.naomiwallace.com/
-    - name: Heather Rastovac Akbarzadeh
+    - name: Heather Rastovac Akbarzadeh, Ph.D.
       image: https://ucarecdn.com/d1ff8d0c-4241-4514-87f3-83a062859314/
       bio: "**Heather Rastovac Akbarzadeh** is an interdisciplinary scholar-artist and
         assistant professor in critical dance studies at the University of
@@ -986,4 +986,6 @@ advisors:
         (under review); *Dance in the Persianate World: History, Aesthetics, and
         Performance* (2023); *Performing Iran: Cultural Identity and Theatrical
         Performance* (2022); and *Futures of Dance Studies* (2020)."
+      credit: Assistant Professor, Critical Dance Studies, University of California,
+        Riverside
 ---
