@@ -968,7 +968,7 @@ advisors:
       name: Naomi Wallace
       link: https://www.naomiwallace.com/
     - name: Heather Rastovac Akbarzadeh, Ph.D.
-      image: https://ucarecdn.com/d1ff8d0c-4241-4514-87f3-83a062859314/
+      image: ""
       bio: "**Heather Rastovac Akbarzadeh** is an interdisciplinary scholar-artist and
         assistant professor in critical dance studies at the University of
         California, Riverside. Building upon two decades as a dance-maker,
