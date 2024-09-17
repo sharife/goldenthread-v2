@@ -92,6 +92,25 @@ cast:
 
         [eylembasaldi.com](https://www.eylembasaldi.com/)
       image: https://ucarecdn.com/39d170ae-b22e-451b-8e37-c827ad63dd83/
+      credit: Music Director
+    - name: Clarissa Bitar
+      credit: "musician "
+      image: https://ucarecdn.com/7bd94c21-3bcc-4c43-a3fd-047145f2bbb2/
+      bio: >-
+        **Clarissa Bitar** is an award winning Palestinian oud musician and
+        composer born, raised, and based in Los Angeles, California. They
+        graduated from UC Santa Barbara with a degree in Music and an emphasis
+        in Ethnomusicology. To further their studies, Clarissa sought out and
+        learned from prominent Arab oudists including Simon Shaheen, Charbel
+        Rouhana, and Bassam Saba. Clarissa has had the privilege of performing
+        around the country and internationally.
+
+        They have incorporated oud with a multitude of genres ranging from R&B to Pop to Hip Hop and Rap. Their latest album titled 'Hassan Sabi' is out now on all streaming platforms.
+
+        Their music has been featured on Netflix, radio, film, and exhibits around the world. They released a joint poetry-oud EP with Palestinian poet Mohammed El-Kurd in January of 2019 titled Bellydancing on Wounds as well as their solo EP Bayati.
+
+        Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others.
+      link: https://clarissabitar.com/#/
 mentions:
   heading: Story Circles in May, 2024
   text: >-
