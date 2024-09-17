@@ -92,6 +92,7 @@ cast:
 
         [eylembasaldi.com](https://www.eylembasaldi.com/)
       image: https://ucarecdn.com/39d170ae-b22e-451b-8e37-c827ad63dd83/
+      credit: Music Director
     - name: Clarissa Bitar
       credit: "musician "
       image: https://ucarecdn.com/7bd94c21-3bcc-4c43-a3fd-047145f2bbb2/
