@@ -988,4 +988,5 @@ advisors:
         Performance* (2022); and *Futures of Dance Studies* (2020)."
       credit: Assistant Professor, Critical Dance Studies, University of California,
         Riverside
+      link: https://www.heatherrastovac.com/
 ---
