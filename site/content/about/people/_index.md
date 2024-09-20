@@ -135,6 +135,20 @@ staff:
         Soluna feels blessed to be surrounded by so many brilliant artists, and
         can’t wait to bring the incredible visions of Crowded Fire and Golden
         Thread into reality!"
+    - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
+        in San Francisco. He began working with Golden Thread in 2008. As a
+        design professional and art director he has worked widely in a variety
+        of disciplines and media, while focusing primarily on poster &amp;
+        publication design, logo &amp; visual identity and advertising since
+        1998. Through his full-service graphic design studio NaMa, Navid offers
+        creative solutions as well as design consulting services to numerous
+        arts and cultural institutions, visual artists, independent musicians,
+        theater companies, film festivals, and filmmakers both locally and
+        internationally. Navid holds an MFA in design from California College of
+        the Arts in San Francisco.
+      credit: Art Director
+      image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
+      name: Navid Ghaem Maghami
     - name: Evren Odcikin
       credit: Artist in Residence
       image: https://ucarecdn.com/14111a33-9246-4ebc-ac50-5a2b729d2096/
@@ -161,20 +175,6 @@ staff:
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
       link: ""
-    - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
-        in San Francisco. He began working with Golden Thread in 2008. As a
-        design professional and art director he has worked widely in a variety
-        of disciplines and media, while focusing primarily on poster &amp;
-        publication design, logo &amp; visual identity and advertising since
-        1998. Through his full-service graphic design studio NaMa, Navid offers
-        creative solutions as well as design consulting services to numerous
-        arts and cultural institutions, visual artists, independent musicians,
-        theater companies, film festivals, and filmmakers both locally and
-        internationally. Navid holds an MFA in design from California College of
-        the Arts in San Francisco.
-      credit: Art Director
-      image: https://ucarecdn.com/b574f6a7-8c8a-4cc8-bd8f-1ee5c168cefc/
-      name: Navid Ghaem Maghami
     - bio: "<strong>Torange Yeghiazarian</strong> *(she/her)* is the Founding Artistic
         Director Emeritus of Golden Thread Productions, the first American
         theatre company focused on the Middle East where she launched such
