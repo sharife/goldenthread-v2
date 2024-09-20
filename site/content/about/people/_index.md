@@ -51,7 +51,7 @@ staff:
       name: Michelle Mulholland
     - name: Wynne Chan
       credit: Managing Director (incoming)
-      image: https://ucarecdn.com/3c9bc90a-2c7e-406b-80d5-405439c870d9/-/crop/1306x1865/0,0/-/preview/
+      image: https://ucarecdn.com/b12416dc-8b0a-457e-b978-0904a2822838/-/crop/1336x1776/0,135/-/preview/
       bio: >-
         **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
         theater artist with ten years of nonprofit experience. Most recently,
