@@ -46,9 +46,26 @@ staff:
         African-American Shakespeare Company, Z Space, Lorraine Hansberry
         Theatre, Cutting Ball Theater, and Brava Theater. She has also worked
         with Teatro Zinzanni, ACT, and the SFMOMA.
-      credit: Managing Director
+      credit: Managing Director (outgoing)
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
+    - name: Wynne Chan
+      credit: Managing Director (incoming)
+      image: https://ucarecdn.com/3c9bc90a-2c7e-406b-80d5-405439c870d9/-/crop/1306x1865/0,0/-/preview/
+      bio: >-
+        **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
+        theater artist with ten years of nonprofit experience. Most recently,
+        she was the head of Candid’s Seals of Transparency program and managed
+        the U.S.’s largest self-contributed nonprofit database with over 100,000
+        nonprofit participants. Previously, she led GuideStar’s revenue
+        budgeting, strategic planning, and impact evaluation. She helped
+        coordinate the formation of Candid (from Guidestar and Foundation
+        Center) and facilitated cross-organization workstreams on strategic
+        vision and culture and change management. 
+
+
+        Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. wynnechan.info
+      link: https://www.wynnechan.info/
     - name: Sheila Devitt
       credit: Marketing & Engagement Manager
       image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
@@ -206,23 +223,6 @@ staff:
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
       link: https://www.odcikin.com/
-    - name: Wynne Chan
-      credit: Managing Director (incoming)
-      image: https://ucarecdn.com/3c9bc90a-2c7e-406b-80d5-405439c870d9/-/crop/1306x1865/0,0/-/preview/
-      bio: >-
-        **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
-        theater artist with ten years of nonprofit experience. Most recently,
-        she was the head of Candid’s Seals of Transparency program and managed
-        the U.S.’s largest self-contributed nonprofit database with over 100,000
-        nonprofit participants. Previously, she led GuideStar’s revenue
-        budgeting, strategic planning, and impact evaluation. She helped
-        coordinate the formation of Candid (from Guidestar and Foundation
-        Center) and facilitated cross-organization workstreams on strategic
-        vision and culture and change management. 
-
-
-        Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. wynnechan.info
-      link: https://www.wynnechan.info/
 board:
   heading: Board of Trustees
   items:
