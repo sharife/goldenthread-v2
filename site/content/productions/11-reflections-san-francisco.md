@@ -111,6 +111,9 @@ cast:
 
         Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others.
       link: https://clarissabitar.com/#/
+    - name: Sophia Alawi
+      image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
+      credit: ensemble
 mentions:
   heading: Story Circles in May, 2024
   text: >-
