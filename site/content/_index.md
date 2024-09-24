@@ -6,6 +6,26 @@ background: https://ucarecdn.com/4e23c60a-3fc5-4f27-a27b-0d400a55f2cf/
 cta: Tickets on sale NOW!
 link: https://goldenthread.org/tickets/
 items:
+  - subtitle: "**11Reflections: San Francisco**"
+    text: >-
+      Devised and directed by **Andrea Assaf**\
+
+      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**\
+
+      and Turkish composer and violinist **Eylem Basaldi**
+
+
+      An episodic, multimedia performance, **[11Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** features international renowned performers alongside Bay Area artists who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001 — from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
+
+
+      **TWO PERFORMANCES ONLY!**\
+
+      **Oct 4 & 5, 2024 at 7pm**\
+
+      at Brava Theater Center, San Francisco
+    image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
+    cta: "Buy Tickets! "
+    link: https://goldenthread.org/productions/11-reflections-san-francisco/
   - subtitle: "**Welcome (back) Evren Odcikin!**"
     text: >-
       We’re proud to announce acclaimed Turkish-American director, writer, and
@@ -46,24 +66,4 @@ items:
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
-  - subtitle: "**11Reflections: San Francisco**"
-    text: >-
-      Devised and directed by **Andrea Assaf**\
-
-      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**\
-
-      and Turkish composer and violinist **Eylem Basaldi**
-
-
-      An episodic, multimedia performance, **[11Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** features international renowned performers alongside Bay Area artists who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001 — from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
-
-
-      **TWO PERFORMANCES ONLY!**\
-
-      **Oct 4 & 5, 2024 at 7pm**\
-
-      at Brava Theater Center, San Francisco
-    image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
-    cta: "Buy Tickets! "
-    link: https://goldenthread.org/productions/11-reflections-san-francisco/
 ---
