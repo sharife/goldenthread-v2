@@ -111,6 +111,36 @@ cast:
 
         Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others.
       link: https://clarissabitar.com/#/
+    - name: Sophia Alawi
+      image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
+      credit: ensemble
+    - name: "Amal Bisharat "
+      credit: ensemble
+      image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
+    - name: Deborah Eliezer
+      credit: ensemble
+      image: https://ucarecdn.com/13735c98-ac80-49db-8a62-d578a9c46747/
+    - name: Shayna Ann Howlett
+      credit: ensemble
+      image: https://ucarecdn.com/8301ae49-6a83-417b-9c32-aa1ef1e1e022/
+    - name: Nida Liftawiya
+      credit: ensemble
+      image: https://ucarecdn.com/78cd482b-a6f2-4cc8-a5f6-bd0ff7f45f19/
+    - name: Maya Nazzal
+      credit: ensemble
+      image: https://ucarecdn.com/0b0b1324-5b59-4c6a-8c0f-44a94dcd609f/
+    - name: Aidaa Peerzada
+      credit: "ensemble "
+      image: https://ucarecdn.com/8de02dcf-f300-47f5-8bf0-2bc2399b6c90/
+    - name: Zeta Sanchez Blardony
+      credit: ensemble
+      image: https://ucarecdn.com/cd1e8b5e-4035-4bd2-8f92-1a905bf1f9bc/
+    - name: Megan Soledad
+      credit: ensemble
+      image: https://ucarecdn.com/cd5a446b-ec12-4a36-9a61-262c0abe9fa8/
+    - name: Arielle Tonkin
+      credit: ensemble
+      image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
 mentions:
   heading: Story Circles in May, 2024
   text: >-
