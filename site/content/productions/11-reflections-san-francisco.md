@@ -141,6 +141,9 @@ cast:
     - name: Arielle Tonkin
       credit: ensemble
       image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
+    - name: Torange Yeghiazarian
+      credit: ensemble
+      image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
 mentions:
   heading: Story Circles in May, 2024
   text: >-
