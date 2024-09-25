@@ -1,5 +1,5 @@
 ---
-title: Meet Wynne Chan
+title: Meet Wynne Chan, Golden Thread's New Managing Director
 date: 2024-09-25T22:53:18.462Z
 background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
 ---
