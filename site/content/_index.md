@@ -9,10 +9,10 @@ items:
   - subtitle: "**Welcome Wynne Chan!**"
     cta: Read More
     text: >-
-      We're thrilled to announce beloved Bay Area administrator and artist Wynne
-      Chan as our new Managing Director. Chan brings over a decade of nonprofit
-      management experience. Wynne also directs, vocal directs, produces and
-      performs regularly in the Bay Area. 
+      We're thrilled to announce beloved Bay Area administrator and artist
+      **Wynne Chan** as our new Managing Director. Chan brings over a decade of
+      nonprofit management experience. Wynne also directs, vocal directs,
+      produces and performs regularly in the Bay Area. 
 
 
       “Throughout our nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience," says Board President Babak Sani. "Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf."
