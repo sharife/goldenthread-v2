@@ -56,7 +56,7 @@ My identity itself is political. I have chosen to put my identity as Hong Kong-A
 
 I’m interested in telling stories about immigranthood. Specifically, stories that center the joy and nuance of bridging cultural traditions of home countries and America. Much of my directorial work centers Asian American experiences. Sometimes these are comedies, sometimes they touch on heavy topics. One thing that’s been important to me is to find joy and moments of lightness in each piece. There’s often a lot of trauma in shows about immigrant experiences because this country has never been kind to immigrants. But as humans, in order to survive, we always find the lightness and beauty even in times of distress. That balance is what I’m interested in the most. I especially love exploring the journey a character takes to come to terms with their new identity in a new place. 
 
-![](https://ucarecdn.com/f85ad652-aac2-4c92-b1d4-331d7974e887/)
+![](https://ucarecdn.com/38329aa2-0f8e-4e9c-9653-976cac892aed/)
 
 **What is a surprising fact that folks might not know about you?** 
 
