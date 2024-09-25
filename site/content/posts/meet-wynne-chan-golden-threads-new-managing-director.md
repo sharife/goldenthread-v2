@@ -1,11 +1,15 @@
 ---
 title: Meet Wynne Chan, Golden Thread's New Managing Director
 date: 2024-09-25T22:53:18.462Z
+description: >
+  Chan comes to Golden Thread with more than a decade of experience in
+  non-profit best practices as well as artmaking that uplifts
+  historically-excluded voices.
 background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
 ---
 ##### Please join us in welcoming beloved Bay Area administrator and artist **Wynne Chan** (she/her) as Golden Thread’s new Managing Director!
 
-Wynne is a a Hong Kong-American director and theater artist with ten years of nonprofit experience. Most recently, she was the head of Candid’s Seals of Transparency program and managed the U.S.’s largest self-contributed nonprofit database with over 100,000 nonprofit participants. Previously, she led GuideStar’s revenue budgeting, strategic planning, and impact evaluation. She helped coordinate the formation of Candid (from Guidestar and Foundation Center) and facilitated cross-organization workstreams on strategic vision and culture and change management. Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater.
+Golden Thread Productions, the first American theatre company devoted to the Middle East, is proud to announce Hong Kong-American administrator and theatre artist Wynne Chan (she/her) as its next Managing Director. Chan was selected after a rigorous nationwide process, and brings with her more than ten years of experience in nonprofit management, with a focus on defining and upholding nonprofit best practices. Most recently, she was the head of Candid’s Seals of Transparency program and managed the U.S.’s largest self-contributed nonprofit database with over 100,000 nonprofit participants. Along with her operations work, Chan also directs, vocal directs, produces, and performs regularly in the Bay Area. This hire moves Golden Thread to a dual leadership model with Chan sharing executive duties with Executive Artistic Director Sahar Assaf under the Board of Trustees.
 
 “I am thrilled to welcome Wynne as my co-leader for this exciting new chapter at Golden Thread. As we deepen our political and social justice engagement and align our programming with our strategic plan, Wynne’s partnership is invaluable,” adds Executive Artistic Director Sahar Assaf. “Her expertise in the nonprofit world, her artistic sensibilities as a director and performer, and her lived experience as a child of immigrants from Hong Kong bring a vital perspective to our community-focused mission.”
 
@@ -53,10 +57,12 @@ My identity itself is political. I have chosen to put my identity as Hong Kong-A
 
 I’m interested in telling stories about immigranthood. Specifically, stories that center the joy and nuance of bridging cultural traditions of home countries and America. Much of my directorial work centers Asian American experiences. Sometimes these are comedies, sometimes they touch on heavy topics. One thing that’s been important to me is to find joy and moments of lightness in each piece. There’s often a lot of trauma in shows about immigrant experiences because this country has never been kind to immigrants. But as humans, in order to survive, we always find the lightness and beauty even in times of distress. That balance is what I’m interested in the most. I especially love exploring the journey a character takes to come to terms with their new identity in a new place.
 
-
-
 **What is a surprising fact that folks might not know about you?**
 
 I’m one of those people that dabble in a lot of different art forms. I paint, I sing, I do theater, but the most recent one that I’ve been taking more seriously is cooking. I started throwing occasional supper club dinners when I’m not super busy with theater. There’s an art to cooking, but also an art to plating, to curating a menu, and to presenting each dish. It’s been really fun!
 
 ![](https://ucarecdn.com/d5fec55b-9991-4ebf-b4c4-21838285a26e/)
+
+**ABOUT WYNNE CHAN:**
+
+Wynne Chan (she/her) is a Hong Kong-American director and theater artist with ten years of nonprofit experience. Most recently, she was the head of Candid’s Seals of Transparency program and managed the U.S.’s largest self-contributed nonprofit database with over 100,000 nonprofit participants. Previously, she led GuideStar’s revenue budgeting, strategic planning, and impact evaluation. She helped coordinate the formation of Candid (from Guidestar and Foundation Center) and facilitated cross-organization workstreams on strategic vision and culture and change management. Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC Productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. [wynnechan.info](http://www.wynnechan.info/)
