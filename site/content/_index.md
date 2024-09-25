@@ -66,4 +66,16 @@ items:
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
+  - subtitle: Welcome Wynne Chan!
+    cta: Read More
+    text: >-
+      We're thrilled to announce beloved Bay Area administrator and artist Wynne
+      Chan as our new Managing Director. Chan brings over a decade of nonprofit
+      management experience. Wynne also directs, vocal directs, produces and
+      performs regularly in the Bay Area. 
+
+
+      “Throughout our nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience," says Board President Babak Sani. "Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf."
+    image: https://ucarecdn.com/eb175288-d20f-429b-8c1a-607e088a9568/
+    link: https://goldenthread.org/posts/
 ---
