@@ -2,7 +2,7 @@
 title: "Meet Wynne Chan, Our New Managing Director! "
 date: 2024-09-20T20:23:50.434Z
 ---
-Please join us in welcoming **Wynne Chan** (she/her) as Golden Thread’s new Managing Director! 
+##### Please join us in welcoming **Wynne Chan** (she/her) as Golden Thread’s new Managing Director! 
 
 Wynne is a a Hong Kong-American director and theater artist with ten years of nonprofit experience. Most recently, she was the head of Candid’s Seals of Transparency program and managed the U.S.’s largest self-contributed nonprofit database with over 100,000 nonprofit participants. Previously, she led GuideStar’s revenue budgeting, strategic planning, and impact evaluation. She helped coordinate the formation of Candid (from Guidestar and Foundation Center) and facilitated cross-organization workstreams on strategic vision and culture and change management. Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. 
 
