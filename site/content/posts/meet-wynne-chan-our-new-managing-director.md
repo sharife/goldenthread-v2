@@ -44,7 +44,7 @@ A lot of my work focused on advocating for changes in the sector that help nonpr
 
 I think the biggest challenge is that the industry really hasn’t fully bounced back since the pandemic. SO many theater companies have shut down in the last few years, and many  are now afraid to take risks on what they choose to produce. Theater is meant to be provacative. What I appreciate most about Golden Thread is our willingness to take risks and tell stories that need to be told. Our audiences have responded extremely well to this. 
 
-![](https://ucarecdn.com/7dd7ce1c-ddbc-4ab8-b32f-ee59c1b9afb9/)
+![](https://ucarecdn.com/a1fa57fc-fe48-4c18-8c32-20b63831b7fa/)
 
 **You are a child of immigrants – from Hong Kong. How does that come into your leadership?** 
 
@@ -56,7 +56,7 @@ My identity itself is political. I have chosen to put my identity as Hong Kong-A
 
 I’m interested in telling stories about immigranthood. Specifically, stories that center the joy and nuance of bridging cultural traditions of home countries and America. Much of my directorial work centers Asian American experiences. Sometimes these are comedies, sometimes they touch on heavy topics. One thing that’s been important to me is to find joy and moments of lightness in each piece. There’s often a lot of trauma in shows about immigrant experiences because this country has never been kind to immigrants. But as humans, in order to survive, we always find the lightness and beauty even in times of distress. That balance is what I’m interested in the most. I especially love exploring the journey a character takes to come to terms with their new identity in a new place. 
 
-![](https://ucarecdn.com/034ab292-54bc-457a-9780-33b8c1963ae0/)
+![](https://ucarecdn.com/f85ad652-aac2-4c92-b1d4-331d7974e887/)
 
 **What is a surprising fact that folks might not know about you?** 
 
