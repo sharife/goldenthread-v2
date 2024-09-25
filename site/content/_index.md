@@ -6,6 +6,18 @@ background: https://ucarecdn.com/4e23c60a-3fc5-4f27-a27b-0d400a55f2cf/
 cta: Tickets on sale NOW!
 link: https://goldenthread.org/tickets/
 items:
+  - subtitle: "**Welcome Wynne Chan!**"
+    cta: Read More
+    text: >-
+      We're thrilled to announce beloved Bay Area administrator and artist Wynne
+      Chan as our new Managing Director. Chan brings over a decade of nonprofit
+      management experience. Wynne also directs, vocal directs, produces and
+      performs regularly in the Bay Area. 
+
+
+      “Throughout our nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience," says Board President Babak Sani. "Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf."
+    image: https://ucarecdn.com/eb175288-d20f-429b-8c1a-607e088a9568/
+    link: https://goldenthread.org/posts/
   - subtitle: "**11Reflections: San Francisco**"
     text: >-
       Devised and directed by **Andrea Assaf**\
@@ -50,32 +62,4 @@ items:
     image: https://ucarecdn.com/9e790345-b9e4-4412-84b8-7ea2e0e63bcd/
     cta: Find out more
     link: https://goldenthread.org/posts/welcome-back-evren-odcikin-2/
-  - subtitle: |-
-      **24 Hours for Palestine:** \
-      **A Moon Will Rise From Darkness**
-    text: >-
-      **W﻿atch FREE video recordings of the 24-hour online event!** T﻿his
-      t﻿railblazing global partnership featured 100+ global artists and
-      activists for a Free Palestine, including performances and presentations
-      honoring the Palestinian people and their steadfastness in the face of
-      genocide, and discussions of how to build solidarity in the global
-      movement for Palestinian liberation. 
-
-
-      O﻿rganized and produced by Golden Thread Productions a﻿nd Art2Action, in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, and Dunya Productions. S﻿tream hosted by HowlRound Theatre Commons.
-    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
-    cta: Learn More!
-    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
-  - subtitle: Welcome Wynne Chan!
-    cta: Read More
-    text: >-
-      We're thrilled to announce beloved Bay Area administrator and artist Wynne
-      Chan as our new Managing Director. Chan brings over a decade of nonprofit
-      management experience. Wynne also directs, vocal directs, produces and
-      performs regularly in the Bay Area. 
-
-
-      “Throughout our nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience," says Board President Babak Sani. "Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf."
-    image: https://ucarecdn.com/eb175288-d20f-429b-8c1a-607e088a9568/
-    link: https://goldenthread.org/posts/
 ---
