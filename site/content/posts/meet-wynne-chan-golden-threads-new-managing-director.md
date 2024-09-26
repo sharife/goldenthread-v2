@@ -2,8 +2,8 @@
 title: Meet Wynne Chan, Golden Thread's New Managing Director
 date: 2024-09-25T22:53:18.462Z
 description: >
-  Chan comes to Golden Thread with more than a decade of experience in
-  non-profit best practices as well as artmaking that uplifts
+  September, 2024 - Chan comes to Golden Thread with more than a decade of
+  experience in non-profit best practices as well as artmaking that uplifts
   historically-excluded voices.
 background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
 ---
@@ -11,7 +11,7 @@ background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
 
 Golden Thread Productions, the first American theatre company devoted to the Middle East, is proud to announce Hong Kong-American administrator and theatre artist Wynne Chan (she/her) as its next Managing Director. Chan was selected after a rigorous nationwide process, and brings with her more than ten years of experience in nonprofit management, with a focus on defining and upholding nonprofit best practices. Most recently, she was the head of Candid’s Seals of Transparency program and managed the U.S.’s largest self-contributed nonprofit database with over 100,000 nonprofit participants. Before helping coordinate the formation of Candid (from Guidestar and Foundation Center), Chan led GuideStar’s revenue budgeting, strategic planning, and impact evaluation, and facilitated cross-organization workstreams on strategic vision and culture and change management. Along with her operations work, Chan also directs, vocal directs, produces, and performs regularly in the Bay Area. This hire moves Golden Thread to a dual leadership model with Chan sharing executive duties with Executive Artistic Director Sahar Assaf under the Board of Trustees.
 
-“I am thrilled to welcome Wynne as my co-leader for this exciting new chapter at Golden Thread. As we deepen our political and social justice engagement and align our programming with our strategic plan, Wynne’s partnership is invaluable,” adds Executive Artistic Director Sahar Assaf. “Her expertise in the nonprofit world, her artistic sensibilities as a director and performer, and her lived experience as a child of immigrants from Hong Kong bring a vital perspective to our community-focused mission.”
+“I am thrilled to welcome Wynne as my co-leader for this exciting new chapter at Golden Thread. As we deepen our political and social justice engagement and align our programming with our strategic plan, Wynne’s partnership is invaluable,” says Executive Artistic Director Sahar Assaf. “Her expertise in the nonprofit world, her artistic sensibilities as a director and performer, and her lived experience as a child of immigrants from Hong Kong bring a vital perspective to our community-focused mission.”
 
 B﻿oard President Babak Sani adds: "Through an extensive nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience. Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf.”
 
