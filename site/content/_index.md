@@ -26,30 +26,18 @@ items:
     image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/productions/11-reflections-san-francisco/
-  - subtitle: "**Welcome (back) Evren Odcikin!**"
+  - subtitle: "**Welcome Wynne Chan!**"
     text: >-
-      We’re proud to announce acclaimed Turkish-American director, writer, and
-      arts leader **[Evren
-
-      Odcikin](https://goldenthread.org/posts/welcome-back-evren-odcikin-2/)** as our 2024-25 Artist in Residence. This is a real homecoming for Evren who has been
-
-      involved with Golden Thread since 2005 as an affiliated artist and staff member.
+      We’re thrilled to announce beloved Bay Area administrator and artist Wynne
+      Chan as Golden Thread's new Managing Director! Chan brings over a decade
+      of experience in non-profit best practices and artmaking that uplifts
+      historically-excluded voices.
 
 
-      “Over his two-decade career, Evren has done much for Middle Eastern artists at Golden Thread
-
-      and beyond, so it's a real joy to be able to support his artistry with this residency,” says
-
-      Executive Artistic Director Sahar Assaf. "His artistic voice is unique, his passion for
-
-      community engagement and brave political art is contagious, and his impact on the national
-
-      theater field is unquestionable. What a gift to be able to benefit from his expertise and
-
-      commitment to Golden Thread, while getting to celebrate his creativity and artistic journey."
-    image: https://ucarecdn.com/9e790345-b9e4-4412-84b8-7ea2e0e63bcd/
+      “I am thrilled to welcome Wynne as my co-leader for this exciting new chapter at Golden Thread," says Executive Artistic Director Sahar Assaf. "As we deepen our political and social justice engagement and align our programming with our strategic plan, Wynne’s partnership is invaluable. Her expertise in the nonprofit world, her artistic sensibilities as a director and performer, and her lived experience as a child of immigrants from Hong Kong bring a vital perspective to our community-focused mission.”
+    image: https://ucarecdn.com/70d396bb-fea7-4318-861c-654fae325b5e/
     cta: Find out more
-    link: https://goldenthread.org/posts/welcome-back-evren-odcikin-2/
+    link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
