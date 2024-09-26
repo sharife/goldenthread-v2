@@ -2,8 +2,8 @@
 title: Meet Wynne Chan, Golden Thread's New Managing Director
 date: 2024-09-25T22:53:18.462Z
 description: >
-  Chan comes to Golden Thread with more than a decade of experience in
-  non-profit best practices as well as artmaking that uplifts
+  September, 2024 - Chan comes to Golden Thread with more than a decade of
+  experience in non-profit best practices as well as artmaking that uplifts
   historically-excluded voices.
 background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
 ---
