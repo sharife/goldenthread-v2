@@ -31,11 +31,11 @@ Sure, for the last ten years I’ve been with Candid, formerly GuideStar and Fou
 
 **Where did you grow up? What brought you to theater and performance?**
 
-I grew up right here in San Francisco. I came to theater because I felt disconnected to a lot of pop culture as a child of immigrant. My parents listened to Cantonese pop music, watched Hong Kong TV programs, and I always struggled to catch up to what other kids were listening to or watching. I also never quite saw myself in mainstream media. Musical theater was a way for me to feel connected to American culture and an excuse to not know pop culture while not seeming ‘less American”. As I dug deeper into it, I grew to love theater and the way it can speak to you like no other art form can.
+I grew up right here in San Francisco. I came to theater because I felt disconnected to a lot of pop culture as a child of immigrants. My parents listened to Cantonese pop music, watched Hong Kong TV programs, and I always struggled to catch up to what other kids were listening to or watching. I also never quite saw myself in mainstream media. Musical theater was a way for me to feel connected to American culture and an excuse to not know pop culture while not seeming "less American". As I dug deeper into it, I grew to love theater and the way it can speak to you like no other art form can.
 
 **What drew you to Golden Thread Productions?**
 
-I was drawn to Golden Thread Productions because of the unique topics Golden Thread shows touches on. No other theater company centers Middle Eastern stories like Golden Thread does, and it really speaks to me because I always seek out theater told through a non-white lens. Through my interview process, I also learned how tightknit this community is, and it gave me confidence that Golden Thread is a great company set out to do good and unique work.
+I was drawn to Golden Thread Productions because of the unique topics Golden Thread shows touch on. No other theater company centers Middle Eastern stories like Golden Thread does, and it really speaks to me because I always seek out theater told through a non-white lens. Through my interview process, I also learned how tightknit this community is, and it gave me confidence that Golden Thread is a great company set out to do good and unique work.
 
 **You come to us with decade-long experience in non-profit transparency and best practices. What are some of the ways you see your role at Golden Thread, and any priorities for your first year or two on the job?**
 
@@ -49,7 +49,7 @@ I think the biggest challenge is that the industry really hasn’t fully bounced
 
 **You are a child of immigrants – from Hong Kong. How does that come into your leadership?**
 
-As a child of immigrant who spent a lot of her youth in Hong Kong and balancing my identity between the two worlds, I think I share a high level understanding of the many difficulties hyphenated Americans and immigrants face. In a leadership context, that means I’m willing to fight for producing shows that center that experience that may seem less relatable to some folks. It also means being mindful of cultural contexts as we work with people from around the world.
+As a child of immigrants who spent a lot of my youth in Hong Kong and balancing my identity between the two worlds, I think I share a high level understanding of the many difficulties hyphenated Americans and immigrants face. In a leadership context, that means I’m willing to fight for producing shows that center that experience that may seem less relatable to some folks. It also means being mindful of cultural contexts as we work with people from around the world.
 
 My identity itself is political. I have chosen to put my identity as Hong Kong-American front and center because of all the political movements that have been happening in Hong Kong in the past 10+ years. I’m grateful to have Golden Thread as a home because we have always been unafraid to produce theater that explores oppression.
 
