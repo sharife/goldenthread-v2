@@ -15,8 +15,8 @@ items:
       produces and performs regularly in the Bay Area. 
 
 
-      “Throughout our nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience," says Board President Babak Sani. "Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf."
-    image: https://ucarecdn.com/eb175288-d20f-429b-8c1a-607e088a9568/
+      “I am thrilled to welcome Wynne as my co-leader for this exciting new chapter at Golden Thread,” says Executive Artistic Director Sahar Assaf. “ As we deepen our political and social justice engagement and align our programming with our strategic plan, Wynne’s partnership is invaluable. Her expertise in the nonprofit world, her artistic sensibilities as a director and performer, and her lived experience as a child of immigrants from Hong Kong bring a vital perspective to our community-focused mission.”
+    image: https://ucarecdn.com/1c6147ad-0fbe-4f86-8e1e-9893bbb57760/
     link: https://goldenthread.org/posts/
   - subtitle: "**11Reflections: San Francisco**"
     text: >-
