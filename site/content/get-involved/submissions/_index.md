@@ -5,35 +5,7 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
-### **THANK YOU for your Submissions to ReOrient Festival of Short Plays 2023**
-
-Produced once every two-years, ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco. The submission period for **ReOrient Festival 2023** is **now closed.**
-
-**Eligibility:**
-
-• Plays by playwrights of Middle Eastern heritage on any topic
-
-• Plays about the Middle East by playwrights of any cultural heritage
-
-• Plays must be in English
-
-• Length: 10-30 minutes. One submission only per playwright 
-
-**Areas of interest include:**
-
-• Comedies: political satire, romantic comedies
-
-• Plays that experiment with non-realistic forms, non-linear or physically-based storytelling
-
-• Plays that explore aspects of immigrant or family life
-
-• Adaptations of classical texts and or historical figures
-
-• Exploration of Middle Eastern performance traditions
-
-**In 2024, we will open submissions for ReOrient 2025.**
-
-![](https://ucarecdn.com/f5278e9a-140a-455a-914a-818fc36aff5b/)
+![]()
 
 ### We Accept Full-length Plays Year-Round.
 
