@@ -15,7 +15,7 @@ Golden Thread Productions, the first American theatre company devoted to the Mid
 
 B﻿oard President Babak Sani adds: "Through an extensive nationwide search process, Wynne distinguished herself as a thoughtful and confident leader with more than a decade of relevant financial and strategic planning experience. Her unwavering commitment to uplifting the voices of underserved communities both as an administrator and as an artist make her an exceptional partner to Executive Artistic Director Sahar Assaf.”
 
-Chan follows outgoing Managing Director Michelle Mulholland who has left an indelible mark on Golden Thread through her 14 years of service. Chan started her duties last month, and will be overlapping with Mulholland through the end of the year to allow for a healthy transition.
+Chan follows outgoing Managing Director Michelle Mulholland who has left an indelible mark on Golden Thread through her 13 years of service. Chan started her duties last month, and will be overlapping with Mulholland through the end of the year to allow for a healthy transition.
 
 We asked Wynne a few questions to learn more about her in her own words.
 
