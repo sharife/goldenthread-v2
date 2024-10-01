@@ -5,12 +5,15 @@ date: 2024-01-24T04:42:13.635Z
 start: 2024-10-04T03:42:13.642Z
 end: 2024-10-05T03:42:13.648Z
 description: >-
-  ***11Reflections: San Francisco*** is part of a new national series of
-  performance works, ***Eleven Reflections on the Nation***, devised by Andrea
-  Assaf. 
+  An episodic, multimedia performance, ***11Reflections: San Francisco***
+  features international renowned performers alongside Bay Area artists who have
+  been affected by post-9/11 policies to contribute their stories, illuminating
+  our collective experiences since 2001 — from the fall of the Twin Towers, to
+  the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of
+  genocide in Palestine.
 
 
-  The project draws on Andrea Assaf’s seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, and now to the funding of genocide in Palestine.
+  ***11Reflections: San Francisco*** is part of a new national series of performance works, ***Eleven Reflections on the Nation***, devised by Andrea Assaf. The project draws on Andrea Assaf’s seminal work, ***Eleven Reflections on September***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
 titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
@@ -147,20 +150,23 @@ cast:
 mentions:
   heading: Story Circles in May, 2024
   text: >-
-    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies
-    in the Bay Area to participate in Community Story Circle workshops led by
-    [Andrea Assaf](https://www.art2action.org/artists/andrea-assaf) as part of
-    the *11Reflections: San Francisco* project. 
+    ***11Reflections: San Francisco*** invites Southwest/Central Asian and North
+    African (SWANA), Middle Eastern/North African/South Asian (MENASA), and
+    Muslim American artists, BIPOC artists and allies, and impacted communities
+    in the Bay Area to participate in Story Circles, workshops, creative
+    writing, and theatre-making in response to the question: What has the impact
+    of the post-9/11 era been in your city, and how does it connect to what’s
+    happening today?
+
+
+    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies in the Bay Area to participate in Community Story Circle workshops led by [Andrea Assaf](https://www.art2action.org/artists/andrea-assaf) as part of the *11Reflections: San Francisco* project. 
 
 
     Monday, May 13, 6-9pm
 
     Community Story Circle @ Brava!
 
-    Presented by Aviva Arts
-
-
-    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco-1/form). \
+    Presented by Aviva Arts \
 
     \
 
@@ -169,9 +175,6 @@ mentions:
     Community Story Circle @ Red Poppy Art House! 
 
     Presented by Red Poppy
-
-
-    Register [here](https://www.art2action.org/events-1/story-circle-11reflections-san-francisco/form).
 bottom:
   logos:
     - image: https://ucarecdn.com/00de42c3-2bf3-429a-b12f-70c0d575a062/
