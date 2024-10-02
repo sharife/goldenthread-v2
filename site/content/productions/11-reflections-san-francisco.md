@@ -252,6 +252,19 @@ cast:
     - name: Arielle Tonkin
       credit: ensemble
       image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
+      bio: "**Arielle Tonkin** (*they/them*) is a mixed Moroccan and Ashkenazi artist
+        and a Community Council Member for Golden Thread's 2024 Season for
+        Palestine. Arielle paints, cantillates and co-produces immersive art and
+        ritual spaces across the U.S. Recent highlights include: *Morocco to the
+        Bay: A Diasporic Prayerformance* (2023), Albany; *A Fence Around the
+        Torah* (2021-2022), Jewish Museum of Maryland; *Queering Jewish
+        Diasporas* (2019), Oakland; and solo exhibition *Orienting Practice*
+        (2018), Boston. Arielle began as a youth activist involved in
+        Muslim-Jewish student organizing in post-9/11 New York. Arielle weaves
+        relationships and materializes conversations: the Muslim-Jewish Arts
+        Fellowship, Arts Jam for Social Change, Tzedek Lab, and Inside Out
+        Wisdom in Action are among their networks of accountability, collective
+        power and care."
     - name: Torange Yeghiazarian
       credit: ensemble
       image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
