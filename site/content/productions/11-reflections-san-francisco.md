@@ -117,6 +117,22 @@ cast:
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
       credit: ensemble
+      bio: "**Sophia Alawi** is a first-generation Muslim Moroccan/Italian American
+        actress, singer, songwriter & writer. She has a BFA in Musical Theater
+        from Rider University. She also studied at T'Schreiber, Stella Adler
+        Studio of Acting, and The Barrow Group in New York. She won the San
+        Francisco Bay Area Theatre Critics Circle award for Best Featured
+        Actress – Musical in 2019 for *Groundhog Day The Musical* and was named
+        one of “Five Standout Performances” in 2019 by the Houston Chronicle for
+        the role of Wendla in *Spring Awakening*. Regional credits include
+        *Sound of Music* (Hillbarn Theater) *EVITA*, *As You Like It*, *Twelfth
+        Night* and *Groundhog Day The  Musical* (San Francisco Playhouse),
+        *Spring Awakening* (Theater Under the Stars), *She Loves Me*, *Merrily
+        We Roll Along* & *Fun Home* (42nd St Moon), and *In the Heights*
+        (Playhouse on Park). New York credits include *Fat Kid Rules the World*,
+        and *Emerson Loses Her Mind*. TV credits include *Law & Order SVU*. She
+        is so excited to be a part of this devised theater piece that uplifts
+        Palestinian voices."
     - name: "Amal Bisharat "
       credit: ensemble
       image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
