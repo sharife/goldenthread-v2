@@ -114,6 +114,8 @@ cast:
 
         Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others. [clarissabitar.com](https://clarissabitar.com/#/)
       link: ""
+    - name: Peter Mansour
+      credit: musician
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
       credit: ensemble
@@ -299,8 +301,17 @@ cast:
         Anthology of Middle Eastern-American Drama,” TCG, 2009. Born in Iran and
         of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
         from San Francisco State University."
-    - name: Peter Mansour
-      credit: musician
+    - name: Sacred City | pearl ubungen
+      credit: choreography
+      bio: "**Pearl Ubungen** is a highly-acclaimed choreographer/cultural activist.
+        During the 1990’s, her investigations of place/site/memory
+        re-invigorated the field of community-based arts, re-negotiated the
+        critical space between social activism and art making and placed
+        cross-cultural, intergenerational work at the center of the art-making
+        process. Based in San Francisco and fourth generation Pilipina American,
+        ubungen is an interdisciplinary artist who attributes much of her
+        creative life force to the subtle energies and influences of San
+        Francisco."
 mentions:
   heading: ""
   text: ""
