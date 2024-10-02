@@ -22,7 +22,8 @@ featuring: Sophia Alawi, Sahar Assaf, Sonia Azizi, Amal Bisharat, Debórah
 musicaldirector: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist), Clarissa Bitar (oud), Peter Mansour
   (percussion)
-additional: Sacred Cityy | pearl ubungen (choreography)
+additional: "Sacred Cityy | pearl ubungen (choreography); publicity photography
+  by Gabi Vigueira "
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
