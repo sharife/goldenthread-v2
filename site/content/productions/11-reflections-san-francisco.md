@@ -17,10 +17,14 @@ description: >-
 titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
-  (Turkish composer and violinist)
+  (Turkish composer and violinist), Clarissa Bitar (oud), Peter Mansour
+  (percussion); Sacred Cityy | pearl ubungen (choreography); Sophia Alawi, Sahar
+  Assaf, Sonia Azizi, Amal Bisharat, Debórah Eliezer, Shayna Ann Howlett, Nida
+  Liftawiya, Maya Nazzal, Aidaa Peerzada, Zeta Sanchez Blardony, Megan Soledad,
+  Arielle Tonkin, Torange Yeghiazarian
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
-visitlink: ""
+visitlink: https://www.brava.org/visit
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 cast:
@@ -112,41 +116,208 @@ cast:
 
         Their music has been featured on Netflix, radio, film, and exhibits around the world. They released a joint poetry-oud EP with Palestinian poet Mohammed El-Kurd in January of 2019 titled Bellydancing on Wounds as well as their solo EP Bayati.
 
-        Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others.
-      link: https://clarissabitar.com/#/
+        Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others. [clarissabitar.com](https://clarissabitar.com/#/)
+      link: ""
+    - name: Peter Mansour
+      credit: musician
+      image: https://ucarecdn.com/fbe98e7d-b6f6-4c11-bcd5-d6fd4125c606/
+    - name: Sacred City | pearl ubungen
+      credit: choreography
+      bio: "**Pearl Ubungen** is a highly-acclaimed choreographer/cultural activist.
+        During the 1990’s, her investigations of place/site/memory
+        re-invigorated the field of community-based arts, re-negotiated the
+        critical space between social activism and art making and placed
+        cross-cultural, intergenerational work at the center of the art-making
+        process. Based in San Francisco and fourth generation Pilipina American,
+        ubungen is an interdisciplinary artist who attributes much of her
+        creative life force to the subtle energies and influences of San
+        Francisco. [pearlubungen.com](https://pearlubungen.com/)"
+      image: https://ucarecdn.com/d74b6f04-8fbc-458b-853b-fe565e8b0b8d/
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
       credit: ensemble
+      bio: "**Sophia Alawi** is a first-generation Muslim Moroccan/Italian American
+        actress, singer, songwriter & writer. She has a BFA in Musical Theater
+        from Rider University. She also studied at T'Schreiber, Stella Adler
+        Studio of Acting, and The Barrow Group in New York. She won the San
+        Francisco Bay Area Theatre Critics Circle award for Best Featured
+        Actress – Musical in 2019 for *Groundhog Day The Musical* and was named
+        one of “Five Standout Performances” in 2019 by the Houston Chronicle for
+        the role of Wendla in *Spring Awakening*. Regional credits include
+        *Sound of Music* (Hillbarn Theater) *EVITA*, *As You Like It*, *Twelfth
+        Night* and *Groundhog Day The  Musical* (San Francisco Playhouse),
+        *Spring Awakening* (Theater Under the Stars), *She Loves Me*, *Merrily
+        We Roll Along* & *Fun Home* (42nd St Moon), and *In the Heights*
+        (Playhouse on Park). New York credits include *Fat Kid Rules the World*,
+        and *Emerson Loses Her Mind*. TV credits include *Law & Order SVU*. She
+        is so excited to be a part of this devised theater piece that uplifts
+        Palestinian voices."
     - name: "Amal Bisharat "
       credit: ensemble
       image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
+      bio: "**Amal Bisharat** (*she/her*) is a Palestinian-American multidisciplinary
+        artist- a theater director, producer, writer, lyricist, songwriter,
+        actor and photographer. As 2023 Artist-in-Residence with Golden Thread
+        Productions, she co-produced and directed for their signature program
+        *ReOrient Festival of Short Plays*, as well as directed an online
+        reading of *The Gaza Monologues*  by Ashtar Theater. She is currently
+        developing a musical, *Mornings in Jenin Musical*, a Palestinian refugee
+        story adapted from the internationally best-selling novel by Susan
+        Abulhawa. Bisharat is a grateful recipient of the Theater Bay Area Arts
+        Leadership Residency Grant (2022-2023), Theater Bay Area CA$H Creates
+        Grant (2022), and San Francisco Arts Commission Artist Grant (2023). She
+        is a member of the board of the MENA Theater Makers Alliance (MENATMA)
+        and serves on the community council for Golden Thread’s 2024 Season for
+        Palestine. Bisharat believes in the transformative power of art and
+        storytelling whether on a stage, in a photograph, or in the stories we
+        tell ourselves."
     - name: Deborah Eliezer
       credit: ensemble
       image: https://ucarecdn.com/13735c98-ac80-49db-8a62-d578a9c46747/
+      bio: >-
+        **Debórah Eliezer** (*she/her*), Ensemble Facilitator/Performer, is a
+        mixed-identity Arab Jewish artist, activist, coach, and California fire
+        survivor. Passionate about the power of human transformation, her work
+        focuses on using ensemble skills to disrupt assumptions about art, human
+        values and society. She is the Artistic Director of Aviva Arts, an
+        Associate Artist with Golden Thread and proudly serves on the inaugural
+        MENA Theatermakers Alliance board. Eliezer has devised numerous world
+        premieres and toured internationally. Recent work includes *The Tutor*
+        by Torange Yeghiazarian directed by Sahar Assaf at New Conservatory
+        Theatre Center and touring her original play, *(dis)Place\[d]*, about
+        Iraqi Jews. As the former foolsFURY Co-Artistic Director, she produced
+        the FURY Factory Festival of Ensemble Theater in San Francisco for 13
+        years.  Eliezer holds a B.A. Cum Laude in Drama Cum Laude from SFSU, and
+        is a certified Sound, Voice Music Healing practitioner from CIIS and
+        Kaula Tantra Yoga instructor. 
+
+        www.avivaarts.org
     - name: Shayna Ann Howlett
       credit: ensemble
       image: https://ucarecdn.com/8301ae49-6a83-417b-9c32-aa1ef1e1e022/
+      bio: "**Shayna Ann Howlett** (*they/them*) is thrilled to work with this
+        incredible team building *11Reflections*. Prior credits include *Measure
+        for Measure* (The Duke) with the American Conservatory Theater; *Hamlet*
+        (Laertes) with Vallejo Shakespeare in the Park; *A Midsummer Night’s
+        Dream* (Titania) with the Foodbank Players; *The Comedy of Errors*
+        (Antipholus of Ephesus) with Prague Shakespeare Company; *Hamle’*
+        (Rosencrantz) with the University of California, Berkeley Theater
+        Department; and *Dog Sees God* (Van's Sister) and *1984* (The
+        Loudspeaker) with Barestage Productions. See them onscreen in *Deep
+        Time* directed by William Barrios and *Last Dusk* directed by Alex Wu."
     - name: Nida Liftawiya
       credit: ensemble
       image: https://ucarecdn.com/78cd482b-a6f2-4cc8-a5f6-bd0ff7f45f19/
+      bio: "**Nida Liftawiya** is a Palestinian Activist, Artist and Educator.
+        Originally from Lifta, Palestine and now living on Ohlone Lands, in
+        Oakland, CA.  In addition, Nida is a self-taught mosaic artist, and has
+        acted in several Brava Theatre and Golden Thread Productions. Nida is a
+        social justice advocate, equity warrior, and lifelong learner."
     - name: Maya Nazzal
       credit: ensemble
       image: https://ucarecdn.com/0b0b1324-5b59-4c6a-8c0f-44a94dcd609f/
+      bio: "**Maya Nazzal** is a Palestinian-American actor and writer in the Bay Area
+        and a voice on Golden Thread Production’s community council for the
+        Season For Palestine. She received her BA in Theatre Arts from San
+        Francisco State University and trained at the Stella Adler Studio of
+        Acting in New York. Her acting credits include the role of Baran in the
+        world premier of *The Tutor* at New Conservatory Theatre Center, Maryam
+        in *Noura* at Marin Theatre Company, and Asya in Vice Arabia’s short
+        film selections. She participated as a writer and associate producer for
+        CNN’s documentary series, *Jerusalem*, navigating the cultural
+        sensitivity of the project from a Palestinian lens. In 2022, her
+        original work was selected by the Red Sea Film Festival and Middle
+        Eastern Media Initiative for writing development in Saudi Arabia. Her
+        most recent piece, *Because Resistance is Beautiful*, is currently in
+        the summer 2024 issue of American Theatre Magazine."
     - name: Aidaa Peerzada
       credit: "ensemble "
       image: https://ucarecdn.com/8de02dcf-f300-47f5-8bf0-2bc2399b6c90/
+      bio: "**Aidaa Peerzada**  (*she/her*) is a Black and Pakistani American
+        theatremaker based in the Bay Area. Her plays have been developed with
+        the Bay Area Playwrights Festival, Prop Thtr, Catalyst: C3T, Meet Cute
+        LA, Northern Sky Theatre, and SF Bay Area Theatre Co. where she is also
+        part of the artistic staff. She is part of Crowded Fire Theatre’s
+        2024-2026 Resilience & Development Cohort. Some of her favorite local
+        performance credits include *Sign My Name to Freedom* (SFBATCO) and *The
+        N* Lovers* with Magic Theatre.  Aidaa studied at the Baltimore School
+        for the Arts and went on to receive her BFA in Drama from Carnegie
+        Mellon University."
     - name: Zeta Sanchez Blardony
       credit: ensemble
       image: https://ucarecdn.com/cd1e8b5e-4035-4bd2-8f92-1a905bf1f9bc/
+      bio: "**Zeta Sanchez Blardony** is a Filipina immigrant with a passion for
+        music. She is a singer-violinist, and plays with bands in the Bay Area.
+        In the Philippines, she was part of music productions, singing
+        competitions, and concerts. Now, she is excitedly exploring the depths
+        of Arab culture in theatre, music and performance."
     - name: Megan Soledad
       credit: ensemble
       image: https://ucarecdn.com/cd5a446b-ec12-4a36-9a61-262c0abe9fa8/
+      bio: "**Megan Soledad** (*she/her*) is a Cuban-American actor/singer/dancer
+        currently based in the Bay Area. She is thrilled to be working with
+        Golden Thread and Art2Action and grateful to be a part of
+        *11Reflections: San Francisco*. Recent credits include Julia in *1984*
+        (Aurora Theatre Company),  *A Chorus Line* (San Francisco Playhouse),
+        The Woman in *The Turn of the Screw* (Town Hall Theatre Company), Serena
+        in *Legally Blonde* (Foothill Music Theatre), and Minnie in *Mourning
+        Becomes Electra* (Eugene O’Neill Foundation). Other Bay Area credits
+        include Margaret Leavitt in *Silent Sky* (Summer Repertory Theatre),
+        *Head Over Heels* (Berkeley Playhouse), Yolanda in *In The Heights*
+        (Berkeley Playhouse), *Dancing Home* (San Francisco Youth Theatre), and
+        *The Sound of Music* (Throckmorton Theatre). Megan recently earned her
+        Masters in Opera from the San Francisco Conservatory of Music, and has a
+        BFA from Carnegie Mellon University."
     - name: Arielle Tonkin
       credit: ensemble
       image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
+      bio: "**Arielle Tonkin** (*they/them*) is a mixed Moroccan and Ashkenazi artist
+        and a Community Council Member for Golden Thread's 2024 Season for
+        Palestine. Arielle paints, cantillates and co-produces immersive art and
+        ritual spaces across the U.S. Recent highlights include: *Morocco to the
+        Bay: A Diasporic Prayerformance* (2023), Albany; *A Fence Around the
+        Torah* (2021-2022), Jewish Museum of Maryland; *Queering Jewish
+        Diasporas* (2019), Oakland; and solo exhibition *Orienting Practice*
+        (2018), Boston. Arielle began as a youth activist involved in
+        Muslim-Jewish student organizing in post-9/11 New York. Arielle weaves
+        relationships and materializes conversations: the Muslim-Jewish Arts
+        Fellowship, Arts Jam for Social Change, Tzedek Lab, and Inside Out
+        Wisdom in Action are among their networks of accountability, collective
+        power and care."
     - name: Torange Yeghiazarian
       credit: ensemble
       image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
+      bio: "**Torange Yeghiazarian** (*she/her*) is the Founding Artistic Director
+        Emeritus of Golden Thread Productions, the first American theatre
+        company focused on the Middle East where she launched such visionary
+        programs as ReOrient Festival, New Threads, Fairytale Players, and What
+        Do the Women Say?, and timely initiatives such as Islam 101 and Project
+        Alo? Torange has been recognized by Theatre Bay Area and is one of
+        Theatre Communication Group’s Legacy Leaders of Color. She was honored
+        by the Cairo International Theatre Festival and the Symposium on Equity
+        in the Entertainment Industry at Stanford University. A playwright,
+        director, and translator, Torange contributed a case study chapter to
+        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
+        and stage adaptation of Nizami’s “Leyla & Majnun” is published on
+        Gleeditions.com. She has been published in The Drama Review, American
+        Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
+        Women & Islamic Cultures and Cambridge World Encyclopedia of Stage
+        Actors. At Golden Thread, Torange directed *OH MY SWEET LAND* by Amir
+        Nizar Zuabi, and the premieres of *OUR ENEMIES: LIVELY SCENES OF LOVE
+        AND COMBAT* and *SCENIC ROUTES* by Yussef El Guindi, *THE MYTH OF
+        CREATION* by Sadegh Hedayat, *TAMAM* by Betty Shamieh, *STUCK* by Amir
+        Al-Azraki, *VOICE ROOM* by Reza Soroor, and adapted the poem, *I SELL
+        SOULS* by Simin Behbehani for the stage. Torange was a member of the
+        artistic team that developed *BENEDICTUS*, a collaboration among
+        Iranian, Israeli, and American artists. She received a Gerbode-Hewlett
+        Playwright Commission Award for *ISFAHAN BLUES*, a co-production with
+        African American Shakespeare Company, and a commission from the Islamic
+        Cultural Center of Northern California to write *THE FIFTH STRING:
+        ZIRYAB’S PASSAGE TO CORDOBA*. Other plays include *444 DAYS*, *WAVES*,
+        and *CALL ME MEHDI*, included in the anthology “Salaam. Peace: An
+        Anthology of Middle Eastern-American Drama,” TCG, 2009. Born in Iran and
+        of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
+        from San Francisco State University."
 mentions:
   heading: ""
   text: ""
