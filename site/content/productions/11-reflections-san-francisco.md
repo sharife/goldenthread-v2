@@ -197,6 +197,20 @@ cast:
     - name: Maya Nazzal
       credit: ensemble
       image: https://ucarecdn.com/0b0b1324-5b59-4c6a-8c0f-44a94dcd609f/
+      bio: "**Maya Nazzal** is a Palestinian-American actor and writer in the Bay Area
+        and a voice on Golden Thread Production’s community council for the
+        Season For Palestine. She received her BA in Theatre Arts from San
+        Francisco State University and trained at the Stella Adler Studio of
+        Acting in New York. Her acting credits include the role of Baran in the
+        world premier of *The Tutor* at New Conservatory Theatre Center, Maryam
+        in *Noura* at Marin Theatre Company, and Asya in Vice Arabia’s short
+        film selections. She participated as a writer and associate producer for
+        CNN’s documentary series, *Jerusalem*, navigating the cultural
+        sensitivity of the project from a Palestinian lens. In 2022, her
+        original work was selected by the Red Sea Film Festival and Middle
+        Eastern Media Initiative for writing development in Saudi Arabia. Her
+        most recent piece, *Because Resistance is Beautiful*, is currently in
+        the summer 2024 issue of American Theatre Magazine."
     - name: Aidaa Peerzada
       credit: "ensemble "
       image: https://ucarecdn.com/8de02dcf-f300-47f5-8bf0-2bc2399b6c90/
