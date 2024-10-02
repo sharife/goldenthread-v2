@@ -235,6 +235,20 @@ cast:
     - name: Megan Soledad
       credit: ensemble
       image: https://ucarecdn.com/cd5a446b-ec12-4a36-9a61-262c0abe9fa8/
+      bio: "**Megan Soledad** (*she/her*) is a Cuban-American actor/singer/dancer
+        currently based in the Bay Area. She is thrilled to be working with
+        Golden Thread and Art2Action and grateful to be a part of
+        *11Reflections: San Francisco*. Recent credits include Julia in *1984*
+        (Aurora Theatre Company),  *A Chorus Line* (San Francisco Playhouse),
+        The Woman in *The Turn of the Screw* (Town Hall Theatre Company), Serena
+        in *Legally Blonde* (Foothill Music Theatre), and Minnie in *Mourning
+        Becomes Electra* (Eugene O’Neill Foundation). Other Bay Area credits
+        include Margaret Leavitt in *Silent Sky* (Summer Repertory Theatre),
+        *Head Over Heels* (Berkeley Playhouse), Yolanda in *In The Heights*
+        (Berkeley Playhouse), *Dancing Home* (San Francisco Youth Theatre), and
+        *The Sound of Music* (Throckmorton Theatre). Megan recently earned her
+        Masters in Opera from the San Francisco Conservatory of Music, and has a
+        BFA from Carnegie Mellon University."
     - name: Arielle Tonkin
       credit: ensemble
       image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
