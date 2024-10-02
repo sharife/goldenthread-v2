@@ -136,6 +136,22 @@ cast:
     - name: "Amal Bisharat "
       credit: ensemble
       image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
+      bio: "**Amal Bisharat** (*she/her*) is a Palestinian-American multidisciplinary
+        artist- a theater director, producer, writer, lyricist, songwriter,
+        actor and photographer. As 2023 Artist-in-Residence with Golden Thread
+        Productions, she co-produced and directed for their signature program
+        *ReOrient Festival of Short Plays*, as well as directed an online
+        reading of *The Gaza Monologues*  by Ashtar Theater. She is currently
+        developing a musical, *Mornings in Jenin Musical*, a Palestinian refugee
+        story adapted from the internationally best-selling novel by Susan
+        Abulhawa. Bisharat is a grateful recipient of the Theater Bay Area Arts
+        Leadership Residency Grant (2022-2023), Theater Bay Area CA$H Creates
+        Grant (2022), and San Francisco Arts Commission Artist Grant (2023). She
+        is a member of the board of the MENA Theater Makers Alliance (MENATMA)
+        and serves on the community council for Golden Thread’s 2024 Season for
+        Palestine. Bisharat believes in the transformative power of art and
+        storytelling whether on a stage, in a photograph, or in the stories we
+        tell ourselves."
     - name: Deborah Eliezer
       credit: ensemble
       image: https://ucarecdn.com/13735c98-ac80-49db-8a62-d578a9c46747/
