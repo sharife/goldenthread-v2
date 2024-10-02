@@ -299,6 +299,8 @@ cast:
         Anthology of Middle Eastern-American Drama,” TCG, 2009. Born in Iran and
         of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
         from San Francisco State University."
+    - name: Peter Mansour
+      credit: percussion
 mentions:
   heading: ""
   text: ""
