@@ -214,6 +214,16 @@ cast:
     - name: Aidaa Peerzada
       credit: "ensemble "
       image: https://ucarecdn.com/8de02dcf-f300-47f5-8bf0-2bc2399b6c90/
+      bio: "**Aidaa Peerzada**  (*she/her*) is a Black and Pakistani American
+        theatremaker based in the Bay Area. Her plays have been developed with
+        the Bay Area Playwrights Festival, Prop Thtr, Catalyst: C3T, Meet Cute
+        LA, Northern Sky Theatre, and SF Bay Area Theatre Co. where she is also
+        part of the artistic staff. She is part of Crowded Fire Theatre’s
+        2024-2026 Resilience & Development Cohort. Some of her favorite local
+        performance credits include *Sign My Name to Freedom* (SFBATCO) and *The
+        N* Lovers* with Magic Theatre.  Aidaa studied at the Baltimore School
+        for the Arts and went on to receive her BFA in Drama from Carnegie
+        Mellon University."
     - name: Zeta Sanchez Blardony
       credit: ensemble
       image: https://ucarecdn.com/cd1e8b5e-4035-4bd2-8f92-1a905bf1f9bc/
