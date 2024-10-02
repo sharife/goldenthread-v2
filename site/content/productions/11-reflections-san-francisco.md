@@ -176,6 +176,16 @@ cast:
     - name: Shayna Ann Howlett
       credit: ensemble
       image: https://ucarecdn.com/8301ae49-6a83-417b-9c32-aa1ef1e1e022/
+      bio: "**Shayna Ann Howlett** (*they/them*) is thrilled to work with this
+        incredible team building *11Reflections*. Prior credits include *Measure
+        for Measure* (The Duke) with the American Conservatory Theater; *Hamlet*
+        (Laertes) with Vallejo Shakespeare in the Park; *A Midsummer Night’s
+        Dream* (Titania) with the Foodbank Players; *The Comedy of Errors*
+        (Antipholus of Ephesus) with Prague Shakespeare Company; *Hamle’*
+        (Rosencrantz) with the University of California, Berkeley Theater
+        Department; and *Dog Sees God* (Van's Sister) and *1984* (The
+        Loudspeaker) with Barestage Productions. See them onscreen in *Deep
+        Time* directed by William Barrios and *Last Dusk* directed by Alex Wu."
     - name: Nida Liftawiya
       credit: ensemble
       image: https://ucarecdn.com/78cd482b-a6f2-4cc8-a5f6-bd0ff7f45f19/
