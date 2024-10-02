@@ -17,7 +17,8 @@ description: >-
 titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
-  (Turkish composer and violinist)
+  (Turkish composer and violinist), Clarissa Bitar (oud), Peter Mansour
+  (percussion)
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
