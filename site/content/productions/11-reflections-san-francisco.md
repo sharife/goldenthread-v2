@@ -153,6 +153,29 @@ cast:
         and *Emerson Loses Her Mind*. TV credits include *Law & Order SVU*. She
         is so excited to be a part of this devised theater piece that uplifts
         Palestinian voices."
+    - name: Sahar Assaf
+      image: https://ucarecdn.com/1ec21962-3983-4e9f-8a70-e28a18912aa5/
+      credit: ensemble
+      bio: "**Sahar Assaf** (*she/her*) is Golden Thread’s Executive Artistic
+        Director. She is a Lebanese stage actor, director, translator, and
+        producer. Before joining Golden Thread, Sahar taught theatre at the
+        American University of Beirut where she co-founded the AUB Theater
+        Initiative with playwright and English Professor Robert Myers. Her work
+        at the Theater Initiative includes translating and directing Garcia
+        Lorca’s *Blood Wedding* in a site-specific promenade performance,
+        co-translating co-directing, and starring in Shakespeare’s *King Lear*
+        at al-Madina Theater in Beirut, the first production of Shakespeare in
+        Lebanese colloquial, *The Rape* and *Rituals of Signs and
+        Transformations* by Sa’dallah Wannous, and *Watch Your Step: Beirut
+        Heritage Walking Tour* which was a site-specific devised work on the
+        Lebanese civil war. Sahar is a strong advocate of documentary theatre
+        and recently conceived and directed *Meen El Felten*, an immersive
+        documentary play on sexual assault and *No Demand No Supply*, a hybrid
+        documentary play about sex trafficking and prostitution. She is a member
+        of Lincoln Center Director’s Lab (2014), co-founder and artistic
+        director of Directors Lab Mediterranean (2019), and a Fulbright alumnus
+        with an MA in Theater Studies from Central Washington University
+        (2011)."
     - name: "Amal Bisharat "
       credit: ensemble
       image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
