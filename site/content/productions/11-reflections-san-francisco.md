@@ -116,6 +116,7 @@ cast:
       link: ""
     - name: Peter Mansour
       credit: musician
+      image: https://ucarecdn.com/fbe98e7d-b6f6-4c11-bcd5-d6fd4125c606/
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
       credit: ensemble
