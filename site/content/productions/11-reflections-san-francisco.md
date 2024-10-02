@@ -112,8 +112,8 @@ cast:
 
         Their music has been featured on Netflix, radio, film, and exhibits around the world. They released a joint poetry-oud EP with Palestinian poet Mohammed El-Kurd in January of 2019 titled Bellydancing on Wounds as well as their solo EP Bayati.
 
-        Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others.
-      link: https://clarissabitar.com/#/
+        Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others. [clarissabitar.com](https://clarissabitar.com/#/)
+      link: ""
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
       credit: ensemble
