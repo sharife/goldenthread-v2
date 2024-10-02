@@ -345,6 +345,12 @@ cast:
 mentions:
   heading: ""
   text: ""
+photos:
+  heading: "Photo Gallery: publicity "
+  items:
+    - image: https://ucarecdn.com/117c3036-7fdc-4f36-a312-a27a1b24ae60/
+    - image: https://ucarecdn.com/2f9507d9-d8b1-4d17-8312-e5b8bb7dd223/
+    - image: https://ucarecdn.com/a9f14760-da6f-4043-a0e3-72675d7cf5fc/
 bottom:
   logos:
     - image: https://ucarecdn.com/00de42c3-2bf3-429a-b12f-70c0d575a062/
