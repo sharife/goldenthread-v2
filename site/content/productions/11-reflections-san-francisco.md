@@ -300,7 +300,7 @@ cast:
         of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
         from San Francisco State University."
     - name: Peter Mansour
-      credit: percussion
+      credit: musician
 mentions:
   heading: ""
   text: ""
