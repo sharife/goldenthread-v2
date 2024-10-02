@@ -20,7 +20,7 @@ featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist)
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
-visitlink: https://www.brava.org/visit
+visitlink: ""
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 cast:
