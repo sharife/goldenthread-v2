@@ -155,6 +155,24 @@ cast:
     - name: Deborah Eliezer
       credit: ensemble
       image: https://ucarecdn.com/13735c98-ac80-49db-8a62-d578a9c46747/
+      bio: >-
+        **Debórah Eliezer** (*she/her*), Ensemble Facilitator/Performer, is a
+        mixed-identity Arab Jewish artist, activist, coach, and California fire
+        survivor. Passionate about the power of human transformation, her work
+        focuses on using ensemble skills to disrupt assumptions about art, human
+        values and society. She is the Artistic Director of Aviva Arts, an
+        Associate Artist with Golden Thread and proudly serves on the inaugural
+        MENA Theatermakers Alliance board. Eliezer has devised numerous world
+        premieres and toured internationally. Recent work includes *The Tutor*
+        by Torange Yeghiazarian directed by Sahar Assaf at New Conservatory
+        Theatre Center and touring her original play, *(dis)Place\[d]*, about
+        Iraqi Jews. As the former foolsFURY Co-Artistic Director, she produced
+        the FURY Factory Festival of Ensemble Theater in San Francisco for 13
+        years.  Eliezer holds a B.A. Cum Laude in Drama Cum Laude from SFSU, and
+        is a certified Sound, Voice Music Healing practitioner from CIIS and
+        Kaula Tantra Yoga instructor. 
+
+        www.avivaarts.org
     - name: Shayna Ann Howlett
       credit: ensemble
       image: https://ucarecdn.com/8301ae49-6a83-417b-9c32-aa1ef1e1e022/
