@@ -6,14 +6,14 @@ start: 2024-10-04T03:42:13.642Z
 end: 2024-10-05T03:42:13.648Z
 description: >-
   An episodic, multimedia performance, ***11Reflections: San Francisco***
-  features internationally renowned performers alongside Bay Area artists 
-  reflecting on the impact of post-9/11 policies through stories, poetry, music
-  and more, illuminating our collective experiences since 2001—from the fall of
-  the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban,
-  to the funding of genocide in Palestine. 
+  features internationally renowned performers alongside Bay Area
+  artists reflecting on the impact of post-9/11 policies through stories,
+  poetry, music and more, illuminating our collective experiences since
+  2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and
+  Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
 
 
-  ***11Reflections: San Francisco*** is part of a new national series of performance works b﻿y Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
+  ***11Reflections: San Francisco*** is part of a new national series of performance works by Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
 titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
@@ -163,8 +163,6 @@ bottom:
 
     *11Reflections: San Francisco* is made possible in part by generous support from the Sam Mazza Foundation, the Zellerbach Family Foundation, Women Arts, and the Walter and Elise Haas Foundation. Additional Art2Action funding is provided by the Ford Foundation.
 ---
-## An Ensemble Creation Process
+### An Ensemble Creation Process
 
-***11Reflections: San Francisco*** w﻿as built by an amazing ensemble of artists of Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area. In May, 2024, these artists and community members gathered in Story Circles to take part in workshops and creative writing exercises in response to this question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today? 
-
-T﻿hese Story Circles were hosted by our partners, Aviva Arts and Red Poppy Art House.
+***11Reflections: San Francisco*** w﻿as built by an amazing ensemble of artists of Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area. In May, 2024, these artists and community members gathered in Story Circles to take part in workshops and creative writing exercises in response to this question: "What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?" T﻿hese Story Circles were hosted by our partners, Aviva Arts and Red Poppy Art House.
