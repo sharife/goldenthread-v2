@@ -312,7 +312,8 @@ cast:
         process. Based in San Francisco and fourth generation Pilipina American,
         ubungen is an interdisciplinary artist who attributes much of her
         creative life force to the subtle energies and influences of San
-        Francisco."
+        Francisco. [pearlubungen.com](https://pearlubungen.com/)"
+      image: https://ucarecdn.com/d74b6f04-8fbc-458b-853b-fe565e8b0b8d/
 mentions:
   heading: ""
   text: ""
