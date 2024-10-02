@@ -189,6 +189,11 @@ cast:
     - name: Nida Liftawiya
       credit: ensemble
       image: https://ucarecdn.com/78cd482b-a6f2-4cc8-a5f6-bd0ff7f45f19/
+      bio: "**Nida Liftawiya** is a Palestinian Activist, Artist and Educator.
+        Originally from Lifta, Palestine and now living on Ohlone Lands, in
+        Oakland, CA.  In addition, Nida is a self-taught mosaic artist, and has
+        acted in several Brava Theatre and Golden Thread Productions. Nida is a
+        social justice advocate, equity warrior, and lifelong learner."
     - name: Maya Nazzal
       credit: ensemble
       image: https://ucarecdn.com/0b0b1324-5b59-4c6a-8c0f-44a94dcd609f/
