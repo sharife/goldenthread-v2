@@ -18,7 +18,10 @@ titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: Andrea Assaf
 featuring: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
   (Turkish composer and violinist), Clarissa Bitar (oud), Peter Mansour
-  (percussion)
+  (percussion); Sacred Cityy | pearl ubungen (choreography); Sophia Alawi, Sahar
+  Assaf, Sonia Azizi, Amal Bisharat, Debórah Eliezer, Shayna Ann Howlett, Nida
+  Liftawiya, Maya Nazzal, Aidaa Peerzada, Zeta Sanchez Blardony, Megan Soledad,
+  Arielle Tonkin, Torange Yeghiazarian
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
