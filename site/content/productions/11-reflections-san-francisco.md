@@ -227,6 +227,11 @@ cast:
     - name: Zeta Sanchez Blardony
       credit: ensemble
       image: https://ucarecdn.com/cd1e8b5e-4035-4bd2-8f92-1a905bf1f9bc/
+      bio: "**Zeta Sanchez Blardony** is a Filipina immigrant with a passion for
+        music. She is a singer-violinist, and plays with bands in the Bay Area.
+        In the Philippines, she was part of music productions, singing
+        competitions, and concerts. Now, she is excitedly exploring the depths
+        of Arab culture in theatre, music and performance."
     - name: Megan Soledad
       credit: ensemble
       image: https://ucarecdn.com/cd5a446b-ec12-4a36-9a61-262c0abe9fa8/
