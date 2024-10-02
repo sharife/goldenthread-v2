@@ -148,40 +148,23 @@ cast:
       credit: ensemble
       image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
 mentions:
-  heading: Story Circles in May, 2024
-  text: >-
-    ***11Reflections: San Francisco*** invites Southwest/Central Asian and North
-    African (SWANA), Middle Eastern/North African/South Asian (MENASA), and
-    Muslim American artists, BIPOC artists and allies, and impacted communities
-    in the Bay Area to participate in Story Circles, workshops, creative
-    writing, and theatre-making in response to the question: What has the impact
-    of the post-9/11 era been in your city, and how does it connect to what’s
-    happening today?
-
-
-    We invite SWANA, MENASA, Muslim American artists, BIPOC artists, and allies in the Bay Area to participate in Community Story Circle workshops led by [Andrea Assaf](https://www.art2action.org/artists/andrea-assaf) as part of the *11Reflections: San Francisco* project. 
-
-
-    Monday, May 13, 6-9pm
-
-    Community Story Circle @ Brava!
-
-    Presented by Aviva Arts \
-
-    \
-
-    Thursday, May 16, 5:30-8:30pm
-
-    Community Story Circle @ Red Poppy Art House! 
-
-    Presented by Red Poppy
+  heading: ""
+  text: ""
 bottom:
   logos:
     - image: https://ucarecdn.com/00de42c3-2bf3-429a-b12f-70c0d575a062/
     - image: https://ucarecdn.com/84b8a29c-018e-4cee-98cf-a6c2b8ad0d97/
     - image: https://ucarecdn.com/d6241c67-b7a4-42b6-b89c-5ea230ee2893/
     - image: https://ucarecdn.com/3b017edf-3d31-4ec9-ad7c-a0548f5e477c/
-  text: Co-Produced by Golden Thread Productions, Brava for Women in the Arts,
+  text: >-
+    Co-Produced by Golden Thread Productions, Brava for Women in the Arts,
     Art2Action, and in collaboration with Aviva Arts and Red Poppy Art House.
+
+
+    *11Reflections: San Francisco* is made possible in part by generous support from the Sam Mazza Foundation, the Zellerbach Family Foundation, Women Arts, and the Walter and Elise Haas Foundation. Additional Art2Action funding is provided by the Ford Foundation.
 ---
-***11Reflections: San Francisco*** invites Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area to participate in Story Circles, workshops, creative writing, and theatre-making in response to the question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?
+## An Ensemble Creation Process
+
+***11Reflections: San Francisco*** w﻿as built by an amazing ensemble of artists of Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area. In May, 2024, these artists and community members gathered in Story Circles to take part in workshops and creative writing exercises in response to this question: What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today? 
+
+T﻿hese Story Circles were hosted by our partners, Aviva Arts and Red Poppy Art House.
