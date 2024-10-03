@@ -5,12 +5,12 @@ date: 2024-01-24T04:42:13.635Z
 start: 2024-10-04T03:42:13.642Z
 end: 2024-10-05T03:42:13.648Z
 description: >-
-  An episodic, multimedia performance, ***11Reflections: San Francisco***
-  features internationally renowned performers alongside Bay Area
-  artists reflecting on the impact of post-9/11 policies through stories,
-  poetry, music and more, illuminating our collective experiences since
-  2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and
-  Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
+  Devised and directed by **Andrea Assaf**\
+
+  f﻿eaturing renowned Syrian opera singer **Lubana Al Quntar** and Turkish violinist **Eylem Basaldi**
+
+
+  An episodic, multimedia performance, ***11Reflections: San Francisco*** features internationally renowned performers alongside Bay Area artists reflecting on the impact of post-9/11 policies through stories, poetry, music and more, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
 
 
   ***11Reflections: San Francisco*** is part of a new national series of performance works by Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
@@ -18,7 +18,7 @@ titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
 director: ""
 featuring: ""
 musicaldirector: ""
-additional: Devised and directed by Andrea Assaf
+additional: ""
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
