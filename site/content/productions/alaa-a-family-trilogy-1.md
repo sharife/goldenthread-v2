@@ -13,6 +13,8 @@ stage: Z Space
 address: 450 Florida St, San Francisco, 94110
 visitlink: https://www.zspace.org/directions
 ticketlink: https://ci.ovationtix.com/34231/production/1214770
+ticketinfo: Tickets for this workshop production are free, though we ask you
+  reserve your seat at the link above.
 cast:
   items:
     - name: "Adam Ashraf Elsayigh "
