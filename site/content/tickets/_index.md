@@ -45,8 +45,18 @@ lists:
 
 
           Commissioned by Golden Thread Productions with support from the Gerbode Foundation.
+
+
+          Tickets for this workshop production are free, though we ask you reserve your seat at the link below.\
+
+          \
+
+          **Access Notes**
+
+          Z Space is a wheelchair accessible theater and has accessible seating for all shows. Bathrooms are wheelchair accessible and are welcoming to all genders. Assisted listening devices available upon request. You will be given an opportunity to indicate access needs during the ticket buying process. Currently there is no mask requirements or vaccination check for Z Space shows, unless otherwise indicated for specific performances. If you have any other questions or concerns, please contact Z Space's box office at boxoffice@zspace.org.
         subtitle: ""
-        cta: BUY NOW
+        cta: RESERVE NOW
+        link: https://ci.ovationtix.com/34231/production/1214770
 ---
 - - -
 
