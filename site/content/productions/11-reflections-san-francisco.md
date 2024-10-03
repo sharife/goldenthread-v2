@@ -15,15 +15,10 @@ description: >-
 
   ***11Reflections: San Francisco*** is part of a new national series of performance works by Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
 titleimage: https://ucarecdn.com/25e928e9-6dbc-4982-96fb-894900c27507/
-director: Andrea Assaf
-featuring: Sophia Alawi, Sahar Assaf, Sonia Azizi, Amal Bisharat, Debórah
-  Eliezer, Shayna Ann Howlett, Nida Liftawiya, Maya Nazzal, Aidaa Peerzada, Zeta
-  Sanchez Blardony, Megan Soledad, Arielle Tonkin, Torange Yeghiazarian
-musicaldirector: Lubana al Quntar (acclaimed Syrian opera singer), Eylem Basaldi
-  (Turkish composer and violinist), Clarissa Bitar (oud), Peter Mansour
-  (percussion)
-additional: "Sacred Cityy | pearl ubungen (choreography); publicity photography
-  by Gabi Vigueira "
+director: ""
+featuring: ""
+musicaldirector: ""
+additional: Devised and directed by Andrea Assaf
 stage: Brava Theater Center
 address: 2781 24th St., San Francisco, CA, 94110
 visitlink: https://www.brava.org/visit
