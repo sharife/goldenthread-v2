@@ -28,6 +28,35 @@ lists:
 
           For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email [info@brava.org](mailto:info@brava.org)
         image: https://ucarecdn.com/1fe3e851-baeb-44dd-8056-a38eeecd2edb/-/crop/1920x707/0,0/-/preview/
+  - heading: "ALAA: A FAMILY TRILOGY"
+    items:
+      - title: November 16 - 17, 2024 at Z Space
+        pre: Workshop Production
+        image: https://ucarecdn.com/bd01e6a5-8873-4529-9f37-e5388c0e2010/
+        text: >-
+          Written by **Adam Ashraf Elsayigh**\
+
+          Directed by **Evren Odcikin**\
+
+          Dramaturgy by **Salma S. Zohdi**
+
+
+          In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family’s activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***Alaa: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa’s family from 2011 to 2014 through the Egyptian Revolution.
+
+
+          Commissioned by Golden Thread Productions with support from the Gerbode Foundation.
+
+
+          Tickets for this workshop production are free, though we ask you reserve your seat at the link below.\
+
+          \
+
+          **Access Notes**
+
+          Z Space is a wheelchair accessible theater and has accessible seating for all shows. Bathrooms are wheelchair accessible and are welcoming to all genders. Assisted listening devices available upon request. You will be given an opportunity to indicate access needs during the ticket buying process. Currently there is no mask requirements or vaccination check for Z Space shows, unless otherwise indicated for specific performances. If you have any other questions or concerns, please contact Z Space's box office at boxoffice@zspace.org.
+        subtitle: ""
+        cta: RESERVE NOW
+        link: https://ci.ovationtix.com/34231/production/1214770
 ---
 - - -
 
