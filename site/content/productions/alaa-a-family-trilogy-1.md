@@ -1,6 +1,6 @@
 ---
 title: "ALAA: A Family Trilogy"
-pre: workshop production
+pre: Workshop Production
 season: 2024
 date: 2024-08-17T00:19:55.405Z
 start: 2024-11-16T08:00:55.417Z
