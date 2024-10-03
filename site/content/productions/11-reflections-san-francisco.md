@@ -7,7 +7,9 @@ end: 2024-10-05T03:42:13.648Z
 description: >-
   Devised and directed by **Andrea Assaf**\
 
-  f﻿eaturing renowned Syrian opera singer **Lubana Al Quntar** and Turkish violinist **Eylem Basaldi**
+  f﻿eaturing renowned Syrian opera singer **Lubana Al Quntar** \
+
+  and Turkish violinist and music director **Eylem Basaldi**
 
 
   An episodic, multimedia performance, ***11Reflections: San Francisco*** features internationally renowned performers alongside Bay Area artists reflecting on the impact of post-9/11 policies through stories, poetry, music and more, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
