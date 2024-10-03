@@ -27,7 +27,7 @@ ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 cast:
   items:
     - name: Andrea Assaf
-      credit: Director
+      credit: Devisor and director
       image: https://ucarecdn.com/39bcfdff-8a59-499c-8090-1bc86987adb0/
       bio: >-
         **Andrea Assaf** is a writer, director, performer, and cultural
@@ -96,9 +96,9 @@ cast:
 
         [eylembasaldi.com](https://www.eylembasaldi.com/)
       image: https://ucarecdn.com/39d170ae-b22e-451b-8e37-c827ad63dd83/
-      credit: Music Director
+      credit: Music Director and Violin
     - name: Clarissa Bitar
-      credit: "musician "
+      credit: Oud
       image: https://ucarecdn.com/7bd94c21-3bcc-4c43-a3fd-047145f2bbb2/
       bio: >-
         **Clarissa Bitar** is an award winning Palestinian oud musician and
@@ -116,10 +116,10 @@ cast:
         Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others. [clarissabitar.com](https://clarissabitar.com/#/)
       link: ""
     - name: Peter Mansour
-      credit: musician
+      credit: Percussion
       image: https://ucarecdn.com/fbe98e7d-b6f6-4c11-bcd5-d6fd4125c606/
     - name: Sacred City | pearl ubungen
-      credit: choreography
+      credit: Contributor
       bio: "**Pearl Ubungen** is a highly-acclaimed choreographer/cultural activist.
         During the 1990’s, her investigations of place/site/memory
         re-invigorated the field of community-based arts, re-negotiated the
@@ -132,7 +132,7 @@ cast:
       image: https://ucarecdn.com/d74b6f04-8fbc-458b-853b-fe565e8b0b8d/
     - name: Sophia Alawi
       image: https://ucarecdn.com/a413cdc3-17b2-4b1a-8f93-91fcf81fec4f/
-      credit: ensemble
+      credit: Contributor
       bio: "**Sophia Alawi** is a first-generation Muslim Moroccan/Italian American
         actress, singer, songwriter & writer. She has a BFA in Musical Theater
         from Rider University. She also studied at T'Schreiber, Stella Adler
@@ -151,7 +151,7 @@ cast:
         Palestinian voices."
     - name: Sahar Assaf
       image: https://ucarecdn.com/1ec21962-3983-4e9f-8a70-e28a18912aa5/
-      credit: ensemble
+      credit: Contributor
       bio: "**Sahar Assaf** (*she/her*) is Golden Thread’s Executive Artistic
         Director. She is a Lebanese stage actor, director, translator, and
         producer. Before joining Golden Thread, Sahar taught theatre at the
@@ -173,7 +173,7 @@ cast:
         with an MA in Theater Studies from Central Washington University
         (2011)."
     - name: "Amal Bisharat "
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/d3dda975-796b-4cdd-97ed-173466b60351/
       bio: "**Amal Bisharat** (*she/her*) is a Palestinian-American multidisciplinary
         artist- a theater director, producer, writer, lyricist, songwriter,
@@ -192,7 +192,7 @@ cast:
         storytelling whether on a stage, in a photograph, or in the stories we
         tell ourselves."
     - name: Deborah Eliezer
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/13735c98-ac80-49db-8a62-d578a9c46747/
       bio: >-
         **Debórah Eliezer** (*she/her*), Ensemble Facilitator/Performer, is a
@@ -213,7 +213,7 @@ cast:
 
         www.avivaarts.org
     - name: Shayna Ann Howlett
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/8301ae49-6a83-417b-9c32-aa1ef1e1e022/
       bio: "**Shayna Ann Howlett** (*they/them*) is thrilled to work with this
         incredible team building *11Reflections*. Prior credits include *Measure
@@ -226,7 +226,7 @@ cast:
         Loudspeaker) with Barestage Productions. See them onscreen in *Deep
         Time* directed by William Barrios and *Last Dusk* directed by Alex Wu."
     - name: Nida Liftawiya
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/78cd482b-a6f2-4cc8-a5f6-bd0ff7f45f19/
       bio: "**Nida Liftawiya** is a Palestinian Activist, Artist and Educator.
         Originally from Lifta, Palestine and now living on Ohlone Lands, in
@@ -234,7 +234,7 @@ cast:
         acted in several Brava Theatre and Golden Thread Productions. Nida is a
         social justice advocate, equity warrior, and lifelong learner."
     - name: Maya Nazzal
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/0b0b1324-5b59-4c6a-8c0f-44a94dcd609f/
       bio: "**Maya Nazzal** is a Palestinian-American actor and writer in the Bay Area
         and a voice on Golden Thread Production’s community council for the
@@ -251,7 +251,7 @@ cast:
         most recent piece, *Because Resistance is Beautiful*, is currently in
         the summer 2024 issue of American Theatre Magazine."
     - name: Aidaa Peerzada
-      credit: "ensemble "
+      credit: "Ensemble "
       image: https://ucarecdn.com/8de02dcf-f300-47f5-8bf0-2bc2399b6c90/
       bio: "**Aidaa Peerzada**  (*she/her*) is a Black and Pakistani American
         theatremaker based in the Bay Area. Her plays have been developed with
@@ -264,7 +264,7 @@ cast:
         for the Arts and went on to receive her BFA in Drama from Carnegie
         Mellon University."
     - name: Zeta Sanchez Blardony
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/cd1e8b5e-4035-4bd2-8f92-1a905bf1f9bc/
       bio: "**Zeta Sanchez Blardony** is a Filipina immigrant with a passion for
         music. She is a singer-violinist, and plays with bands in the Bay Area.
@@ -272,7 +272,7 @@ cast:
         competitions, and concerts. Now, she is excitedly exploring the depths
         of Arab culture in theatre, music and performance."
     - name: Megan Soledad
-      credit: ensemble
+      credit: Ensemble
       image: https://ucarecdn.com/cd5a446b-ec12-4a36-9a61-262c0abe9fa8/
       bio: "**Megan Soledad** (*she/her*) is a Cuban-American actor/singer/dancer
         currently based in the Bay Area. She is thrilled to be working with
@@ -289,7 +289,7 @@ cast:
         Masters in Opera from the San Francisco Conservatory of Music, and has a
         BFA from Carnegie Mellon University."
     - name: Arielle Tonkin
-      credit: ensemble
+      credit: Contributor
       image: https://ucarecdn.com/22031afa-2f0a-4677-b8fd-be2b9e929771/
       bio: "**Arielle Tonkin** (*they/them*) is a mixed Moroccan and Ashkenazi artist
         and a Community Council Member for Golden Thread's 2024 Season for
@@ -305,7 +305,7 @@ cast:
         Wisdom in Action are among their networks of accountability, collective
         power and care."
     - name: Torange Yeghiazarian
-      credit: ensemble
+      credit: Contributor
       image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
       bio: "**Torange Yeghiazarian** (*she/her*) is the Founding Artistic Director
         Emeritus of Golden Thread Productions, the first American theatre
