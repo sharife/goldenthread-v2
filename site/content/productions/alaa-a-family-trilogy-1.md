@@ -5,7 +5,7 @@ season: 2024
 date: 2024-08-17T00:19:55.405Z
 start: 2024-11-16T08:00:55.417Z
 end: 2024-11-17T08:00:55.425Z
-titleimage: https://ucarecdn.com/7db04ed9-6704-44a4-aada-e277791dcad2/
+titleimage: ""
 writer: Adam Ashraf Elsayigh
 director: Evren Odcikin
 dramaturg: Salma S. Zohdi
