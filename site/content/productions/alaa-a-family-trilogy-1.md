@@ -52,7 +52,7 @@ cast:
         [https://www.adamaelsayigh.com/.](https://www.adamaelsayigh.com/)
     - name: Salma S. Zohdi
       credit: dramaturg
-      image: https://ucarecdn.com/c3f96d16-9187-4bb9-9508-bde584e53373/
+      image: https://ucarecdn.com/892c3ada-f526-4707-9e58-81dfa1b92f09/
       bio: "Salma S. Zohdi is an Egyptian dramaturg living in the U.S. Salma is the
         Director of Development & Communications at Noor Theatre Company, a
         Lucille Lortel Award Voter, and an Adjunct Professor at NYU’s Department
@@ -68,8 +68,8 @@ cast:
         conversations. MA: AUC - English & Comparative Literature. MFA: Columbia
         University - Theatre (Dramaturgy)."
     - name: Evren Odcikin
-      credit: "director "
-      image: https://ucarecdn.com/0db4f624-2ef6-4abb-9804-6e177d5e8013/
+      credit: "Director "
+      image: https://ucarecdn.com/9dce0ae0-05e9-4495-81b2-2a8829bce89f/
       bio: "EVREN ODCIKIN (he/him) is a Turkish-American director, writer, and arts
         leader committed to championing historically excluded voices and stories
         in the American theater. His work is heart-centered, politically
