@@ -3,8 +3,8 @@ title: Middle East Center Stage
 headline: "11Reflections: San Francisco"
 subtitle: ""
 background: https://ucarecdn.com/4e23c60a-3fc5-4f27-a27b-0d400a55f2cf/
-cta: Tickets on sale NOW!
-link: https://goldenthread.org/tickets/
+cta: Information and tickets
+link: https://goldenthread.org/productions/11-reflections-san-francisco/
 items:
   - subtitle: "**11Reflections: San Francisco**"
     text: >-
