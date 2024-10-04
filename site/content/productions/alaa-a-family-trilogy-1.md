@@ -17,7 +17,7 @@ description: >-
 
 
   *ALAA: A Family Trilogy* is commissioned by **Golden Thread Productions** with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**.
-background: https://ucarecdn.com/644baed4-ac29-446b-921f-918055d85123/
+background: https://ucarecdn.com/ee19236f-71ba-4d78-8c7d-28fa986d3093/
 titleimage: ""
 writer: ""
 director: ""
