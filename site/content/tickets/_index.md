@@ -26,7 +26,7 @@ lists:
 
           \
 
-          For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email [info@brava.org](mailto:info@brava.org)
+          For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email info@brava.org
         image: https://ucarecdn.com/1fe3e851-baeb-44dd-8056-a38eeecd2edb/-/crop/1920x707/0,0/-/preview/
   - heading: "ALAA: A FAMILY TRILOGY"
     items:
@@ -53,7 +53,7 @@ lists:
           Z Space is a wheelchair accessible theater and has accessible seating for all shows. Bathrooms are wheelchair accessible and are welcoming to all genders. Assisted listening devices available upon request. You will be given an opportunity to indicate access needs during the ticket buying process. Currently there is no mask requirements or vaccination check for Z Space shows, unless otherwise indicated for specific performances.
 
 
-          For additional venue information, v﻿isit the [Z Space website](https://www.zspace.org/directions). F﻿or Box Office and other access inquiries, please call 415-659-8132 or email boxoffice@zspace.org
+          For additional venue information, v﻿isit the [Z Space website](https://www.zspace.org/directions). F﻿or Box Office and other access inquiries, please call 415-659-8132 or email [boxoffice@zspace.org](mailto:boxoffice@zspace.org)
         subtitle: ""
         cta: BUY NOW
         link: https://ci.ovationtix.com/34231/production/1214770
