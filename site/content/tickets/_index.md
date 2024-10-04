@@ -53,7 +53,7 @@ lists:
           Z Space is a wheelchair accessible theater and has accessible seating for all shows. Bathrooms are wheelchair accessible and are welcoming to all genders. Assisted listening devices available upon request. You will be given an opportunity to indicate access needs during the ticket buying process. Currently there is no mask requirements or vaccination check for Z Space shows, unless otherwise indicated for specific performances.
 
 
-          For additional venue information, v﻿isit the [Z Space website](https://www.zspace.org/directions). For Box Office and other access inquiries, please call 415-659-8132 or email [boxoffice@zspace.org](mailto:boxoffice@zspace.org). Box office phone hours are from 12:00PM-5:00PM Tuesday-Friday, and two hours before each performance.
+          For additional venue information, v﻿isit the [Z Space website](https://www.zspace.org/directions). For Box Office and other access inquiries, please call 415-659-8132 or email[boxoffice@zspace.org](mailto:boxoffice@zspace.org). Box office phone hours are from 12:00PM-5:00PM Tuesday-Friday, and two hours before each performance.
         subtitle: ""
         cta: BUY NOW
         link: https://ci.ovationtix.com/34231/production/1214770
