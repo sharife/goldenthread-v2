@@ -26,7 +26,7 @@ stage: Z Space
 address: 450 Florida St, San Francisco, 94110
 visitlink: https://www.zspace.org/directions
 ticketlink: https://ci.ovationtix.com/34231/production/1214770
-ticketinfo: $25-$100 (No one will be turned away due to lack of funds)
+ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 cast:
   items:
     - name: "Adam Ashraf Elsayigh "
