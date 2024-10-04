@@ -5,6 +5,7 @@ season: 2024
 date: 2024-08-17T00:19:55.405Z
 start: 2024-11-16T08:00:55.417Z
 end: 2024-11-17T08:00:55.425Z
+background: https://ucarecdn.com/644baed4-ac29-446b-921f-918055d85123/
 titleimage: ""
 writer: Adam Ashraf Elsayigh
 director: Evren Odcikin
