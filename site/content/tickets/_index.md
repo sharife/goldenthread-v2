@@ -55,8 +55,8 @@ lists:
 
           For additional venue information, v﻿isit the [Z Space website](https://www.zspace.org/directions). F﻿or Box Office and other access inquiries, please call 415-659-8132 or email [boxoffice@zspace.org](mailto:boxoffice@zspace.org)Box office phone hours are from 12:00PM-5:00PM Tuesday-Friday, and two hours before each performance.
         subtitle: ""
-        cta: TICKETS SOON
-        link: ""
+        cta: BUY NOW
+        link: https://ci.ovationtix.com/34231/production/1214770
 ---
 - - -
 
