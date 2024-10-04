@@ -26,7 +26,7 @@ stage: Z Space
 address: 450 Florida St, San Francisco, 94110
 visitlink: https://www.zspace.org/directions
 ticketlink: ""
-ticketinfo: ""
+ticketinfo: Tickets will be available shortly.
 cast:
   items:
     - name: "Adam Ashraf Elsayigh "
