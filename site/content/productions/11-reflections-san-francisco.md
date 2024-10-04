@@ -342,14 +342,38 @@ cast:
         of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
         from San Francisco State University."
 mentions:
-  heading: ""
-  text: ""
+  heading: Wrap Party & Tea Salon at Red Poppy Art Salon
+  text: >-
+    Join us for this FREE event to socialize, celebrate and tell your own
+    stories in a fun, low-key atmosphere. Complementary food and tea will be
+    served. Registration is strongly suggested. Produced by Aviva Arts and Red
+    Poppy Art House.\
+
+    \
+
+    **Sunday, October 6th, 2024 at 12-3pm**\
+
+    **at Red Poppy Art House** (2698 Folsom St, San Francisco, CA 94110)
+
+
+    [Admission is free with registration](https://www.eventbrite.com/e/11reflections-san-francisco-wrap-party-tea-salon-tickets-1034437389077), but space is limited.
 photos:
-  heading: "Photo Gallery: publicity "
+  heading: "Photo Gallery: Publicity "
   items:
     - image: https://ucarecdn.com/2f9507d9-d8b1-4d17-8312-e5b8bb7dd223/
     - image: https://ucarecdn.com/117c3036-7fdc-4f36-a312-a27a1b24ae60/
     - image: https://ucarecdn.com/a9f14760-da6f-4043-a0e3-72675d7cf5fc/
+photos2:
+  heading: "Photo Gallery: Production"
+  items:
+    - image: https://ucarecdn.com/bef8efd3-febc-4915-811d-70488abd708f/
+    - image: https://ucarecdn.com/c35d4fd7-a234-4a64-be30-f3502025806b/
+    - image: https://ucarecdn.com/71a0b674-2450-4378-b74d-3ca276b944e8/
+    - image: https://ucarecdn.com/58247e6b-ae7b-4ff7-8c95-978126504804/
+    - image: https://ucarecdn.com/d0443a04-783c-4ca3-8991-58f08684b8a1/
+    - image: https://ucarecdn.com/e5b32745-41dc-421e-af88-40b7b9cfab3c/
+    - {}
+    - {}
 bottom:
   logos:
     - image: https://ucarecdn.com/00de42c3-2bf3-429a-b12f-70c0d575a062/
