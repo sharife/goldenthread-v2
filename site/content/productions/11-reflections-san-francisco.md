@@ -18,6 +18,8 @@ description: >-
   ***11Reflections: San Francisco*** is part of a new national series of performance works by Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
 background: https://ucarecdn.com/ca5db85e-fabc-45c9-81ce-d3cab58953db/
 titleimage: ""
+programlabel: Full Digital Program
+program: https://www.flipsnack.com/goldenthread/11reflections-digital-playbill-mobile-dimensions/full-view.html
 director: ""
 featuring: ""
 musicaldirector: ""
