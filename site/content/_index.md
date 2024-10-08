@@ -54,4 +54,29 @@ items:
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
+  - subtitle: "**ALAA: A Family Trilogy**"
+    text: >-
+      A script-in-hand workshop production
+
+      By **Adam Ashraf Elsayigh**
+
+      Generative dramaturgy by **Salma S. Zohdi**
+
+      Directed by **Evren Odcikin**
+
+
+      In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family's activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***Alaa: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa's family from 2011 to 2014 through the Egyptian Revolution. \
+
+      \
+
+      **November 16-17, 2024** 
+
+      Z Space  \
+
+      450 Florida St. \
+
+      San Francisco, CA, 94110
+    image: https://ucarecdn.com/13e79ef0-1b2d-4cfe-b582-57406a7d5af6/
+    cta: "Buy Tickets! "
+    link: https://goldenthread.org/tickets/
 ---
