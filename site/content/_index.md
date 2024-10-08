@@ -8,14 +8,10 @@ link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
   - subtitle: "**ALAA: A Family Trilogy**"
     text: >-
-      Alaa Abd El-Fattah, one of the Egyptian Revolution’s leading youth voices,
-      is s﻿till imprisoned by the military dictatorship. This family saga
-      dramatizes the Revolution and counterrevolution through the legacy of
-      Egypt’s most high profile political prisoner and his matriarchal lineage.
-      Directed by G﻿olden ThreadArtist in Residence **Evren Odcikin** and
-      d﻿ramaturged by **Salma S. Zohdi**, **Adam Ashraf Elsayigh's *ALAA: A
-      Family Trilogy*** w﻿ill be presented as a script-in-hand workshop
-      presentation focusing on the second play of the trilogy from 2011 to 2014.
+      This script-in-hand workshop presentation of **Adam Ashraf Elsayigh's**
+      ambitious*epic **ALAA: A Family Trilogy*** is directed by G﻿olden Thread
+      Artist in Residence **Evren Odcikin** and d﻿ramaturged by **Salma S.
+      Zohdi**.
 
 
       **November 16-17, 2024** **at Z Space**
@@ -24,9 +20,9 @@ items:
     link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
   - subtitle: "**Welcome Wynne Chan!**"
     text: We’re thrilled to announce beloved Bay Area administrator and artist
-      **Wynne Chan** as Golden Thread's new Managing Director! Chan brings over
-      a decade of experience in non-profit best practices and artmaking that
-      uplifts historically-excluded voices.
+      **Wynne Chan** **as Golden Thread's new Managing Director!** Chan brings
+      over a decade of experience in non-profit best practices and artmaking
+      that uplifts historically-excluded voices.
     image: https://ucarecdn.com/70d396bb-fea7-4318-861c-654fae325b5e/
     cta: Find out more
     link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
