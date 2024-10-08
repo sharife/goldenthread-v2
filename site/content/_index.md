@@ -10,9 +10,9 @@ items:
     text: >-
       A script-in-hand workshop production
 
-      By **Adam Ashraf Elsayigh**
+      By **Adam Ashraf Elsayigh** \
 
-      Generative dramaturgy by **Salma S. Zohdi**
+      Generative dramaturgy by **Salma S. Zohdi** \
 
       Directed by **Evren Odcikin**
 
