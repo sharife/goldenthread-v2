@@ -8,29 +8,20 @@ link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
   - subtitle: "**ALAA: A Family Trilogy**"
     text: >-
-      A script-in-hand workshop production
+      Alaa Abd El-Fattah, one of the Egyptian Revolution’s leading youth voices,
+      is s﻿till imprisoned by the military dictatorship. This family saga
+      dramatizes the Revolution and counterrevolution through the legacy of
+      Egypt’s most high profile political prisoner and his matriarchal lineage.
+      Directed by G﻿olden ThreadArtist in Residence **Evren Odcikin** and
+      d﻿ramaturged by **Salma S. Zohdi**, **Adam Ashraf Elsayigh's *ALAA: A
+      Family Trilogy*** w﻿ill be presented as a script-in-hand workshop
+      presentation focusing on the second play of the trilogy from 2011 to 2014.
 
-      By **Adam Ashraf Elsayigh** \
 
-      Generative dramaturgy by **Salma S. Zohdi** \
-
-      Directed by **Evren Odcikin**
-
-
-      In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family's activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***Alaa: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa's family from 2011 to 2014 through the Egyptian Revolution. \
-
-      \
-
-      **November 16-17, 2024** \
-
-      Z Space  \
-
-      450 Florida St. \
-
-      San Francisco, CA, 94110
+      **November 16-17, 2024** **at Z Space**
     image: https://ucarecdn.com/694ce6e3-4109-47da-9810-f7e52b9bf59a/
-    cta: "Buy Tickets! "
-    link: https://goldenthread.org/tickets/
+    cta: Information and tickets
+    link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
   - subtitle: "**Welcome Wynne Chan!**"
     text: >-
       We’re thrilled to announce beloved Bay Area administrator and artist Wynne
