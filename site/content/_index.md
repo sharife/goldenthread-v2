@@ -6,26 +6,31 @@ background: https://ucarecdn.com/e76eb444-80e2-4b79-8269-4ea5e5a21df9/
 cta: Information and tickets
 link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
-  - subtitle: "**11Reflections: San Francisco**"
+  - subtitle: "**ALAA: A Family Trilogy**"
     text: >-
-      Devised and directed by **Andrea Assaf**\
+      A script-in-hand workshop production
 
-      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**\
+      By **Adam Ashraf Elsayigh**
 
-      and Turkish composer and violinist **Eylem Basaldi**
+      Generative dramaturgy by **Salma S. Zohdi**
+
+      Directed by **Evren Odcikin**
 
 
-      An episodic, multimedia performance, **[11Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** features international renowned performers alongside Bay Area artists who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001 — from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
+      In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family's activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***Alaa: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa's family from 2011 to 2014 through the Egyptian Revolution. \
 
+      \
 
-      **TWO PERFORMANCES ONLY!**\
+      **November 16-17, 2024** 
 
-      **Oct 4 & 5, 2024 at 7pm**\
+      Z Space  \
 
-      at Brava Theater Center, San Francisco
-    image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
+      450 Florida St. \
+
+      San Francisco, CA, 94110
+    image: https://ucarecdn.com/13e79ef0-1b2d-4cfe-b582-57406a7d5af6/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/productions/11-reflections-san-francisco/
+    link: https://goldenthread.org/tickets/
   - subtitle: "**Welcome Wynne Chan!**"
     text: >-
       We’re thrilled to announce beloved Bay Area administrator and artist Wynne
@@ -54,29 +59,24 @@ items:
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
-  - subtitle: "**ALAA: A Family Trilogy**"
+  - subtitle: "**11Reflections: San Francisco**"
     text: >-
-      A script-in-hand workshop production
+      Devised and directed by **Andrea Assaf**\
 
-      By **Adam Ashraf Elsayigh**
+      Featuring acclaimed Syrian opera singer **Lubana Al Quntar**\
 
-      Generative dramaturgy by **Salma S. Zohdi**
-
-      Directed by **Evren Odcikin**
+      and Turkish composer and violinist **Eylem Basaldi**
 
 
-      In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family's activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***Alaa: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa's family from 2011 to 2014 through the Egyptian Revolution. \
+      An episodic, multimedia performance, **[11Reflections: San Francisco](https://goldenthread.org/productions/11-reflections-san-francisco/)** features international renowned performers alongside Bay Area artists who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001 — from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
 
-      \
 
-      **November 16-17, 2024** 
+      **TWO PERFORMANCES ONLY!**\
 
-      Z Space  \
+      **Oct 4 & 5, 2024 at 7pm**\
 
-      450 Florida St. \
-
-      San Francisco, CA, 94110
-    image: https://ucarecdn.com/13e79ef0-1b2d-4cfe-b582-57406a7d5af6/
+      at Brava Theater Center, San Francisco
+    image: https://ucarecdn.com/31bcc356-ffb0-4688-9678-a91d18b3554f/
     cta: "Buy Tickets! "
-    link: https://goldenthread.org/tickets/
+    link: https://goldenthread.org/productions/11-reflections-san-francisco/
 ---
