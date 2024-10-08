@@ -312,37 +312,15 @@ cast:
     - name: Torange Yeghiazarian
       credit: Contributor
       image: https://ucarecdn.com/45f95e7f-50d7-4a4c-890a-bfa9e320c4c9/
-      bio: "**Torange Yeghiazarian** (*she/her*) is the Founding Artistic Director
-        Emeritus of Golden Thread Productions, the first American theatre
-        company focused on the Middle East where she launched such visionary
-        programs as ReOrient Festival, New Threads, Fairytale Players, and What
-        Do the Women Say?, and timely initiatives such as Islam 101 and Project
-        Alo? Torange has been recognized by Theatre Bay Area and is one of
-        Theatre Communication Group’s Legacy Leaders of Color. She was honored
-        by the Cairo International Theatre Festival and the Symposium on Equity
-        in the Entertainment Industry at Stanford University. A playwright,
-        director, and translator, Torange contributed a case study chapter to
-        “Casting a Movement”, forthcoming from Routledge, 2019. Her translation
-        and stage adaptation of Nizami’s “Leyla & Majnun” is published on
-        Gleeditions.com. She has been published in The Drama Review, American
-        Theatre Magazine, AmerAsia Journal, and contributed to Encyclopedia of
-        Women & Islamic Cultures and Cambridge World Encyclopedia of Stage
-        Actors. At Golden Thread, Torange directed *OH MY SWEET LAND* by Amir
-        Nizar Zuabi, and the premieres of *OUR ENEMIES: LIVELY SCENES OF LOVE
-        AND COMBAT* and *SCENIC ROUTES* by Yussef El Guindi, *THE MYTH OF
-        CREATION* by Sadegh Hedayat, *TAMAM* by Betty Shamieh, *STUCK* by Amir
-        Al-Azraki, *VOICE ROOM* by Reza Soroor, and adapted the poem, *I SELL
-        SOULS* by Simin Behbehani for the stage. Torange was a member of the
-        artistic team that developed *BENEDICTUS*, a collaboration among
-        Iranian, Israeli, and American artists. She received a Gerbode-Hewlett
-        Playwright Commission Award for *ISFAHAN BLUES*, a co-production with
-        African American Shakespeare Company, and a commission from the Islamic
-        Cultural Center of Northern California to write *THE FIFTH STRING:
-        ZIRYAB’S PASSAGE TO CORDOBA*. Other plays include *444 DAYS*, *WAVES*,
-        and *CALL ME MEHDI*, included in the anthology “Salaam. Peace: An
-        Anthology of Middle Eastern-American Drama,” TCG, 2009. Born in Iran and
-        of Armenian heritage, Torange holds a Master’s degree in Theatre Arts
-        from San Francisco State University."
+      bio: "**Torange Yeghiazarian** (*she/her*) is the founding artistic director
+        emeritus of Golden Thread Productions. She received a Gerbode- Hewlett
+        Playwright Commission Award for *Isfahan Blues* and a commission from
+        the Islamic Cultural Center of Northern California to write and direct
+        *The Fifth String*. Other plays include *444 Days*, *Waves*, *Behind
+        Glass Windows*, *Dawn At Midnight*, *Abaga*, *Thanksgiving At
+        Khodabakhshian’s*, *Publicly Resting*, and *Call Me Mehdi*, included in
+        the anthology *Salaam. Peace – An Anthology of Middle Eastern-American
+        Drama* (TCG, 2009)."
 mentions:
   heading: Wrap Party & Tea Salon at Red Poppy Art Salon
   text: >-
