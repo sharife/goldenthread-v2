@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: "11Reflections: San Francisco"
+headline: "ALAA: A Family Trilogy"
 subtitle: ""
-background: https://ucarecdn.com/4e23c60a-3fc5-4f27-a27b-0d400a55f2cf/
+background: https://ucarecdn.com/e76eb444-80e2-4b79-8269-4ea5e5a21df9/
 cta: Information and tickets
-link: https://goldenthread.org/productions/11-reflections-san-francisco/
+link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
   - subtitle: "**11Reflections: San Francisco**"
     text: >-
