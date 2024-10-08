@@ -1,33 +1,6 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: "11REFLECTIONS: SAN FRANCISCO  "
-    items:
-      - link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SKc000000wkEEMAY
-        cta: BUY NOW
-        pre: West Coast Premiere
-        title: October 4 - 5, 2024 at Brava Theater Center
-        subtitle: ""
-        text: >-
-          Created and directed by **Andrea Assaf** \
-
-          Featuring acclaimed Syrian opera singer **Lubana Al Quntar**  \
-
-          and Turkish composer and violinist **Eylem Basaldi** 
-
-
-          ***11Reflections: San Francisco*** is part of a new national series of performance works, [Eleven Reflections on the Nation](https://www.art2action.org/eleven-reflections), devised by **Andrea Assaf**. The project draws on her seminal work, ***Eleven Reflections on September***, an episodic, multimedia performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members who have been affected by post-9/11 policies to contribute their stories, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.  
-
-
-          Co-produced by **Golden Thread Productions**, **Brava for Women in the Arts**, **Art2Action**, and in collaboration with **Aviva Arts** and **Red Poppy Art House**
-
-
-          Sliding scale ticket prices starting at **$25 - $100** (+3.25 fee) \
-
-          \
-
-          For Box Office and v﻿enue information, v﻿isit the [Brava website](https://www.brava.org/visit). F﻿or further inquiries, please call **415-641-7657 x 101** or email info@brava.org
-        image: https://ucarecdn.com/1fe3e851-baeb-44dd-8056-a38eeecd2edb/-/crop/1920x707/0,0/-/preview/
   - heading: "ALAA: A FAMILY TRILOGY"
     items:
       - title: November 16 - 17, 2024 at Z Space
