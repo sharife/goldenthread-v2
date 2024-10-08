@@ -21,7 +21,7 @@ items:
 
       \
 
-      **November 16-17, 2024** 
+      **November 16-17, 2024** \
 
       Z Space  \
 
