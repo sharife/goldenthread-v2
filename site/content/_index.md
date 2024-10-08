@@ -33,16 +33,12 @@ items:
   - subtitle: |-
       **24 Hours for Palestine:** \
       **A Moon Will Rise From Darkness**
-    text: >-
-      **W﻿atch FREE video recordings of the 24-hour online event!** T﻿his
-      t﻿railblazing global partnership featured 100+ global artists and
+    text: "**A﻿ll sessions are now available to stream on HowlRound TV for FREE!**
+      T﻿his t﻿railblazing global partnership featured 100+ global artists  and
       activists for a Free Palestine, including performances and presentations
       honoring the Palestinian people and their steadfastness in the face of
       genocide, and discussions of how to build solidarity in the global
-      movement for Palestinian liberation. 
-
-
-      O﻿rganized and produced by Golden Thread Productions a﻿nd Art2Action, in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, and Dunya Productions. S﻿tream hosted by HowlRound Theatre Commons.
+      movement for Palestinian liberation."
     image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
     cta: Learn More!
     link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
