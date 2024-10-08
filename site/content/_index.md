@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: "ALAA: A Family Trilogy"
 subtitle: ""
-background: https://ucarecdn.com/e76eb444-80e2-4b79-8269-4ea5e5a21df9/
+background: https://ucarecdn.com/63e880e5-95bc-4679-86c6-a775673dc791/
 cta: Information and tickets
 link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
@@ -28,7 +28,7 @@ items:
       450 Florida St. \
 
       San Francisco, CA, 94110
-    image: https://ucarecdn.com/13e79ef0-1b2d-4cfe-b582-57406a7d5af6/
+    image: https://ucarecdn.com/694ce6e3-4109-47da-9810-f7e52b9bf59a/
     cta: "Buy Tickets! "
     link: https://goldenthread.org/tickets/
   - subtitle: "**Welcome Wynne Chan!**"
