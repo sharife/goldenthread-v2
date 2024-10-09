@@ -16,7 +16,7 @@ description: >-
   In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family’s activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, this epic and ambitious script-in-hand workshop presentation will present the second play in the Trilogy focusing on 2011 to 2014. 
 
 
-  *ALAA: A Family Trilogy* is commissioned by **Golden Thread Productions** with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**.
+  *ALAA: A Family Trilogy* is commissioned by **Golden Thread Productions** with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**, supported by the **Mellon Foundation**.
 background: https://ucarecdn.com/9e5d228d-2e04-4c74-805a-76becfd95a36/
 titleimage: ""
 writer: ""
