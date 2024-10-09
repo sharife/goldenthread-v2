@@ -7,7 +7,7 @@ cta: Information and tickets
 link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
   - subtitle: |-
-      **ALAA: A Family Trilogy**\
+      ***ALAA: A Family Trilogy***\
       **Nov 16-17, 2024** **at Z Space**
     text: "This script-in-hand workshop presentation of *ALAA: A Family Trilogy*,
       **Adam Ashraf Elsayigh**'s ambitious epic about the Egyptian Revolution
