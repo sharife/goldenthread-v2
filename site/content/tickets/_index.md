@@ -1,7 +1,7 @@
 ---
 title: "Buy Tickets: 2024 Season"
 lists:
-  - heading: "ALAA: A FAMILY TRILOGY"
+  - heading: "ALAA: A Family Trilogy"
     items:
       - title: November 16 - 17, 2024 at Z Space
         pre: Workshop Production
@@ -17,7 +17,7 @@ lists:
           In 2011, blogger Alaa Abd El-Fattah became a leading voice of the Egyptian Revolution by fusing his activism and tech acumen, inadvertently following in his famous family’s activist legacy. Since then, he has spent much of the last decade in prison, unlawfully held by a military regime seeking to silence him and his family. Weaving writings and personal testimonials from Alaa and his family matriarchs, ***ALAA: A Family Trilogy*** is an epic and ambitious dramatization of a single family’s unwavering resistance at the heart of a nation’s fight for justice. This script-in-hand workshop presentation will focus on ***Mini-Revolutionaries***, the second play in the Trilogy which follows the story of Alaa’s family from 2011 to 2014 through the Egyptian Revolution.
 
 
-          Commissioned by Golden Thread Productions with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**.
+          *ALAA: A Family Trilogy* is commissioned by **Golden Thread Productions** with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**, supported by the **Mellon Foundation**.
 
 
           Sliding scale ticket prices starting at **$25 - $100** (fees included)
