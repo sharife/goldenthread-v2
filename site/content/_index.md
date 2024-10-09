@@ -12,7 +12,7 @@ items:
       Ashraf Elsayigh's ambitious epic about the Egyptian Revolution through the
       life of a﻿ctivist and political prisoner Alaa Abd El-Fattah, is directed
       by G﻿olden Thread Artist in Residence Evren Odcikin w﻿ith generative
-      dramaturgy by Salma S. Zohdi.
+      dramaturgy by Salma S. Zohdi. 
 
 
       **November 16-17, 2024** **at Z Space**
