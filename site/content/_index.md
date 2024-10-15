@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: "ALAA: A Family Trilogy"
 subtitle: ""
-background: https://ucarecdn.com/63e880e5-95bc-4679-86c6-a775673dc791/
+background: https://ucarecdn.com/8755f976-f5c4-455b-8410-719225085e57/
 cta: Information and tickets
 link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
 items:
