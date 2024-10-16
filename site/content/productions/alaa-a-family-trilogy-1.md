@@ -165,6 +165,20 @@ cast:
         others. In 2013 Nora founded a performance company called Affinity
         Project with Atosa Babaoff, Beatrice Basso and Emily Hoffman. She
         currently serves on the Board of Trustees with Golden Thread."
+    - name: Neamah Hussein
+      credit: Mona
+      image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
+      bio: >-
+        **Nemma Adeni** is an actress and writer of mixed Yemeni and Indian
+        origin, based in Los Angeles. She has a knack for dialect and speaks
+        multiple languages, including Arabic, Hindi, Urdu, Gujurati, and
+        conversational French, Mandarin and Spanish. Her versatile style and
+        improv skills have led to dramatic as well as comedic credits in film
+        and theater.
+
+        Her last performance at Golden Thread was in the ReOrient 2023 showcase of one-act plays, as Amina in Arti Ishak's *Closure*. Since then, she's starred in several short films including *Witness*, a short bilingual Urdu-English film premiering at the 2024 Tasveer Film Festival and supported by the Netflix Fund for Creative Equity.
+
+        She holds a degree in Computer Science from Princeton University, so she can portray computer hackers pretty accurately (in case you were wondering).
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
