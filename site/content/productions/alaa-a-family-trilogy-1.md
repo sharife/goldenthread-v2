@@ -92,6 +92,20 @@ cast:
         more than 30 productions. Evren is a founder of Maia Directors and
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
+    - name: Neamah Adeni
+      credit: Mona
+      image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
+      bio: >-
+        **Nemma Adeni** is an actress and writer of mixed Yemeni and Indian
+        origin, based in Los Angeles. She has a knack for dialect and speaks
+        multiple languages, including Arabic, Hindi, Urdu, Gujurati, and
+        conversational French, Mandarin and Spanish. Her versatile style and
+        improv skills have led to dramatic as well as comedic credits in film
+        and theater.
+
+        Her last performance at Golden Thread was in the ReOrient 2023 showcase of one-act plays, as Amina in Arti Ishak's *Closure*. Since then, she's starred in several short films including *Witness*, a short bilingual Urdu-English film premiering at the 2024 Tasveer Film Festival and supported by the Netflix Fund for Creative Equity.
+
+        She holds a degree in Computer Science from Princeton University, so she can portray computer hackers pretty accurately (in case you were wondering).
     - name: Sofia Ahmad
       credit: Laila
       image: https://ucarecdn.com/84a33066-1b2b-452f-8604-bbb7e664540b/
@@ -165,20 +179,16 @@ cast:
         others. In 2013 Nora founded a performance company called Affinity
         Project with Atosa Babaoff, Beatrice Basso and Emily Hoffman. She
         currently serves on the Board of Trustees with Golden Thread."
-    - name: Neamah Adeni
-      credit: Mona
-      image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
-      bio: >-
-        **Nemma Adeni** is an actress and writer of mixed Yemeni and Indian
-        origin, based in Los Angeles. She has a knack for dialect and speaks
-        multiple languages, including Arabic, Hindi, Urdu, Gujurati, and
-        conversational French, Mandarin and Spanish. Her versatile style and
-        improv skills have led to dramatic as well as comedic credits in film
-        and theater.
-
-        Her last performance at Golden Thread was in the ReOrient 2023 showcase of one-act plays, as Amina in Arti Ishak's *Closure*. Since then, she's starred in several short films including *Witness*, a short bilingual Urdu-English film premiering at the 2024 Tasveer Film Festival and supported by the Netflix Fund for Creative Equity.
-
-        She holds a degree in Computer Science from Princeton University, so she can portray computer hackers pretty accurately (in case you were wondering).
+    - name: Lawrence Radecker
+      credit: General S
+      image: https://ucarecdn.com/a4e863d1-728d-4745-8686-34e24b6f264f/
+      bio: "**Lawrence Radecker** is a resident artist with Golden Thread Productions
+        where he has developed and debuted roles in many of their world
+        premieres. He has also worked with numerous other theater companies
+        including Berkeley Rep, Magic Theatre, Crowded Fire, Aurora Theatre
+        Company, San Jose Stage, Marin Theatre Company, Thick Description,
+        Brava!, New Conservatory, Impact and African American Shakespeare
+        Company to name a few."
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
