@@ -19,9 +19,9 @@ description: >-
   *ALAA: A Family Trilogy* is commissioned by **Golden Thread Productions** with support from the **Gerbode Foundation**. This presentation is part of the **Z Space Technical Residency Program**, supported by the **Mellon Foundation**.
 background: https://ucarecdn.com/0848d180-1a11-4bd4-8d16-7d2e13cec6d3/
 titleimage: ""
-writer: ""
-director: ""
-dramaturg: ""
+writer: Adam Ashraf Elsayigh
+director: Evren Odcikin
+dramaturg: Salma S. Zohdi
 stage: Z Space
 address: 450 Florida St, San Francisco, 94110
 visitlink: https://www.zspace.org/directions
