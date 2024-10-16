@@ -189,6 +189,14 @@ cast:
         Company, San Jose Stage, Marin Theatre Company, Thick Description,
         Brava!, New Conservatory, Impact and African American Shakespeare
         Company to name a few."
+    - name: Nima Rakhshanifar
+      credit: Young Alaa
+      image: https://ucarecdn.com/33b0acd0-8cc1-4aa9-8907-aefa99e76dca/
+      bio: >-
+        **Nima Rakhshanifar** makes their Golden Thread debut with *Alaa: A
+        Family Trilogy*.
+
+        Credits include *Bald Sisters* (World Premiere - Steppenwolf Theatre Company); *Andy Warhol in Iran* (World Premiere - Barrington Stage Company); *Sanctuary City* (TheatreSquared); *Selling Kabul* (Northern Stage); *Waiting for Godot* (Victory Gardens); *Comedy of Errors* (Chicago Shakespeare Theatre); *A Christmas Carol*, *Junk* (Milwaukee Rep); *The Cat in the Hat* (Northbrook Theatre). Nima studied acting at Pacific Conservatory Theatre - PCPA.
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
