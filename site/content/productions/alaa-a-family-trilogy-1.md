@@ -126,6 +126,14 @@ cast:
         Women of Color Film Festival. Listen to her podcast THE REAL WORK: A
         PODCAST ABOUT THEATER CULTURE AND TRANSFORMATIVE JUSTICE, co-produced
         with We Rise Production, on Spotify and Apple Podcasts.'
+    - name: James Asher
+      credit: Older Alaa
+      image: https://ucarecdn.com/b4816a2e-1c1b-40d9-a321-d8794ea16102/
+      bio: "**James Asher**'s performances include: Golden Thread, Berkeley Rep, Magic
+        Theater, San Francisco Opera, SF Playhouse, Theater on the Square,
+        Shakespeare Santa Cruz, Idaho Shakes, San Jose Rep, La Jolla Playhouse,
+        LATC, Ford's Theater, Washington DC, Union Square Theater NYC, Theater
+        For The New City, HBO, NBC, Hulu, Freaky Tales, Being Us."
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
