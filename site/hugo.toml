@@ -22,51 +22,51 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		
   		[[menu.primary]]
 		parent = "season"
+		identifier = "alaa-a-family-trilogy"
+		name = "ALAA: A Family Trilogy"
+		url = "/productions/alaa-a-family-trilogy-1/"
+		weight = 11
+  
+  		[[menu.primary]]
+		parent = "season"
 		identifier = "what-do-the-women-say-2024"
 		name = "What Do The Women Say? 2024"
 		url = "/productions/what-do-the-women-say-2024/"
-		weight = 11
+		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "returning-to-haifa"
 		name = "Returning to Haifa"
 		url = "/productions/returning-to-haifa/"
-		weight = 12
+		weight = 13
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "no-summary-2024"
 		name = "No Summary 2024"
 		url = "/productions/no-summary-2024/"
-		weight = 13
+		weight = 14
 
   		[[menu.primary]]
 		parent = "season"
 		identifier = "24-hours-for-palestine"
 		name = "24 Hours for Palestine"
 		url = "/productions/24-hours-for-palestine/"
-		weight = 14
+		weight = 15
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "new-threads-staged-reading-series-2024"
 		name = "New Threads 2024"
 		url = "/productions/new-threads-staged-reading-series-2024/"
-		weight = 15
+		weight = 16
 
 		[[menu.primary]]
 		parent = "season"
 		identifier = "11-reflections-san-francisco"
 		name = "11 Reflections: San Francisco"
 		url = "/productions/11-reflections-san-francisco/"
-		weight = 16
-
-  		[[menu.primary]]
-		parent = "season"
-		identifier = "alaa-a-family-trilogy"
-		name = "ALAA: A Family Trilogy"
-		url = "/productions/alaa-a-family-trilogy-1/"
 		weight = 17
 
 
