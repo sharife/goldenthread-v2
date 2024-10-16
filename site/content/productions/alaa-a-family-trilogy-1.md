@@ -106,7 +106,7 @@ cast:
         Her last performance at Golden Thread was in the ReOrient 2023 showcase of one-act plays, as Amina in Arti Ishak's *Closure*. Since then, she's starred in several short films including *Witness*, a short bilingual Urdu-English film premiering at the 2024 Tasveer Film Festival and supported by the Netflix Fund for Creative Equity.
 
         She holds a degree in Computer Science from Princeton University, so she can portray computer hackers pretty accurately (in case you were wondering).
-    - name: Sofia Ahmad
+    - name: Sofia Ahmad*
       credit: Laila
       image: https://ucarecdn.com/84a33066-1b2b-452f-8604-bbb7e664540b/
       bio: "**Sofia Ahmad** most recently appeared as Celia in Cal Shakes’ 50th
@@ -140,7 +140,7 @@ cast:
         Women of Color Film Festival. Listen to her podcast THE REAL WORK: A
         PODCAST ABOUT THEATER CULTURE AND TRANSFORMATIVE JUSTICE, co-produced
         with We Rise Production, on Spotify and Apple Podcasts.'
-    - name: James Asher
+    - name: James Asher*
       credit: Older Alaa
       image: https://ucarecdn.com/b4816a2e-1c1b-40d9-a321-d8794ea16102/
       bio: "**James Asher**'s performances include: Golden Thread, Berkeley Rep, Magic
@@ -167,7 +167,7 @@ cast:
         Diyar has appeared in several independent short films, and is passionate
         about telling stories that transcend borders and build bridges—between
         cultures, the familiar and the unknown, and between each of us."
-    - name: Nora El Samahy
+    - name: Nora El Samahy*
       credit: Ahdaf
       image: https://ucarecdn.com/cd129176-4188-4ec7-8bb2-c934de98651b/
       bio: "**Nora El Samahy** is a Resident Artist at Golden Thread Productions, a
@@ -189,7 +189,7 @@ cast:
         Company, San Jose Stage, Marin Theatre Company, Thick Description,
         Brava!, New Conservatory, Impact and African American Shakespeare
         Company to name a few."
-    - name: Nima Rakhshanifar
+    - name: Nima Rakhshanifar*
       credit: Young Alaa
       image: https://ucarecdn.com/33b0acd0-8cc1-4aa9-8907-aefa99e76dca/
       bio: >-
