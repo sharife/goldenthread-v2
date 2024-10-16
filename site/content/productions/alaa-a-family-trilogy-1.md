@@ -106,6 +106,26 @@ cast:
         Festival, Magic Theatre, Shakespeare Santa Cruz, and Pacific Repertory
         Theater. Sofia is a graduate of NYU’s Tisch School of the Arts and a
         proud member of AEA and SAG-AFTRA."
+    - name: Tierra Allen
+      credit: Manal
+      image: https://ucarecdn.com/22e36f68-e6e1-46ae-b0d8-0ae737beab21/
+      bio: '**Tierra Allen** creates for collective liberation from her home in
+        Occupied Huchiun/Oakland. As a theater artist and cultural worker, she’s
+        co-created spaces braiding performance, activism, healing, and critical
+        consciousness-raising at theaters, community-based organizations,
+        schools, and parks, behind prison walls and in the streets. She recently
+        performed in *Shipping & Handling* (Crowded Fire Theater), *House/Full
+        of Blackwomxn: This Too Shall Pass* (Deep Waters Dance Theater),
+        *Josephine’s Feast* (Campo Santo/Magic Theater), *Babes in Ho-Lland*
+        (Shotgun Players), and *Sign My Name to Freedom* (SFBATCO). She’s won an
+        Isadora Duncan "Izzie" Dance Award, earned award nominations from
+        Theatre Bay Area, directed for 3Girls Theater, Playwrights Foundation,
+        and PlayGround, and choreographed for the National Queer Arts Festival,
+        Spectrum Queer Media, and TheatreFIRST. Their speculative abolitionist
+        short film THE REMEMBERING TIME screened at the 18th International Queer
+        Women of Color Film Festival. Listen to her podcast THE REAL WORK: A
+        PODCAST ABOUT THEATER CULTURE AND TRANSFORMATIVE JUSTICE, co-produced
+        with We Rise Production, on Spotify and Apple Podcasts.'
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
