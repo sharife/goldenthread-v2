@@ -197,7 +197,7 @@ cast:
         Family Trilogy*.
 
         Credits include *Bald Sisters* (World Premiere - Steppenwolf Theatre Company); *Andy Warhol in Iran* (World Premiere - Barrington Stage Company); *Sanctuary City* (TheatreSquared); *Selling Kabul* (Northern Stage); *Waiting for Godot* (Victory Gardens); *Comedy of Errors* (Chicago Shakespeare Theatre); *A Christmas Carol*, *Junk* (Milwaukee Rep); *The Cat in the Hat* (Northbrook Theatre). Nima studied acting at Pacific Conservatory Theatre - PCPA.
-    - name: Wiley Naman Strasser
+    - name: Wiley Naman Strasser*
       credit: Mina
       image: https://ucarecdn.com/59f20b66-c769-478e-98c3-854b9d814bee/
       bio: "**Wiley Naman Strasser** is an actor, dancer, singer and musician.
