@@ -134,6 +134,25 @@ cast:
         Shakespeare Santa Cruz, Idaho Shakes, San Jose Rep, La Jolla Playhouse,
         LATC, Ford's Theater, Washington DC, Union Square Theater NYC, Theater
         For The New City, HBO, NBC, Hulu, Freaky Tales, Being Us."
+    - name: Diyar Banna
+      credit: Sanaa
+      image: https://ucarecdn.com/c578bcf9-7198-472b-850b-740d65159901/
+      bio: "**Diyar Banna** is honored to be making her Golden Thread Productions
+        debut in *ALAA: A Family Trilogy* under the direction of Evren Odcikin!
+        She was last seen as Hero in Marin Shakespeare Company’s production of
+        *Much Ado About Nothing*. A proud Bay Area native, Diyar is excited to
+        be performing at home again after earning her BFA from Carnegie Mellon
+        University, where she performed in productions such as *A Bright Room
+        Called Day* (Die Altae), *The Matchmaker* (Ermengarde), and new works
+        like *Infinite Canary* (Cassandra Asher). While at Carnegie Mellon, she
+        also wrote and directed *Lotus Cafe* and *Morphine Man* for the
+        university’s Playground Festival. Prior to college, Diyar trained at the
+        American Conservatory Theater (ACT) Young Conservatory, where she
+        appeared in productions such as *After Juliet*, *Every 17 Minutes the
+        Crowd Goes Crazy*, and *Bird of Prey*. In addition to her theater work,
+        Diyar has appeared in several independent short films, and is passionate
+        about telling stories that transcend borders and build bridges—between
+        cultures, the familiar and the unknown, and between each of us."
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
