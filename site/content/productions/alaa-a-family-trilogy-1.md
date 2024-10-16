@@ -197,6 +197,17 @@ cast:
         Family Trilogy*.
 
         Credits include *Bald Sisters* (World Premiere - Steppenwolf Theatre Company); *Andy Warhol in Iran* (World Premiere - Barrington Stage Company); *Sanctuary City* (TheatreSquared); *Selling Kabul* (Northern Stage); *Waiting for Godot* (Victory Gardens); *Comedy of Errors* (Chicago Shakespeare Theatre); *A Christmas Carol*, *Junk* (Milwaukee Rep); *The Cat in the Hat* (Northbrook Theatre). Nima studied acting at Pacific Conservatory Theatre - PCPA.
+    - name: Wiley Naman Strasser
+      credit: Mina
+      image: https://ucarecdn.com/59f20b66-c769-478e-98c3-854b9d814bee/
+      bio: "**Wiley Naman Strasser** is an actor, dancer, singer and musician.
+        Previous work with Golden Thread includes productions of *Drowning in
+        Cairo* and *Urge For Going*. Other recent credits include *As You Like
+        It* at CalShakes, national tours of *The Kite Runner* and *A Christmas
+        Carol*, *Crave* with Stairwell Theatre, *We Build Houses Here* with
+        Detour Productions, and workshops with The Civilians, Boise Contemporary
+        Theatre, and the Ashland New Plays Festival.
+        [wileynamanstrasser.com](https://www.wileynamanstrasser.com/)"
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
