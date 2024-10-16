@@ -92,6 +92,20 @@ cast:
         more than 30 productions. Evren is a founder of Maia Directors and
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
+    - name: Sofia Ahmad
+      credit: Laila
+      image: https://ucarecdn.com/84a33066-1b2b-452f-8604-bbb7e664540b/
+      bio: "**Sofia Ahmad** most recently appeared as Celia in Cal Shakes’ 50th
+        Anniversary Season production of *As You Like It*. She is a Resident
+        Artist with Golden Thread. Previous Golden Thread productions include:
+        *ReOrient* in 2023 and 2019, *On The Periphery* (a Crowded Fire
+        co-production), *The Most Dangerous Highway in the World*, *Isfahan
+        Blues* (an African-American Shakespeare Company co-production), and
+        *Love Missile*. Other local acting credits include Berkeley Rep, ACT,
+        Bay Area Playwrights Festival, PlayGround, Word for Word, SF Shakespeare
+        Festival, Magic Theatre, Shakespeare Santa Cruz, and Pacific Repertory
+        Theater. Sofia is a graduate of NYU’s Tisch School of the Arts and a
+        proud member of AEA and SAG-AFTRA."
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
