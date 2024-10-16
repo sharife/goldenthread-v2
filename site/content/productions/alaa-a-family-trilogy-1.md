@@ -165,7 +165,7 @@ cast:
         others. In 2013 Nora founded a performance company called Affinity
         Project with Atosa Babaoff, Beatrice Basso and Emily Hoffman. She
         currently serves on the Board of Trustees with Golden Thread."
-    - name: Neamah Hussein
+    - name: Neamah Adeni
       credit: Mona
       image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
       bio: >-
