@@ -92,7 +92,7 @@ cast:
         more than 30 productions. Evren is a founder of Maia Directors and
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
-    - name: Neamah Adeni
+    - name: Neamah Adeni*
       credit: Mona
       image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
       bio: >-
