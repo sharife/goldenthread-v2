@@ -153,6 +153,18 @@ cast:
         Diyar has appeared in several independent short films, and is passionate
         about telling stories that transcend borders and build bridges—between
         cultures, the familiar and the unknown, and between each of us."
+    - name: Nora El Samahy
+      credit: Ahdaf
+      image: https://ucarecdn.com/cd129176-4188-4ec7-8bb2-c934de98651b/
+      bio: "**Nora El Samahy** is a Resident Artist at Golden Thread Productions, a
+        company member of Campo Santo, and Playground. She has worked at Oregon
+        Shakespeare Company, Portland Center Stage, Aurora Theatre, Berkeley
+        Repertory, Crowded Fire, Magic Theatre, foolsFURY, Traveling Jewish
+        Theatre, Theatre Rhinoceros, Shotgun Players, The San Francisco
+        Shakespeare Festival, African American Shakespeare Company, among
+        others. In 2013 Nora founded a performance company called Affinity
+        Project with Atosa Babaoff, Beatrice Basso and Emily Hoffman. She
+        currently serves on the Board of Trustees with Golden Thread."
 ---
 **Cast**:  \
 Sofia Ahmad\*, Tierra Allen, James Asher\*, Nora el Samahy\*, Diyar Banna, Nemma Adeni\*, Wiley Naman Strasser\*, Lawrence Radecker, Nima Rakhshanifar\*
