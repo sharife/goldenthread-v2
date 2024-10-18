@@ -5,7 +5,7 @@ lists:
     items:
       - title: November 16 - 17, 2024 at Z Space
         pre: Workshop Production
-        image: https://ucarecdn.com/bd01e6a5-8873-4529-9f37-e5388c0e2010/
+        image: https://ucarecdn.com/4e073fd3-66c4-4107-902c-37c6a2f7fdc0/
         text: >-
           Written by **Adam Ashraf Elsayigh**\
 
