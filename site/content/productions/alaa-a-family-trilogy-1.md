@@ -30,7 +30,7 @@ ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
 cast:
   items:
     - name: "Adam Ashraf Elsayigh "
-      credit: playwright
+      credit: Playwright
       image: https://ucarecdn.com/56974121-aa51-4c74-be66-38e0916040e8/
       bio: Adam Ashraf Elsayigh was born in Cairo, Egypt. When soon thereafter, his
         parents relocated the family to Dubai, Adam grew up in a religious
@@ -51,7 +51,7 @@ cast:
         is up to at
         [https://www.adamaelsayigh.com/.](https://www.adamaelsayigh.com/)
     - name: Salma S. Zohdi
-      credit: dramaturg
+      credit: Generative Dramaturg
       image: https://ucarecdn.com/892c3ada-f526-4707-9e58-81dfa1b92f09/
       bio: "Salma S. Zohdi is an Egyptian dramaturg living in the U.S. Salma is the
         Director of Development & Communications at Noor Theatre Company, a
@@ -92,7 +92,7 @@ cast:
         more than 30 productions. Evren is a founder of Maia Directors and
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
-    - name: Neamah Adeni*
+    - name: Nemma Adeni*
       credit: Mona
       image: https://ucarecdn.com/59d3867a-606d-46eb-9659-47324aba3205/
       bio: >-
@@ -121,7 +121,7 @@ cast:
         Theater. Sofia is a graduate of NYU’s Tisch School of the Arts and a
         proud member of AEA and SAG-AFTRA."
     - name: Tierra Allen
-      credit: Manal
+      credit: Manal and others
       image: https://ucarecdn.com/22e36f68-e6e1-46ae-b0d8-0ae737beab21/
       bio: '**Tierra Allen** creates for collective liberation from her home in
         Occupied Huchiun/Oakland. As a theater artist and cultural worker, she’s
@@ -141,7 +141,7 @@ cast:
         PODCAST ABOUT THEATER CULTURE AND TRANSFORMATIVE JUSTICE, co-produced
         with We Rise Production, on Spotify and Apple Podcasts.'
     - name: James Asher*
-      credit: Older Alaa
+      credit: Seif
       image: https://ucarecdn.com/b4816a2e-1c1b-40d9-a321-d8794ea16102/
       bio: "**James Asher**'s performances include: Golden Thread, Berkeley Rep, Magic
         Theater, San Francisco Opera, SF Playhouse, Theater on the Square,
@@ -149,7 +149,7 @@ cast:
         LATC, Ford's Theater, Washington DC, Union Square Theater NYC, Theater
         For The New City, HBO, NBC, Hulu, Freaky Tales, Being Us."
     - name: Diyar Banna
-      credit: Sanaa
+      credit: Sanaa and others
       image: https://ucarecdn.com/c578bcf9-7198-472b-850b-740d65159901/
       bio: "**Diyar Banna** is honored to be making her Golden Thread Productions
         debut in *ALAA: A Family Trilogy* under the direction of Evren Odcikin!
@@ -180,7 +180,7 @@ cast:
         Project with Atosa Babaoff, Beatrice Basso and Emily Hoffman. She
         currently serves on the Board of Trustees with Golden Thread."
     - name: Lawrence Radecker
-      credit: General S
+      credit: General S and others
       image: https://ucarecdn.com/a4e863d1-728d-4745-8686-34e24b6f264f/
       bio: "**Lawrence Radecker** is a resident artist with Golden Thread Productions
         where he has developed and debuted roles in many of their world
@@ -190,7 +190,7 @@ cast:
         Brava!, New Conservatory, Impact and African American Shakespeare
         Company to name a few."
     - name: Nima Rakhshanifar*
-      credit: Young Alaa
+      credit: Alaa
       image: https://ucarecdn.com/33b0acd0-8cc1-4aa9-8907-aefa99e76dca/
       bio: >-
         **Nima Rakhshanifar** makes their Golden Thread debut with *Alaa: A
@@ -198,7 +198,7 @@ cast:
 
         Credits include *Bald Sisters* (World Premiere - Steppenwolf Theatre Company); *Andy Warhol in Iran* (World Premiere - Barrington Stage Company); *Sanctuary City* (TheatreSquared); *Selling Kabul* (Northern Stage); *Waiting for Godot* (Victory Gardens); *Comedy of Errors* (Chicago Shakespeare Theatre); *A Christmas Carol*, *Junk* (Milwaukee Rep); *The Cat in the Hat* (Northbrook Theatre). Nima studied acting at Pacific Conservatory Theatre - PCPA.
     - name: Wiley Naman Strasser*
-      credit: Mina
+      credit: Mina and others
       image: https://ucarecdn.com/59f20b66-c769-478e-98c3-854b9d814bee/
       bio: "**Wiley Naman Strasser** is an actor, dancer, singer and musician.
         Previous work with Golden Thread includes productions of *Drowning in
@@ -215,6 +215,8 @@ mentions:
   heading: Creative Team
 ---
 ![]()
+
+#### **\#FREEALAA**
 
 **Alaa Abd el-Fattah** is arguably the most high-profile political prisoner in Egypt, rising to international prominence during the revolution of 2011. A fiercely independent thinker who fuses politics and technology in powerful prose, Alaa’s voice came to symbolize much of what was fresh, inspiring and revolutionary about the uprisings that have defined the last decade. He has been in prison for almost 10 years. **[Follow #FreeAlaa movement to find out more.](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf040470966bd4152&id=872a22d66c&e=a2b023867c)**
 
