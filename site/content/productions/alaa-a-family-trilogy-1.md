@@ -208,6 +208,61 @@ cast:
         Detour Productions, and workshops with The Civilians, Boise Contemporary
         Theatre, and the Ashland New Plays Festival.
         [wileynamanstrasser.com](https://www.wileynamanstrasser.com/)"
+    - name: Wesley Apfel*
+      credit: Stage Manager
+      bio: "**Wesley Apfel** is a resident artist with Golden Thread and excited to
+        collaborate on *Alaa: A Family Trilogy*. For Golden Thread: *Scenes from
+        71* Years*, *The Language of Wild Berries* – Audio Version, *Night Over
+        Erzinga*, and ReOrient 2012 & 2015. Recently: *Hippest Trip – The Soul
+        Train Musical* (World Premiere), *A Christmas Carol*, and *Poor Yella
+        Rednecks: Vietgone 2* (American Conservatory Theater); *Intimate
+        Apparel* (Arizona Theatre Company); *Lear* (CalShakes); *unseen* and
+        *Peter and the Starcatcher* (Oregon Shakespeare Festival); and the West
+        Coast premiere of *Predictor* (Capital Stage). Northern California
+        credits include *Somewhere* (TheatreWorks); *This Is How It Goes*,
+        *After the Revolution*, *Detroit* (Aurora Theatre); *The 39 Steps*,
+        *Lucky Stiff*, *Xanadu* (Center REP); over 25 productions with Capital
+        Stage, Sacramento Theater Company, and Music Circus. New York credits
+        include the original productions of *The Graduate*, *Gutenberg! The
+        Musical*, *Bat Boy*, *The Musical of Musicals*, *The Thing About Men*;
+        and shows with The Public Theater, Paper Mill Playhouse, and Barrington
+        Stage. For Frances. (he/him)"
+      image: https://ucarecdn.com/cd8872c8-1dbe-481f-925f-b32672f09b5f/
+    - name: James Ard
+      credit: Sound Designer
+      image: https://ucarecdn.com/2f8d3896-61fd-4157-a04f-1939c0f483b4/
+    - name: Kate Boyd
+      credit: Lighting Designer
+      bio: "**Kate Boyd** designs scenery and lighting in the Bay Area. She recently
+        designed the lights for *Bees to Honey* at Marin Theatre Company and
+        scenery for *The Language of Wild Berries* for Golden Thread. Recent
+        Aurora shows include *Born with Teeth*, *Hurricane Diane,* and
+        *Everything is Illuminated*. She has also designed at Portland Center
+        Stage, Magic Theater, New Conservatory Theater, Merola Opera, the SF
+        Conservatory of Music, Company C Ballet and Theaterworks. Kate is a
+        resident artist with Golden Thread Productions and a recipient of the
+        Gerbode Design Fellowship. Kate teaches stagecraft and design at
+        Lick-Wilmerding High School."
+      image: https://ucarecdn.com/60864134-4f29-47d7-9855-754a5a19faf8/
+    - name: Maxwell Bowman
+      credit: Projection and Video Designer
+      image: https://ucarecdn.com/6d93dc4a-4fa0-45b8-8627-1195509c0b33/
+      bio: "**Maxwell Bowman** is a lighting and multimedia designer with side
+        endeavors in interactive art and design.  He is excited to be returning
+        to Golden Thread after serving as Lighting and Video designer for the
+        ReOrient Festival 2023. He has collaborated all over the world on
+        productions by such organizations as the American Repertory Theatre, The
+        Atlanta Opera, Santa Fe Opera, Houston Grand Opera, The Dallas Opera,
+        The Royal Court Theatre (UK), San Diego Opera, San Francisco Opera,
+        Seattle Rep, Second Stage, Oregon Shakespeare Festival, National Sawdust
+        Factory to name a select few, and is an ongoing video associate
+        for *Wicked* on Broadway and National Tours. Maxwell is a contributing
+        member of the NYC based collective ’GLMMR’; in areas of lighting design
+        and technology integration. He is originally from Tumwater, Washington.
+        He attended Southern Methodist University (MFA in Stage
+        Design), Southern Oregon University (BFA in Lighting Design), and is
+        currently based in Mountain View, CA."
+  heading: Creative Team and Cast
 mentions:
   text: Wesley Apfel* (﻿stage manager), James Ard (sound designer), Max Bowman
     (projection and video designer), Kate Boyd (lighting designer), Michelle
