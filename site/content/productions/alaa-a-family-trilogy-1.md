@@ -228,6 +228,9 @@ cast:
         and shows with The Public Theater, Paper Mill Playhouse, and Barrington
         Stage. For Frances. (he/him)"
       image: https://ucarecdn.com/cd8872c8-1dbe-481f-925f-b32672f09b5f/
+    - name: James Ard
+      credit: Sound Designer
+      image: https://ucarecdn.com/2f8d3896-61fd-4157-a04f-1939c0f483b4/
     - name: Kate Boyd
       credit: Lighting Designer
       bio: "**Kate Boyd** designs scenery and lighting in the Bay Area. She recently
@@ -240,7 +243,25 @@ cast:
         resident artist with Golden Thread Productions and a recipient of the
         Gerbode Design Fellowship. Kate teaches stagecraft and design at
         Lick-Wilmerding High School."
-      image: https://ucarecdn.com/4b5de8c5-9404-4ec1-a3c0-ecf139319892/
+      image: https://ucarecdn.com/60864134-4f29-47d7-9855-754a5a19faf8/
+    - name: Maxwell Bowman
+      credit: Projection and Video Designer
+      image: https://ucarecdn.com/6d93dc4a-4fa0-45b8-8627-1195509c0b33/
+      bio: "**Maxwell Bowman** is a lighting and multimedia designer with side
+        endeavors in interactive art and design.  He is excited to be returning
+        to Golden Thread after serving as Lighting and Video designer for the
+        ReOrient Festival 2023. He has collaborated all over the world on
+        productions by such organizations as the American Repertory Theatre, The
+        Atlanta Opera, Santa Fe Opera, Houston Grand Opera, The Dallas Opera,
+        The Royal Court Theatre (UK), San Diego Opera, San Francisco Opera,
+        Seattle Rep, Second Stage, Oregon Shakespeare Festival, National Sawdust
+        Factory to name a select few, and is an ongoing video associate
+        for *Wicked* on Broadway and National Tours. Maxwell is a contributing
+        member of the NYC based collective ’GLMMR’; in areas of lighting design
+        and technology integration. He is originally from Tumwater, Washington.
+        He attended Southern Methodist University (MFA in Stage
+        Design), Southern Oregon University (BFA in Lighting Design), and is
+        currently based in Mountain View, CA."
   heading: Creative Team and Cast
 mentions:
   text: Wesley Apfel* (﻿stage manager), James Ard (sound designer), Max Bowman
