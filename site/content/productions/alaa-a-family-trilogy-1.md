@@ -264,16 +264,18 @@ cast:
         currently based in Mountain View, CA."
   heading: Creative Team and Cast
 mentions:
-  text: Wesley Apfel* (﻿stage manager), James Ard (sound designer), Max Bowman
-    (projection and video designer), Kate Boyd (lighting designer), Michelle
-    Mulholland (costume stylist)
-  heading: Creative Team
+  text: Z Space is a wheelchair accessible theater and has accessible seating for
+    all shows. Bathrooms are wheelchair accessible and are welcoming to all
+    genders. Assisted listening devices available upon request. You will be
+    given an opportunity to indicate access needs during the ticket buying
+    process. Currently there is no mask requirements or vaccination check for Z
+    Space shows, unless otherwise indicated for specific performances. If you
+    have any other questions or concerns, please contact Z Space's box office at
+    [boxoffice@zspace.org](mailto:boxoffice@goldenthread.org).
+  heading: Access Notes
 ---
 ![]()
 
 #### **\#FREEALAA**
 
 **Alaa Abd el-Fattah** is arguably the most high-profile political prisoner in Egypt, rising to international prominence during the revolution of 2011. A fiercely independent thinker who fuses politics and technology in powerful prose, Alaa’s voice came to symbolize much of what was fresh, inspiring and revolutionary about the uprisings that have defined the last decade. He has been in prison for almost 10 years. **[Follow #FreeAlaa movement to find out more.](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf040470966bd4152&id=872a22d66c&e=a2b023867c)**
-
-**Access Notes:**\
-Z Space is a wheelchair accessible theater and has accessible seating for all shows. Bathrooms are wheelchair accessible and are welcoming to all genders. Assisted listening devices available upon request. You will be given an opportunity to indicate access needs during the ticket buying process. Currently there is no mask requirements or vaccination check for Z Space shows, unless otherwise indicated for specific performances. If you have any other questions or concerns, please contact Z Space's box office at [boxoffice@zspace.org](mailto:boxoffice@goldenthread.org).
