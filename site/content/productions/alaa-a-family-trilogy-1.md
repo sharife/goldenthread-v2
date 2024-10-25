@@ -121,7 +121,7 @@ cast:
         Theater. Sofia is a graduate of NYU’s Tisch School of the Arts and a
         proud member of AEA and SAG-AFTRA."
     - name: Tierra Allen
-      credit: Manal and others
+      credit: Manal
       image: https://ucarecdn.com/22e36f68-e6e1-46ae-b0d8-0ae737beab21/
       bio: '**Tierra Allen** creates for collective liberation from her home in
         Occupied Huchiun/Oakland. As a theater artist and cultural worker, she’s
