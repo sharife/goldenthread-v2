@@ -92,48 +92,6 @@ staff:
         serves on the Boards of MENA Theater Makers Alliance and Playwrights
         Foundation. [odcikin.com](https://www.odcikin.com/)"
       link: ""
-    - name: Sheila Devitt
-      credit: Marketing & Engagement Manager
-      image: https://ucarecdn.com/1d97de10-8015-4e89-a568-f411fc936ef5/
-      bio: "**Sheila Devitt** *(she/her)* is a San Francisco-based performer,
-        educator, director and producer. She has served on the Board of
-        Directors at the Vortex Theatre, ABQ; produced Reading the Kilroys List;
-        served as founding member and Managing Director of Bacchus Players,
-        summer Shakespeare at Coppola Winery; Assistant Managing Director at
-        Theatre of Yugen; Communications Manager for the Bay Area Consortium of
-        Ensemble Theatres;  a co-producer of the 2020 Bay Area Women’s Theatre
-        Festival; regional coordinator of the StateraArts mentorship program.
-        She has performed nationally and internationally, including the GALA
-        Choruses Festival,  Edinburgh Fringe Festival, and the Hosho Noh
-        Theatre, Tokyo. She has collaborated with playwrights Erik Ehn, Chiori
-        Miyagawa and Katie Pearl, among others. She has trained with Augosto
-        Boal in Theatre of the Oppressed; Moscow Art Theatre School in
-        Stanislavsky technique and Chekhov; Viewpoints with Mary Overlie;
-        Lunatique Fantastique in found-object puppetry; Theatre of Yugen and
-        Theatre Nohgaku in classical Japanese Noh drama and Kyogen comedy. She
-        is equally excited by classical, multilingual, new and devised plays,
-        and joyously collaborates with living writers, with a special emphasis
-        on female playwrights. She is a graduate of the University of New
-        Mexico, with a focus on bilingual performances of Federico Garcia
-        Lorca’s pastoral trilogy. She is a member of Theatre Bay Area since 2003
-        and Theatre Communications Group since 1997."
-    - name: Linda Maria Girón
-      credit: Operations Associate
-      bio: "**Linda Maria Girón** *(they/them)* is a multi-disciplinary theater maker,
-        visual artist and musician from Los Angeles, CA. Their work is informed
-        and inspired by ritual, queerness and anti-racist practice; with a
-        primary focus on examining the neo-colonialism of Latin America and its
-        diasporas. After receiving their Bachelor's in Theater and Performance
-        Studies from the University of California, Berkeley, Linda made their
-        professional theater debut with FaultLine Theater and has since
-        performed, collaborate and written for companies across the Bay Area
-        including Crowded Fire Theater, Shotgun Players, Alter Theater Ensemble,
-        CalShakes, SFBATCO, Oakland Theater Project, Cutting Ball Theater, the
-        New Conservatory Theater Center, CentralWorks, Word4Word & the
-        Peripatetic Players. Follow their work at:
-        www.lindamgiron.com[](www.lindamgiron.com)"
-      image: https://ucarecdn.com/2dc12bf7-e258-43aa-b4a4-b9377833cb20/-/crop/1249x1349/57,329/-/preview/
-      link: ""
     - name: Wendy Reyes
       credit: Production Associate
       image: https://ucarecdn.com/2f9929a3-48e5-49bb-aa5f-b40e8e22909d/
