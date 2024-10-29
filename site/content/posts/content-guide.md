@@ -11,7 +11,7 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
-![](https://ucarecdn.com/575b7405-4465-41a2-96eb-8f7621350a65/)
+![](https://ucarecdn.com/d8109c15-e488-4ed5-8879-3bd5052ed590/)
 
 November 16 - 17, 2024
 
