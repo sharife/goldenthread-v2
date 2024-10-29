@@ -27,6 +27,8 @@ address: 450 Florida St, San Francisco, 94110
 visitlink: https://www.zspace.org/directions
 ticketlink: https://ci.ovationtix.com/34231/production/1214770
 ticketinfo: Tickets $25 - $100. No one turned away for lack of funds.
+externallink: https://goldenthread.org/posts/content-guide/
+externallinklabel: Content Guide
 cast:
   items:
     - name: "Adam Ashraf Elsayigh "
