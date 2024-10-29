@@ -13,13 +13,12 @@ If you wish to know more about the content you see here, please contact the box 
 
 ![](https://ucarecdn.com/575b7405-4465-41a2-96eb-8f7621350a65/)
 
-April 12 - May 4, 2024
+November 16 - 17, 2024
 
-### Returning to Haifa
+### ALAA: A Family Trilogy
 
-By **Ghassan Kanafani**
-Adapted for the stage by **Naomi Wallace** and **Ismail Khalidi**
+b﻿y **Adam Ashraf Elsayigh**\
+g﻿enerative dramaturgy by **Salma S. Zohdi**\
+d﻿irected by **Evren Odcikin**
 
-In the wake of the 1967 Six-Day War, with the borders finally open after two decades, Said and Safiyya, a Palestinian couple, return to Haifa in search of the echoes of a home they were forced to abandon during the Nakba in 1948. But are they truly ready for the encounter that awaits them upon their return?** *Returning to Haifa*** presents a deeply human portrait of two families, one Palestinian, and one Israeli Jewish, forced by history into an intimacy they didn’t choose.
-
-**Content Advisories: Descriptions of family separation and war violence. References of child casualties. Use of loud sounds including gunshots and artillery explosions.**
+***ALAA: A Family Trilogy*** depicts the events of the Egyptian Revolution from 2011 to 2014, as well as flashbacks to Alaa Abd El-Fattah's family's activist legacy. As such, it features descriptions and stylized depictions of physical violence, torture, and death; as well as loud sounds, including explosions and gunshots. The production will briefly show the image of Khalid Saeed's brutalized body that launched the protests in 2011.
