@@ -14,9 +14,10 @@ sidebar:
 ### **Artistic Producer**
 
 Reports to: Executive Artistic Director
+
 Supervises: Production Associate
 
-**Summary of Position:** Golden Thread Productions seeks a full time **Artistic Producer** to support our ongoing efforts to diversify the American theatre through the development and production of theatre devoted to the Middle East. The goal of this position is to implement Golden Thread’s mission through compelling artistic programming, engagement of a vibrant artistic community, and the documentation of the company’s artistic output and impact. This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the production of an annual season at a nationally-recognized non-profit theatre company.
+**Summary of Position:** Golden Thread Productions seeks a full time Artistic Producer to support our ongoing efforts to diversify the American theatre through the development and production of theatre devoted to the Middle East. The goal of this position is to implement Golden Thread’s mission through compelling artistic programming, engagement of a vibrant artistic community, and the documentation of the company’s artistic output and impact. This is an incredible opportunity for an emerging creative arts professional seeking a hands-on position in the production of an annual season at a nationally-recognized non-profit theatre company.
 
 **Purpose:** The Artistic Producer will work with the Executive Artistic Director (EAD), in close collaboration with the Managing Director (MD), to lead the production of Golden Thread’s artistic programs, ensuring their effective planning, implementation and evaluation. Our core programs include the development and production of full-length plays, the ReOrient Festival of Short Plays, a Women’s Day event, New Threads staged reading series, and a Resident Artists program. For more information, visit our programs page: <https://goldenthread.org/programs/>
 
