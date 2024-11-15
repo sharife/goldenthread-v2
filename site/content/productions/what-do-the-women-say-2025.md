@@ -7,6 +7,7 @@ start: 2025-03-08T19:00:00.000Z
 end: ""
 heading: A Screening of “Where Olive Trees Weep”, and a Guided Meditation
   Session with Ashira Darwich
+stage: Screening begins 11 AM
 address: "Available globally online "
 ---
 Golden Thread presents an online screening of Where Olive Trees Weep, which offers a searing window into the struggles and resilience of the Palestinian people under Israeli occupation. It explores themes of loss, trauma, and the quest for justice. The film follows, among others, Palestinian journalist and therapist Ashira Darwish, grassroots activist Ahed Tamimi, and Israeli journalist Amira Hass; and also witness Dr. Gabor Maté offer trauma-healing work to a group of women who were tortured in Israeli prisons. This powerful film will be available for online viewing on-demand for two weeks leading up to March 8, 2025.
