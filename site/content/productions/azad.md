@@ -1,5 +1,5 @@
 ---
-title: Azad (the rabbit and the wolf)
+title: Azad
 pre: World Premiere
 season: 2025
 date: 2024-11-15T22:30:21.838Z
