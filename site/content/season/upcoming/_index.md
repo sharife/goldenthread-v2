@@ -1,10 +1,13 @@
 ---
-title: "2023 Season: Building Forward"
-currentseason: "2023"
-intro: "Building Forward - This year we emphasize our commitment to uplift one
-  another as we explore ways to connect, cope, and be moved to make change. Join
-  us as we look for comfort in comic relief, seek unity in collaboration, and
-  find inspiration in the stories of those fighting for justice and equality. "
+title: "2025 Season: Threads of Solidarity"
+currentseason: "2025"
+intro: Golden Thread’s 2025 Season aims to illuminate the interconnectedness of
+  our struggles, amplifying Palestinian, Armenian, Afghan, and Turkish voices.
+  This season, we honor the strength of those who have endured, who are still
+  fighting, and the voices that refuse to be silenced – here in the U.S. and
+  abroad. Featuring bold world-premiere works by women-identifying artists and
+  fostering both local and national collaborations, this season invites you to
+  join us in community to continue to build solidarity and resilience together.
 background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
 lists:
   - heading: ""
