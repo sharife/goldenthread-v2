@@ -264,6 +264,23 @@ cast:
         He attended Southern Methodist University (MFA in Stage
         Design), Southern Oregon University (BFA in Lighting Design), and is
         currently based in Mountain View, CA."
+    - name: Michelle Mulholland
+      credit: Costume and Prop Designer
+      image: https://ucarecdn.com/c4714d04-d0e0-4f49-8abd-27e34db7f634/
+      bio: "Michelle Mulholland is a costume designer and arts administrator with more
+        than 20 years of experience in Bay Area theatre. She is grateful to be
+        designing again for Golden Thread, where she has been the Managing
+        Director for the past 13 years. Her most recent costume design work
+        includes *Monument, Or Four Sisters (A Sloth Play)* for The Magic
+        Theatre and *Getting There* at New Conservatory Theatre Center (NCTC).
+        Her other work includes *I Call My Brothers* and *You For Me For You*
+        (Crowded Fire Theater), *We Swim, We Talk, We Go to War*, *Urge for
+        Going*, *Isfahan Blues*, *ReOrient 2012*, and *Night Over Erzinga*
+        (Golden Thread Productions), *Late Company*, *Daniel’s Husband*,
+        *Harbor*, and *Cock* (NCTC), *Lucia Berlin: Stories* (Word for Word),
+        *The Colored Museum* (African-American Shakespeare Company),
+        *Totalitarians* (Z Space), *Tenderloin* (Cutting Ball Theater), *The
+        Oldest Profession* and *The Beebo Brinker Chronicles* (Brava Theater)."
   heading: Creative Team and Cast
 mentions:
   text: Z Space is a wheelchair accessible theater and has accessible seating for
