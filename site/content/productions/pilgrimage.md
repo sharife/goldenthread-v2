@@ -3,8 +3,8 @@ title: Pilgrimage
 pre: World Premiere
 season: 2025
 date: 2024-11-15T22:57:02.688Z
-start: 2025-10-25T21:57:02.714Z
-end: 2025-11-09T22:57:02.734Z
+start: ""
+end: ""
 writer: Humaira Ghilzai and Bridgette Dutta Portman
 additional: A co-production with Z Space
 stage: Z Space (Steindler Stage)
