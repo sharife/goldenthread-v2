@@ -6,7 +6,7 @@ date: 2024-11-15T23:05:21.892Z
 start: 2025-03-08T19:00:00.000Z
 end: ""
 heading: "Healing and Resilience: A Guided Meditation with Ashira Darwich"
-titleimage: https://ucarecdn.com/e7f175e4-3ecc-4a69-bf4d-22f50dabda59/
+titleimage: https://ucarecdn.com/e7f175e4-3ecc-4a69-bf4d-22f50dabda59/-/crop/1961x877/0,209/-/preview/
 stage: at 11 AM Pacific
 address: "Available globally online "
 cast:
