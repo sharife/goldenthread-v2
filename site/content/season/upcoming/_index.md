@@ -8,7 +8,7 @@ intro: Golden Thread’s 2025 Season aims to illuminate the interconnectedness o
   abroad. Featuring bold world-premiere works by women-identifying artists and
   fostering both local and national collaborations, this season invites you to
   join us in community to continue to build solidarity and resilience together.
-background: https://ucarecdn.com/15748919-038a-48bb-b3dc-cf10338dcbe4/
+background: https://ucarecdn.com/2130d5bb-ccaf-4233-a608-bc6a27786905/
 lists:
   - heading: ""
     items: []
