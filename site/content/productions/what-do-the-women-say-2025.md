@@ -14,7 +14,7 @@ cast:
     - name: Ashira Ali Darwish
       image: https://ucarecdn.com/69634be7-6223-4a35-997a-3c213d0e2d00/
       bio: >-
-        Ashira Ali Darwish is the founder of Catharsis Holistic Healing, a
+        **Ashira Ali Darwish** is the founder of Catharsis Holistic Healing, a
         trauma therapy project in Palestine. She is known for pioneering Sufi
         active meditation to help people suffering from continuous trauma. This
         type of active meditation draws its roots from ancestral and Indigenous
