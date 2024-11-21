@@ -1,5 +1,5 @@
 ---
-title: "Buy Tickets: 2024 Season"
+title: Buy Tickets
 lists: []
 ---
 - - -
