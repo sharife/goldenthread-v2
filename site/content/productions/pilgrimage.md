@@ -5,7 +5,7 @@ season: 2025
 date: 2024-11-15T22:57:02.688Z
 start: ""
 end: ""
-titleimage: https://ucarecdn.com/e4a43cae-3198-4bb3-b8c7-4f3472657da8/
+titleimage: https://ucarecdn.com/bc5fa0a7-9289-4c8d-8446-ed4a2bd08b77/
 writer: Humaira Ghilzai and Bridgette Dutta Portman
 additional: A co-production with Z Space
 stage: Z Space (Steindler Stage)
