@@ -9,7 +9,7 @@ intro: Golden Thread’s 2025 Season aims to illuminate the interconnectedness o
   are still fighting, and the voices that refuse to be silenced. Featuring local
   and national collaborations, this season invites you to join us in community
   and solidarity.
-background: https://ucarecdn.com/4d1526d8-498d-48b9-b487-8a29517d97e3/
+background: https://ucarecdn.com/e1dc7c90-0e3e-4293-a2b3-619bc3d26361/
 lists:
   - heading: ""
     items:
