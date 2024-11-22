@@ -5,7 +5,7 @@ date: 2024-11-21T16:00:54.641Z
 start: ""
 end: ""
 description: ""
-titleimage: https://ucarecdn.com/9f16647d-4b30-47e9-81be-dac97688e23c/
+titleimage: https://ucarecdn.com/522beb12-e9de-4cb6-aa39-bd6fe6afbf79/
 program: ""
 pdflabel: ""
 pdf: ""
