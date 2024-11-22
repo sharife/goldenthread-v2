@@ -12,7 +12,7 @@ description: >-
   Burdened by a divorce, Osman Kavala’s imprisonment in Turkey, and the ghosts of her past, Sona Tatoyan sets off to create a TV series exploring the Armenian Genocide and Syrian war. Everything changes when she unearths a trunk in her family’s war-torn Aleppo home: Karagöz puppets built by her great-great grandfather! In a quantum entanglement that spans a century, could this be the story she’s been missing: a multigenerational healing journey?
 titleimage: https://ucarecdn.com/146a25c9-b364-42e9-9285-d41d9f721877/
 writer: ""
-director: directed by Jared Mezzocchi
+director: Jared Mezzocchi
 featuring: Sona Tatoyan + a tribe of Karagöz Puppets
 additional: ""
 cast:
