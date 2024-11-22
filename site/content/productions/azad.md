@@ -5,15 +5,14 @@ season: 2025
 date: 2024-11-15T22:30:21.838Z
 start: ""
 end: ""
-description: "Burdened by a divorce, Osman Kavala’s imprisonment in Turkey, and
-  the ghosts of her past, Sona Tatoyan sets off to create a TV series exploring
-  the Armenian Genocide and Syrian war. Everything changes when she unearths a
-  trunk in her family’s war-torn Aleppo home: Karagöz puppets built by her
-  great-great grandfather! In a quantum entanglement that spans a century, could
-  this be the story she’s been missing: a multigenerational healing journey?"
+description: >-
+  **by Sona Tatoyan in collaboration with Jared Mezzocchi**
+
+
+  Burdened by a divorce, Osman Kavala’s imprisonment in Turkey, and the ghosts of her past, Sona Tatoyan sets off to create a TV series exploring the Armenian Genocide and Syrian war. Everything changes when she unearths a trunk in her family’s war-torn Aleppo home: Karagöz puppets built by her great-great grandfather! In a quantum entanglement that spans a century, could this be the story she’s been missing: a multigenerational healing journey?
 titleimage: https://ucarecdn.com/146a25c9-b364-42e9-9285-d41d9f721877/
-writer: Sona Tatoyan in collaboration with Jared Mezzocchi
-director: Jared Mezzocchi
+writer: ""
+director: directed by Jared Mezzocchi
 featuring: Sona Tatoyan + a tribe of Karagöz Puppets
 additional: ""
 cast:
@@ -30,7 +29,7 @@ cast:
         heal. As a meeting place to witness trauma and support its alchemy
         towards inspiration and creativity, Hakawati aspires to empower the
         seemingly disempowered: to help un-silence the silenced and amplify the
-        compassionate humanity of all of us.\
+        compassionate humanity of all of us.
 
 
         We provide an empowering platform that facilitates the creative talent of refugees and marginalized people through development labs in film, theater, and other storytelling modalities, along with creating indigenous theater and film productions. Hakawati works with, and employs people from within these local communities whenever possible – to tell stories by people from the places and spaces where the story originates. We work to preserve cultures under threat, mentor artists in frontline communities, and support refugee storytelling within displaced communities.
@@ -44,19 +43,19 @@ cast:
 
         [Hakawati](https://www.hakawati.org/), a non-profit storytelling vehicle focusing on elevating the voices of frontline and
 
-        marginalized communities.\
+        marginalized communities.
 
 
         As actress, stage credits include world premieres at Yale Repertory Theatre, The Goodman Theatre,
 
         The American Conservatory Theatre and others. She starred in *The Journey*, the first American
 
-        independent film shot in Armenia (winner, Audience Award Milan Film Festival, 2002).\
+        independent film shot in Armenia (winner, Audience Award Milan Film Festival, 2002).
 
 
         As writer, her first feature film script, *The First Full Moon*, was a 2011 Sundance/RAWI
 
-        Screenwriters Lab participant and 2012 Dubai Film Connection/Festival Project.\
+        Screenwriters Lab participant and 2012 Dubai Film Connection/Festival Project.
 
 
         As a writer and actress, Ms. Tatoyan created the storytelling piece *[Azad](https://www.dailynews.com/2022/04/19/she-searched-for-her-familys-century-old-legacy-in-war-torn-syria-inside-an-old-trunk-she-found-it/)*, performing most recently at
@@ -65,7 +64,7 @@ cast:
 
         She created the multimedia play *Azad (the rabbit and the wolf)* with two time Obie Award winning
 
-        director/multimedia designer Jared Mezzocchi, and producer Bill Pullman. Development residencies: the Vineyard theater in NYC, inaugural [University of Connecticut Global Affairs Digital Media residency](https://filmfestival.humanrights.uconn.edu/2023-festival/azad/) May 2023, [Harvard Artlab](https://artlab.harvard.edu/calendar_event/sona-tatoyan-azad-storytelling/) September 2023 and [Wake Forest University Character and Leadership](https://iac.wfu.edu/2023/12/azad-by-sona-tatoyan/) February 2024.\
+        director/multimedia designer Jared Mezzocchi, and producer Bill Pullman. Development residencies: the Vineyard theater in NYC, inaugural [University of Connecticut Global Affairs Digital Media residency](https://filmfestival.humanrights.uconn.edu/2023-festival/azad/) May 2023, [Harvard Artlab](https://artlab.harvard.edu/calendar_event/sona-tatoyan-azad-storytelling/) September 2023 and [Wake Forest University Character and Leadership](https://iac.wfu.edu/2023/12/azad-by-sona-tatoyan/) February 2024.
 
 
         Speaking engagements include: “Storytelling as Spiritual Vehicle: A response to the Armenian Genocide and Syrian Refugee Crisis” at The Brandenburger Gate Foundation, Berlin; “Trauma,
@@ -78,7 +77,7 @@ cast:
 
         Armenian Studies at the University of Michigan. She is a [Georgetown Global Politics and
 
-        Performance Lab Fellow](https://globallab.georgetown.edu/2024-26-global-fellows-cohort/?mc_cid=a6b99e2321&mc_eid=47a2a24f6b), 2024-26.\
+        Performance Lab Fellow](https://globallab.georgetown.edu/2024-26-global-fellows-cohort/?mc_cid=a6b99e2321&mc_eid=47a2a24f6b), 2024-26.
 
 
         Ms. Tatoyan is a graduate of Wake Forest University (B.A. in English/Theater), where she was
