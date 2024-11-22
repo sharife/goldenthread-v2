@@ -11,6 +11,7 @@ description: "Burdened by a divorce, Osman Kavala’s imprisonment in Turkey, an
   trunk in her family’s war-torn Aleppo home: Karagöz puppets built by her
   great-great grandfather! In a quantum entanglement that spans a century, could
   this be the story she’s been missing: a multigenerational healing journey?"
+titleimage: https://ucarecdn.com/146a25c9-b364-42e9-9285-d41d9f721877/
 writer: Sona Tatoyan in collaboration with Jared Mezzocchi
 director: Jared Mezzocchi
 featuring: Sona Tatoyan + a tribe of Karagöz Puppets
@@ -92,21 +93,21 @@ cast:
         nationwide, including Playwrights Horizons, Vineyard Theater, The
         Kennedy Center, Geffen Playhouse, Arena Stage, Woolly Mammoth (company
         member), and many more. In 2016, he received the Lucille Lortel and
-        Henry Hewes Award for his work in Qui Nguyen’s Vietgone at the Manhattan
-        Theatre club. In 2020, the New York Times spotlighted his multimedia
-        innovations alongside the pandemic work of four other theater artists,
-        including Andrew Lloyd Webber and Paula Vogel. His work on Sarah
-        Gancher’s digital production of Russian Troll Farm was also celebrated
-        as a New York Times critic pick, and praised for being one of the first
-        digitally native successes for virtual theater. In 2023, this digital
-        production of Russian Troll Farm won Mezzocchi his second Obie. Most
-        recently, Mezzocchi directed The Wind and The Rain: a Story about
-        Sunny’s Bar at En Garde Arts and Vineyard Theater which was performed on
-        a barge in NYC and called “Highbrow Brilliant” by New York Magazine. In
-        Spring 2024, Mezzocchi directed Sandra at TheaterWorks Hartford and was
-        accepted, as a writer/performer, into the 2024 Colorado New Play
-        Festival for his work 73 Seconds directed by Aya Ogawa and commissioned
-        by En Garde Arts.\
+        Henry Hewes Award for his work in Qui Nguyen’s *Vietgone* at the
+        Manhattan Theatre club. In 2020, the *New York Times* spotlighted his
+        multimedia innovations alongside the pandemic work of four other theater
+        artists, including Andrew Lloyd Webber and Paula Vogel. His work on
+        Sarah Gancher’s digital production of *Russian Troll Farm* was also
+        celebrated as a New York Times critic pick, and praised for being one of
+        the first digitally native successes for virtual theater. In 2023, this
+        digital production of Russian Troll Farm won Mezzocchi his second Obie.
+        Most recently, Mezzocchi directed *The Wind and The Rain: a Story about
+        Sunny’s Bar* at En Garde Arts and Vineyard Theater which was performed
+        on a barge in NYC and called “Highbrow Brilliant” by New York Magazine.
+        In Spring 2024, Mezzocchi directed Sandra at TheaterWorks Hartford and
+        was accepted, as a writer/performer, into the 2024 Colorado New Play
+        Festival for his work *73 Seconds* directed by Aya Ogawa and
+        commissioned by En Garde Arts.\
 
         \
 
@@ -114,6 +115,7 @@ cast:
 
         \
 
-        Over the pandemic, Mezzocchi founded Virtual Design Collective (VIDCO), which has aided in the development of over 50 new digital works over the 18 months of quarantine. This year, he is finishing his book, A Multimedia Designer’s Method to Theatrical Storytelling, which will be published through Routledge. Mezzocchi has a BA in theater and film from Fairfield University, and an MFA in performance and interactive media arts from Brooklyn College.
+        Over the pandemic, Mezzocchi founded Virtual Design Collective (VIDCO), which has aided in the development of over 50 new digital works over the 18 months of quarantine. This year, he is finishing his book, *A Multimedia Designer’s Method to Theatrical Storytelling*, which will be published through Routledge. Mezzocchi has a BA in theater and film from Fairfield University, and an MFA in performance and interactive media arts from Brooklyn College.
+      image: https://ucarecdn.com/6022c38c-4d30-4e21-8463-cca54eeb6b2c/-/crop/682x937/194,413/-/preview/
 ---
 **a co-production with Hakawati**
