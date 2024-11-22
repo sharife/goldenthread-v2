@@ -6,7 +6,7 @@ start: ""
 end: ""
 description: F﻿eaturing a workshop production of Artist-in-Residence Evren
   Odcikin's timely comedy, *Oriental, or 1001 Ways to Tie Yourself in Knots*
-titleimage: https://ucarecdn.com/522beb12-e9de-4cb6-aa39-bd6fe6afbf79/
+titleimage: https://ucarecdn.com/16182650-9b6e-4cbd-b73b-fb51119415f1/
 program: ""
 pdflabel: ""
 pdf: ""
