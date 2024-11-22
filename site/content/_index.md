@@ -1,22 +1,23 @@
 ---
 title: Middle East Center Stage
-headline: "ALAA: A Family Trilogy"
+headline: "Threads of Solidarity: 2025 Season Announced"
 subtitle: ""
-background: https://ucarecdn.com/8755f976-f5c4-455b-8410-719225085e57/
-cta: Information and tickets
-link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
+background: https://ucarecdn.com/986fd691-fc5d-4cbd-a684-db59921deb92/
+cta: Find out more
+link: https://goldenthread.org/season/upcoming/
 items:
   - subtitle: |-
-      ***ALAA: A Family Trilogy***\
-      **Nov 16-17, 2024** **at Z Space**
-    text: "This script-in-hand workshop presentation of *ALAA: A Family Trilogy*,
-      **Adam Ashraf Elsayigh**'s ambitious epic about the Egyptian Revolution
-      through the life of a﻿ctivist and political prisoner Alaa Abd
-      El-Fattah, is directed by G﻿olden Thread Artist in Residence **Evren
-      Odcikin** w﻿ith generative dramaturgy by **Salma S. Zohdi**."
-    image: https://ucarecdn.com/694ce6e3-4109-47da-9810-f7e52b9bf59a/
-    cta: Information and tickets
-    link: https://goldenthread.org/productions/alaa-a-family-trilogy-1/
+      **Threads of Solidarity:**\
+      **2﻿025 Season Announced**
+    text: Golden Thread’s 2025 Season aims to illuminate the interconnectedness of
+      our struggles. Through a diverse collection of personal and historical
+      narratives, this season, we honor the strength of those who have endured,
+      who are still fighting, and the voices that refuse to be silenced.
+      Featuring local and national collaborations, this season invites you to
+      join us in community and solidarity.
+    cta: Find out more
+    link: https://goldenthread.org/season/upcoming/
+    image: https://ucarecdn.com/5573aab3-a76e-4f40-9e75-559349e8f65a/
   - subtitle: |-
       **Welcome Wynne Chan!**\
       **O﻿ur New Managing Director**
