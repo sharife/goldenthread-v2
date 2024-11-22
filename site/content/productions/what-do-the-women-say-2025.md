@@ -6,6 +6,10 @@ date: 2024-11-15T23:05:21.892Z
 start: 2025-03-08T19:00:00.000Z
 end: ""
 heading: "Healing and Resilience: A Guided Meditation with Ashira Darwich"
+description: "**What Do the Women Say?** celebrates **International Women’s
+  Day** on March 8, 2025, with a guided meditation and Q&A session led by Ashira
+  Darwish, a Palestinian journalist, therapist, and activist featured in the
+  powerful film *Where Olive Trees Weep.*"
 titleimage: https://ucarecdn.com/e7f175e4-3ecc-4a69-bf4d-22f50dabda59/-/crop/1961x877/0,209/-/preview/
 stage: at 11 AM Pacific
 address: "Available globally online "
