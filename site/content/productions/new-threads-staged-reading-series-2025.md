@@ -41,7 +41,7 @@ lists:
           dramaturgy by **Torange Yeghiazarian**
         title: Oriental, or 1001 Ways to Tie Yourself in Knots
         link: ""
-        image: https://ucarecdn.com/0634ef72-c3b4-45ba-b129-dba9ee11b7e1/
+        image: https://ucarecdn.com/6d474cde-3af0-4180-beed-a04d9e0cd426/
 cast:
   items: []
 photos:
