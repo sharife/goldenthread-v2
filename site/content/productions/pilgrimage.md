@@ -57,4 +57,4 @@ cast:
         2018). She teaches composition and creative writing for UC Berkeley's
         College Writing Programs."
 ---
- **A co=production with Z Space**
+ **A co-production with Z Space**
