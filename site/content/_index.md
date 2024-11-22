@@ -9,12 +9,12 @@ items:
   - subtitle: |-
       **Threads of Solidarity:**\
       **2﻿025 Season Announced**
-    text: Golden Thread’s 2025 Season aims to illuminate the interconnectedness of
-      our struggles. Through a diverse collection of personal and historical
-      narratives, this season, we honor the strength of those who have endured,
-      who are still fighting, and the voices that refuse to be silenced.
-      Featuring local and national collaborations, this season invites you to
-      join us in community and solidarity.
+    text: Our 2025 Season illuminates the interconnectedness of our struggles
+      amplifying Palestinian, Armenian, and Afghan stories. Through a diverse
+      collection of personal and historical narratives, we honor the strength of
+      those who have endured, who are still fighting, and the voices that refuse
+      to be silenced. Featuring local and national collaborations, we invite you
+      to join us in community and solidarity.
     cta: Find out more
     link: https://goldenthread.org/season/upcoming/
     image: https://ucarecdn.com/9e12df46-9522-4495-88b9-b410c4db3a44/
