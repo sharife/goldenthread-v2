@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: "Threads of Solidarity: 2025 Season Announced"
+headline: 2025 Season Announced
 subtitle: ""
 background: https://ucarecdn.com/986fd691-fc5d-4cbd-a684-db59921deb92/
 cta: Find out more
