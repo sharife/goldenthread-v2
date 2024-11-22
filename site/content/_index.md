@@ -17,7 +17,7 @@ items:
       join us in community and solidarity.
     cta: Find out more
     link: https://goldenthread.org/season/upcoming/
-    image: https://ucarecdn.com/5573aab3-a76e-4f40-9e75-559349e8f65a/
+    image: https://ucarecdn.com/9e12df46-9522-4495-88b9-b410c4db3a44/
   - subtitle: |-
       **Welcome Wynne Chan!**\
       **O﻿ur New Managing Director**
