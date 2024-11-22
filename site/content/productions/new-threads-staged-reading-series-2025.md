@@ -4,7 +4,8 @@ season: 2025
 date: 2024-11-21T16:00:54.641Z
 start: ""
 end: ""
-description: ""
+description: F﻿eaturing a workshop production of Artist-in-Residence Evren
+  Odcikin's timely comedy, *Oriental, or 1001 Ways to Tie Yourself in Knots*
 titleimage: https://ucarecdn.com/522beb12-e9de-4cb6-aa39-bd6fe6afbf79/
 program: ""
 pdflabel: ""
@@ -19,7 +20,7 @@ visitlink: ""
 ticketlink: ""
 ticketinfo: ""
 lists:
-  - heading: "New Threads 2025 "
+  - heading: Plays
     items:
       - pre: ""
         itemend: ""
