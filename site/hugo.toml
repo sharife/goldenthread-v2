@@ -22,6 +22,13 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		
   		[[menu.primary]]
 		parent = "season"
+		identifier = "upcoming"
+		name = "Upcoming 2025 Season"
+		url = "/upcoming/"
+		weight = 10
+    
+    		[[menu.primary]]
+		parent = "season"
 		identifier = "alaa-a-family-trilogy"
 		name = "ALAA: A Family Trilogy"
 		url = "/productions/alaa-a-family-trilogy-1/"
