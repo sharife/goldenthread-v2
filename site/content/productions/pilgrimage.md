@@ -10,7 +10,7 @@ description: >-
 
 
   Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
-titleimage: https://ucarecdn.com/b2a847a8-8f69-49dd-be20-1c771cec4466/
+titleimage: https://ucarecdn.com/6bba66dc-b9b5-45f5-8d84-3b794148befa/
 writer: ""
 additional: ""
 stage: Z Space (Steindler Stage)
