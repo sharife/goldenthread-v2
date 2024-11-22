@@ -5,9 +5,14 @@ season: 2025
 date: 2024-11-15T22:57:02.688Z
 start: ""
 end: ""
+description: >-
+  **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+
+
+  Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
 titleimage: https://ucarecdn.com/b2a847a8-8f69-49dd-be20-1c771cec4466/
-writer: Humaira Ghilzai and Bridgette Dutta Portman
-additional: A co-production with Z Space
+writer: ""
+additional: ""
 stage: Z Space (Steindler Stage)
 address: 450 Florida Street, San Francisco, CA 94110
 cast:
@@ -52,4 +57,4 @@ cast:
         2018). She teaches composition and creative writing for UC Berkeley's
         College Writing Programs."
 ---
-Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
+ **A co=production with Z Space**
