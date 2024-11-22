@@ -4,7 +4,7 @@ season: 2025
 date: 2024-11-15T22:42:13.755Z
 start: ""
 end: ""
-titleimage: https://ucarecdn.com/b7af3c40-6f40-44b2-858e-22ff1993da77/
+titleimage: https://ucarecdn.com/44e46320-e59f-42ea-ae5b-aa0a6dad8160/
 writer: Hanna Eady and Edward Mast
 director: ""
 cast:
