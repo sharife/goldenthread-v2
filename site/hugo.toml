@@ -24,7 +24,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		parent = "season"
 		identifier = "upcoming"
 		name = "Upcoming 2025 Season"
-		url = "/upcoming/"
+		url = "/season/upcoming/"
 		weight = 10
     
     		[[menu.primary]]
