@@ -35,6 +35,4 @@ cast:
         Ashira started her career in Palestine as a journalist; she worked for 15 years as TV & Radio journalist and researcher for the BBC, Amnesty International and Human Rights Watch.
       link: http://www.ashirapremrachana.com/
 ---
-**What Do the Women Say?** celebrates **International Women’s Day** on March 8, 2025, with a guided meditation and Q&A session led by Ashira Darwish, a Palestinian journalist, therapist, and activist featured in the powerful film *Where Olive Trees Weep*.
-
 ***Where Olive Trees Weep* will be available for on-demand viewing for two weeks leading up to March 8, 2025.** The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring Ashira Darwish, grassroots activist Ahed Tamimi, Israeli journalist Amira Hass, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.
