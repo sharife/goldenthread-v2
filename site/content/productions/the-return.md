@@ -5,7 +5,7 @@ date: 2024-11-15T22:42:13.755Z
 start: ""
 end: ""
 description: >-
-  **b﻿y Hannah Eady and Edward Mast**
+  **b﻿y Hanna Eady and Edward Mast**
 
 
   Two people meeting in an auto-body shop in the mid-sized city Herzliya. They might or might not have known each other in the past. One of them is Palestinian, one of them is Israeli Jewish, and by the end of the play, both of their lives will be changed forever by the realities that surround them.
