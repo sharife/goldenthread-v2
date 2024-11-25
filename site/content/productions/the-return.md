@@ -12,7 +12,8 @@ description: >-
 titleimage: https://ucarecdn.com/1f8b043d-204e-4c1d-8728-29b4861ae70d/
 writer: ""
 director: ""
-additional: in partnership with Art2Action, Inc.
+additional: ""
+stage: in partnership with Art2Action, Inc.
 cast:
   items:
     - name: Art2Action, Inc.
