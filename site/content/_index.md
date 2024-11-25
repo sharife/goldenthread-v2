@@ -33,9 +33,8 @@ items:
       **i﻿s available now!**
     text: >-
       If you missed this "powerful, cathartic, nourishing" production, you can
-      now p﻿urchase access to a high-quality stream through December 15!\
+      now p﻿urchase access to a high-quality stream through December 15!
 
-      \
 
       [Check out ](https://www.youtube.com/watch?v=eAS5tGuVQsI)[the trailer](https://www.youtube.com/watch?v=eAS5tGuVQsI) and visit the Brava! website to get your tickets.
     image: https://ucarecdn.com/65c9621c-1e7a-4f4d-a05d-362e7a95c7ac/
