@@ -33,7 +33,7 @@ items:
       **i﻿s available now through Dec 15!**
     text: If you missed this "powerful, cathartic, nourishing" production, a
       high-quality stream is available for purchase now!
-    image: https://ucarecdn.com/88a414f2-dd9f-4805-b1bd-dbcda44aacfc/
+    image: https://ucarecdn.com/65c9621c-1e7a-4f4d-a05d-362e7a95c7ac/
     cta: Buy Now!
     link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SPa00000C0QDJMA3
 ---
