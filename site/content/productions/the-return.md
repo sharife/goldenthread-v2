@@ -12,8 +12,20 @@ description: >-
 titleimage: https://ucarecdn.com/1f8b043d-204e-4c1d-8728-29b4861ae70d/
 writer: ""
 director: ""
+additional: in partnership with Art2Action, Inc.
 cast:
   items:
+    - name: Art2Action, Inc.
+      credit: partner
+      image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
+      link: https://www.art2action.org
+      bio: "**Art2Action** creates, develops, produces, and presents original theatre,
+        interdisciplinary performances, artistic interventions, and progressive
+        cultural organizing. We support Black, Indigenous, artists of color,
+        women and queer or trans-identified artists, artists living with
+        disabilities, and creative allies in the creation of contemporary work.
+        We are dedicated to cultural equity and aesthetic innovation, artistic
+        quality and community impact."
     - image: https://ucarecdn.com/c5ca0ca2-be4c-4af6-ba42-ae8c75ac4d41/
       name: Hanna Eady and Edward Mast
       credit: playwrights
