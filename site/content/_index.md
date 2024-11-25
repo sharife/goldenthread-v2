@@ -29,14 +29,11 @@ items:
     cta: Find out more
     link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
   - subtitle: |-
-      **24 Hours for Palestine:** \
-      **A Moon Will Rise From Darkness**
-    text: "**A﻿ll sessions are now available to stream on HowlRound TV for FREE!**
-      T﻿his t﻿railblazing global partnership featured 100+ artists  and
-      activists for a Free Palestine, including performances honoring the
-      Palestinian people and discussions of how to build solidarity for
-      Palestinian liberation."
-    image: https://ucarecdn.com/5d18b3d2-3622-438f-a254-049f1f92a8c0/
-    cta: Learn More!
-    link: https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness
+      **V﻿ideo-On-Demand for 11Reflections: San Francisco**\
+      **i﻿s available now through Dec 15!**
+    text: If you missed this "powerful, cathartic, nourishing" production, a
+      high-quality stream is available for purchase now!
+    image: https://ucarecdn.com/88a414f2-dd9f-4805-b1bd-dbcda44aacfc/
+    cta: Buy Now!
+    link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SPa00000C0QDJMA3
 ---
