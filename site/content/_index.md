@@ -29,7 +29,8 @@ items:
     cta: Find out more
     link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
   - subtitle: |-
-      **V﻿ideo-On-Demand for *11Reflections***\
+      **V﻿ideo-On-Demand for** \
+      ***11Reflections: San Francisco***\
       **i﻿s available now!**
     text: >-
       If you missed this "powerful, cathartic, nourishing" production, you can
