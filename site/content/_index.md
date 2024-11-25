@@ -29,14 +29,16 @@ items:
     cta: Find out more
     link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
   - subtitle: |-
-      **V﻿ideo-On-Demand for 11Reflections**\
+      **V﻿ideo-On-Demand for *11Reflections***\
       **i﻿s available now!**
-    text: If you missed this "powerful, cathartic, nourishing" production, you can
-      now watch a high-quality stream through December 15! [Check out
-      ](https://www.youtube.com/watch?v=eAS5tGuVQsI)[the
-      trailer](https://www.youtube.com/watch?v=eAS5tGuVQsI) and visit the Brava!
-      website to get your tickets.
+    text: >-
+      If you missed this "powerful, cathartic, nourishing" production, you can
+      now p﻿urchase access to a high-quality stream through December 15!\
+
+      \
+
+      [Check out ](https://www.youtube.com/watch?v=eAS5tGuVQsI)[the trailer](https://www.youtube.com/watch?v=eAS5tGuVQsI) and visit the Brava! website to get your tickets.
     image: https://ucarecdn.com/65c9621c-1e7a-4f4d-a05d-362e7a95c7ac/
-    cta: Buy Your Stream Access Now!
+    cta: Get Your Stream Access Now!
     link: https://brava.my.salesforce-sites.com/ticket/#/events/a0SPa00000C0QDJMA3
 ---
