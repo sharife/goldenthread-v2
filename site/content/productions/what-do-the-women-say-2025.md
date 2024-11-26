@@ -10,7 +10,7 @@ description: "**What Do the Women Say?** celebrates **International Women’s
   Day** on March 8, 2025, with a guided meditation and Q&A session led by Ashira
   Darwish, a Palestinian journalist, therapist, and activist featured in the
   powerful film *Where Olive Trees Weep.*"
-titleimage: https://ucarecdn.com/e7f175e4-3ecc-4a69-bf4d-22f50dabda59/-/crop/1961x877/0,209/-/preview/
+titleimage: https://ucarecdn.com/ddb69731-47b8-4004-96ef-ea39e7e0e593/
 stage: at 11 AM Pacific
 address: "Available globally online "
 cast:
