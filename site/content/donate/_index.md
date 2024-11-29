@@ -1,8 +1,9 @@
 ---
 title: Support the 2025 Season!
 sidebar:
-  heading: ""
-  text: ""
+  heading: There are so many ways to participate!
+  text: Your generous support is vital to our work. [Make your gift
+    today.](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
