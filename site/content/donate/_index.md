@@ -11,6 +11,8 @@ sidebar:
 
 #### Thanks to you, Golden Thread’s 2024 Season for Palestine uplifted, honored and celebrated the talent, creativity, strength, and resilience of the Palestinian people in a rare and relevant collection of work that deeply impacted and profoundly resonated with our community.
 
+![](https://ucarecdn.com/3197c3ec-b755-4319-b0fd-015f0a6b42ff/)
+
 ### **<center>**Rare & Relevant Narratives**<center>**
 
 From seminal works to historical accounts to personal narratives, our 2024 season was full of stories about the enduring impact of political conflict and the steadfastness of the Palestinian people. Theatres in the U.S. rarely produce Palestinian plays and none to our knowledge has ever produced an entire season dedicated to them. Though the ongoing genocide, rooted in over 75 years of systemic oppression and violence against Palestinians, is sanctioned by the US administration, we are among the few theatres who have used our platform to counteract the negative and dehumanizing Palestinian narratives dominating U.S. culture and media.
