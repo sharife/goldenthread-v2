@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: Support Our 2025 Season
 subtitle: ""
-background: https://ucarecdn.com/986fd691-fc5d-4cbd-a684-db59921deb92/
+background: https://ucarecdn.com/05b989d5-94fe-472a-a6de-3d23a0057c84/
 cta: Donate for Giving Tuesday!
 link: https://goldenthread.org/donate/
 items:
