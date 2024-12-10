@@ -27,6 +27,23 @@ staff:
 
 
         As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
+    - name: Wynne Chan
+      credit: Managing Director (incoming)
+      image: https://ucarecdn.com/b12416dc-8b0a-457e-b978-0904a2822838/-/crop/1336x1776/0,135/-/preview/
+      bio: >-
+        **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
+        theater artist with ten years of nonprofit experience. Most recently,
+        she was the head of Candid’s Seals of Transparency program and managed
+        the U.S.’s largest self-contributed nonprofit database with over 100,000
+        nonprofit participants. Previously, she led GuideStar’s revenue
+        budgeting, strategic planning, and impact evaluation. She helped
+        coordinate the formation of Candid (from Guidestar and Foundation
+        Center) and facilitated cross-organization workstreams on strategic
+        vision and culture and change management. 
+
+
+        Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. [wynnechan.info](https://www.wynnechan.info/)
+      link: ""
     - bio: <strong>Michelle Mulholland</strong> *(she/her)* is an arts administrator
         and costume designer with more than 20 years of experience in Bay Area
         theater. Michelle has been managing day to day operations at Golden
@@ -49,27 +66,27 @@ staff:
       credit: Managing Director (outgoing)
       image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
       name: Michelle Mulholland
-    - name: Wynne Chan
-      credit: Managing Director (incoming)
-      image: https://ucarecdn.com/b12416dc-8b0a-457e-b978-0904a2822838/-/crop/1336x1776/0,135/-/preview/
-      bio: >-
-        **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
-        theater artist with ten years of nonprofit experience. Most recently,
-        she was the head of Candid’s Seals of Transparency program and managed
-        the U.S.’s largest self-contributed nonprofit database with over 100,000
-        nonprofit participants. Previously, she led GuideStar’s revenue
-        budgeting, strategic planning, and impact evaluation. She helped
-        coordinate the formation of Candid (from Guidestar and Foundation
-        Center) and facilitated cross-organization workstreams on strategic
-        vision and culture and change management. 
-
-
-        Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. [wynnechan.info](https://www.wynnechan.info/)
-      link: ""
+    - name: Salim Razawi
+      credit: Artistic Producer
+      bio: "**Salim Razawi** *(he/him)* is an Afghan-American theatre maker who is
+        thrilled to be back at Golden Thread in this new capacity. He is a
+        director, casting consultant, and theatre artist working widely through
+        the Bay Area. His directing credits include *Once on This Island*
+        (Contra Costa Civic Theatre & Plethos Theatre), *The Shape of Things*
+        and *Into the Woods* (Town Hall Theatre Company), *Mean Girls* (City of
+        Milpitas), and *School of Rock* and *Legally Blonde* (City of
+        Pleasanton). Previous acting credits include *Play That Goes Wrong* at
+        SF Playhouse, *Disgraced* at San Jose Stage Company, and Sebastian in
+        *Twelfth Night* at Marin Shakespeare Company. He worked as a teaching
+        artist for theatre companies including American Conservatory Theatre and
+        Berkeley Repertory Theatre. He also co-founded TEAM Theatre, a youth
+        theatre company serving the
+        tri-valley. [salimrazawi.com](http://salimrazawi.com/)"
+      image: https://ucarecdn.com/f674f69f-4221-4193-b55a-0fc3143ffe2a/
     - name: Evren Odcikin
       credit: Artist in Residence
       image: https://ucarecdn.com/14111a33-9246-4ebc-ac50-5a2b729d2096/
-      bio: "**EVREN ODCIKIN** (he/him) is a Turkish-American director, writer, and
+      bio: "**Evren Odcikin** *(he/him)* is a Turkish-American director, writer, and
         arts leader committed to championing historically excluded voices and
         stories in the American theater. His work is heart-centered, politically
         engaged, globally minded, and centers joy as resistance. He is proud to
