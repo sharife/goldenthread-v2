@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: Support Our 2025 Season
 subtitle: ""
 background: https://ucarecdn.com/8d146c30-7cae-4f0a-a6e8-bddedaf731a5/
-cta: "Meet Our Board Challenge: Donations matched up to $8,000 through next week!"
+cta: "Meet Our Board Challenge: Donations matched up to $10,000!"
 link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
