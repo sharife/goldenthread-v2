@@ -1,9 +1,17 @@
 ---
-title: Support the 2025 Season!
+title: "Support Our 2025 Season: Threads of Solidarity"
 sidebar:
   heading: There are so many ways to participate!
-  text: Your generous support is vital to our work. [Make your gift
-    today.](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+  text: >-
+    G﻿olden Thread's dedicated Board of Directors have come together to uplift
+    our essential work. Meet our Board Match: All donations through next week
+    will be matched 100% up to $11,000.
+
+
+    **Your generous support is vital to our work.** 
+
+
+    **[Make your gift today.](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
