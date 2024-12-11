@@ -1,7 +1,7 @@
 ---
 title: "Support Our 2025 Season: Threads of Solidarity"
 sidebar:
-  heading: There are so many ways to participate!
+  heading: Meet our Board Match Up to $11,000
   text: >-
     G﻿olden Thread's dedicated Board of Directors have come together to uplift
     our essential work. Meet our Board Match: All donations through next week
