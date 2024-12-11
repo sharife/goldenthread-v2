@@ -338,6 +338,21 @@ board:
 
 
         Proud of her Middle Eastern roots and heritage, she firmly believes in the power of understanding of others’ stories as a way to foster empathy and eliminate hate. Embracing the exciting chapter of an empty nest, she eagerly seeks opportunities to share and celebrate her culture while engaging with diverse cultures through theatre and art. She has faith in the mission of Golden Thread Productions and is proud to be part of this organization.
+    - name: Mona Masri
+      bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
+        fairer world where everyone has the resources they need to thrive. She’s
+        spent her career working on reducing the racial and gender wealth gap
+        through big ideas that address structural inequities like Guaranteed
+        Basic Income, tax credits, affordable housing, and entrepreneurship. A
+        proud California native with Lebanese roots, Mona also has a deep love
+        for the arts, especially those that challenge stereotypes about the
+        SWANA region and celebrate its rich and vibrant cultures. Growing up as
+        a theatre nerd, she loved acting and rarely missed watching a
+        performance during her college years. Now, she leaves the acting to the
+        pros but still seeks out great productions whenever she can. When she’s
+        not working, she enjoys hiking, baking, and spending time with family
+        and friends in Oakland, on the traditional lands of the Ohlone people."
+      image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
 artists:
   heading: Resident Artists
   items:
