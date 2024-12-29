@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: Support Our 2025 Season
+headline: Support Our 2025 Season of Solidarity
 subtitle: ""
 background: https://ucarecdn.com/8d146c30-7cae-4f0a-a6e8-bddedaf731a5/
-cta: "Meet Our Board Challenge: Donations matched up to $11,000"
+cta: Your generous donations make our essential work possible!
 link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
@@ -17,12 +17,12 @@ items:
     link: https://goldenthread.org/season/upcoming/
     image: https://ucarecdn.com/9e12df46-9522-4495-88b9-b410c4db3a44/
   - subtitle: |-
-      **Give Now A﻿nd Double Your Impact**\
-      **With Our $11,000 Board Match**
-    text: Our dedicated Board of Trustees are Golden Thread's biggest champions, and
-      they have come forth again to uplift our work at this pivotal juncture.
-      A﻿ll donations up to $11,000 will be matched through the end of this week!
-    image: https://ucarecdn.com/fd129698-e34e-48a9-bc15-7e19b7dc3f34/
+      **W﻿e've made our Board Match!**\
+      **H﻿elp us reach our year-end goal.**
+    text: W﻿e're deeply thankful to everyone who have supported our work. Thanks to
+      you, we've reached our Board of Trustees' $11,000 Match. Now all donations
+      help us reach our year-end goal of $25,000!
+    image: https://ucarecdn.com/cae6d042-3d47-47e5-8f7c-93cde543a417/
     cta: Donate Now!
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
   - subtitle: |-
