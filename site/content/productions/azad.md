@@ -15,6 +15,8 @@ writer: ""
 director: Jared Mezzocchi
 featuring: Sona Tatoyan + a tribe of Karagöz Puppets
 additional: ""
+stage: Potrero Stage
+address: 1695 18th Street, San Francisco, CA
 cast:
   items:
     - name: Hakawati
