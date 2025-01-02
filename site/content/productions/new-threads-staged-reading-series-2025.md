@@ -14,8 +14,8 @@ writer: ""
 director: ""
 featuring: ""
 additional: ""
-stage: ""
-address: ""
+stage: Potrero Stage
+address: 1695 18th Street, San Francisco, CA
 visitlink: ""
 ticketlink: ""
 ticketinfo: ""
