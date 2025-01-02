@@ -2,8 +2,8 @@
 title: New Threads Staged Reading Series 2025
 season: 2025
 date: 2024-11-21T16:00:54.641Z
-start: ""
-end: ""
+start: 2025-06-07T03:00:00.000Z
+end: 2025-06-08T03:00:00.000Z
 description: F﻿eaturing a workshop production of Artist-in-Residence Evren
   Odcikin's timely comedy, *Oriental, or 1001 Ways to Tie Yourself in Knots*
 titleimage: https://ucarecdn.com/16182650-9b6e-4cbd-b73b-fb51119415f1/
