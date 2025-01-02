@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Support Our 2025 Season
+headline: Threads of Solidarity
 subtitle: ""
-background: https://ucarecdn.com/8d146c30-7cae-4f0a-a6e8-bddedaf731a5/
-cta: Your donations make our essential work possible!
-link: https://goldenthread.org/donate/
+background: https://ucarecdn.com/855efa86-aeca-4fcf-9bf5-54b54863c8a7/
+cta: Find out more about our upcoming 2025 Season
+link: https://goldenthread.org/season/upcoming/
 items:
   - subtitle: |-
       **Threads of Solidarity:**\
