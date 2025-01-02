@@ -3,8 +3,8 @@ title: AZAD (the rabbit and the wolf)
 pre: World Premiere
 season: 2025
 date: 2024-11-15T22:30:21.838Z
-start: ""
-end: ""
+start: 2025-04-12T03:00:00.000Z
+end: 2025-05-04T03:00:00.000Z
 description: >-
   **by Sona Tatoyan in collaboration with Jared Mezzocchi**
 
