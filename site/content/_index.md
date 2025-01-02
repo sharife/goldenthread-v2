@@ -18,10 +18,11 @@ items:
     image: https://ucarecdn.com/9e12df46-9522-4495-88b9-b410c4db3a44/
   - subtitle: |-
       **W﻿e've made our Board Match!**\
-      **H﻿elp us reach our year-end goal.**
+      **Thank you for your generous support.**
     text: W﻿e're deeply thankful to everyone who have supported our work. Thanks to
-      you, we've reached our Board of Trustees' $11,000 Match. Now all donations
-      help us reach our year-end goal of $25,000!
+      you, we've reached our Board of Trustees' $11,000 Match. Although our
+      year-end campaign is complete, you can still donate to help make our 2025
+      Season possible.
     image: https://ucarecdn.com/cae6d042-3d47-47e5-8f7c-93cde543a417/
     cta: Donate Now!
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
