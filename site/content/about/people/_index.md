@@ -28,7 +28,7 @@ staff:
 
         As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
     - name: Wynne Chan
-      credit: Managing Director (incoming)
+      credit: Managing Director
       image: https://ucarecdn.com/b12416dc-8b0a-457e-b978-0904a2822838/-/crop/1336x1776/0,135/-/preview/
       bio: >-
         **Wynne Chan** (*she/her*) is a a Hong Kong-American director and
@@ -44,28 +44,6 @@ staff:
 
         Wynne also directs, vocal directs, produces, and performs regularly in the Bay Area. She is the co-founder and artistic director of SDC productions, a collaborative theatre and cabaret group. As a director and performer, she’s worked with various theater companies around the Bay Area, including San Francisco Playhouse, Shotgun Players, The Pear Theatre, Hillbarn Theatre, Berkeley Playhouse, Plethos Productions, and 3Girls Theater. [wynnechan.info](https://www.wynnechan.info/)
       link: ""
-    - bio: <strong>Michelle Mulholland</strong> *(she/her)* is an arts administrator
-        and costume designer with more than 20 years of experience in Bay Area
-        theater. Michelle has been managing day to day operations at Golden
-        Thread for the last decade with a solid foundation of non-profit
-        management, member services, and fundraising experience from some of San
-        Francisco’s finest arts and environmental justice organizations,
-        including Brava Theater, Beach Blanket Babylon, Theater Artaud, the
-        Commonwealth Club of California, The Coral Reef Alliance and Forests
-        Forever. In that time, she has enabled the company’s exponential growth
-        through the implementation of many key strategic initiatives and the
-        institution of significant policies and procedures. She has twice served
-        on grant panels for the San Francisco Arts Commission and was an active
-        member of the TBA Theater Services Committee for many years. A freelance
-        costume designer since 2008, she has designed for numerous Bay Area
-        companies, including New Conservatory Theatre Center, Magic Theatre,
-        Golden Thread Productions, Word for Word, Crowded Fire Theater,
-        African-American Shakespeare Company, Z Space, Lorraine Hansberry
-        Theatre, Cutting Ball Theater, and Brava Theater. She has also worked
-        with Teatro Zinzanni, ACT, and the SFMOMA.
-      credit: Managing Director (outgoing)
-      image: /img/archive/2012/03/Headshot-MichelleMulholland-300x300.jpg
-      name: Michelle Mulholland
     - name: Salim Razawi
       credit: Artistic Producer
       bio: "**Salim Razawi** *(he/him)* is an Afghan-American theatre maker who is
@@ -267,53 +245,6 @@ board:
       credit: ""
       image: /img/archive/2015/03/JohnAtwood_300x300.jpg
       name: John Atwood
-    - name: Humaira Ghilzai
-      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/-/crop/797x811/535,52/-/preview/
-      bio: >-
-        HUMAIRA GHILZAI (she/her)
-
-
-        Humaira Ghilzai is a writer, speaker, producer and Afghanistan cultural advisor. Humaira co-founded the non-profit Afghan Friends Network and instituted the Sister City relationship between Hayward, California and Ghazni, Afghanistan where she has done extensive work for the past 18 years to improve education for girls, boys, and women. 
-
-
-        Humaira is a sought-after cultural expert who has worked with notable professional theatres authors, playwrights, and artists, utilizing her extensive knowledge of Afghan people, culture, religion, and history to bring authenticity to their creative work relating to Afghanistan and the Islamic world. Humaira made her Broadway debut in 2022 with the production of the Kite Runner.
-
-
-        Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
-    - bio: "**Murrey Nelson** (she/her) is the Director of Development for
-        Chanticleer, a GRAMMY® award winning men’s a'capella group based in San
-        Francisco, now in its 45th year. Following 20 years in the for-profit
-        sector, primarily doing trademark licensing for fashion brands, she made
-        the decision to be a fundraising professional in the non-profit arts
-        sector, and has done so for fifteen years, mostly in the field of
-        classical music. Murrey got to know Golden Thread when they were a
-        tenant of Z Space, where she served on the board for 11 years; and got
-        to know them more intimately when she provided fundraising consulting
-        services to the organization in 2014. She has served on three theatre
-        boards, as well as boards and committees in other areas. Murrey is proud
-        to serve on the board of such an excellent theatre company as Golden
-        Thread."
-      image: /img/archive/2017/08/MurreyNelson-300x300.jpg
-      name: Murrey Nelson
-    - name: Rita Hovakimian
-      image: https://ucarecdn.com/39b70a9c-e435-4206-b8ba-c396408db037/
-      bio: >-
-        **Rita Hovakimian** *(she/her)* is a Business Coach and Prosperity
-        Mentor. She invites her clients to think big; to imagine all that is
-        possible for their lives and businesses. Approaching success from a
-        spirit-driven place, she challenges business owners to get out of their
-        own way and to start living the miraculous.
-
-        Rita helps small businesses to co-create an inclusive, effective and inspiring work culture with their staff. For more than 25 years she has been helping entrepreneurs, business owners and their staff connect with their purpose, identify their business vision and goals, and achieve financial success. 
-
-        Rita understands the path to success involves our relationship with money, and how we charge for our services correlates to our self-worth. Deeply-entrenched limiting beliefs often play a role, so much of Rita’s work centers around identifying those beliefs and installing more empowering ones. Her clients confidently own their value and increase their financial prosperity with ease.  
-
-        Rita is a certified Professional Coach through New Ventures West with extensive training in the Enneagram system of personality development and awareness. She holds a Bachelor’s Degree from San Francisco State University, graduating with honors. Additional training includes four years of intuitive training held at Bastyr University as well as masters-level certification in Neurolinguistic Programing (NLP) in London, England. She has studied with the best mentors in her field, embodying the principles she has learned and sharing them with those she has coached over the last 25 years.
-
-        Rita created a unique body of work called “Women, Power and Body Esteem: Being a Woman in the 21st Century,” in 1991, which she lead for 11 years to over 2,000 women throughout the US and in Canada. She now certifies women as Women, Power and Body Esteem coaches around the world in this deep, empowering work. Her vision is that women be able to embrace all that they are, and all they aspire to be in a powerful and authentic way.
-
-
-        Rita is always engaged in growth and development, both personally and professionally, and has been a daily meditator for over 2 decades. She sits on the Board of Trustees of Golden Thread Productions, whose mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. Being a philanthropist and being of service gives her the greatest joy. Her husband Robert is her biggest supporter in work and in life.
     - name: "Nancy Chemaly "
       image: https://ucarecdn.com/fe9ca78a-d6fa-4162-b9e0-ff0a3e780a88/
       bio: >-
@@ -338,6 +269,38 @@ board:
 
 
         Proud of her Middle Eastern roots and heritage, she firmly believes in the power of understanding of others’ stories as a way to foster empathy and eliminate hate. Embracing the exciting chapter of an empty nest, she eagerly seeks opportunities to share and celebrate her culture while engaging with diverse cultures through theatre and art. She has faith in the mission of Golden Thread Productions and is proud to be part of this organization.
+    - name: Humaira Ghilzai
+      image: https://ucarecdn.com/3147d2b6-7f43-4c76-ab27-af50ae9c1b38/-/crop/797x811/535,52/-/preview/
+      bio: >-
+        HUMAIRA GHILZAI (she/her)
+
+
+        Humaira Ghilzai is a writer, speaker, producer and Afghanistan cultural advisor. Humaira co-founded the non-profit Afghan Friends Network and instituted the Sister City relationship between Hayward, California and Ghazni, Afghanistan where she has done extensive work for the past 18 years to improve education for girls, boys, and women. 
+
+
+        Humaira is a sought-after cultural expert who has worked with notable professional theatres authors, playwrights, and artists, utilizing her extensive knowledge of Afghan people, culture, religion, and history to bring authenticity to their creative work relating to Afghanistan and the Islamic world. Humaira made her Broadway debut in 2022 with the production of the Kite Runner.
+
+
+        Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
+    - name: Rita Hovakimian
+      image: https://ucarecdn.com/39b70a9c-e435-4206-b8ba-c396408db037/
+      bio: >-
+        **Rita Hovakimian** *(she/her)* is a Business Coach and Prosperity
+        Mentor. She invites her clients to think big; to imagine all that is
+        possible for their lives and businesses. Approaching success from a
+        spirit-driven place, she challenges business owners to get out of their
+        own way and to start living the miraculous.
+
+        Rita helps small businesses to co-create an inclusive, effective and inspiring work culture with their staff. For more than 25 years she has been helping entrepreneurs, business owners and their staff connect with their purpose, identify their business vision and goals, and achieve financial success. 
+
+        Rita understands the path to success involves our relationship with money, and how we charge for our services correlates to our self-worth. Deeply-entrenched limiting beliefs often play a role, so much of Rita’s work centers around identifying those beliefs and installing more empowering ones. Her clients confidently own their value and increase their financial prosperity with ease.  
+
+        Rita is a certified Professional Coach through New Ventures West with extensive training in the Enneagram system of personality development and awareness. She holds a Bachelor’s Degree from San Francisco State University, graduating with honors. Additional training includes four years of intuitive training held at Bastyr University as well as masters-level certification in Neurolinguistic Programing (NLP) in London, England. She has studied with the best mentors in her field, embodying the principles she has learned and sharing them with those she has coached over the last 25 years.
+
+        Rita created a unique body of work called “Women, Power and Body Esteem: Being a Woman in the 21st Century,” in 1991, which she lead for 11 years to over 2,000 women throughout the US and in Canada. She now certifies women as Women, Power and Body Esteem coaches around the world in this deep, empowering work. Her vision is that women be able to embrace all that they are, and all they aspire to be in a powerful and authentic way.
+
+
+        Rita is always engaged in growth and development, both personally and professionally, and has been a daily meditator for over 2 decades. She sits on the Board of Trustees of Golden Thread Productions, whose mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. Being a philanthropist and being of service gives her the greatest joy. Her husband Robert is her biggest supporter in work and in life.
     - name: Mona Masri
       bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
         fairer world where everyone has the resources they need to thrive. She’s
@@ -353,6 +316,28 @@ board:
         not working, she enjoys hiking, baking, and spending time with family
         and friends in Oakland, on the traditional lands of the Ohlone people."
       image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
+    - name: Michelle Mulholland
+      bio: <strong>Michelle Mulholland</strong> *(she/her)* is an arts administrator
+        and costume designer with more than 20 years of experience in Bay Area
+        theater. She served as the Managing Director of Golden Thread for the
+        last decade, and is excited to be joining the Board. B﻿efore Golden
+        Thread, s﻿he had built a solid foundation of non-profit management,
+        member services, and fundraising experience from some of San Francisco’s
+        finest arts and environmental justice organizations, including Brava
+        Theater, Beach Blanket Babylon, Theater Artaud, the Commonwealth Club of
+        California, The Coral Reef Alliance and Forests Forever. In that time,
+        she has enabled the company’s exponential growth through the
+        implementation of many key strategic initiatives and the institution of
+        significant policies and procedures. She has twice served on grant
+        panels for the San Francisco Arts Commission and was an active member of
+        the TBA Theater Services Committee for many years. A freelance costume
+        designer since 2008, she has designed for numerous Bay Area companies,
+        including New Conservatory Theatre Center, Magic Theatre, Golden Thread
+        Productions, Word for Word, Crowded Fire Theater, African-American
+        Shakespeare Company, Z Space, Lorraine Hansberry Theatre, Cutting Ball
+        Theater, and Brava Theater. She has also worked with Teatro Zinzanni,
+        ACT, and the SFMOMA.
+      image: https://ucarecdn.com/8d6f8940-0c65-481c-ae39-131ce879a0dc/
 artists:
   heading: Resident Artists
   items:
