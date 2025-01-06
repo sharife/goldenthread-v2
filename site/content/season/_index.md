@@ -1,7 +1,16 @@
 ---
-title: 2024 Season
-currentseason: 2024
+title: "2025 Season: Threads of Solidarity"
+currentseason: 2025
 intro: >
-  Our 2024 Season for Palestine is a celebration of the talent, creativity, strength, and resilience that define the Palestinian people. As we witness the unimaginable atrocities and ongoing human rights violations Palestinians are enduring, we recognize our responsibility to combat this brutal injustice by uplifting and honoring their narratives. Join us as we embark on a season of active dialogue and communal space sparked by inspiring legacy artists, award-winning plays and playwrights, emerging new works, and exciting collaborations.
-background: /img/season-for-palestine-banner-v2.jpg
+  Golden Thread’s 2025 Season aims to illuminate the interconnectedness of
+  our struggles amplifying Palestinian, Armenian, and Afghan stories. It is our
+  duty — both as artists and as global citizens — to learn from our histories,
+  to tell our stories, and to pass our narratives on to future generations.
+  Through a diverse collection of personal and historical narratives, this
+  season, we honor the strength of those who have endured, who are still
+  fighting, and the voices that refuse to be silenced. Featuring bold
+  world-premiere works by women-identifying artists and fostering both local and
+  national collaborations, this season invites you to join us in community and
+  solidarity.
+background: https://ucarecdn.com/b1efc067-1a5e-4e2f-b0f5-122bc0b5b1ca/
 ---

@@ -3,7 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2024"
+	currentseason = "2025"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -20,61 +20,40 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 	url = "/season"
 	weight = 1
 		
-  		[[menu.primary]]
+  	[[menu.primary]]
 		parent = "season"
-		identifier = "upcoming"
-		name = "Upcoming 2025 Season"
-		url = "/season/upcoming/"
+		identifier = "what-do-the-women-say-2025"
+		name = "What Do The Women Say? 2025"
+		url = "/productions/what-do-the-women-say-2025/"
 		weight = 10
-    
-    		[[menu.primary]]
+
+		[[menu.primary]]
 		parent = "season"
-		identifier = "alaa-a-family-trilogy"
-		name = "ALAA: A Family Trilogy"
-		url = "/productions/alaa-a-family-trilogy-1/"
+		identifier = "azad"
+		name = "AZAD (the rabbit and the wolf)"
+		url = "/productions/azad/"
 		weight = 11
-  
-  		[[menu.primary]]
+
+		[[menu.primary]]
 		parent = "season"
-		identifier = "what-do-the-women-say-2024"
-		name = "What Do The Women Say? 2024"
-		url = "/productions/what-do-the-women-say-2024/"
+		identifier = "new-threads-staged-reading-series-2025"
+		name = "New Threads 2025"
+		url = "/productions/new-threads-staged-reading-series-2025/"
 		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "returning-to-haifa"
-		name = "Returning to Haifa"
-		url = "/productions/returning-to-haifa/"
+		identifier = "the-return"
+		name = "The Return"
+		url = "/productions/the-return"
 		weight = 13
 
-		[[menu.primary]]
+  	[[menu.primary]]
 		parent = "season"
-		identifier = "no-summary-2024"
-		name = "No Summary 2024"
-		url = "/productions/no-summary-2024/"
+		identifier = "pilgrimage"
+		name = "Pilgrimage"
+		url = "/productions/pilgrimage/"
 		weight = 14
-
-  		[[menu.primary]]
-		parent = "season"
-		identifier = "24-hours-for-palestine"
-		name = "24 Hours for Palestine"
-		url = "/productions/24-hours-for-palestine/"
-		weight = 15
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "new-threads-staged-reading-series-2024"
-		name = "New Threads 2024"
-		url = "/productions/new-threads-staged-reading-series-2024/"
-		weight = 16
-
-		[[menu.primary]]
-		parent = "season"
-		identifier = "11-reflections-san-francisco"
-		name = "11 Reflections: San Francisco"
-		url = "/productions/11-reflections-san-francisco/"
-		weight = 17
 
 
 	[[menu.primary]]
@@ -113,24 +92,17 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "about"
-		identifier = "champions"
-		name = "20 Champions"
-		url = "/about/champions"
-		weight = 25
-
-		[[menu.primary]]
-		parent = "about"
 		identifier = "bill-of-rights"
 		name = "Bill of Rights"
 		url = "/about/bill-of-rights"
-		weight = 26
+		weight = 25
 
 		[[menu.primary]]
 		parent = "about"
 		identifier = "equity"
 		name = "Equity and Social Justice"
 		url = "/about/equity"
-		weight = 27
+		weight = 26
 
 	[[menu.primary]]
 	identifier = "programs"
@@ -140,38 +112,31 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 		[[menu.primary]]
 		parent = "programs"
-		identifier = "fairytale-players"
-		name = "Fairytale Players"
-		url = "/programs/fairytale-players"
-		weight = 31
-
-		[[menu.primary]]
-		parent = "programs"
 		identifier = "reorient"
 		name = "ReOrient Festival"
 		url = "/programs/reorient"
-		weight = 32
-
-		[[menu.primary]]
-		parent = "programs"
-		identifier = "new-plays"
-		name = "New Play Development"
-		url = "/programs/new-plays"
-		weight = 33
+		weight = 31
 
 		[[menu.primary]]
 		parent = "programs"
 		identifier = "new-threads"
 		name = "New Threads Reading Series"
 		url = "/programs/new-threads"
-		weight = 34
+		weight = 32
 
 		[[menu.primary]]
 		parent = "programs"
 		identifier = "what-do-the-women-say"
 		name = "What do the Women Say?"
 		url = "/programs/what-do-the-women-say"
-		weight = 35
+		weight = 33
+
+		[[menu.primary]]
+		parent = "programs"
+		identifier = "fairytale-players"
+		name = "Fairytale Players"
+		url = "/programs/fairytale-players"
+		weight = 34
 
 	[[menu.primary]]
 	identifier = "get-involved"
@@ -234,9 +199,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 	name = "DONATE NOW"
 	url = "/donate"
 	weight = 2
-
-	[[menu.secondary]]
-	identifier = "book"
-	name = "BOOK A SHOW"
-	url = "/programs/fairytale-players"
-	weight = 3
