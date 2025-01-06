@@ -61,32 +61,6 @@ staff:
         theatre company serving the
         tri-valley. [salimrazawi.com](http://salimrazawi.com/)"
       image: https://ucarecdn.com/f674f69f-4221-4193-b55a-0fc3143ffe2a/
-    - name: Evren Odcikin
-      credit: Artist in Residence
-      image: https://ucarecdn.com/14111a33-9246-4ebc-ac50-5a2b729d2096/
-      bio: "**Evren Odcikin** *(he/him)* is a Turkish-American director, writer, and
-        arts leader committed to championing historically excluded voices and
-        stories in the American theater. His work is heart-centered, politically
-        engaged, globally minded, and centers joy as resistance. He is proud to
-        be the 2024-25 Artist in Residence at Golden Thread Productions, a
-        company he’s been associated with since 2005. Directing: *Macbeth* and
-        Mona Mansour’s *unseen* (Oregon Shakespeare Festival), *Torch
-        Song* (Marin Theatre), christopher oscar peña’s *Our Orange
-        Sky* (Profile Theatre), Sylvia Khoury’s *Selling Kabul* (Northern
-        Stage), and Amir Nizar Zuabi’s *This is Who I Am* (Woolly Mammoth,
-        PlayCo, A.R.T., Guthrie, and OSF), as well as work at Geva, Berkeley
-        Rep, South Coast Rep, InterAct, Cleveland Public Theatre, Playwrights
-        Foundation, and Magic Theatre amongst many others. Playwriting and
-        translation: Commissions and productions at Cal Shakes, NYU Abu Dhabi,
-        Golden Thread and Crowded Fire, and Custom Made. In 2023, he served as
-        the Interim Artistic Director at OSF, where he had been the Associate
-        Artistic Director and Director of Artistic Programming since 2019. At
-        OSF, he was instrumental in “saving” the 2023 Season, programmed the
-        successful 2024 Season for the company, and over five years, produced
-        more than 30 productions. Evren is a founder of Maia Directors and
-        serves on the Boards of MENA Theater Makers Alliance and Playwrights
-        Foundation. [odcikin.com](https://www.odcikin.com/)"
-      link: ""
     - name: Wendy Reyes
       credit: Production Associate
       image: https://ucarecdn.com/2f9929a3-48e5-49bb-aa5f-b40e8e22909d/
@@ -114,6 +88,32 @@ staff:
         Soluna feels blessed to be surrounded by so many brilliant artists, and
         can’t wait to bring the incredible visions of Crowded Fire and Golden
         Thread into reality!"
+    - name: Evren Odcikin
+      credit: Artist in Residence
+      image: https://ucarecdn.com/14111a33-9246-4ebc-ac50-5a2b729d2096/
+      bio: "**Evren Odcikin** *(he/him)* is a Turkish-American director, writer, and
+        arts leader committed to championing historically excluded voices and
+        stories in the American theater. His work is heart-centered, politically
+        engaged, globally minded, and centers joy as resistance. He is proud to
+        be the 2024-25 Artist in Residence at Golden Thread Productions, a
+        company he’s been associated with since 2005. Directing: *Macbeth* and
+        Mona Mansour’s *unseen* (Oregon Shakespeare Festival), *Torch
+        Song* (Marin Theatre), christopher oscar peña’s *Our Orange
+        Sky* (Profile Theatre), Sylvia Khoury’s *Selling Kabul* (Northern
+        Stage), and Amir Nizar Zuabi’s *This is Who I Am* (Woolly Mammoth,
+        PlayCo, A.R.T., Guthrie, and OSF), as well as work at Geva, Berkeley
+        Rep, South Coast Rep, InterAct, Cleveland Public Theatre, Playwrights
+        Foundation, and Magic Theatre amongst many others. Playwriting and
+        translation: Commissions and productions at Cal Shakes, NYU Abu Dhabi,
+        Golden Thread and Crowded Fire, and Custom Made. In 2023, he served as
+        the Interim Artistic Director at OSF, where he had been the Associate
+        Artistic Director and Director of Artistic Programming since 2019. At
+        OSF, he was instrumental in “saving” the 2023 Season, programmed the
+        successful 2024 Season for the company, and over five years, produced
+        more than 30 productions. Evren is a founder of Maia Directors and
+        serves on the Boards of MENA Theater Makers Alliance and Playwrights
+        Foundation. [odcikin.com](https://www.odcikin.com/)"
+      link: ""
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
