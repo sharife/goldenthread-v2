@@ -1,11 +1,8 @@
 ---
 title: Meet Salim Razawi, Golden Thread's New Artistic Producer
 date: 2025-01-07T21:19:54.589Z
-description: >
-  September, 2024 - Chan comes to Golden Thread with more than a decade of
-  experience in non-profit best practices as well as artmaking that uplifts
-  historically-excluded voices.
-background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
+description: January, 2025 - Tester Text
+background: https://ucarecdn.com/7f38e878-209f-4719-963e-a1a209c661a4/
 ---
 ##### Please join us in welcoming beloved Bay Area administrator and artist **Wynne Chan** (she/her) as Golden Thread’s new Managing Director!
 
