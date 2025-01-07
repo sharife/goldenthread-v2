@@ -20,5 +20,5 @@ With gratitude and in solidarity,
 
 ![Sahar Assaf Signature](https://ucarecdn.com/2a3e05fb-1621-4616-8aa3-914feb787d35/)
 
-Sahar Assaf
+Sahar Assaf\
 Executive Artistic Director
