@@ -6,9 +6,7 @@ background: https://ucarecdn.com/855efa86-aeca-4fcf-9bf5-54b54863c8a7/
 cta: Find out more about our upcoming 2025 Season
 link: https://goldenthread.org/season/upcoming/
 items:
-  - subtitle: |-
-      **Executive Artistic Director Sahar Assaf** \
-      **shares a personal message**
+  - subtitle: "**Executive Artistic Director Sahar Assaf** **shares a personal message**"
     text: '"In those moments when I felt utterly drained by the atrocities we are
       witnessing, it was **YOU**, our brilliant community, that gave me the
       strength to get back up and continue the meaningful work we are doing."'
