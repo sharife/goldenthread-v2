@@ -7,15 +7,14 @@ cta: Find out more about our upcoming 2025 Season
 link: https://goldenthread.org/season/upcoming/
 items:
   - subtitle: |-
-      **Threads of Solidarity:**\
-      **2﻿025 Season Announced**
-    text: Our 2025 Season illuminates the interconnectedness of our struggles
-      amplifying Palestinian, Armenian, and Afghan stories. Featuring local and
-      national collaborations, we invite you to join us in community and
-      solidarity.
-    cta: Find out more
-    link: https://goldenthread.org/season/upcoming/
-    image: https://ucarecdn.com/9e12df46-9522-4495-88b9-b410c4db3a44/
+      **Executive Artistic Director Sahar Assaf** \
+      **shares a personal message**
+    text: '"In those moments when I felt utterly drained by the atrocities we are
+      witnessing, it was **YOU**, our brilliant community, that gave me the
+      strength to get back up and continue the meaningful work we are doing."'
+    image: https://ucarecdn.com/bc5965e9-0a93-48e2-8be1-e21abcf3d780/
+    cta: Read the full letter
+    link: https://goldenthread.org/posts/new-year-renewed-commitment/
   - subtitle: |-
       **W﻿e've made our Board Match!**\
       **Thank you for your generous support.**
