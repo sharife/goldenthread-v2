@@ -8,7 +8,7 @@ D﻿ear friend of Golden Thread,
 
 As we begin the new year, I want to celebrate our 2024 successes with you, and share my excitement for our [2025 Season of Solidarity](https://www.goldenthread.org/season). 
 
-**I write this email to you from Beirut — finally reunited with my family and friends.** They have been luckier than many, many others who have lost their lives and their homes. But being here, face to face with the impact of the brutal genocide and now expanded war waged by Israel (with public and financial support from the U.S. government), my commitment to Golden Thread’s essential mission of producing art in community as political action remains steadfast. 
+**I write this m﻿essage to you from Beirut — finally reunited with my family and friends.** They have been luckier than many, many others who have lost their lives and their homes. But being here, face to face with the impact of the brutal genocide and now expanded war waged by Israel (with public and financial support from the U.S. government), my commitment to Golden Thread’s essential mission of producing art in community as political action remains steadfast. 
 
 Looking back, I am deeply moved by what we accomplished together in 2024. With your support and in one year, we engaged with **more than 225 artists and activists from all over the world**. We played to **sold out houses in San Francisco**, and created bustling community gatherings online, including our ambitious ***24 Hours for Palestine: A Moon Will Rise from Darkness*** which was viewed by 1,700 people from 54 countries. We **partnered with 22 community-focused organizations**, and expanded our reach to thousands with like-minded allies. 
 
