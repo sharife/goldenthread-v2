@@ -2,7 +2,7 @@
 title: New Year. Renewed Commitment.
 date: 2025-01-07T19:34:50.099Z
 description: A personal message from Executive Artistic Director Sahar Assaf
-background: https://ucarecdn.com/e53bb373-948f-4555-853a-01e73522dd11/
+background: https://ucarecdn.com/54b2c63a-7fa9-4c7b-be1c-327b070c6b66/
 ---
 D﻿ear friend of Golden Thread,
 
@@ -18,7 +18,7 @@ Our 2025 Season will do just that by illuminating the interconnectedness of our 
 
 With gratitude and in solidarity,
 
-![Sahar Assaf Signature](https://ucarecdn.com/c5ba385c-302f-4e08-a809-1325ce18f2db/)
+![Sahar Assaf Signature](https://ucarecdn.com/2a3e05fb-1621-4616-8aa3-914feb787d35/)
 
 Sahar Assaf
 Executive Artistic Director
