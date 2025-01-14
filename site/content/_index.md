@@ -14,6 +14,18 @@ items:
     cta: Read the full letter
     link: https://goldenthread.org/posts/new-year-renewed-commitment/
   - subtitle: |-
+      **Welcome Salim Razawi,**\
+      **O﻿ur New Artistic Producer**
+    text: Bay Area actor, director, teaching artist, casting consultant, and a
+      passionate EDI advocate, **S﻿alim Razawi (he/him)** is no stranger to
+      Golden Thread — having been involved with the company since 2014. His
+      diverse skill set, longtime commitment to the Bay Area, and his background
+      as an Afghan American artist and activist make him a perfect match to
+      Golden Thread’s mission.
+    image: https://ucarecdn.com/c8ae9d6e-3a38-4848-80ec-b94bc2277b9d/
+    cta: Read an Interview
+    link: https://goldenthread.org/posts/meet-salim-razawi-golden-threads-new-artistic-producer-1/
+  - subtitle: |-
       **W﻿e've made our Board Match!**\
       **Thank you for your generous support.**
     text: W﻿e're deeply thankful to everyone who have supported our work. Thanks to
@@ -23,14 +35,4 @@ items:
     image: https://ucarecdn.com/cae6d042-3d47-47e5-8f7c-93cde543a417/
     cta: Donate Now!
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
-  - subtitle: |-
-      **Welcome Wynne Chan!**\
-      **O﻿ur New Managing Director**
-    text: We’re thrilled to announce beloved Bay Area administrator and artist
-      **Wynne Chan** as Golden Thread's new Managing Director! Chan brings over
-      a decade of experience in non-profit best practices and artmaking that
-      uplifts historically-excluded voices.
-    image: https://ucarecdn.com/70d396bb-fea7-4318-861c-654fae325b5e/
-    cta: Find out more
-    link: https://goldenthread.org/posts/meet-wynne-chan-golden-threads-new-managing-director/
 ---
