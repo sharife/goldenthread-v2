@@ -11,7 +11,7 @@ sidebar:
 * ***The Return*** auditions will take place in person on **Wednesday 2/19/2025** from 11:00 AM to 4:00 PM  
 * ***Pilgrimage*** auditions will take place in person on **Wednesday 2/19/2025** from 6:00 PM to 10:00 PM. 
 * ***Oriental*** auditions will take place in person on **Monday 2/24/2024** from 11:00 AM to 3:00 PM. 
-* **Callbacks** will be scheduled by appointment early March
+* **Callbacks** will be scheduled by appointment early March.
 
 \
 **Plays**
@@ -28,6 +28,7 @@ sidebar:
 * For *ORIENTAL*: Golden Thread is seeking actors who identify as women, men, and/or as part of the MENASA (Middle Eastern, North African, and South Asian) community in their late 20s - mid 50s. (Rehearsals begin May 27. Performs June 7 & 8).
 
 ### \
+
 **[For more information, and to schedule an audition, click here.](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)**
 
 \
