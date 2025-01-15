@@ -5,6 +5,8 @@ sidebar:
   text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
     QAAR) our email list to receive general announcements."
 ---
+### **[For more information, and to schedule an audition, click here.](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)**
+
 **2025 General and Season Audition Dates**
 
 * **General Auditions** will take place in person on **Monday 2/17/25** by appointment between 11:00 AM to 4:00 PM.  
@@ -25,11 +27,7 @@ sidebar:
 
 * For *The Return*: We are seeking women and men-identifying actors in their late 30s - early 40s to portray one Palestinian and one Israeli Jewish character. (Rehearsals begin July 1. Performs July - August 24th)
 * For *Pilgrimage*: We're seeking an ensemble of women aged mid 30’s-early 60’s actors; four Afghan- American, and one African American (Rehearsals begin September 15. Performs on October 27- November 8th).
-* For *ORIENTAL*: Golden Thread is seeking actors who identify as women, men, and/or as part of the MENASA (Middle Eastern, North African, and South Asian) community in their late 20s - mid 50s. (Rehearsals begin May 27. Performs June 7 & 8).
-
-### \
-
-**[For more information, and to schedule an audition, click here.](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)**
+* For *ORIENTAL*: Golden Thread is seeking actors who identify as women, men, and/or as part of the MENASA (Middle Eastern, North African, and South Asian) community in their late 20s - mid 50s. (Rehearsals begin May 27. Performs June 7 & 8)
 
 \
 **Questions?**
