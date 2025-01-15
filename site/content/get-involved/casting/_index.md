@@ -7,6 +7,7 @@ sidebar:
 ---
 ### **[For more information, and to schedule an audition, click here.](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)**
 
+\
 **2025 General and Season Audition Dates**
 
 * **General Auditions** will take place in person on **Monday 2/17/25** by appointment between 11:00 AM to 4:00 PM.  
