@@ -8,9 +8,9 @@ intro: >
 
 **JOB OPENINGS**
 
-**Production, Design & Technical Personnel**
+**PRODUCTION & DESIGN**
 
-We accept ongoing resumes with letters of interest in Golden Thread from stage managers, designers, set builders, and technical directors at [information@goldenthread.org]((mailto:information@goldenthread.org)). **[Learn more](/get-involved/jobs/).**
+For our 2025 Season and beyond, Golden Thread is looking for Production managers, set designers, props designers, costume designers, wardrobe crew, sound designers, projections, lighting designers; stage managers & ASMs; intimacy & fight choreographers. If interested, please fill out [this form](https://forms.gle/UUuGTdZ6XShZXHme9). **[Learn more](/get-involved/jobs/).**
 
 - - -
 
