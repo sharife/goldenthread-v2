@@ -6,7 +6,7 @@ intro: >
 ---
 **CASTING**
 
-W﻿e're currently casting for our 2025 season. Please visit our **[Casting page](/get-involved/casting/)** to find out more and to submit.
+W﻿e are currently casting for our 2025 season. Please visit our **[Casting page](/get-involved/casting/)** to find out more and to submit.
 
 - - -
 
