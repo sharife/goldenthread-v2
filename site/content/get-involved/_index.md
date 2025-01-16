@@ -4,9 +4,11 @@ intro: >
   There are many ways for you to be a part of Golden Thread's family of artists,
   staff, and volunteers. Find out more about available opportunities below.
 ---
-- - -
+**CASTING**
 
-**JOB OPENINGS**
+W﻿e are currently casting for our 2025 season. Please visit our **[Casting page](/get-involved/casting/)** to find out more and to submit.
+
+- - -
 
 **PRODUCTION & DESIGN**
 
@@ -16,13 +18,14 @@ Folks of Middle East and Northern Africa (MENA) descent and Black, Indigenous, a
 
 - - -
 
-**CASTING**\
-Casting for the 2024 Season is open! **[Learn more](/get-involved/casting/).**
+**PLAY SUBMISSIONS**\
+Golden Thread accepts submissions of full length plays year round. Join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
 
 - - -
 
-**PLAY SUBMISSIONS**\
-Golden Thread accepts submissions of full length plays year round. Join our email list for general submission announcements. **[Learn more.](/get-involved/submissions/)**
+**J﻿OB OPENINGS**
+
+T﻿here are no job openings at this time.
 
 - - -
 
