@@ -6,18 +6,25 @@ intro: >
 ---
 - - -
 
+**CASTING**
+
+**W﻿e're currently casting our 2025 season. Please visit our** 
+
+**[LCaearn mo](/get-involved/casting/)**
+
+- - -
+
 **JOB OPENINGS**
+
+T﻿here are no job openings at this time.
+
+- - -
 
 **PRODUCTION & DESIGN**
 
 For our 2025 Season and beyond, Golden Thread is looking for production managers, set designers, props designers, costume designers, wardrobe crew, sound designers, projections, lighting designers, stage managers & ASMs, and intimacy & fight choreographers. If interested, please fill out **[this form](https://forms.gle/UUuGTdZ6XShZXHme9)**.
 
 Folks of Middle East and Northern Africa (MENA) descent and Black, Indigenous, and People of Color (BIPOC) artists and artists of other underrepresented identities are specifically encouraged to apply.
-
-- - -
-
-**CASTING**\
-Casting for the 2024 Season is open! **[Learn more](/get-involved/casting/).**
 
 - - -
 
