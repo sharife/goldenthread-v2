@@ -1,9 +1,10 @@
 ---
 title: Play Submissions
 sidebar:
-  heading: Submit your play!
-  text: You can submit your information and play
-    [here](https://forms.gle/TKEbqE1A3FaUuxVd6).
+  heading: Submit your short play to ReOrient!
+  text: "###### **[U﻿PLOAD SUBMISSION VIA THIS
+    FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38Gdps\
+    QcfuP_uRSblpXlrtAjPvQ/viewform)**"
 ---
 ![]()
 
@@ -18,15 +19,11 @@ Length: 10-30 minutes\
 One submission only per playwright\
 Deadline: Apr 30, 2025
 
-
-
 **Eligibility:**
 
 * Playwrights of Middle Eastern heritage writing about any topic
 * Playwrights of all backgrounds writing about the Middle East
 * The plays must be in English (Translations of plays originally written in other languages are also welcome)
-
-
 
 **Areas of Interest include:**
 
@@ -38,8 +35,6 @@ Deadline: Apr 30, 2025
 * Adaptations of classical texts and or historical figures
 * Exploration of Middle Eastern performance traditions
 
-
-
 **Production Expectations:**
 
 * 5 to 7 plays will be selected for development and production in the fall of 2026.
@@ -47,14 +42,10 @@ Deadline: Apr 30, 2025
 * All plays are performed as part of one evening with an ensemble that is shared amongst different productions. 
 * The design elements for all plays are handled by one design team.
 
+## **[U﻿PLOAD SUBMISSION VIA THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**
 
-
-**Upload submissions via this form: <https://forms.gle/TKEbqE1A3FaUuxVd6>**
-
-For inquiries please email:\
+For inquiries, please email:\
 submissions@goldenthread.org\
 Subject Line: ReOrient 2026
-
-
 
 Golden Thread Productions, founded in 1996, is the first theatre company in the United States focused on the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. Every play serves as an invitation to discover unexpected connections and engage in deeply moving conversations that last well beyond the life of the play. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds. [goldenthread.org](http://www.goldenthread.org)
