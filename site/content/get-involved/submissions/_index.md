@@ -7,40 +7,44 @@ sidebar:
 ---
 ![]()
 
-### We Accept Full-length Plays Year-Round.
+### Call for Plays
 
-**Golden Thread** produces passionate and provocative plays from and about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
+*Think you know the Middle East? Think again!*
+
+Golden Thread Productions is seeking short plays for consideration in **ReOrient Festival of Short Plays 2026**. ReOrient Festival showcases the diversity of voices and aesthetics from the Middle East and its worldwide diaspora in a curated festival of short plays produced biennially in San Francisco.
 
 **Eligibility:**
 
-• Plays by playwrights of Middle Eastern heritage on any topic
+* Playwrights of Middle Eastern heritage writing about any topic
+* Playwrights of all backgrounds writing about the Middle East
+* The plays must be in English (Translations of plays originally written in other languages are also welcome)
 
-• Plays about the Middle East by playwrights of any cultural heritage
+**Submission Guidelines:**\
+Length: 10-30 minutes\
+One submission only per playwright\
+Deadline: Apr 30, 2025
 
-• Plays must be in English
+**Areas of Interest include:**
 
-**Areas of interest include:**
+* Plays that engage with urgent contemporary issues, reflecting the social, political, and cultural landscapes highlighting the Middle East and its diaspora
+* Plays that center Palestine and the Palestinian diaspora
+* Plays that experiment with non-realistic forms, non-linear or physically-based storytelling and innovative performance styles
+* Comedies
+* Plays that explore and demonstrate aspects of daily or family life
+* Adaptations of classical texts and or historical figures
+* Exploration of Middle Eastern performance traditions
 
-• Comedies: political satire, romantic comedies
+**Production Expectations:**
 
-• Plays that experiment with non-realistic forms, non-linear or physically-based storytelling
+* 5 to 7 plays will be selected for development and production in the fall of 2026.
+* Each play is supported by a director and a dramaturg. 
+* All plays are performed as part of one evening with an ensemble that is shared amongst different productions. 
+* The design elements for all plays are handled by one design team.
 
-• Plays that explore aspects of immigrant or family life
+**Upload submissions via this form: <https://forms.gle/TKEbqE1A3FaUuxVd6>**
 
-• Adaptations of classical texts and or historical figures
+For inquiries please email:\
+submissions@goldenthread.org\
+Subject Line: ReOrient 2026
 
-• Exploration of Middle Eastern performance traditions
-
-**We will only contact playwrights whose plays are under consideration for reading and/or production.**
-
-**Submission Guidelines:**
-
-• Complete the **[Full-length Play Submission Form](https://docs.google.com/forms/d/1Ua9S_ZfcK_dIM6Bh3rJ4tf7wWjEyMgTF9aCVbl5co_Q/edit).**
-
-• Upload a pdf of your play to the Play Submission Form.
-
-***WE NO LONGER ACCEPT HARD COPY SUBMISSIONS BY MAIL.***
-
-For any further questions or concerns, email **submissions@goldenthread.org.**
-
-***THANK YOU FOR YOUR HARD WORK AND KEEP WRITING!***
+Golden Thread Productions, founded in 1996, is the first theatre company in the United States focused on the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. Every play serves as an invitation to discover unexpected connections and engage in deeply moving conversations that last well beyond the life of the play. We are a developmental catalyst and vibrant artistic home to artists at various stages of their careers. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds. [goldenthread.org](http://www.goldenthread.org)
