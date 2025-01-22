@@ -2,9 +2,17 @@
 title: Play Submissions
 sidebar:
   heading: Submit your short play to ReOrient!
-  text: P﻿lease read the submission guidelines, and when you are ready, you may
-    upload your submission via **[this form](<## **[U﻿PLOAD SUBMISSION VIA THIS
-    FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**>)**.[](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)
+  text: >-
+    P﻿lease read the submission guidelines, and when you are ready, you may
+    **[upload your submission via this
+    form](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**.
+
+
+    For questions, please email:\
+
+    submissions@goldenthread.org\
+
+    Subject Line: ReOrient 2026
 ---
 ![]()
 
