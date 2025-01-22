@@ -2,13 +2,13 @@
 title: Play Submissions
 sidebar:
   heading: Submit your short play to ReOrient!
-  text: "###### **[U﻿PLOAD SUBMISSION VIA THIS
-    FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38Gdps\
-    QcfuP_uRSblpXlrtAjPvQ/viewform)**"
+  text: P﻿lease read the submission guidelines, and when you are ready, you may
+    upload your submission via **[this form](<## **[U﻿PLOAD SUBMISSION VIA THIS
+    FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**>)**.[](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)
 ---
 ![]()
 
-### Call for Plays
+## ReOrient 2026 Call for Short Plays
 
 *Think you know the Middle East? Think again!*
 
@@ -44,7 +44,7 @@ Deadline: Apr 30, 2025
 
 ## **[U﻿PLOAD SUBMISSION VIA THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**
 
-For inquiries, please email:\
+For questions, please email:\
 submissions@goldenthread.org\
 Subject Line: ReOrient 2026
 
