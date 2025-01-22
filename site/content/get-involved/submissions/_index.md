@@ -1,9 +1,9 @@
 ---
 title: Play Submissions
 sidebar:
-  heading: Stay in Touch
-  text: "[Join](https://goldenthread.secure.force.com/signup/?cfid=a05j000000Lsdh\
-    QAAR) our email list to receive general announcements."
+  heading: Submit your play!
+  text: You can submit your information and play
+    [here](https://forms.gle/TKEbqE1A3FaUuxVd6).
 ---
 ![]()
 
