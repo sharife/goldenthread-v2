@@ -27,11 +27,12 @@ items:
     link: https://goldenthread.org/posts/meet-salim-razawi-golden-threads-new-artistic-producer-1/
   - subtitle: |-
       **R﻿eOrient Festival is back in 2026!**\
-      **S﻿ubmit your short play by April 30, 2025.**
+      **S﻿ubmit your short play now.**
     text: PLAYWRIGHTS! We're now accepting submissions for the 2026 ReOrient
-      Festival of Short
-      Plays.[](https://goldenthread.org/get-involved/submissions/?fbclid=IwZXh0bgNhZW0CMTAAAR0ZjwhZiuJYO9OaANHTx1GKh4XitjNf_Z94khzaJy0s1mi8sRCSYPwyYiE_aem_aX1ndtHFxr2PzAkRx2-Bww)[](https://www.facebook.com/photo/?fbid=1239737697676855&set=a.619873352996629&__cft__[0]=AZUP_m1jb1LUV-4UHZpdG3RZibcuKVBwMF2QDb9Uy1XsfoIFPpYS_Rb8Kua1JPEc3-xQ0nFFQA82q7q0cKuYO1rqYalHASIYEiXhOi5jIwZWtqucR1IA36mIfYOIcvM_at9fKAOQ5FpC3x28lcHTM3qwwy5jUn8QfkQdUn6axydXWUMxboJvOw9uioysfSzAHTU&__tn__=EH-R)
+      Festival of Short Plays. Please check out the eligibility guidelines and
+      submit your 10-30 minute play by April 30,
+      2025.[](https://goldenthread.org/get-involved/submissions/?fbclid=IwZXh0bgNhZW0CMTAAAR0ZjwhZiuJYO9OaANHTx1GKh4XitjNf_Z94khzaJy0s1mi8sRCSYPwyYiE_aem_aX1ndtHFxr2PzAkRx2-Bww)[](https://www.facebook.com/photo/?fbid=1239737697676855&set=a.619873352996629&__cft__[0]=AZUP_m1jb1LUV-4UHZpdG3RZibcuKVBwMF2QDb9Uy1XsfoIFPpYS_Rb8Kua1JPEc3-xQ0nFFQA82q7q0cKuYO1rqYalHASIYEiXhOi5jIwZWtqucR1IA36mIfYOIcvM_at9fKAOQ5FpC3x28lcHTM3qwwy5jUn8QfkQdUn6axydXWUMxboJvOw9uioysfSzAHTU&__tn__=EH-R)
     link: https://goldenthread.org/get-involved/submissions/
-    cta: Find out more and submit
+    cta: Find out more!
     image: https://ucarecdn.com/5f24a635-8585-4414-bdc6-18cfffcf85f1/
 ---
