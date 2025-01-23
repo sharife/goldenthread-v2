@@ -26,13 +26,12 @@ items:
     cta: Read an Interview
     link: https://goldenthread.org/posts/meet-salim-razawi-golden-threads-new-artistic-producer-1/
   - subtitle: |-
-      **W﻿e've made our Board Match!**\
-      **Thank you for your generous support.**
-    text: W﻿e're deeply thankful to everyone who have supported our work. Thanks to
-      you, we've reached our Board of Trustees' $11,000 Match. Although our
-      year-end campaign is complete, you can still donate to help make our 2025
-      Season possible.
-    image: https://ucarecdn.com/cae6d042-3d47-47e5-8f7c-93cde543a417/
-    cta: Donate Now!
-    link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
+      **R﻿eOrient Festival is back in 2026!**\
+      **S﻿ubmit your short play by April 30, 2025.**
+    text: PLAYWRIGHTS! We're now accepting submissions for the 2026 ReOrient
+      Festival of Short
+      Plays.[](https://goldenthread.org/get-involved/submissions/?fbclid=IwZXh0bgNhZW0CMTAAAR0ZjwhZiuJYO9OaANHTx1GKh4XitjNf_Z94khzaJy0s1mi8sRCSYPwyYiE_aem_aX1ndtHFxr2PzAkRx2-Bww)[](https://www.facebook.com/photo/?fbid=1239737697676855&set=a.619873352996629&__cft__[0]=AZUP_m1jb1LUV-4UHZpdG3RZibcuKVBwMF2QDb9Uy1XsfoIFPpYS_Rb8Kua1JPEc3-xQ0nFFQA82q7q0cKuYO1rqYalHASIYEiXhOi5jIwZWtqucR1IA36mIfYOIcvM_at9fKAOQ5FpC3x28lcHTM3qwwy5jUn8QfkQdUn6axydXWUMxboJvOw9uioysfSzAHTU&__tn__=EH-R)
+    link: https://goldenthread.org/get-involved/submissions/
+    cta: Find out more and submit
+    image: https://ucarecdn.com/5f24a635-8585-4414-bdc6-18cfffcf85f1/
 ---
