@@ -34,5 +34,11 @@ cast:
 
         Ashira started her career in Palestine as a journalist; she worked for 15 years as TV & Radio journalist and researcher for the BBC, Amnesty International and Human Rights Watch.
       link: http://www.ashirapremrachana.com/
+bottom:
+  heading: "We are grateful for the unwavering support of our sponsor:"
+  logos:
+    - image: https://ucarecdn.com/d165cf75-8d2c-411a-bf49-a6573ebf42ce/
+  text: "[WomenArts](https://www.womenarts.org/) is dedicated to increasing
+    visibility and opportunities for diverse women artists in all art forms."
 ---
 ***Where Olive Trees Weep* will be available for on-demand viewing for two weeks leading up to March 8, 2025.** The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring Ashira Darwish, grassroots activist Ahed Tamimi, Israeli journalist Amira Hass, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.
