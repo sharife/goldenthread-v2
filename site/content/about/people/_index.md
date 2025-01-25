@@ -179,26 +179,6 @@ staff:
 board:
   heading: Board of Trustees
   items:
-    - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
-        property law since 1992. Prior to that, he had an engineering career in
-        Silicon Valley as an integrated circuit designer in the microelectronics
-        industry. He was born in Iran and emigrated to the U.S. at the age of
-        15. He has been a longtime supporter of a number of non-profits focusing
-        on the arts, education, the environment, and immigration reform, and has
-        provided pro bono legal services for several such organizations. He also
-        serves on the board of The Body Positive, a non-profit focusing on
-        education around body image. His interest in the fine arts, in
-        particular of the type that builds bridges between people and cultures
-        with different roots, made him an early supporter of Golden Thread
-        Productions. He believes deeply in the mission of Golden Thread and is
-        delighted to be part of the organization. He received a Bachelor’s
-        degree from UC Berkeley in Electrical Engineering and Computer Sciences,
-        a Master’s degree from Santa Clara University in telecommunications, and
-        his Juris Doctor degree from UC Hastings. He has two daughters and lives
-        in Berkeley, CA.
-      image: /img/archive/2018/03/Babak-Sani-300x300.jpg
-      name: Babak Sani
-      credit: President
     - bio: <strong>May Allam</strong> *(she/her)* is Senior Director of Engineering at
         TiVo, San Jose CA. She manages an Engineering organization responsible
         for developing the TiVo experience for set-top boxes at millions of
@@ -212,6 +192,22 @@ board:
         opening a dialogue.
       image: /img/archive/2019/02/Allam-May-300x300-2.jpg
       name: May Allam
+      credit: President
+    - name: Mona Masri
+      bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
+        fairer world where everyone has the resources they need to thrive. She’s
+        spent her career working on reducing the racial and gender wealth gap
+        through big ideas that address structural inequities like Guaranteed
+        Basic Income, tax credits, affordable housing, and entrepreneurship. A
+        proud California native with Lebanese roots, Mona also has a deep love
+        for the arts, especially those that challenge stereotypes about the
+        SWANA region and celebrate its rich and vibrant cultures. Growing up as
+        a theatre nerd, she loved acting and rarely missed watching a
+        performance during her college years. Now, she leaves the acting to the
+        pros but still seeks out great productions whenever she can. When she’s
+        not working, she enjoys hiking, baking, and spending time with family
+        and friends in Oakland, on the traditional lands of the Ohlone people."
+      image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
       credit: Treasurer
     - bio: <strong>Nora el Samahy</strong>’s *(she/her)* professional acting career
         began in 1998 as a Fairy in San Francisco Shakespeare Festival’s
@@ -301,21 +297,6 @@ board:
 
 
         Rita is always engaged in growth and development, both personally and professionally, and has been a daily meditator for over 2 decades. She sits on the Board of Trustees of Golden Thread Productions, whose mission is to produce passionate and provocative plays from or about the Middle East – including its global diaspora - that celebrate the multiplicity of its perspectives and identities. Being a philanthropist and being of service gives her the greatest joy. Her husband Robert is her biggest supporter in work and in life.
-    - name: Mona Masri
-      bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
-        fairer world where everyone has the resources they need to thrive. She’s
-        spent her career working on reducing the racial and gender wealth gap
-        through big ideas that address structural inequities like Guaranteed
-        Basic Income, tax credits, affordable housing, and entrepreneurship. A
-        proud California native with Lebanese roots, Mona also has a deep love
-        for the arts, especially those that challenge stereotypes about the
-        SWANA region and celebrate its rich and vibrant cultures. Growing up as
-        a theatre nerd, she loved acting and rarely missed watching a
-        performance during her college years. Now, she leaves the acting to the
-        pros but still seeks out great productions whenever she can. When she’s
-        not working, she enjoys hiking, baking, and spending time with family
-        and friends in Oakland, on the traditional lands of the Ohlone people."
-      image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
     - name: Michelle Mulholland
       bio: <strong>Michelle Mulholland</strong> *(she/her)* is an arts administrator
         and costume designer with more than 20 years of experience in Bay Area
@@ -338,6 +319,26 @@ board:
         Theater, and Brava Theater. She has also worked with Teatro Zinzanni,
         ACT, and the SFMOMA.
       image: https://ucarecdn.com/8d6f8940-0c65-481c-ae39-131ce879a0dc/
+    - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
+        property law since 1992. Prior to that, he had an engineering career in
+        Silicon Valley as an integrated circuit designer in the microelectronics
+        industry. He was born in Iran and emigrated to the U.S. at the age of
+        15. He has been a longtime supporter of a number of non-profits focusing
+        on the arts, education, the environment, and immigration reform, and has
+        provided pro bono legal services for several such organizations. He also
+        serves on the board of The Body Positive, a non-profit focusing on
+        education around body image. His interest in the fine arts, in
+        particular of the type that builds bridges between people and cultures
+        with different roots, made him an early supporter of Golden Thread
+        Productions. He believes deeply in the mission of Golden Thread and is
+        delighted to be part of the organization. He received a Bachelor’s
+        degree from UC Berkeley in Electrical Engineering and Computer Sciences,
+        a Master’s degree from Santa Clara University in telecommunications, and
+        his Juris Doctor degree from UC Hastings. He has two daughters and lives
+        in Berkeley, CA.
+      image: /img/archive/2018/03/Babak-Sani-300x300.jpg
+      name: Babak Sani
+      credit: ""
 artists:
   heading: Resident Artists
   items:
