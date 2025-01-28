@@ -37,10 +37,8 @@ bottom:
   heading: ""
   logos:
     - image: https://ucarecdn.com/d165cf75-8d2c-411a-bf49-a6573ebf42ce/
-  text: We are grateful for the unwavering support of our sponsor
-    **[WomenArts](https://www.womenarts.org/)**, which is dedicated to
-    increasing visibility and opportunities for diverse women artists in all art
-    forms.
+  text: "**[WomenArts](https://www.womenarts.org/)**is dedicated to increasing
+    visibility and opportunities for diverse women artists in all art forms."
 ---
 **What Do the Women Say?** celebrates **International Women’s Day** on March 8, 2025, with a guided meditation and Q&A session led by Ashira Darwish, a Palestinian journalist, therapist, and activist featured in the powerful film *Where Olive Trees Weep.*
 
