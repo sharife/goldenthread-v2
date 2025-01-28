@@ -5,12 +5,11 @@ lists:
     items:
       - pre: Saturday, May 8, 2025 at 11am PST (online only)
         title: What Do the Women Say? 2025
-        text: What Do the Women Say? celebrates International Women’s Day with a guided
-          meditation and Q&A session led by **Ashira Darwish**, a Palestinian
-          journalist, therapist, and activist featured in the powerful film
-          ***Where Olive Trees Weep***, which will be available for on-demand
-          viewing for two weeks leading up to our event. **Register online for
-          FREE. Donations are appreciated.**
+        text: >-
+          Register online for FREE. Donations are appreciated.
+
+
+          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/what-do-the-women-say-2025/)**
         cta: Register now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
