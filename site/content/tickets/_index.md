@@ -1,10 +1,10 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: ""
+  - heading: What Do the Women Say? 2025
     items:
       - pre: ""
-        title: What Do the Women Say? 2025
+        title: ""
         text: >-
           *What Do the Women Say?* celebrates International Women’s Day on March
           8, 2025, with a guided meditation and Q&A session led by Ashira
