@@ -3,7 +3,7 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - pre: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
+      - pre: ""
         title: What Do the Women Say? 2025
         text: >-
           *What Do the Women Say?* celebrates International Women’s Day on March
@@ -20,10 +20,11 @@ lists:
         cta: Register now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
+        subtitle: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
       - title: AZAD (the rabbit and the wolf)
-        pre: April 11 - May 3, 2024 at Potrero Stage (1695 18th Street, San Francisco,
-          CA 94107)
-        subtitle: W﻿orld Premiere
+        pre: W﻿orld Premiere
+        subtitle: April 11 - May 3, 2024 at Potrero Stage ([1695 18th Street, San
+          Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/))
         image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
         text: >-
           by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
