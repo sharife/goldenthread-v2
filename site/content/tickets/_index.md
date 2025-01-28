@@ -1,62 +1,95 @@
 ---
 title: Buy Tickets
-lists: []
+lists:
+  - heading: ""
+    items:
+      - pre: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
+        title: What Do the Women Say? 2025
+        text: >-
+          *What Do the Women Say?* celebrates International Women’s Day on March
+          8, 2025, with a guided meditation and Q&A session led by Ashira
+          Darwish, a Palestinian journalist, therapist, and activist featured in
+          the powerful film ***[Where Olive Trees
+          Weep](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)*.** 
+
+
+          *Where Olive Trees Weep* will be available for **[on-demand viewing](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)** for two weeks leading up to March 8, 2025. The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring **Ashira Darwish**, grassroots activist **Ahed Tamimi**, Israeli journalist **Amira Hass**, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.\
+
+          \
+
+          Online registration **FREE.** Donations appreciated.
+        cta: Register now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
+        image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
+      - title: AZAD (the rabbit and the wolf)
+        pre: April 11 - May 3, 2024 at Potrero Stage (1695 18th Street, San Francisco,
+          CA 94107)
+        subtitle: W﻿orld Premiere
+        image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
+        text: >-
+          by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
+
+          Directed by **Jared Mezzocchi**\
+
+          Featuring **Sona Tatoyan + a tribe of Karagöz Puppets**\
+
+          a co-production with **Hakawati**
+
+
+           Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and healing tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.  \
+
+          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays** at **3 pm.**
+
+
+          **$20** Previews (PWYW at-the-door), **$30 - $130** General Admission.
+        cta: Buy now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
 ---
+
+
 - - -
 
-**GOLDEN THREAD TICKETING POLICIES**
-Thank you for your interest in purchasing tickets! Our ticket pricing is a reflection of our continuing efforts to provide an equitable and accessible theatre experience for all. It is  driven by three fundamental values we hold that we believe foster a just, inclusive and community-driven space. 
+Thank you for your interest in attending Golden Thread performances. Our ticket pricing and policies are a reflection of our commitment to provide equitable access for all. Read below for more details on our accessibility and masking policies.
 
-* All artists, staff, cast, and crew deserve fair and equal compensation.
-* Everyone should have access to a ticket price they find affordable. 
-* No one should be turned away for lack of funds.
+**TICKET PRICES** \
+At Golden Thread, nobody is turned away for lack of funds.
 
-We offer a range of ticket prices designed to maintain financial flexibility for our audiences and financial stability for our artists. These price ranges include: 
+**$40 GENERAL ADMISSION** 
 
-**NAME YOUR PRICE** \
-Starting at $25, or $30 for our mainstage shows, **Name Your Price** tickets offer the flexibility to pay more or less with multiple price points at $50 and under. 
+**$80 PAY IT FORWARD** Attend our shows, and support our accessibility programs for audiences who need them — such as $30 under 30, Artist Access, Community Comps.
 
-**PAY IT FORWARD** \
-Starting at $55, or $60 for our mainstage shows, **Pay It Forward** tickets are intentionally set at multiple price points up to $100 to support access to low-to-no cost tickets, like our Community Walk-ins. 
+**$130 TRUE COST** In 2025, producing theater costs a lot of money. With every seat in the house sold, we could only break even if we sold each seat at $130. If you’re able, please consider paying the true cost of producing a show.   
 
-**PAY WHAT YOU WANT PREVIEWS**\
-A self-determined sliding scale, **Pay What You Want** tickets are available at-the-door for any preview performance of a main stage show. Preview tickets can also be purchased in advance online for $20. 
+**$30 UNDER 30** Are you under 30? Now, you can get $30 tickets to all performances. 
 
-**COMMUNITY WALK-INS**\
-5% of all our seats are available for **Community Walk-ins** to ensure no one is turned away for lack of funds. They may be requested at-the-door or in advance by emailing us at [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).  We offer one seat per request, but may accommodate one additional guest when possible. In your email, please leave your name, your preferred show date and if you are requesting one or two tickets.
+**$30 ARTIST ACCESS** If you are a working artist in any medium, we have $30 tickets for you!
 
-**AEA WALK-INS** \
-We welcome all current AEA members to redeem complimentary walk-in tickets to any main stage show, except opening night, pending availability. You may email ahead of time to check availability, but there is no need to contact us in advance as all walk-ins are based solely on availability. We offer one seat per member, but may accommodate one additional guest when possible. 
+**WALK-IN TICKETS** The following walk-in tickets are only available at the door and are pending availability.
 
-**GENERAL BOX OFFICE INFORMATION**
-For assistance with any box office related issue, please email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org).
+* **PAY WHAT YOU WANT PREVIEWS** Name your own price and be one of the first people to see our shows by attending our pre-opening performances. If you’d like to reserve tickets in advance, preview tickets are available for online purchase for as low as $20.
+* **COMMUNITY WALK-INS / ART FOR ALL** We reserve 5% of all our seats as complimentary tickets for Community Walk-ins to ensure everyone has access to enjoy our shows. Simply show up at the door, and we’ll be delighted to offer you a seat.
+* **AEA WALK-INS** Pending availability, we welcome all current AEA members to redeem complimentary walk-in tickets to any show, except opening nights. We offer one seat per member.
 
-**Ticket Policies:**
+**TICKETING POLICIES**
 
-* Ticket purchases are **non-refundable** and valid only for the date and performance issued.
+* Ticket purchases are non-refundable and valid only for the date and performance issued.
 * Free exchanges for a later date or a future show are subject to availability. Requests can be made to the box office via email.
 * All seating is general admission unless otherwise specified.
 * All tickets are available for pick up at will call under the name of the purchaser.
 * Online ticket sales end 4 hours before show time.
-* The Box Office opens at the venue 1 hour before showtime for will call and day of show sales. 
-* The house opens 30 minutes before the performance and there is no late seating. Unclaimed prepaid tickets may be released for company walk-ins prior to the start of the show.
+* The Box Office opens at the venue 1 hour before showtime for will call and day-of-show sales.
+* The house opens 30 minutes before the performance and there is no late seating. Unclaimed prepaid tickets may be released for walk-ins prior to the start of the show.
+* Virtual event access will be provided through links in the confirmation email for your ticket purchase.
 
-If you have registered for a virtual event the link to access your virtual program can be found in the confirmation email for your ticket purchase. For troubleshooting tips for viewing, visit https://goldenthread.org/posts/your-guide-to-the-patron-manager-video-on-demand-platform/.
+**ACCESSIBILITY**\
+Please put a detailed note while ordering, or directly email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) for any accessibility needs. Advance notification of accessibility needs helps us accommodate your party with more ease. 
 
-If you have registered for a free event but can no longer attend, please notify the box office so we can accommodate someone else.
+Unfortunately, the venues we rent do not offer listening devices.
 
-**ACCESSIBILITY**
+While we are unable to provide gender neutral restrooms in the venues we rent at this time, we embrace gender diversity and maintain an inclusive space where individual identities are respected. All are welcome to use the restroom that is most comfortable for them.
 
-Accessibility for hearing, sight, or mobility can be addressed via email (boxoffice@goldenthread.org), phone (415-626-4061) or by putting a note in your ticket order. A request in advance of purchase or attendance will assist us in accommodating your party. Unfortunately, our venue cannot offer listening devices.
+**MASKED PERFORMANCES**\
+Masks are optional, but strongly recommended at all performances. To make sure our shows are accessible to audience members who are immune-compromised or prefer masked spaces, we offer select Mask-required performances. Please see individual show pages for details.  For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
 
-While we are unable to provide gender neutral restrooms in the venues we rent at this time, we embrace gender diversity and maintain an inclusive space where individual identities are respected. All are welcome to use the restroom that is most comfortable for them, including a private single-stall restroom available in our adjacent office, accessible via a staff member.
-
-**COVID-19 SAFETY & PROTOCOLS** 
-
-Golden Thread is a fully vaccinated company. Our health and safety protocols comply with current health and safety guidelines provided by the State of California and City of San Francisco. These policies will be updated if city guidelines change. 
-
-For the safety of our artists and fellow audience members, **we strongly recommend all guests to wear well-fitted masks while inside the theater.** Per CDC guidance, we encourage the use of procedural masks (either alone or with a cloth mask on top) or a higher grade N95 or KN95 mask instead of cloth masks alone.  
-
-At performances where concessions are served, we strongly recommend guests resume masking when not actively eating or drinking. The ability to take concessions into the theater will vary depending on the venue. 
-
-By registering for an in-person event, you agree to adhere to our COVID-19 health and safety protocols. For more health and safety information, click [here](https://goldenthread.org/posts/health-safety-protocols/).
+**QUESTIONS?**\
+Still have questions or need further assistance? Please email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) and our staff will get back to you shortly.
