@@ -1,10 +1,10 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: What Do the Women Say? 2025
+  - heading: ""
     items:
-      - pre: ""
-        title: ""
+      - pre: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
+        title: What Do the Women Say? 2025
         text: What Do the Women Say? celebrates International Women’s Day with a guided
           meditation and Q&A session led by **Ashira Darwish**, a Palestinian
           journalist, therapist, and activist featured in the powerful
@@ -14,8 +14,8 @@ lists:
         cta: Register now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
-        subtitle: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
-  - heading: AZAD (the rabbit and the wolf)
+        subtitle: ""
+  - heading: ""
     items:
       - pre: W﻿orld Premiere
         subtitle: April 11 - May 3, 2024 at Potrero Stage ([1695 18th Street, San
@@ -36,6 +36,7 @@ lists:
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
         cta: Buy Now
         image: https://ucarecdn.com/47242aff-12e5-4699-a043-0b7bcac7d468/
+        title: AZAD (the rabbit and the wolf)
 ---
 
 
