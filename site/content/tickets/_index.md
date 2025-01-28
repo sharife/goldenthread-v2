@@ -39,8 +39,6 @@ lists:
         subtitle: A﻿ New Threads Workshop Production
         image: https://ucarecdn.com/c91870f4-0047-4bd7-b4db-551f812174d7/
         text: >-
-          wb﻿y Evren Odcikinrit\
-
           w﻿ritten by **Evren Odcikin**\
 
           d﻿ramaturgy by **Torange Yeghiazarian**
