@@ -21,6 +21,29 @@ lists:
         cta: Register now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
+      - title: AZAD (the rabbit and the wolf)
+        pre: April 11 - May 3, 2024 at Potrero Stage (1695 18th Street, San Francisco,
+          CA 94107)
+        subtitle: W﻿orld Premiere
+        image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
+        text: >-
+          by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
+
+          Directed by **Jared Mezzocchi**\
+
+          Featuring **Sona Tatoyan + a tribe of Karagöz Puppets**\
+
+          a co-production with **Hakawati**
+
+
+           Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and healing tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.  \
+
+          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays** at **3 pm.**
+
+
+          **$20** Previews (PWYW at-the-door), **$30 - $130** General Admission.
+        cta: Buy now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
 ---
 
 
