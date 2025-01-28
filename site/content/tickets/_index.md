@@ -10,13 +10,10 @@ lists:
           8, 2025, with a guided meditation and Q&A session led by Ashira
           Darwish, a Palestinian journalist, therapist, and activist featured in
           the powerful film ***[Where Olive Trees
-          Weep](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)*.**
+          Weep](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)*.** 
 
 
-
-
-          *Where Olive Trees Weep* will be available for **[on-demand viewing](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)** for two weeks leading up to March 8, 2025. The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring **Ashira Darwish**, grassroots activist **Ahed Tamimi**, Israeli journalist **Amira Hass**, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.
-
+          *Where Olive Trees Weep* will be available for **[on-demand viewing](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)** for two weeks leading up to March 8, 2025. The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring **Ashira Darwish**, grassroots activist **Ahed Tamimi**, Israeli journalist **Amira Hass**, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.\
 
           \
 
