@@ -6,17 +6,15 @@ date: 2024-11-15T22:30:21.838Z
 start: 2025-04-11T03:00:00.000Z
 end: 2025-05-03T03:00:00.000Z
 description: >-
-  **by Sona Tatoyan in collaboration with Jared Mezzocchi**
+  **by Sona Tatoyan in collaboration with Jared Mezzocchi**\
 
+  **directed by Jared Mezzocchi**\
 
-  Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide.
-
-
-  Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and healing tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.
+  **featuring Sona Tatoyan, a tribe of Karagöz Puppets, and oud player Ara Dinkjian**
 titleimage: https://ucarecdn.com/146a25c9-b364-42e9-9285-d41d9f721877/
 writer: ""
-director: Jared Mezzocchi
-featuring: Sona Tatoyan + a tribe of Karagöz Puppets
+director: ""
+featuring: ""
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
@@ -122,4 +120,6 @@ cast:
         Over the pandemic, Mezzocchi founded Virtual Design Collective (VIDCO), which has aided in the development of over 50 new digital works over the 18 months of quarantine. This year, he is finishing his book, *A Multimedia Designer’s Method to Theatrical Storytelling*, which will be published through Routledge. Mezzocchi has a BA in theater and film from Fairfield University, and an MFA in performance and interactive media arts from Brooklyn College.
       image: https://ucarecdn.com/6022c38c-4d30-4e21-8463-cca54eeb6b2c/-/crop/682x937/194,413/-/preview/
 ---
-**a co-production with Hakawati**
+Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and haunting tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing. 
+
+***AZAD (the rabbit and the wolf)* is a co-production between Golden Thread Productions and Hakawati.**
