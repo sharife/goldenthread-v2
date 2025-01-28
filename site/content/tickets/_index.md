@@ -5,18 +5,12 @@ lists:
     items:
       - pre: ""
         title: ""
-        text: >-
-          *What Do the Women Say?* celebrates International Women’s Day on March
-          8, 2025, with a guided meditation and Q&A session led by Ashira
-          Darwish, a Palestinian journalist, therapist, and activist featured in
-          the powerful film *Where Olive Trees Weep**\*.** 
-
-
-          *Where Olive Trees Weep* will be available for **[on-demand viewing](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)** for two weeks leading up to March 8, 2025. The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring **Ashira Darwish**, grassroots activist **Ahed Tamimi**, Israeli journalist **Amira Hass**, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.\
-
-          \
-
-          Online registration FREE. Donations appreciated.
+        text: What Do the Women Say? celebrates International Women’s Day with a guided
+          meditation and Q&A session led by **Ashira Darwish**, a Palestinian
+          journalist, therapist, and activist featured in the powerful
+          film ***Where Olive Trees Weep***, which will be available for
+          on-demand viewing for two weeks leading up to our event. **Register
+          online for FREE. Donations are appreciated.**
         cta: Register now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
@@ -27,21 +21,18 @@ lists:
         subtitle: April 11 - May 3, 2024 at Potrero Stage ([1695 18th Street, San
           Francisco, CA 94107](https://potrerostage.org/visit-potrero-stage/))
         text: >-
-          Syrian-Armenian-American theatre and film artist **Sona Tatoyan**,
-          stranded in her family’s abandoned Aleppo home during the Syrian war,
-          discovers her great-great-grandfather’s handmade Karagöz shadow
-          puppets, salvaged from the Armenian Genocide. Guided by the
-          storyteller Scherazad, the puppets unveil bawdy, hilarious, and
-          healing tales that transport Sona through an intergenerational,
-          psychedelic journey, alchemizing a radiant truth: stories, when
-          reimagined, possess the power to transmute trauma to healing.  \
+          by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
 
-          \
+          Directed by **Jared Mezzocchi**\
 
-          Performances run Wednesday - Saturday at 8 pm and Sundays at 3 pm.
+          Featuring **Sona Tatoyan + a tribe of Karagöz Puppets**\
+
+          a co-production with **Hakawati NGO**
 
 
-          $30 - $130General Admission, $20 Previews (PWYW at-the-door).
+          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays** at **3 pm.**\
+
+          S﻿ee below for ticket pricing.
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
         cta: Buy Now
         image: https://ucarecdn.com/47242aff-12e5-4699-a043-0b7bcac7d468/
