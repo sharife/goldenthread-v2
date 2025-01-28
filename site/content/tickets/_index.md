@@ -1,9 +1,29 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: What Do The Women Say? 2025
+  - heading: ""
     items:
-      - {}
+      - pre: Saturday, May 8, 2025 at 11:00 AM PT (online only) - via Zoom Webinar
+        title: What Do the Women Say? 2025
+        text: >-
+          *What Do the Women Say?* celebrates International Women’s Day on March
+          8, 2025, with a guided meditation and Q&A session led by Ashira
+          Darwish, a Palestinian journalist, therapist, and activist featured in
+          the powerful film ***[Where Olive Trees
+          Weep](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)*.**
+
+
+
+
+          *Where Olive Trees Weep* will be available for **[on-demand viewing](https://whereolivetreesweep.com/?ref=womensday&affiliate=goldenthreadproductions)** for two weeks leading up to March 8, 2025. The film offers a searing exploration of the struggles and resilience of Palestinian people under Israeli occupation. Featuring **Ashira Darwish**, grassroots activist **Ahed Tamimi**, Israeli journalist **Amira Hass**, and trauma-healing work by Dr. Gabor Maté, the film delves into themes of loss, trauma, and the quest for justice.
+
+
+          \
+
+          Online registration **FREE.** Donations appreciated.
+        cta: Register now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
+        image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
 ---
 
 
