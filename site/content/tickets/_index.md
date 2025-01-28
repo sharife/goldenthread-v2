@@ -16,21 +16,16 @@ lists:
       - title: AZAD (the rabbit and the wolf)
         pre: April 11 - May 3, 2025 at Potrero Stage (1695 18th Street, San Francisco,
           CA 94107)
-        subtitle: World Premiere
+        subtitle: ""
         image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
         text: >-
-          by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
-
-          Directed by **Jared Mezzocchi**\
-
-          Featuring **Sona Tatoyan + a tribe of Karagöz Puppets**\
-
-          a co-production with **Hakawati NGO**
-
-
-          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays** at **3 pm.**\
+          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays**
+          at **3 pm.**\
 
           S﻿ee below for ticket pricing.
+
+
+          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/azad/)**
         cta: Buy now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
       - title: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
