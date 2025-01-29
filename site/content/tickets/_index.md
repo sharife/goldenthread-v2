@@ -1,7 +1,7 @@
 ---
 title: Buy Tickets
 lists:
-  - heading: ""
+  - heading: ON SALE NOW
     items:
       - pre: Saturday, May 8, 2025 at 11am PST (online only)
         title: What Do the Women Say? 2025
@@ -14,14 +14,10 @@ lists:
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rg45MAA
         image: https://ucarecdn.com/52220944-a4f7-44f4-a739-1b4a4864a054/
       - title: AZAD (the rabbit and the wolf)
-        pre: April 11 - May 3, 2025 at Potrero Stage (1695 18th Street, San Francisco,
-          CA 94107)
+        pre: April 11 - May 3, 2025 at Potrero Stage (1695 18th Street, San Francisco)
         subtitle: ""
         image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
         text: >-
-          Performances run **Wednesday - Saturday** at **8 pm** and **Sundays**
-          at **3 pm.**\
-
           S﻿ee below for ticket pricing.
 
 
@@ -29,31 +25,32 @@ lists:
         cta: Buy now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
       - title: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
-        pre: June 7-8, 2025 at Potrero Stage (1695 18th Street, San Francisco, CA 94107)
+        pre: June 7-8, 2025 at Potrero Stage (1695 18th Street, San Francisco)
         subtitle: A﻿ New Threads Workshop Production
         image: https://ucarecdn.com/c91870f4-0047-4bd7-b4db-551f812174d7/
         text: >-
-          w﻿ritten by **Evren Odcikin**\
+          Performs **Saturday, June 7, 2025 at 7pm** and **Sunday, June 8, 2025
+          at 3pm** \
 
-          d﻿ramaturgy by **Torange Yeghiazarian**
+          T﻿ickets are $20.\
 
+          \
 
-          Performs **Saturday, June 7, 2025 at 7pm** and **Sunday, June 8, 2025 at 3pm** \
-
-          T﻿ickets are $20.
+          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/)**
         cta: Buy Now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rgSHMAY
       - title: Pilgrimage
-        pre: October 25 - November 9, 2025 at Z Space's Steindler Stage (450 Florida
-          Street, San Francisco)
+        pre: October 25 - November 9, 2025 at Z Space (450 Florida Street, San
+          Francisco)
         subtitle: W﻿orld Premiere
         image: https://ucarecdn.com/44105a4f-ad7a-4f3b-ab35-f37b486f70fb/
-        text: |-
-          b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**\
-          a﻿ co-production with **Z Space**
-
+        text: >-
           P﻿erformances are **Wednesdays - Saturdays at 8pm; Sundays at 3pm**\
-          R﻿ead below for ticket pricing.
+
+          S﻿ee below for ticket pricing.
+
+
+          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/pilgrimage/)**
         cta: Buy Now
         link: https://ci.ovationtix.com/34231/production/1228668?&_ga=2.74197842.1305164440.1738099497-1617700776.1738099497
 ---
