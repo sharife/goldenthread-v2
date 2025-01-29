@@ -29,9 +29,6 @@ lists:
         subtitle: A﻿ New Threads Workshop Production
         image: https://ucarecdn.com/c91870f4-0047-4bd7-b4db-551f812174d7/
         text: >-
-          Performs **Saturday, June 7, 2025 at 7pm** and **Sunday, June 8, 2025
-          at 3pm** \
-
           T﻿ickets are $20.\
 
           \
@@ -45,8 +42,6 @@ lists:
         subtitle: W﻿orld Premiere
         image: https://ucarecdn.com/44105a4f-ad7a-4f3b-ab35-f37b486f70fb/
         text: >-
-          P﻿erformances are **Wednesdays - Saturdays at 8pm; Sundays at 3pm**\
-
           S﻿ee below for ticket pricing.
 
 
