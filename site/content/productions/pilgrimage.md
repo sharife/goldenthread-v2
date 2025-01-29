@@ -15,6 +15,8 @@ writer: ""
 additional: ""
 stage: Z Space (Steindler Stage)
 address: 450 Florida Street, San Francisco, CA
+ticketlink: https://ci.ovationtix.com/34231/production/1228668?&_ga=2.74197842.1305164440.1738099497-1617700776.1738099497
+ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
 cast:
   items:
     - name: Z Space
