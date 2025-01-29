@@ -5,7 +5,7 @@ season: 2025
 date: 2024-11-15T23:05:21.892Z
 start: 2025-03-08T19:00:00.000Z
 end: ""
-heading: "Healing and Resilience: A Guided Meditation with Ashira Darwich"
+heading: "Healing and Resilience: A Guided Meditation with Ashira Darwish"
 description: ""
 titleimage: https://ucarecdn.com/ddb69731-47b8-4004-96ef-ea39e7e0e593/
 stage: at 11am PST
