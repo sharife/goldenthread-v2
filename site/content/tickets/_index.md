@@ -42,7 +42,9 @@ lists:
         subtitle: W﻿orld Premiere
         image: https://ucarecdn.com/44105a4f-ad7a-4f3b-ab35-f37b486f70fb/
         text: >-
-          S﻿ee below for ticket pricing.
+          A﻿ll ticketing is handled by Z Space. For *Pilgrimage* pricing and
+          policies, please check out the Z Space ticketing page through the Buy
+          Now link. 
 
 
           **[→ F﻿ind out more about the show](https://goldenthread.org/productions/pilgrimage/)**
