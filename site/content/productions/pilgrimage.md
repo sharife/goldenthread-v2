@@ -6,8 +6,9 @@ date: 2024-11-15T22:57:02.688Z
 start: 2025-10-25T03:00:00.000Z
 end: 2025-11-10T04:00:00.000Z
 description: >-
-  **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+  b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**
 
+   A co-production with **Z Space**
 
   Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
 titleimage: https://ucarecdn.com/6bba66dc-b9b5-45f5-8d84-3b794148befa/
@@ -76,4 +77,4 @@ cast:
         2018). She teaches composition and creative writing for UC Berkeley's
         College Writing Programs."
 ---
- **A co-production with Z Space**
+*P﻿ilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
