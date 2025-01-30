@@ -3,8 +3,8 @@ title: Middle East Center Stage
 headline: Threads of Solidarity
 subtitle: ""
 background: https://ucarecdn.com/855efa86-aeca-4fcf-9bf5-54b54863c8a7/
-cta: Find out more about our upcoming 2025 Season
-link: https://goldenthread.org/season/upcoming/
+cta: Tickets for our 2025 Season are now on sale!
+link: https://goldenthread.org/season/
 items:
   - subtitle: "**Executive Artistic Director Sahar Assaf** **shares a personal message**"
     text: '"In those moments when I felt utterly drained by the atrocities we are
