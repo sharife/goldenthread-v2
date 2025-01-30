@@ -13,7 +13,7 @@ titleimage: https://ucarecdn.com/1f8b043d-204e-4c1d-8728-29b4861ae70d/
 writer: ""
 director: ""
 additional: ""
-stage: in partnership with Art2Action, Inc.
+stage: Dates and venue will be announced soon.
 cast:
   items:
     - name: Art2Action, Inc.
