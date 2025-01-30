@@ -50,6 +50,6 @@ cast:
 ---
 *The Return* was part of New Threads Staged Reading Series in 2024.
 
-*“…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.”* – John Stoltenberg, DC Theater Arts 
+“…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.” – John Stoltenberg, DC Theater Arts 
 
-*“The Return is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people.”* – South Seattle Emerald
+“The Return is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people.” – *South Seattle Emerald*
