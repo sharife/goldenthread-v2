@@ -41,13 +41,9 @@ lists:
           Francisco)
         subtitle: W﻿orld Premiere
         image: https://ucarecdn.com/44105a4f-ad7a-4f3b-ab35-f37b486f70fb/
-        text: >-
-          *Pilgrimage* is a co-production with Z Space. Tickets are sold through
-          Z Space, and the ticketing and accessibility details may differ from
-          what's listed below. Click "Buy Now" for more information.
-
-
-          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/pilgrimage/)**
+        text: "*Pilgrimage* is a co-production with Z Space. Tickets are sold through Z
+          Space, and the ticketing and accessibility details may differ from
+          what's listed below. Click \"Buy Now\" for more information."
         cta: Buy Now
         link: https://ci.ovationtix.com/34231/production/1228668?&_ga=2.74197842.1305164440.1738099497-1617700776.1738099497
 ---
