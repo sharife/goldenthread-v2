@@ -127,6 +127,11 @@ cast:
 
         Over the pandemic, Mezzocchi founded Virtual Design Collective (VIDCO), which has aided in the development of over 50 new digital works over the 18 months of quarantine. This year, he is finishing his book, *A Multimedia Designer’s Method to Theatrical Storytelling*, which will be published through Routledge. Mezzocchi has a BA in theater and film from Fairfield University, and an MFA in performance and interactive media arts from Brooklyn College.
       image: https://ucarecdn.com/6022c38c-4d30-4e21-8463-cca54eeb6b2c/-/crop/682x937/194,413/-/preview/
+photos:
+  items:
+    - image: https://ucarecdn.com/4abc1c92-11bc-4309-b15e-1e38999162d9/
+    - image: https://ucarecdn.com/523c0a08-f8f3-42a7-a2c1-9b52ac92938c/
+    - image: https://ucarecdn.com/494409df-e029-4947-8a4f-4ea9dd011ec3/
 ---
 The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Betsy Chester**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
 
