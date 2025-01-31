@@ -10,8 +10,8 @@ items:
       **W﻿hat Do the Women Say? 2025**\
       **C﻿elebrates International Women's Day**
     text: O﻿n March 8, join us for a guided meditation and Q&A session led by
-      **Ashira Darwish**, a Palestinian journalist, therapist, and activist
-      featured in the powerful film ***Where Olive Trees Weep**.* This year's
+      **Ashira Darwish**, t﻿he Palestinian journalist, therapist, and activist
+      featured in the powerful film **\*Where Olive Trees Weep**.* This year's
       celebration and the film are offered for **free** online to serve our
       global community.
     cta: Find out more and RSVP
