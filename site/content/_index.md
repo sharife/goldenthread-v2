@@ -9,12 +9,11 @@ items:
   - subtitle: |-
       **W﻿hat Do the Women Say? 2025**\
       **C﻿elebrates International Women's Day**
-    text: O﻿n March 8, 2025, join us for a guided meditation and Q&A session led by
+    text: O﻿n March 8, join us for a guided meditation and Q&A session led by
       **Ashira Darwish**, a Palestinian journalist, therapist, and activist
-      featured in the powerful film ***Where Olive Trees Weep***, which will be
-      available for on-demand viewing two weeks leading up to the event.This
-      year's celebration is offered for  FREE online to serve our global
-      community.
+      featured in the powerful film ***Where Olive Trees Weep**.* This year's
+      celebration and the film are offered for **free** online to serve our
+      global community.
     cta: Find out more and RSVP
     link: https://goldenthread.org/productions/what-do-the-women-say-2025/
     image: https://ucarecdn.com/1ec1cc4a-1f5c-4dfd-aece-0a2af5125be9/
