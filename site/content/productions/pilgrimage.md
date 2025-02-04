@@ -76,5 +76,15 @@ cast:
         (UC Irvine, 2011) and an MFA in creative writing (Spalding University,
         2018). She teaches composition and creative writing for UC Berkeley's
         College Writing Programs."
+mentions:
+  heading: "Z Space Access Notes:"
+  text: Z Space is a wheelchair accessible theater and has accessible seating for
+    all shows. Bathrooms are wheelchair accessible and are welcoming to all
+    genders. You will be given an opportunity to indicate access needs during
+    the ticket buying process. Assisted listening devices available upon
+    request. Currently there is no mask requirements for Z Space shows, unless
+    otherwise indicated for specific performances. If you have any other
+    questions or concerns, please contact our box office
+    at [boxoffice@zspace.org](mailto:boxoffice@zspace.org).
 ---
 *P﻿ilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
