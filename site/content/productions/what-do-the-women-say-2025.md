@@ -51,8 +51,13 @@ bottom:
   heading: ""
   logos:
     - image: https://ucarecdn.com/d165cf75-8d2c-411a-bf49-a6573ebf42ce/
-  text: "**[W﻿omenArts](https://www.womenarts.org/)** is dedicated to increasing
-    visibility and opportunities for diverse women artists in all art forms."
+    - image: https://ucarecdn.com/3be6691d-5e33-4231-a8bf-723f08f8cba2/
+  text: >-
+    **[W﻿omenArts](https://www.womenarts.org/)** is dedicated to increasing
+    visibility and opportunities for diverse women artists in all art forms.
+
+
+    **[Howlround](https://howlround.com/)** is a free platform that amplifies progressive, disruptive ideas and fosters connection.
 ---
 ![Where Olive Trees Weep Poster](https://ucarecdn.com/72aacbf6-01eb-4564-a47d-1a22cd75fe01/)
 
