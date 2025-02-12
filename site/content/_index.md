@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: What Do the Women Say? 2025
 subtitle: Healing and Resilience
 background: https://ucarecdn.com/d5182c13-a55c-4f33-8c66-2d4401ddb843/
-cta: Celebrate Women's Day on March 8!
+cta: Celebrate Women's Day With Us on March 8!
 link: https://goldenthread.org/productions/what-do-the-women-say-2025/
 items:
   - subtitle: |-
