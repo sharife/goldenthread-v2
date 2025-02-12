@@ -3,10 +3,12 @@ title: Middle East Center Stage
 headline: What Do the Women Say? 2025
 subtitle: Healing and Resilience
 background: https://ucarecdn.com/d5182c13-a55c-4f33-8c66-2d4401ddb843/
-cta: Celebrate International Women's Day With Us on March 8!
+cta: Celebrate Women's Day on March 8!
 link: https://goldenthread.org/productions/what-do-the-women-say-2025/
 items:
-  - subtitle: "**A﻿udition for Golden Thread's 2025 Season**"
+  - subtitle: |-
+      **A﻿udition for Golden Thread's** \
+      **2025 Season**
     text: G﻿eneral auditions are to be held on **Monday, February 17** -- with
       show-specific auditions for *The Return*, *Pilgrimage*, and *ORIENTAL*
       continuing the following week. We are excited to see actors of all
@@ -27,11 +29,11 @@ items:
   - subtitle: |-
       **A﻿ZAD (the rabbit and the wolf)** \
       **begins performances April 11**
-    text: Syrian-Armenian-American theatre and film artist **Sona Tatoyan**,
-      stranded in her family’s abandoned Aleppo home during the Syrian war,
-      discovers her great-great-grandfather’s handmade Karagöz shadow puppets,
-      salvaged from the Armenian Genocide. (A co-production with **Hakawati
-      NGO**)
+    text: I﻿n this co-production with **Hakawati NGO**, Syrian-Armenian-American
+      theatre and film artist **Sona Tatoyan**, stranded in her family’s
+      abandoned Aleppo home during the Syrian war, discovers her
+      great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from
+      the Armenian Genocide.
     image: https://ucarecdn.com/a773732b-7535-4cf0-88ec-b86b42369516/
     cta: Information and Tickets Here!
     link: https://goldenthread.org/productions/azad/
