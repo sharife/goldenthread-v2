@@ -17,7 +17,8 @@ description: >-
 
 
   Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and haunting tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.
-titleimage: https://ucarecdn.com/146a25c9-b364-42e9-9285-d41d9f721877/
+background: https://ucarecdn.com/9b77dbe9-518b-48c8-afb3-442df7458074/
+titleimage: ""
 writer: ""
 director: ""
 featuring: ""
