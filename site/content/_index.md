@@ -1,29 +1,19 @@
 ---
 title: Middle East Center Stage
-headline: Threads of Solidarity
-subtitle: ""
-background: https://ucarecdn.com/855efa86-aeca-4fcf-9bf5-54b54863c8a7/
-cta: Tickets for our 2025 Season are now on sale!
-link: https://goldenthread.org/season/
+headline: What Do the Women Say? 2025
+subtitle: Healing and Resilience
+background: https://ucarecdn.com/d5182c13-a55c-4f33-8c66-2d4401ddb843/
+cta: Celebrate International Women's Day With Us on March 8!
+link: https://goldenthread.org/productions/what-do-the-women-say-2025/
 items:
-  - subtitle: |-
-      **W﻿hat Do the Women Say? 2025**\
-      **C﻿elebrates International Women's Day**
-    text: O﻿n March 8, join us for a guided meditation and Q&A session led by
-      **Ashira Darwish**, t﻿he Palestinian journalist, therapist, and activist
-      featured in the powerful film ***Where Olive Trees Weep***. This year's
-      celebration and the film are offered for **free** online to serve our
-      global community.
-    cta: Find out more and RSVP
-    link: https://goldenthread.org/productions/what-do-the-women-say-2025/
-    image: https://ucarecdn.com/1ec1cc4a-1f5c-4dfd-aece-0a2af5125be9/
-  - subtitle: "**Executive Artistic Director Sahar Assaf** **shares a personal message**"
-    text: '"In those moments when I felt utterly drained by the atrocities we are
-      witnessing, it was **YOU**, our brilliant community, that gave me the
-      strength to get back up and continue the meaningful work we are doing."'
-    image: https://ucarecdn.com/bc5965e9-0a93-48e2-8be1-e21abcf3d780/
-    cta: Read the full letter
-    link: https://goldenthread.org/posts/new-year-renewed-commitment/
+  - subtitle: "**A﻿udition for Golden Thread's 2025 Season**"
+    text: G﻿eneral auditions are to be held on **Monday, February 17** -- with
+      show-specific auditions for *The Return*, *Pilgrimage*, and *ORIENTAL*
+      continuing the following week. We are excited to see actors of all
+      backgrounds and experience levels.
+    image: https://ucarecdn.com/21a42de1-1003-4b12-bb99-5e4ad3a1236e/
+    cta: Sign Up Now!
+    link: https://goldenthread.org/get-involved/casting/
   - subtitle: |-
       **R﻿eOrient Festival is back in 2026!**\
       **S﻿ubmit your short play now.**
@@ -34,4 +24,15 @@ items:
     link: https://goldenthread.org/get-involved/submissions/
     cta: Find out more!
     image: https://ucarecdn.com/5f24a635-8585-4414-bdc6-18cfffcf85f1/
+  - subtitle: |-
+      **A﻿ZAD (the rabbit and the wolf)** \
+      **begins performances April 11**
+    text: Syrian-Armenian-American theatre and film artist **Sona Tatoyan**,
+      stranded in her family’s abandoned Aleppo home during the Syrian war,
+      discovers her great-great-grandfather’s handmade Karagöz shadow puppets,
+      salvaged from the Armenian Genocide. (A co-production with **Hakawati
+      NGO**)
+    image: https://ucarecdn.com/a773732b-7535-4cf0-88ec-b86b42369516/
+    cta: Information and Tickets Here!
+    link: https://goldenthread.org/productions/azad/
 ---
