@@ -1,60 +1,44 @@
 ---
-title: "Support Our 2025 Season: Threads of Solidarity"
+title: Support the world premiere of AZAD (the rabbit and the wolf)
 sidebar:
-  heading: Meet our Board Match Up to $11,000
-  text: >-
-    G﻿olden Thread's dedicated Board of Directors have come together to uplift
-    our essential work. Meet our Board Match: All donations through next week
-    will be matched 100% up to $11,000.
-
-
-    **Your generous support is vital to our work.** 
-
-
-    **[Make your gift today.](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+  heading: ""
+  text: ""
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
 ![](/img/archive/2015/03/20thAnniversary-Line-1024x36.jpg)
 
-#### Thanks to you, Golden Thread’s 2024 Season for Palestine uplifted, honored and celebrated the talent, creativity, strength, and resilience of the Palestinian people in a rare and relevant collection of work that deeply impacted and profoundly resonated with our community.
+#### **Golden Thread Productions and Hakawati NGO bring a tantalizing intergenerational Armenian odyssey from Aleppo to the Bay Area!**
 
-![](https://ucarecdn.com/3197c3ec-b755-4319-b0fd-015f0a6b42ff/)
+![](https://ucarecdn.com/86387474-8a1a-43b2-86d7-656429e0d7ae/)
 
-### **<center>**Rare & Relevant Narratives**<center>**
+A good story, well told, has the power to move, inspire, challenge and even transform us. In times of war, displacement, and erasure especially, we need stories that can help us cope. Syrian-Armenian-American theatre and film artist Sona Tatoyan’s multimedia play, AZAD (the rabbit and the wolf), is one of those potent, spellbinding stories.
 
-From seminal works to historical accounts to personal narratives, our 2024 season was full of stories about the enduring impact of political conflict and the steadfastness of the Palestinian people. Theatres in the U.S. rarely produce Palestinian plays and none to our knowledge has ever produced an entire season dedicated to them. Though the ongoing genocide, rooted in over 75 years of systemic oppression and violence against Palestinians, is sanctioned by the US administration, we are among the few theatres who have used our platform to counteract the negative and dehumanizing Palestinian narratives dominating U.S. culture and media.
+Imagine 120-year-old shadow puppets, indigenous Middle Eastern folk music, oral storytelling, and contemporary video projection all in one breathtaking production!! AZAD is an epic story, featuring high-caliber artists and masters of craft, many of whom identify as immigrants and refugees. This innovative performance takes us on an alchemizing journey of healing and reclamation, guided by a collection of 180 Karagöz shadow puppets once used by Sona’s great-great grandfather Abkar Knadjian in the late 19th and early 20th centuries. Abkar, a survivor of the Armenian Genocide, was forced to leave his home, but managed to salvage both his family and his art.
 
-Our West Coast premiere production of *Returning to Haifa* by Ghassan Kanafani, adapted for the stage by Naomi Wallace and Ismail Khalidi, brought one of the most important works in contemporary Palestinian literature to a totally sold-out audience at Potrero Stage. Additionally, our *New Threads* reading series featured the work of international Palestinian playwrights, including Raeda Taha’s *Where Can I Find Someone Like You, Ali?* and Hanna Eady and Edward Mast’s *The Return*.
+![](https://ucarecdn.com/48cdd772-ab65-4cea-bdcf-91d10eca4ff4/)
 
-We closed the season with a workshop production of Adam Ashraf Elsayigh’s new play *ALAA: A Family Trilogy*, commissioned by Golden Thread with generative dramaturgy by Salma S. Zohdi. Though not specifically a Palestinian story, the play is inspired by the life of Alaa Abd el-Fattah, arguably the most high-profile political prisoner in Egypt, and offers a timely and related examination of revolutionary resilience.
+“I never knew Abkar physically,” Sona says, “but through his puppets I was able to reframe my legacy and my understanding of the lands of my roots–as a place of intertwined magic and story, wisdom and healing, alongside layers of trauma.”
 
-![](https://ucarecdn.com/52c72119-cef5-463e-bb94-6a2ea6107b71/)
+Like Sona’s family, these puppets have endured exile and destruction for generations. Now, they serve as vessels for stories that transcend trauma, sharing tales of humor, wisdom, and resilience. Coinciding with the annual commemoration of the Armenian Genocide, AZAD is more than a performance, it is a call to remember, reclaim, and reimagine history.
 
-### **<center>**Unique and Ambitious Art in Community**<center>**
+We are seeking donations of any size to support $30K of our production costs. Every donation helps bring this powerful, intergenerational, psychedelic, immersive, kaleidoscopic, 1001 Nights-inspired production to its world premiere!
 
-Our annual Women’s Day event celebrated the joy and richness of Palestinian traditions and culture in a completely sold-out evening at the Brava Theater. *What Do the Women Say?: Expressions of Joy*, gathered over 20 Palestinian women artists across disciplines and borders, both in person and online, for International Women’s Day.
+![](https://ucarecdn.com/38762bee-5640-462c-a50f-d3afec035a07/)
 
-We pushed beyond the limits of convention to present *24 Hours for Palestine: A Moon Will Rise from Darkness*. This 24-hour livestreamed event featured teach-ins, discussions, panels, music, poetry, and more from over a hundred activists and artists, reaching 1,700 viewers in 54 countries. 
+Golden Thread Productions presents\
+World Premiere\
+**AZAD (the rabbit and the wolf)**
+by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
+directed by Jared Mezzocchi\
+featuring Sona Tatoyan, a tribe of Karagöz Puppets, and oud player **Ara Dinkjian**
 
-*11 Reflections: San Francisco*, devised and directed by Andrea Assaf, featured renowned Syrian opera singer Lubana Al Quntar, Turkish violinist Eylem Basaldi and a diverse ensemble of theater artists, community members, and musicians. This reflection on living in a post-9/11 world, connected all the way to the funding of genocide in Palestine, was presented in two episodic, multimedia performances.
+a﻿ co-production with **Hakawati NGO**\
+April 11, 2025 - May 3, 2025\
+Potrero Stage - 1695 18th Street, San Francisco, CA
 
-![](https://ucarecdn.com/6ee2fedd-5d48-4483-b06b-18268ffc1f7b/)
+Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and haunting tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.
 
-### **<center>**Solidarity through Partnership**<center>**
-
-Over 22 organizations helped us produce, promote, present, and host this year’s programs. We teamed up with the Arab Resource & Organizing Center (AROC), Middle East Children’s Alliance, Jewish Voice for Peace, Norcal Sabeel, the Palestinian Youth Movement, and Rainbow Grocery, who supported our production of Returning to Haifa with outreach and post-show talkbacks. Our *No Summary* digital conversation series featured Ashtar Theater of Ramallah, Al-Harah Theatre of Beit Jala, and El Hakawati Theatre of Jerusalem. We partnered with Brava Theater and Art2Action in collaboration with Aviva Arts and Red Poppy Art House to produce *11Reflections: San Francisco*, with Brava and WomenArts for our Women’s Day event, and with Z Space for our workshop production of *ALAA: A Family Trilogy*. Our 24 Hour Marathon for Palestine, hosted by HowlRound Theatre Commons, was co-produced with Art2Action in partnership with the MENA Theatre-Makers Alliance (MENATMA), Ashtar Theatre, The Freedom Theatre, Zoukak Theatre Company, Noor Theatre, Donkeysaddle Projects, and Dunya Productions.
-
-![](https://ucarecdn.com/bd95bbbd-35d0-40a4-884d-2078aff4b56d/)
-
-### **<center>**An Engaged and Growing Community**<center>**
-
-Countless individuals supported the 2024 season including a 10-member Community Council made up of Palestinian, Jewish, Arab, MENA and other community members who acted as ambassadors, connecting us across multiple audiences. Evren Odcikin returned this year as our 2024-25 Artist in Residence. We also brought on a new Managing Director, Wynne Chan, and a new Artistic Producer, Salim Razawi. Mona Masri who recently joined our board, also led this year’s fundraising campaign for Returning of Haifa, along with Jumana Muwafi and Hassan Fouda.
-
-![](https://ucarecdn.com/40b2665a-e433-4947-8ee9-edfbcf2af756/)
-
-# **<center>**2025 Season: Threads of Solidarity**<center>**
-
-#### Our new season aims to illuminate the interconnectedness of our struggles, amplifying Palestinian, Armenian, and Afghan stories. Through a diverse collection of personal and historical narratives, this season, we honor the strength of those who have endured, who are still fighting, and the voices that refuse to be silenced. Featuring bold world-premiere works by women-identifying artists and fostering both local and national collaborations, we ask you to join us in a new season of community and solidarity.
+[More Information and Tickets](https://goldenthread.org/productions/azad/)
 
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
