@@ -2,7 +2,10 @@
 title: Support the world premiere of AZAD (the rabbit and the wolf)
 sidebar:
   heading: ""
-  text: ""
+  text: We are seeking donations of any size to support $30K of our production
+    costs. Every donation helps bring this powerful, intergenerational,
+    psychedelic, immersive, kaleidoscopic, 1001 Nights-inspired production to
+    its world premiere!
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
@@ -22,18 +25,17 @@ Imagine 120-year-old shadow puppets, indigenous Middle Eastern folk music, oral 
 
 Like Sona’s family, these puppets have endured exile and destruction for generations. Now, they serve as vessels for stories that transcend trauma, sharing tales of humor, wisdom, and resilience. Coinciding with the annual commemoration of the Armenian Genocide, AZAD is more than a performance, it is a call to remember, reclaim, and reimagine history.
 
-We are seeking donations of any size to support $30K of our production costs. Every donation helps bring this powerful, intergenerational, psychedelic, immersive, kaleidoscopic, 1001 Nights-inspired production to its world premiere!
-
-![](https://ucarecdn.com/38762bee-5640-462c-a50f-d3afec035a07/)
+![](https://ucarecdn.com/7d6e20f4-becf-4fd1-bc9a-ab791ade4e25/)
 
 Golden Thread Productions presents\
+a﻿ co-production with **Hakawati NGO**\
 World Premiere\
+\
 **AZAD (the rabbit and the wolf)**
 by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**\
 directed by Jared Mezzocchi\
 featuring Sona Tatoyan, a tribe of Karagöz Puppets, and oud player **Ara Dinkjian**
 
-a﻿ co-production with **Hakawati NGO**\
 April 11, 2025 - May 3, 2025\
 Potrero Stage - 1695 18th Street, San Francisco, CA
 
