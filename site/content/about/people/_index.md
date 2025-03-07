@@ -46,7 +46,8 @@ staff:
       link: ""
     - name: Salim Razawi
       credit: Artistic Producer
-      bio: "**Salim Razawi** *(he/him)* is an Afghan-American theatre maker who is
+      bio: >-
+        **Salim Razawi** *(he/him)* is an Afghan-American theatre maker who is
         thrilled to be back at Golden Thread in this new capacity. He is a
         director, casting consultant, and theatre artist working widely through
         the Bay Area. His directing credits include *Once on This Island*
@@ -59,7 +60,10 @@ staff:
         artist for theatre companies including American Conservatory Theatre and
         Berkeley Repertory Theatre. He also co-founded TEAM Theatre, a youth
         theatre company serving the
-        tri-valley. [salimrazawi.com](http://salimrazawi.com/)"
+        tri-valley. [salimrazawi.com](http://salimrazawi.com/)
+
+
+        salim@goldenthread.org
       image: https://ucarecdn.com/f674f69f-4221-4193-b55a-0fc3143ffe2a/
     - name: Wendy Reyes
       credit: Production Associate
