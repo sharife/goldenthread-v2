@@ -17,6 +17,9 @@ description: >-
 
 
   Syrian-Armenian-American theatre and film artist Sona Tatoyan, stranded in her family’s abandoned Aleppo home during the Syrian war, discovers her great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from the Armenian Genocide. Guided by the storyteller Scherazad, the puppets unveil bawdy, hilarious, and haunting tales that transport Sona through an intergenerational, psychedelic journey, alchemizing a radiant truth: stories, when reimagined, possess the power to transmute trauma to healing.
+
+
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/810982826?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AZAD Trailer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 background: https://ucarecdn.com/9b77dbe9-518b-48c8-afb3-442df7458074/
 titleimage: ""
 videos: []
@@ -135,8 +138,6 @@ photos:
     - image: https://ucarecdn.com/523c0a08-f8f3-42a7-a2c1-9b52ac92938c/
     - image: https://ucarecdn.com/494409df-e029-4947-8a4f-4ea9dd011ec3/
 ---
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/810982826?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="AZAD Trailer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Betsy Chester**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
 
 Golden Thread and Hakawati would like to thank producers **Bill Pullman** and **Noubar and Anna Afeyan** for their ongoing support and championing of this project.
