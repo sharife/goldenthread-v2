@@ -1,21 +1,20 @@
 ---
 title: Middle East Center Stage
-headline: What Do the Women Say? 2025
-subtitle: Healing and Resilience
-background: https://ucarecdn.com/d5182c13-a55c-4f33-8c66-2d4401ddb843/
-cta: Celebrate Women's Day With Us on March 8!
-link: https://goldenthread.org/productions/what-do-the-women-say-2025/
+headline: AZAD (the rabbit and the wolf)
+subtitle: by Sona Tatoyan in collaboration with Jared Mezzocchi
+background: https://ucarecdn.com/6d10a257-b8e7-4b16-a993-45497b62dfb8/
+cta: Performances for the world premiere begin April 11!
+link: https://goldenthread.org/productions/azad/
 items:
   - subtitle: |-
-      **A﻿udition for Golden Thread's** \
-      **2025 Season**
-    text: G﻿eneral auditions are to be held on **Monday, February 17** -- with
-      show-specific auditions for *The Return*, *Pilgrimage*, and *ORIENTAL*
-      continuing the following week. We are excited to see actors of all
-      backgrounds and experience levels.
-    image: https://ucarecdn.com/21a42de1-1003-4b12-bb99-5e4ad3a1236e/
-    cta: Sign Up Now!
-    link: https://goldenthread.org/get-involved/casting/
+      **W﻿atch *What Do the Women Say?***\
+      **On-Demand on HowlRound**
+    text: W﻿e celebrated International Women's Day on March 8, 2025 with a guided
+      meditation and question and answer session led by Ashira Darwish, a
+      Palestinian journalist, therapist, and activist.
+    cta: Watch the event now!
+    link: https://howlround.com/happenings/what-do-women-say-2025
+    image: https://ucarecdn.com/829aaa4e-cc5d-4ee4-bd9c-44acbb86bffa/
   - subtitle: |-
       **R﻿eOrient Festival is back in 2026!**\
       **S﻿ubmit your short play now.**
@@ -27,14 +26,13 @@ items:
     cta: Find out more!
     image: https://ucarecdn.com/5f24a635-8585-4414-bdc6-18cfffcf85f1/
   - subtitle: |-
-      **A﻿ZAD (the rabbit and the wolf)** \
-      **begins performances April 11**
-    text: I﻿n this co-production with **Hakawati NGO**, Syrian-Armenian-American
-      theatre and film artist **Sona Tatoyan**, stranded in her family’s
-      abandoned Aleppo home during the Syrian war, discovers her
-      great-great-grandfather’s handmade Karagöz shadow puppets, salvaged from
-      the Armenian Genocide.
-    image: https://ucarecdn.com/a773732b-7535-4cf0-88ec-b86b42369516/
-    cta: Information and Tickets Here!
-    link: https://goldenthread.org/productions/azad/
+      **V﻿olunteer to usher**\
+      **a﻿nd see AZAD for free!**
+    link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-55553643-azad#/
+    cta: Sign up now!
+    text: U﻿shers help with event door monitoring, seating assistance, and general
+      support including post show audience survey distribution. *AZAD (the
+      rabbit and the wolf)* runs April 11-May 3, and we're seeking volunteers
+      for all performances.
+    image: https://ucarecdn.com/be4123dc-c2fa-4e74-b1b1-80a964d6c5d0/
 ---
