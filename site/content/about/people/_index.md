@@ -5,7 +5,7 @@ staff:
   items:
     - name: Sahar Assaf
       credit: Executive Artistic Director
-      image: https://ucarecdn.com/c0b5b2be-eba4-4b13-9c83-4e343156e669/-/crop/866x872/101,93/-/preview/
+      image: https://ucarecdn.com/fc27360e-59a8-4efc-a8f3-70b64f8a9052/
       bio: >-
         **Sahar Assaf** *(she/her)* is a Lebanese theatremaker and professor.
         She has been active in the Lebanese theatre scene since 2003 as an
