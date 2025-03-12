@@ -2,8 +2,8 @@
 title: The Return
 season: 2025
 date: 2024-11-15T22:42:13.755Z
-start: ""
-end: ""
+start: 2025-08-08T03:00:00.000Z
+end: 2025-08-24T22:00:00.000Z
 description: >-
   b﻿y **Hanna Eady** and **Edward Mast**
 
@@ -16,7 +16,8 @@ titleimage: https://ucarecdn.com/1f8b043d-204e-4c1d-8728-29b4861ae70d/
 writer: ""
 director: ""
 additional: ""
-stage: Dates and venue will be announced soon.
+stage: The Garret, on the fifth floor of the A.C.T.'s Toni Rembe Theater
+address: 415 Geary Street, San Francisco, CA
 cast:
   items:
     - name: Art2Action, Inc.
