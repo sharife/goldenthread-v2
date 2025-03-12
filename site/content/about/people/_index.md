@@ -914,38 +914,47 @@ advisors:
         Associate Professor, Near Eastern Studies, University of Michigan
       name: Samer Ali
       link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
+      image: https://ucarecdn.com/56041a60-68b3-44da-a70d-bea7b46fd3c2/
     - credit: Assistant Professor of Theater and Performance Studies, Stanford
         University
       name: Samer Al-Saber
       link: https://ccsre.stanford.edu/people/samer-al-saber
+      image: https://ucarecdn.com/f50b85c8-ebba-4e4e-b925-30be00fe0fad/
     - credit: Distinguished Professor, Theatre, Comparative Literature, and Middle
         Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
       link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Theatre-and-Performance/Faculty-Bios/Marvin-Carlson
+      image: https://ucarecdn.com/4146d1d4-64fa-4023-a15c-6bf428f320f5/
     - credit: Arts Professor, NYU Tisch School of Drama, Experimental Theatre Wing
       name: Catherine Coray
       link: https://tisch.nyu.edu/about/directory/drama/94426744
+      image: https://ucarecdn.com/2f2dc3e8-240a-4d4e-9905-b987d4179e1f/
     - credit: Professor, Iranian Studies and Comparative Literature, Columbia
         University
       name: Hamid Dabashi
       link: https://mesaas.columbia.edu/faculty-directory/hamid-dabashi/
+      image: https://ucarecdn.com/d497e7f7-5f5e-42e9-8f29-0e79e737af12/
     - credit: Co-Founder, Theatre Without Borders, and Senior Program Associate,
         Sundance Institute Middle East North Africa Theatre Program
       name: Roberta Levitow
       link: https://www.robertalevitow.com/
+      image: https://ucarecdn.com/f2acfde1-7ac8-4360-bbee-269a5cdce8af/
     - credit: Professor, Art & Public Policy and Middle Eastern & Islamic Studies, NYU
         Tisch School of the Arts
       name: Ella Shohat
       link: https://tisch.nyu.edu/about/directory/app/1295710755
+      image: https://ucarecdn.com/62bd1022-3deb-4ae4-b423-50cb2ab96b60/
     - credit: Founding Faculty, Performing Arts and Social Justice Program, University
         of San Francisco
       name: Roberto Gutiérrez Varea
       link: https://www.usfca.edu/faculty/roberto-gutierrez-varea
+      image: https://ucarecdn.com/97fc3086-046e-4ae6-ade5-706b5094414e/
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
       link: https://www.naomiwallace.com/
+      image: https://ucarecdn.com/14ea4d94-45d6-4f9e-8b1e-9e044b9f0bf0/
     - name: Heather Rastovac Akbarzadeh, Ph.D.
-      image: ""
+      image: https://ucarecdn.com/d09813a5-841a-4c57-9077-d3ced0ff44e9/
       bio: "**Heather Rastovac Akbarzadeh** is an interdisciplinary scholar-artist and
         assistant professor in critical dance studies at the University of
         California, Riverside. Building upon two decades as a dance-maker,
