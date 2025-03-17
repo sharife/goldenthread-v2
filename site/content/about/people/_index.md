@@ -4,7 +4,7 @@ staff:
   heading: Staff
   items:
     - name: Sahar Assaf
-      credit: Executive Artistic Director
+      credit: Artistic Director
       image: https://ucarecdn.com/fc27360e-59a8-4efc-a8f3-70b64f8a9052/
       bio: >-
         **Sahar Assaf** *(she/her)* is a Lebanese theatremaker and professor.
