@@ -137,6 +137,14 @@ photos:
     - image: https://ucarecdn.com/4abc1c92-11bc-4309-b15e-1e38999162d9/
     - image: https://ucarecdn.com/523c0a08-f8f3-42a7-a2c1-9b52ac92938c/
     - image: https://ucarecdn.com/494409df-e029-4947-8a4f-4ea9dd011ec3/
+  heading: Production Photos
+photos2:
+  heading: Publicity Photos
+  items:
+    - image: https://ucarecdn.com/c9243d19-0533-459b-a485-ded715617c26/
+    - image: https://ucarecdn.com/ac2ccc3c-412c-463e-9ce9-c57bd7b0098c/
+    - image: https://ucarecdn.com/bd9366f0-ddf8-49b6-9d68-cb12ce75bd4e/
+    - image: https://ucarecdn.com/12a205f3-baf0-4aaf-b141-0a0f1531fb71/
 ---
 The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Betsy Chester**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
 
