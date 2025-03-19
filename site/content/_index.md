@@ -7,15 +7,6 @@ cta: Performances for the world premiere begin April 11!
 link: https://goldenthread.org/productions/azad/
 items:
   - subtitle: |-
-      **W﻿atch *What Do the Women Say?***\
-      **On-Demand on HowlRound**
-    text: W﻿e celebrated International Women's Day on March 8, 2025 with a guided
-      meditation and question and answer session led by Ashira Darwish, a
-      Palestinian journalist, therapist, and activist.
-    cta: Watch the event now!
-    link: https://howlround.com/happenings/what-do-women-say-2025
-    image: https://ucarecdn.com/829aaa4e-cc5d-4ee4-bd9c-44acbb86bffa/
-  - subtitle: |-
       **R﻿eOrient Festival is back in 2026!**\
       **S﻿ubmit your short play now.**
     text: PLAYWRIGHTS! We're now accepting submissions for the 2026 ReOrient
@@ -35,4 +26,15 @@ items:
       rabbit and the wolf)* runs April 11-May 3, and we're seeking volunteers
       for all performances.
     image: https://ucarecdn.com/be4123dc-c2fa-4e74-b1b1-80a964d6c5d0/
+  - subtitle: |-
+      **A﻿ Joint Statement to Support**\
+      **ACLU's Lawsuit Against the NEA**
+    link: https://www.zspace.org/joint-aclu-statement
+    cta: Read the full statement on Z Space's website
+    text: G﻿olden Thread and many of our Bay Area theater colleagues stand together
+      to defend the First Amendment and our Trans communities. We support ACLU's
+      lawsuit against the National Endowment for the Arts that challenges new
+      guidelines that eliminate funding for projects that the federal government
+      believes "promote gender ideology."
+    image: https://ucarecdn.com/77f6a99e-e3a6-4482-aa44-1195732e8fc0/
 ---
