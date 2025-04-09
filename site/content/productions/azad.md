@@ -31,6 +31,22 @@ stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
 ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
+lists:
+  - heading: Special Events
+    items:
+      - pre: Armenian Rememberance Day
+        itemend: 2025-04-09T21:26:14.518Z
+        text: Join us for a special conversation event with Sona Tatoyan and Golden
+          Thread founder and celebrated playwright Torange Yeghiazarian. Dive
+          deeper into the creative process, themes, and inspirations behind AZAD
+          (the rabbit and the wolf). Immediately following the matinee
+          performance on Sunday, April 20.
+        itemstart: 2025-04-09T21:26:14.505Z
+        cta: RSVP Now
+        subtitle: S﻿unday, April 20 at 7pm
+        title: Sona Tatoyan In Conversation With Torange Yeghiazarian
+        link: https://forms.gle/KQRvENdvz8AsQD8w6
+        image: https://ucarecdn.com/6da883f3-eb4e-4e20-a7a0-685c7829fcb4/
 cast:
   items:
     - name: Hakawati
@@ -134,7 +150,22 @@ cast:
       image: https://ucarecdn.com/6022c38c-4d30-4e21-8463-cca54eeb6b2c/-/crop/682x937/194,413/-/preview/
   heading: Artist Biographies
 mentions:
-  heading: Special Events
+  heading: ""
+  text: ""
+photos:
+  items:
+    - image: https://ucarecdn.com/4abc1c92-11bc-4309-b15e-1e38999162d9/
+    - image: https://ucarecdn.com/523c0a08-f8f3-42a7-a2c1-9b52ac92938c/
+    - image: https://ucarecdn.com/494409df-e029-4947-8a4f-4ea9dd011ec3/
+  heading: Production Photos
+photos2:
+  heading: Publicity Photos
+  items:
+    - image: https://ucarecdn.com/c9243d19-0533-459b-a485-ded715617c26/
+    - image: https://ucarecdn.com/ac2ccc3c-412c-463e-9ce9-c57bd7b0098c/
+    - image: https://ucarecdn.com/bd9366f0-ddf8-49b6-9d68-cb12ce75bd4e/
+    - image: https://ucarecdn.com/12a205f3-baf0-4aaf-b141-0a0f1531fb71/
+bottom:
   text: >-
     Sona Tatoyan In Conversation With Torange Yeghiazarian
 
@@ -143,8 +174,6 @@ mentions:
 
 
     Join us for a special conversation event with Sona Tatoyan and Golden Thread founder and celebrated playwright Torange Yeghiazarian. Dive deeper into the creative process, themes, and inspirations behind AZAD (the rabbit and the wolf). Immediately following the matinee performance on Sunday, April 20.
-
-
 
 
     Armenian Genocide Remembrance Day 
@@ -166,8 +195,6 @@ mentions:
 
 
     Isaac Sabu is a refugee from Iran who found refuge in music to self-soothe and inspire his journey. With over 20 years building IMAX theaters and automation systems, he’s a sound engineer, inventor, and music producer with a passion for innovation. As the founder of Biotune, Isaac pioneers advanced frequency technology for wellness. Driven to share the healing modalities that empowered him, he launched Spirit Journeys, which has hosted over 60 events and festivals, including 1001 Nights Experience, crafting experiences that forge connections between communities and reconnecting us to our indigenous cultures. Isaac is also a sound & psychedelic coach, helping address mental health challenges. He is the Immersive designer for Azad (the Rabbit and the wolf), and the producer & production manager of Azad Storytelling. His mission is healing and sharing unspoken tales through the power of sound.  
-
-
 
 
     Post-Show Panel: Healing Through Storytelling and Dialogue
@@ -197,14 +224,10 @@ mentions:
     Ojig Yeretsian is trained mindful self-compassion (MSC) teacher and has led MSC classes virtually through the pandemic. She has been leading mindfulness-based practices, creativity workshops, and dialogue groups, for over two decades. Ojig received her Master’s in Public Health from UC Berkeley and works to create healthier communities at the County level. She is also interested in building healthier inner landscapes by growing our resilience, practicing kindness and connecting to the resources within each of us.
 
 
-
-
     Burcu Tung 
 
 
     waiting for bio..
-
-
 
 
     Story Circle with Aviva Arts
@@ -225,19 +248,6 @@ mentions:
 
 
     Ensemble Facilitator/Performer Debórah Eliezer (she/her) is a mixed-identity Arab Jewish artist, activist, coach, and California fire survivor. Passionate about the power of human transformation, her work focuses on using ensemble skills to disrupt assumptions about art, human values and society. She is the Artistic Director of [Aviva Arts](https://www.avivaarts.org/), an Associate Artist with Golden Thread and proudly serves on the inaugural MENA Theatermakers Alliance board. Eliezer has devised numerous world premieres and toured internationally. Recent work includes Aviva Arts’ interdisciplinary world premiere Burning Wild, created by Debórah Eliezer about the CA wildfires, The Tutor by Torange Yeghiazarian directed by Sahar Assaf at NCTC and touring her original play, (dis)Place\[d], about Iraqi Jews. As the former foolsFURY Artistic Director, she produced the FURY Factory Festival of Ensemble Theater  and BUILD digital ensemble theater convening.  Eliezer holds a B.A. Cum Laude in Drama Cum Laude from SFSU, and is a certified Sound, Voice Music Healing practitioner from CIIS and Kaula Tantra Yoga instructor. She works internationally and maintains a private practice and studio in Central Portugal.
-photos:
-  items:
-    - image: https://ucarecdn.com/4abc1c92-11bc-4309-b15e-1e38999162d9/
-    - image: https://ucarecdn.com/523c0a08-f8f3-42a7-a2c1-9b52ac92938c/
-    - image: https://ucarecdn.com/494409df-e029-4947-8a4f-4ea9dd011ec3/
-  heading: Production Photos
-photos2:
-  heading: Publicity Photos
-  items:
-    - image: https://ucarecdn.com/c9243d19-0533-459b-a485-ded715617c26/
-    - image: https://ucarecdn.com/ac2ccc3c-412c-463e-9ce9-c57bd7b0098c/
-    - image: https://ucarecdn.com/bd9366f0-ddf8-49b6-9d68-cb12ce75bd4e/
-    - image: https://ucarecdn.com/12a205f3-baf0-4aaf-b141-0a0f1531fb71/
 ---
 The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Betsy Chester**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
 
