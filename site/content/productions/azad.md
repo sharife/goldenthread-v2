@@ -34,7 +34,7 @@ ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
 lists:
   - heading: Special Events
     items:
-      - pre: Armenian Rememberance Day
+      - pre: ""
         itemend: 2025-04-09T21:26:14.518Z
         text: Join us for a special conversation event with Sona Tatoyan and Golden
           Thread founder and celebrated playwright Torange Yeghiazarian. Dive
@@ -42,11 +42,31 @@ lists:
           (the rabbit and the wolf). Immediately following the matinee
           performance on Sunday, April 20.
         itemstart: 2025-04-09T21:26:14.505Z
-        cta: RSVP Now
-        subtitle: S﻿unday, April 20 at 7pm
+        cta: ""
+        subtitle: Sunday, April 20, 2025 at 4:30pm
         title: Sona Tatoyan In Conversation With Torange Yeghiazarian
-        link: https://forms.gle/KQRvENdvz8AsQD8w6
+        link: ""
         image: https://ucarecdn.com/6da883f3-eb4e-4e20-a7a0-685c7829fcb4/
+      - pre: "Armenian Genocide Remembrance Day "
+        itemend: 2025-04-09T21:33:10.925Z
+        text: Guided by Isaac Sabu, founder of the Biotune therapeutic music protocol (a
+          fusion of soundscapes, neuro-frequencies, and live duduk), and
+          accompanied by Ara Dinkjian, join AZAD audiences in an immersive
+          experience, creating space for reflection and transformation. This
+          special opportunity to mark Armenian Genocide Remembrance Day provides
+          an opportunity for audiences to alchemize their stories into something
+          meaningful, witnessed, and transformative. Includes a 20-minute
+          facilitated sharing circle, open dialogue, and option to contribute
+          anonymous reflections to a communal wall. This event is free, but
+          registration is required! [](https://forms.gle/GQQnGFR3eHddBhnZ6)
+        itemstart: 2025-04-09T21:33:10.910Z
+        cta: RSVP HERE
+        subtitle: |-
+          Thursday, April 24, 2025  at 9:45pm\
+          Friday, April 25, 2025 at 9:45pm
+        title: "Songs of the Unspoken: A Sound Journey of Remembrance"
+        link: https://forms.gle/GQQnGFR3eHddBhnZ6
+        image: https://ucarecdn.com/9253c2ee-b467-4310-b01d-07b16d6135d9/
 cast:
   items:
     - name: Hakawati
