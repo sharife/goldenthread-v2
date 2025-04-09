@@ -36,17 +36,17 @@ lists:
     items:
       - pre: ""
         itemend: 2025-04-09T21:26:14.518Z
-        text: Join us for a special conversation event with Sona Tatoyan and Golden
-          Thread founder and celebrated playwright Torange Yeghiazarian. Dive
-          deeper into the creative process, themes, and inspirations behind AZAD
-          (the rabbit and the wolf). Immediately following the matinee
+        text: Join us for a special conversation event with **Sona Tatoyan** and Golden
+          Thread founder and celebrated playwright **Torange Yeghiazarian**.
+          Dive deeper into the creative process, themes, and inspirations behind
+          *AZAD (the rabbit and the wolf)*. Immediately following the matinee
           performance on Sunday, April 20.
         itemstart: 2025-04-09T21:26:14.505Z
         cta: ""
         subtitle: Sunday, April 20, 2025 at 4:30pm
         title: Sona Tatoyan In Conversation With Torange Yeghiazarian
         link: ""
-        image: https://ucarecdn.com/6da883f3-eb4e-4e20-a7a0-685c7829fcb4/
+        image: https://ucarecdn.com/23418a7d-26ca-4282-8917-9c19b20e8af8/
       - pre: "Armenian Genocide Remembrance Day "
         itemend: 2025-04-09T21:33:10.925Z
         text: Guided by Isaac Sabu, founder of the Biotune therapeutic music protocol (a
@@ -66,7 +66,7 @@ lists:
           Friday, April 25, 2025 at 9:45pm
         title: "Songs of the Unspoken: A Sound Journey of Remembrance"
         link: https://forms.gle/GQQnGFR3eHddBhnZ6
-        image: https://ucarecdn.com/9253c2ee-b467-4310-b01d-07b16d6135d9/
+        image: https://ucarecdn.com/dbd2c4a1-1394-4fdf-9d84-ba97e1efede7/
       - itemstart: 2025-04-09T21:36:24.813Z
         itemend: 2025-04-09T21:36:24.829Z
         title: "Post-Show Panel: Healing Through Storytelling and Dialogue"
@@ -83,6 +83,23 @@ lists:
 
           Moderated by Golden Thread’s Artistic Producer **Salim Razawi**, the discussion will take place immediately following the matinee performance on Sunday, April 27.
         image: https://ucarecdn.com/9acb73a6-0f9c-4c1f-ad49-ee2050b510dd/
+      - itemstart: 2025-04-09T21:49:30.075Z
+        itemend: 2025-04-09T21:49:30.089Z
+        title: Story Circle with Aviva Arts
+        subtitle: Thursday, May 1, 2025 at 9:30pm
+        image: https://ucarecdn.com/24495481-b8aa-4786-b6c0-bd3175bc1472/
+        text: >-
+          Join Debórah Eliezer, Artistic Director of Aviva Arts and Affiliated
+          Artist with Golden Thread in a community discussion inspired by Golden
+          Thread's production of *AZAD (the rabbit and the wolf)*. Listen and
+          share stories, ask questions, discuss this current moment, and make
+          new friends. Come ready to learn the Story Circle model, a simple
+          structure to democratize community storytelling.
+
+
+          Light refreshments provided. This event is free, but registration is required! [](https://forms.gle/KQRvENdvz8AsQD8w6)
+        cta: RSVP HERE
+        link: https://forms.gle/KQRvENdvz8AsQD8w6
 cast:
   items:
     - name: Hakawati
