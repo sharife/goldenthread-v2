@@ -43,27 +43,32 @@ lists:
           performance on Sunday, April 20.
         itemstart: 2025-04-09T21:26:14.505Z
         cta: ""
-        subtitle: Sunday, April 20, 2025 at 4:30pm
+        subtitle: "**Sunday, April 20, 2025 at 4:30pm**"
         title: Sona Tatoyan In Conversation With Torange Yeghiazarian
         link: ""
         image: https://ucarecdn.com/23418a7d-26ca-4282-8917-9c19b20e8af8/
       - pre: "Armenian Genocide Remembrance Day "
         itemend: 2025-04-09T21:33:10.925Z
-        text: Guided by Isaac Sabu, founder of the Biotune therapeutic music protocol (a
-          fusion of soundscapes, neuro-frequencies, and live duduk), and
-          accompanied by Ara Dinkjian, join AZAD audiences in an immersive
-          experience, creating space for reflection and transformation. This
-          special opportunity to mark Armenian Genocide Remembrance Day provides
-          an opportunity for audiences to alchemize their stories into something
-          meaningful, witnessed, and transformative. Includes a 20-minute
-          facilitated sharing circle, open dialogue, and option to contribute
-          anonymous reflections to a communal wall. This event is free, but
-          registration is required! [](https://forms.gle/GQQnGFR3eHddBhnZ6)
+        text: >-
+          Guided by **Isaac Sabu**, founder of the Biotune therapeutic music
+          protocol (a fusion of soundscapes, neuro-frequencies, and live duduk),
+          and accompanied by **Ara Dinkjian**, join *AZAD (t﻿he rabbit and the
+          wolf)* audiences in an immersive experience, creating space for
+          reflection and transformation. 
+
+
+          This special opportunity to mark Armenian Genocide Remembrance Day provides an opportunity for audiences to alchemize their stories into something meaningful, witnessed, and transformative. Includes a 20-minute facilitated sharing circle, open dialogue, and option to contribute anonymous reflections to a communal wall. 
+
+
+          This event is free, but registration is required! 
+
+
+          [](https://forms.gle/GQQnGFR3eHddBhnZ6)
         itemstart: 2025-04-09T21:33:10.910Z
         cta: RSVP HERE
         subtitle: |-
-          Thursday, April 24, 2025  at 9:45pm\
-          Friday, April 25, 2025 at 9:45pm
+          **Thursday, April 24, 2025  at 9:45pm**\
+          **Friday, April 25, 2025 at 9:45pm**
         title: "Songs of the Unspoken: A Sound Journey of Remembrance"
         link: https://forms.gle/GQQnGFR3eHddBhnZ6
         image: https://ucarecdn.com/dbd2c4a1-1394-4fdf-9d84-ba97e1efede7/
@@ -89,12 +94,12 @@ lists:
         subtitle: Thursday, May 1, 2025 at 9:30pm
         image: https://ucarecdn.com/24495481-b8aa-4786-b6c0-bd3175bc1472/
         text: >-
-          Join Debórah Eliezer, Artistic Director of Aviva Arts and Affiliated
-          Artist with Golden Thread in a community discussion inspired by Golden
-          Thread's production of *AZAD (the rabbit and the wolf)*. Listen and
-          share stories, ask questions, discuss this current moment, and make
-          new friends. Come ready to learn the Story Circle model, a simple
-          structure to democratize community storytelling.
+          Join **Debórah Eliezer**, Artistic Director of Aviva Arts and
+          Affiliated Artist with Golden Thread in a community discussion
+          inspired by Golden Thread's production of *AZAD (the rabbit and the
+          wolf)*. Listen and share stories, ask questions, discuss this current
+          moment, and make new friends. Come ready to learn the Story Circle
+          model, a simple structure to democratize community storytelling.
 
 
           Light refreshments provided. This event is free, but registration is required! [](https://forms.gle/KQRvENdvz8AsQD8w6)
