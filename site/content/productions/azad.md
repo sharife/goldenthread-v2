@@ -67,6 +67,22 @@ lists:
         title: "Songs of the Unspoken: A Sound Journey of Remembrance"
         link: https://forms.gle/GQQnGFR3eHddBhnZ6
         image: https://ucarecdn.com/9253c2ee-b467-4310-b01d-07b16d6135d9/
+      - itemstart: 2025-04-09T21:36:24.813Z
+        itemend: 2025-04-09T21:36:24.829Z
+        title: "Post-Show Panel: Healing Through Storytelling and Dialogue"
+        subtitle: Sunday, April 27, 2025 at 4:30pm
+        text: >-
+          Join us for a special post-show panel exploring the theme of healing
+          in *AZAD (the rabbit and the wolf)*. This conversation will delve into
+          the intersection of storytelling, personal and collective trauma, and
+          the possibilities of healing.
+
+
+          The panel will feature playwright and performer **Sona Tatoyan**, psychotherapist **Laura Farha** from Wayfinder: Online Therapy for Expats, Immigrants, and Third Culture Grownups, and mindful self-compassion teacher **Ojig Yeretsian** and **Burcu Tung** of the Armenian-Turkish dialogue group, who bring vital perspectives on reconciliation and cross-cultural healing.
+
+
+          Moderated by Golden Thread’s Artistic Producer **Salim Razawi**, the discussion will take place immediately following the matinee performance on Sunday, April 27.
+        image: https://ucarecdn.com/9acb73a6-0f9c-4c1f-ad49-ee2050b510dd/
 cast:
   items:
     - name: Hakawati
