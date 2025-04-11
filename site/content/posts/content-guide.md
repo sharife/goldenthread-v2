@@ -11,14 +11,15 @@ We have tried to include content that is considered to be of a sensitive nature,
 
 If you wish to know more about the content you see here, please contact the box office by phone or email. We would be happy to provide more information.
 
-![](https://ucarecdn.com/d8109c15-e488-4ed5-8879-3bd5052ed590/)
+![](https://ucarecdn.com/0c8ebf73-cf8c-45df-9903-762a2ac9866d/)
 
-November 16 - 17, 2024
+April 11-May 3, 2025
 
-### ALAA: A Family Trilogy
+### AZAD (the rabbit and the wolf)
 
-b﻿y **Adam Ashraf Elsayigh**\
-g﻿enerative dramaturgy by **Salma S. Zohdi**\
-d﻿irected by **Evren Odcikin**
+by **Sona Tatoyan** in collaboration with **Jared Mezzocchi**
+directed by **Jared Mezzocchi**
+featuring Sona Tatoyan, a tribe of Karagöz Puppets, and oud player **Ara Dinkjian**\
+a﻿ co-production with **Hakawati NGO**
 
-***ALAA: A Family Trilogy*** depicts the events of the Egyptian Revolution from 2011 to 2014, as well as flashbacks to Alaa Abd El-Fattah's family's activist legacy. As such, it features descriptions and stylized depictions of physical violence, torture, and death; as well as loud sounds, including explosions and gunshots. The production will briefly show the image of Khalid Saeed's brutalized body that launched the protests in 2011.
+This play delves into Sona Tatoyan’s family’s experience during the Armenian Genocide and the recent Syrian Civil War. As such, it features references to abuse, sexual assault, and realistic depictions of child harm. The play also features stylized depictions of sexism, misogyny and pornographic content, as well as descriptions of racism, including racial slurs.
