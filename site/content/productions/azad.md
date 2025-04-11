@@ -226,6 +226,6 @@ photos2:
 bottom:
   text: ""
 ---
-The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Betsy Chester**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
+The creative team for *AZAD (the rabbit and the wolf)* includes world-renowned oud player **Ara Dinkjian**, Karagöz creative consultant and puppet maker **Ayhan Hulagu**, puppeteers **Vinny Mraz** and **Kalli Siringas**, scenic designer **Marcelo Martínez García**, costume designer **Valérie Thérèse Bart**, lighting designer **Sinjin Jones**, sound designer **Evdoxia Ragkou**, multimedia designer **Camilla Tassi**,  immersive designer **Isaac Saboohi**, choreographer and movement designer **Chelsea Didier**, and stage manager **Olivia Fletcher**. Aleppo footage and sound was captured by **Antoine Makdis**. Documentary Inserts were created by filmmaker **Emily Jo West**. 
 
 Golden Thread and Hakawati would like to thank producers **Bill Pullman** and **Noubar and Anna Afeyan** for their ongoing support and championing of this project.
