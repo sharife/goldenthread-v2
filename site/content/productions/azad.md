@@ -23,7 +23,7 @@ description: >-
 background: https://ucarecdn.com/9b77dbe9-518b-48c8-afb3-442df7458074/
 titleimage: ""
 programlabel: Digital Playbill
-program: https://ucarecdn.com/d3280fba-3bc3-4490-9bbe-dd91e92c4744/
+program: https://www.flipsnack.com/goldenthread/azad-digital-playbill-mobile-dimensions/full-view.html
 videos: []
 writer: ""
 director: ""
