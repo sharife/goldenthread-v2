@@ -56,7 +56,7 @@ lists:
         text: >-
           Guided by **Isaac Sabu**, founder of the Biotune therapeutic music
           protocol (a fusion of soundscapes, neuro-frequencies, and live duduk),
-          and accompanied by **Ara Dinkjian**, join *AZAD (t﻿he rabbit and the
+          and accompanied by **Ara Dinkjian**, join *AZAD (the rabbit and the
           wolf)* audiences in an immersive experience, creating space for
           reflection and transformation. 
 
@@ -64,10 +64,7 @@ lists:
           This special opportunity to mark Armenian Genocide Remembrance Day provides an opportunity for audiences to alchemize their stories into something meaningful, witnessed, and transformative. Includes a 20-minute facilitated sharing circle, open dialogue, and option to contribute anonymous reflections to a communal wall. 
 
 
-          This event is free, but registration is required! 
-
-
-          [](https://forms.gle/GQQnGFR3eHddBhnZ6)
+          This event is free, but registration is required!
         itemstart: 2025-04-09T21:33:10.910Z
         cta: RSVP HERE
         subtitle: |-
@@ -91,7 +88,18 @@ lists:
 
 
           Moderated by Golden Thread’s Artistic Producer **Salim Razawi**, the discussion will take place immediately following the matinee performance on Sunday, April 27.
-        image: https://ucarecdn.com/9acb73a6-0f9c-4c1f-ad49-ee2050b510dd/
+
+
+
+
+          Join us for a special post-show panel exploring the theme of healing in *AZAD (the rabbit and the wolf)*. This conversation will delve into the intersection of storytelling, personal and collective trauma, and the possibilities of healing.
+
+
+          The panel will feature c﻿o-creator and performer **Sona Tatoyan**, psychotherapist **Laura Farha** from Wayfinder: Online Therapy for Expats, Immigrants, and Third Culture Grownups, and mindful self-compassion teacher **Ojig Yeretsian**, and **Burcu Tung** of the Armenian-Turkish dialogue group, who bring vital perspectives on reconciliation and cross-cultural healing.
+
+
+          Moderated by Golden Thread’s Artistic Producer **Salim Razawi**, the discussion will take place immediately following the matinee performance on Sunday, April 27.
+        image: https://ucarecdn.com/0a789673-9843-4211-8ddb-f19adb66948c/
       - itemstart: 2025-04-09T21:49:30.075Z
         itemend: 2025-04-09T21:49:30.089Z
         title: Story Circle with Aviva Arts
@@ -106,7 +114,7 @@ lists:
           model, a simple structure to democratize community storytelling.
 
 
-          Light refreshments provided. This event is free, but registration is required! [](https://forms.gle/KQRvENdvz8AsQD8w6)
+          Light refreshments provided. This event is free, but registration is required!
         cta: RSVP HERE
         link: https://forms.gle/KQRvENdvz8AsQD8w6
 cast:
