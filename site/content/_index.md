@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: AZAD (the rabbit and the wolf)
 subtitle: by Sona Tatoyan in collaboration with Jared Mezzocchi
 background: https://ucarecdn.com/6d10a257-b8e7-4b16-a993-45497b62dfb8/
-cta: Performances for the world premiere begin April 11!
+cta: Playing now through May 3!
 link: https://goldenthread.org/productions/azad/
 items:
   - subtitle: |-
