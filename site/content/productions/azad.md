@@ -40,31 +40,38 @@ lists:
     items:
       - pre: ""
         itemend: 2025-04-09T21:26:14.518Z
-        text: Join us for a special conversation event with **Sona Tatoyan** and Golden
-          Thread founder and celebrated playwright **Torange Yeghiazarian**.
-          Dive deeper into the creative process, themes, and inspirations behind
-          *AZAD (the rabbit and the wolf)*. Immediately following the matinee
-          performance on Sunday, April 20.
+        text: >-
+          Join us for a special post-show conversation with **Sona Tatoyan** and
+          renowned art historian **Heghnar Zeitlian Watenpaugh**, moderated by
+          Golden Thread founder and playwright **Torange Yeghiazarian**. This
+          talkback will delve into the creative process and thematic
+          inspirations behind *AZAD (the rabbit and the wolf)*. Drawing on
+          Watenpaugh’s groundbreaking work on “survivor objects”, which she
+          defines as “artifacts that have experienced atrocities, even genocide,
+          and survived”, the conversation will explore how material culture
+          carries the weight of history and resilience, and how both stories and
+          objects bear witness to survival.
+
+
+          Immediately following the matinee performance on Sunday, April 20.
         itemstart: 2025-04-09T21:26:14.505Z
         cta: ""
         subtitle: "**Sunday, April 20, 2025 at 4:30pm**"
-        title: Sona Tatoyan In Conversation With Torange Yeghiazarian
+        title: Torange Yeghiazarian moderates a conversation between Sona Tatoyan and
+          renowned art historian Heghnar Zeitlian Watenpaugh
         link: ""
-        image: https://ucarecdn.com/23418a7d-26ca-4282-8917-9c19b20e8af8/
+        image: https://ucarecdn.com/42acaa2d-7efe-4004-81d7-43ad53c7ef6f/
       - pre: "Armenian Genocide Remembrance Day "
         itemend: 2025-04-09T21:33:10.925Z
         text: >-
-          Guided by **Isaac Sabu**, founder of the Biotune therapeutic music
-          protocol (a fusion of soundscapes, neuro-frequencies, and live duduk),
-          and accompanied by **Ara Dinkjian**, join *AZAD (the rabbit and the
-          wolf)* audiences in an immersive experience, creating space for
-          reflection and transformation. 
+          Curated by **Isaac Sabu**, founder of Biotune (a wellness technology
+          and protocol designed to address mental health and well-being),
+          **Songs of the Unspoken** is a﻿n hour-long transformative experience
+          blending neuro-frequencies, layered soundscapes, and live
+          oud performance with world-renowned **Ara Dinkjian**.
 
 
-          This special opportunity to mark Armenian Genocide Remembrance Day provides an opportunity for audiences to alchemize their stories into something meaningful, witnessed, and transformative. Includes a 20-minute facilitated sharing circle, open dialogue, and option to contribute anonymous reflections to a communal wall. 
-
-
-          This event is free, but registration is required!
+          A nurturing space where participants can process what was stirred up during AZAD (the rabbit and the wolf), find meaning in their personal experiences, and begin to transform pain into insight through the language of sound and resonance. This journey helps soothe the nervous system, unlock access to unspoken parts of the self, and guide guests into deeper states of awareness. It concludes with a 20-minute facilitated sharing circle or the option to express a written reflection on the communal  **\#BeAzad Stories wall** in the lobby.
         itemstart: 2025-04-09T21:33:10.910Z
         cta: RSVP HERE
         subtitle: |-
