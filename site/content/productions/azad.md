@@ -54,17 +54,14 @@ lists:
       - pre: "Armenian Genocide Remembrance Day "
         itemend: 2025-04-09T21:33:10.925Z
         text: >-
-          Guided by **Isaac Sabu**, founder of the Biotune therapeutic music
-          protocol (a fusion of soundscapes, neuro-frequencies, and live duduk),
-          and accompanied by **Ara Dinkjian**, join *AZAD (the rabbit and the
-          wolf)* audiences in an immersive experience, creating space for
-          reflection and transformation. 
+          Curated by **Isaac Sabu**, founder of Biotune (a wellness technology
+          and protocol designed to address mental health and well-being),
+          **Songs of the Unspoken** is a﻿n hour-long transformative experience
+          blending neuro-frequencies, layered soundscapes, and live
+          oud performance with world-renowned **Ara Dinkjian**.
 
 
-          This special opportunity to mark Armenian Genocide Remembrance Day provides an opportunity for audiences to alchemize their stories into something meaningful, witnessed, and transformative. Includes a 20-minute facilitated sharing circle, open dialogue, and option to contribute anonymous reflections to a communal wall. 
-
-
-          This event is free, but registration is required!
+          A nurturing space where participants can process what was stirred up during AZAD (the rabbit and the wolf), find meaning in their personal experiences, and begin to transform pain into insight through the language of sound and resonance. This journey helps soothe the nervous system, unlock access to unspoken parts of the self, and guide guests into deeper states of awareness. It concludes with a 20-minute facilitated sharing circle or the option to express a written reflection on the communal  **\#BeAzad Stories wall** in the lobby.
         itemstart: 2025-04-09T21:33:10.910Z
         cta: RSVP HERE
         subtitle: |-
