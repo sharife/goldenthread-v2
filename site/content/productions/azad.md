@@ -40,15 +40,25 @@ lists:
     items:
       - pre: ""
         itemend: 2025-04-09T21:26:14.518Z
-        text: Join us for a special conversation event with **Sona Tatoyan** and Golden
-          Thread founder and celebrated playwright **Torange Yeghiazarian**.
-          Dive deeper into the creative process, themes, and inspirations behind
-          *AZAD (the rabbit and the wolf)*. Immediately following the matinee
-          performance on Sunday, April 20.
+        text: >-
+          Join us for a special post-show conversation with **Sona Tatoyan** and
+          renowned art historian **Heghnar Zeitlian Watenpaugh**, moderated by
+          Golden Thread founder and playwright **Torange Yeghiazarian**. This
+          talkback will delve into the creative process and thematic
+          inspirations behind *AZAD (the rabbit and the wolf)*. Drawing on
+          Watenpaugh’s groundbreaking work on “survivor objects”, which she
+          defines as “artifacts that have experienced atrocities, even genocide,
+          and survived”, the conversation will explore how material culture
+          carries the weight of history and resilience, and how both stories and
+          objects bear witness to survival.
+
+
+          Immediately following the matinee performance on Sunday, April 20.
         itemstart: 2025-04-09T21:26:14.505Z
         cta: ""
         subtitle: "**Sunday, April 20, 2025 at 4:30pm**"
-        title: Sona Tatoyan In Conversation With Torange Yeghiazarian
+        title: Torange Yeghiazarian moderates a conversation between Sona Tatoyan and
+          renowned art historian Heghnar Zeitlian Watenpaugh
         link: ""
         image: https://ucarecdn.com/23418a7d-26ca-4282-8917-9c19b20e8af8/
       - pre: "Armenian Genocide Remembrance Day "
