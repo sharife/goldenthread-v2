@@ -60,7 +60,7 @@ lists:
         title: Torange Yeghiazarian moderates a conversation between Sona Tatoyan and
           renowned art historian Heghnar Zeitlian Watenpaugh
         link: ""
-        image: https://ucarecdn.com/23418a7d-26ca-4282-8917-9c19b20e8af8/
+        image: https://ucarecdn.com/42acaa2d-7efe-4004-81d7-43ad53c7ef6f/
       - pre: "Armenian Genocide Remembrance Day "
         itemend: 2025-04-09T21:33:10.925Z
         text: >-
