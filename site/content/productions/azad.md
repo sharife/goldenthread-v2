@@ -61,25 +61,6 @@ lists:
           renowned art historian Heghnar Zeitlian Watenpaugh
         link: ""
         image: https://ucarecdn.com/42acaa2d-7efe-4004-81d7-43ad53c7ef6f/
-      - pre: "Armenian Genocide Remembrance Day "
-        itemend: 2025-04-09T21:33:10.925Z
-        text: >-
-          Curated by **Isaac Sabu**, founder of Biotune (a wellness technology
-          and protocol designed to address mental health and well-being),
-          **Songs of the Unspoken** is a﻿n hour-long transformative experience
-          blending neuro-frequencies, layered soundscapes, and live
-          oud performance with world-renowned **Ara Dinkjian**.
-
-
-          A nurturing space where participants can process what was stirred up during AZAD (the rabbit and the wolf), find meaning in their personal experiences, and begin to transform pain into insight through the language of sound and resonance. This journey helps soothe the nervous system, unlock access to unspoken parts of the self, and guide guests into deeper states of awareness. It concludes with a 20-minute facilitated sharing circle or the option to express a written reflection on the communal  **\#BeAzad Stories wall** in the lobby.
-        itemstart: 2025-04-09T21:33:10.910Z
-        cta: RSVP HERE
-        subtitle: |-
-          **Thursday, April 24, 2025  at 9:45pm**\
-          **Friday, April 25, 2025 at 9:45pm**
-        title: "Songs of the Unspoken: A Sound Journey of Remembrance"
-        link: https://forms.gle/GQQnGFR3eHddBhnZ6
-        image: https://ucarecdn.com/dbd2c4a1-1394-4fdf-9d84-ba97e1efede7/
       - itemstart: 2025-04-09T21:36:24.813Z
         itemend: 2025-04-09T21:36:24.829Z
         title: "Post-Show Panel: Healing Through Storytelling and Dialogue"
