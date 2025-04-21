@@ -94,6 +94,15 @@ lists:
           Light refreshments provided. This event is free, but registration is required!
         cta: RSVP HERE
         link: https://forms.gle/KQRvENdvz8AsQD8w6
+      - itemstart: 2025-04-21T23:03:48.642Z
+        itemend: 2025-04-21T23:03:48.669Z
+        title: "Post-Show Concert: Ara Dinkjian"
+        pre: Armenian Genocide Remembrance Day
+        subtitle: "**T﻿hursday, April 24 and Friday, April 25 at 9:45pm**"
+        text: Immediately following the 8pm performances, Ara Dinkjian, renowned oud
+          virtuoso who stars in *AZAD (the rabbit and the wolf)*, will perform a
+          medley of Anatolian folk music and his celebrated compositions. Join
+          us to mark Armenian Genocide Remembrance Day in community!
 cast:
   items:
     - name: Hakawati
