@@ -61,6 +61,16 @@ lists:
           renowned art historian Heghnar Zeitlian Watenpaugh
         link: ""
         image: https://ucarecdn.com/42acaa2d-7efe-4004-81d7-43ad53c7ef6f/
+      - itemstart: 2025-04-21T23:03:48.642Z
+        itemend: 2025-04-21T23:03:48.669Z
+        title: "Post-Show Concert: Ara Dinkjian"
+        pre: Armenian Genocide Remembrance Day
+        subtitle: "**T﻿hursday, April 24 and Friday, April 25 at 9:45pm**"
+        text: Immediately following the 8pm performances, Ara Dinkjian, renowned oud
+          virtuoso who stars in *AZAD (the rabbit and the wolf)*, will perform a
+          medley of Anatolian folk music and his celebrated compositions. Join
+          us to mark Armenian Genocide Remembrance Day in community!
+        image: https://ucarecdn.com/b3237de1-2505-4907-9dcd-1102582d84ea/
       - itemstart: 2025-04-09T21:36:24.813Z
         itemend: 2025-04-09T21:36:24.829Z
         title: "Post-Show Panel: Healing Through Storytelling and Dialogue"
