@@ -103,6 +103,7 @@ lists:
           virtuoso who stars in *AZAD (the rabbit and the wolf)*, will perform a
           medley of Anatolian folk music and his celebrated compositions. Join
           us to mark Armenian Genocide Remembrance Day in community!
+        image: https://ucarecdn.com/b3237de1-2505-4907-9dcd-1102582d84ea/
 cast:
   items:
     - name: Hakawati
