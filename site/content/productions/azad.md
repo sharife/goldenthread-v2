@@ -73,7 +73,7 @@ lists:
         itemend: 2025-04-21T23:03:48.669Z
         title: "Post-Show Concert: Ara Dinkjian"
         pre: Armenian Genocide Remembrance Day
-        subtitle: "**T﻿hursday, April 24 and Friday, April 25 at 9:45pm**"
+        subtitle: "**T﻿hursday, April 24 and Friday, April 25 at 9:30pm**"
         text: Immediately following the 8pm performances, Ara Dinkjian, renowned oud
           virtuoso who stars in *AZAD (the rabbit and the wolf)*, will perform a
           medley of Anatolian folk music and his celebrated compositions. Join
@@ -82,7 +82,7 @@ lists:
       - itemstart: 2025-04-09T21:36:24.813Z
         itemend: 2025-04-09T21:36:24.829Z
         title: "Post-Show Panel: Healing Through Storytelling and Dialogue"
-        subtitle: Sunday, April 27, 2025 at 4:30pm
+        subtitle: "**Sunday, April 27, 2025 at 4:30pm**"
         text: >-
           Join us for a special post-show panel exploring the theme of healing
           in *AZAD (the rabbit and the wolf)*. This conversation will delve into
@@ -98,7 +98,7 @@ lists:
       - itemstart: 2025-04-09T21:49:30.075Z
         itemend: 2025-04-09T21:49:30.089Z
         title: Story Circle with Aviva Arts
-        subtitle: Thursday, May 1, 2025 at 9:30pm
+        subtitle: "**Thursday, May 1, 2025 at 9:30pm**"
         image: https://ucarecdn.com/24495481-b8aa-4786-b6c0-bd3175bc1472/
         text: >-
           Join **Debórah Eliezer**, Artistic Director of Aviva Arts and
