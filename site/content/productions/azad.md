@@ -73,8 +73,9 @@ lists:
         subtitle: "**T﻿hursday, April 24 and Friday, April 25 at 9:30pm**"
         text: Immediately following the 8pm performances, Ara Dinkjian, renowned oud
           virtuoso who stars in *AZAD (the rabbit and the wolf)*, will perform a
-          medley of Anatolian folk music and his celebrated compositions. Join
-          us to mark Armenian Genocide Remembrance Day in community!
+          medley of Anatolian folk music and his celebrated compositions. T﻿he
+          mini-concert will be followed by a 20-minute dialogue session for the
+          audience to process the play in community.
         image: https://ucarecdn.com/b3237de1-2505-4907-9dcd-1102582d84ea/
       - itemstart: 2025-04-09T21:36:24.813Z
         itemend: 2025-04-09T21:36:24.829Z
