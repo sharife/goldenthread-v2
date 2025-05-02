@@ -16,8 +16,8 @@ lists:
 
 
           **[→ F﻿ind out more about the show](https://goldenthread.org/productions/azad/)**
-        cta: Buy now
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rev7MAA
+        cta: ""
+        link: ""
       - title: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
         pre: June 7-8, 2025 at Potrero Stage (1695 18th Street, San Francisco)
         subtitle: A﻿ New Threads Workshop Production
