@@ -8,6 +8,10 @@ lists:
         subtitle: ""
         image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
         text: >-
+          **\*\*SOLD OUT! Email boxoffice@goldenthread.org to join the waitlist
+          for our 8 PM performances on Friday, 5/2, or Saturday, 5/3\*\***
+
+
           S﻿ee below for ticket pricing.
 
 
