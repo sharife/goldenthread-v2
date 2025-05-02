@@ -34,12 +34,13 @@ lists:
           hilarious knots SWANA creatives must tie themselves in to tell their
           stories and make a career in the American theatre.
         itemstart: ""
-        cta: ""
+        cta: Buy Tickets Now!
         subtitle: |-
           by **Evren Odcikin** \
+          d﻿irected by **Elizabeth Carter**\
           dramaturgy by **Torange Yeghiazarian**
         title: Oriental, or 1001 Ways to Tie Yourself in Knots
-        link: ""
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rgSHMAY
         image: https://ucarecdn.com/6d474cde-3af0-4180-beed-a04d9e0cd426/
 cast:
   items: []
