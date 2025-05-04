@@ -10,7 +10,7 @@ items:
       **This August: *T﻿he Return***\
       **by Hanna Eady and Edward Mast**
     text: C﻿o-presented by **Art2Action, Inc.** and directed by **Sahar Assaf,**
-      this "tautand provocative two-character play" (*DC Theater Arts*) will be
+      this "taut and provocative two-character play" (*DC Theater Arts*) will be
       presented at The Garret, on the fifth floor of the A.C.T.'s Toni Rembe
       Theater in San Francisco.
     image: https://ucarecdn.com/7f35d6cd-562a-4ce9-9c78-c461d292c547/
