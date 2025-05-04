@@ -43,7 +43,7 @@ bottom:
 ---
 The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
 
-
+![](https://ucarecdn.com/685f72ef-5bfc-49e1-9b1d-cf21b9beaa90/)
 
 # Oriental, or 1001 Ways to Tie Yourself in Knots
 
