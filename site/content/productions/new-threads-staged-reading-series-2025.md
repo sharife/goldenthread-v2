@@ -1,5 +1,6 @@
 ---
 title: New Threads Staged Reading Series 2025
+pre: featuring Artist-in-Residence Evren Odcikin's ORIENTAL
 season: 2025
 date: 2024-11-21T16:00:54.641Z
 start: 2025-06-08T00:00:00.000Z
@@ -40,6 +41,10 @@ bottom:
   logos: []
   heading: ""
 ---
+The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
+
+
+
 # Oriental, or 1001 Ways to Tie Yourself in Knots
 
 b﻿y **Evren Odcikin**\
