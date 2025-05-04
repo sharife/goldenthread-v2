@@ -7,16 +7,6 @@ cta: The New Threads staged reading performs June 7 and 8
 link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
 items:
   - subtitle: |-
-      **R﻿eOrient Festival is back in 2026!**\
-      **S﻿ubmit your short play now.**
-    text: PLAYWRIGHTS! We're now accepting submissions for the 2026 ReOrient
-      Festival of Short Plays. Please check out the eligibility guidelines and
-      submit your 10-30 minute play by April 30,
-      2025.[](https://goldenthread.org/get-involved/submissions/?fbclid=IwZXh0bgNhZW0CMTAAAR0ZjwhZiuJYO9OaANHTx1GKh4XitjNf_Z94khzaJy0s1mi8sRCSYPwyYiE_aem_aX1ndtHFxr2PzAkRx2-Bww)[](https://www.facebook.com/photo/?fbid=1239737697676855&set=a.619873352996629&__cft__[0]=AZUP_m1jb1LUV-4UHZpdG3RZibcuKVBwMF2QDb9Uy1XsfoIFPpYS_Rb8Kua1JPEc3-xQ0nFFQA82q7q0cKuYO1rqYalHASIYEiXhOi5jIwZWtqucR1IA36mIfYOIcvM_at9fKAOQ5FpC3x28lcHTM3qwwy5jUn8QfkQdUn6axydXWUMxboJvOw9uioysfSzAHTU&__tn__=EH-R)
-    link: https://goldenthread.org/get-involved/submissions/
-    cta: Find out more!
-    image: https://ucarecdn.com/5f24a635-8585-4414-bdc6-18cfffcf85f1/
-  - subtitle: |-
       **V﻿olunteer to usher**\
       **a﻿nd see AZAD for free!**
     link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-55553643-azad#/
@@ -37,4 +27,14 @@ items:
       guidelines that eliminate funding for projects that the federal government
       believes "promote gender ideology."
     image: https://ucarecdn.com/77f6a99e-e3a6-4482-aa44-1195732e8fc0/
+  - subtitle: |-
+      **This August: *T﻿he Return***\
+      **by Hanna Eady and Edward Mast**
+    text: C﻿o-presented by **Art2Action, Inc.** and directed by **Sahar Assaf,**
+      this "tautand provocative two-character play" (*DC Theater Arts*) will be
+      presented at The Garret, on the fifth floor of the A.C.T.'s Toni Rembe
+      Theater in San Francisco.
+    image: https://ucarecdn.com/7f35d6cd-562a-4ce9-9c78-c461d292c547/
+    cta: Find out more
+    link: https://goldenthread.org/productions/the-return/
 ---
