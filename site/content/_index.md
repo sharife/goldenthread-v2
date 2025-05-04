@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: AZAD (the rabbit and the wolf)
-subtitle: by Sona Tatoyan in collaboration with Jared Mezzocchi
-background: https://ucarecdn.com/6d10a257-b8e7-4b16-a993-45497b62dfb8/
-cta: Playing now through May 3!
-link: https://goldenthread.org/productions/azad/
+headline: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
+subtitle: a new play by Artist-in-Residence Evren Odcikin
+background: https://ucarecdn.com/c8e831b7-48c3-430a-bb08-9990f8d8c432/
+cta: The New Threads staged reading performs June 7 and 8
+link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
 items:
   - subtitle: |-
       **R﻿eOrient Festival is back in 2026!**\
