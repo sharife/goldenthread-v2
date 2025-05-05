@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
-subtitle: a new play by Artist-in-Residence Evren Odcikin
+headline: ORIENTAL by Evren Odcikin
+subtitle: New Threads staged reading performs June 7 and 8
 background: https://ucarecdn.com/c8e831b7-48c3-430a-bb08-9990f8d8c432/
-cta: The New Threads staged reading performs June 7 and 8
+cta: Get your tickets now to this absurd comedy!
 link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
 items:
   - subtitle: |-
