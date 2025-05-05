@@ -27,15 +27,15 @@ ticketinfo: Tickets are $20. No one turned away for lack of funds.
 lists: []
 cast:
   items:
-    - name: Evren Odcikin
+    - name: EVREN ODCIKIN
       credit: Playwright
       image: https://ucarecdn.com/172fdcf9-fd43-4c8f-8dd2-6f2e044dd7bc/
-      bio: "**EVREN ODCIKIN (he/him)** is a Turkish-American director, writer, and
-        arts leader based in New York City and San Francisco. He is a celebrated
-        champion of historically-excluded voices in the American theater through
-        work that is heart-centered, politically engaged, globally minded, and
-        centers joy as resistance. He is committed to building his work with and
-        for the communities it represents. Evren is the proud 2024-25 Artist in
+      bio: "*(he/him)* is a Turkish-American director, writer, and arts leader based
+        in New York City and San Francisco. He is a celebrated champion of
+        historically-excluded voices in the American theater through work that
+        is heart-centered, politically engaged, globally minded, and centers joy
+        as resistance. He is committed to building his work with and for the
+        communities it represents. Evren is the proud 2024-25 Artist in
         Residence at Golden Thread Productions and a 2025 Iris Lab Fellow with
         UC Santa Cruz. Recent directing: *The Great Privation (How to flip ten
         cents into a dollar)* by Nia Akilah Robinson (Soho Rep, *NY Times*
@@ -50,51 +50,50 @@ cast:
         and Custom Made. Evren is a founding board member of Middle Eastern
         North African Theater Makers Alliance.
         [odcikin.com](https://www.odcikin.com/)"
-    - name: Elizabeth Carter
+    - name: ELIZABETH CARTER
       credit: Director
       image: https://ucarecdn.com/833d2354-1903-417f-8df2-336cbde5fde9/
-      bio: Some of **ELIZABETH CARTER**'s favoriteproductions include *Fat
-        Ham* (OSF), *Confederates* (The Repertory Theatre of St.
-        Louis), *C﻿rumbs from the Table* and *Stoop Stories* (Aurora Theatre),
-        *Wolf Play* (Shotgun Players), *Sweat* and *The Legend of Georgia
-        McBride* (Center Rep), *Steel Magnolias* (TheatreWorks SV), *As You Like
-        It* (California Shakespeare Theater), *for colored girls...* (African
-        American Shakespeare Co.)  and the new musical *Sign My Name to
-        Freedom* (SF Bay Area Theatre Co.). She was associate director on *the
-        ripple the wave that carried me home* (Berkeley Rep/Goodman Theatre) and
-        assistant director on *How I Learned What I Learned* (Oregon Shakespeare
-        Festival). She directed the groundbreaking 2020 virtual *King Lear* (SF
-        Shakespeare Festival) and *Feel the Spirit* (Shotgun Players/Colt Couer
-        NYC). Her directorial film debut *Bottled Spirits* won Best Narrative at
-        the London Pan African Film Festival. She was the inaugural SDCF Lloyd
-        Richards New Futures Resident Director at the Oregon Shakespeare
-        Festival and a current Lucas Arts Fellow.
+      bio: Favorite productions include *Fat Ham* (OSF), *Confederates* (The Repertory
+        Theatre of St. Louis), *C﻿rumbs from the Table* and *Stoop Stories*
+        (Aurora Theatre), *Wolf Play* (Shotgun Players), *Sweat* and *The Legend
+        of Georgia McBride* (Center Rep), *Steel Magnolias* (TheatreWorks
+        SV), *As You Like It* (California Shakespeare Theater), *for colored
+        girls...* (African American Shakespeare Co.)  and the new musical *Sign
+        My Name to Freedom* (SF Bay Area Theatre Co.). She was associate
+        director on *the ripple the wave that carried me home* (Berkeley
+        Rep/Goodman Theatre) and assistant director on *How I Learned What I
+        Learned* (Oregon Shakespeare Festival). She directed the groundbreaking
+        2020 virtual *King Lear* (SF Shakespeare Festival) and *Feel the
+        Spirit* (Shotgun Players/Colt Couer NYC). Her directorial film
+        debut *Bottled Spirits* won Best Narrative at the London Pan African
+        Film Festival. She was the inaugural SDCF Lloyd Richards New Futures
+        Resident Director at the Oregon Shakespeare Festival and a current Lucas
+        Arts Fellow.
         [elizabethcarterarts.com](https://www.elizabethcarterarts.com/)
-    - name: Torange Yeghiazarian
+    - name: TORANGE YEGHIAZARIAN
       credit: Dramaturg
       image: https://ucarecdn.com/56c38200-cf4d-46dd-a112-9c4cc8f43e97/
-      bio: "**T﻿ORANGE YEGHIAZARIAN** is an award-winning playwright and director
-        passionate about building community through theater. Her artistic
-        practice reflects her values of radical hospitality and inclusiveness
-        aimed at disrupting stereotypes of the Middle East both within the
-        community and outside of it. A transplant from the 1979 Iranian
-        revolution, Torange believes that life is inherently political and that
-        the personal and the global are inseparable. Her plays frequently
-        explore the cultural divide with tenderness and humor from an immigrant
-        woman’s perspective. As a director, Torange’s focus has been on new
-        plays, experimenting with Middle Eastern performance traditions, and
-        staging poetry. Dubbed the “Margo Jones–founding-mother-figure of Middle
-        Eastern–American theatre”, Torange founded Golden Thread Productions,
-        the first American theatre company devoted to the Middle East, and
-        served as its Executive Artistic Director for twenty-five years. There
-        she created visionary programs such as ReOrient Festival of Short Plays,
-        premiered hundreds of plays, and launched the careers of countless
-        artists. A recipient of the Gerbode Playwright Commission Award,
-        Torange’s plays are published in New Iranian Plays, [Performing
-        Iran,](<>) and Salaam.Peace Anthology of Middle Eastern American Drama.
-        Torange was honored with a Lifetime Achievement Award by the Cairo
-        International Festival.
-        [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)"
+      bio: is an award-winning playwright and director passionate about building
+        community through theater. Her artistic practice reflects her values of
+        radical hospitality and inclusiveness aimed at disrupting stereotypes of
+        the Middle East both within the community and outside of it. A
+        transplant from the 1979 Iranian revolution, Torange believes that life
+        is inherently political and that the personal and the global are
+        inseparable. Her plays frequently explore the cultural divide with
+        tenderness and humor from an immigrant woman’s perspective. As a
+        director, Torange’s focus has been on new plays, experimenting with
+        Middle Eastern performance traditions, and staging poetry. Dubbed the
+        “Margo Jones–founding-mother-figure of Middle Eastern–American theatre”,
+        Torange founded Golden Thread Productions, the first American theatre
+        company devoted to the Middle East, and served as its Executive Artistic
+        Director for twenty-five years. There she created visionary programs
+        such as ReOrient Festival of Short Plays, premiered hundreds of plays,
+        and launched the careers of countless artists. A recipient of the
+        Gerbode Playwright Commission Award, Torange’s plays are published in
+        New Iranian Plays, [Performing Iran,](<>) and Salaam.Peace Anthology of
+        Middle Eastern American Drama. Torange was honored with a Lifetime
+        Achievement Award by the Cairo International Festival.
+        [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
   heading: Artist Biographies
 photos:
   heading: ""
