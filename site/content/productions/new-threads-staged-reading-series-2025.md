@@ -1,9 +1,9 @@
 ---
 title: New Threads Staged Reading Series 2025
-pre: featuring Artist-in-Residence Evren Odcikin's ORIENTAL
+pre: Featuring Artist-in-Residence Evren Odcikin's ORIENTAL
 season: 2025
 date: 2024-11-21T16:00:54.641Z
-start: 2025-06-08T00:00:00.000Z
+start: 2025-06-07T00:00:00.000Z
 end: 2025-06-08T19:00:00.000Z
 description: New Threads is Golden Thread’s annual staged reading series that
   engages its audience in the process of playmaking and allows writers of Middle
