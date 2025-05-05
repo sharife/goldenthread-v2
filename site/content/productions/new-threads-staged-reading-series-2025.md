@@ -95,6 +95,9 @@ cast:
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
   heading: Artist Biographies
+mentions:
+  text: "*A﻿n earlier version of this play was created in collaboration with Leila
+    Buck supported by a commission from Cal Shakes's New Classics program.*"
 photos:
   heading: ""
   items: []
@@ -107,8 +110,7 @@ photos3:
 bottom:
   logos: []
   heading: ""
-  text: "*A﻿n earlier version of this play was created in collaboration with Leila
-    Buck supported by a commission from Cal Shakes's New Classics program.*"
+  text: ""
 ---
 The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
 
