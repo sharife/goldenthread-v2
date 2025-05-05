@@ -109,7 +109,7 @@ bottom:
   logos: []
   heading: ""
   text: "*A﻿n earlier version of this play was created in collaboration with Leila
-    Buck for a commission from Cal Shakes's New Classics program.*"
+    Buck supported by a commission from Cal Shakes's New Classics program.*"
 ---
 The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
 
