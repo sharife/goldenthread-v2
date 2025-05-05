@@ -108,6 +108,8 @@ photos3:
 bottom:
   logos: []
   heading: ""
+  text: "*A﻿n earlier version of this play was created in collaboration with Leila
+    Buck supported by a commission from Cal Shakes's New Classics program.*"
 ---
 The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
 
@@ -120,5 +122,3 @@ d﻿irected by **Elizabeth Carter**\
 dramaturgy by **Torange Yeghiazarian**
 
 C﻿engiz has been commissioned to make an adaptation of *A Thousand and One Nights* from a Very Important Theater Company, and asked to bring his immigrant, Muslim, queer perspective to it. Unfortunately, he is not sure what all that means. As his characters revolt and refuse to tell the stories that he requires of them, can C﻿engiz face his demons, change the minds and hearts of his audience, and save all the women of the kingdom in the process? *ORIENTAL* is an absurdist look at the hilarious knots SWANA creatives must tie themselves in to tell their stories and make a career in the American theatre.
-
-*A﻿n earlier version of this play was created in collaboration with Leila Buck for a commission from Cal Shakes's New Classics program.*
