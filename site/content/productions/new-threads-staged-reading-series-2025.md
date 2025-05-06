@@ -96,8 +96,7 @@ cast:
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
   heading: Artist Biographies
 mentions:
-  text: "*A﻿n earlier version of this play was created in collaboration with Leila
-    Buck supported by a commission from Cal Shakes's New Classics program.*"
+  text: ""
 photos:
   heading: ""
   items: []
