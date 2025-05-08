@@ -7,15 +7,19 @@ start: 2022-03-08T08:00:00.000Z
 end: ""
 heading: "This year's theme: Making Home"
 description: >-
-  In celebration of International Women’s Day, Golden Thread’s _What Do the Women Say?_ returns to the Brava Theater. This year’s program will be presented in a hybrid format with artists appearing in-person and virtually. Audiences will be able to join us in-person at the Brava Theater or online for a virtual presentation.  
+  In celebration of International Women’s Day, Golden Thread’s _What Do the
+  Women Say?_ returns to the Brava Theater. This year’s program will be
+  presented in a hybrid format with artists appearing in-person and virtually.
+  Audiences will be able to join us in-person at the Brava Theater or online for
+  a virtual presentation.  
 
 
   Showcasing the work of multi-generational MENA women artists who are making home away from home, the program will feature a poetry reading by award-winning Lebanese poet **[Zeina Hashem Beck](https://www.zeinahashembeck.com/)**, a dramatic reading by Palestinian actor and playwright **[Hend Ayoub](https://www.hendayoub.com/)** from her one woman show *Home?*, a performance by Yemeni song writer and oud artist **[Layle Omeran](https://www.instagram.com/laylomer/?hl=en)** accompanied by cellist and composer **[Crystal Pascucci](https://www.crystalpascucci.com/)**, an excerpt from the documentary film by Iranian filmmaker **[Sabereh Kashi](https://www.filmmakerscollaborative.org/home-yet-far-away)** *Home Yet Far Away*, and a sneak peek into the rehearsal studio of Palestinian dancer **[Leila Awadallah](https://www.leilaawadallah.com/new-index)**.
 background: https://ucarecdn.com/9a866e76-e74f-4e8d-bba1-e32afcaa8d5a/
 titleimage: https://ucarecdn.com/22727625-76e4-4138-b4a7-3c85a63c8e3d/
 featuring: "Presenting Artists: Leila Awadallah, Hend Ayoub, Zeina Hashem Beck,
-  Sabereh Kashi, Layle Omeran. Pre-show Artists: Raeshma Razvi, Madeleine Rostami.
-  Conversation Moderators: Humaira Ghilzai, Sahar Assaf."
+  Sabereh Kashi, Layle Omeran. Pre-show Artists: Raeshma Razvi, Madeleine
+  Rostami. Conversation Moderators: Humaira Ghilzai, Sahar Assaf."
 stage: Brava Theater Center
 address: 2781 24th Street, San Francisco
 visitlink: https://www.brava.org/visit
@@ -48,7 +52,7 @@ Following the presentations, Executive Artistic Director **Sahar Assaf** will be
 
 The full program is 100 minutes without intermission.
 
-**[View the Program Information (PDF)](https://goldenthread.org/docs/WDTWSMakingHome_2022_Program.pdf)**
+**View the Program Information (PDF)**
 
 A highly anticipate annual offering, Golden Thread Productions celebrates International Women’s Day with What Do the Women Say?, which showcases the work of leading Middle Eastern women artists. Previous programs have focused on dismantling patriarchy, the resilience of Syrian women who build community through their art, and artists who explore sex and sexuality.
 
