@@ -5,7 +5,9 @@ date: 2024-11-15T22:42:13.755Z
 start: 2025-08-07T22:00:00.000Z
 end: 2025-08-24T22:00:00.000Z
 description: >-
-  b﻿y **Hanna Eady** and **Edward Mast**
+  b﻿y **Hanna Eady** and **Edward Mast**\
+
+  d﻿irected by **Hanna Eady**
 
 
   p﻿resented in partnership with **Art2Action, Inc.**
