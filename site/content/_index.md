@@ -13,7 +13,7 @@ items:
       "taut and provocative two-character play" (*DC Theater Arts*) will be
       presented at The Garret, on the fifth floor of the A.C.T.'s Toni Rembe
       Theater in San Francisco.
-    image: https://ucarecdn.com/7f35d6cd-562a-4ce9-9c78-c461d292c547/
+    image: https://ucarecdn.com/baac8b04-d8ad-4ba4-893d-0f03923776c0/
     cta: Find out more
     link: https://goldenthread.org/productions/the-return/
   - subtitle: |-
