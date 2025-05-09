@@ -13,9 +13,20 @@ items:
       "taut and provocative two-character play" (*DC Theater Arts*) will be
       presented at The Garret, on the fifth floor of the A.C.T.'s Toni Rembe
       Theater in San Francisco.
-    image: https://ucarecdn.com/7f35d6cd-562a-4ce9-9c78-c461d292c547/
+    image: https://ucarecdn.com/baac8b04-d8ad-4ba4-893d-0f03923776c0/
     cta: Find out more
     link: https://goldenthread.org/productions/the-return/
+  - subtitle: |-
+      **T﻿his Fall: *Pilgrimage***\
+      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+    text: Five women embark on a pilgrimage to Mecca. Noor, an Afghan American
+      immigrant, must fulfill her sister’s last wish. Will this pilgrimage bring
+      the five women closer, or will secrets, rivalries, and old wounds tear
+      them apart? T﻿his world premiere production is a co-production with **Z
+      Space** and is directed by **Michelle Talgarow**.
+    image: https://ucarecdn.com/b92b39c8-ad37-4b8f-9465-3319b24d821a/
+    cta: Find out more
+    link: https://goldenthread.org/productions/pilgrimage/
   - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
@@ -23,18 +34,7 @@ items:
       Middle Eastern countries and people, and a﻿ctive defunding of the Arts, we
       must stand together to fight back. Please consider supporting Golden
       Thread to make sure that our work continues to grow and thrive.
-    image: https://ucarecdn.com/03ea8f22-ae1e-439d-ab47-1792bc266232/
+    image: https://ucarecdn.com/712999c8-7ed7-4dc0-8f37-dbb709e391de/
     cta: Donate Now
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
-  - subtitle: |-
-      **A﻿ Joint Statement to Support**\
-      **ACLU's Lawsuit Against the NEA**
-    link: https://www.zspace.org/joint-aclu-statement
-    cta: Read the full statement on Z Space's website
-    text: G﻿olden Thread and many of our Bay Area theater colleagues stand together
-      to defend the First Amendment and our Trans communities. We support ACLU's
-      lawsuit against the National Endowment for the Arts that challenges new
-      guidelines that eliminate funding for projects that the federal government
-      believes "promote gender ideology."
-    image: https://ucarecdn.com/77f6a99e-e3a6-4482-aa44-1195732e8fc0/
 ---
