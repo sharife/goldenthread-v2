@@ -6,7 +6,9 @@ date: 2024-11-15T22:57:02.688Z
 start: 2025-10-25T03:00:00.000Z
 end: 2025-11-10T04:00:00.000Z
 description: >-
-  b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**
+  b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**\
+
+  d﻿irected by **Michelle Talgarow**
 
    A co-production with **Z Space**
 
