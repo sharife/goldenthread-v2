@@ -17,6 +17,17 @@ items:
     cta: Find out more
     link: https://goldenthread.org/productions/the-return/
   - subtitle: |-
+      **T﻿his Fall: *Pilgrimage***\
+      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+    text: Five women embark on a pilgrimage to Mecca. Noor, an Afghan American
+      immigrant, must fulfill her sister’s last wish. Will this pilgrimage bring
+      the five women closer, or will secrets, rivalries, and old wounds tear
+      them apart? T﻿his world premiere production is a co-production with **Z
+      Space** and is directed by **Michelle Talgarow**.
+    image: https://ucarecdn.com/b92b39c8-ad37-4b8f-9465-3319b24d821a/
+    cta: Find out more
+    link: https://goldenthread.org/productions/pilgrimage/
+  - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
     text: A﻿s the U.S. Government ramps up its attack on immigrants, vilification of
