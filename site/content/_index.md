@@ -23,18 +23,7 @@ items:
       Middle Eastern countries and people, and a﻿ctive defunding of the Arts, we
       must stand together to fight back. Please consider supporting Golden
       Thread to make sure that our work continues to grow and thrive.
-    image: https://ucarecdn.com/03ea8f22-ae1e-439d-ab47-1792bc266232/
+    image: https://ucarecdn.com/712999c8-7ed7-4dc0-8f37-dbb709e391de/
     cta: Donate Now
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
-  - subtitle: |-
-      **A﻿ Joint Statement to Support**\
-      **ACLU's Lawsuit Against the NEA**
-    link: https://www.zspace.org/joint-aclu-statement
-    cta: Read the full statement on Z Space's website
-    text: G﻿olden Thread and many of our Bay Area theater colleagues stand together
-      to defend the First Amendment and our Trans communities. We support ACLU's
-      lawsuit against the National Endowment for the Arts that challenges new
-      guidelines that eliminate funding for projects that the federal government
-      believes "promote gender ideology."
-    image: https://ucarecdn.com/77f6a99e-e3a6-4482-aa44-1195732e8fc0/
 ---
