@@ -96,8 +96,14 @@ cast:
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
   heading: Artist Biographies
 mentions:
-  text: "*A﻿n earlier version of this play was created in collaboration with Leila
-    Buck supported by a commission from Cal Shakes's New Classics program.*"
+  text: >-
+    A﻿n earlier version of this play, *1,001 Nights (A Retelling)*, was
+    c﻿o-created with Leila Buck supported by a commission from the New Classics
+    initiative at Cal Shakes (Eric Ting, Artistic Director; Sarah Williams,
+    Managing Director) 
+
+
+    *ORIENTAL* was supported with a writing retreat and artist award as part of Evren’s inclusion in the inaugural theater maker cohort of THE IRIS LAB, located at UC Santa Cruz, created and led by Lisa Marie Rollins.
 photos:
   heading: ""
   items: []
