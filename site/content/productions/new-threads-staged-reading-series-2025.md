@@ -97,13 +97,14 @@ cast:
   heading: Artist Biographies
 mentions:
   text: >-
-    A﻿n earlier version of this play, *1,001 Nights (A Retelling)*, was
-    c﻿o-created with Leila Buck supported by a commission from the New Classics
-    initiative at Cal Shakes (Eric Ting, Artistic Director; Sarah Williams,
-    Managing Director) 
+    T﻿his workshop of ORIENTAL is made possible in part by a generous grant from
+    the Kenneth Rainin Foundation's New & Experimental Works Program.
 
 
-    *ORIENTAL* was supported with a writing retreat and artist award as part of Evren’s inclusion in the inaugural theater maker cohort of THE IRIS LAB, located at UC Santa Cruz, created and led by Lisa Marie Rollins.
+    *ORIENTAL* is supported with a writing retreat and artist award as part of Evren’s inclusion in the inaugural theater maker cohort of THE IRIS LAB, located at UC Santa Cruz, created and led by Lisa Marie Rollins.
+
+
+    A﻿n earlier version of this play, *1,001 Nights (A Retelling)*, was c﻿o-created with Leila Buck supported by a commission from the New Classics initiative at Cal Shakes (Eric Ting, Artistic Director; Sarah Williams, Managing Director).
 photos:
   heading: ""
   items: []
