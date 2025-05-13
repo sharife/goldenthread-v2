@@ -3,32 +3,17 @@ title: Buy Tickets
 lists:
   - heading: ON SALE NOW
     items:
-      - title: AZAD (the rabbit and the wolf)
-        pre: April 11 - May 3, 2025 at Potrero Stage (1695 18th Street, San Francisco)
-        subtitle: ""
-        image: https://ucarecdn.com/d7efdea2-309d-459b-9de9-323d9de6f4e5/
-        text: >-
-          **\*\*SOLD OUT! Email boxoffice@goldenthread.org to join the waitlist
-          for our 8 PM performances on Friday, 5/2, or Saturday, 5/3\*\***
-
-
-          S﻿ee below for ticket pricing.
-
-
-          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/azad/)**
-        cta: ""
-        link: ""
       - title: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
         pre: June 7-8, 2025 at Potrero Stage (1695 18th Street, San Francisco)
         subtitle: A﻿ New Threads Workshop Production
         image: https://ucarecdn.com/c91870f4-0047-4bd7-b4db-551f812174d7/
         text: >-
-          T﻿ickets are $20.\
+          Pre-sale tickets available at a sliding scale ($20 suggested price).\
 
           \
 
           **[→ F﻿ind out more about the show](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/)**
-        cta: Buy Now
+        cta: Reserve Now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rgSHMAY
       - title: Pilgrimage
         pre: October 25 - November 9, 2025 at Z Space (450 Florida Street, San
