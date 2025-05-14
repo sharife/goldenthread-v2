@@ -23,11 +23,11 @@ AEA and non-AEA actor submissions for:
 ## PILGRIMAGE
 
 by **Humaira Ghilzai** and **Bridgette Dutta Portman**\
-directed by **[Michelle Talgarow](mailto:mtalgarow@hotmail.com)**\
+directed by **Michelle Talgarow**\
 associated directed by **Salim Razawi**
 
 **AUDITIONS**\
-Wednesday, May 21, 2025, at 6-10pm\
+Wednesday, May 21, 2025 at 6-10pm\
 Z Below, 470 Florida Street, San Francisco, CA, 94110
 
 **SYNOPSIS**\
@@ -50,11 +50,7 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1gCiNkOYB0b4s231M5aCQiYQXC_UOZfzd?usp=drive_link). \
 If you would like to read the full play before auditioning, please email [auditions@goldenthread.org](mailto:auditions@goldenthread.org). 
 
-
-
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)**
-
-
 
 **About Golden Thread** 
 Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
