@@ -24,7 +24,7 @@ AEA and non-AEA actor submissions for:
 
 by **Humaira Ghilzai** and **Bridgette Dutta Portman**\
 directed by **Michelle Talgarow**\
-associated directed by **Salim Razawi**
+associate directed by **Salim Razawi**
 
 **AUDITIONS**\
 Wednesday, May 21, 2025 at 6-10pm\
