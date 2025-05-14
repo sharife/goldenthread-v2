@@ -27,7 +27,7 @@ directed by **Michelle Talgarow**\
 associated directed by **Salim Razawi**
 
 **AUDITIONS**\
-Wednesday, May 21, 2025, at 6-10pm\
+Wednesday, May 21, 2025 at 6-10pm\
 Z Below, 470 Florida Street, San Francisco, CA, 94110
 
 **SYNOPSIS**\
