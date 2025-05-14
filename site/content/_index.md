@@ -7,6 +7,15 @@ cta: Get your tickets now to this absurd comedy!
 link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
 items:
   - subtitle: |-
+      **Audition for *Pilgrimage***\
+      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+    text: A﻿uditions for the world premiere, co-produced by **Z Space** and directed
+      by **Michelle Talgarow**, will take place **Wednesday, May 21, at 6-10pm**
+      at Z Below in San Francisco.
+    image: https://ucarecdn.com/b92b39c8-ad37-4b8f-9465-3319b24d821a/
+    cta: Sign up for an audition!
+    link: https://goldenthread.org/get-involved/casting/
+  - subtitle: |-
       **This August: *T﻿he Return***\
       **by Hanna Eady and Edward Mast**
     text: C﻿o-presented by **Art2Action, Inc.** and directed by **E﻿ady**, this
@@ -16,17 +25,6 @@ items:
     image: https://ucarecdn.com/baac8b04-d8ad-4ba4-893d-0f03923776c0/
     cta: Find out more
     link: https://goldenthread.org/productions/the-return/
-  - subtitle: |-
-      **T﻿his Fall: *Pilgrimage***\
-      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
-    text: Five women embark on a pilgrimage to Mecca. Noor, an Afghan American
-      immigrant, must fulfill her sister’s last wish. Will this pilgrimage bring
-      the five women closer, or will secrets, rivalries, and old wounds tear
-      them apart? T﻿his world premiere production is a co-production with **Z
-      Space** and is directed by **Michelle Talgarow**.
-    image: https://ucarecdn.com/b92b39c8-ad37-4b8f-9465-3319b24d821a/
-    cta: Find out more
-    link: https://goldenthread.org/productions/pilgrimage/
   - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
