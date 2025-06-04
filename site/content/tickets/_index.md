@@ -25,6 +25,19 @@ lists:
           what's listed below. Click \"Buy Now\" for more information."
         cta: Buy Now
         link: https://ci.ovationtix.com/34231/production/1228668?&_ga=2.74197842.1305164440.1738099497-1617700776.1738099497
+      - title: The Return
+        pre: August 7 - 24, 2025 at The Garret in A.C.T.'s Toni Rembre Theater (415
+          Geary Street San Francisco, CA 94102)
+        subtitle: ""
+        text: >-
+          Pre-sale tickets available at a sliding scale starting from $30 - $130
+          general admission, $20 previews. \
+
+          \
+
+          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/the-return/)**
+        cta: Buy now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
 ---
 - - -
 
