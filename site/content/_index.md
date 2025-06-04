@@ -13,7 +13,7 @@ items:
       time."'
     cta: Read the full letter
     link: https://goldenthread.org/posts/from-oriental-playwright-evren-odcikin/
-    image: https://ucarecdn.com/32db81de-b2da-469e-8088-82d639fc19d6/
+    image: https://ucarecdn.com/c226e6be-0fe3-4aaf-b5fe-0870a977192c/
   - subtitle: |-
       **This August: *T﻿he Return***\
       **by Hanna Eady and Edward Mast**
