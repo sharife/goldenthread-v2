@@ -6,15 +6,14 @@ background: https://ucarecdn.com/c8e831b7-48c3-430a-bb08-9990f8d8c432/
 cta: Get your tickets now to this absurd comedy!
 link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
 items:
-  - subtitle: |-
-      **Audition for *Pilgrimage***\
-      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
-    text: A﻿uditions for the world premiere, co-produced by **Z Space** and directed
-      by **Michelle Talgarow**, will take place **Wednesday, May 21, at 6-10pm**
-      at Z Below in San Francisco.
-    image: https://ucarecdn.com/b92b39c8-ad37-4b8f-9465-3319b24d821a/
-    cta: Sign up for an audition!
-    link: https://goldenthread.org/get-involved/casting/
+  - subtitle: "**F﻿rom *ORIENTAL* Playwright Evren Odcikin**"
+    text: '"﻿It turns out, when you are starting to feel defeated, you write a
+      comedy! That, in itself, is not surprising. I grew up in Turkey where the
+      tradition of comedy and satire as a political tool goes back a very long
+      time."'
+    cta: Read the full letter
+    link: https://goldenthread.org/posts/from-oriental-playwright-evren-odcikin/
+    image: https://ucarecdn.com/32db81de-b2da-469e-8088-82d639fc19d6/
   - subtitle: |-
       **This August: *T﻿he Return***\
       **by Hanna Eady and Edward Mast**
