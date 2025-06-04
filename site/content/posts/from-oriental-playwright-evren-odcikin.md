@@ -9,7 +9,7 @@ background: https://ucarecdn.com/40a61665-fe84-4e63-8156-f0ad3724e53d/
 ---
 *2024-25 Artist-in-Residence Evren Odcikin has had a 20+ year relationship with Golden Thread, and we're so proud to present his new comedy, [ORIENTAL, or 1001 Ways to Tie Yourself in Knots](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/) as part of our New Threads Staged Reading series. He lets us in on his inspirations behind the play.*
 
-<﻿hr>
+![](https://ucarecdn.com/1086eca1-7878-4cce-a861-846e96060c17/)
 
 I have a secret Notes app on my phone. I make a note whenever an artistic leader, a collaborator, a donor, or an audience member says something unintentionally xenophobic to me — usually within the context of helping me or giving me an opportunity. They run the gamut from breathtakingly awful to hilariously clueless! Don’t get me wrong, it still hurts to be on the receiving end of these remarks, but over the years, the ritual of taking the note has allowed me to put it down and MOVE ON! And until now, it had never occurred to me that I might have an artistic use for it.
 
