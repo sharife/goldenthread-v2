@@ -26,7 +26,7 @@ lists:
           \
 
           **[→ F﻿ind out more about the show](https://goldenthread.org/productions/the-return/)**
-        cta: Buy now
+        cta: Buy Now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
         image: https://ucarecdn.com/55aae4ae-9c3a-4e5a-99b5-eb3d209ca05e/
       - title: Pilgrimage
