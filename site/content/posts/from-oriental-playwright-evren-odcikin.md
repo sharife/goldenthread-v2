@@ -5,8 +5,13 @@ description: 2024-25 Artist-in-Residence Evren Odcikin has had a 20+ year
   relationship with Golden Thread, and we're so proud to present his new comedy,
   ORIENTAL, or 1001 Ways to Tie Yourself in Knots as part of our New Threads
   Staged Reading series.
+background: https://ucarecdn.com/40a61665-fe84-4e63-8156-f0ad3724e53d/
 ---
-I have a secret Notes app on my phone. I make a note whenever an artistic leader, a collaborator, a donor, or an audience member says something unintentionally xenophobic to me — usually within the context of helping me or giving me an opportunity. They run the gamut from breathtakingly awful to hilariously clueless! Don’t get me wrong, it still hurts to be on the receiving end of these remarks, but over the years, the ritual of taking the note has allowed me to put it down and MOVE ON! And until now, it had never occurred to me that I might have an artistic use for it. 
+*2024-25 Artist-in-Residence Evren Odcikin has had a 20+ year relationship with Golden Thread, and we're so proud to present his new comedy, [ORIENTAL, or 1001 Ways to Tie Yourself in Knots](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/) as part of our New Threads Staged Reading series. He lets us in on his inspirations behind the play.*
+
+<﻿hr>
+
+I have a secret Notes app on my phone. I make a note whenever an artistic leader, a collaborator, a donor, or an audience member says something unintentionally xenophobic to me — usually within the context of helping me or giving me an opportunity. They run the gamut from breathtakingly awful to hilariously clueless! Don’t get me wrong, it still hurts to be on the receiving end of these remarks, but over the years, the ritual of taking the note has allowed me to put it down and MOVE ON! And until now, it had never occurred to me that I might have an artistic use for it.
 
 **Enter stage left: *[ORIENTAL, or 1001 Ways to Tie Yourself in Knots](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/)*.** With *ORIENTAL*, I am trying to answer a simple question – one that I’ve been wrestling with for a long time: After two decades, why on earth am I still working at a career in the theater? As the world gets darker and fascism and genocide blatantly play out while so many in my life purposefully look away from it, what can my little plays accomplish? 
 
@@ -17,8 +22,6 @@ I have a secret Notes app on my phone. I make a note whenever an artistic leader
 **I don’t take this gift lightly — I rarely get to create in a space that allows me to build complex, messy, political narratives without censorship and mainstream pressure.** I’m so proud of what I’m making, and I cannot wait to share its current draft with the Golden Thread audiences. 
 
 I hope the laughs in the audience will be as uproarious as they’ve been in our rehearsal room. We sure can use some joy these days, no?
-
-![](https://ucarecdn.com/e0d3a8bc-87ec-4433-bd9c-35a9b88f4fcf/)
 
 Evren Odcikin\
 Playwright, ORIENTAL\
