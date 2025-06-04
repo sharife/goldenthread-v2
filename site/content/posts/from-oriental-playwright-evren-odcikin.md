@@ -23,6 +23,8 @@ I have a secret Notes app on my phone. I make a note whenever an artistic leader
 
 I hope the laughs in the audience will be as uproarious as they’ve been in our rehearsal room. We sure can use some joy these days, no?
 
+![](https://ucarecdn.com/193d021d-840a-445c-bd77-391b52f61071/)
+
 Evren Odcikin\
 Playwright, ORIENTAL\
 2024-25 Artist-in-Residence
