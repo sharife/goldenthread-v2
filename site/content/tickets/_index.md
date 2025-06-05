@@ -16,8 +16,8 @@ lists:
         cta: Reserve Now
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rgSHMAY
       - title: The Return
-        pre: August 7 - 24, 2025 at The Garret in A.C.T.'s Toni Rembre Theater (415
-          Geary Street San Francisco, CA 94102)
+        pre: August 7 - 24, 2025 at The Garret A.C.T. (415 Geary Street San Francisco,
+          CA 94102)
         subtitle: ""
         text: >-
           Pre-sale tickets available at a sliding scale starting from $30 - $130
