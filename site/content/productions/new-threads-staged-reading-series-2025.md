@@ -94,6 +94,17 @@ cast:
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
+    - name: JENNIFER LE BLANC
+      credit: Actor (Art Money Woman)
+      bio: is grateful to be part of this reading.  Jennifer has acted with Prague
+        Shakespeare Company, TheatreWorks, Denver Center for the Performing
+        Arts, SPARC, Pear Theatre, San Jose Stage Company, Perspective Theatre
+        Company, Pacific Rep, Aurora Theatre Company, Capital Stage, and
+        Colorado Shakespeare Festival. Jennifer received her MFA from the
+        National Theatre Conservatory.  She is an Associate Artist with Prague
+        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
+        [jenniferleblanc.com](http://www.jenniferleblanc.com/)
+      image: https://ucarecdn.com/20f02c0b-beab-4e49-bab5-299282e3f411/
     - bio: "is a queer Iranian performing artist, receiving her associate’s of arts in
         theatre from American River College. She has had the privilege of
         participating in various theatrical productions ranging from classics,
