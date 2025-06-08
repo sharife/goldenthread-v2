@@ -94,6 +94,16 @@ cast:
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
+    - name: GABRIELLA HOWELL
+      credit: Stage Manager
+      bio: is thrilled to join Golden Thread Productions for the first time as a
+        member of the *ORIENTAL* team. She has spent the past decade stage
+        managing for beloved Bay Area institutions such as San Francisco
+        Shakespeare Festival, Stanford University, Berkeley Playhouse, 42nd
+        Street Moon, Lamplighters, and more. Gaby most recently stage managed
+        *Art* at Shotgun Players and will be deck managing *Two Gentlemen of
+        Verona* with SF Shakes after this.
+      image: https://ucarecdn.com/a3d200b0-36e5-4cd6-af63-fce3af06fe63/
     - name: JENNIFER LE BLANC
       credit: Actor (Art Money Woman)
       bio: is grateful to be part of this reading.  Jennifer has acted with Prague
@@ -148,6 +158,18 @@ cast:
         Theatre Company, and Asya in Vice Arabia’s short film selections. She
         also works as a visual artist through murals across San Francisco homes
         and as an elementary school educator at The Hamlin School."
+    - name: AIDAA PEERZADA
+      credit: Actor (Rehana Bhaduri)
+      bio: "(*she/her*) is a Black and Pakistani American theatremaker based in the
+        Bay Area. Her plays have been developed with the Bay Area Playwrights
+        Festival, Prop Thtr, Catalyst: C3T, Meet Cute LA, Northern Sky Theatre,
+        and SF Bay Area Theatre Co. where she is also part of the artistic
+        staff. She is part of Crowded Fire Theatre’s 2024-2026 Resilience &
+        Development Cohort. Some of her favorite local performance credits
+        include *Sign My Name to Freedom* (SFBATCO) and *The N* Lovers* with
+        Magic Theatre. Aidaa studied at the Baltimore School for the Arts and
+        went on to receive her BFA in Drama from Carnegie Mellon University."
+      image: https://ucarecdn.com/4735ba84-f179-4bf9-9f75-cad6db3accee/
     - name: NIMA RAKHSHANIFAR
       credit: Actor (Cengiz "Gee" Kurban)
       bio: "returns to Golden Thread, where they recently appeared as Young Alaa in
@@ -182,16 +204,6 @@ cast:
       name: LEAH SANGINITI
       credit: Actor (Stage Directions)
       image: https://ucarecdn.com/cfd09ba2-b8b5-4b26-af7f-27ecf9a0fa86/
-    - name: GABRIELLA HOWELL
-      credit: Stage Manager
-      bio: is thrilled to join Golden Thread Productions for the first time as a
-        member of the *ORIENTAL* team. She has spent the past decade stage
-        managing for beloved Bay Area institutions such as San Francisco
-        Shakespeare Festival, Stanford University, Berkeley Playhouse, 42nd
-        Street Moon, Lamplighters, and more. Gaby most recently stage managed
-        *Art* at Shotgun Players and will be deck managing *Two Gentlemen of
-        Verona* with SF Shakes after this.
-      image: https://ucarecdn.com/a3d200b0-36e5-4cd6-af63-fce3af06fe63/
   heading: Artist Biographies
 mentions:
   text: >-
