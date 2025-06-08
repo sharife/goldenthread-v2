@@ -130,6 +130,18 @@ cast:
         Theatre Company, and Asya in Vice Arabia’s short film selections. She
         also works as a visual artist through murals across San Francisco homes
         and as an elementary school educator at The Hamlin School."
+    - name: NIMA RAKHSHANIFAR
+      credit: Actor (Cengiz "Gee" Kurban)
+      bio: "returns to Golden Thread, where they recently appeared as Young Alaa in
+        the w﻿orkshop production of *Alaa: A Family Trilogy*. Other credits
+        include Seth in *Bald Sisters* (World Premiere, Steppenwolf Theatre
+        Company), Farhad in *Andy Warhol in Iran* (World Premiere, Barrington
+        Stage Company), Taroon in *Selling Kabul* (Northern Stage), Henry in
+        *Sanctuary City*; Sebastian in *Twelfth Night* (TheatreSquared), Lucky
+        in *Waiting for Godot* (Victory Gardens), Angelo in *The Comedy of
+        Errors* (Chicago Shakespeare Theatre), and Belle’s Husband in *A
+        Christmas Carol* (Milwaukee Rep)."
+      image: https://ucarecdn.com/ce236363-17cc-4bf6-9b81-2046a7ecc7cc/
     - bio: "(she/her) is a queer, multiethnic director, choreographer, writer and
         performer specializing in new work development and theatre for young
         audiences. She currently partners with Berkeley Repertory Theatre to
