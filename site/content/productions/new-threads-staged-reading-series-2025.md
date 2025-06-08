@@ -115,6 +115,20 @@ cast:
         Horrors* (Moores School Of Music). E﻿ducation: BFA in Puppetry from
         Tehran University of Art and MFA in Scenic Design from the University of
         Houston. [afsanehaayani.com](https://www.afsanehaayani.com)"
+    - name: JAMES ARD
+      credit: Sound Designer
+      bio: is a noisemaker with a focus on new works, interactive media, and immersive
+        stage productions. Recent theatrical Sound Design credits include *Our
+        Country* (Octopus Theatricals / Under The Radar Festival / The Public
+        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry
+        Powder*, *The Royale* (Aurora Theatre Company); *This Is Who I A*m
+        (Playco / Woolly Mammoth Theatre Company / Guthrie Theater / Oregon
+        Shakespeare Festival / American Repertory Theater); *9 Parts of
+        Desire* (Portland Center Stage); *A Small Fire*, *Kings* (Shotgun
+        Players); *Our Town* (Center Repertory Company); *Indecent* (San
+        Francisco Playhouse). Ard is a Resident Artist with both Golden Thread
+        Productions and Crowded Fire Theater.
+      image: https://ucarecdn.com/3db3534b-4c63-4177-887e-beaf366f9d25/
     - name: GABRIELLA HOWELL
       credit: Stage Manager
       bio: is thrilled to join Golden Thread Productions for the first time as a
