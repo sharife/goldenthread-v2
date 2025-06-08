@@ -94,6 +94,41 @@ cast:
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
+    - name: AFSANEH AAYANI
+      credit: Puppet Consultant
+      image: https://ucarecdn.com/98e53bc7-ff76-466c-8d69-c1bcdc41d129/
+      bio: "is a Houston-based scenic designer, puppeteer, puppet maker, mask maker,
+        voice actress, and artist with over 15 years of industry experience.
+        R﻿egional Theatre (selected): *English* (The Old Globe and Alliance
+        Theatre); *A Christmas Carol* and Alley All New Festival (Alley
+        Theatre); *Birthday Candles* (Chautauqua Theater); *Disgraced* (American
+        Stage); *Romeo and Juliet* (Two River Theater); *The Ugly Christmas
+        Sweater* and *Frozen* (Theatre Under The Stars); and
+        *Alabaster* (Trinity Repertory Company). O﻿ther Credits: Meow Wolf
+        Houston; *Extinctionist* (Heartbeat Opera);
+        *Turn of the Screw*, *Innominate*, *Cleansed* and *Waiting for Godot*
+        (Catastrophic Theatre); *Roe* and *Black Superhero Magic
+        Mama* (Stages); *Frida* and *Sunday in the Park With George* (El Paso
+        Opera); *Big Swim* (Houston Grand Opera); *King Lear* (Houston
+        Shakespeare Festival); *Finding Nemo the Musical* (Theatre of the
+        Republic); *Blueberry’s Clubhouse* (Arkansas PBS); and *Little Shop of
+        Horrors* (Moores School Of Music). E﻿ducation: BFA in Puppetry from
+        Tehran University of Art and MFA in Scenic Design from the University of
+        Houston. [afsanehaayani.com](https://www.afsanehaayani.com)"
+    - name: JAMES ARD
+      credit: Sound Designer
+      bio: is a noisemaker with a focus on new works, interactive media, and immersive
+        stage productions. Recent theatrical Sound Design credits include *Our
+        Country* (Octopus Theatricals / Under The Radar Festival / The Public
+        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry
+        Powder*, *The Royale* (Aurora Theatre Company); *This Is Who I A*m
+        (Playco / Woolly Mammoth Theatre Company / Guthrie Theater / Oregon
+        Shakespeare Festival / American Repertory Theater); *9 Parts of
+        Desire* (Portland Center Stage); *A Small Fire*, *Kings* (Shotgun
+        Players); *Our Town* (Center Repertory Company); *Indecent* (San
+        Francisco Playhouse). Ard is a Resident Artist with both Golden Thread
+        Productions and Crowded Fire Theater.
+      image: https://ucarecdn.com/3db3534b-4c63-4177-887e-beaf366f9d25/
     - name: GABRIELLA HOWELL
       credit: Stage Manager
       bio: is thrilled to join Golden Thread Productions for the first time as a
