@@ -94,6 +94,116 @@ cast:
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
+    - name: GABRIELLA HOWELL
+      credit: Stage Manager
+      bio: is thrilled to join Golden Thread Productions for the first time as a
+        member of the *ORIENTAL* team. She has spent the past decade stage
+        managing for beloved Bay Area institutions such as San Francisco
+        Shakespeare Festival, Stanford University, Berkeley Playhouse, 42nd
+        Street Moon, Lamplighters, and more. Gaby most recently stage managed
+        *Art* at Shotgun Players and will be deck managing *Two Gentlemen of
+        Verona* with SF Shakes after this.
+      image: https://ucarecdn.com/a3d200b0-36e5-4cd6-af63-fce3af06fe63/
+    - name: JENNIFER LE BLANC
+      credit: Actor (Art Money Woman)
+      bio: is grateful to be part of this reading.  Jennifer has acted with Prague
+        Shakespeare Company, TheatreWorks, Denver Center for the Performing
+        Arts, SPARC, Pear Theatre, San Jose Stage Company, Perspective Theatre
+        Company, Pacific Rep, Aurora Theatre Company, Capital Stage, and
+        Colorado Shakespeare Festival. Jennifer received her MFA from the
+        National Theatre Conservatory.  She is an Associate Artist with Prague
+        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
+        [jenniferleblanc.com](http://www.jenniferleblanc.com/)
+      image: https://ucarecdn.com/20f02c0b-beab-4e49-bab5-299282e3f411/
+    - name: KINA KANTOR
+      credit: Actor (Zainab Brown Ansari)
+      bio: "(she/her) is a Bay Area actor, artist, cellist. Selected Regional credits
+        include: *Uncle Vanya* (Shakespeare Theatre Company/Berkeley Repertory
+        Theatre), the West Coast premiere of *Mrs. Christie* (TheatreWorks),
+        world premiere of Naomi Iizuka’s *Garuda’s Wing* in repertory with her
+        PlayOn! translation of *Richard II* (The Magic Theatre/Campo Santo),
+        originating the role of Gao-Ming in the world premiere of *The Great
+        Khan* (San Francisco Playhouse), *The Paper Dreams of Harry Chin* (San
+        Francisco Playhouse), *Tiny Beautiful Things* (San Francisco Playhouse),
+        *The Far Country* u/s (Berkeley Repertory Theatre), *The Great Wave* u/s
+        (Berkeley Repertory Theatre). Other credits include: American
+        Conservatory Theatre, Aurora Theatre, Marin Theatre and touring with The
+        San Francisco Mime Troupe. Kina is a company member of the Actor’s
+        Reading Collective (ARC) and PlayGround SF. She is a teaching artist for
+        SF Shakespeare Festival, StageWrite, Academy of Art University.  Film:
+        *Free* (2024), *You’ll Lose a Good Thing* (2024)"
+      image: https://ucarecdn.com/0c1efae7-8102-4155-bdcd-ed6dc939fa8f/
+    - bio: "is a queer Iranian performing artist, receiving her associate’s of arts in
+        theatre from American River College. She has had the privilege of
+        participating in various theatrical productions ranging from classics,
+        staged readings, devised works, and musicals. Her most recent work
+        includes *English* (Capital Stage), *G﻿eorgiana & Kitty* (Capital
+        Stage), *T﻿welfth Night* (California Stage), *T﻿he Newlywed Game* (B
+        Street Theatre), *T﻿he Most Massive Woman Wins* (Capital Stage), *F﻿or
+        the Love of Dog* (The Stage at Burke Junction), and *S﻿awyer Thompson*
+        (The Geery Theatre). Fatemeh is beyond thrilled to make her Golden
+        Thread debut with *ORIENTAL*!!! She hopes you laugh as much as we did!!
+        Instagram: @fatemeow"
+      name: FATEMEH MEHRABAN
+      credit: Actor (Layla Noor Sleiman)
+      image: https://ucarecdn.com/00b7729c-15d7-41b1-90eb-43cd464091c5/
+    - name: MAYA NAZZAL
+      credit: Actor (Mona Al-Shawaf)
+      image: https://ucarecdn.com/674cf13b-48ca-4a6b-ae7a-1f6f34ca3950/
+      bio: "is a Palestinian-American actor and writer in the Bay Area. She has a BA
+        in Theatre Arts and conservatory training from the Stella Adler Studio
+        of Acting in New York. Her acting credits include ensemble performer in
+        *11Reflections: San Francisco*, Baran in the world premier of *The
+        Tutor* at New Conservatory Theatre Center,  Maryam in *Noura* at Marin
+        Theatre Company, and Asya in Vice Arabia’s short film selections. She
+        also works as a visual artist through murals across San Francisco homes
+        and as an elementary school educator at The Hamlin School."
+    - name: AIDAA PEERZADA
+      credit: Actor (Rehana Bhaduri)
+      bio: "(*she/her*) is a Black and Pakistani American theatremaker based in the
+        Bay Area. Her plays have been developed with the Bay Area Playwrights
+        Festival, Prop Thtr, Catalyst: C3T, Meet Cute LA, Northern Sky Theatre,
+        and SF Bay Area Theatre Co. where she is also part of the artistic
+        staff. She is part of Crowded Fire Theatre’s 2024-2026 Resilience &
+        Development Cohort. Some of her favorite local performance credits
+        include *Sign My Name to Freedom* (SFBATCO) and *The N* Lovers* with
+        Magic Theatre. Aidaa studied at the Baltimore School for the Arts and
+        went on to receive her BFA in Drama from Carnegie Mellon University."
+      image: https://ucarecdn.com/4735ba84-f179-4bf9-9f75-cad6db3accee/
+    - name: NIMA RAKHSHANIFAR
+      credit: Actor (Cengiz "Gee" Kurban)
+      bio: "returns to Golden Thread, where they recently appeared as Young Alaa in
+        the w﻿orkshop production of *Alaa: A Family Trilogy*. Other credits
+        include Seth in *Bald Sisters* (World Premiere, Steppenwolf Theatre
+        Company), Farhad in *Andy Warhol in Iran* (World Premiere, Barrington
+        Stage Company), Taroon in *Selling Kabul* (Northern Stage), Henry in
+        *Sanctuary City*; Sebastian in *Twelfth Night* (TheatreSquared), Lucky
+        in *Waiting for Godot* (Victory Gardens), Angelo in *The Comedy of
+        Errors* (Chicago Shakespeare Theatre), and Belle’s Husband in *A
+        Christmas Carol* (Milwaukee Rep)."
+      image: https://ucarecdn.com/ce236363-17cc-4bf6-9b81-2046a7ecc7cc/
+    - bio: "(she/her) is a queer, multiethnic director, choreographer, writer and
+        performer specializing in new work development and theatre for young
+        audiences. She currently partners with Berkeley Repertory Theatre to
+        design original arts programming for youth and teaching artists and
+        produces the globally-acclaimed Bri Reads YouTube series. She is a
+        member of Alternative Theater Ensemble and facilitates workshops for all
+        ages that empower communities across the Bay Area with frameworks for
+        consent, self-advocacy, and resistance strategies through art. As a
+        performer, Leah has worked with Oregon Shakespeare Festival, Davis
+        Shakespeare Festival, and toured for years across the continent with Bay
+        Area Children's Theatre. She was last seen in From Above through the
+        Indigenous Performing Arts Residency at UC Berkeley's Arts Research
+        Center, and her upcoming original production *When They Ask If We Were
+        Real* is a 2024 Kenneth Rainin Foundation award recipient. Leah
+        frequently collaborates with theatres around the world, and her
+        experiences in Palestine, Jordan and Turkey have immeasurably shaped her
+        artistry. She is honored to make her Golden Thread debut.
+        [leahsanginiti.com](https://leahsanginiti.com/) IG:
+        [chleah](https://instagram.com/chleah)"
+      name: LEAH SANGINITI
+      credit: Actor (Stage Directions)
+      image: https://ucarecdn.com/cfd09ba2-b8b5-4b26-af7f-27ecf9a0fa86/
   heading: Artist Biographies
 mentions:
   text: >-
