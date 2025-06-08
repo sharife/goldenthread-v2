@@ -105,6 +105,24 @@ cast:
         Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
         [jenniferleblanc.com](http://www.jenniferleblanc.com/)
       image: https://ucarecdn.com/20f02c0b-beab-4e49-bab5-299282e3f411/
+    - name: KINA KANTOR
+      credit: Actor (Zainab Brown Ansari)
+      bio: "(she/her) is a Bay Area actor, artist, cellist. Selected Regional credits
+        include: *Uncle Vanya* (Shakespeare Theatre Company/Berkeley Repertory
+        Theatre), the West Coast premiere of *Mrs. Christie* (TheatreWorks),
+        world premiere of Naomi Iizuka’s *Garuda’s Wing* in repertory with her
+        PlayOn! translation of *Richard II* (The Magic Theatre/Campo Santo),
+        originating the role of Gao-Ming in the world premiere of *The Great
+        Khan* (San Francisco Playhouse), *The Paper Dreams of Harry Chin* (San
+        Francisco Playhouse), *Tiny Beautiful Things* (San Francisco Playhouse),
+        *The Far Country* u/s (Berkeley Repertory Theatre), *The Great Wave* u/s
+        (Berkeley Repertory Theatre). Other credits include: American
+        Conservatory Theatre, Aurora Theatre, Marin Theatre and touring with The
+        San Francisco Mime Troupe. Kina is a company member of the Actor’s
+        Reading Collective (ARC) and PlayGround SF. She is a teaching artist for
+        SF Shakespeare Festival, StageWrite, Academy of Art University.  Film:
+        *Free* (2024), *You’ll Lose a Good Thing* (2024)"
+      image: https://ucarecdn.com/0c1efae7-8102-4155-bdcd-ed6dc939fa8f/
     - bio: "is a queer Iranian performing artist, receiving her associate’s of arts in
         theatre from American River College. She has had the privilege of
         participating in various theatrical productions ranging from classics,
@@ -164,6 +182,16 @@ cast:
       name: LEAH SANGINITI
       credit: Actor (Stage Directions)
       image: https://ucarecdn.com/cfd09ba2-b8b5-4b26-af7f-27ecf9a0fa86/
+    - name: GABRIELLA HOWELL
+      credit: Stage Manager
+      bio: is thrilled to join Golden Thread Productions for the first time as a
+        member of the *ORIENTAL* team. She has spent the past decade stage
+        managing for beloved Bay Area institutions such as San Francisco
+        Shakespeare Festival, Stanford University, Berkeley Playhouse, 42nd
+        Street Moon, Lamplighters, and more. Gaby most recently stage managed
+        *Art* at Shotgun Players and will be deck managing *Two Gentlemen of
+        Verona* with SF Shakes after this.
+      image: https://ucarecdn.com/a3d200b0-36e5-4cd6-af63-fce3af06fe63/
   heading: Artist Biographies
 mentions:
   text: >-
