@@ -94,6 +94,20 @@ cast:
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
+    - bio: "is a queer Iranian performing artist, receiving her associate’s of arts in
+        theatre from American River College. She has had the privilege of
+        participating in various theatrical productions ranging from classics,
+        staged readings, devised works, and musicals. Her most recent work
+        includes *English* (Capital Stage), *G﻿eorgiana & Kitty* (Capital
+        Stage), *T﻿welfth Night* (California Stage), *T﻿he Newlywed Game* (B
+        Street Theatre), *T﻿he Most Massive Woman Wins* (Capital Stage), *F﻿or
+        the Love of Dog* (The Stage at Burke Junction), and *S﻿awyer Thompson*
+        (The Geery Theatre). Fatemeh is beyond thrilled to make her Golden
+        Thread debut with *ORIENTAL*!!! She hopes you laugh as much as we did!!
+        Instagram: @fatemeow"
+      name: Fatemeh
+      credit: (Layla Noor Sleiman)
+      image: https://ucarecdn.com/00b7729c-15d7-41b1-90eb-43cd464091c5/
   heading: Artist Biographies
 mentions:
   text: >-
