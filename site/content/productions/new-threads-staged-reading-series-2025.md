@@ -105,9 +105,20 @@ cast:
         (The Geery Theatre). Fatemeh is beyond thrilled to make her Golden
         Thread debut with *ORIENTAL*!!! She hopes you laugh as much as we did!!
         Instagram: @fatemeow"
-      name: Fatemeh
-      credit: (Layla Noor Sleiman)
+      name: FATEMEH MEHRABAN
+      credit: Actor
       image: https://ucarecdn.com/00b7729c-15d7-41b1-90eb-43cd464091c5/
+    - name: MAYA NAZZAL
+      credit: Actor
+      image: https://ucarecdn.com/674cf13b-48ca-4a6b-ae7a-1f6f34ca3950/
+      bio: "is a Palestinian-American actor and writer in the Bay Area. She has a BA
+        in Theatre Arts and conservatory training from the Stella Adler Studio
+        of Acting in New York. Her acting credits include ensemble performer in
+        *11Reflections: San Francisco*, Baran in the world premier of *The
+        Tutor* at New Conservatory Theatre Center,  Maryam in *Noura* at Marin
+        Theatre Company, and Asya in Vice Arabia’s short film selections. She
+        also works as a visual artist through murals across San Francisco homes
+        and as an elementary school educator at The Hamlin School."
   heading: Artist Biographies
 mentions:
   text: >-
