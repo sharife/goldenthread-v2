@@ -1,11 +1,21 @@
 ---
 title: Middle East Center Stage
-headline: ORIENTAL by Evren Odcikin
-subtitle: New Threads staged reading performs June 7 and 8
-background: https://ucarecdn.com/c8e831b7-48c3-430a-bb08-9990f8d8c432/
-cta: Get your tickets now to this absurd comedy!
-link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
+headline: "Next up: THE RETURN"
+subtitle: by Hanna Eady and Edward Mast
+background: https://ucarecdn.com/ede794d3-4f36-4863-9143-dec56b0925f5/
+cta: The powerful two-hander plays August 7-24!
+link: https://goldenthread.org/productions/the-return/
 items:
+  - subtitle: |-
+      **This Fall: *Pilgrimage***\
+      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
+    text: T﻿he world premiere is a co-production with **Z Space** and is d﻿irected
+      by **Michelle Talgarow.** In *Pilgrimage*, five women embark on a
+      pilgrimage to Mecca. Will this pilgrimage bring the five women closer, or
+      will secrets, rivalries, and old wounds tear them apart?
+    image: https://ucarecdn.com/7c562e5c-e8a8-48c7-ab67-4980e5179836/
+    cta: Find out more
+    link: https://goldenthread.org/productions/pilgrimage/
   - subtitle: "**F﻿rom *ORIENTAL* Playwright Evren Odcikin**"
     text: '"﻿It turns out, when you are starting to feel defeated, you write a
       comedy! That, in itself, is not surprising. I grew up in Turkey where the
@@ -14,16 +24,6 @@ items:
     cta: Read the full letter
     link: https://goldenthread.org/posts/from-oriental-playwright-evren-odcikin/
     image: https://ucarecdn.com/c226e6be-0fe3-4aaf-b5fe-0870a977192c/
-  - subtitle: |-
-      **This August: *T﻿he Return***\
-      **by Hanna Eady and Edward Mast**
-    text: C﻿o-presented by **Art2Action, Inc.** and directed by **E﻿ady**, this
-      "taut and provocative two-character play" (*DC Theater Arts*) will be
-      presented at The Garret, on the fifth floor of the A.C.T.'s Toni Rembe
-      Theater in San Francisco.
-    image: https://ucarecdn.com/baac8b04-d8ad-4ba4-893d-0f03923776c0/
-    cta: Find out more
-    link: https://goldenthread.org/productions/the-return/
   - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
