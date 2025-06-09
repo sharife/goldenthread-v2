@@ -14,7 +14,8 @@ description: >-
 
 
   Two people meeting in an auto-body shop in the mid-sized city Herzliya. They might or might not have known each other in the past. One of them is Palestinian, one of them is Israeli Jewish, and by the end of the play, both of their lives will be changed forever by the realities that surround them.
-titleimage: https://ucarecdn.com/1f8b043d-204e-4c1d-8728-29b4861ae70d/
+background: https://ucarecdn.com/f8aacf2d-d9c3-4f3f-9130-0bf40145fbb9/
+titleimage: ""
 writer: ""
 director: ""
 additional: ""
