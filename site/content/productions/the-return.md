@@ -21,6 +21,7 @@ additional: ""
 stage: The Garret, on the fifth floor of the A.C.T.'s Toni Rembe Theater
 address: 415 Geary Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
+ticketinfo: Pre-sale tickets are $20 for previews and $30-$130 for general admission.
 cast:
   items:
     - name: Art2Action, Inc.
