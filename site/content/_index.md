@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: "Next up: THE RETURN"
+headline: THE RETURN
 subtitle: by Hanna Eady and Edward Mast
 background: https://ucarecdn.com/ede794d3-4f36-4863-9143-dec56b0925f5/
 cta: The powerful two-hander plays August 7-24!
