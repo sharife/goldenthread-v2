@@ -53,19 +53,19 @@ cast:
     - name: ELIZABETH CARTER
       credit: Director
       image: https://ucarecdn.com/833d2354-1903-417f-8df2-336cbde5fde9/
-      bio: Favorite productions include *Fat Ham* (OSF), *Confederates* (The Repertory
-        Theatre of St. Louis), *C﻿rumbs from the Table* and *Stoop Stories*
-        (Aurora Theatre), *Wolf Play* (Shotgun Players), *Sweat* and *The Legend
-        of Georgia McBride* (Center Rep), *Steel Magnolias* (TheatreWorks
-        SV), *As You Like It* (California Shakespeare Theater), *for colored
-        girls...* (African American Shakespeare Co.)  and the new musical *Sign
-        My Name to Freedom* (SF Bay Area Theatre Co.). She was associate
-        director on *the ripple the wave that carried me home* (Berkeley
-        Rep/Goodman Theatre) and assistant director on *How I Learned What I
-        Learned* (Oregon Shakespeare Festival). She directed the groundbreaking
-        2020 virtual *King Lear* (SF Shakespeare Festival) and *Feel the
-        Spirit* (Shotgun Players/Colt Couer NYC). Her directorial film
-        debut *Bottled Spirits* won Best Narrative at the London Pan African
+      bio: Favorite productions include *Fat Ham* (OSF), *Confederates* (The Repertory
+        Theatre of St. Louis), *Crumbs from the Table* and *Stoop Stories*
+        (Aurora Theatre), *Wolf Play* (Shotgun Players), *Sweat* and *The Legend
+        of Georgia McBride* (Center Rep), *Steel Magnolias* (TheatreWorks
+        SV), *As You Like It* (California Shakespeare Theater), *for colored
+        girls...* (African American Shakespeare Co.)  and the new musical *Sign
+        My Name to Freedom* (SF Bay Area Theatre Co.). She was associate
+        director on *the ripple the wave that carried me home* (Berkeley
+        Rep/Goodman Theatre) and assistant director on *How I Learned What I
+        Learned* (Oregon Shakespeare Festival). She directed the groundbreaking
+        2020 virtual *King Lear* (SF Shakespeare Festival) and *Feel the
+        Spirit* (Shotgun Players/Colt Couer NYC). Her directorial film
+        debut *Bottled Spirits* won Best Narrative at the London Pan African
         Film Festival. She was the inaugural SDCF Lloyd Richards New Futures
         Resident Director at the Oregon Shakespeare Festival and a current Lucas
         Arts Fellow.
@@ -90,42 +90,42 @@ cast:
         such as ReOrient Festival of Short Plays, premiered hundreds of plays,
         and launched the careers of countless artists. A recipient of the
         Gerbode Playwright Commission Award, Torange’s plays are published in
-        New Iranian Plays, [Performing Iran,](<>) and Salaam.Peace Anthology of
+        New Iranian Plays, [Performing Iran,](<>) and Salaam.Peace Anthology of
         Middle Eastern American Drama. Torange was honored with a Lifetime
         Achievement Award by the Cairo International Festival.
         [torangeyeghiazarian.com](https://torangeyeghiazarian.com/)
     - name: AFSANEH AAYANI
       credit: Puppet Consultant
       image: https://ucarecdn.com/98e53bc7-ff76-466c-8d69-c1bcdc41d129/
-      bio: "is a Houston-based scenic designer, puppeteer, puppet maker, mask maker,
+      bio: "is a Houston-based scenic designer, puppeteer, puppet maker, mask maker,
         voice actress, and artist with over 15 years of industry experience.
-        R﻿egional Theatre (selected): *English* (The Old Globe and Alliance
-        Theatre); *A Christmas Carol* and Alley All New Festival (Alley
-        Theatre); *Birthday Candles* (Chautauqua Theater); *Disgraced* (American
-        Stage); *Romeo and Juliet* (Two River Theater); *The Ugly Christmas
-        Sweater* and *Frozen* (Theatre Under The Stars); and
-        *Alabaster* (Trinity Repertory Company). O﻿ther Credits: Meow Wolf
+        Regional Theatre (selected): *English* (The Old Globe and Alliance
+        Theatre); *A Christmas Carol* and Alley All New Festival (Alley
+        Theatre); *Birthday Candles* (Chautauqua Theater); *Disgraced* (American
+        Stage); *Romeo and Juliet* (Two River Theater); *The Ugly Christmas
+        Sweater* and *Frozen* (Theatre Under The Stars); and
+        *Alabaster* (Trinity Repertory Company). Other Credits: Meow Wolf
         Houston; *Extinctionist* (Heartbeat Opera);
-        *Turn of the Screw*, *Innominate*, *Cleansed* and *Waiting for Godot*
-        (Catastrophic Theatre); *Roe* and *Black Superhero Magic
-        Mama* (Stages); *Frida* and *Sunday in the Park With George* (El Paso
-        Opera); *Big Swim* (Houston Grand Opera); *King Lear* (Houston
-        Shakespeare Festival); *Finding Nemo the Musical* (Theatre of the
-        Republic); *Blueberry’s Clubhouse* (Arkansas PBS); and *Little Shop of
-        Horrors* (Moores School Of Music). E﻿ducation: BFA in Puppetry from
+        *Turn of the Screw*, *Innominate*, *Cleansed* and *Waiting for Godot*
+        (Catastrophic Theatre); *Roe* and *Black Superhero Magic
+        Mama* (Stages); *Frida* and *Sunday in the Park With George* (El Paso
+        Opera); *Big Swim* (Houston Grand Opera); *King Lear* (Houston
+        Shakespeare Festival); *Finding Nemo the Musical* (Theatre of the
+        Republic); *Blueberry’s Clubhouse* (Arkansas PBS); and *Little Shop of
+        Horrors* (Moores School Of Music). Education: BFA in Puppetry from
         Tehran University of Art and MFA in Scenic Design from the University of
         Houston. [afsanehaayani.com](https://www.afsanehaayani.com)"
     - name: JAMES ARD
       credit: Sound Designer
       bio: is a noisemaker with a focus on new works, interactive media, and immersive
-        stage productions. Recent theatrical Sound Design credits include *Our
-        Country* (Octopus Theatricals / Under The Radar Festival / The Public
-        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry
-        Powder*, *The Royale* (Aurora Theatre Company); *This Is Who I A*m
+        stage productions. Recent theatrical Sound Design credits include *Our
+        Country* (Octopus Theatricals / Under The Radar Festival / The Public
+        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry
+        Powder*, *The Royale* (Aurora Theatre Company); *This Is Who I A*m
         (Playco / Woolly Mammoth Theatre Company / Guthrie Theater / Oregon
-        Shakespeare Festival / American Repertory Theater); *9 Parts of
-        Desire* (Portland Center Stage); *A Small Fire*, *Kings* (Shotgun
-        Players); *Our Town* (Center Repertory Company); *Indecent* (San
+        Shakespeare Festival / American Repertory Theater); *9 Parts of
+        Desire* (Portland Center Stage); *A Small Fire*, *Kings* (Shotgun
+        Players); *Our Town* (Center Repertory Company); *Indecent* (San
         Francisco Playhouse). Ard is a Resident Artist with both Golden Thread
         Productions and Crowded Fire Theater.
       image: https://ucarecdn.com/3db3534b-4c63-4177-887e-beaf366f9d25/
@@ -141,18 +141,18 @@ cast:
       image: https://ucarecdn.com/a3d200b0-36e5-4cd6-af63-fce3af06fe63/
     - name: JENNIFER LE BLANC
       credit: Actor (Art Money Woman)
-      bio: is grateful to be part of this reading.  Jennifer has acted with Prague
+      bio: is grateful to be part of this reading.  Jennifer has acted with Prague
         Shakespeare Company, TheatreWorks, Denver Center for the Performing
         Arts, SPARC, Pear Theatre, San Jose Stage Company, Perspective Theatre
         Company, Pacific Rep, Aurora Theatre Company, Capital Stage, and
-        Colorado Shakespeare Festival. Jennifer received her MFA from the
-        National Theatre Conservatory.  She is an Associate Artist with Prague
-        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
+        Colorado Shakespeare Festival. Jennifer received her MFA from the
+        National Theatre Conservatory.  She is an Associate Artist with Prague
+        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
         [jenniferleblanc.com](http://www.jenniferleblanc.com/)
       image: https://ucarecdn.com/20f02c0b-beab-4e49-bab5-299282e3f411/
     - name: KINA KANTOR
       credit: Actor (Zainab Brown Ansari)
-      bio: "(she/her) is a Bay Area actor, artist, cellist. Selected Regional credits
+      bio: "(she/her) is a Bay Area actor, artist, cellist. Selected Regional credits
         include: *Uncle Vanya* (Shakespeare Theatre Company/Berkeley Repertory
         Theatre), the West Coast premiere of *Mrs. Christie* (TheatreWorks),
         world premiere of Naomi Iizuka’s *Garuda’s Wing* in repertory with her
@@ -165,17 +165,17 @@ cast:
         Conservatory Theatre, Aurora Theatre, Marin Theatre and touring with The
         San Francisco Mime Troupe. Kina is a company member of the Actor’s
         Reading Collective (ARC) and PlayGround SF. She is a teaching artist for
-        SF Shakespeare Festival, StageWrite, Academy of Art University.  Film:
+        SF Shakespeare Festival, StageWrite, Academy of Art University.  Film:
         *Free* (2024), *You’ll Lose a Good Thing* (2024)"
       image: https://ucarecdn.com/0c1efae7-8102-4155-bdcd-ed6dc939fa8f/
     - bio: "is a queer Iranian performing artist, receiving her associate’s of arts in
         theatre from American River College. She has had the privilege of
         participating in various theatrical productions ranging from classics,
         staged readings, devised works, and musicals. Her most recent work
-        includes *English* (Capital Stage), *G﻿eorgiana & Kitty* (Capital
-        Stage), *T﻿welfth Night* (California Stage), *T﻿he Newlywed Game* (B
-        Street Theatre), *T﻿he Most Massive Woman Wins* (Capital Stage), *F﻿or
-        the Love of Dog* (The Stage at Burke Junction), and *S﻿awyer Thompson*
+        includes *English* (Capital Stage), *Georgiana & Kitty* (Capital
+        Stage), *Twelfth Night* (California Stage), *The Newlywed Game* (B
+        Street Theatre), *The Most Massive Woman Wins* (Capital Stage), *For
+        the Love of Dog* (The Stage at Burke Junction), and *Sawyer Thompson*
         (The Geery Theatre). Fatemeh is beyond thrilled to make her Golden
         Thread debut with *ORIENTAL*!!! She hopes you laugh as much as we did!!
         Instagram: @fatemeow"
@@ -189,7 +189,7 @@ cast:
         in Theatre Arts and conservatory training from the Stella Adler Studio
         of Acting in New York. Her acting credits include ensemble performer in
         *11Reflections: San Francisco*, Baran in the world premier of *The
-        Tutor* at New Conservatory Theatre Center,  Maryam in *Noura* at Marin
+        Tutor* at New Conservatory Theatre Center, Maryam in *Noura* at Marin
         Theatre Company, and Asya in Vice Arabia’s short film selections. She
         also works as a visual artist through murals across San Francisco homes
         and as an elementary school educator at The Hamlin School."
@@ -201,14 +201,14 @@ cast:
         and SF Bay Area Theatre Co. where she is also part of the artistic
         staff. She is part of Crowded Fire Theatre’s 2024-2026 Resilience &
         Development Cohort. Some of her favorite local performance credits
-        include *Sign My Name to Freedom* (SFBATCO) and *The N* Lovers* with
+        include *Sign My Name to Freedom* (SFBATCO) and *The N* Lovers* with
         Magic Theatre. Aidaa studied at the Baltimore School for the Arts and
         went on to receive her BFA in Drama from Carnegie Mellon University."
       image: https://ucarecdn.com/4735ba84-f179-4bf9-9f75-cad6db3accee/
     - name: NIMA RAKHSHANIFAR
       credit: Actor (Cengiz "Gee" Kurban)
       bio: "returns to Golden Thread, where they recently appeared as Young Alaa in
-        the w﻿orkshop production of *Alaa: A Family Trilogy*. Other credits
+        the workshop production of *Alaa: A Family Trilogy*. Other credits
         include Seth in *Bald Sisters* (World Premiere, Steppenwolf Theatre
         Company), Farhad in *Andy Warhol in Iran* (World Premiere, Barrington
         Stage Company), Taroon in *Selling Kabul* (Northern Stage), Henry in
@@ -242,14 +242,14 @@ cast:
   heading: Artist Biographies
 mentions:
   text: >-
-    T﻿his workshop of ORIENTAL is made possible in part by a generous grant from
+    This workshop of ORIENTAL is made possible in part by a generous grant from
     the Kenneth Rainin Foundation's New & Experimental Works Program.
 
 
     *ORIENTAL* is supported with a writing retreat and artist award as part of Evren’s inclusion in the inaugural theater maker cohort of THE IRIS LAB, located at UC Santa Cruz, created and led by Lisa Marie Rollins.
 
 
-    A﻿n earlier version of this play, *1,001 Nights (A Retelling)*, was c﻿o-created with Leila Buck supported by a commission from the New Classics initiative at Cal Shakes (Eric Ting, Artistic Director; Sarah Williams, Managing Director).
+    An earlier version of this play, *1,001 Nights (A Retelling)*, was co-created with Leila Buck supported by a commission from the New Classics initiative at Cal Shakes (Eric Ting, Artistic Director; Sarah Williams, Managing Director).
 photos:
   heading: ""
   items: []
@@ -264,14 +264,14 @@ bottom:
   heading: ""
   text: ""
 ---
-The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
+The **2025 New Threads Staged Reading Series** features two staged reading performances of Artist-in-Residence Evren Odcikin's new work. Each reading includes a post-show conversation with the audience and the artists.
 
 ![](https://ucarecdn.com/685f72ef-5bfc-49e1-9b1d-cf21b9beaa90/)
 
 # Oriental, or 1001 Ways to Tie Yourself in Knots
 
-b﻿y **Evren Odcikin**\
-d﻿irected by **Elizabeth Carter**\
+by **Evren Odcikin**\
+directed by **Elizabeth Carter**\
 dramaturgy by **Torange Yeghiazarian**
 
-C﻿engiz has been commissioned to make an adaptation of *A Thousand and One Nights* from a Very Important Theater Company, and asked to bring his immigrant, Muslim, queer perspective to it. Unfortunately, he is not sure what all that means. As his characters revolt and refuse to tell the stories that he requires of them, can C﻿engiz face his demons, change the minds and hearts of his audience, and save all the women of the kingdom in the process? *ORIENTAL* is an absurdist look at the hilarious knots SWANA creatives must tie themselves in to tell their stories and make a career in the American theatre.
+Cengiz has been commissioned to make an adaptation of *A Thousand and One Nights* from a Very Important Theater Company, and asked to bring his immigrant, Muslim, queer perspective to it. Unfortunately, he is not sure what all that means. As his characters revolt and refuse to tell the stories that he requires of them, can Cengiz face his demons, change the minds and hearts of his audience, and save all the women of the kingdom in the process? *ORIENTAL* is an absurdist look at the hilarious knots SWANA creatives must tie themselves in to tell their stories and make a career in the American theatre.
