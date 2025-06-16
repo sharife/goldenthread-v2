@@ -10,16 +10,12 @@ module.exports = {
     main: path.join(__dirname, "src", "index.js"),
     cms: path.join(__dirname, "src", "js", "cms.js"),
   },
+
   output: {
     path: path.join(__dirname, "dist"),
     publicPath: ""
   },
-  resolve: {
-    fallback: {
-      "path": require.resolve("path-browserify"),
-      "stream": require.resolve("stream-browserify")
-    }
-  },
+
   module: {
     rules: [
       {
@@ -60,6 +56,7 @@ module.exports = {
       }
     ]
   },
+
   plugins: [
     new AssetsPlugin({
       filename: "webpack.json",
