@@ -1,14 +1,11 @@
 ---
 title: Support Social-Engaged Art
-sidebar:
-  heading: ""
-  text: ""
 ---
-[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.secure.force.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
-A﻿s the U.S. Government ramps up its attack on immigrants, vilification of Middle Eastern countries and people, and a﻿ctive defunding of the Arts, we must stand together to fight back. Please consider supporting Golden Thread to make sure that our work continues to grow and thrive.
+As the U.S. Government ramps up its attack on immigrants, vilification of Middle Eastern countries and people, and active defunding of the Arts, we must stand together to fight back. Please consider supporting Golden Thread to make sure that our work continues to grow and thrive.
 
-F﻿or almost 30 years as the first American theatre company devoted to the Middle East, Golden Thread has been a leader in changing the narrative on our o﻿ften-vilified region and its people. And our 2025 Season is no different!
+For almost 30 years as the first American theatre company devoted to the Middle East, Golden Thread has been a leader in changing the narrative on our often-vilified region and its people. And our 2025 Season is no different!
 
 ![](https://ucarecdn.com/317a08e0-de59-494a-84b9-b023ddd14b2f/)
 
