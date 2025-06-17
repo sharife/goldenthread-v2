@@ -183,20 +183,6 @@ staff:
 board:
   heading: Board of Trustees
   items:
-    - bio: <strong>May Allam</strong> *(she/her)* is Senior Director of Engineering at
-        TiVo, San Jose CA. She manages an Engineering organization responsible
-        for developing the TiVo experience for set-top boxes at millions of
-        households worldwide. Before joining TiVo, May worked at Palm and IBM
-        Cairo Scientific Center. Throughout her career, May focused on building
-        and empowering technical teams who develop great products. May is
-        passionate about performing arts and believes in the power and impact of
-        performing arts in widening of visions and spreading of genuine human
-        values. May is thrilled to support Golden Thread’s mission of building
-        bridges between the Middle East and the West by sharing stories and
-        opening a dialogue.
-      image: /img/archive/2019/02/Allam-May-300x300-2.jpg
-      name: May Allam
-      credit: President
     - name: Mona Masri
       bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
         fairer world where everyone has the resources they need to thrive. She’s
