@@ -6,21 +6,19 @@ date: 2004-08-17T01:45:00.000Z
 start: 2004-09-17T01:45:00.000Z
 end: 2004-10-11T01:45:00.000Z
 heading: Seven Short Plays Presented in Two Alternating Series
-description: Golden Thread Productions will present its annual festival of plays
-  about or written by playwrights from the Middle East at Noh Space in San
-  Francisco followed by two weeks at Ashby Stage in Berkeley.
+description: >-
+  Golden Thread Productions will present its annual festival of plays about or
+  written by playwrights from the Middle East at Noh Space in San Francisco
+  followed by two weeks at Ashby Stage in Berkeley.
+
+
+  This year's line up includes *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace; *Compression of a Casualty* by Kevin Doyle, about an Iraq War veteran; as well as a special performance OPENING WEEK ONLY by Bay Area's own Betty Shamieh, performing excerpts from her critically acclaimed play, *Chocolate in Heat, Growing Up Arab in America.*
 background: https://ucarecdn.com/eee0f69f-09c4-4a1f-8a9c-348a0b96c53a/-/crop/2013x1128/0,268/-/preview/
 titleimage: https://ucarecdn.com/6805eefa-1ff3-4006-b1a5-75c58eabb198/
 program: https://ucarecdn.com/10774236-7f11-4580-a9d5-497165c1c032/
-director: Hal Gelb, Arlene Hood, Amy Mueller, Laura Hope Owen, Meredith Weiss
-  Friedman, Torange Yeghiazarian
-featuring: Patrick Alparone, Suha Araj, Sheri Bass, Ben Beecroft, Toby Brooks,
-  Katy Brown, Ann Marie Donahue, Maxmillienne Ewalt, David Fierro, Nabil
-  Ghachem, Vida Ghahremani, Tiffany Harrison, Patrick A. Keene, Zak Kilberg,
-  Sara Luna, Patrick MacKellan, Keahn Malak-Madani, Doyle Ott, Lisa Tateosian
-  and Cyrus Tinati
-designteam: Mikiko Uesugi (scenic), Stephen Siegel (lighting), Marc Hagan
-  (sound), Keri Fitch (costumes), Miriam Behpour (graphic), Alan Jose (video)
+director: ""
+featuring: ""
+designteam: ""
 stage: Performed at the Noh Space and The Ashby Stage
 address: Noh Space (2840 Mariposa St., San Francisco); The Ashby Stage (1901
   Ashby Ave., Berkeley)
@@ -93,7 +91,7 @@ lists:
         itemend: 2021-01-21T08:01:12.980Z
         title: Don't Eat the Tomatoes
       - subtitle: by Kevin Doyle, directed by Laura Hope
-        image: ""
+        image: https://ucarecdn.com/c620b7d6-91cf-4134-b992-3f7716d36df1/
         text: >-
           CNN news reporters stuck in the narrative of an American soldier's
           death in Iraq. They can neither tell the deeper tale, nor move on.
@@ -267,4 +265,4 @@ bottom:
     Foundation, CA$H Grant, a program of Theatre Bay Area, San Francisco Art
     Commission.
 ---
-This year's line up includes *Between the Eyes*, a play by the MacArthur Genius Award recipient, Naomi Wallace, *Compression of a Casualty* by Kevin Doyle, about an Iraq War veteral; as well as a special performance OPENING WEEK ONLY by Bay Area's own Betty Shamieh, performing excerpts from her critically acclaimed play, *Chocolate in Heat, Growing Up Arab in America.*
+T﻿he artistic team for the ReOrient 2024 Festival includes directors Hal Gelb, Arlene Hood, Amy Mueller, Laura Hope Owen, Meredith Weiss Friedman, and Torange Yeghiazarian; actors Patrick Alparone, Suha Araj, Sheri Bass, Ben Beecroft, Toby Brooks, Katy Brown, Ann Marie Donahue, Maxmillienne Ewalt, David Fierro, Nabil Ghachem, Vida Ghahremani, Tiffany Harrison, Patrick A. Keene, Zak Kilberg, Sara Luna, Patrick MacKellan, Keahn Malak-Madani, Doyle Ott, Lisa Tateosian and Cyrus Tinati; and designers Mikiko Uesugi (scenic), Stephen Siegel (lighting), Marc Hagan (sound), Keri Fitch (costumes), Miriam Behpour (graphic), and Alan Jose (video).
