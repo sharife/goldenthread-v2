@@ -17,10 +17,10 @@ description: >-
 
   For four weeks, this one of a kind festival turns San Francisco into a Mecca for innovative, spirited, and thought-provoking theatre from around the world. Providing a rare opportunity for artists and audiences alike to engage deeply and directly with the Middle East in a creative and supportive setting that displaces misinformation and encourages understanding.
 background: https://ucarecdn.com/45f2b56a-5331-488a-adea-b525555f21a7/-/crop/1959x1118/0,188/-/preview/
-titleimage: https://ucarecdn.com/a76c1e92-8f4e-4329-9a7b-1c713a27ae61/
+titleimage: ""
 program: https://ucarecdn.com/fb6ef62e-b3ee-4154-b11e-039b04524438/
-writer: Yussef El Guindi, Motti Lerner, Betty Shamieh, Naomi Wallace, Torange
-  Yeghiazarian, Caveh Zahedi
+writer: Kevin Doyle, Yussef El Guindi, Motti Lerner, Betty Shamieh, Naomi
+  Wallace, Torange Yeghiazarian, Caveh Zahedi
 director: Arlene Hood, Hafiz Karmali, Mark Routhier, Bella Ramazan-Nia, Torange
   Yeghiazarian, M. Graham Smith
 featuring: Vida Ghahremani, Leah Herman, Afif Houssain, Charles Isen*, Suraya
@@ -140,14 +140,11 @@ lists:
           tale, nor move on.
 
 
-          Kevin Doyle (Playwright) is a writer and director of theatre and film from Brooklyn. Since 2005, he has served as the founding Artistic Director of the Brooklyn-based theatre company, Sponsored By Nobody. A college dropout, he worked for several years at odd jobs throughout New York State while studying art, literature and theatre on his own. Returning to college in
-
-          1999, he graduated with honors from the Drama Studies Program at Purchase College (SUNY) and studied theatre at the graduate level at Brooklyn College (CUNY). In 2004, his plays Styrofoam (Feed The Herd) and Compression of a Casualty (Golden Thread) premiered in New York City and San Francisco to critical acclaim. Since then, Doyle has written and/or directed seven original plays, while working as a music video director in France, Sweden and New
-
-          York City. In 2010, Doyle will be an Artist In Residence at Robert Wilson’s Watermill Center (NY) and the Monty Arts Centre (Belgium) in support of his play ATM or this is \[not] new york. He was recently accepted as a 2010 Resident Artist at the Mabou Mines/Suite Program in New York City.
+          Kevin Doyle (Playwright) is a writer and director of theatre and film from Brooklyn. Since 2005, he has served as the founding Artistic Director of the Brooklyn-based theatre company, Sponsored By Nobody. A college dropout, he worked for several years at odd jobs throughout New York State while studying art, literature and theatre on his own. Returning to college in 1999, he graduated with honors from the Drama Studies Program at Purchase College (SUNY) and studied theatre at the graduate level at Brooklyn College (CUNY). In 2004, his plays Styrofoam (Feed The Herd) and Compression of a Casualty (Golden Thread) premiered in New York City and San Francisco to critical acclaim. Since then, Doyle has written and/or directed seven original plays, while working as a music video director in France, Sweden and New York City. In 2010, Doyle will be an Artist In Residence at Robert Wilson’s Watermill Center (NY) and the Monty Arts Centre (Belgium) in support of his play ATM or this is \[not] new york. He was recently accepted as a 2010 Resident Artist at the Mabou Mines/Suite Program in New York City.
         title: Compression of a Casualty
         itemstart: 2021-02-05T09:01:13.108Z
         itemend: 2021-02-05T09:01:13.218Z
+        image: https://ucarecdn.com/f8d80712-acb5-4ebb-b0c3-76694fbc75c4/
       - subtitle: by Yussef El Guindi
         text: A Palestinian-American explores her identity in this poignant and comedic
           monologue. In the dialogue of nations, do you ever get the feeling
