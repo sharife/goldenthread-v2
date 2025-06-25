@@ -167,7 +167,7 @@ grids:
         title: Bounty of Lace
         pre: November 1st at A Traveling Jewish Theater
 cast:
-  heading: Cast & Crew
+  heading: Playwrights
   items:
     - bio: "**William Borden**'s scripts have won 37 national playwriting competitions
         and have had over 200 productions. The film version of his play, *The
@@ -178,6 +178,24 @@ cast:
         Theatre. He is a member of PEN, The Dramatists Guild, ASCAP and the
         Authors Guild."
       name: William Borden
+    - name: Kevin Doyle
+      bio: "**Kevin Doyle** (Playwright) is a writer and director of theatre and film
+        from Brooklyn. Since 2005, he has served as the founding Artistic
+        Director of the Brooklyn-based theatre company, Sponsored By Nobody. A
+        college dropout, he worked for several years at odd jobs throughout New
+        York State while studying art, literature and theatre on his own.
+        Returning to college in 1999, he graduated with honors from the Drama
+        Studies Program at Purchase College (SUNY) and studied theatre at the
+        graduate level at Brooklyn College (CUNY). In 2004, his plays Styrofoam
+        (Feed The Herd) and Compression of a Casualty (Golden Thread) premiered
+        in New York City and San Francisco to critical acclaim. Since then,
+        Doyle has written and/or directed seven original plays, while working as
+        a music video director in France, Sweden and New York City. In 2010,
+        Doyle will be an Artist In Residence at Robert Wilson’s Watermill Center
+        (NY) and the Monty Arts Centre (Belgium) in support of his play ATM or
+        this is \\[not] new york. He was recently accepted as a 2010 Resident
+        Artist at the Mabou Mines/Suite Program in New York City."
+      image: https://ucarecdn.com/353126ef-2f35-436f-bbea-4685b15fa65f/
     - name: Fatma Durmush
       bio: "**Fatma Durmush** was born in Larnaca, Cyprus, in 1959. At the age of six,
         she migrated to England with her family and, despite a brief return to
