@@ -19,4 +19,4 @@ Our health and safety protocols comply with current health and safety guidelines
 
 **SELF-ASSESSMENT** We ask that you self-assess your health before leaving home. If you are feeling ill, tested positive for COVID-19, or recently had close contact with anyone who has COVID-19, please stay home and contact the box office to arrange a free ticket exchange.
 
-You can reach the box office by email (boxoffice@goldenthread.org) or phone at (415) 505-4162. Calls and emails will be monitored and returned Monday–Friday from 10am to 6pm.
+You can reach the box office by email (boxoffice@goldenthread.org) or phone at (415) 626-4061. Calls and emails will be monitored and returned Monday–Friday from 10am to 5pm.
