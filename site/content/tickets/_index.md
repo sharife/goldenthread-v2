@@ -44,8 +44,6 @@ lists:
 
 Thank you for your interest in attending Golden Thread performances. Our ticket pricing and policies are a reflection of our commitment to provide equitable access for all. Read below for more details on our accessibility and masking policies.
 
-
-
 ## **TICKET PRICES** 
 
 A﻿t Golden Thread, nobody is turned away for lack of funds. 
@@ -107,4 +105,4 @@ Masks are optional, but strongly recommended at all performances. To make sure o
 
 ### **QUESTIONS?**
 
-Still have questions or need further assistance? Please email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) and our staff will get back to you shortly.
+Still have questions or need further assistance? Please email [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) or call us at (415) 626-4061 and our staff will get back to you shortly.
