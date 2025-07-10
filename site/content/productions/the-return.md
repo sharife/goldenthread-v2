@@ -66,7 +66,9 @@ bottom:
 
     We’re proud to collaborate with three important social justice organizations that are actively advocating for Palestinian liberation and justice: **AROC: Arab Resource and Organizing Center**, **Jewish Voice for Peace - Bay Area**, and **NorCal Sabeel**.
   logos:
-    - image: https://ucarecdn.com/ae4211e4-bdfe-4f8f-8ff0-c9bec65407e9/
+    - image: https://ucarecdn.com/42c1d427-0280-4af1-b5a9-8ea6cd634e05/
+    - image: https://ucarecdn.com/4a6cc092-780b-4ae5-a741-9c620b53fa5f/
+    - image: https://ucarecdn.com/e22e3f13-4dc9-4671-bc6b-8b87c7ab6f77/
 ---
 *The Return* was part of New Threads Staged Reading Series in 2024.
 
