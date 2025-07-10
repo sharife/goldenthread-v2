@@ -53,6 +53,21 @@ cast:
         Palestine in the Time of the Virus*, *The Love Tunnel: A Comedy of
         Occupation*, and *The Mulberry Tree*, which recently premiered in New
         York."
+bottom:
+  heading: Community Partners
+  text: "As we prepare for our upcoming production of *[The
+    Return](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf0\
+    40470966bd4152&id=52be8dd0c7&e=16c99e46a7)*We’re proud to collaborate with
+    three important social justice organizations that are actively advocating
+    for Palestinian liberation and justice: [AROC: Arab Resource and Organizing
+    Center](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf0\
+    40470966bd4152&id=9eb5c243ac&e=16c99e46a7), [Jewish Voice for Peace - Bay
+    Area](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf040\
+    470966bd4152&id=bfbfef7b31&e=16c99e46a7), and [NorCal
+    Sabeel](https://goldenthread.us12.list-manage.com/track/click?u=3d1bb4f6bf0\
+    40470966bd4152&id=734673f91c&e=16c99e46a7)."
+  logos:
+    - image: https://ucarecdn.com/ae4211e4-bdfe-4f8f-8ff0-c9bec65407e9/
 ---
 *The Return* was part of New Threads Staged Reading Series in 2024.
 
