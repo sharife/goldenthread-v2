@@ -53,6 +53,20 @@ cast:
         Palestine in the Time of the Virus*, *The Love Tunnel: A Comedy of
         Occupation*, and *The Mulberry Tree*, which recently premiered in New
         York."
+bottom:
+  heading: Supporters and Partners
+  text: >-
+    Golden Thread would like to acknowledge the support of **Art2Action, Inc.**,
+    **The William and Flora Hewlett Foundation**, and **The Zellerbach Family
+    Foundation**. 
+
+
+    This production is part of a multi-year partnership between Art2Action, Inc. and Golden Thread Productions uplifting Palestinian voices and artists. We are committed to **Protecting Dissent**, supporting voices that have been historically silenced, and speaking out against genocide, apartheid, and occupation in all forms.
+
+
+    We’re proud to collaborate with three important social justice organizations that are actively advocating for Palestinian liberation and justice: **AROC: Arab Resource and Organizing Center**, **Jewish Voice for Peace - Bay Area**, and **NorCal Sabeel**.
+  logos:
+    - image: https://ucarecdn.com/ae4211e4-bdfe-4f8f-8ff0-c9bec65407e9/
 ---
 *The Return* was part of New Threads Staged Reading Series in 2024.
 
