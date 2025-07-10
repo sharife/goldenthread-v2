@@ -4,7 +4,7 @@ date: 2025-07-10T18:18:58.377Z
 description: ""
 background: https://ucarecdn.com/d353f371-4d3d-4dab-b768-d51607c486f7/
 ---
-### **Palestinian narratives need and deserve your support!** 
+### **Palestinian narratives need and deserve your support!**
 
 Golden Thread is proud to produce *The Return*, the powerful play by Hanna Eady and Edward Mast. This moving piece highlights the erasure and violence Palestinians endure in their daily lives inside Israel. Eady, who grew up Palestinian in Northern Israel, brings that lived experience to this taut, hard-hitting two-hander and is directing the play.
 
@@ -12,7 +12,11 @@ Golden Thread is proud to produce *The Return*, the powerful play by Hanna Eady 
 
 These are frightening times in the world and in the U.S., and the pressure to remain silent in the face of war, fascism, and genocide is strong. At Golden Thread, we are resisting this silencing of dissent with brave, powerful narratives like *The Return*. **Lift your voice and help bring this impactful and important production to the Bay Area!**
 
+
+
 ### **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+
+
 
 **ABOUT *THE RETURN***\
 Two people meeting in an auto-body shop in the mid-sized city of Herzliya, Israel. They might or might not have known each other in the past. One of them is Palestinian, one of them is Israeli Jewish, and by the end of the play, both of their lives will be changed forever by the realities that surround them. This production is presented in partnership with **Art2Action, Inc**.
