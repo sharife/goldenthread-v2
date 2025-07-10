@@ -1,6 +1,7 @@
 ---
 title: Support THE RETURN
 date: 2025-07-10T18:39:12.223Z
+background: https://ucarecdn.com/61c3b089-7a20-415c-b1c2-bce7aefb8dc9/
 ---
 #### **Palestinian narratives need and deserve your support --** [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
