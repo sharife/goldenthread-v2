@@ -12,11 +12,9 @@ Golden Thread is proud to produce *The Return*, the powerful play by Hanna Eady 
 
 These are frightening times in the world and in the U.S., and the pressure to remain silent in the face of war, fascism, and genocide is strong. At Golden Thread, we are resisting this silencing of dissent with brave, powerful narratives like *The Return*. **Lift your voice and help bring this impactful and important production to the Bay Area!**
 
-
-
 ### **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
-
+![](https://ucarecdn.com/b9f5b276-2e02-4906-8fd9-07496204e4c6/)
 
 **ABOUT *THE RETURN***\
 Two people meeting in an auto-body shop in the mid-sized city of Herzliya, Israel. They might or might not have known each other in the past. One of them is Palestinian, one of them is Israeli Jewish, and by the end of the play, both of their lives will be changed forever by the realities that surround them. This production is presented in partnership with **Art2Action, Inc**.
