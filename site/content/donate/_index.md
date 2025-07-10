@@ -6,10 +6,10 @@ sidebar:
     #### **Palestinian narratives need and deserve your support!** 
 
 
-    *The Return* continues our commitment to uplift Palestinian artists and narratives — building on our deeply impactful 2024 Season for Palestine. The pressure to remain silent in the face of war, fascism, and genocide is strong, but we are resisting with brave, powerful narratives like *The Return*. [](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+    *The Return* continues our commitment to uplift Palestinian artists and narratives — building on our deeply impactful 2024 Season for Palestine. The pressure to remain silent in the face of war, fascism, and genocide is strong, but we are resisting with brave, powerful narratives like *The Return*. [](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)L﻿ift your voice and help bring this important production to the Bay Area!
 
 
-    [L﻿ift your voice and help bring this important production to the Bay Area!](https://goldenthread.org/posts/support-the-return/)
+    #### [D﻿ONATE NOW!](https://goldenthread.org/posts/support-the-return/)
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
