@@ -1,5 +1,5 @@
 ---
-title: Support Social-Engaged Art
+title: Support Socially-Engaged Art
 sidebar:
   heading: Support THE RETURN at Golden Thread
   text: >-
