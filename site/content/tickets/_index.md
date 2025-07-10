@@ -3,18 +3,6 @@ title: Buy Tickets
 lists:
   - heading: ON SALE NOW
     items:
-      - title: ORIENTAL, or 1001 Ways to Tie Yourself in Knots
-        pre: June 7-8, 2025 at Potrero Stage (1695 18th Street, San Francisco)
-        subtitle: A﻿ New Threads Workshop Production
-        image: https://ucarecdn.com/c91870f4-0047-4bd7-b4db-551f812174d7/
-        text: >-
-          Pre-sale tickets available at a sliding scale ($20 suggested price).\
-
-          \
-
-          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/new-threads-staged-reading-series-2025/)**
-        cta: Reserve Now
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000006rgSHMAY
       - title: The Return
         pre: August 7 - 24, 2025 at The Garret A.C.T. (415 Geary Street San Francisco,
           CA 94102)
