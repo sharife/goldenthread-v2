@@ -197,5 +197,5 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 	[[menu.secondary]]
 	identifier = "donate"
 	name = "DONATE NOW"
-	url = "/donate"
+	url = "https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI"
 	weight = 2
