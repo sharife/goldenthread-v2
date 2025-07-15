@@ -64,7 +64,7 @@ bottom:
     This production is part of a multi-year partnership between Art2Action, Inc. and Golden Thread Productions uplifting Palestinian voices and artists. We are committed to **Protecting Dissent**, supporting voices that have been historically silenced, and speaking out against genocide, apartheid, and occupation in all forms.
 
 
-    We’re proud to collaborate with three important social justice organizations that are actively advocating for Palestinian liberation and justice: **[AROC: Arab Resource and Organizing Center](https://www.araborganizing.org/)**, **[Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/)**, **[MECA: Middle East Children’s Alliance](https://www.mecaforpeace.org/)**, and **[NorCal Sabeel](https://www.norcalsabeel.org/)**.
+    We’re proud to collaborate with four important social justice organizations that are actively advocating for Palestinian liberation and justice: **[AROC: Arab Resource and Organizing Center](https://www.araborganizing.org/)**, **[Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/)**, **[MECA: Middle East Children’s Alliance](https://www.mecaforpeace.org/)**, and **[NorCal Sabeel](https://www.norcalsabeel.org/)**.
   logos:
     - image: https://ucarecdn.com/42c1d427-0280-4af1-b5a9-8ea6cd634e05/
     - image: https://ucarecdn.com/4a6cc092-780b-4ae5-a741-9c620b53fa5f/
