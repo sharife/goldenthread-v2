@@ -14,7 +14,7 @@ items:
       including post show audience survey distribution.
     cta: Sign up now
     link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-57560273-the#/
-    image: https://ucarecdn.com/b4050a66-2ad5-4570-9021-70abbea05aa8/
+    image: https://ucarecdn.com/9a1e67a8-0b47-4a7e-9d7a-e8eb346f0141/
   - subtitle: |-
       **This Fall: *Pilgrimage***\
       **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
