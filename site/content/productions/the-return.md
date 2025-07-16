@@ -54,7 +54,7 @@ cast:
         Occupation*, and *The Mulberry Tree*, which recently premiered in New
         York."
 photos:
-  heading: Rehearsal Photos
+  heading: Rehearsal Photos by Wynne Chan
   items:
     - image: https://ucarecdn.com/e70523d9-f7e1-48bc-b2aa-46d254165955/
     - image: https://ucarecdn.com/874cacf7-eaab-4e2a-b760-00c4c57733f1/
