@@ -53,6 +53,15 @@ cast:
         Palestine in the Time of the Virus*, *The Love Tunnel: A Comedy of
         Occupation*, and *The Mulberry Tree*, which recently premiered in New
         York."
+photos:
+  heading: Rehearsal Photos
+  items:
+    - image: https://ucarecdn.com/e70523d9-f7e1-48bc-b2aa-46d254165955/
+    - image: https://ucarecdn.com/874cacf7-eaab-4e2a-b760-00c4c57733f1/
+    - image: https://ucarecdn.com/f3d9eec5-f292-4859-ac34-dbb65aebd258/
+    - image: https://ucarecdn.com/2ce74805-936c-4765-9b19-ea2e7df02664/
+    - image: https://ucarecdn.com/47c7865b-e17b-4326-b839-8d979e0980d0/
+    - image: https://ucarecdn.com/d138f745-2659-495b-9290-f7a3a42a8689/
 bottom:
   heading: Supporters and Partners
   text: >-
@@ -76,3 +85,5 @@ bottom:
 “…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.” – John Stoltenberg, DC Theater Arts 
 
 “The Return is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people.” – *South Seattle Emerald*
+
+"*The Return* is a play that has to be watched; it can't be explained or summarized. At least, that's what Eady says. 'I can't tell you too much about the plot, because the way the structure works is that it unfolds as the audience would watch it,' said Eady, adding that it's a mystery." – *South Seattle Emerald*
