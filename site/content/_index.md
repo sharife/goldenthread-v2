@@ -7,6 +7,15 @@ cta: The powerful two-hander plays August 7-24!
 link: https://goldenthread.org/productions/the-return/
 items:
   - subtitle: |-
+      **V﻿olunteer for *The Return***\
+      **a﻿nd See the Show For Free!**
+    text: Thank you for considering volunteering with Golden Thread! Volunteers and
+      help with event door monitoring, seating assistance, and general support
+      including post show audience survey distribution.
+    cta: Sign up now
+    link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-57560273-the#/
+    image: https://ucarecdn.com/b4050a66-2ad5-4570-9021-70abbea05aa8/
+  - subtitle: |-
       **This Fall: *Pilgrimage***\
       **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
     text: T﻿he world premiere is a co-production with **Z Space** and is d﻿irected
@@ -16,14 +25,6 @@ items:
     image: https://ucarecdn.com/7c562e5c-e8a8-48c7-ab67-4980e5179836/
     cta: Find out more
     link: https://goldenthread.org/productions/pilgrimage/
-  - subtitle: "**F﻿rom *ORIENTAL* Playwright Evren Odcikin**"
-    text: '"﻿It turns out, when you are starting to feel defeated, you write a
-      comedy! That, in itself, is not surprising. I grew up in Turkey where the
-      tradition of comedy and satire as a political tool goes back a very long
-      time."'
-    cta: Read the full letter
-    link: https://goldenthread.org/posts/from-oriental-playwright-evren-odcikin/
-    image: https://ucarecdn.com/c226e6be-0fe3-4aaf-b5fe-0870a977192c/
   - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
