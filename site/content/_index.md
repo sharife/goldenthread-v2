@@ -16,16 +16,6 @@ items:
     link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-57560273-the#/
     image: https://ucarecdn.com/9a1e67a8-0b47-4a7e-9d7a-e8eb346f0141/
   - subtitle: |-
-      **This Fall: *Pilgrimage***\
-      **b﻿y Humaira Ghilzai and Bridgette Dutta Portman**
-    text: T﻿he world premiere is a co-production with **Z Space** and is d﻿irected
-      by **Michelle Talgarow.** In *Pilgrimage*, five women embark on a
-      pilgrimage to Mecca. Will this pilgrimage bring the five women closer, or
-      will secrets, rivalries, and old wounds tear them apart?
-    image: https://ucarecdn.com/7c562e5c-e8a8-48c7-ab67-4980e5179836/
-    cta: Find out more
-    link: https://goldenthread.org/productions/pilgrimage/
-  - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
     text: A﻿s the U.S. Government ramps up its attack on immigrants, vilification of
@@ -35,4 +25,15 @@ items:
     image: https://ucarecdn.com/712999c8-7ed7-4dc0-8f37-dbb709e391de/
     cta: Donate Now
     link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
+  - subtitle: |-
+      **O-Teatron: Special Focus** \
+      **on Syrian Stages**
+    text: G﻿olden Thread P﻿roductions and ATHE present a digital showcase o﻿f
+      full-length performances, with a special focus on Syrian stages — both
+      local and diasporic. T﻿his presentation is in direct response to the
+      recent political transformations in Syria, and includes two artist
+      conversations on July 29 and 30.
+    image: https://ucarecdn.com/8587c65b-58a0-4eab-a7e4-87f366e2e670/
+    cta: Find out more and watch
+    link: https://howlround.com/happenings/o-teatron-performances-available-online
 ---
