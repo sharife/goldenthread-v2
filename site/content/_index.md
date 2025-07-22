@@ -18,12 +18,12 @@ items:
   - subtitle: |-
       **O-Teatron: Special Focus** \
       **on Syrian Stages**
-    text: G﻿olden Thread P﻿roductions and ATHE present a digital showcase o﻿f four
-      full-length performances available through August 1, 2025. T﻿his
-      presentation brings a special focus on Syrian stages, both local and
-      diasporic, and is in direct response to the recent political
-      transformations in Syria, and includes two artist conversations on July 29
-      and 30.
+    text: G﻿olden Thread P﻿roductions and O-Teatron present a digital showcase o﻿f
+      four full-length performances available through August 1, 2025, a﻿s part
+      of the ATHE Conference. T﻿his presentation brings a special focus on
+      Syrian stages, both local and diasporic, and is in direct response to the
+      recent political transformations in Syria, and includes two artist
+      conversations on July 29 and 30.
     image: https://ucarecdn.com/8587c65b-58a0-4eab-a7e4-87f366e2e670/
     cta: Find out more and watch
     link: https://howlround.com/happenings/o-teatron-performances-available-online
