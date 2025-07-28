@@ -104,6 +104,8 @@ bottom:
     - image: https://ucarecdn.com/ce4617b8-8a62-4f6d-bfc2-87c73c71bb44/
     - image: https://ucarecdn.com/e22e3f13-4dc9-4671-bc6b-8b87c7ab6f77/
 ---
+**PRESS ABOUT *THE RETURN*:**
+
 “…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.” – John Stoltenberg, DC Theater Arts 
 
 “The Return is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people. I﻿t is a play that has to be watched; it can't be explained or summarized. At least, that's what Eady says. 'I can't tell you too much about the plot, because the way the structure works is that it unfolds as the audience would watch it,' said Eady, adding that it's a mystery." – *South Seattle Emerald*
