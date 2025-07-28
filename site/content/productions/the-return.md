@@ -73,6 +73,7 @@ cast:
         Palestine in the Time of the Virus*, *The Love Tunnel: A Comedy of
         Occupation*, and *The Mulberry Tree*, which recently premiered in New
         York."
+  heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
   items:
