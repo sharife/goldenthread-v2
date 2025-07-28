@@ -108,3 +108,9 @@ bottom:
 “The Return is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people.” – *South Seattle Emerald*
 
 "*The Return* is a play that has to be watched; it can't be explained or summarized. At least, that's what Eady says. 'I can't tell you too much about the plot, because the way the structure works is that it unfolds as the audience would watch it,' said Eady, adding that it's a mystery." – *South Seattle Emerald*
+
+**C﻿AST:**\
+Nick Musleh and Elissa Stebbins
+
+**C﻿REATIVE TEAM:**\
+James Ard (sound designer), Kate Boyd (scenic and lighting designer), K’Zhane McGill (stage manager), Michelle Mulholland (costume designer), and Hector Zavala (production manager)
