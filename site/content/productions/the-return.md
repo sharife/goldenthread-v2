@@ -23,6 +23,26 @@ stage: The Garret, on the fifth floor of the A.C.T.'s Toni Rembe Theater
 address: 415 Geary Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
 ticketinfo: Pre-sale tickets are $20 for previews and $30-$130 for general admission.
+lists:
+  - heading: Special Conversations
+    items:
+      - itemstart: 2025-07-28T22:55:37.373Z
+        itemend: 2025-07-28T22:55:37.384Z
+        title: Post-show Talkbacks with Hanna Eady and Edward Mast
+        pre: August 7-9, 2025
+        subtitle: ""
+        image: https://ucarecdn.com/6f496563-1eb6-4939-9ce2-737ab9203459/
+        text: >-
+          Our three preview performances will be followed by special post-show
+          conversations with lead artists.
+
+
+          * **Thursday, August 7:** Co-writer and director Hanna Eady
+
+          * **Friday, August 8:** Co-writer and director Hanna Eady
+
+          * **Saturday, August 9:** Playwrights Hanna Eady and Edward Mast
+        cta: ""
 cast:
   items:
     - name: Art2Action, Inc.
