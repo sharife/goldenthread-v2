@@ -107,7 +107,7 @@ bottom:
 **PRESS ABOUT *THE RETURN*:**
 
 **For two Palestinian artists, making S.F. theater is resistance**\
-**"**﻿I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
+﻿"I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
 who I am. I have to continue to bang at the door until my story is heard." --Hanna Eady\
 [R﻿ead the full *San Francisco Chronicle* interview with Hanna Eady (*The Return*) and Hend Ayoub (*Home?*)](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)
 
