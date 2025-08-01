@@ -105,7 +105,7 @@ cast:
       image: https://ucarecdn.com/3041b828-d896-456d-a108-45c213675605/
       bio: is a noisemaker specializing in new works, live experiences, and immersive
         stage productions. His designs with Golden Thread include *The Most
-        Dangerous Highway in the World*, *Scenes From 71* Years*, *On The
+        Dangerous Highway in the World*, *Scenes From 71* Years*,* On The
         Periphery*, and various ReOrient short play festivals. Other work
         includes collaborations with Under the Radar at The Public Theater,
         American Conservatory Theater, TheatreWorks Silicon Valley, Summerhall
@@ -116,8 +116,8 @@ cast:
         Goode Performance Group, Stanford University, Atlantic Theater Company,
         and the University of California, Berkeley. Ard is currently an
         affiliated artist with Golden Thread Productions and a resident artist
-        with Crowded Fire Theater.
-      link: https://jamesard.com
+        with Crowded Fire Theater. [jamesard.com](https://www.jamesard.com)
+      link: ""
     - name: Kate Boyd
       credit: Scenic and Lighting Designer
       image: https://ucarecdn.com/ec98e839-215a-4f15-8244-553d45f22672/
@@ -162,10 +162,11 @@ cast:
         Leyenda de Georgia McBride and the bilingual solo show *Seeking the Last
         Gay Man*. Hector’s work is rooted in cultural integrity, queer
         visibility, and transformative artistry.
+        [hectorzavala.com](https://www.hectorzavala.com)
       name: Hector Zavala
       credit: Production Manager
       image: https://ucarecdn.com/7cf5bb7f-f546-4e15-b1c0-8e1741fd8985/
-      link: https://hectorzavala.com
+      link: ""
     - name: Bessie Zolno
       credit: Intimacy Choreographer
       bio: "is a mental health-informed violence and intimacy choreographer and mental
@@ -180,8 +181,9 @@ cast:
         across both professional productions and educational settings. This
         summer, her work can be seen across the Bay Area in: *Sweeney Todd*
         (Cabrillo Stage), *Hamlet* (Oakland Theater Project), *Head Over Heels*
-        (City Lights Theater Company), and *Alabaster* (Town Hall Theater)."
-      link: https://bessiezolno.com
+        (City Lights Theater Company), and *Alabaster* (Town Hall Theater).
+        [bessiezolno.com](https://www.bessiezolno.com)"
+      link: ""
       image: https://ucarecdn.com/e5b7176b-d3f2-4418-b3ba-26a8ed6ce9b5/
     - name: Art2Action, Inc.
       credit: Producing Partner
@@ -194,6 +196,7 @@ cast:
         disabilities, and creative allies in the creation of contemporary work.
         We are dedicated to cultural equity and aesthetic innovation, artistic
         quality and community impact.
+        [art2action.org](https://www.art2action.org)
   heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
