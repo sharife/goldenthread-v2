@@ -188,7 +188,7 @@ cast:
     - name: Art2Action, Inc.
       credit: Producing Partner
       image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
-      link: https://www.art2action.org
+      link: ""
       bio: creates, develops, produces, and presents original theatre,
         interdisciplinary performances, artistic interventions, and progressive
         cultural organizing. We support Black, Indigenous, artists of color,
