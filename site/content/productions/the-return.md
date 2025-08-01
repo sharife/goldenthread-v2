@@ -66,23 +66,23 @@ cast:
         in New York."
     - name: Nick Musleh
       credit: Actor (Him)
-      bio: "**Nick Musleh** played Hamlet at Marin Shakespeare Company where he is an
-        artistic associate and resident dramaturg. He also co-created and
-        performed in the *Untime* at MSC. Before returning to San Francisco, he
-        acted in Los Angeles for roughly 20 years, playing recurring and guest
-        star roles on on network television and in original plays at Theatre
-        West, where he was an artistic board member and Shakespeare workshop
-        moderator. Several of the plays he performed in and directed received
-        critical acclaim, including the Los Angeles Times Critic’s pick for
-        *Against the Wall*. He created the role of Daniel Baker in Mark
-        Wilding’s *Our Man in Santiago*, which he also debuted Off-Broadway.
-        Nick has adapted Shakespeare for the stage and screen; his *Love’s
-        Labour’s Lost* is still taught in colleges and he is the co-creator of
-        the *Rosy Cross* series being developed in Europe. He attended Solano
-        Community College, Santa Clara University, and the UCLA School of
-        Theater, Film & Television and has performed in Shakespeare productions
-        throughout the Bay Area. He is a theater professor at Laney College and
-        the Oakland School for the Arts."
+      bio: "*(he/him)* played the titular role in *Hamlet* and co-created and
+        performed in the *Untime* at Marin Shakespeare Company, where he is an
+        artistic associate and resident dramaturg. Before returning to San
+        Francisco, he acted in Los Angeles for roughly 20 years, playing
+        recurring and guest star roles on on network television and in original
+        plays at Theatre West, where he was an artistic board member and
+        Shakespeare workshop moderator. Several of the plays he performed in and
+        directed received critical acclaim, including the Los Angeles Times
+        Critic’s pick for *Against the Wall*. He created the role of Daniel
+        Baker in Mark Wilding’s *Our Man in Santiago*, which he also debuted
+        Off-Broadway. Nick has adapted Shakespeare for the stage and screen; his
+        *Love’s Labour’s Lost* is still taught in colleges and he is the
+        co-creator of the *Rosy Cross* series being developed in Europe. He
+        attended Solano Community College, Santa Clara University, and the UCLA
+        School of Theater, Film & Television and has performed in Shakespeare
+        productions throughout the Bay Area. He is a theater professor at Laney
+        College and the Oakland School for the Arts."
       image: https://ucarecdn.com/de0fd209-a1f1-448f-877e-1643c9df94c2/
     - name: Elissa Beth Stebbins
       credit: Actor (Her)
@@ -103,9 +103,9 @@ cast:
     - name: James Ard
       credit: Sound Designer
       image: https://ucarecdn.com/3041b828-d896-456d-a108-45c213675605/
-      bio: is a noisemaker specializing in new works, live experiences, and immersive
-        stage productions. His designs with Golden Thread include *The Most
-        Dangerous Highway in the World*, *Scenes From 71* Years*,* On The
+      bio: (he/him) is a noisemaker specializing in new works, live experiences, and
+        immersive stage productions. His designs with Golden Thread include *The
+        Most Dangerous Highway in the World*, *Scenes From 71* Years*,* On The
         Periphery*, and various ReOrient short play festivals. Other work
         includes collaborations with Under the Radar at The Public Theater,
         American Conservatory Theater, TheatreWorks Silicon Valley, Summerhall
@@ -121,31 +121,32 @@ cast:
     - name: Kate Boyd
       credit: Scenic and Lighting Designer
       image: https://ucarecdn.com/ec98e839-215a-4f15-8244-553d45f22672/
-      bio: is a Bay Area scenic and lighting designer. She recently designed the
-        lights for *Waste* at Marin Theatre Company and scenery for *Simple
-        Mexican Pleasures* at NCTC. She has designed sets at Aurora Theater for
-        *Born with Teeth, Hurricane Diane* and *Everything is Illuminated*. She
-        has also designed at Portland Center Stage, Magic Theater, Merola Opera,
-        the SF Conservatory of Music, Company C Ballet and Theaterworks. Kate is
-        an affiliated artist with Golden Thread Productions and a recipient of
-        the Gerbode Design Fellowship. Kate teaches stagecraft and design at
-        Lick-Wilmerding High School.
+      bio: (﻿she/her) is a Bay Area scenic and lighting designer. She recently
+        designed the lights for *Waste* at Marin Theatre Company and scenery for
+        *Simple Mexican Pleasures* at NCTC. She has designed sets at Aurora
+        Theater for *Born with Teeth, Hurricane Diane* and *Everything is
+        Illuminated*. She has also designed at Portland Center Stage, Magic
+        Theater, Merola Opera, the SF Conservatory of Music, Company C Ballet
+        and Theaterworks. Kate is an affiliated artist with Golden Thread
+        Productions and a recipient of the Gerbode Design Fellowship. Kate
+        teaches stagecraft and design at Lick-Wilmerding High School.
     - name: Robert Bo Golden
       credit: Technical Director
       image: https://ucarecdn.com/a01036d2-0302-4bd0-a4dd-8226b9e5a5c2/
-      bio: has been involved in the theatre in one form or another for over 50 years.
-        From playing Berger in the Chicago and Broadway companies of the 60's
-        rock musical *Hair* to directing the same show, as well as others for
-        bus and truck tours. He went on to perform in other Broadway shows, as
-        well as touring shows. That's when he became fascinated with scenic and
-        sound design. Since then he has designed over 40 shows, built and
-        painted 90% of them, as well as doing sound design. Before COVID, he
+      bio: (﻿he/him) has been involved in the theatre in one form or another for over
+        50 years. From playing Berger in the Chicago and Broadway companies of
+        the 60's rock musical *Hair* to directing the same show, as well as
+        others for bus and truck tours. He went on to perform in other Broadway
+        shows, as well as touring shows. That's when he became fascinated with
+        scenic and sound design. Since then he has designed over 40 shows, built
+        and painted 90% of them, as well as doing sound design. Before COVID, he
         loved going out singing and jamming the blues on slide guitar, as well
         as performing his own music. Happy to be joining Golden Thread for the
         first, with more times to come!
-    - bio: is delighted to be debuting with Golden Thread Productions as a stage
-        manager. This is her first project since graduating from San Francisco
-        State University in the spring, where previous credits include
+        [scenicdesignbybo.com](https://www.scenicdesignbybo.com)
+    - bio: (she/they) is delighted to be debuting with Golden Thread Productions as a
+        stage manager. This is her first project since graduating from San
+        Francisco State University in the spring, where previous credits include
         *Eurydice*, *Everybody*, and *Stupid F\*\*king Bird*. As a big advocate
         of theater being used as an educational tool and a megaphone for smaller
         voices, she's grateful to help uplift these Palestinian stories.
@@ -155,13 +156,13 @@ cast:
     - name: Michelle Mulholland
       credit: Costume Designer
       image: https://ucarecdn.com/28fe62ef-aeab-4b21-95cd-ef076d7bc989/
-    - bio: is a multifaceted artist and international creative force with an expansive
-        career spanning theater, film, and dance. As an actor, dancer, set
-        designer, technical director, and producer, Hector’s work has graced
-        stages across Mexico and the U.S., including standout performances in La
-        Leyenda de Georgia McBride and the bilingual solo show *Seeking the Last
-        Gay Man*. Hector’s work is rooted in cultural integrity, queer
-        visibility, and transformative artistry.
+    - bio: (﻿All pronouns) is a multifaceted artist and international creative force
+        with an expansive career spanning theater, film, and dance. As an actor,
+        dancer, set designer, technical director, and producer, Hector’s work
+        has graced stages across Mexico and the U.S., including standout
+        performances in La Leyenda de Georgia McBride and the bilingual solo
+        show *Seeking the Last Gay Man*. Hector’s work is rooted in cultural
+        integrity, queer visibility, and transformative artistry.
         [hectorzavala.com](https://www.hectorzavala.com)
       name: Hector Zavala
       credit: Production Manager
@@ -169,19 +170,20 @@ cast:
       link: ""
     - name: Bessie Zolno
       credit: Intimacy Choreographer
-      bio: "is a mental health-informed violence and intimacy choreographer and mental
-        health coordinator for theater and film. Based in the San Francisco Bay
-        Area, she thoughtfully cultivates collaborative and consent-driven
-        environments, an approach deeply rooted in her certification in Mental
-        Health Coordination (Association of Mental Health Coordinators).
-        Additionally, she is a member of the Society of Directors and
-        Choreographers and the National Society of Intimacy Professionals. Her
-        expertise is dedicated to facilitating the safe and impactful execution
-        of heightened moments on stage and screen for performers of all ages,
-        across both professional productions and educational settings. This
-        summer, her work can be seen across the Bay Area in: *Sweeney Todd*
-        (Cabrillo Stage), *Hamlet* (Oakland Theater Project), *Head Over Heels*
-        (City Lights Theater Company), and *Alabaster* (Town Hall Theater).
+      bio: "(﻿she/her) is a mental health-informed violence and intimacy choreographer
+        and mental health coordinator for theater and film. Based in the San
+        Francisco Bay Area, she thoughtfully cultivates collaborative and
+        consent-driven environments, an approach deeply rooted in her
+        certification in Mental Health Coordination (Association of Mental
+        Health Coordinators). Additionally, she is a member of the Society of
+        Directors and Choreographers and the National Society of Intimacy
+        Professionals. Her expertise is dedicated to facilitating the safe and
+        impactful execution of heightened moments on stage and screen for
+        performers of all ages, across both professional productions and
+        educational settings. This summer, her work can be seen across the Bay
+        Area in: *Sweeney Todd* (Cabrillo Stage), *Hamlet* (Oakland Theater
+        Project), *Head Over Heels* (City Lights Theater Company), and
+        *Alabaster* (Town Hall Theater).
         [bessiezolno.com](https://www.bessiezolno.com)"
       link: ""
       image: https://ucarecdn.com/e5b7176b-d3f2-4418-b3ba-26a8ed6ce9b5/
