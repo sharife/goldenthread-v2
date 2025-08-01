@@ -84,17 +84,6 @@ cast:
         throughout the Bay Area. He is a theater professor at Laney College and
         the Oakland School for the Arts."
       image: https://ucarecdn.com/de0fd209-a1f1-448f-877e-1643c9df94c2/
-    - name: Art2Action, Inc.
-      credit: Producing Partner
-      image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
-      link: https://www.art2action.org
-      bio: creates, develops, produces, and presents original theatre,
-        interdisciplinary performances, artistic interventions, and progressive
-        cultural organizing. We support Black, Indigenous, artists of color,
-        women and queer or trans-identified artists, artists living with
-        disabilities, and creative allies in the creation of contemporary work.
-        We are dedicated to cultural equity and aesthetic innovation, artistic
-        quality and community impact.
     - name: Elissa Stebbins
       credit: Actor (Her)
       image: https://ucarecdn.com/1b62468a-10c5-47af-a212-912d61f7faaa/
@@ -140,6 +129,56 @@ cast:
         an affiliated artist with Golden Thread Productions and a recipient of
         the Gerbode Design Fellowship. Kate teaches stagecraft and design at
         Lick-Wilmerding High School.
+    - bio: is delighted to be debuting with Golden Thread Productions as a stage
+        manager. This is her first project since graduating from San Francisco
+        State University in the spring, where previous credits include
+        *Eurydice*, *Everybody*, and *Stupid F\*\*king Bird*. As a big advocate
+        of theater being used as an educational tool and a megaphone for smaller
+        voices, she's grateful to help uplift these Palestinian stories.
+      name: K’Zhane McGill
+      credit: Stage Manager
+      image: https://ucarecdn.com/5c413acb-94f6-46cd-8ef2-25cde1d3ddad/
+    - name: Michelle Mulholland
+      credit: Costume Designer
+      image: https://ucarecdn.com/28fe62ef-aeab-4b21-95cd-ef076d7bc989/
+    - name: Art2Action, Inc.
+      credit: Producing Partner
+      image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
+      link: https://www.art2action.org
+      bio: creates, develops, produces, and presents original theatre,
+        interdisciplinary performances, artistic interventions, and progressive
+        cultural organizing. We support Black, Indigenous, artists of color,
+        women and queer or trans-identified artists, artists living with
+        disabilities, and creative allies in the creation of contemporary work.
+        We are dedicated to cultural equity and aesthetic innovation, artistic
+        quality and community impact.
+    - bio: is a multifaceted artist and international creative force with an expansive
+        career spanning theater, film, and dance. As an actor, dancer, set
+        designer, technical director, and producer, Hector’s work has graced
+        stages across Mexico and the U.S., including standout performances in La
+        Leyenda de Georgia McBride and the bilingual solo show *Seeking the Last
+        Gay Man*. Hector’s work is rooted in cultural integrity, queer
+        visibility, and transformative artistry.
+      name: Hector Zavala
+      credit: Production Manager
+      image: https://ucarecdn.com/7cf5bb7f-f546-4e15-b1c0-8e1741fd8985/
+      link: https://hectorzavala.com
+    - name: Bessie Zolno
+      credit: Intimacy Coordinator
+      bio: "is a mental health-informed violence and intimacy choreographer and mental
+        health coordinator for theater and film. Based in the San Francisco Bay
+        Area, she thoughtfully cultivates collaborative and consent-driven
+        environments, an approach deeply rooted in her certification in Mental
+        Health Coordination (Association of Mental Health Coordinators).
+        Additionally, she is a member of the Society of Directors and
+        Choreographers and the National Society of Intimacy Professionals. Her
+        expertise is dedicated to facilitating the safe and impactful execution
+        of heightened moments on stage and screen for performers of all ages,
+        across both professional productions and educational settings. This
+        summer, her work can be seen across the Bay Area in: *Sweeney Todd*
+        (Cabrillo Stage), *Hamlet* (Oakland Theater Project), *Head Over Heels*
+        (City Lights Theater Company), and *Alabaster* (Town Hall Theater)."
+      link: https://bessiezolno.com
   heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
