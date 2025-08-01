@@ -48,34 +48,69 @@ lists:
         cta: ""
 cast:
   items:
+    - image: https://ucarecdn.com/c5ca0ca2-be4c-4af6-ba42-ae8c75ac4d41/
+      name: Hanna Eady and Edward Mast
+      credit: Playwrights
+      bio: "have been writing plays together since they met in Seattle in 1995. Hanna
+        Eady grew up as a Palestinian in Northern Israel and had come to Seattle
+        years earlier for graduate school in directing. Edward Mast was
+        returning home from his first of many trips to the Occupied Palestinian
+        Territories. Their first collaboration was *Sahmatah*, a play drawn from
+        testimonies by residents of one of the Palestinian villages destroyed
+        during the founding of Israel in 1948.  *Sahmatah* premiered in 1996 in
+        Seattle, and then premiered in Arabic in 1998 on the original site of
+        the village itself inside what is now Israel. Other plays they have
+        written together include *Loved Ones: Families of the Incarcerated*,
+        *Letters from Palestine in the Time of the Virus*, *The Love Tunnel: A
+        Comedy of Occupation*, and *The Mulberry Tree*, which recently premiered
+        in New York."
+    - name: Nick Musleh
+      credit: Actor (Him)
+      bio: "**Nick Musleh** played Hamlet at Marin Shakespeare Company where he is an
+        artistic associate and resident dramaturg. He also co-created and
+        performed in the *Untime* at MSC. Before returning to San Francisco, he
+        acted in Los Angeles for roughly 20 years, playing recurring and guest
+        star roles on on network television and in original plays at Theatre
+        West, where he was an artistic board member and Shakespeare workshop
+        moderator. Several of the plays he performed in and directed received
+        critical acclaim, including the Los Angeles Times Critic’s pick for
+        *Against the Wall*. He created the role of Daniel Baker in Mark
+        Wilding’s *Our Man in Santiago*, which he also debuted Off-Broadway.
+        Nick has adapted Shakespeare for the stage and screen; his *Love’s
+        Labour’s Lost* is still taught in colleges and he is the co-creator of
+        the *Rosy Cross* series being developed in Europe. He attended Solano
+        Community College, Santa Clara University, and the UCLA School of
+        Theater, Film & Television and has performed in Shakespeare productions
+        throughout the Bay Area. He is a theater professor at Laney College and
+        the Oakland School for the Arts."
+      image: https://ucarecdn.com/de0fd209-a1f1-448f-877e-1643c9df94c2/
     - name: Art2Action, Inc.
-      credit: partner
+      credit: Producing Partner
       image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
       link: https://www.art2action.org
-      bio: "**Art2Action** creates, develops, produces, and presents original theatre,
+      bio: creates, develops, produces, and presents original theatre,
         interdisciplinary performances, artistic interventions, and progressive
         cultural organizing. We support Black, Indigenous, artists of color,
         women and queer or trans-identified artists, artists living with
         disabilities, and creative allies in the creation of contemporary work.
         We are dedicated to cultural equity and aesthetic innovation, artistic
-        quality and community impact."
-    - image: https://ucarecdn.com/c5ca0ca2-be4c-4af6-ba42-ae8c75ac4d41/
-      name: Hanna Eady and Edward Mast
-      credit: playwrights
-      bio: "**Hanna Eady** and **Edward Mast** have been writing plays together since
-        they met in Seattle in 1995. Hanna Eady grew up as a Palestinian in
-        Northern Israel and had come to Seattle years earlier for graduate
-        school in directing. Edward Mast was returning home from his first of
-        many trips to the Occupied Palestinian Territories. Their first
-        collaboration was *Sahmatah*, a play drawn from testimonies by residents
-        of one of the Palestinian villages destroyed during the founding of
-        Israel in 1948.  *Sahmatah* premiered in 1996 in Seattle, and then
-        premiered in Arabic in 1998 on the original site of the village itself
-        inside what is now Israel. Other plays they have written together
-        include *Loved Ones: Families of the Incarcerated*, *Letters from
-        Palestine in the Time of the Virus*, *The Love Tunnel: A Comedy of
-        Occupation*, and *The Mulberry Tree*, which recently premiered in New
-        York."
+        quality and community impact.
+    - name: Elissa Stebbins
+      credit: Actor (Her)
+      image: https://ucarecdn.com/1b62468a-10c5-47af-a212-912d61f7faaa/
+      bio: "*(they/she)* is a Bay Area based actor, teaching artist, producer, and
+        maker. Recent regional acting credits include *Miss Bennet: Christmas at
+        Pemberley*, *Mrs. Christie*, and *Nan and the Lower Body*
+        (TheatreWorks); *Colonialism is Terrible, but Pho is Delicious* (Aurora
+        Theatre Company); *Becky Nurse of Salem* (Berkeley Rep); *Kings*,
+        *Kiss*, *The Village Bike*, and *Caught* (Shotgun Players); *In Braunau*
+        (San Francisco Playhouse Sandbox Series); *Revolt. She Said. Revolt
+        Again* and *You For Me For You* (Crowded Fire Theatre), *The Little
+        Prince* (Marin Theater Company), and *Minneola Twins* (Cutting Ball),
+        among others. Elissa is also a co-founder of Analog Theatre, where they
+        produce and devise physical theatre. Elissa graduated from Santa Clara
+        University, and has continued training with Shakespeare and Company, and
+        Atelier Mask Movement Theatre in Italy."
   heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
@@ -114,9 +149,3 @@ who I am. I have to continue to bang at the door until my story is heard." --Han
 “…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.” – John Stoltenberg, DC Theater Arts 
 
 “*The Return* is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people. I﻿t is a play that has to be watched; it can't be explained or summarized. At least, that's what Eady says. 'I can't tell you too much about the plot, because the way the structure works is that it unfolds as the audience would watch it,' said Eady, adding that it's a mystery." – *South Seattle Emerald*
-
-**C﻿AST:**\
-Nick Musleh and Elissa Stebbins
-
-**C﻿REATIVE TEAM:**\
-James Ard (sound designer), Kate Boyd (scenic and lighting designer), K’Zhane McGill (stage manager), Michelle Mulholland (costume designer), and Hector Zavala (production manager)
