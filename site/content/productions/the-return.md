@@ -111,6 +111,35 @@ cast:
         produce and devise physical theatre. Elissa graduated from Santa Clara
         University, and has continued training with Shakespeare and Company, and
         Atelier Mask Movement Theatre in Italy."
+    - name: James Ard
+      credit: Sound Designer
+      image: https://ucarecdn.com/3041b828-d896-456d-a108-45c213675605/
+      bio: is a noisemaker specializing in new works, live experiences, and immersive
+        stage productions. His designs with Golden Thread include *The Most
+        Dangerous Highway in the World*, *Scenes From 71* Years*, *On The
+        Periphery*, and various ReOrient short play festivals. Other work
+        includes collaborations with Under the Radar at The Public Theater,
+        American Conservatory Theater, TheatreWorks Silicon Valley, Summerhall
+        at the Edinburgh Festival Fringe, Sibiu International Theatre Festival,
+        Woolly Mammoth Theatre Company, Shotgun Players, Guthrie Theater,
+        American Repertory Theater, Oregon Shakespeare Festival, Portland Center
+        Stage, CenterREP, Ensemble Theatre Company, Cutting Ball Theater, Joe
+        Goode Performance Group, Stanford University, Atlantic Theater Company,
+        and the University of California, Berkeley. Ard is currently an
+        affiliated artist with Golden Thread Productions and a resident artist
+        with Crowded Fire Theater.
+    - name: Kate Boyd
+      credit: Scenic and Lighting Designer
+      image: https://ucarecdn.com/ec98e839-215a-4f15-8244-553d45f22672/
+      bio: is a Bay Area scenic and lighting designer. She recently designed the
+        lights for *Waste* at Marin Theatre Company and scenery for *Simple
+        Mexican Pleasures* at NCTC. She has designed sets at Aurora Theater for
+        *Born with Teeth, Hurricane Diane* and *Everything is Illuminated*. She
+        has also designed at Portland Center Stage, Magic Theater, Merola Opera,
+        the SF Conservatory of Music, Company C Ballet and Theaterworks. Kate is
+        an affiliated artist with Golden Thread Productions and a recipient of
+        the Gerbode Design Fellowship. Kate teaches stagecraft and design at
+        Lick-Wilmerding High School.
   heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
