@@ -117,6 +117,7 @@ cast:
         and the University of California, Berkeley. Ard is currently an
         affiliated artist with Golden Thread Productions and a resident artist
         with Crowded Fire Theater.
+      link: https://jamesard.com
     - name: Kate Boyd
       credit: Scenic and Lighting Designer
       image: https://ucarecdn.com/ec98e839-215a-4f15-8244-553d45f22672/
