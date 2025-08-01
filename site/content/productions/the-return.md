@@ -84,7 +84,7 @@ cast:
         throughout the Bay Area. He is a theater professor at Laney College and
         the Oakland School for the Arts."
       image: https://ucarecdn.com/de0fd209-a1f1-448f-877e-1643c9df94c2/
-    - name: Elissa Stebbins
+    - name: Elissa Beth Stebbins
       credit: Actor (Her)
       image: https://ucarecdn.com/1b62468a-10c5-47af-a212-912d61f7faaa/
       bio: "*(they/she)* is a Bay Area based actor, teaching artist, producer, and
@@ -130,6 +130,19 @@ cast:
         an affiliated artist with Golden Thread Productions and a recipient of
         the Gerbode Design Fellowship. Kate teaches stagecraft and design at
         Lick-Wilmerding High School.
+    - name: Robert Bo Golden
+      credit: Technical Director
+      image: https://ucarecdn.com/a01036d2-0302-4bd0-a4dd-8226b9e5a5c2/
+      bio: has been involved in the theatre in one form or another for over 50 years.
+        From playing Berger in the Chicago and Broadway companies of the 60's
+        rock musical *Hair* to directing the same show, as well as others for
+        bus and truck tours. He went on to perform in other Broadway shows, as
+        well as touring shows. That's when he became fascinated with scenic and
+        sound design. Since then he has designed over 40 shows, built and
+        painted 90% of them, as well as doing sound design. Before COVID, he
+        loved going out singing and jamming the blues on slide guitar, as well
+        as performing his own music. Happy to be joining Golden Thread for the
+        first, with more times to come!
     - bio: is delighted to be debuting with Golden Thread Productions as a stage
         manager. This is her first project since graduating from San Francisco
         State University in the spring, where previous credits include
@@ -142,17 +155,6 @@ cast:
     - name: Michelle Mulholland
       credit: Costume Designer
       image: https://ucarecdn.com/28fe62ef-aeab-4b21-95cd-ef076d7bc989/
-    - name: Art2Action, Inc.
-      credit: Producing Partner
-      image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
-      link: https://www.art2action.org
-      bio: creates, develops, produces, and presents original theatre,
-        interdisciplinary performances, artistic interventions, and progressive
-        cultural organizing. We support Black, Indigenous, artists of color,
-        women and queer or trans-identified artists, artists living with
-        disabilities, and creative allies in the creation of contemporary work.
-        We are dedicated to cultural equity and aesthetic innovation, artistic
-        quality and community impact.
     - bio: is a multifaceted artist and international creative force with an expansive
         career spanning theater, film, and dance. As an actor, dancer, set
         designer, technical director, and producer, Hector’s work has graced
@@ -165,7 +167,7 @@ cast:
       image: https://ucarecdn.com/7cf5bb7f-f546-4e15-b1c0-8e1741fd8985/
       link: https://hectorzavala.com
     - name: Bessie Zolno
-      credit: Intimacy Coordinator
+      credit: Intimacy Choreographer
       bio: "is a mental health-informed violence and intimacy choreographer and mental
         health coordinator for theater and film. Based in the San Francisco Bay
         Area, she thoughtfully cultivates collaborative and consent-driven
@@ -180,6 +182,18 @@ cast:
         (Cabrillo Stage), *Hamlet* (Oakland Theater Project), *Head Over Heels*
         (City Lights Theater Company), and *Alabaster* (Town Hall Theater)."
       link: https://bessiezolno.com
+      image: https://ucarecdn.com/e5b7176b-d3f2-4418-b3ba-26a8ed6ce9b5/
+    - name: Art2Action, Inc.
+      credit: Producing Partner
+      image: https://ucarecdn.com/4feaad24-e6fd-45f9-b920-ea6c753a8e1c/
+      link: https://www.art2action.org
+      bio: creates, develops, produces, and presents original theatre,
+        interdisciplinary performances, artistic interventions, and progressive
+        cultural organizing. We support Black, Indigenous, artists of color,
+        women and queer or trans-identified artists, artists living with
+        disabilities, and creative allies in the creation of contemporary work.
+        We are dedicated to cultural equity and aesthetic innovation, artistic
+        quality and community impact.
   heading: Artistic Biographies
 photos:
   heading: Rehearsal Photos by Wynne Chan
