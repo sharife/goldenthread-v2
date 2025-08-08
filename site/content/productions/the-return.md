@@ -19,6 +19,8 @@ description: >-
   *The Return* was part of New Threads Staged Reading Series in 2024.
 background: https://ucarecdn.com/f8aacf2d-d9c3-4f3f-9130-0bf40145fbb9/
 titleimage: ""
+programlabel: Digital Playbill
+program: https://www.flipsnack.com/goldenthread/the-return-digital-playbill-mobile-dimensions.html
 writer: ""
 director: ""
 additional: ""
