@@ -32,26 +32,7 @@ misc: |-
   Mask Required Performances:
   Thursday, August 14 at 8pm
   Sunday, August 24 at 2pm
-lists:
-  - heading: Special Conversations
-    items:
-      - itemstart: 2025-07-28T22:55:37.373Z
-        itemend: 2025-07-28T22:55:37.384Z
-        title: Post-show Talkbacks with Hanna Eady and Edward Mast
-        pre: August 7-9, 2025
-        subtitle: ""
-        image: https://ucarecdn.com/6f496563-1eb6-4939-9ce2-737ab9203459/
-        text: >-
-          Our three preview performances will be followed by special post-show
-          conversations with lead artists.
-
-
-          * **Thursday, August 7:** Co-writer and director Hanna Eady
-
-          * **Friday, August 8:** Co-writer and director Hanna Eady
-
-          * **Saturday, August 9:** Playwrights Hanna Eady and Edward Mast
-        cta: ""
+lists: []
 cast:
   items:
     - image: https://ucarecdn.com/c5ca0ca2-be4c-4af6-ba42-ae8c75ac4d41/
@@ -206,6 +187,93 @@ cast:
         quality and community impact.
         [art2action.org](https://www.art2action.org)
   heading: Artistic Biographies
+mentions:
+  heading: ENGAGEMENT EVENTS
+  text: >-
+    Dialogue has long been an essential element of Golden Thread’s social
+    justice-focused mission, and f﻿or THE RETURN, w﻿e're providing numerous
+    public programs.\
+
+    \
+
+    **Thursday, Aug 7, 2025**
+
+    Post-show Talkback with Co-Writer and Director Hanna Eady\
+
+    \
+
+    **Friday, Aug 8, 2025**
+
+    Post-show Talkback with Co-Writer and Director Hanna Eady
+
+    \
+
+    **Saturday, Aug 9, 2025**
+
+    Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members
+
+    Mona Masri and Hassan Fouda.
+
+    \
+
+    **Sunday, Aug 10, 2025**
+
+    Opening Night post-show reception hosted by the Golden Thread Board\
+
+    \
+
+    **Thursday, Aug 14, 2025 (Mask Required Performance)**
+
+    Post-show reflections with Golden Thread artists
+
+    \
+
+    **Friday, Aug 15, 2025**
+
+    Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation
+
+    \
+
+    **Saturday, Aug 1**
+
+
+    **6, 2025**
+
+    Post-show reflections with Palestinian-American artist and activist Nida Liftawi
+
+    \
+
+    **Sunday, Aug 17, 2025**
+
+    NorCal Sabeel Sponsored Night with post-show conversation\
+
+    \
+
+    **Thursday, Aug 21, 2025**
+
+    Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation
+
+    \
+
+    **Friday Aug 22, 2025**
+
+    Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
+
+    \
+
+    **Saturday, Aug 23, 2025**
+
+    Pre-show Coffee & Community gathering with Golden Thread Staff Members Wynne Chan and
+
+    Salim Razawi
+
+    Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
+
+    \
+
+    **Sunday, Aug 24, 2025 (Mask Required Performance)**
+
+    Jewish Voice for Peace, Bay Area Sponsored Night with post-show conversation
 photos:
   heading: Rehearsal Photos by Wynne Chan
   items:
