@@ -28,8 +28,7 @@ stage: The Garret, on the fifth floor of the A.C.T.'s Toni Rembe Theater
 address: 415 Geary Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
 ticketinfo: Pre-sale tickets are $20 for previews and $30-$130 for general admission.
-misc: "Mask Required Performances: Thursday, August 14 at 8pm and Sunday, August
-  24 at 2pm"
+misc: ""
 lists: []
 cast:
   items:
@@ -190,21 +189,19 @@ mentions:
   text: >-
     Dialogue has long been an essential element of Golden Thread’s social
     justice-focused mission, and f﻿or THE RETURN, w﻿e're providing numerous
-    public programs.\
+    public programs that contextualize the play within broader movements for
+    justice.
 
-    \
 
     **Thursday, Aug 7, 2025**
 
-    Post-show Talkback with Co-Writer and Director Hanna Eady\
+    Post-show Talkback with Co-Writer and Director Hanna Eady
 
-    \
 
     **Friday, Aug 8, 2025**
 
     Post-show Talkback with Co-Writer and Director Hanna Eady
 
-    \
 
     **Saturday, Aug 9, 2025**
 
@@ -212,52 +209,41 @@ mentions:
 
     Mona Masri and Hassan Fouda.
 
-    \
 
     **Sunday, Aug 10, 2025**
 
-    Opening Night post-show reception hosted by the Golden Thread Board\
+    Opening Night post-show reception hosted by the Golden Thread Board
 
-    \
 
     **Thursday, Aug 14, 2025 (Mask Required Performance)**
 
     Post-show reflections with Golden Thread artists
 
-    \
 
     **Friday, Aug 15, 2025**
 
     Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation
 
-    \
 
-    **Saturday, Aug 1**
-
-
-    **6, 2025**
+    **Saturday, Aug 16, 2025**
 
     Post-show reflections with Palestinian-American artist and activist Nida Liftawi
 
-    \
 
     **Sunday, Aug 17, 2025**
 
-    NorCal Sabeel Sponsored Night with post-show conversation\
+    NorCal Sabeel Sponsored Night with post-show conversation
 
-    \
 
     **Thursday, Aug 21, 2025**
 
     Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation
 
-    \
 
     **Friday Aug 22, 2025**
 
     Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
 
-    \
 
     **Saturday, Aug 23, 2025**
 
@@ -267,7 +253,6 @@ mentions:
 
     Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
 
-    \
 
     **Sunday, Aug 24, 2025 (Mask Required Performance)**
 
@@ -281,6 +266,15 @@ photos:
     - image: https://ucarecdn.com/2ce74805-936c-4765-9b19-ea2e7df02664/
     - image: https://ucarecdn.com/47c7865b-e17b-4326-b839-8d979e0980d0/
     - image: https://ucarecdn.com/d138f745-2659-495b-9290-f7a3a42a8689/
+photos2:
+  heading: Production Photos by David Allen Studio
+  items:
+    - image: https://ucarecdn.com/b84b688f-3cb3-4e86-95bd-daa73917a1f6/
+    - image: https://ucarecdn.com/a9b453bf-061b-48c8-9315-84d0ca7a32d0/
+    - image: https://ucarecdn.com/d8f8299c-e15e-4d04-be78-f8fda8134a54/
+    - image: https://ucarecdn.com/9016d94d-9ae0-49f7-909f-ab1b6ecd362b/
+    - image: https://ucarecdn.com/41944607-735c-4fb1-ba7f-756979d9c088/
+    - image: https://ucarecdn.com/ecaace8f-f88b-41a3-8ad5-c028483e73b9/
 bottom:
   heading: Supporters and Partners
   text: >-
