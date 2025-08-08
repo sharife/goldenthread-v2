@@ -245,19 +245,26 @@ mentions:
     Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
 
 
-    **Saturday, Aug 23, 2025**
+    **Saturday, Aug 23, 2025**\
 
     Pre-show Coffee & Community gathering with Golden Thread Staff Members Wynne Chan and
 
-    Salim Razawi
-
-    Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
+    Salim Razawi, and Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
 
 
     **Sunday, Aug 24, 2025 (Mask Required Performance)**
 
     Jewish Voice for Peace, Bay Area Sponsored Night with post-show conversation
 photos:
+  heading: Production Photos by David Allen Studio
+  items:
+    - image: https://ucarecdn.com/b84b688f-3cb3-4e86-95bd-daa73917a1f6/
+    - image: https://ucarecdn.com/a9b453bf-061b-48c8-9315-84d0ca7a32d0/
+    - image: https://ucarecdn.com/feaa2dbc-e879-4055-8734-5fa65e0c8eb2/
+    - image: https://ucarecdn.com/d8f8299c-e15e-4d04-be78-f8fda8134a54/
+    - image: https://ucarecdn.com/41944607-735c-4fb1-ba7f-756979d9c088/
+    - image: https://ucarecdn.com/ecaace8f-f88b-41a3-8ad5-c028483e73b9/
+photos2:
   heading: Rehearsal Photos by Wynne Chan
   items:
     - image: https://ucarecdn.com/e70523d9-f7e1-48bc-b2aa-46d254165955/
@@ -266,15 +273,6 @@ photos:
     - image: https://ucarecdn.com/2ce74805-936c-4765-9b19-ea2e7df02664/
     - image: https://ucarecdn.com/47c7865b-e17b-4326-b839-8d979e0980d0/
     - image: https://ucarecdn.com/d138f745-2659-495b-9290-f7a3a42a8689/
-photos2:
-  heading: Production Photos by David Allen Studio
-  items:
-    - image: https://ucarecdn.com/b84b688f-3cb3-4e86-95bd-daa73917a1f6/
-    - image: https://ucarecdn.com/a9b453bf-061b-48c8-9315-84d0ca7a32d0/
-    - image: https://ucarecdn.com/d8f8299c-e15e-4d04-be78-f8fda8134a54/
-    - image: https://ucarecdn.com/9016d94d-9ae0-49f7-909f-ab1b6ecd362b/
-    - image: https://ucarecdn.com/41944607-735c-4fb1-ba7f-756979d9c088/
-    - image: https://ucarecdn.com/ecaace8f-f88b-41a3-8ad5-c028483e73b9/
 bottom:
   heading: Supporters and Partners
   text: >-
