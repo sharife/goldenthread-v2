@@ -28,10 +28,8 @@ stage: The Garret, on the fifth floor of the A.C.T.'s Toni Rembe Theater
 address: 415 Geary Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
 ticketinfo: Pre-sale tickets are $20 for previews and $30-$130 for general admission.
-misc: |-
-  Mask Required Performances:
-  Thursday, August 14 at 8pm
-  Sunday, August 24 at 2pm
+misc: "Mask Required Performances: Thursday, August 14 at 8pm and Sunday, August
+  24 at 2pm"
 lists: []
 cast:
   items:
