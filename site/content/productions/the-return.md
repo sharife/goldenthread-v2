@@ -207,8 +207,9 @@ mentions:
 
     Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members
 
-    Mona Masri and Hassan Fouda.
+    Mona Masri and Jumana Muwafi, with support by Layal Nawfal and Ziad Saba.\
 
+    \
 
     **Sunday, Aug 10, 2025**
 
@@ -222,7 +223,7 @@ mentions:
 
     **Friday, Aug 15, 2025**
 
-    Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation
+    Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation with Zeiad Abbas Shamrouch
 
 
     **Saturday, Aug 16, 2025**
@@ -232,12 +233,12 @@ mentions:
 
     **Sunday, Aug 17, 2025**
 
-    NorCal Sabeel Sponsored Night with post-show conversation
+    NorCal Sabeel Sponsored Night with post-show conversation with Therese Mughannam-Walrath
 
 
     **Thursday, Aug 21, 2025**
 
-    Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation
+    Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation with Mohamed Shehk
 
 
     **Friday Aug 22, 2025**
@@ -254,7 +255,7 @@ mentions:
 
     **Sunday, Aug 24, 2025 (Mask Required Performance)**
 
-    Jewish Voice for Peace, Bay Area Sponsored Night with post-show conversation
+    Jewish Voice for Peace, Bay Area Sponsored Night with post-show panel conversation
 photos:
   heading: Production Photos by David Allen Studio
   items:
