@@ -183,7 +183,7 @@ cast:
         We are dedicated to cultural equity and aesthetic innovation, artistic
         quality and community impact.
         [art2action.org](https://www.art2action.org)
-  heading: Artistic Biographies
+  heading: ARTIST BIOGRAPHIES
 mentions:
   heading: ENGAGEMENT EVENTS
   text: >-
@@ -257,7 +257,7 @@ mentions:
 
     Jewish Voice for Peace, Bay Area Sponsored Night with post-show panel conversation
 photos:
-  heading: Production Photos by David Allen Studio
+  heading: PRODUCTION PHOTOS by David Allen Studio
   items:
     - image: https://ucarecdn.com/b84b688f-3cb3-4e86-95bd-daa73917a1f6/
     - image: https://ucarecdn.com/a9b453bf-061b-48c8-9315-84d0ca7a32d0/
@@ -266,7 +266,7 @@ photos:
     - image: https://ucarecdn.com/41944607-735c-4fb1-ba7f-756979d9c088/
     - image: https://ucarecdn.com/ecaace8f-f88b-41a3-8ad5-c028483e73b9/
 photos2:
-  heading: Rehearsal Photos by Wynne Chan
+  heading: REHEARSAL PHOTOS by Wynne Chan
   items:
     - image: https://ucarecdn.com/e70523d9-f7e1-48bc-b2aa-46d254165955/
     - image: https://ucarecdn.com/874cacf7-eaab-4e2a-b760-00c4c57733f1/
@@ -275,7 +275,7 @@ photos2:
     - image: https://ucarecdn.com/47c7865b-e17b-4326-b839-8d979e0980d0/
     - image: https://ucarecdn.com/d138f745-2659-495b-9290-f7a3a42a8689/
 bottom:
-  heading: Supporters and Partners
+  heading: SUPPORTERS AND PARTNERS
   text: >-
     Golden Thread would like to acknowledge the support of **Art2Action, Inc.**,
     **The William and Flora Hewlett Foundation**, and **The Zellerbach Family
