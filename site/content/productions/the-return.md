@@ -207,8 +207,9 @@ mentions:
 
     Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members
 
-    Mona Masri and Hassan Fouda.
+    Mona Masri and Jumana Muwafi, with support by Layal Nawfal and Ziad Saba.\
 
+    \
 
     **Sunday, Aug 10, 2025**
 
