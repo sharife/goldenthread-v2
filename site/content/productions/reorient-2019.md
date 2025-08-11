@@ -7,21 +7,20 @@ start: 2019-10-18T15:04:10.000Z
 end: 2019-11-17T15:04:10.000Z
 heading: Think you know the Middle East? Think again!
 description: >-
-  ReOrient 2019 will celebrate the 20th anniversary of this innovative and
-  spirited festival of short plays from or about the Middle East. The line-up
-  includes playwrights with longtime association with Golden Thread:
-  Egyptian-American playwright Yussef El Guindi, Bay Area-based
-  Palestinian-American playwright Betty Shamieh, and MacArthur Fellow and
-  celebrated playwright Naomi Wallace. Joining these writers are four newcomers
-  to the festival: Iraqi-British writer and actor Rendah Heywood, Noor Theatre
-  Founding Artistic Director Lameece Issaq, Turkish-Kurdish writer and filmmaker
-  Mustafa Kaymak, and local Iranian-American writer Niku Sharei. Selected from
-  108 submissions from 13 countries, the seven short plays are diverse in
-  content and style, highlighting the multiplicity of Middle Eastern
-  perspectives and identities.
+  ReOrient 2019 celebrates the 20th anniversary of this innovative and spirited
+  festival of short plays from or about the Middle East. The line-up includes
+  playwrights with longtime association with Golden Thread: Egyptian-American
+  playwright Yussef El Guindi, Bay Area-based Palestinian-American playwright
+  Betty Shamieh, and MacArthur Fellow and celebrated playwright Naomi Wallace.
+  Joining these writers are four newcomers to the festival: Iraqi-British writer
+  and actor Rendah Heywood, Noor Theatre Founding Artistic Director Lameece
+  Issaq, Turkish-Kurdish writer and filmmaker Mustafa Kaymak, and local
+  Iranian-American writer Niku Sharei. Selected from 108 submissions from 13
+  countries, the seven short plays are diverse in content and style,
+  highlighting the multiplicity of Middle Eastern perspectives and identities.
 
 
-  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” _—Stark Insider_
+  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
 background: https://ucarecdn.com/cffa23d2-0a39-4c47-a83d-a9503f5e912c/-/crop/881x480/0,0/-/preview/
 titleimage: /img/archive/2018/10/ReOrient2019-Slider-Playwrights2.jpg
 program: https://ucarecdn.com/06e82039-aef1-4eaf-b6f2-022ae916e52b/
