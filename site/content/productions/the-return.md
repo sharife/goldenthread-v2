@@ -294,11 +294,11 @@ bottom:
 ---
 **PRESS ABOUT *THE RETURN*:**
 
-**For two Palestinian artists, making S.F. theater is resistance**\
-﻿"I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
-who I am. I have to continue to bang at the door until my story is heard." --Hanna Eady\
-[R﻿ead the full *San Francisco Chronicle* interview with Hanna Eady (*The Return*) and Hend Ayoub (*Home?*)](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)
+**[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
+"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. \[…] Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [(Read the review)](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
 
-“…a taut and provocative two-character play—which vividly evokes the political tension between the Israeli state and its Palestinian citizens. More than a play to be touched and troubled by. It’s a play to get in the gut.” – John Stoltenberg, DC Theater Arts 
+**[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
+"The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
 
-“*The Return* is as much about the Israeli—Palestinian conflict as it is about the repercussions a decades-long occupation can have on the lives of everyday people. I﻿t is a play that has to be watched; it can't be explained or summarized. At least, that's what Eady says. 'I can't tell you too much about the plot, because the way the structure works is that it unfolds as the audience would watch it,' said Eady, adding that it's a mystery." – *South Seattle Emerald*
+[***S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance**](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)﻿"I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
+who I am. I have to continue to bang at the door until my story is heard." --Hanna Eady
