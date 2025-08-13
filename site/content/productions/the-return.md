@@ -295,10 +295,14 @@ bottom:
 **PRESS ABOUT *THE RETURN*:**
 
 **[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
-"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. \[…] Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [(Read the review)](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
+"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. \[…] Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
+
+**[*L﻿ocal News Matter* Review: *Return* a satisfying, intense story about love](https://localnewsmatters.org/2025/08/12/review-golden-thread-productions-return-a-satisfying-intense-story-about-love-and-love/)**\
+"﻿A deeply moving, beautifully acted and directed two-hander \[...] Sometimes a play comes along that’s so seemingly simple, so low-tech, yet so intense, that it reminds you how little is needed to unleash the magic of live theater."
 
 **[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
 "The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
 
-[***S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance**](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)﻿"I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
-who I am. I have to continue to bang at the door until my story is heard." --Hanna Eady
+**[*S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)**﻿\
+"I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
+who I am. I have to continue to bang at the door until my story is heard."
