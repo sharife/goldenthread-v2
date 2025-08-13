@@ -303,6 +303,6 @@ bottom:
 **[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
 "The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
 
-**[*S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)**﻿\
+**[*S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)**\
 "I'm going to say the forbidden word: It's a genocide. \[...] My job, to tell the story, it's an obligation. It's part of 
 who I am. I have to continue to bang at the door until my story is heard."
