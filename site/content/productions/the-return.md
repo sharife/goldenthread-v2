@@ -290,11 +290,14 @@ bottom:
 ---
 **PRESS ABOUT *THE RETURN*:**
 
-**[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
-"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. \[…] Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
-
 **[*L﻿ocal News Matter* Review: *Return* a satisfying, intense story about love](https://localnewsmatters.org/2025/08/12/review-golden-thread-productions-return-a-satisfying-intense-story-about-love-and-love/)**\
-"﻿A deeply moving, beautifully acted and directed two-hander \[...] Sometimes a play comes along that’s so seemingly simple, so low-tech, yet so intense, that it reminds you how little is needed to unleash the magic of live theater."
+"﻿A deeply moving, beautifully acted and directed two-hander! Sometimes a play comes along that’s so seemingly simple, so low-tech, yet so intense, that it reminds you how little is needed to unleash the magic of live theater."
+
+**[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
+"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
+
+**[*4﻿8 Hills* Review: A Tennis Match of Wits](https://48hills.org/2025/08/drama-masks-a-ping-ponging-in-the-mind-and-a-tennis-match-of-wits/)**\
+"*The Return* is a slow-motion tragedy that deserves as large an audience as it can get. It wisely foregoes any physical acts of violence and simply reveals two characters damaged by the same Israeli colonialism that boasts of killing journalists."
 
 **[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
 "The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
