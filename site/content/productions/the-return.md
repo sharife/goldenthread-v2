@@ -193,67 +193,63 @@ mentions:
     justice.
 
 
-    **Thursday, Aug 7, 2025**
+    **Thursday, Aug 7, 2025**\
 
     Post-show Talkback with Co-Writer and Director Hanna Eady
 
 
-    **Friday, Aug 8, 2025**
+    **Friday, Aug 8, 2025**\
 
     Post-show Talkback with Co-Writer and Director Hanna Eady
 
 
-    **Saturday, Aug 9, 2025**
+    **Saturday, Aug 9, 2025**\
 
-    Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members
-
-    Mona Masri and Jumana Muwafi, with support by Layal Nawfal and Ziad Saba.\
+    Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members Mona Masri and Jumana Muwafi, with support by Layal Nawfal and Ziad Saba.\
 
     \
 
-    **Sunday, Aug 10, 2025**
+    **Sunday, Aug 10, 2025**\
 
     Opening Night post-show reception hosted by the Golden Thread Board
 
 
-    **Thursday, Aug 14, 2025 (Mask Required Performance)**
+    **Thursday, Aug 14, 2025 (Mask Required Performance)**\
 
     Post-show reflections with Golden Thread artists
 
 
-    **Friday, Aug 15, 2025**
+    **Friday, Aug 15, 2025**\
 
     Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation with Zeiad Abbas Shamrouch
 
 
-    **Saturday, Aug 16, 2025**
+    **Saturday, Aug 16, 2025**\
 
     Post-show reflections with Palestinian-American artist and activist Nida Liftawi
 
 
-    **Sunday, Aug 17, 2025**
+    **Sunday, Aug 17, 2025**\
 
     NorCal Sabeel Sponsored Night with post-show conversation with Therese Mughannam-Walrath
 
 
-    **Thursday, Aug 21, 2025**
+    **Thursday, Aug 21, 2025**\
 
     Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation with Mohamed Shehk
 
 
-    **Friday Aug 22, 2025**
+    **Friday Aug 22, 2025**\
 
     Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
 
 
     **Saturday, Aug 23, 2025**\
 
-    Pre-show Coffee & Community gathering with Golden Thread Staff Members Wynne Chan and
-
-    Salim Razawi, and Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
+    Pre-show Coffee & Community gathering with Golden Thread Staff Members Wynne Chan and Salim Razawi, and Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
 
 
-    **Sunday, Aug 24, 2025 (Mask Required Performance)**
+    **Sunday, Aug 24, 2025 (Mask Required Performance)**\
 
     Jewish Voice for Peace, Bay Area Sponsored Night with post-show panel conversation
 photos:
@@ -294,11 +290,14 @@ bottom:
 ---
 **PRESS ABOUT *THE RETURN*:**
 
-**[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
-"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. \[…] Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
-
 **[*L﻿ocal News Matter* Review: *Return* a satisfying, intense story about love](https://localnewsmatters.org/2025/08/12/review-golden-thread-productions-return-a-satisfying-intense-story-about-love-and-love/)**\
-"﻿A deeply moving, beautifully acted and directed two-hander \[...] Sometimes a play comes along that’s so seemingly simple, so low-tech, yet so intense, that it reminds you how little is needed to unleash the magic of live theater."
+"﻿A deeply moving, beautifully acted and directed two-hander! Sometimes a play comes along that’s so seemingly simple, so low-tech, yet so intense, that it reminds you how little is needed to unleash the magic of live theater."
+
+**[*S﻿an Francisco Chronicle* Review: *The Return* asks whether an Israeli and a Palestinian can rewrite their script](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)**\
+"First-rate performers… Stebbins, among the region’s most incisive parsers of subtext, finds secret doors to the unknown within her lines. Musleh is a study in understatement. His character’s open yet subdued mien communicates a lifetime spent appeasing an abusive authority." [](https://www.sfchronicle.com/entertainment/article/review-golden-thread-the-return-20794185.php)
+
+**[*4﻿8 Hills* Review: A Tennis Match of Wits](https://48hills.org/2025/08/drama-masks-a-ping-ponging-in-the-mind-and-a-tennis-match-of-wits/)**\
+"*The Return* is a slow-motion tragedy that deserves as large an audience as it can get. It wisely foregoes any physical acts of violence and simply reveals two characters damaged by the same Israeli colonialism that boasts of killing journalists."
 
 **[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
 "The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
