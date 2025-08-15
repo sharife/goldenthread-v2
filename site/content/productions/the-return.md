@@ -226,7 +226,7 @@ mentions:
 
     **Saturday, Aug 16, 2025**\
 
-    Post-show reflections with Palestinian-American artist and activist Nida Liftawi
+    Post-show reflections with Palestinian-American artist and activist Nida Liftawiya
 
 
     **Sunday, Aug 17, 2025**\
