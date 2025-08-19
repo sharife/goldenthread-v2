@@ -193,63 +193,68 @@ mentions:
     justice.
 
 
-    **Thursday, Aug 7, 2025**\
+    **Thursday, August 7, 2025 at 8pm**\
 
     Post-show Talkback with Co-Writer and Director Hanna Eady
 
 
-    **Friday, Aug 8, 2025**\
+    **Friday, August 8, 2025 at 8pm**\
 
     Post-show Talkback with Co-Writer and Director Hanna Eady
 
 
-    **Saturday, Aug 9, 2025**\
+    **Saturday, August 9, 2025 at 8pm**\
 
     Meet the Playwrights Hanna Eady and Edward Mast. Reception hosted by community members Mona Masri and Jumana Muwafi, with support by Layal Nawfal and Ziad Saba.\
 
     \
 
-    **Sunday, Aug 10, 2025**\
+    **Sunday, August 10, 2025 at 7pm**\
 
     Opening Night post-show reception hosted by the Golden Thread Board
 
 
-    **Thursday, Aug 14, 2025 (Mask Required Performance)**\
+    **Thursday, August 14, 2025 at 8pm (Mask Required Performance)**\
 
     Post-show reflections with Golden Thread artists
 
 
-    **Friday, Aug 15, 2025**\
+    **Friday, August 15, 2025 at 8pm**\
 
     Middle East Children’s Alliance (MECA) Sponsored Night with post-show conversation with Zeiad Abbas Shamrouch
 
 
-    **Saturday, Aug 16, 2025**\
+    **Saturday, August 16, 2025 at 8pm**\
 
     Post-show reflections with Palestinian-American artist and activist Nida Liftawiya
 
 
-    **Sunday, Aug 17, 2025**\
+    **Sunday, August 17, 2025 at 3pm**\
 
     NorCal Sabeel Sponsored Night with post-show conversation with Therese Mughannam-Walrath
 
 
-    **Thursday, Aug 21, 2025**\
+    **Thursday, August 21, 2025 at 8pm**\
 
     Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation with Mohamed Shehk
 
 
-    **Friday Aug 22, 2025**\
+    **Friday August 22, 2025 at 8pm**\
 
     Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
 
 
-    **Saturday, Aug 23, 2025**\
+    **Saturday, August 23, 2025 at 3pm**\
 
-    Pre-show Coffee & Community gathering with Golden Thread Staff Members Wynne Chan and Salim Razawi, and Post-show reflections with Palestinian-American artist and activist Abdulrahim Harara
+    P﻿ost-show C﻿offee & Community gathering with Palestinian-American artist and activist Abdulrahim Harara (owner of Jerusalem Coffee House) and Golden Thread Artistic Producer Salim Razawi 
 
 
-    **Sunday, Aug 24, 2025 (Mask Required Performance)**\
+    **S﻿aturday, August 23, 2025 at 8pm**\
+
+    P﻿ost-show reflections with Art2Action Executive Artistic Director Andrea Assaf
+
+
+    **Sunday, August 24, 2025 at 3pm (Mask Required Performance)**\
 
     Jewish Voice for Peace, Bay Area Sponsored Night with post-show panel conversation
 photos:
