@@ -17,6 +17,9 @@ description: >-
 
 
   *The Return* was part of New Threads Staged Reading Series in 2024.
+
+
+  The performance runs **70 minutes with no intermission**. Late seating and re-entry are not allowed. Please see below for a list of the special engagement events occurring after each performance.
 background: https://ucarecdn.com/f8aacf2d-d9c3-4f3f-9130-0bf40145fbb9/
 titleimage: ""
 programlabel: Digital Playbill
