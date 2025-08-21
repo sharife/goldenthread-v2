@@ -237,29 +237,29 @@ mentions:
     NorCal Sabeel Sponsored Night with post-show conversation with Therese Mughannam-Walrath
 
 
-    **Thursday, August 21, 2025 at 8pm**\
+    **Thursday, Aug 21, 2025 at 8pm**\
 
-    Arab Resource & Organizing Center (AROC) Sponsored Night with post-show conversation with Mohamed Shehk
-
-
-    **Friday August 22, 2025 at 8pm**\
-
-    Post-show reflections with Golden Thread Artist-in-Residence Evren Odcikin
+    Arab Resource & Organizing Center (AROC) Sponsored Night, including a post-show conversation with Mohamed Shehk
 
 
-    **Saturday, August 23, 2025 at 3pm**\
+    **Friday, Aug 22, 2025 at 8pm**\
 
-    P﻿ost-show C﻿offee & Community gathering with Palestinian-American artist and activist Abdulrahim Harara (owner of Jerusalem Coffee House) and Golden Thread Artistic Producer Salim Razawi 
-
-
-    **S﻿aturday, August 23, 2025 at 8pm**\
-
-    P﻿ost-show reflections with Art2Action Executive Artistic Director Andrea Assaf
+    Post-show reflections with Art2Action Executive Artistic Director Andrea Assaf
 
 
-    **Sunday, August 24, 2025 at 3pm (Mask Required Performance)**\
+    **Saturday, Aug 23, 2025 at 3pm**\
 
-    Jewish Voice for Peace, Bay Area Sponsored Night with post-show panel conversation
+    Post-Show Coffee & Community with Owner of Jerusalem Coffee House and Palestinian Artist/Activist Abdulrahim Harrara
+
+
+    **Saturday, Aug 23, 2025 at 8pm**\
+
+    Post-show reflections with Owner of Jerusalem Coffee House and Palestinian Artist/Activist Abdulrahim Harrara
+
+
+    **Sunday, Aug 24, 2025 at 3pm (Mask-Required Performance)**\
+
+    Jewish Voice of Peace, Bay Area Sponsored Night, including a post-show panel conversation with Seth Morrison
 photos:
   heading: PRODUCTION PHOTOS by David Allen Studio
   items:
