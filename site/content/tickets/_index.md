@@ -3,20 +3,6 @@ title: Buy Tickets
 lists:
   - heading: ON SALE NOW
     items:
-      - title: The Return
-        pre: August 7 - 24, 2025 at The Garret A.C.T. (415 Geary Street San Francisco,
-          CA 94102)
-        subtitle: ""
-        text: >-
-          Pre-sale tickets available at a sliding scale starting from $30 - $130
-          general admission, $20 previews. \
-
-          \
-
-          **[→ F﻿ind out more about the show](https://goldenthread.org/productions/the-return/)**
-        cta: Buy Now
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh000008sxo5MAA
-        image: https://ucarecdn.com/55aae4ae-9c3a-4e5a-99b5-eb3d209ca05e/
       - title: Pilgrimage
         pre: October 25 - November 9, 2025 at Z Space (450 Florida Street, San
           Francisco)
