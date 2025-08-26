@@ -310,7 +310,7 @@ bottom:
 **[K﻿PFA Review: *The Return*](https://kpfa.org/area941/episode/review-the-return-at-the-garret-at-acts-toni-rembe-theatre/)**\
 "The Return is only seventy minutes, but packs a punch and is not to be missed. Both actors, Nick Musleh and Elisa Beth Stebbins, are superb in their respective roles. The small venue of the Garret creates an intimacy that increases the emotional resonance.. Every word, every action, is clear, and powerful."
 
-[*B﻿ay Area Reporter* Review: *The Return* – Personal and political Middle East conflict](https://www.ebar.com/story/157032)\
+**[*B﻿ay Area Reporter* Review: *The Return* – Personal and political Middle East conflict](https://www.ebar.com/story/157032)**\
 International and intimate affairs commingle to harrowing effect in *The Return*. \[The play] not only humanizes the Israeli-Palestinian conflict, it reveals new dimensions of its impact: Damages that travel far beyond battlefields and bomb sites, and burrow deep in civilian psyches.
 
 **[*S﻿an Francisco Chronicle* Interview: For two Palestinian artists, making S.F. theater is resistance](https://www.sfchronicle.com/entertainment/article/theater-palestinian-san-francisco-20779248.php)**\
