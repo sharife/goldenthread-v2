@@ -7,26 +7,15 @@ cta: The powerful two-hander plays August 7-24!
 link: https://goldenthread.org/productions/the-return/
 items:
   - subtitle: |-
-      **V﻿olunteer for *The Return***\
-      **a﻿nd See the Show For Free!**
-    text: Thank you for considering volunteering with Golden Thread! Volunteers and
-      help with event door monitoring, seating assistance, and general support
-      including post show audience survey distribution.
-    cta: Sign up now
-    link: https://www.signupgenius.com/go/9040E4EAFA62FA1F58-57560273-the#/
-    image: https://ucarecdn.com/9a1e67a8-0b47-4a7e-9d7a-e8eb346f0141/
-  - subtitle: |-
-      **O-Teatron: Special Focus** \
-      **on Syrian Stages**
-    text: G﻿olden Thread P﻿roductions and O-Teatron present a digital showcase o﻿f
-      four full-length performances available through August 1, 2025, a﻿s part
-      of the ATHE Conference. T﻿his presentation brings a special focus on
-      Syrian stages, both local and diasporic, and is in direct response to the
-      recent political transformations in Syria, and includes two artist
-      conversations on July 29 and 30.
-    image: https://ucarecdn.com/8587c65b-58a0-4eab-a7e4-87f366e2e670/
-    cta: Find out more and watch
-    link: https://howlround.com/happenings/o-teatron-performances-available-online
+      ***P﻿ilgrimage*, our co-production with Z Space,** \
+      **p﻿erforms October 25-November 10!**
+    text: I﻿n this moving world premiere play by Humaira Ghilzai and Bridgette Dutta
+      Portman, five women embark on a pilgrimage to Mecca. Will this pilgrimage
+      bring them closer, or will secrets, rivalries, and old wounds tear them
+      apart? Michelle Talgarow directs.
+    image: https://ucarecdn.com/c1e7cff2-e921-43c6-bf88-87c43b0f39db/
+    cta: Get your tickets now!
+    link: https://goldenthread.org/productions/pilgrimage/
   - subtitle: |-
       **S﻿upport socially-engaged art,**\
       **d﻿onate to Golden Thread now!**
