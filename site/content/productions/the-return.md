@@ -278,6 +278,9 @@ photos2:
     - image: https://ucarecdn.com/2ce74805-936c-4765-9b19-ea2e7df02664/
     - image: https://ucarecdn.com/47c7865b-e17b-4326-b839-8d979e0980d0/
     - image: https://ucarecdn.com/d138f745-2659-495b-9290-f7a3a42a8689/
+    - image: https://ucarecdn.com/4e37f742-ddba-435b-8838-5af5c7d1ed0b/
+    - image: https://ucarecdn.com/826d6956-1a5d-49ef-87a4-be9684f58b0b/
+    - image: https://ucarecdn.com/dcf8161b-6257-430d-a3cb-1f2834e63e08/
 bottom:
   heading: SUPPORTERS AND PARTNERS
   text: >-
