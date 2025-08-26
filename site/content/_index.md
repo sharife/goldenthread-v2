@@ -6,9 +6,8 @@ background: https://ucarecdn.com/ede794d3-4f36-4863-9143-dec56b0925f5/
 cta: The powerful two-hander plays August 7-24!
 link: https://goldenthread.org/productions/the-return/
 items:
-  - subtitle: |-
-      ***P﻿ilgrimage*, our co-production with Z Space,** \
-      **p﻿erforms October 25-November 10!**
+  - subtitle: "***P﻿ilgrimage*, our co-production with Z Space,** **p﻿erforms
+      October 25-November 10!**"
     text: I﻿n this moving world premiere play by Humaira Ghilzai and Bridgette Dutta
       Portman, five women embark on a pilgrimage to Mecca. Will this pilgrimage
       bring them closer, or will secrets, rivalries, and old wounds tear them
@@ -16,9 +15,7 @@ items:
     image: https://ucarecdn.com/c1e7cff2-e921-43c6-bf88-87c43b0f39db/
     cta: Get your tickets now!
     link: https://goldenthread.org/productions/pilgrimage/
-  - subtitle: |-
-      **S﻿upport socially-engaged art,**\
-      **d﻿onate to Golden Thread now!**
+  - subtitle: "**S﻿upport socially-engaged art:﻿ Donate to Golden Thread now!**"
     text: A﻿s the U.S. Government ramps up its attack on immigrants, vilification of
       Middle Eastern countries and people, and a﻿ctive defunding of the Arts, we
       must stand together to fight back. Please consider supporting Golden
