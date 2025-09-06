@@ -16,14 +16,12 @@ description: >-
 
   **Organized and co-produced by Golden Thread Productions and Art2Action**
 titleimage: https://ucarecdn.com/b76b6d6f-5fea-4e09-a214-10f2655e5126/
-additional: This twenty-four hour livestream event will run from Saturday, 27
-  September 2025 at 10 a.m. PDT (San Francisco, UTC -7) / 12 p.m. CDT (Chicago,
-  UTC -5) / 1 p.m. EDT (New York, UTC -4) / 20:00 EEST (Palestine, UTC +3) to
-  Sunday, 28 September 2025 at 10 a.m. PDT (San Francisco, UTC -7) / 12 p.m. CDT
-  (Chicago, UTC -5) /  1 p.m. EDT (New York, UTC -4) / 20:00 EEST (Palestine,
-  UTC +3).
-stage: Worldwide through video stream
-ticketinfo: FREE
+additional: ""
+stage: Worldwide through video stream below.
+address: The livestream event will begin on Saturday, September 27 10 am PDT
+  (San Francisco) / 12 pm CDT (Chicago) / 1 pm EDT (New York City) / 8pm EEST
+  (Palestine).
+ticketinfo: Access is free and open to the public.
 ---
 We come together again, over a year later, for the 2nd edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
 
