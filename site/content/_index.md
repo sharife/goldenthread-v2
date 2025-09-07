@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: THE RETURN
-subtitle: by Hanna Eady and Edward Mast
-background: https://ucarecdn.com/ede794d3-4f36-4863-9143-dec56b0925f5/
-cta: The powerful two-hander plays August 7-24!
-link: https://goldenthread.org/productions/the-return/
+headline: 24 Hours for Palestine (Part 2)
+subtitle: ""
+background: https://ucarecdn.com/55f3318b-1f0c-4e7d-9c6d-39e75a718dfb/
+cta: Find out more!
+link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
 items:
   - subtitle: "***P﻿ilgrimage*, our co-production with Z Space,** **p﻿erforms
       October 25-November 10!**"
