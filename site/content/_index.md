@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: 24 Hours for Palestine (Part 2)
 subtitle: ""
-background: https://ucarecdn.com/55f3318b-1f0c-4e7d-9c6d-39e75a718dfb/
+background: https://ucarecdn.com/fdad737c-8b11-4476-8d1e-663e08d82e35/
 cta: Find out more!
 link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
 items:
