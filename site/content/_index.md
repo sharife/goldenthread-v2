@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: 24 Hours for Palestine
+headline: 24 Hours for Palestine (Part 2)
 subtitle: ""
 background: https://ucarecdn.com/55f3318b-1f0c-4e7d-9c6d-39e75a718dfb/
 cta: Find out more!
