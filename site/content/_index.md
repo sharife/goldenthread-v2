@@ -12,7 +12,7 @@ items:
       Portman, five women embark on a pilgrimage to Mecca. Will this pilgrimage
       bring them closer, or will secrets, rivalries, and old wounds tear them
       apart? Michelle Talgarow directs.
-    image: https://ucarecdn.com/c1e7cff2-e921-43c6-bf88-87c43b0f39db/
+    image: https://ucarecdn.com/8ffc8a85-b309-4967-a318-130cb72d6ad9/
     cta: Get your tickets now!
     link: https://goldenthread.org/productions/pilgrimage/
   - subtitle: "**S﻿upport socially-engaged art:﻿ Donate to Golden Thread now!**"
