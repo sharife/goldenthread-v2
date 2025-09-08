@@ -50,10 +50,17 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
   	[[menu.primary]]
 		parent = "season"
+		identifier = "24-hours-for-palestine-part-2"
+		name = "24 Hours for Palestine Part 2"
+		url = "/productions/24-hours-for-palestine-part-2/"
+		weight = 14
+  
+    [[menu.primary]]
+		parent = "season"
 		identifier = "pilgrimage"
 		name = "Pilgrimage"
 		url = "/productions/pilgrimage/"
-		weight = 14
+		weight = 15
 
 
 	[[menu.primary]]
