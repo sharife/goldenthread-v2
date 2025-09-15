@@ -3,8 +3,8 @@ title: Pilgrimage
 pre: World Premiere
 season: 2025
 date: 2024-11-15T22:57:02.688Z
-start: 2025-10-25T00:00:00.000Z
-end: 2025-11-09T19:00:00.000Z
+start: 2025-10-24T12:00:00.000Z
+end: 2025-11-09T13:00:00.000Z
 description: >-
   b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**\
 
