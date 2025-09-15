@@ -22,23 +22,23 @@ address: The event will begin on Sat, Sep 27 at 10 am PDT (San Francisco) / 12
   pm CDT (Chicago) / 1 pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
-> "In siege, time becomes place \
-> petrified in its eternity\
-> In siege, place becomes time \
-> late for its appointment 
->
-> ~
->
-> The martyr besieges me whenever I live a new day \
-> and asks: where were you?\
-> Give back to the dictionaries all the talk\
-> you gave to me as a gift \
-> and ease the drone of echo off the sleeping!
->
-> ~
->
-> The martyr teaches me: no aesthetic outside my freedom."\
-> **—From *A State of Siege* by Mahmoud Darwish, translation by Fady Joudah**
+"In siege, time becomes place \
+petrified in its eternity\
+In siege, place becomes time \
+late for its appointment 
+
+~
+
+The martyr besieges me whenever I live a new day \
+and asks: where were you?\
+Give back to the dictionaries all the talk\
+you gave to me as a gift \
+and ease the drone of echo off the sleeping!
+
+~
+
+The martyr teaches me: no aesthetic outside my freedom."\
+**—From *A State of Siege* by Mahmoud Darwish, translation by Fady Joudah**
 
 We come together again, over a year later, for the 2nd edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
 
