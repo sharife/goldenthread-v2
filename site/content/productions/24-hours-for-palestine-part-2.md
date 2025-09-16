@@ -14,8 +14,8 @@ description: Join over 100+ artists, theatre-makers, journalists, scholars,
 titleimage: https://ucarecdn.com/b76b6d6f-5fea-4e09-a214-10f2655e5126/
 additional: ""
 stage: WORLDWIDE THROUGH LIVESTREAM
-address: The event will begin on Sat, Sep 27 at 10 am PDT (San Francisco) / 12
-  pm CDT (Chicago) / 1 pm EDT (New York City) / 8pm EEST (Palestine).
+address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
+  CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
 Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Ashtar Theatre, Aviva Arts, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, and Zoukak Theatre Company.
