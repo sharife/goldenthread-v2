@@ -18,7 +18,7 @@ address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
   CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
-Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Ashtar Theatre, Aviva Arts, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD),and Zoukak Theatre Company.
+Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Ashtar Theatre, Aviva Arts, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
 <iframe src="https://peertube-us.howlround.com/plugins/livechat/router/webchat/room/72178847-8f90-4a8a-becb-548bceaa90bc?_readonly=noscroll&amp;_transparent=true" title="24 Hours for Palestine" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" width="560" height="315" frameborder="0"></iframe>
 
