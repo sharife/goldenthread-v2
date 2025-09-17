@@ -17,7 +17,7 @@ description: >-
   Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Ashtar Theatre, Aviva Arts, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 titleimage: https://ucarecdn.com/b76b6d6f-5fea-4e09-a214-10f2655e5126/
 additional: ""
-stage: WORLDWIDE THROUGH LIVESTREAM ON THIS PAGE
+stage: WORLDWIDE LIVESTREAM BELOW
 address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
   CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
