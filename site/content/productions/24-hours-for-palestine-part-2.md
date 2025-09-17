@@ -22,11 +22,7 @@ address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
   CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
-
-
-```
-
-```
+<div style="position: relative; padding-top: 56.25%;"><iframe title="2﻿4 Hours for Palestine (Part 2)" width="100%" height="100%" src="https://peertube-eu.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
 
