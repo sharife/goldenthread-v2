@@ -24,7 +24,7 @@ ticketinfo: Access is free and open to the public.
 ---
 <div style="position: relative; padding-top: 56.25%;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
-
+Test
 
 We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
 
