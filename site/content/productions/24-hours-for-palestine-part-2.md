@@ -22,7 +22,7 @@ address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
   CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
-<div style="position: relative; padding-top: 56.25%;"><iframe title="2﻿4 Hours for Palestine (Part 2)" width="100%" height="100%" src="https://peertube-us.howlround.com/w/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 
 
 
