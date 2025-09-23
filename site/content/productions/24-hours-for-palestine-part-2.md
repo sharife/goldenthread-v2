@@ -5,7 +5,7 @@ season: 2025
 date: 2025-09-05T17:43:48.635Z
 start: 2025-09-27T17:00:00.000Z
 end: 2025-09-28T17:00:48.651Z
-heading: ""
+heading: To Our Ultimate Freedom
 description: >-
   Join over 100+ artists, theatre-makers, journalists, scholars, educators, and
   activists from across the world for 24 hours of non-stop performances, panels,
@@ -15,7 +15,7 @@ description: >-
 
 
   <div style="position: relative;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
-titleimage: https://ucarecdn.com/b76b6d6f-5fea-4e09-a214-10f2655e5126/
+titleimage: ""
 additional: ""
 stage: WORLDWIDE LIVESTREAM BELOW
 address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
