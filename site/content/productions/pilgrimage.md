@@ -132,6 +132,47 @@ cast:
         [jeuneesimon.com](http://www.jeuneesimon.com)"
       image: https://ucarecdn.com/9de9fd58-f555-4c56-a13a-fa731d859b12/
       credit: Actor
+    - name: Karen Runk
+      credit: Stage Manager
+      image: https://ucarecdn.com/cf7a6f45-d0c2-4160-aa3b-b3fe757a69fd/
+      bio: moved to S﻿an Francisco with the intention of only staying for a few
+        months... Well nearly three decades later, she's still here! This is
+        largely due to the talented folks at the SF Mime Troupe, Word For Word
+        (where she recently became a core company member!!!), and thanks to
+        Golden Thread Productions where she has been an Affiliated Artist since
+        2018 (aka the before times) -- but mostly it's due to rent control! Runk
+        has also stage managed with the San Francisco Mime Troupe, Word For
+        Word, Magic Theater, SFShakes, Intersection for the Arts, and African
+        American Shakespeare Company.
+    - bio: is thrilled to join Golden Thread Productions for this performance! She
+        discovered her love for working “behind the scenes” in theatre during
+        her time at CSUEB. After a brief hiatus, and a few refresher courses at
+        Chabot College, she returned to the world of live performance. She
+        previously was the Assistant Stage Manager for Word for Word productions
+        of *The Strange Library* and *Annunciation*.
+      name: Tina Mosier
+      credit: Assistant Stage Manager
+      image: https://ucarecdn.com/ca9cb42e-e8c5-47ce-884c-61c16f39a321/
+    - bio: >-
+        is an Irish designer based in San Francisco. He is the Director of
+        Technical & Production at Z Space, where his design credits include
+        *Rime of the Ancient Mariner* alongside Oliver di Cicco; *Baba: The Life
+        and Death of Stana*; and *Ripped*. 
+
+
+        Irish credits include co-founder & lead designer of Sugarglass Theatre: the Irish premiere of *Tender Napalm* (Project Arts Centre); *Five Minutes Later* (The Lir); *All Hell Lay Beneath* (Irish Times “Cultural Highlight of the Year”); *Ethica: Four Shorts* by Samuel Beckett (Áras an Uachtaráin, Dublin – Human Rights Day; Happy Days Festival, Enniskillen). Other work: *Brothers Karamazov* and *Distance from the Event* (Samuel Beckett Theatre); *Monster Clock* (national tour); *Love and Information* and *Caucasian Chalk Circle* (The Lir); *Waiting for Godot* and *Pygmalion* (Smock Alley); *The Life and Sort of Death of Eric Argyle* (international tour); *The Lesson* (Project Cube). MFA from The Lir Academy, Trinity College; Chief Electrician at Gate Theatre, Dublin.
+
+
+        New York credits include The Irish Rep’s *The Beacon*; *Outlying Islands* (The Connolly Theater; Samuel Beckett Theatre, Dublin); and the inaugural production of *Last Night in Inwood* by Alix Sobler (Signature Theatre).
+
+
+        In addition to his theatrical work, Colm has practiced exhibition design (Science Gallery Dublin’s Design & Violence, Illusion, and In Case of Emergency), production design for film (*Interview with Traveler #582*, Lisa Steindler & Jon Bernson), custom furniture design, and woodworking commissions for restaurants, venues, and private clients.
+
+
+        His work has been described as "exceptional use of space" — Irish Theatre Magazine, "too beautiful" — The Irish Times, "Draws patrons in...sensorially, almost hypnotically" — SF Examiner, and “gives life to everything” – Charles Passy.
+      name: Colm McNally
+      credit: Technical Director
+      image: https://ucarecdn.com/07a327b6-fc00-416f-89d8-04550ec9fb89/
 mentions:
   heading: "Z Space Access Notes:"
   text: Z Space is a wheelchair accessible theater and has accessible seating for
