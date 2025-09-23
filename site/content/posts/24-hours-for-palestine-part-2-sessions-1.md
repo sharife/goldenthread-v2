@@ -14,19 +14,17 @@ Organized and co-produced by **Golden Thread Productions** and **Art2Action**
 
 No registration required. [Livestream on the Golden Thread website.](https://goldenthread.org/productions/24-hours-for-palestine-part-2/) 
 
-
-
 ## SCHEDULE
 
 ### Saturday, September 27, 2025
 
-* *10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine*\
-  **Intro & Homage to Refaat Alareer with Mosab Abu Toha**\
-  **Literature as Resistance: A Reading from Gaza Writes Back edited by Refaat Alareer**
-  We honor the legacy of Palestinian writer and poet Refaat Alareer, martyred on December 6, 2023, through a conversation with his close friend and Pulitzer Prize–winning poet Mosab Abu Toha, alongside a reading from Gaza Writes Back, the short story anthology Refaat edited and published in 2013. The anthology amplifies the voices of young Palestinians who survived the 2008–09 Israeli assault on Gaza, known as Operation Cast Lead. Through short stories and testimonies, these writers bear witness to daily life under siege and bombardment, transforming personal memory into acts of resistance and resilience. Actors Adam El-Sharkawi, Edward Hong, and Hiba Sleiman will join us to read excerpts from Gaza Writes Back. Mosab will also offer reflections on Refaat’s life, his work, and the ongoing situation in Gaza.\
+* ***10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine***\
+  **T﻿itle: Intro and Homage to Refaat Alareer with Mosab Abu Toha**\
+  **Literature as Resistance: A Reading from *Gaza Writes Back* edited by Refaat Alareer**
+  **Description:** We honor the legacy of Palestinian writer and poet Refaat Alareer, martyred on December 6, 2023, through a conversation with his close friend and Pulitzer Prize–winning poet Mosab Abu Toha, alongside a reading from *Gaza Writes Back*, the short story anthology Refaat edited and published in 2013. The anthology amplifies the voices of young Palestinians who survived the 2008–09 Israeli assault on Gaza, known as Operation Cast Lead. Through short stories and testimonies, these writers bear witness to daily life under siege and bombardment, transforming personal memory into acts of resistance and resilience. Mosab will also offer reflections on Refaat’s life, his work, and the ongoing situation in Gaza.\
   **Moderators:** Golden Thread Artistic Director Sahar Assaf and Art2Action Executive Artistic Director Andrea Assaf\
-  **Special Guest:** Pulitzer Price winning poet Mosab Abu Toha\
-  **P﻿erformers:** Adam El-Sharkawi, Edward Hong, Hiba Sleiman, SEVAN, Nusaybah Almenaii\
+  **Special Guest:** Mosab Abu Toha\
+  **P﻿erformers:** Nusaybah Almenaii, Adam El-Sharkawi, Edward Hong, SEVAN, Hiba Sleiman\
   **Duration:** 80 minutes  
 * *11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine*\
   **A Testimony from Gaza**\
