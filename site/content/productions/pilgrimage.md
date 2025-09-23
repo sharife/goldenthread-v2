@@ -68,18 +68,18 @@ cast:
     - name: Bridgette Dutta Portman
       credit: Playwright
       image: https://ucarecdn.com/fc5c6d27-01ee-4b71-a919-aa9bd8131e39/
-      bio: "**Bridgette Dutta Portman** is a playwright and novelist based in the San
-        Francisco Bay Area. More than two dozen of her plays have been produced
-        locally, nationally, and internationally. She is a member of the Pear
-        Theatre board of directors, the Pear Playwrights' Guild, the PlayGround
-        SF writers pool and resident playwrights' program, and the Dramatists'
-        Guild. She received the 2023 June Anne Baker Prize from PlayGround, and
-        has been a finalist for the Bay Area Playwrights' Festival, the Theatre
-        Bay Area TITAN award, the PlayPenn Conference, the Kentucky Women’s
-        Theatre Conference Prize for Women Writers, the New Dramatists
-        playwrights' residency, and more. She holds an MFA in creative writing
-        (Spalding University, 2018) and teaches composition and dramatic writing
-        at UC Berkeley's College Writing Programs."
+      bio: is a playwright and novelist based in the San Francisco Bay Area. More than
+        two dozen of her plays have been produced locally, nationally, and
+        internationally. She is a member of the Pear Theatre board of directors,
+        the Pear Playwrights' Guild, the PlayGround SF writers pool and resident
+        playwrights' program, and the Dramatists' Guild. She received the 2023
+        June Anne Baker Prize from PlayGround, and has been a finalist for the
+        Bay Area Playwrights' Festival, the Theatre Bay Area TITAN award, the
+        PlayPenn Conference, the Kentucky Women’s Theatre Conference Prize for
+        Women Writers, the New Dramatists playwrights' residency, and more. She
+        holds an MFA in creative writing (Spalding University, 2018) and teaches
+        composition and dramatic writing at UC Berkeley's College Writing
+        Programs.
 mentions:
   heading: "Z Space Access Notes:"
   text: Z Space is a wheelchair accessible theater and has accessible seating for
