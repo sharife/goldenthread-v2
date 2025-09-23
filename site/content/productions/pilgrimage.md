@@ -24,23 +24,6 @@ ticketinfo: Tickets start at $20. No one is turned away for lack of funds,
   please email boxoffice@zspace.org
 cast:
   items:
-    - name: Z Space
-      credit: Co-producer
-      image: https://ucarecdn.com/22e84757-f4d8-4f02-9722-cc17063c5720/
-      link: https://www.zspace.org
-      bio: >-
-        empowers artistic risk, collaboration, and camaraderie amongst artists,
-        audience, and community in the service of creating, developing, and
-        presenting new work. Operating out of an old can factory in the Mission
-        District of San Francisco, Z Space now activates two venues, an 85-seat
-        intimate theater and a 236-seat flexible performance space, with a
-        warehouse aesthetic and an adventurous edge. Eschewing traditional
-        theater models with fixed seasons and a singular artistic vision, Z
-        Space strives to embrace a multitude of artistic voices through a
-        variety of programs and partnerships. 
-
-
-        Keystone initiatives include New Work, a development, production, and presentation program that supports artists and ensembles from conception to realization of unique works; [Word for Word](https://www.zspace.org/aboutwordforword), a resident performing arts company that transforms works of literature verbatim to the stage; [Youth Arts](https://www.zspace.org/yaoverview), an arts education program promoting literacy and creativity; the [Curated Rental Program](https://www.zspace.org/rent), which opens our venues for use by a variety of artists and arts groups; and the [Residency Program](https://www.zspace.org/residencies) which provide an artistic home for artists and organizations in search of growth and community as they develop their artistic voice. Annually, we reach approximately 22,000 audience members, 800 youth and children through Youth Arts, and approximately 50 small and mid-size arts organizations.
     - image: https://ucarecdn.com/a2abbae4-bbb3-4847-9a7c-7703633b2a8a/
       name: Humaira Ghilzai
       credit: Playwright
@@ -80,6 +63,30 @@ cast:
         holds an MFA in creative writing (Spalding University, 2018) and teaches
         composition and dramatic writing at UC Berkeley's College Writing
         Programs.
+    - name: Michelle Talgarow
+      credit: Director
+      bio: "is a Kalmyk/Filipina performance maker in the Bay Area for over 25 years.
+        Recent directing credits include *Cuckoo Edible Magic* with SFBATCO,
+        *Thirty-Six* by Leah Nanako Winkler with Shotgun Players, the immersive
+        rock play *Darkheart* by Golda Sargento with Bindlestiff Studios in SF.
+        Michelle is a proud member of Shotgun Players’ artistic company and a
+        proud member of the all AAPI Bay Area theatre collective, Ferocious
+        Lotus. Michelle has been fortunate to also have worked with many other
+        local companies: The Ground Floor at Berkeley Rep, Central Works, Impact
+        Theatre, Ferocious Lotus, Cutting Ball Theatre, Magic Theatre. Michelle
+        is currently an adjunct professor at University of San Francisco."
+      image: https://ucarecdn.com/9b6ccce4-922b-4b44-8081-ca45c05970ec/
+    - name: Salim Razawi
+      bio: Bay Area theatre director, actor, and educator dedicated to uplifting
+        diverse voices and building collaborative artistic communities. He is
+        committed to inspiring and creating opportunities for fellow theatre
+        makers. With a background in Theatre Arts and international acclaim as a
+        competitive public speaker. Salim was last seen at Marin Shakes as
+        Sebastian in *Twelfth Night*. His extensive experience includes acting,
+        casting, producing, consulting, and directing throughout the Bay Area.
+        work. [salimrazawi.com](http://www.salimrazawi.com)
+      credit: Associate Director / Artistic Producer
+      image: https://ucarecdn.com/3508f5db-16be-4015-8b4c-0dc72f99423d/
     - name: Isabel Alamin
       credit: Actor
       image: https://ucarecdn.com/67201c34-c7dd-4ee1-9c5b-064d49908c2d/
@@ -153,6 +160,75 @@ cast:
       name: Tina Mosier
       credit: Assistant Stage Manager
       image: https://ucarecdn.com/ca9cb42e-e8c5-47ce-884c-61c16f39a321/
+    - name: James Ard
+      credit: Sound Designer
+      image: https://ucarecdn.com/6661e598-ce9c-4bfb-b2b6-e010ad8da88f/
+      bio: is a noisemaker who specializes in new works, live experiences, interactive
+        media, and immersive stage productions. His work includes sound design
+        for Golden Thread's productions of *The Return, The Most Dangerous
+        Highway in the World, Scenes From 71* Years, On The Periphery*, and
+        various ReOrient short play festivals. Nationally, his work has been
+        featured in collaborations with Under the Radar at The Public Theater,
+        Woolly Mammoth Theatre Company, Guthrie Theater, American Repertory
+        Theater, Oregon Shakespeare Festival, Ensemble Theatre Company, and
+        Portland Center Stage. Internationally, his designs have appeared at the
+        Edinburgh Festival Fringe and Sibiu International Theatre Festival. In
+        the San Francisco Bay Area, he has collaborated with American
+        Conservatory Theater, TheatreWorks Silicon Valley, Aurora Theatre
+        Company, San Francisco Playhouse, Shotgun Players, Cutting Ball Theater,
+        CenterREP, and the Joe Goode Performance Group. He has taught, mentored,
+        or collaborated with students at institutions such as Stanford
+        University, UC Berkeley, Atlantic Theater Company, and Saint Mary’s
+        College of California. Ard is an Affiliated Artist with both Golden
+        Thread and Crowded Fire Theater, where he frequently contributes to
+        innovative and socially engaged performances.
+    - name: Amy Benjamin
+      credit: Properties Designer
+      image: https://ucarecdn.com/5e2aad1a-b45c-4107-aacc-68a788727323/
+      bio: draws from an extensive background in multidisciplinary art to create
+        theatre magic. She holds a Bachelor of Arts degree in Design Studies
+        from San Jose State University and has been mentored in scenic design by
+        Nina Ball. She's most recently designed properties for *My Fair Lady,
+        The Curious Incident of the Dog in the Night Time*, and *Fat Ham* for
+        San Francisco Playhouse, along with Word for Word’s adaptations of
+        *Annunciation* and *The Strange Library*.
+    - name: Ray Oppenheimer
+      credit: Lighting Designer
+      image: https://ucarecdn.com/7f51aad4-3def-480b-8b00-06e2b5725a16/
+      bio: is a San Francisco Bay Area based lighting designer, educator, and creator
+        who has been bringing his boundless curiosity, chimerical aesthetic, and
+        Sisyphean perseverance to lighting design and education since 2005. He
+        is excited to be working with Golden Thread on *Pilgrimage*.
+    - bio: has designed several productions for Golden Thread Productions, including
+        *Drowning in Cairo, Our Enemies, 444 Days, Language Room, Night Over
+        Erzinga*. Other theater credits include *Cuckoo Edible Magic* and *Sign
+        My Name to Freedom* for San Francisco Bay Area Theatre Company; *The
+        Strange Library, Stories By Tobias Wolff, Immortal Heart, Four Adverbs*
+        for Word for Word; *Fallen Angels, Wives, the Children, Detroit, Our
+        Practical Heaven, Fat Pig, Salome* for for Aurora Theatre Company;
+        *Monument, or Four Sisters (A Sloth Play), A Common Vision* for  Magic
+        Theatre; *Elevata, Kill the Debbie Downers! Kill Them! Kill Them! Kill
+        Them Off!* for Shotgun Players; and *This Lingering Life* for Theater of
+        Yugen. She has also designed for Marin Theatre, Ross Valley Players,
+        Crowded Fire, Theater Works, A.C.T. MFA program, Berkeley Repertory
+        Theater, Chanticleer, among others. She is an Affiliated Artist at
+        Golden Thread Productions, a recipient of SF Bay Area Theater Critics
+        awards, the NEA/TCG Career Development Program for Designers, and The
+        Isadora Duncan Dance Award.
+      name: Mikiko Uesugi
+      credit: Scenic Designer
+      image: https://ucarecdn.com/f0e4ea2a-dc93-462d-b53b-fd1d5226e5f4/
+    - name: Fatima Yahyaa
+      credit: Costume Designer
+      bio: (she/hers) is filmmaker and artist from the Bay Area, who is passionate
+        about spirituality and the subconscious. Fatima grew up in Yemen, in the
+        valley of Tarim, where she discovered her interest in storytelling. In
+        addition to personal creative goals, Fatima is eager about supporting
+        others in their work, and passing on the knowledge to the next
+        generation. She recently started dabbling in theater as a costume
+        designer. Fatima has collaborated on *Collective Rage* at Shotgun
+        Players, *AZAD (the rabbit and the wolf)* at Golden Thread Productions,
+        and *Do You Feel Anger* at Marin Theatre.
     - bio: >-
         is an Irish designer based in San Francisco. He is the Director of
         Technical & Production at Z Space, where his design credits include
@@ -173,6 +249,32 @@ cast:
       name: Colm McNally
       credit: Technical Director
       image: https://ucarecdn.com/07a327b6-fc00-416f-89d8-04550ec9fb89/
+    - name: Sarah Phykitt
+      credit: Production Manager
+      image: https://ucarecdn.com/5a3ceb60-9175-429d-af72-7480341e911a/
+      bio: (she/her) has been managing productions around the Bay Area for the past 17
+        years and is thrilled to have made a permanent home at Z Space as
+        Associate Director of Technical and Production. She has worked with a
+        variety of companies including A Traveling Jewish Theatre, Custom Made
+        Theatre Company, American Conservatory Theater, Oasis SF, and several
+        others. Sarah also works as a Scenic and Video designer and her work
+        could most recently been seen on Z Space's Steindler Stage for *The Day
+        the Sky Turned Orange*.
+    - name: Wendy Reyes
+      credit: Production Associate
+      image: https://ucarecdn.com/89cc2019-0e7a-4ae8-abae-e9b57c1dd841/
+      bio: (she/ella) is Golden Thread’s Production Associate. Proudly from the city
+        of St. Louis, Missouri, Wendy is a Mexican-American multimedia artist
+        with a Bachelor's degree in Media Studies from the University of San
+        Francisco. With her skills in video and audio production, Wendy is
+        passionate about creating engaging stories that raise awareness about
+        social injustices while promoting a healthier, more just path for
+        marginalized communities. Currently based in the Bay Area, Wendy brings
+        her technical expertise to Golden Thread’s team, contributing to the
+        realization of their artistic endeavors. Additionally, she is a
+        participant of KALW Public Media’s year-long Beat Reporting Fellowship,
+        further expanding her impact within the realm of multimedia
+        storytelling.
 mentions:
   heading: "Z Space Access Notes:"
   text: Z Space is a wheelchair accessible theater and has accessible seating for
