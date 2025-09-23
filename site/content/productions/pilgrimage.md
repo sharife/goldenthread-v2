@@ -25,19 +25,19 @@ ticketinfo: Tickets start at $20. No one is turned away for lack of funds,
 cast:
   items:
     - name: Z Space
-      credit: co-producer
+      credit: Co-producer
       image: https://ucarecdn.com/22e84757-f4d8-4f02-9722-cc17063c5720/
       link: https://www.zspace.org
       bio: >-
-        **Z Space** empowers artistic risk, collaboration, and camaraderie
-        amongst artists, audience, and community in the service of creating,
-        developing, and presenting new work. Operating out of an old can factory
-        in the Mission District of San Francisco, Z Space now activates two
-        venues, an 85-seat intimate theater and a 236-seat flexible performance
-        space, with a warehouse aesthetic and an adventurous edge. Eschewing
-        traditional theater models with fixed seasons and a singular artistic
-        vision, Z Space strives to embrace a multitude of artistic voices
-        through a variety of programs and partnerships. 
+        empowers artistic risk, collaboration, and camaraderie amongst artists,
+        audience, and community in the service of creating, developing, and
+        presenting new work. Operating out of an old can factory in the Mission
+        District of San Francisco, Z Space now activates two venues, an 85-seat
+        intimate theater and a 236-seat flexible performance space, with a
+        warehouse aesthetic and an adventurous edge. Eschewing traditional
+        theater models with fixed seasons and a singular artistic vision, Z
+        Space strives to embrace a multitude of artistic voices through a
+        variety of programs and partnerships. 
 
 
         Keystone initiatives include New Work, a development, production, and presentation program that supports artists and ensembles from conception to realization of unique works; [Word for Word](https://www.zspace.org/aboutwordforword), a resident performing arts company that transforms works of literature verbatim to the stage; [Youth Arts](https://www.zspace.org/yaoverview), an arts education program promoting literacy and creativity; the [Curated Rental Program](https://www.zspace.org/rent), which opens our venues for use by a variety of artists and arts groups; and the [Residency Program](https://www.zspace.org/residencies) which provide an artistic home for artists and organizations in search of growth and community as they develop their artistic voice. Annually, we reach approximately 22,000 audience members, 800 youth and children through Youth Arts, and approximately 50 small and mid-size arts organizations.
