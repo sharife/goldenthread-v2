@@ -2,71 +2,44 @@
 title: "24 Hours for Palestine (Part 2): Sessions"
 date: 2025-09-23T16:13:14.221Z
 description: September 27-28, 2025
-background: https://ucarecdn.com/25b4dd4d-0ced-463d-986c-4b8c827e6a79/-/crop/941x409/35,78/-/preview/
+background: ""
 ---
-# 24 Hours for Palestine:
+# 24 Hours for Palestine (Part II)
 
-## A Moon will Rise from Darkness
+## To Our Ultimate Freedom
 
-### July 20-21, 2024
+Join over 100+ artists, theatre-makers, journalists, scholars, educators, and activists from across the world for 24 hours of non-stop performances, panels, dialogues, short films, personal stories, eye witness accounts, poetry, music, and more, in an act of global solidarity, as we raise our voices together for the liberation of Palestine.
 
-A 24-hour online event featuring 100+ Global Artists and Activists for a Free Palestine, including performances and presentations honoring the Palestinian people and their steadfastness in the face of genocide, and discussions of how to build solidarity in the global movement for Palestinian liberation. 
+Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
-Title inspired by Palestinian poet Mahmoud Darwish 
+No registration required. [Livestream on the Golden Thread website.](https://goldenthread.org/productions/24-hours-for-palestine-part-2/) 
 
-Organized and produced by [Golden Thread Productions](https://goldenthread.org/), co-produced with [Art2Action](https://www.art2action.org/), in partnership with the MENA Theatre-Makers Alliance ([MENATMA](https://www.menatheatre.org/)), [Ashtar Theatre](https://www.ashtar-theatre.org/), [The Freedom Theatre](https://thefreedomtheatre.org/), [Zoukak Theatre Company](https://zoukak.org/), [Noor Theatre](https://www.noortheatre.org/), [Donkeysaddle Projects](https://www.donkeysaddle.org/), and [Dunya Productions](https://www.dunyaproductions.org/); hosted by [HowlRound Theater Commons](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness). \
-\
-No registration required. Livestream on [HowlRound](https://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness). 
+
 
 ## SCHEDULE
 
-View the Digital Program [here](https://www.flipsnack.com/goldenthread/program-24-hr-marathon-digital/full-view.html). 
+### Saturday, September 27, 2025
 
-### Saturday, July 20, 2024
-
-* *Session #1* 
-
-**10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine** 
-
-**Title:** **The Freedom Theatre: Making Art in the Midst of War**
-Description: This session will present the work that The Freedom Theatre continues to produce amidst the worst circumstances the theatre has faced in history. Artistic Director Ahmad Tobasi will discuss the current circumstances at the theatre and in Jenin Camp. Two student actors will present their perspectives, and Alla Sheheda, actor, comedian and graduate of the TFT Acting School will perform a selection of his one man play, "The Horse". 
-
-**Moderator:** Gary M. English (Former Artistic Staff, The Freedom Theatre; Distinguished Professor of Drama, UConn; Visiting Professor Al Quds University, Palestine).
-
-**Speakers:** Ahmad Tobasi (Artistic Director), Alaa Shehada (Actor), and Ranin Odeh and students Chantel Rizkalla, Aya Samara and Naqaa Sammor 
-
-**Duration:** 80 minutes 
-
-* *Session #2*
-
-**11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine** 
-
-**Title: Palestinian Artists in the Global Diaspora**
-
-**Description:** A conversation with Palestinian theater and film artists and activists Raeda Taha, Aliya Khalidi and Eyas Younis, following a short presentation of original work by Raeda Taha titled “The Significance of the Palestinian Narrative in Collective Memory Through Theatre.”
-
-**Moderator:** Catherine Coray, (Arts Professor, NYU and Producing Associate, Noor Theatre)
-
-**Speakers:** Raeda Taha, Eyas Younis, Aliya Khalidi
-
-**Duration:** 90 minutes 
-
-* *Session #3*
-
-**1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine** 
-
-**Title: Gaza Now: Witnessing the Witnesses**
-
-**Description:** A reading of found testimonies and words by witnesses and survivors of the Israeli genocidal campaign in Gaza, Palestine which started on October 7 and is still ongoing. The reading will be followed by a conversation with Youmna El Sayed, a journalist and a correspondent for Al Jazeera English, and Mosab Abu Toha, a Palestinian poet, scholar, and librarian, both from the Gaza Strip. 
-
-**Presenter:** Sahar Assaf (Executive Artistic Director of Golden Thread Productions) 
-
-**Actors:** Nora el Samahy, Hadi Tabbal, Maya Nazzal, Hiba Sleiman 
-
-**Speaker:** Youmna El Sayed (Journalist) and Mosab Abu Toha (Poet)
-
-**Duration:** 60 minutes 
-
+* *10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine*\
+  **Intro & Homage to Refaat Alareer with Mosab Abu Toha**\
+  **Literature as Resistance: A Reading from Gaza Writes Back edited by Refaat Alareer**
+  We honor the legacy of Palestinian writer and poet Refaat Alareer, martyred on December 6, 2023, through a conversation with his close friend and Pulitzer Prize–winning poet Mosab Abu Toha, alongside a reading from Gaza Writes Back, the short story anthology Refaat edited and published in 2013. The anthology amplifies the voices of young Palestinians who survived the 2008–09 Israeli assault on Gaza, known as Operation Cast Lead. Through short stories and testimonies, these writers bear witness to daily life under siege and bombardment, transforming personal memory into acts of resistance and resilience. Actors Adam El-Sharkawi, Edward Hong, and Hiba Sleiman will join us to read excerpts from Gaza Writes Back. Mosab will also offer reflections on Refaat’s life, his work, and the ongoing situation in Gaza.\
+  **Moderators:** Golden Thread Artistic Director Sahar Assaf and Art2Action Executive Artistic Director Andrea Assaf\
+  **Special Guest:** Pulitzer Price winning poet Mosab Abu Toha\
+  **P﻿erformers:** Adam El-Sharkawi, Edward Hong, Hiba Sleiman, SEVAN, Nusaybah Almenaii\
+  **Duration:** 80 minutes  
+* *11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine*\
+  **A Testimony from Gaza**\
+  On September 19, 2025, Ola Hasaballah, a psychologist, humanitarian worker, and a mother in Gaza,  spoke with expressive arts therapist Soline Daccashe. In this pre-recorded session, Ola shares her experience of surviving a genocide, enduring displacement and unimaginable living conditions while continuing to fulfill her roles as a mother and humanitarian worker. Towards the end of the interview, she shares that the first thing she will do after the genocide is “to sleep and then wake up and cry.”\
+  **Moderator:** Soline Daccashe\
+  **Speaker:** Ola Hasaballah\
+  **Duration:** 90 minutes 
+* *1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine*\
+  **Palestinian Artists in Lebanon**\
+  This conversation with five gifted actors, directors, playwrights, filmmakers, journalists and activists, all based in Beirut, is an opportunity to learn how Palestinian creators are contributing to the arts and culture of Lebanon, and how they are navigating the challenges they face in telling their stories.\
+  **Moderator:** Catherine Coray (Arts Professor, NYU; Affiliate Producer, Noor Theatre)\
+  **Speakers/Performers:** Omar Ahmad, Naila Al Hares, Awad Awad, Aliya Khalidi, and Rana Zeidan\
+  **Duration:** 60 minutes 
 * *Session #4*
 
 **2:00 PM Pacific (July 20)| 5:00 PM Eastern (July 20) | 12:00 AM Palestine (July 21)**
