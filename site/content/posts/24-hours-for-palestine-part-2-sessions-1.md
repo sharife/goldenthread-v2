@@ -4,10 +4,9 @@ date: 2025-09-23T16:13:14.221Z
 description: September 27-28, 2025
 background: ""
 ---
-# 24 Hours for Palestine (Part II)
+![](https://ucarecdn.com/202f4bc0-22c9-4831-8b24-715050556e31/)
 
-## To Our Ultimate Freedom
-
+\
 Join over 100+ artists, theatre-makers, journalists, scholars, educators, and activists from across the world for 24 hours of non-stop performances, panels, dialogues, short films, personal stories, eye witness accounts, poetry, music, and more, in an act of global solidarity, as we raise our voices together for the liberation of Palestine.
 
 Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
