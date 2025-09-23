@@ -80,6 +80,58 @@ cast:
         holds an MFA in creative writing (Spalding University, 2018) and teaches
         composition and dramatic writing at UC Berkeley's College Writing
         Programs.
+    - name: Isabel Alamin
+      credit: Actor
+      image: https://ucarecdn.com/67201c34-c7dd-4ee1-9c5b-064d49908c2d/
+      bio: "is thrilled to be a part of *Pilgrimage*. Some favorite credits include:
+        *How to Defend Yourself* (Mojdeh), *Antigone* (Antigone), *Eurydice*
+        (Loud Stone), and independent feature film *The Becomers*, as well as
+        several projects in post-production. Outside of acting, Isabel loves to
+        dance and is also a visual artist. She was born and raised in the Bay
+        Area, but now lives and works (mostly) in Chicago. Much love to the
+        *Pilgrimage* team, and to Mom! Rep: Grossman & Jack Talent."
+    - name: Nora el Samahy
+      credit: Actor
+      image: https://ucarecdn.com/0d326694-a953-45cd-800e-70cfa6e8b95f/
+      bio: is an Affiliated Artist with Golden Thread Productions and a company member
+        of Campo Santo. She has worked at Oregon Shakespeare Company, Portland
+        Center Stage, Aurora Theatre, Berkeley Repertory, Crowded Fire, Magic
+        Theatre, foolsFURY, Traveling Jewish Theatre, Theatre Rhinoceros,
+        Shotgun Players, The San Francisco Shakespeare Festival, African
+        American Shakespeare Company, among others. In 2013 Nora founded a
+        performance company called Affinity Project with Atosa Babaoff, Beatrice
+        Basso and Emily Hoffman. She currently serves on the Board of Trustees
+        with Golden Thread.
+    - name: Fatemeh Mehraban
+      credit: Actor
+      image: https://ucarecdn.com/c136e2c8-1a77-4328-81c3-41eae49e260c/
+      bio: "is a queer Iranian performing artist and environmental scientist. She was
+        most recently in *A Distinct Society* (Weston Theatre Company), *Working
+        for Crumbs* (B Street Theatre New Comedies Festival), *Oriental*
+        (ReOrient: Golden Thread), *English* (Capital Stage), and *Georgiana &
+        Kitty* (Capital Stage). Fatemeh divides her time between Sacramento, the
+        Bay Area, and Los Angeles, where she works in theater, film, and
+        voiceover. What's important to her: that her work combines her passion
+        for performance with her passion for advocacy! Instagram:
+        [@fatemeow](https://www.instagram.com/fatemeow)"
+    - name: Leda Rasooli
+      credit: Actor
+      image: https://ucarecdn.com/a6efa615-9dc0-4e2f-bbb3-689cf407cde3/
+      bio: is an Afghan-American artist, based in California. She had the privilege of
+        participating in *Eng﻿lish* at Capital Stage, and is excited to continue
+        her journey with Golden Thread Productions.
+    - name: Jeunée Simon
+      bio: "(she/her) is a bicoastal actor, director, and consent educator. Recent
+        acting credits include: *Les Blancs* (Oakland Theater Project), *The
+        Ripple, The Wave That Carried Me Home* (u/s, World Premiere, Berkeley
+        Repertory Theatre), *Intimate Apparel* (Lorraine Hansberry Theatre), *La
+        Ronde* (Cutting Ball Theater), *Men On Boats* (u/s, performed, American
+        Conservatory Theater)—as well as the one person shows: *Tasha* (3Girls
+        Theatre) and *Stoop Stories* (Aurora Theatre Company). Simon is a proud
+        recipient of the 2017 RHE Artistic Fellowship.
+        [jeuneesimon.com](http://www.jeuneesimon.com)"
+      image: https://ucarecdn.com/9de9fd58-f555-4c56-a13a-fa731d859b12/
+      credit: Actor
 mentions:
   heading: "Z Space Access Notes:"
   text: Z Space is a wheelchair accessible theater and has accessible seating for
