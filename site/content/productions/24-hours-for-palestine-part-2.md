@@ -5,7 +5,7 @@ season: 2025
 date: 2025-09-05T17:43:48.635Z
 start: 2025-09-27T17:00:00.000Z
 end: 2025-09-28T17:00:48.651Z
-heading: To Our Ultimate Freedom
+heading: ""
 description: >-
   Join over 100+ artists, theatre-makers, journalists, scholars, educators, and
   activists from across the world for 24 hours of non-stop performances, panels,
@@ -14,7 +14,7 @@ description: >-
   the liberation of Palestine.
 
 
-  Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
+  <div style="position: relative;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 titleimage: https://ucarecdn.com/b76b6d6f-5fea-4e09-a214-10f2655e5126/
 additional: ""
 stage: WORLDWIDE LIVESTREAM BELOW
@@ -22,7 +22,7 @@ address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
   CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
 ticketinfo: Access is free and open to the public.
 ---
-<div style="position: relative;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
+Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
 We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
 
