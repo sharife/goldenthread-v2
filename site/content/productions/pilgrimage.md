@@ -90,5 +90,14 @@ mentions:
     otherwise indicated for specific performances. If you have any other
     questions or concerns, please contact our box office
     at [boxoffice@zspace.org](mailto:boxoffice@zspace.org).
+photos2:
+  heading: First Rehersal Photos by Wynne Chan
+  items:
+    - image: https://ucarecdn.com/be8dfd2b-beb8-4df1-b624-0d171d3d848b/
+    - image: https://ucarecdn.com/4b840cd8-4e00-4364-ab6a-d078c13c8360/
+    - image: https://ucarecdn.com/9598dc75-2b8e-4a1a-9029-c3ee9b08205f/
+    - image: https://ucarecdn.com/135d30ad-1d46-4433-978c-554b9f6cc891/
+    - image: https://ucarecdn.com/8315e2b2-0177-4b60-9bd4-189f0fbba3c6/
+    - image: https://ucarecdn.com/fabf513b-cec2-4147-8482-c64ccf9a4696/
 ---
 *P﻿ilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
