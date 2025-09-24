@@ -12,6 +12,7 @@ Golden Thread Productions and Z Space present the world premiere of *Pilgrimage*
 *P﻿ilgrimage* is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, *P﻿ilgrimage* explores a familiar tension in many immigrant families — the gaps between tradition and lived experience, inherited faith and personal belief, what we hold onto and what we struggle to carry. The characters are vibrant, funny, and flawed — unapologetically human women who defy the clichés that dominate Western narratives about Muslim women.
 Help us make herstory with this rare and unique new play!
 
+#### **Help us make herstory with this rare and unique new play!**\
 **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
 ![](https://ucarecdn.com/e896c7f6-d435-4d39-b7e4-00c185c5398b/)
