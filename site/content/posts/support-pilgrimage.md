@@ -13,6 +13,7 @@ Golden Thread Productions and Z Space present the world premiere of *Pilgrimage*
 Help us make herstory with this rare and unique new play!
 
 #### **Help us make herstory with this rare and unique new play!**\
+
 **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
 ![](https://ucarecdn.com/e896c7f6-d435-4d39-b7e4-00c185c5398b/)
@@ -25,11 +26,14 @@ d﻿irected by Michelle Talgarow
 
 Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
 
-Dates: October 24 - November 9, 2025\
-Venue: Z Space (450 Florida Street, San Francisco, CA)\
-Tickets: [zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)
+**Dates:** October 24 - November 9, 2025\
+**Venue:** Z Space (450 Florida Street, San Francisco, CA)\
+**Tickets:** [zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)
 
-#### A﻿BOUT THE PLAYWRIGHTS
+![](https://ucarecdn.com/01cc0a03-8890-4ea6-aa99-2351f9fb5e57/)
+
+#### \
+A﻿BOUT THE PLAYWRIGHTS
 
 **Humaira Ghilzai** is a writer, producer, cultural dramaturg, and dialect coach who has worked on Broadway, the West End, and with national and regional theaters. Credits include Generative Cultural Advisor and Dialect Coach for Matthew Spangler’s *The Kite Runner* (World Premiere, UK Tour, Broadway production, and U.S. tour) and Cultural Advisor for Ursula Rani Sarma’s *A Thousand Splendid Suns* (World Premiere at A.C.T San Francisco and West Coast tour). Additional theater credits include *Blood and Gifts* by Tony-winner J.T. Rogers (La Jolla Playhouse), Gabriel Jason Dean’s *Heartland* (rolling world premieres and off-Broadway), Sylvia Khoury’s *Selling Kabul* (Seattle Rep, Northern Stage, Interact Theatre, Signature Theatre), Kevin Artigue’s *The Most Dangerous Highway in the World* (Golden Thread Productions), and *Zealot* (South Coast Repertory). Film & TV credits include: *Little America, Whiskey Tango Foxtrot, Merry Friggin’ Christmas*, and *Away and Together*.
 
