@@ -12,7 +12,8 @@ sidebar:
     PILGRIMAGE is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy the clichés.
 
 
-    #### Help us make herstory with this rare and unique new play!\
+    #### Help us make herstory with this rare and unique new play!
+
 
     [D﻿ONATE NOW!](https://goldenthread.org/posts/support-pilgrimage/)
 ---
