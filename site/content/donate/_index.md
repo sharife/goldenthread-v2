@@ -1,15 +1,18 @@
 ---
 title: Support Socially-Engaged Art
 sidebar:
-  heading: Support THE RETURN at Golden Thread
+  heading: Support PILGRIMAGE at Golden Thread
   text: >-
-    #### **Palestinian narratives need and deserve your support!** 
+    #### **The first play by an Afghan woman to be professionally produced in
+    the U.S.** 
 
 
-    *The Return* continues our commitment to uplift Palestinian artists and narratives — building on our deeply impactful 2024 Season for Palestine. The pressure to remain silent in the face of war, fascism, and genocide is strong, but we are resisting with brave, powerful narratives like *The Return*. [](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)L﻿ift your voice and help bring this important production to the Bay Area!
+    PILGRIMAGE is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy the clichés.
 
 
-    #### [D﻿ONATE NOW!](https://goldenthread.org/posts/support-the-return/)
+    #### Help us make herstory with this rare and unique new play!\
+
+    [D﻿ONATE NOW!](https://goldenthread.org/posts/support-pilgrimage/)
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
