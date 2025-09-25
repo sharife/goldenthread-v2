@@ -10,7 +10,7 @@ sidebar:
     A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy clichés and stereotypes about Muslim women that pervade Western media and culture.
 
 
-    **Help us make herstory with this rare and unique new play!**\
+    **Help us make *her*story with this rare and unique new play!**\
 
     **[FIND OUT MORE AND DONATE!](https://goldenthread.org/posts/support-pilgrimage/)**
 ---
