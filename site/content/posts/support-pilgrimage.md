@@ -3,8 +3,9 @@ title: Support PILGRIMAGE
 date: 2025-09-24T22:21:45.943Z
 background: https://ucarecdn.com/517af0d0-a823-4e3c-a4f4-67ddd0179b17/
 ---
-### ***Pilgrimage* is the first play by an Afghan woman to receive a professional production in the U.S.
-[DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make herstory by supporting this rare and unique play!**
+### *Pilgrimage* is the first play by an Afghan woman to receive a professional production in the U.S.
+
+### [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make herstory by supporting this rare and unique play!
 
 Golden Thread Productions and Z Space present the world premiere of [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/). The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
 
@@ -12,6 +13,8 @@ Golden Thread Productions and Z Space present the world premiere of [*Pilgrimage
 Help us make herstory with this rare and unique new play!
 
 ## **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+
+
 
 ![](https://ucarecdn.com/e896c7f6-d435-4d39-b7e4-00c185c5398b/)
 
