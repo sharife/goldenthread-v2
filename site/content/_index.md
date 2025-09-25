@@ -15,12 +15,11 @@ items:
     image: https://ucarecdn.com/f231b3a3-e558-4c5e-8a47-24c66c5fd5ca/
     cta: Watch Here
     link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
-  - subtitle: "**S﻿upport socially-engaged art:﻿ Donate to Golden Thread now!**"
-    text: A﻿s the U.S. Government ramps up its attack on immigrants, vilification of
-      Middle Eastern countries and people, and a﻿ctive defunding of the Arts, we
-      must stand together to fight back. Please consider supporting Golden
-      Thread to make sure that our work continues to grow and thrive.
-    image: https://ucarecdn.com/712999c8-7ed7-4dc0-8f37-dbb709e391de/
-    cta: Donate Now
-    link: https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI
+  - text: "*PILGRIMAGE* is the first play by an Afghan woman to receive a
+      professional production in the U.S. Help us make *her*story with this rare
+      and unique new play!"
+    subtitle: "**S﻿upport the World Premiere of PILGRIMAGE**"
+    cta: Find out more and donate!
+    link: https://goldenthread.org/posts/support-pilgrimage/
+    image: https://ucarecdn.com/3e77e1fe-f05f-454c-81d1-ad7910a428d8/
 ---
