@@ -1,21 +1,18 @@
 ---
 title: Support Socially-Engaged Art
 sidebar:
-  heading: Support PILGRIMAGE at Golden Thread
+  heading: Support the World Premiere of PILGRIMAGE
   text: >-
-    **The first play by an Afghan woman to be professionally produced in the
-    U.S.** 
+    **The first play by an Afghan woman to receive a professional production in
+    the U.S.** 
 
 
-    \
-
-    PILGRIMAGE is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy the clichés.
+    A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy clichés and stereotypes about Muslim women that pervade Western media and culture.
 
 
-    #### Help us make herstory with this rare and unique new play!
+    **Help us make herstory with this rare and unique new play!**\
 
-
-    [D﻿ONATE NOW!](https://goldenthread.org/posts/support-pilgrimage/)
+    **[FIND OUT MORE AND DONATE!](https://goldenthread.org/posts/support-pilgrimage/)**
 ---
 [![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
