@@ -5,9 +5,9 @@ background: https://ucarecdn.com/517af0d0-a823-4e3c-a4f4-67ddd0179b17/
 ---
 ### *Pilgrimage* is the first play by an Afghan woman to receive a professional production in the U.S.
 
-### [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make *her*story by supporting this rare and unique play!
+### [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make *her*story by supporting this unique play!
 
-Golden Thread Productions and Z Space present the world premiere of [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/). The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
+Golden Thread Productions and Z Space present the world premiere of** [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/)**. The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
 
 *P﻿ilgrimage* is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, *P﻿ilgrimage* explores a familiar tension in many immigrant families — the gaps between tradition and lived experience, inherited faith and personal belief, what we hold onto and what we struggle to carry. The characters are vibrant, funny, and flawed — unapologetically human women who defy the clichés that dominate Western narratives about Muslim women.
 Help us make herstory with this rare and unique new play!
@@ -26,7 +26,7 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 
 **Dates:** October 24 - November 9, 2025\
 **Venue:** Z Space (450 Florida Street, San Francisco, CA)\
-**Tickets:** [zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)
+**Tickets:** **[zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)**
 
 ![](https://ucarecdn.com/01cc0a03-8890-4ea6-aa99-2351f9fb5e57/)
 
@@ -40,6 +40,6 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 
 #### **ABOUT THE PRODUCING COMPANIES**
 
-Founded in 1996, [Golden Thread Productions](HTTPS://WWW.GOLDENTHREAD.ORG) is the first American theatre company devoted to the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
+Founded in 1996, **[Golden Thread Productions](HTTPS://WWW.GOLDENTHREAD.ORG)** is the first American theatre company devoted to the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
 
-[Z Space](HTTPS://WWW.ZSPACE.ORG) empowers artistic risk, collaboration, and camaraderie amongst artists, audience, and community in the service of creating, developing, and presenting new work. Operating out of an old can factory in the Mission District of San Francisco, Z Space now activates two venues, an 85-seat intimate theater and a 236-seat flexible performance space, with a warehouse aesthetic and an adventurous edge. Eschewing traditional theater models with fixed seasons and a singular artistic vision, Z Space strives to embrace a multitude of artistic voices through a variety of programs and partnerships.
+**[Z Space](HTTPS://WWW.ZSPACE.ORG)** empowers artistic risk, collaboration, and camaraderie amongst artists, audience, and community in the service of creating, developing, and presenting new work. Operating out of an old can factory in the Mission District of San Francisco, Z Space now activates two venues, an 85-seat intimate theater and a 236-seat flexible performance space, with a warehouse aesthetic and an adventurous edge. Eschewing traditional theater models with fixed seasons and a singular artistic vision, Z Space strives to embrace a multitude of artistic voices through a variety of programs and partnerships.
