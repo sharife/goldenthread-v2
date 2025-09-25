@@ -7,7 +7,7 @@ background: https://ucarecdn.com/517af0d0-a823-4e3c-a4f4-67ddd0179b17/
 
 ### [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make *her*story by supporting this unique play!
 
-Golden Thread Productions and Z Space present the world premiere of** [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/)**. The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
+Golden Thread Productions and Z Space present the world premiere of [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/). The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
 
 *P﻿ilgrimage* is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, *P﻿ilgrimage* explores a familiar tension in many immigrant families — the gaps between tradition and lived experience, inherited faith and personal belief, what we hold onto and what we struggle to carry. The characters are vibrant, funny, and flawed — unapologetically human women who defy the clichés that dominate Western narratives about Muslim women.
 Help us make herstory with this rare and unique new play!
