@@ -3,17 +3,15 @@ title: Support PILGRIMAGE
 date: 2025-09-24T22:21:45.943Z
 background: https://ucarecdn.com/517af0d0-a823-4e3c-a4f4-67ddd0179b17/
 ---
-## **Support this world premiere --** [DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+### ***Pilgrimage* is the first play by an Afghan woman to receive a professional production in the U.S.
+[DONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI) Help make herstory by supporting this rare and unique play!**
 
-### *Pilgrimage* is the first play by an Afghan woman to receive a professional production in the U.S.
-
-Golden Thread Productions and Z Space present the world premiere of *Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman. The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
+Golden Thread Productions and Z Space present the world premiere of [*Pilgrimage* by Humaira Ghilzai and Bridgette Dutta Portman](https://goldenthread.org/productions/pilgrimage/). The play follows five Afghan and Muslim American women on an Umrah, a minor pilgrimage to Mecca. As they make the journey, long-buried secrets and simmering tensions surface, testing friendships, exposing family truths, and challenging what they believe about themselves, each other and their faith.
 
 *P﻿ilgrimage* is a bold depiction of Afghan and Muslim women that challenges the stereotypes about them that pervade U.S. culture. A moving and often funny family drama, *P﻿ilgrimage* explores a familiar tension in many immigrant families — the gaps between tradition and lived experience, inherited faith and personal belief, what we hold onto and what we struggle to carry. The characters are vibrant, funny, and flawed — unapologetically human women who defy the clichés that dominate Western narratives about Muslim women.
 Help us make herstory with this rare and unique new play!
 
-#### **Help us make herstory with this rare and unique new play!**\
-**[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+## **[D﻿ONATE NOW!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
 ![](https://ucarecdn.com/e896c7f6-d435-4d39-b7e4-00c185c5398b/)
 
@@ -31,10 +29,16 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 
 ![](https://ucarecdn.com/01cc0a03-8890-4ea6-aa99-2351f9fb5e57/)
 
-#### \
-
-A﻿BOUT THE PLAYWRIGHTS
+#### **ABOUT THE PLAYWRIGHTS**
 
 **Humaira Ghilzai** is a writer, producer, cultural dramaturg, and dialect coach who has worked on Broadway, the West End, and with national and regional theaters. Credits include Generative Cultural Advisor and Dialect Coach for Matthew Spangler’s *The Kite Runner* (World Premiere, UK Tour, Broadway production, and U.S. tour) and Cultural Advisor for Ursula Rani Sarma’s *A Thousand Splendid Suns* (World Premiere at A.C.T San Francisco and West Coast tour). Additional theater credits include *Blood and Gifts* by Tony-winner J.T. Rogers (La Jolla Playhouse), Gabriel Jason Dean’s *Heartland* (rolling world premieres and off-Broadway), Sylvia Khoury’s *Selling Kabul* (Seattle Rep, Northern Stage, Interact Theatre, Signature Theatre), Kevin Artigue’s *The Most Dangerous Highway in the World* (Golden Thread Productions), and *Zealot* (South Coast Repertory). Film & TV credits include: *Little America, Whiskey Tango Foxtrot, Merry Friggin’ Christmas*, and *Away and Together*.
 
 **Bridgette Dutta Portman** is a playwright, teacher, and novelist based in the San Francisco Bay Area. More than two dozen of her plays have been produced locally, nationally, and internationally. She is president of the Pear Theatre board of directors and a member of the Pear Playwrights’ Guild, the PlayGround writers pool, and the Dramatists’ Guild. She is a recipient of the 2023 June Anne Baker Prize from PlayGround, and a finalist for the Bay Area Playwrights’ Festival, the Theatre Bay Area TITAN award, the PlayPenn Conference, the Kentucky Women’s Theatre Conference Prize for Women Writers, the New Dramatists playwrights’ residency, and more.
+
+![](https://ucarecdn.com/f0805942-d6ff-49a3-9841-25190cbd650e/)
+
+#### **ABOUT THE PRODUCING COMPANIES**
+
+Founded in 1996, [Golden Thread Productions](HTTPS://WWW.GOLDENTHREAD.ORG) is the first American theatre company devoted to the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
+
+[Z Space](HTTPS://WWW.ZSPACE.ORG) empowers artistic risk, collaboration, and camaraderie amongst artists, audience, and community in the service of creating, developing, and presenting new work. Operating out of an old can factory in the Mission District of San Francisco, Z Space now activates two venues, an 85-seat intimate theater and a 236-seat flexible performance space, with a warehouse aesthetic and an adventurous edge. Eschewing traditional theater models with fixed seasons and a singular artistic vision, Z Space strives to embrace a multitude of artistic voices through a variety of programs and partnerships.
