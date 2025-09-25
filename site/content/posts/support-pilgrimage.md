@@ -26,7 +26,7 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 
 **Dates:** October 24 - November 9, 2025\
 **Venue:** Z Space (450 Florida Street, San Francisco, CA)\
-**Tickets:** [zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)
+**Tickets:** **[zspace.org/pilgrimage](https://www.zspace.org/pilgrimage)**
 
 ![](https://ucarecdn.com/01cc0a03-8890-4ea6-aa99-2351f9fb5e57/)
 
@@ -40,6 +40,6 @@ Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, 
 
 #### **ABOUT THE PRODUCING COMPANIES**
 
-Founded in 1996, [Golden Thread Productions](HTTPS://WWW.GOLDENTHREAD.ORG) is the first American theatre company devoted to the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
+Founded in 1996, **[Golden Thread Productions](HTTPS://WWW.GOLDENTHREAD.ORG)** is the first American theatre company devoted to the Middle East. We produce passionate and provocative plays from or about the Middle East that celebrate the multiplicity of its perspectives and identities. We are a developmental catalyst and vibrant artistic home to artists at various stages of their career. We bring the Middle East to the American stage, creating treasured cultural experiences for audiences of all ages and backgrounds.
 
-[Z Space](HTTPS://WWW.ZSPACE.ORG) empowers artistic risk, collaboration, and camaraderie amongst artists, audience, and community in the service of creating, developing, and presenting new work. Operating out of an old can factory in the Mission District of San Francisco, Z Space now activates two venues, an 85-seat intimate theater and a 236-seat flexible performance space, with a warehouse aesthetic and an adventurous edge. Eschewing traditional theater models with fixed seasons and a singular artistic vision, Z Space strives to embrace a multitude of artistic voices through a variety of programs and partnerships.
+**[Z Space](HTTPS://WWW.ZSPACE.ORG)** empowers artistic risk, collaboration, and camaraderie amongst artists, audience, and community in the service of creating, developing, and presenting new work. Operating out of an old can factory in the Mission District of San Francisco, Z Space now activates two venues, an 85-seat intimate theater and a 236-seat flexible performance space, with a warehouse aesthetic and an adventurous edge. Eschewing traditional theater models with fixed seasons and a singular artistic vision, Z Space strives to embrace a multitude of artistic voices through a variety of programs and partnerships.
