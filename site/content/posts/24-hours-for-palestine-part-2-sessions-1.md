@@ -6,8 +6,6 @@ background: ""
 ---
 ![](https://ucarecdn.com/202f4bc0-22c9-4831-8b24-715050556e31/)
 
-
-
 \
 Join over 100+ artists, theatre-makers, journalists, scholars, educators, and activists from across the world for 24 hours of non-stop performances, panels, dialogues, short films, personal stories, eye witness accounts, poetry, music, and more, in an act of global solidarity, as we raise our voices together for the liberation of Palestine.
 
@@ -88,8 +86,6 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   **FILM SCREENING: *FREEDOM BREAKERS***\
   *Freedom Breakers* is a storytelling video series produced by Palestinian Institute for Public Diplomacy / Rabet that focuses on the personal narratives of Palestinians who have endured imprisonment under Israeli occupation.
 
-
-
 ### Sunday, September 28, 2025
 
 * ***Se﻿ssion 15 (Pre-recorded): 12:00 AM Pacific | 3:00 AM Eastern | 10:00 AM Palestine***\
@@ -97,3 +93,23 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   This conversation brings together Palestinian theatre leaders Emile Saba, Artistic Director of ASHTAR Theatre, and Mustafa Sheta, General Manager of The Freedom Theatre, to reflect on the urgent realities of creating art under occupation and during an ongoing genocide. Despite all the atrocities and destruction, Emile and Mustafa are among many Palestinian artists using their artistic practice as a tool for resilience, healing, and resistance. \
   **Moderators:** Sahar Assaf and Andrea Assaf\
   **Speakers:** Mustafa Sheta (Freedom Theatre) & Emile Saba (ASHTAR Theatre)
+* ***Se﻿ssion 16 (Pre-recorded): 1:00 AM Pacific | 4:00 AM Eastern | 11:00 AM Palestine***\
+  **F﻿ROM GAZA: AHMED MUIN OF GAZA BIRDS SINGING**\
+  On Friday, September 26, 2025, Soline Daccashe and Sahar Assaf sat down over Zoom with Ahmed Muin (also known as Abu Amsha) — a guitarist, composer, music teacher, and community builder from Gaza. The world first came to know his work through a viral video in which he transformed the sound of drones into music, a haunting testament to Palestinian creativity even under genocide. In this conversation, Ahmed spoke of being displaced fifteen times, of the children who followed him from camp to camp, of his enduring love for Gaza and his home, and of the unbreakable bond between art and life amid devastation. He closed with a powerful appeal for what he hopes the world will do in solidarity with his people.\
+  **Moderators:** Soline Daccashe & Sahar Assaf\
+  **Speaker:** Ahmed Muin
+* ***Se﻿ssion 17 (Pre-recorded): 2:00 AM Pacific | 5:00 AM Eastern | 12:00 PM Palestine***\
+  ***L﻿ETTERS FROM THE GROUND* – ZOUKAK THEATRE COLLECTIVE**\
+  This session consists of a reading of letters – *Letters from the Ground*. In our region, we have lived under aggression and existential threats for decades. From Lebanon, from Zoukak Theatre, we launch a series of letters that emerge from the present moment. Each addresses a specific audience, sharing what deeply troubles us. Through these letters, we attempt to pierce the slogans that obscure reality, to breathe beneath the rubble, and dust off the grime of war and fabricated news. We send them as messages — like the smile of a Palestinian beneath the feet of soldiers.\
+  **Presenters:** Zoukak Theatre Collective: Mohamad Hamdan (Mathematician, Theatre Practitioner, Trainer in Nonviolent Communication), Maya Zbib (Theatre Director, Performer, Writer, Trainer), Junaid Sarieddeen (Theatre Director, Actor, Dramaturg)\
+  **Note:** To read the letters, visit [https://livestay-zoukaktheatre.blogspot.com](https://livestay-zoukaktheatre.blogspot.com/)
+* ***Se﻿ssion 18 (Pre-recorded): 3:00 AM Pacific | 5:00 AM Eastern | 1:00 PM Palestine***\
+  **E﻿NVISIONING FUTURES, CREATING FREEDOM: ASHTAR THEATRE'S PERFORMING ARTS VILLAGE AND ACADEMY**\
+  ASHTAR Theatre joins 24 Hours for Palestine with a conversation from Ramallah on the current situation, the role of art in resistance and resilience, and the vision for and the development of a new Performing Arts Village and Academy in Birzeit, Palestine. The session will also premiere a short documentary from the August 2024 pilot program, where Palestinian youth explored an innovative curriculum integrating theatre and circus. Together, ASHTAR’s leaders and young artists share how creativity becomes a force for survival, resilience, solidarity, liberation, and how to support them.\
+  **Moderators:** Marina Johnson\
+  **Speakers:** Iman Aoun and Emile Saba
+* ***Se﻿ssion 19 (Pre-recorded): 4:00 AM Pacific | 6:00 AM Eastern | 2:00 PM Palestine***\
+  **THE INSIDIOUSNESS OF LANGUAGE**\
+  This conversation explores the insidiousness of language in shaping narratives about Palestine. From media framing to political rhetoric, the words we use can obscure histories, dehumanize communities, and normalize injustice. Together, artists and writers will reflect on how language — whether unexamined or deliberately manipulated — can reinforce systems of power, including settler colonialism, and how it misleads through exaggeration, omission, and distortion. Rather than a legal or policy analysis, this discussion will center artistic and personal perspectives, drawing on storytelling, poetry, and lived experience. Panelists will consider how assumptions and “givens” are constructed, why we must actively unlearn them, and what is at stake in naming and framing. The conversation will highlight how artists, writers, and activists are reclaiming language to tell fuller, more truthful stories.\
+  **Moderator:** Amal Bisharat (Co-founder / Artistic Director, Meem Collective)\
+  **Speakers:** Farrah Hamzeh (Artist), Rolla Selbak (Filmmaker, Podcaster, Storyteller), and Priscilla Wathington (Poet & Human Rights Advocate)
