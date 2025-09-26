@@ -88,7 +88,7 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   **MUSIC FOR LIBERATION**\
   Join an extraordinary group of Palestinian musicians and allies for an hour of music in solidarity, and reflection on the role of music in movements for liberation.\
   **Moderator: Andrea Assaf**\
-  **Speakers/Performers:** Clarissa Bitar, Tarik Kazaleh, Simon Mouchebeck & NOLA Musicians for Palestine, Zafer Tawil, and more!
+  **Speakers/Performers:** Clarissa Bitar, Tarik Kazaleh, Simon Moushabeck & NOLA Musicians for Palestine, Zafer Tawil, and more!
 * ***Se﻿ssion 13 (Pre-recorded)***\
   ***10:00 PM Pacific | 1:00 AM Eastern (Sun, Sep 28) | 8:00 AM Palestine (Sun, Sep 28)***  \
   **A TESTIMONY FROM GAZA**\
