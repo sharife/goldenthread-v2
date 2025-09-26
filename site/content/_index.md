@@ -4,7 +4,7 @@ headline: 24 Hours for Palestine (Part 2)
 subtitle: ""
 background: https://ucarecdn.com/6c5f6615-841d-4ffa-8e9e-a23e69b9af20/
 cta: Watch here
-link: https://goldenthread.org/productions/24-hours-for-palestine (Part 2)/
+link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
 items:
   - subtitle: |-
       **N﻿ext up: *PILGRIMAGE***\
