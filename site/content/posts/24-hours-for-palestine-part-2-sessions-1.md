@@ -136,7 +136,8 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   ***5:00 AM Pacific | 8:00 AM Eastern | 3:00 PM Palestine***\
   **N﻿EW THEATRE WORKS FOR PALESTINE**\
   This session features excerpts of new theatre works in a range of genres, by Palestinian and Palestinian American artists, as well as Jewish American allies who are making theatre in alignment with their activism for Palestinian liberation. Readings and video excerpts of new works will be followed by a conversation among the artists. Questions we’ll explore include: What is the relationship between theatre and activism in these times? How can humor, satire, and camp be creative tools in our movements for justice? What does embodied solidarity look like, and what is the significance of the body in liberation work? And more.\
-  **Moderator:** Andrea Assaf
+  **Moderator:** Andrea Assaf\
+  **Artists:** Danny Bryck, Fouad Dakwar, Shayna Howlett, Hiba Sleiman
 * ***Se﻿ssion 21 (Live)***\
   ***6:00 AM Pacific | 9:00 AM Eastern | 4:00 PM Palestine***\
   **TO REMAIN HUMAN: WRITING THROUGH GENOCIDE WITH MAHRU ELAHI & MICAELA KAIBNI RAEN**\
