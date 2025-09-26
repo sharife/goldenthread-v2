@@ -20,7 +20,7 @@ programlabel: Digital Program
 program: https://qrcodes.pro/RVYIfz?preview=true
 additional: ""
 stage: WORLDWIDE LIVESTREAM BELOW
-address: ""
+address: Stream launches Sat, Sep 27 at 10am PST / 1pm EST / 8pm Palestine
 ticketlink: ""
 ticketinfo: Access is free and open to the public.
 externallink: https://goldenthread.org/posts/24-hours-for-palestine-part-2-sessions-1/
