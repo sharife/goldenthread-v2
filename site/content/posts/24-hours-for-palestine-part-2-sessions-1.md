@@ -148,3 +148,16 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   In times of genocide, culture is never neutral. While oppressive systems use art and cultural institutions to normalize injustice — a strategy known as cultural washing–artists have long turned to storytelling, music, theatre, and film as essential tools of resistance. This panel explores the importance of the cultural boycott within the broader BDS movement, the mechanisms of cultural washing, and the duty of artists and cultural workers to resist becoming complicit. It examines how art can uphold global solidarity and drive political change.\
   **Moderator:** Hane Alrustm\
   **Speakers:** Riham Barghouti, Amin El Gamal, and Melissa Nussbaum Freeman
+* ***Se﻿ssion 23 (Live)***\
+  ***8:00 AM Pacific | 11:00 AM Eastern | 6:00 PM Palestine***\
+  **CULTURAL RESISTANCE & ARTISTIC INNOVATION – FRAGMENTS THEATRE**\
+  Artists share how they are combining modern technologies with traditional formats, to develop new forms of cultural resistance. Through virtual reality, visual arts, citizen journalism, and digital archiving, artists are forging new pathways that preserve heritage, defy censorship, and circumnavigate borders — sparking bold new visions rooted in personal storytelling.\
+  **Presenters:** Fragments Theatre: Ahmed Tobasi, Khalil Al Batran, Lumineers, Mohammed Al Qudwa, Yasmin Shalaldeh, Zoe Lafferty, Artists On The Frontline Youth Associates & Rawand Arqawi and Naa’ma Taha 
+* ***Se﻿ssion 24 (Hybrid)***\
+  ***9:00 AM Pacific | 12:00 PM Eastern | 7:00 PM Palestine***\
+  **C﻿LOSING REMARKS & A HEALING SESSION WITH ASHIRA DARWISH**\
+  We end 24 Hours for Palestine (Part 2): To Our Ultimate Freedom with a space for collective grounding and healing with Ashira Darwish, the founder of Catharsis Holistic Healing, a trauma therapy project in Palestine. Ashira is known for pioneering Sufi active meditation to help people suffering from continuous trauma, and is featured in the documentary *Where the Olive Trees Weep*. Rooted in Sufi, Indigenous, and Ancestral knowledge, Ashira’s  practice weaves together movement and dance, breathwork, EFT, Reiki, Kundalini exercises, and Sufi Whirling. Through these embodied tools, Ashira invites us to release, restore, and reconnect in the face of the ongoing genocide. \
+  **Closing Remarks:** Andrea Assaf and Sahar Assaf \
+  **Healing Session Facilitator:** Ashira Darwish
+* ***END OF PROGRAM***\
+  ***1﻿0:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine***
