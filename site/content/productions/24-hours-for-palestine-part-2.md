@@ -16,11 +16,15 @@ description: >-
 
   <div style="position: relative;"><iframe title="24 Hours for Palestine" width="560" height="315" src="https://peertube-us.howlround.com/videos/embed/f68UxPwarnNugfBnTA7rJ5" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 titleimage: ""
+programlabel: Digital Program
+program: https://qrcodes.pro/RVYIfz?preview=true
 additional: ""
 stage: WORLDWIDE LIVESTREAM BELOW
-address: The event will begin on Sat, Sep 27 at 10am PDT (San Francisco) / 12pm
-  CDT (Chicago) / 1pm EDT (New York City) / 8pm EEST (Palestine).
+address: ""
+ticketlink: ""
 ticketinfo: Access is free and open to the public.
+externallink: https://goldenthread.org/posts/24-hours-for-palestine-part-2-sessions-1/
+externallinklabel: Full Schedule and Session Information
 ---
 Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
