@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: 24 Hours for Palestine (Part 2)
 subtitle: ""
-background: https://ucarecdn.com/bc8b1a97-12b8-4fb5-8f50-0dc2cdc48c72/
+background: https://ucarecdn.com/6c5f6615-841d-4ffa-8e9e-a23e69b9af20/
 cta: Watch here
 link: https://goldenthread.org/productions/24-hours-for-palestine (Part 2)/
 items:
@@ -22,5 +22,5 @@ items:
     subtitle: "**S﻿upport the World Premiere of PILGRIMAGE**"
     cta: Find out more and donate!
     link: https://goldenthread.org/posts/support-pilgrimage/
-    image: https://ucarecdn.com/3e77e1fe-f05f-454c-81d1-ad7910a428d8/
+    image: https://ucarecdn.com/6d10fe01-ca33-483d-9feb-f8d316ec4a6f/
 ---
