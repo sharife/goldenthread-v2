@@ -97,8 +97,8 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   **Speaker:** Ola Abu Hasaballah
 * ***Se﻿ssion 14 (Pre-recorded)***\
   ***11:00 PM Pacific | 2:00 AM Eastern (Sun, Sep 28) | 9:00 AM Palestine (Sun, Sep 28)***  \
-  **FILM SCREENING: *FREEDOM BREAKERS***\
-  *Freedom Breakers* is a storytelling video series produced by Palestinian Institute for Public Diplomacy / Rabet that focuses on the personal narratives of Palestinians who have endured imprisonment under Israeli occupation.
+  **FILM SCREENING: *FREEDOM BREAKERS* EPISODE 5 WITH HUSSAM SHAHEEN**\
+  Freedom has a story, and it demands to be told. *Freedom Breakers*, co-produced by Rābet at the Palestinian Institute for Public Diplomacy and Lama Ghosheh, showcase stories of pain, strength, steadfastness and defiance. The series explores the confines and meanings of freedom and imprisonment with recently freed Palestinian political prisoners. Their voices have been silenced for too long—it's time to listen.
 
 ### Sunday, September 28, 2025
 
