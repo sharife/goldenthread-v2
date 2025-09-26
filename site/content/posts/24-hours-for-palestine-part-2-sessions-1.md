@@ -17,26 +17,27 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
 
 ### Saturday, September 27, 2025
 
-* ***10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine***\
-  **T﻿itle: Intro and Homage to Refaat Alareer with Mosab Abu Toha**\
-  **Literature as Resistance: A Reading from *Gaza Writes Back* edited by Refaat Alareer**
-  **Description:** We honor the legacy of Palestinian writer and poet Refaat Alareer, martyred on December 6, 2023, through a conversation with his close friend and Pulitzer Prize–winning poet Mosab Abu Toha, alongside a reading from *Gaza Writes Back*, the short story anthology Refaat edited and published in 2013. The anthology amplifies the voices of young Palestinians who survived the 2008–09 Israeli assault on Gaza, known as Operation Cast Lead. Through short stories and testimonies, these writers bear witness to daily life under siege and bombardment, transforming personal memory into acts of resistance and resilience. Mosab will also offer reflections on Refaat’s life, his work, and the ongoing situation in Gaza.\
-  **Moderators:** Golden Thread Artistic Director Sahar Assaf and Art2Action Executive Artistic Director Andrea Assaf\
+* ***S﻿ESSION 1 (LIVE): 10:00 AM Pacific | 1:00 PM Eastern | 8:00 PM Palestine***\
+  **Opening: Homage to Refaat Alareer featuring Mosab Abu Toha and Readings from *Gaza Writes Back***
+  The Artistic Directors of Golden Thread Productions and Art2Action, Sahar Assaf and Andrea Assaf, open the 24-hour livestream, with special guest, Pulitzer Prize winning poet Mosab Abu Toha. We honor the legacy of his close friend, Palestinian writer and poet Refaat Alareer, martyred on December 6, 2023,  through readings from *Gaza Writes Back*, the short story anthology Refaat edited and published in 2013. The anthology amplifies the voices of young Palestinians who survived the 2008-09 Israeli assault on Gaza, known as Operation Cast Lead. Through short stories and testimonies, these writers bear witness to daily life under siege and bombardment, transforming personal memory into acts of resistance and resilience. Mosab will also offer reflections on Refaat’s life, his work, and the ongoing situation in Gaza.\
+  **Moderators:** Sahar Assaf and Andrea Assaf\
   **Special Guest:** Mosab Abu Toha\
-  **P﻿erformers:** Nusaybah Almenaii, Adam El-Sharkawi, Edward Hong, SEVAN, Hiba Sleiman\
-  **Duration:** 80 minutes  
-* *11:30 AM Pacific | 2:30 PM Eastern | 9:30 PM Palestine*\
-  **A Testimony from Gaza**\
-  On September 19, 2025, Ola Hasaballah, a psychologist, humanitarian worker, and a mother in Gaza,  spoke with expressive arts therapist Soline Daccashe. In this pre-recorded session, Ola shares her experience of surviving a genocide, enduring displacement and unimaginable living conditions while continuing to fulfill her roles as a mother and humanitarian worker. Towards the end of the interview, she shares that the first thing she will do after the genocide is “to sleep and then wake up and cry.”\
-  **Moderator:** Soline Daccashe\
-  **Speaker:** Ola Hasaballah\
-  **Duration:** 90 minutes 
-* *1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine*\
+  **P﻿erformers:** Nusaybah Almenaii, Adam El-Sharkawi, Edward Hong, SEVAN, Hiba Sleiman  
+* ***S﻿ESSION 2 (HYBRID): 11:15 AM Pacific | 2:15 PM Eastern | 9:15 PM Palestine***\
+  **Film Screening: *Sole Survivors - Between Stolen Present and Future in Gaza***
+  The Palestine Institute for Public Diplomacy (PIPD) is pleased to introduce *Sole Survivors*, a Rābet by PIPD short documentary series co-produced with Bisan Owda in Gaza. We follow sole survivors of the genocide in Gaza, their struggles and physiological wounds after losing their entire families.\
+  **Presenter:** Inès Abdel Razek (Co-Director, PIPD)  
+* ***S﻿ESSION 3 (HYBRID): 12:00 PM Pacific | 3:00 PM Eastern | 10:00 PM Palestine***\
+  **Staged Reading of *Gitmo Lab* by Hanna Eady**\
+  Dunya Productions presents a staged reading of Hanna Eady's new short play Gitmo Lab, set at Guantanamo Bay prison. With thematic and structural resonances to Dunya's upcoming Fall mainstage production Almonds Blossom in Deir Yassin, this staged reading tackles new perspectives, exploring the theme of the "smuggling of life" through the voice of playwright and founding company member Hanna Eady. Performed as a cold reading (with no prior rehearsal) by Seattle actors Yusef, Rayan, and Nabra. \
+  **Performers:** Nabra Nelson, Rayan, and Yusef 
+* ***S﻿ESSION 4 (LIVE): 1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine*** \
   **Palestinian Artists in Lebanon**\
   This conversation with five gifted actors, directors, playwrights, filmmakers, journalists and activists, all based in Beirut, is an opportunity to learn how Palestinian creators are contributing to the arts and culture of Lebanon, and how they are navigating the challenges they face in telling their stories.\
   **Moderator:** Catherine Coray (Arts Professor, NYU; Affiliate Producer, Noor Theatre)\
-  **Speakers/Performers:** Omar Ahmad, Naila Al Hares, Awad Awad, Aliya Khalidi, and Rana Zeidan\
-  **Duration:** 60 minutes 
+  **Speakers/performers:** Omar Ahmad, Naila Al Hares, Awad Awad, Aliya Khalidi, Rana Zeidan
+
+
 * *Session #4*
 
 **2:00 PM Pacific (July 20)| 5:00 PM Eastern (July 20) | 12:00 AM Palestine (July 21)**
