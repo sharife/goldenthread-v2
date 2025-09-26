@@ -121,14 +121,30 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
   **Presenters:** Zoukak Theatre Collective: Mohamad Hamdan (Mathematician, Theatre Practitioner, Trainer in Nonviolent Communication), Maya Zbib (Theatre Director, Performer, Writer, Trainer), Junaid Sarieddeen (Theatre Director, Actor, Dramaturg)\
   **Note:** To read the letters, visit [https://livestay-zoukaktheatre.blogspot.com](https://livestay-zoukaktheatre.blogspot.com/)
 * ***Se﻿ssion 18 (Pre-recorded)***\
-  ***3:00 AM Pacific | 5:00 AM Eastern | 1:00 PM Palestine***\
+  ***3:00 AM Pacific | 6:00 AM Eastern | 1:00 PM Palestine***\
   **E﻿NVISIONING FUTURES, CREATING FREEDOM: ASHTAR THEATRE'S PERFORMING ARTS VILLAGE AND ACADEMY**\
   ASHTAR Theatre joins 24 Hours for Palestine with a conversation from Ramallah on the current situation, the role of art in resistance and resilience, and the vision for and the development of a new Performing Arts Village and Academy in Birzeit, Palestine. The session will also premiere a short documentary from the August 2024 pilot program, where Palestinian youth explored an innovative curriculum integrating theatre and circus. Together, ASHTAR’s leaders and young artists share how creativity becomes a force for survival, resilience, solidarity, liberation, and how to support them.\
   **Moderators:** Marina Johnson\
   **Speakers:** Iman Aoun and Emile Saba
 * ***Se﻿ssion 19 (Pre-recorded)***\
-  ***4:00 AM Pacific | 6:00 AM Eastern | 2:00 PM Palestine***\
+  ***4:00 AM Pacific | 7:00 AM Eastern | 2:00 PM Palestine***\
   **THE INSIDIOUSNESS OF LANGUAGE**\
   This conversation explores the insidiousness of language in shaping narratives about Palestine. From media framing to political rhetoric, the words we use can obscure histories, dehumanize communities, and normalize injustice. Together, artists and writers will reflect on how language — whether unexamined or deliberately manipulated — can reinforce systems of power, including settler colonialism, and how it misleads through exaggeration, omission, and distortion. Rather than a legal or policy analysis, this discussion will center artistic and personal perspectives, drawing on storytelling, poetry, and lived experience. Panelists will consider how assumptions and “givens” are constructed, why we must actively unlearn them, and what is at stake in naming and framing. The conversation will highlight how artists, writers, and activists are reclaiming language to tell fuller, more truthful stories.\
   **Moderator:** Amal Bisharat (Co-founder / Artistic Director, Meem Collective)\
   **Speakers:** Farrah Hamzeh (Artist), Rolla Selbak (Filmmaker, Podcaster, Storyteller), and Priscilla Wathington (Poet & Human Rights Advocate)
+* ***Se﻿ssion 20 (Hybrid)***\
+  ***5:00 AM Pacific | 8:00 AM Eastern | 3:00 PM Palestine***\
+  **N﻿EW THEATRE WORKS FOR PALESTINE**\
+  This session features excerpts of new theatre works in a range of genres, by Palestinian and Palestinian American artists, as well as Jewish American allies who are making theatre in alignment with their activism for Palestinian liberation. Readings and video excerpts of new works will be followed by a conversation among the artists. Questions we’ll explore include: What is the relationship between theatre and activism in these times? How can humor, satire, and camp be creative tools in our movements for justice? What does embodied solidarity look like, and what is the significance of the body in liberation work? And more.\
+  **Moderator:** Andrea Assaf
+* ***Se﻿ssion 21 (Live)***\
+  ***6:00 AM Pacific | 9:00 AM Eastern | 4:00 PM Palestine***\
+  **TO REMAIN HUMAN: WRITING THROUGH GENOCIDE WITH MAHRU ELAHI & MICAELA KAIBNI RAEN**\
+  We must recover our own well of resistance, for, as novelist Isabella Hammad states in *Recognizing the Stranger: On Palestine and Narrative*, “To remain human at this juncture is to remain in agony. Let us remain there: it is the more honest place from which to speak.” Using the voices of Palestinian writers and allies, we’ll consider how to craft visions of the past, present and future that de-center the West and embrace our enduring and persistent humanity. We’ll engage in close readings of model texts and make-meaning together, as well as have an opportunity to write based on several generative prompts suitable for any genre.\
+  **Facilitators:** Mahru Elahi and Micaela Kaibni Raen
+* ***Se﻿ssion 22 (Live)***\
+  ***7:00 AM Pacific | 10:00 AM Eastern | 5:00 PM Palestine***\
+  **C﻿ULTURE, RESISTANCE, AND BOYCOTT: WHY ART MATTERS IN THE STRUGGLE FOR PALESTINE**\
+  In times of genocide, culture is never neutral. While oppressive systems use art and cultural institutions to normalize injustice — a strategy known as cultural washing–artists have long turned to storytelling, music, theatre, and film as essential tools of resistance. This panel explores the importance of the cultural boycott within the broader BDS movement, the mechanisms of cultural washing, and the duty of artists and cultural workers to resist becoming complicit. It examines how art can uphold global solidarity and drive political change.\
+  **Moderator:** Hane Alrustm\
+  **Speakers:** Riham Barghouti, Amin El Gamal, and Melissa Nussbaum Freeman
