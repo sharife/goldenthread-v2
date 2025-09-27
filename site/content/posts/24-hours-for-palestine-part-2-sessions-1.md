@@ -32,8 +32,8 @@ No registration required. [Livestream on the Golden Thread website.](https://gol
 * ***Se﻿ssion 3 (Hybrid)***\
   ***12:00 PM Pacific | 3:00 PM Eastern | 10:00 PM Palestine***\
   **STAGED READING OF *GITMO LAB* BY HANNA EADY**\
-  Dunya Productions presents a staged reading of Hanna Eady's new short play Gitmo Lab, set at Guantanamo Bay prison. With thematic and structural resonances to Dunya's upcoming Fall mainstage production Almonds Blossom in Deir Yassin, this staged reading tackles new perspectives, exploring the theme of the "smuggling of life" through the voice of playwright and founding company member Hanna Eady. Performed as a cold reading (with no prior rehearsal) by Seattle actors Yusef, Rayan, and Nabra. \
-  **Performers:** Nabra Nelson, Rayan, and Yusef 
+  Dunya Productions presents a staged reading of Hanna Eady's new short play *Gitmo Lab,* set at Guantanamo Bay prison. With thematic and structural resonances to Dunya's upcoming Fall mainstage production Almonds Blossom in Deir Yassin, this staged reading tackles new perspectives, exploring the theme of the "smuggling of life" through the voice of playwright and founding company member Hanna Eady. Performed as a cold reading (with no prior rehearsal) by Seattle actors Rayan Atallah, Yusef Elaameir, and Nabra Nelson.  \
+  **Performers:** Rayan Atallah, Yusef Elaameir, Nabra Nelson, and Ed Mast (stage directions).  
 * ***Se﻿ssion 4 (Live)***\
   ***1:00 PM Pacific | 4:00 PM Eastern | 11:00 PM Palestine*** \
   **P﻿ALESTINIAN ARTISTS IN LEBANON**\
