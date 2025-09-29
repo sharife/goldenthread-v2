@@ -22,10 +22,12 @@ additional: ""
 stage: WORLDWIDE LIVESTREAM BELOW
 address: Stream launches Sat, Sep 27 at 10am PST / 1pm EST / 8pm Palestine
 ticketlink: ""
-ticketinfo: Access is free and open to the public.
+ticketinfo: ""
 externallink: https://goldenthread.org/posts/24-hours-for-palestine-part-2-sessions-1/
 externallinklabel: Full Schedule and Session Information
 ---
+[P﻿lease visit our Resources page to find out more ways to engage, donate, and advocate.](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)
+
 Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
 We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
