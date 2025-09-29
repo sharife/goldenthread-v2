@@ -1,21 +1,22 @@
 ---
 title: Middle East Center Stage
-headline: 24 Hours for Palestine (Part 2)
-subtitle: ""
-background: https://ucarecdn.com/4e06f318-30db-4638-9798-60624a9fba51/
-cta: Information and Watch
-link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
+headline: PILGRIMAGE
+subtitle: by Humaira Ghilzai and Bridgette Dutta Portman
+background: https://ucarecdn.com/ee01a9f1-0965-4e41-9034-24109d21abe5/
+cta: Performances begin October 24!
+link: https://goldenthread.org/productions/pilgrimage/
 items:
-  - subtitle: |-
-      **N﻿ext up: *PILGRIMAGE***\
-      **by Humaira Ghilzai and Bridgette Dutta Portman**
-    text: I﻿n this moving and often funny world premiere co-produced with Z Space,
-      five women embark on a pilgrimage to Mecca. Will this pilgrimage bring the
-      five women closer, or will secrets, rivalries, and old wounds tear them
-      apart? C﻿﻿﻿elebrated Bay Area artist Michelle Talgarow directs.
-    image: https://ucarecdn.com/8808aee0-05f0-4ce1-996e-97b47e344cd0/
-    cta: Performances begin October 24!
-    link: https://goldenthread.org/productions/pilgrimage/
+  - link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
+    cta: Information and Resources
+    image: https://ucarecdn.com/44788a6e-33e2-4ac4-99fe-4987904a520c/
+    text: O﻿n September 27-28, 2025, more than 100 artists, journalists, scholars,
+      and activists from across the world came together for for 24 hours of
+      non-stop performances, panels, short films, personal stories, eye witness
+      accounts, poetry, music, and more, in an act of global solidarity, as we
+      raise our voices together for the liberation of Palestine.
+    subtitle: |-
+      **2﻿4 Hours for Palestine (Part 2)**\
+      **w﻿as a rousing and impactful success!**
   - text: "*PILGRIMAGE* is the first play by an Afghan woman to receive a
       professional production in the U.S. Help us make *her*story with this rare
       and unique new play!"
