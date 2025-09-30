@@ -1,7 +1,7 @@
 ---
 title: From PILGRIMAGE Playwright Humaira Ghilzai
 date: 2025-09-30T21:49:17.974Z
-background: https://ucarecdn.com/e49e1261-a765-452f-a24a-c9233becb1c0/
+background: https://ucarecdn.com/f69188fb-ef25-4c98-b4c8-0cb0b42e4c06/
 ---
 *With the world premiere of* [Pilgrimage](https://www.goldenthread.org/productions/pilgrimage)*, Humaira Ghilzai is the first female playwright of Afghan descent to receive a professional production in the U.S. Humaira has long been the leading cultural consultant for American plays, TV series and films featuring Afghan stories and characters. In this short essay, she lets us in on her inspirations behind this moving and often funny play..*
 
