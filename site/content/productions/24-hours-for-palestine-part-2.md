@@ -14,7 +14,7 @@ description: >-
   our voices together for the liberation of Palestine.
 
 
-  The livestreamed event was a true communal effort: **16 partners**, **93 presenters**, and **11 tech and producing staff**. And our audiences responded in kind! We are moved by the reach of the stream: **1,126 unique viewers** watched the offerings from **42 countries**!
+  The livestreamed event was a true communal effort: **16 partners**, **100+ presenters**, and **11 tech and producing staff**. And our audiences responded in kind! We are moved by the reach of the stream: **1,126 unique viewers** watched the offerings from **42 countries**!
 
 
   Thank you for your ongoing advocacy, and we will be sharing archival videos for most sessions! Look for that announcement via email and social media soon!
