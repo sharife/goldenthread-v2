@@ -7,11 +7,17 @@ start: 2025-09-27T17:00:00.000Z
 end: 2025-09-28T17:00:48.651Z
 heading: To Our Ultimate Freedom
 description: >-
-  Join over 100 artists, theatre-makers, journalists, scholars, educators, and
-  activists from across the world for 24 hours of non-stop performances, panels,
-  dialogues, short films, personal stories, eye witness accounts, poetry, music,
-  and more, in an act of global solidarity, as we raise our voices together for
-  the liberation of Palestine.
+  Over 100 artists, theatre-makers, journalists, scholars, educators, and
+  activists from across the world came together for 24 hours of non-stop
+  performances, panels, dialogues, short films, personal stories, eye witness
+  accounts, poetry, music, and more, in an act of global solidarity, as we raise
+  our voices together for the liberation of Palestine.
+
+
+  Last weekend's livestreamed event was a true communal effort: **16 partners**, **93 presenters**, and **11 tech and producing staff**. And our audiences responded in kind! We are moved by the reach of the stream: **1,126 unique viewers** watched the offerings from **42 countries**!
+
+
+  Thank you for your ongoing advocacy, and we will be sharing archival videos for most sessions! Look for that announcement via email and social media soon!
 
 
   #### **[P﻿lease visit our Resources page to find out more ways to engage, donate, and advocate.](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)**
