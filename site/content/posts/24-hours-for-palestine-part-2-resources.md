@@ -10,8 +10,7 @@ description: These are links to social justice organizations, Palestinian
 ## WAYS TO TAKE ACTION
 
 * Boycott, Divestment, and Sanctions (BDS)\
-  [https://uscpr.org/activist-resource/boycott-divestment-and-sanctions/](<* https://uscpr.org/activist-resource/boycott-divestment-and-sanctions/
-  *>)
+  <https://uscpr.org/activist-resource/boycott-divestment-and-sanctions/>
 * U.S. Campaign for Palestinian Rights (USCPR)\
   [https://uscpr.org/take-action/](<* https://uscpr.org/take-action/>)<https://uscpr.org/pro-palestine-protests/>
 
