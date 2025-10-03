@@ -10,7 +10,7 @@ items:
     cta: Information and Resources
     image: https://ucarecdn.com/44788a6e-33e2-4ac4-99fe-4987904a520c/
     text: "The livestreamed event on September 27-28, 2025 was a true communal
-      effort: **16 partners**, **93 presenters**, and **11 tech and producing
+      effort: **16 partners**, **100+ presenters**, and **11 tech and producing
       staff**. And our audiences responded in kind! We are moved by the reach of
       the stream: **1,126 unique viewers** watched the offerings from **42
       countries**!"
