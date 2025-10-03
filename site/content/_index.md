@@ -17,6 +17,16 @@ items:
     subtitle: |-
       **Thank you for your support of**\
       ***2﻿4 Hours for Palestine (Part 2)***
+  - subtitle: |-
+      **R﻿ead about Humaira Ghilzai's** \
+      **personal inspiration behind *Pilgrimage***
+    text: “﻿In 2015, I made a pilgrimage to Mecca with my aunt Mayen and a group of
+      lively Afghan-American women.The journey was both a bonding experience
+      with elders in my community and an awakening to the generational trauma
+      woven through our lives.”
+    image: https://ucarecdn.com/894bef90-a66a-4fdb-80ae-49f3aa3aea50/
+    cta: Read the full essay
+    link: https://goldenthread.org/posts/from-pilgrimage-playwright-humaira-ghilzai/
   - text: "*PILGRIMAGE* is the first play by an Afghan woman to receive a
       professional production in the U.S. Help us make *her*story with this rare
       and unique new play!"
