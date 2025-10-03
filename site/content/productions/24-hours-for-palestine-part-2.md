@@ -25,7 +25,7 @@ titleimage: ""
 programlabel: Digital Program
 program: https://qrcodes.pro/RVYIfz?preview=true
 additional: ""
-stage: This event streamed on September 27-28, 2025.
+stage: ""
 address: ""
 ticketlink: ""
 ticketinfo: ""
