@@ -295,4 +295,6 @@ photos2:
     - image: https://ucarecdn.com/8315e2b2-0177-4b60-9bd4-189f0fbba3c6/
     - image: https://ucarecdn.com/fabf513b-cec2-4147-8482-c64ccf9a4696/
 ---
+"﻿In 2015, I made a pilgrimage to Mecca with my aunt Mayen and a group of lively Afghan-American women. I was one of the youngest in the group, which meant I enjoyed the attention of all the aunties I picked up along the way. The journey was both a bonding experience with elders in my community and an awakening to the generational trauma woven through our lives. That experience became the seed from which *Pilgrimage* took root." [﻿(Read about Humaira's personal inspiration behind *Pilgrimage*!)](https://goldenthread.org/posts/from-pilgrimage-playwright-humaira-ghilzai/)
+
 *P﻿ilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
