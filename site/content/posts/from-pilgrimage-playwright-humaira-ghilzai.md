@@ -1,5 +1,5 @@
 ---
-title: From PILGRIMAGE Playwright Humaira Ghilzai
+title: From PILGRIMAGE Co-Playwright Humaira Ghilzai
 date: 2025-09-30T21:49:17.974Z
 background: https://ucarecdn.com/f69188fb-ef25-4c98-b4c8-0cb0b42e4c06/
 ---
