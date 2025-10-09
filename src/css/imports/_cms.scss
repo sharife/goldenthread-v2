@@ -87,13 +87,17 @@
 
   /* Blockquotes */
   & blockquote {
-    background-color: var(--grey-1);
+    /*background-color: var(--grey-1);*/
     display: block;
-    border-radius: var(--border-radius);
-    padding: var(--spacing-medium);
-    color: var(--primary);
-    font-weight: 700;
-    font-size: 1.25rem;;
+    /*border-radius: var(--border-radius);*/
+    border-left: solid 3px var(--primary);
+    padding: var(--spacing-small);
+    padding-left: 1rem;
+    color: var(--grey-4);
+    font-weight: 400;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-family: "Georgia";
     margin-bottom: var(--spacing-medium);
     & p {
       margin: 0;

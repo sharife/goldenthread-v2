@@ -6,9 +6,9 @@ date: 2024-11-15T22:57:02.688Z
 start: 2025-10-24T21:00:00.000Z
 end: 2025-11-09T22:00:00.000Z
 description: >-
-  b﻿y **Humaira Ghilzai** and **Bridgette Dutta Portman**\
+  by **Humaira Ghilzai** and **Bridgette Dutta Portman**\
 
-  d﻿irected by **Michelle Talgarow**
+  directed by **Michelle Talgarow**
 
    A co-production with **Z Space**
 
@@ -125,7 +125,7 @@ cast:
       credit: Actor
       image: https://ucarecdn.com/a6efa615-9dc0-4e2f-bbb3-689cf407cde3/
       bio: is an Afghan-American artist, based in California. She had the privilege of
-        participating in *Eng﻿lish* at Capital Stage, and is excited to continue
+        participating in *English* at Capital Stage, and is excited to continue
         her journey with Golden Thread Productions.
     - name: Jeunée Simon
       bio: "(she/her) is a bicoastal actor, director, and consent educator. Recent
@@ -142,7 +142,7 @@ cast:
     - name: Karen Runk
       credit: Stage Manager
       image: https://ucarecdn.com/cf7a6f45-d0c2-4160-aa3b-b3fe757a69fd/
-      bio: moved to S﻿an Francisco with the intention of only staying for a few
+      bio: moved to San Francisco with the intention of only staying for a few
         months... Well nearly three decades later, she's still here! This is
         largely due to the talented folks at the SF Mime Troupe, Word For Word
         (where she recently became a core company member!!!), and thanks to
@@ -233,7 +233,7 @@ cast:
         is an Irish designer based in San Francisco. He is the Director of
         Technical & Production at Z Space, where his design credits include
         *Rime of the Ancient Mariner* alongside Oliver di Cicco; *Baba: The Life
-        and Death of Stana*; and *Ripped*. 
+        and Death of Stana*; and *Ripped*.  
 
 
         Irish credits include co-founder & lead designer of Sugarglass Theatre: the Irish premiere of *Tender Napalm* (Project Arts Centre); *Five Minutes Later* (The Lir); *All Hell Lay Beneath* (Irish Times “Cultural Highlight of the Year”); *Ethica: Four Shorts* by Samuel Beckett (Áras an Uachtaráin, Dublin – Human Rights Day; Happy Days Festival, Enniskillen). Other work: *Brothers Karamazov* and *Distance from the Event* (Samuel Beckett Theatre); *Monster Clock* (national tour); *Love and Information* and *Caucasian Chalk Circle* (The Lir); *Waiting for Godot* and *Pygmalion* (Smock Alley); *The Life and Sort of Death of Eric Argyle* (international tour); *The Lesson* (Project Cube). MFA from The Lir Academy, Trinity College; Chief Electrician at Gate Theatre, Dublin.
@@ -295,6 +295,8 @@ photos2:
     - image: https://ucarecdn.com/8315e2b2-0177-4b60-9bd4-189f0fbba3c6/
     - image: https://ucarecdn.com/fabf513b-cec2-4147-8482-c64ccf9a4696/
 ---
-*P﻿ilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
+*Pilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
 
-> "﻿In 2015, I made a pilgrimage to Mecca with my aunt Mayen and a group of lively Afghan-American women.**The journey was both a bonding experience with elders in my community and an awakening to the generational trauma woven through our lives.**" **[﻿(Read about Humaira's personal inspiration behind *Pilgrimage*!)](https://goldenthread.org/posts/from-pilgrimage-playwright-humaira-ghilzai/)**
+> "In 2015, I made a pilgrimage to Mecca with my aunt Mayen and a group of lively Afghan-American women. The journey was both a bonding experience with elders in my community and an awakening to the generational trauma woven through our lives." 
+
+**[Read about Humaira's personal inspiration behind *Pilgrimage*!](https://goldenthread.org/posts/from-pilgrimage-playwright-humaira-ghilzai/)**
