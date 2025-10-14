@@ -2,17 +2,9 @@
 title: Play Submissions
 sidebar:
   heading: ReOrient 2026 Submissions are closed!
-  text: >-
-    P﻿lease read the submission guidelines, and when you are ready, you may
-    **[upload your submission via this
-    form](https://docs.google.com/forms/d/e/1FAIpQLSfoMJ8cpuMCH1ykFNtapBm38GdpsQcfuP_uRSblpXlrtAjPvQ/viewform)**.
-
-
-    For questions, please email:\
-
-    submissions@goldenthread.org\
-
-    Subject Line: ReOrient 2026
+  text: T﻿hank you for your interest in our biennial short play festival.
+    Submissions for ReOrient 2026 are closed. Next round will be announced in
+    2027.
 ---
 ![]()
 
