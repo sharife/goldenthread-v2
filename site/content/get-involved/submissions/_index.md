@@ -8,7 +8,7 @@ sidebar:
 ---
 ![]()
 
-We welcome submissions of original full-length plays written by playwrights of Middle Eastern and North African (MENA) descent on any subject, as well as plays by non-MENA playwrights that explore MENA themes, settings, or characters.All submissions must be in English (or accompanied by an English translation) and intended for live theatrical performance.
+We welcome submissions of original full-length plays written by playwrights of Middle Eastern and North African (MENA) descent on any subject, as well as plays by non-MENA playwrights that explore MENA themes, settings, or characters. All submissions must be in English (or accompanied by an English translation) and intended for live theatrical performance.
 
 ## **[U﻿PLOAD SUBMISSION VIA THIS FORM](https://forms.gle/wG2G9wPxii17pRyP6)**
 
