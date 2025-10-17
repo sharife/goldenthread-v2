@@ -22,6 +22,39 @@ address: 450 Florida Street, San Francisco, CA
 ticketlink: https://ci.ovationtix.com/34231/production/1228668?&_ga=2.74197842.1305164440.1738099497-1617700776.1738099497
 ticketinfo: Tickets start at $20. No one is turned away for lack of funds,
   please email boxoffice@zspace.org
+lists:
+  - heading: SPECIAL EVENTS
+    items:
+      - pre: Featuring Author Toba Adina-Jao
+        itemend: ""
+        text: Join us for a warm pre-show gathering with author **Toba Adina-Jao**,
+          celebrating Afghan family, food, and culture, hosted by **Salim
+          Razawi**, Pilgrimage Cultural Consultant and Artistic Producer at
+          Golden Thread Productions. This afternoon event weaves together
+          stories of heritage and creativity, inviting conversation, reflection,
+          and community inspired by the world of Pilgrimage. Enjoy sweet bites
+          generously provided by [Ariana Sweets](https://www.arianasweets.com/),
+          browse handcrafted items presented for sale by the [Afghan
+          Bazaar,](https://afgbazaar.com/) and learn about NGOs supporting
+          women’s education in Afghanistan and how you can engage with their
+          important work.
+        itemstart: ""
+        cta: ""
+        subtitle: Sun, Oct 26, 2025 at 2pm (before the 3pm matinee)
+        title: Afghan Threads
+        link: ""
+        image: https://ucarecdn.com/ec806613-2292-49c6-a7bb-1c63a4dc29b8/
+      - itemstart: ""
+        itemend: ""
+        title: Meet the Playwrights
+        pre: Hosted by Acclaimed Egyptian Actor Kal Naga
+        subtitle: F﻿ri, Oct 31, 2025, immediately following the 8pm performance
+        text: Join us for a post-show conversation with *Pilgrimage* playwrights
+          **Humaira Ghilzai** and **Bridgette Dutta Portman**, moderated by
+          acclaimed Egyptian actor **Kal Naga**. This engaging discussion
+          invites audiences to explore the inspirations, collaborations, and
+          creative process behind the making of *Pilgrimage*.
+        image: https://ucarecdn.com/11497328-8793-4be7-b892-84150263d596/
 cast:
   items:
     - image: https://ucarecdn.com/a2abbae4-bbb3-4847-9a7c-7703633b2a8a/
