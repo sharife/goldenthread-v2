@@ -294,6 +294,13 @@ photos2:
     - image: https://ucarecdn.com/135d30ad-1d46-4433-978c-554b9f6cc891/
     - image: https://ucarecdn.com/8315e2b2-0177-4b60-9bd4-189f0fbba3c6/
     - image: https://ucarecdn.com/fabf513b-cec2-4147-8482-c64ccf9a4696/
+bottom:
+  heading: SUPPORTERS
+  text: "*P﻿ilgrimage* is funded in part by the **National Endowment for the
+    Arts** and **California Arts Council**, a state agency."
+  logos:
+    - image: https://ucarecdn.com/cd9d43d8-0db5-4ae9-af27-966876b43489/
+    - image: https://ucarecdn.com/0cc367b3-9a51-4461-bc20-4a002aa530f5/
 ---
 *Pilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
 
