@@ -74,11 +74,11 @@ lists:
         image: https://ucarecdn.com/7fea0324-a9e0-4d57-afd1-0667b3e47267/
         text: Join us for a post-show conversation with **Halima Kazem, Ph.D.**,
           Associate Director of the Program in Feminist, Gender, and Sexuality
-          Studies at Stanford University, moderated by **Nikki Meñez**, actress,
-          director, and Curatorial Director at Z Space. The conversation will
-          explore the social, political, and gender dynamics at the heart of
-          *Pilgrimage*, and how the play resonates within today’s cultural and
-          political landscape.
+          Studies at Stanford University, moderated by **Nikki Meñez**,
+          producer, director, and Curatorial Director at Z Space. The
+          conversation will explore the social, political, and gender dynamics
+          at the heart of *Pilgrimage*, and how the play resonates within
+          today’s cultural and political landscape.
 cast:
   items:
     - image: https://ucarecdn.com/a2abbae4-bbb3-4847-9a7c-7703633b2a8a/
