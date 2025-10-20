@@ -25,7 +25,7 @@ ticketinfo: Tickets start at $20. No one is turned away for lack of funds,
 lists:
   - heading: SPECIAL EVENTS
     items:
-      - pre: Featuring Author Toba Adina-Jao
+      - pre: Sun, Oct 26, 2025 at 2pm (before the 3pm matinee)
         itemend: ""
         text: Join us for a warm pre-show gathering with author **Toba Adina-Jao**,
           celebrating Afghan family, food, and culture, hosted by **Salim
@@ -40,21 +40,45 @@ lists:
           important work.
         itemstart: ""
         cta: ""
-        subtitle: Sun, Oct 26, 2025 at 2pm (before the 3pm matinee)
+        subtitle: "**Featuring Author Toba Adina-Jao**"
         title: Afghan Threads
         link: ""
         image: https://ucarecdn.com/ec806613-2292-49c6-a7bb-1c63a4dc29b8/
       - itemstart: ""
         itemend: ""
         title: Meet the Playwrights
-        pre: Hosted by Acclaimed Egyptian Actor Kal Naga
-        subtitle: F﻿ri, Oct 31, 2025, immediately following the 8pm performance
+        pre: F﻿ri, Oct 31, 2025, immediately following the 8pm performance
+        subtitle: "**Hosted by Acclaimed Egyptian Actor Kal Naga**"
         text: Join us for a post-show conversation with *Pilgrimage* playwrights
           **Humaira Ghilzai** and **Bridgette Dutta Portman**, moderated by
           acclaimed Egyptian actor **Kal Naga**. This engaging discussion
           invites audiences to explore the inspirations, collaborations, and
           creative process behind the making of *Pilgrimage*.
         image: https://ucarecdn.com/11497328-8793-4be7-b892-84150263d596/
+      - itemstart: ""
+        itemend: ""
+        title: Community Circle with Aviva Arts
+        subtitle: "**Facilitated by Vidhu Singh, PhD**"
+        pre: Sun, Nov 2, 2025, immediately following the 3pm matinee
+        image: https://ucarecdn.com/c61f1ea1-f1bf-4477-a5a8-cf3dbcc7f865/
+        text: Join us for a special post-show community circle facilitated by **Vidhu
+          Singh, PhD**, an Expressive Arts Facilitator with **Aviva Arts**. This
+          interactive session offers a space for reflection, creative
+          expression, collective wisdom and storytelling, carrying the themes of
+          the play into our shared lived experience.
+      - itemstart: ""
+        itemend: ""
+        subtitle: "**Featuring Halima Kazem, Ph.D.**"
+        title: Post-Show Conversation
+        pre: Sun, Nov 9, 2025, immediately following the 3:00 PM matinee
+        image: https://ucarecdn.com/7fea0324-a9e0-4d57-afd1-0667b3e47267/
+        text: Join us for a post-show conversation with **Halima Kazem, Ph.D.**,
+          Associate Director of the Program in Feminist, Gender, and Sexuality
+          Studies at Stanford University, moderated by **Nikki Meñez**, actress,
+          director, and Curatorial Director at Z Space. The conversation will
+          explore the social, political, and gender dynamics at the heart of
+          *Pilgrimage*, and how the play resonates within today’s cultural and
+          political landscape.
 cast:
   items:
     - image: https://ucarecdn.com/a2abbae4-bbb3-4847-9a7c-7703633b2a8a/
