@@ -343,7 +343,7 @@ mentions:
     questions or concerns, please contact our box office
     at [boxoffice@zspace.org](mailto:boxoffice@zspace.org).
 photos2:
-  heading: First Rehersal Photos by Wynne Chan
+  heading: First Rehersal (Photos by Wynne Chan)
   items:
     - image: https://ucarecdn.com/be8dfd2b-beb8-4df1-b624-0d171d3d848b/
     - image: https://ucarecdn.com/4b840cd8-4e00-4364-ab6a-d078c13c8360/
@@ -351,6 +351,13 @@ photos2:
     - image: https://ucarecdn.com/135d30ad-1d46-4433-978c-554b9f6cc891/
     - image: https://ucarecdn.com/8315e2b2-0177-4b60-9bd4-189f0fbba3c6/
     - image: https://ucarecdn.com/fabf513b-cec2-4147-8482-c64ccf9a4696/
+photos3:
+  heading: Spacing Rehearsal at Z Space (Photos by Wynne Chan)
+  items:
+    - image: https://ucarecdn.com/c113ed07-b8b3-4702-800c-7f97cce69029/
+    - image: https://ucarecdn.com/fefce48a-844c-468e-84dc-58d851c4e3de/
+    - image: https://ucarecdn.com/9e7bfc2c-14e7-4571-a273-4819dc4f4f6a/
+    - image: https://ucarecdn.com/de49bc67-18ba-41d4-b1d0-2d0910322245/
 bottom:
   heading: SUPPORTERS
   text: "*P﻿ilgrimage* is funded in part by the **California Arts Council**, a
