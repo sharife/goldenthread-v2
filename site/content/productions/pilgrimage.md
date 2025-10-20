@@ -25,7 +25,7 @@ ticketinfo: Tickets start at $20. No one is turned away for lack of funds,
 lists:
   - heading: SPECIAL EVENTS
     items:
-      - pre: Sun, Oct 26, 2025 at 2pm (before the 3pm matinee)
+      - pre: Sun, Oct 26, 2025 at 2pm, immediately before the 3pm matinee
         itemend: ""
         text: Join us for a warm pre-show gathering with author **Toba Adina-Jao**,
           celebrating Afghan family, food, and culture, hosted by **Salim
@@ -70,7 +70,7 @@ lists:
         itemend: ""
         subtitle: "**Featuring Halima Kazem, Ph.D.**"
         title: Post-Show Conversation
-        pre: Sun, Nov 9, 2025, immediately following the 3:00 PM matinee
+        pre: Sun, Nov 9, 2025, immediately following the 3pm matinee
         image: https://ucarecdn.com/7fea0324-a9e0-4d57-afd1-0667b3e47267/
         text: Join us for a post-show conversation with **Halima Kazem, Ph.D.**,
           Associate Director of the Program in Feminist, Gender, and Sexuality
@@ -333,7 +333,7 @@ cast:
         further expanding her impact within the realm of multimedia
         storytelling.
 mentions:
-  heading: "Z Space Access Notes:"
+  heading: Z Space Access Notes
   text: Z Space is a wheelchair accessible theater and has accessible seating for
     all shows. Bathrooms are wheelchair accessible and are welcoming to all
     genders. You will be given an opportunity to indicate access needs during
