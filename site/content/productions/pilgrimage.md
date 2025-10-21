@@ -367,14 +367,14 @@ bottom:
 
     Golden Thread would like to acknowledge the following Community Partners for *Pilgrimage*: **[The Khaled Hosseini Foundation](https://www.khaledhosseinifoundation.org/)**, **[Sahar Education](https://www.sahareducation.org/)**, **[Women for Afghan Women (WAW)](https://womenforafghanwomen.org/)**, **[Afghan Bazaar](https://afgbazaar.com/)**, **[Ariana Sweets](https://www.arianasweets.com/)**, and **[Aviva Arts](https://www.avivaarts.org/)**.
   logos:
-    - image: https://ucarecdn.com/cd9d43d8-0db5-4ae9-af27-966876b43489/
-    - image: https://ucarecdn.com/0cc367b3-9a51-4461-bc20-4a002aa530f5/
-    - image: https://ucarecdn.com/99f85d27-d285-47a5-8add-8935b54bed60/
-    - image: https://ucarecdn.com/1a8d62da-f010-440d-ba9d-e0a3344f64a8/
-    - image: https://ucarecdn.com/351dacb3-b78c-4b6e-a54d-c8771954d8b9/
-    - image: https://ucarecdn.com/817c0c18-7f0f-4f37-9117-6069cb2cd618/
-    - image: https://ucarecdn.com/8dcd441c-ccbe-4ad8-9c36-2e91f4770b95/
-    - image: https://ucarecdn.com/aea21a3b-bb72-43bd-b937-9b45148b013e/
+    - image: https://ucarecdn.com/68822c60-9b06-402c-a6e8-d9ee8122c4a7/
+    - image: https://ucarecdn.com/9afa1299-ebe4-4609-bf09-3139aeaaaff5/
+    - image: https://ucarecdn.com/ac645582-6f8e-4b92-8717-56d03fe70dee/
+    - image: https://ucarecdn.com/86f4aa0b-f4dc-4185-8ff0-65bba9e0b4f3/
+    - image: https://ucarecdn.com/552ada32-3a10-44f0-8a72-16ef0ec4437a/
+    - image: https://ucarecdn.com/2d9beb33-7883-407b-9fd4-162f0c0becb3/
+    - image: https://ucarecdn.com/d3f15e9d-5819-40f8-a2f8-794bfb3ed785/
+    - image: https://ucarecdn.com/e1c56aac-11e7-4500-a576-ae42567e32d4/
 ---
 *Pilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
 
