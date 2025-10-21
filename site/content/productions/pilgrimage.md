@@ -360,11 +360,21 @@ photos3:
     - image: https://ucarecdn.com/de49bc67-18ba-41d4-b1d0-2d0910322245/
 bottom:
   heading: SUPPORTERS
-  text: "*P﻿ilgrimage* is funded in part by the **California Arts Council**, a
-    state agency, and the **National Endowment for the Arts**."
+  text: >-
+    *P﻿ilgrimage* is funded in part by the **California Arts Council**, a state
+    agency, and the **National Endowment for the Arts**. 
+
+
+    Golden Thread would like to acknowledge the following Community Partners for *Pilgrimage*: **[The Khaled Hosseini Foundation](https://www.khaledhosseinifoundation.org/)**, **[Sahar Education](https://www.sahareducation.org/)**, **[Women for Afghan Women (WAW)](https://womenforafghanwomen.org/)**, **[Afghan Bazaar](https://afgbazaar.com/)**, **[Ariana Sweets](https://www.arianasweets.com/)**, and **[Aviva Arts](https://www.avivaarts.org/)**.
   logos:
     - image: https://ucarecdn.com/cd9d43d8-0db5-4ae9-af27-966876b43489/
     - image: https://ucarecdn.com/0cc367b3-9a51-4461-bc20-4a002aa530f5/
+    - image: https://ucarecdn.com/99f85d27-d285-47a5-8add-8935b54bed60/
+    - image: https://ucarecdn.com/1a8d62da-f010-440d-ba9d-e0a3344f64a8/
+    - image: https://ucarecdn.com/351dacb3-b78c-4b6e-a54d-c8771954d8b9/
+    - image: https://ucarecdn.com/817c0c18-7f0f-4f37-9117-6069cb2cd618/
+    - image: https://ucarecdn.com/8dcd441c-ccbe-4ad8-9c36-2e91f4770b95/
+    - image: https://ucarecdn.com/aea21a3b-bb72-43bd-b937-9b45148b013e/
 ---
 *Pilgrimage* was developed as part of New Threads Staged Reading Series in 2022.
 
