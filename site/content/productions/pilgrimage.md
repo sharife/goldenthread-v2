@@ -62,10 +62,11 @@ lists:
         pre: Sun, Nov 2, 2025, immediately following the 3pm matinee
         image: https://ucarecdn.com/c61f1ea1-f1bf-4477-a5a8-cf3dbcc7f865/
         text: Join us for a special post-show community circle facilitated by **Vidhu
-          Singh, PhD**, an Expressive Arts Facilitator with **Aviva Arts**. This
-          interactive session offers a space for reflection, creative
-          expression, collective wisdom and storytelling, carrying the themes of
-          the play into our shared lived experience.
+          Singh, PhD**, an Expressive Arts Facilitator with **[Aviva
+          Arts](https://www.avivaarts.org/)**. This interactive session offers a
+          space for reflection, creative expression, collective wisdom and
+          storytelling, carrying the themes of the play into our shared lived
+          experience.
       - itemstart: ""
         itemend: ""
         subtitle: "**Featuring Halima Kazem, Ph.D.**"
