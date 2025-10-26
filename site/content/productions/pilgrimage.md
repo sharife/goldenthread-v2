@@ -15,6 +15,8 @@ description: >-
   Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart?
 background: https://ucarecdn.com/5dc6b87b-1e2c-46c2-bffb-7d70d86a1a1f/
 titleimage: ""
+programlabel: Digital Playbill
+program: https://www.flipsnack.com/goldenthread/pilgrimage-digital-playbill-mobile-dimensions
 writer: ""
 additional: ""
 stage: Z Space (Steindler Stage)
