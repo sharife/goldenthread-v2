@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: PILGRIMAGE
 subtitle: by Humaira Ghilzai and Bridgette Dutta Portman
 background: https://ucarecdn.com/ee01a9f1-0965-4e41-9034-24109d21abe5/
-cta: Performances begin October 24!
+cta: Must close November 9!
 link: https://goldenthread.org/productions/pilgrimage/
 items:
   - link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
