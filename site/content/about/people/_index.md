@@ -4,7 +4,7 @@ staff:
   heading: Staff
   items:
     - name: Sahar Assaf
-      credit: Artistic Director
+      credit: Outgoing Artistic Director
       image: https://ucarecdn.com/fc27360e-59a8-4efc-a8f3-70b64f8a9052/
       bio: >-
         **Sahar Assaf** *(she/her)* is a Lebanese theatremaker and professor.
@@ -12,9 +12,23 @@ staff:
         actor, director, translator, and producer. She’s presented works in
         Syria, Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago,
         and NYC. At the American University of Beirut where she headed the minor
-        program in Theater Arts
-
-        and was an Assistant Professor, she co-founded with her long term collaborator playwright Robert Myers, the Theater Initiative, an interdisciplinary group of faculty and artists working to facilitate theatre creation and research locally, regionally, and internationally. Her directing credits for the Theater Initiative include Garcia-Lorca’s *Blood Wedding* as a site-specific promenade performance in the village of Hammana in Mount Lebanon, Shakespeare’s *King Lear* (co-directed with Rachel Valentine Smith of The Faction ensemble of London) which was the first production of a Shakespearean play in Lebanese colloquial Arabic, *The Rape and Rituals of Signs and Transformations* by Sa'dallah Wannous, *Watch Your Step: Beirut Heritage Walking Tour* which was a site-specific devised work on the Lebanese civil war. Sahar is a strong advocate of documentary theatre and recently conceived and directed Meen El Felten, an immersive documentary play on sexual assault in Lebanon as part of the Abaad MENA campaign of 2018, and No Demand No Supply, a documentary play about sex trafficking and prostitution in collaboration with the Kafa organization.
+        program in Theater Arts and was an Assistant Professor, she co-founded
+        with her long term collaborator playwright Robert Myers, the Theater
+        Initiative, an interdisciplinary group of faculty and artists working to
+        facilitate theatre creation and research locally, regionally, and
+        internationally. Her directing credits for the Theater Initiative
+        include Garcia-Lorca’s *Blood Wedding* as a site-specific promenade
+        performance in the village of Hammana in Mount Lebanon, Shakespeare’s
+        *King Lear* (co-directed with Rachel Valentine Smith of The Faction
+        ensemble of London) which was the first production of a Shakespearean
+        play in Lebanese colloquial Arabic, *The Rape and Rituals of Signs and
+        Transformations* by Sa'dallah Wannous, *Watch Your Step: Beirut Heritage
+        Walking Tour* which was a site-specific devised work on the Lebanese
+        civil war. Sahar is a strong advocate of documentary theatre and
+        recently conceived and directed Meen El Felten, an immersive documentary
+        play on sexual assault in Lebanon as part of the Abaad MENA campaign of
+        2018, and No Demand No Supply, a documentary play about sex trafficking
+        and prostitution in collaboration with the Kafa organization.
 
 
         As an actor, Sahar is trained in the Meisner technique and recently started training in Alba Emoting, a somatic approach to acting based in neuroscience. Her acting credits include the role of Karen in the Lebanese adaptation of *Dinner with Friends* by Donald Margulies directed by Carlos Chahine, the title role in Dario Fo and Franca Rame’s *An Arab Woman Speaks* produced by The Faction at New Diorama Theatre in London, and of Barbara in the Lebanese adaptation of *August: Osage County* by Tracy Letts.
@@ -27,6 +41,35 @@ staff:
 
 
         As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
+    - name: Nabra Nelson
+      credit: Incoming Artistic Director
+      image: https://ucarecdn.com/d0c03057-a64f-4e00-8c3f-ea66452be2c1/
+      bio: >-
+        **N﻿abra Nelson (she/her)** is a multi-disciplinary theater maker with
+        over a decade of experience as a director, administrator, writer,
+        consultant, dramaturg, and teaching artist. For nine years, she was a
+        leader in the field of regional theater community engagement as the
+        Director of Arts Engagement at Seattle Rep and the Community Engagement
+        Manager at Milwaukee Repertory Theater. She is a Founding Company Member
+        of Dunya Productions (Seattle’s MENA-focused theatre company), HERitage
+        emBODYment (an Egyptian devising ensemble), and Heard Space Arts
+        Collective (Milwaukee’s women-of-color performance troupe). She co-leads
+        the Nubian Foundation for Preserving a Cultural Heritage, which has
+        partnered with international organizations to spread awareness of Nubian
+        culture through the arts. She serves as a Board Member of the MENA
+        Theater Makers Alliance, and co-hosts the Kunafa & Shay MENA Theatre
+        Podcast produced by HowlRound Theater Commons. Her commitment to racial
+        equity and social justice education deepens in her work as a consultant
+        with 4Culture and Avent Diversity Consulting. 
+
+
+        Her plays have been produced and developed in San Francisco, Los Angeles, Seattle, Milwaukee, Santa Barbara, Portland, and Minneapolis. She has directed and been dramaturg at theatres across the nation. As a Producer, she has worked with The Peace Studio, The Bloc, the Women’s Ensemble Theatre Troupe, and the MultiCultural Drama Company. As a Teaching Artist, she has worked with Young Women Empowered, Pasadena Playhouse, the Unusual Suspects Theater Company, and Seattle Public Schools and the Office of Arts & Culture’s Ethnic Studies and Theatre of the Oppressed Institute. 
+
+
+        Awards and recognitions include the New England Foundation for the Arts National Theatre Project, Dramatists Guild Foundation National Playwriting Fellowship, New Arab American Theater Works’ Inaugural Playwriting Cohort, 4Culture Project Grant, Map Fund Artist Award, Wisconsin Veterans Chamber of Commerce Nonprofit Partner of the Year, and Agenda Communicating the Arts 30 Under 30. 
+
+
+        Her scholarship has been published by Routledge, Bloomsbury, Johns Hopkins University Press, The Gemsbok, and the Pedagogy and Theatre of the Oppressed Journal. One of her many connections to the Bay Area includes as part of the Eco-Artivist Cohort of Dancing Earth. She is a graduate of the University of California, Santa Barbara, with a degree in Theatre Arts, Directing, and a minor in Physics.
     - name: Wynne Chan
       credit: Managing Director
       image: https://ucarecdn.com/b12416dc-8b0a-457e-b978-0904a2822838/-/crop/1336x1776/0,135/-/preview/
