@@ -1,25 +1,22 @@
 ---
-title: Support Socially-Engaged Art
+title: "GOLDEN30: A Campaign for Our 30th Anniversary"
 sidebar:
-  heading: Support the World Premiere of PILGRIMAGE
-  text: >-
-    **The first play by an Afghan woman to receive a professional production in
-    the U.S.** 
-
-
-    A moving and often funny family drama, PILGRIMAGE focuses on five vibrant, funny, and flawed women who defy clichés and stereotypes about Muslim women that pervade Western media and culture.
-
-
-    **Help us make *her*story with this rare and unique new play!**\
-
-    **[FIND OUT MORE AND DONATE!](https://goldenthread.org/posts/support-pilgrimage/)**
+  heading: ""
+  text: ""
 ---
-[![Donate Button](/img/archive/2015/03/Donate-Button-400.jpg)](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+![](https://ucarecdn.com/ea3ffce2-3cc1-4047-a58a-02bdad53d317/)
 
-As the U.S. Government ramps up its attack on immigrants, vilification of Middle Eastern countries and people, and active defunding of the Arts, we must stand together to fight back. Please consider supporting Golden Thread to make sure that our work continues to grow and thrive.
+**2026 marks Golden Thread’s 30th anniversary**, and we're marking this impressive milestone with an audacious Golden30 Campaign to raise $300,000 over the next 12 months! Our first goal is to raise $30,000 by the end of 2025. **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
-For almost 30 years as the first American theatre company devoted to the Middle East, Golden Thread has been a leader in changing the narrative on our often-vilified region and its people. And our 2025 Season is no different!
+**For the last 30 years, Golden Thread has stood strong as the first American theater company dedicated to the Middle East.** As the world has witnessed the rise of Islamophobia after 9/11, the devastation of the war on Iraq, and now the ongoing genocide in Palestine, we have remained steadfast with our unwavering, multicultural voice for Middle Eastern and North African communities. **Our stories defy stereotypes and challenge false narratives with rich humanity.**
 
-![](https://ucarecdn.com/317a08e0-de59-494a-84b9-b023ddd14b2f/)
+As we reflect on our legacy, we are overwhelmed by the number of artists, supporters, and champions like you who made our success possible. In 30 years, we have:
 
-Golden Thread’s 2025 Season aims to illuminate the interconnectedness of our struggles amplifying Palestinian, Armenian, and Afghan stories. It is our duty — both as artists and as global citizens — to learn from our histories, to tell our stories, and to pass our narratives on to future generations. Through a diverse collection of personal and historical narratives, this season, we honor the strength of those who have endured, who are still fighting, and the voices that refuse to be silenced. Featuring bold world-premiere works by women-identifying artists and fostering both local and national collaborations, this season invites you to join us in community and solidarity.
+* **Produced more than 150 plays**, most of them world premieres;
+* **Employed over 2,000 artists**, majority of whom are women, queer, BIPOC, or of Middle Eastern heritage;
+* **Served more than 80,000 audience members**
+* **Partnered with more than 150 organizations** at the front lines of the fight for justice 
+
+**No one does what Golden Thread does, and our communities need us now more than ever.** As funding from the government and foundations dwindle, and censorship and authoritarianism become commonplace, we launch the Golden30 Campaign with a clear commitment: to **build a strong foundation for growth and stability, ensuring that our essential cultural home for many communities continues to thrive.**
+
+We invite you to join us in securing the next 30 years of Golden Thread’s vibrant future. **[Can we count on your donation in 2025 to help us reach our first $30,000 milestone?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
