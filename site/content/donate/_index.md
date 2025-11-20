@@ -1,8 +1,11 @@
 ---
 title: "GOLDEN30: A Campaign for Our 30th Anniversary"
 sidebar:
-  heading: ""
-  text: ""
+  heading: DONATE TO GOLDEN30 NOW!
+  text: "[Join Golden Thread's growing community of champions by donating towards
+    our first goal of $30,000 before the end of
+    2025!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000\
+    tn4RsQAI)"
 ---
 ![](https://ucarecdn.com/ea3ffce2-3cc1-4047-a58a-02bdad53d317/)
 
