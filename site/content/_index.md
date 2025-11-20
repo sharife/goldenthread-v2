@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
-headline: "Golden30: A Campaign for our 30th Anniversary"
-subtitle: This audacious $300,000 campaign will secure Golden Thread's future!
+headline: "Golden30: A Campaign for Our 30th Anniversary"
+subtitle: The $300,000 campaign will secure Golden Thread's future!
 background: https://ucarecdn.com/c918f90b-0fcd-4f06-a73c-014587b52507/
-cta: Donate towards our first goal of $30,000 before December 31!
+cta: Donate towards our first goal of $30,000 before Dec 31!
 link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
