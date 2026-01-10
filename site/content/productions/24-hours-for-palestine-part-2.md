@@ -17,10 +17,10 @@ description: >-
   The livestreamed event was a true communal effort: **16 partners**, **100+ presenters**, and **11 tech and producing staff**. And our audiences responded in kind! We are moved by the reach of the stream: **1,126 unique viewers** watched the offerings from **42 countries**!
 
 
-  Thank you for your ongoing advocacy, and we will be sharing archival videos for most sessions! Look for that announcement via email and social media soon!
+  #### **[W﻿atch all sessions on YouTube.](https://www.youtube.com/@24HoursforPalestine)**
 
 
-  #### **[P﻿lease visit our Resources page to find out more ways to engage, donate, and advocate.](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)**
+  #### **[](https://www.youtube.com/@24HoursforPalestine)[R﻿esources with ways to engage, donate, and advocate.](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)**
 titleimage: ""
 programlabel: Digital Program
 program: https://qrcodes.pro/RVYIfz?preview=true
