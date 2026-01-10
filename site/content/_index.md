@@ -1,9 +1,9 @@
 ---
 title: Middle East Center Stage
 headline: "GOLDEN30: A Campaign for Our 30th Anniversary"
-subtitle: The $300,000 campaign will secure Golden Thread's future!
+subtitle: The $300,000 campaign is the largest in Golden Thread's history
 background: https://ucarecdn.com/c918f90b-0fcd-4f06-a73c-014587b52507/
-cta: Donate towards our first goal of $30,000 before Dec 31!
+cta: Donate now to help secure the next 30 years!
 link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
@@ -16,8 +16,8 @@ items:
     image: https://ucarecdn.com/80243299-43c1-4de7-99e3-2540d34bb65b/
     cta: Find out more!
     link: https://goldenthread.org/posts/golden-thread-announces-artistic-leadership-transition/
-  - link: https://goldenthread.org/productions/24-hours-for-palestine-part-2/
-    cta: Information and Resources
+  - link: https://www.youtube.com/@24HoursforPalestine
+    cta: Watch all sessions on YouTube
     image: https://ucarecdn.com/44788a6e-33e2-4ac4-99fe-4987904a520c/
     text: "The livestreamed event on September 27-28, 2025 was a true communal
       effort: **16 partners**, **100+ presenters**, and **11 tech and producing
