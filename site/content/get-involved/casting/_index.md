@@ -27,23 +27,24 @@ directed by **Nailah Harper-Malveaux**
 ### SYNOPSIS
 A baker, a mystic, and a falcon walk into an office one stormy night… Rabia Haddad is on a mission to discover a lost history. But as she builds her map, the archive begins to talk back, blurring the lines between testimony, memory and myth. Could it be that the one story she needs most is her own? A play about inheritance, letting go, and the desire to belong to something larger than yourself, A Country Made of Salt invites us to reflect on the stories we keep — and what stories keep us 
 
-
 ### CHARACTERS
 **RABIA** - Woman, 20s-30s, MENA. An Egyptian-American Researcher, doubles as many different characters.\
 **HORUS** - Man or Non-Binary, any age, MENA. A War Chief, a God.\
 **HAGAR** - Woman, 30s-60s, MENA. A Single Mom, a Priestess.\
 **SHEH’RZADE** - Woman, any age, MENA. Part oracle, part trickster, a Storyteller. 
 
-
 ### PRODUCTION DATES
 Rehearsals take place **April 4** through **April 8, 2026** \
 Performances on **Friday April 10**, **Saturday April 11**, & **Sunday April 12**  
-
 
 ### S﻿IDES
 To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1O8414HXD18BGGy_rh2FovvFdOK0gyTGY?usp=sharing).\
 If you would like to read the full play before auditioning, please email auditions@goldenthread.org.  
 
+### AUDITIONS
+**Monday, Feb 2, 2026** at **11am - 3pm** &\
+
+#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
 
 \
 ## ReOrient Festival of Short Plays
@@ -69,15 +70,11 @@ Directed by Torange Yeghiazarian
 by Hannah Khalil\
 Directed by Wynne Chan 
 
-\
 ### PRODUCTION DATES
 Rehearsals begin **August 31, 2026**\
 Performances will take place on **October 9** - **November 1, 2026**
 
-
-\
 ## AUDITIONS
-**Monday, Feb 1, 2026** at **11am - 3pm** &\
 **Saturday, Feb 7, 6pm - 10pm**\
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
