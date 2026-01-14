@@ -44,6 +44,7 @@ Performances on **Friday April 10**, **Saturday April 11**, & **Sunday April 12*
 To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1O8414HXD18BGGy_rh2FovvFdOK0gyTGY?usp=sharing).\
 If you would like to read the full play before auditioning, please email auditions@goldenthread.org.  
 
+
 \
 ## ReOrient Festival of Short Plays
 
@@ -72,6 +73,7 @@ Directed by Wynne Chan
 ### PRODUCTION DATES
 Rehearsals begin **August 31, 2026**\
 Performances will take place on **October 9** - **November 1, 2026**
+
 
 \
 ## AUDITIONS
