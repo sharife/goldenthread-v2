@@ -52,8 +52,6 @@ The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
 
-
-
 ## ReOrient Festival of Short Plays
 
 For the list of plays, synopses, and available roles, [see this document](https://docs.google.com/document/d/13pHlchovbCsF1SiiVd8SsTugDAn9F8FJI_RDgr_NmYw/edit?usp=sharing)
@@ -93,7 +91,5 @@ Performances will take place on **October 9** - **November 1, 2026**
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
-
-
 
 **About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
