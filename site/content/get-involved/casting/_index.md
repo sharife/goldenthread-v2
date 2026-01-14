@@ -3,55 +3,97 @@ title: Casting
 sidebar:
   heading: Sign up for an audition!
   text: >-
-    **[T﻿O BOOK YOUR *PILGRIMAGE* AUDITION, PLEASE FILL OUT THIS
-    FORM](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)**
+    #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS
+    FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
 
 
-    [](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)
-
-
-    To stay informed regarding future opportunities, please submit your information to our [database!](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)
+    [](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)To stay informed regarding future opportunities, please submit your information to our [database!](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)
 
 
     **Questions?**
 
     Email [auditions@goldenthread.org](auditions@goldenthread.org) for any inquiries.
 ---
-Golden Thread Productions and Z Space are seeking \
-AEA and non-AEA actor submissions for: 
+Golden Thread Productions and Z Space are seeking\
+AEA and non-AEA actor submissions for:  
 
-## PILGRIMAGE
+## New Threads Reading Series
 
-by **Humaira Ghilzai** and **Bridgette Dutta Portman**\
-directed by **Michelle Talgarow**\
-associate directed by **Salim Razawi**
+### A Country Made of Salt
 
-**AUDITIONS**\
-Wednesday, May 21, 2025 at 6-10pm\
-Z Below, 470 Florida Street, San Francisco, CA, 94110
+by **Denmo Ibrahim**\
+directed by **Nailah Harper-Malveaux**
 
-**SYNOPSIS**\
-Five women embark on a pilgrimage to Mecca. Noor, an Afghan American immigrant, must fulfill her sister’s last wish. Her daughter, Maryam, a tech CEO, seeks to evade her legal woes, while Noor’s nieces—estranged sisters Sosan and Nadia—must complete the pilgrimage to claim their inheritance. Meanwhile, Fatima, a Black Muslim convert and Nadia’s best friend, hopes to find her biological mother. Will this pilgrimage bring the five women closer, or will secrets, rivalries, and old wounds tear them apart? 
+### SYNOPSIS
 
-**CHARACTERS**
+A baker, a mystic, and a falcon walk into an office one stormy night… Rabia Haddad is on a mission to discover a lost history. But as she builds her map, the archive begins to talk back, blurring the lines between testimony, memory and myth. Could it be that the one story she needs most is her own? A play about inheritance, letting go, and the desire to belong to something larger than yourself, A Country Made of Salt invites us to reflect on the stories we keep — and what stories keep us 
 
-* NOOR -  She/her/hers, early 60s, Afghan American. Hiding a secret.
-* MARYAM \[MAR-yum] - She/her/hers, mid-30s, Afghan American. Noor’s daughter. CEO of a biotech company battling legal woes.
-* NADIA \[NAW-dea] - She/her/hers, mid-30s, Afghan American. Noor’s niece and Maryam’s cousin. Devout but questioning. Prone to fretting.
-* FATIMA \[FAW-tima]-  She/her/hers, mid-30s. Black American. A Muslim convert. Best friends with Nadia since high school. Seeking community.
-* SOSAN \[SEW-sun] - She/her/hers, early-30s, Afghan American. Noor’s niece and Nadia’s estranged sister. Artist, non-believer but trying
+### CHARACTERS
 
-**PRODUCTION DATES**
+**RABIA** - Woman, 20s-30s, MENA. An Egyptian-American Researcher, doubles as many different characters.\
+**HORUS** - Man or Non-Binary, any age, MENA. A War Chief, a God.\
+**HAGAR** - Woman, 30s-60s, MENA. A Single Mom, a Priestess.\
+**SHEH’RZADE** - Woman, any age, MENA. Part oracle, part trickster, a Storyteller. 
 
-* Rehearsals begin on September 15, 2025. 
-* Performances will take place on October 27- November 8th, 2025.
+### PRODUCTION DATES
 
-**S﻿IDES**\
-To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1gCiNkOYB0b4s231M5aCQiYQXC_UOZfzd?usp=drive_link). \
-If you would like to read the full play before auditioning, please email [auditions@goldenthread.org](mailto:auditions@goldenthread.org). 
+Rehearsals take place **April 4** through **April 8, 2026** \
+Performances on **Friday April 10**, **Saturday April 11**, & **Sunday April 12**  
 
-#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)**
+### S﻿IDES
 
-\
-**About Golden Thread** 
-Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
+To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1O8414HXD18BGGy_rh2FovvFdOK0gyTGY?usp=sharing).\
+If you would like to read the full play before auditioning, please email auditions@goldenthread.org.  
+
+### AUDITIONS
+
+**Monday, Feb 2, 2026** at **11am - 3pm**
+The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
+
+#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+
+
+
+## ReOrient Festival of Short Plays
+
+For the list of plays, synopses, and available roles, [see this document](https://docs.google.com/document/d/13pHlchovbCsF1SiiVd8SsTugDAn9F8FJI_RDgr_NmYw/edit?usp=sharing)
+
+### Dare Not Speak 
+
+by Hassan Abdulrazzak\
+Directed by Salim Razawi 
+
+### Camouflage
+
+by Ahmed Masoud
+
+### Regarding Antigone
+
+by Banafsheh Hassani بنفشه حسنی\
+Directed by Nabra Nelson 
+
+### Homing Pigeons & Co
+
+by Hasti Jafari Jozani\
+Directed by Torange Yeghiazarian 
+
+### Blood Fruit 
+
+by Hannah Khalil\
+Directed by Wynne Chan 
+
+### PRODUCTION DATES
+
+Rehearsals begin **August 31, 2026**\
+Performances will take place on **October 9** - **November 1, 2026**
+
+### AUDITIONS
+
+**Saturday, Feb 7, 6pm - 10pm**\
+The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
+
+#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+
+
+
+**About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
