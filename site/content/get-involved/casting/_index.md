@@ -45,7 +45,8 @@ If you would like to read the full play before auditioning, please email auditio
 **Monday, Feb 2, 2026** at **11am - 3pm**
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
-#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**\
+#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+
 
 ## ReOrient Festival of Short Plays
 
