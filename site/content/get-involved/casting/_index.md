@@ -14,15 +14,15 @@ sidebar:
 
     Email [auditions@goldenthread.org](auditions@goldenthread.org) for any inquiries.
 ---
-Golden Thread Productions and Z Space are seeking\
+Golden Thread Productions is seeking\
 AEA and non-AEA actor submissions for:  
 
 ## New Threads Reading Series
 
 ### A Country Made of Salt
 
-by **Denmo Ibrahim**\
-directed by **Nailah Harper-Malveaux**
+by Denmo Ibrahim\
+directed by Nabra Nelson
 
 ### SYNOPSIS
 
@@ -51,6 +51,8 @@ If you would like to read the full play before auditioning, please email auditio
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+
+![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
 ## ReOrient Festival of Short Plays
 
