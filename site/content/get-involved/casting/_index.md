@@ -14,15 +14,15 @@ sidebar:
 
     Email [auditions@goldenthread.org](auditions@goldenthread.org) for any inquiries.
 ---
-Golden Thread Productions and Z Space are seeking\
+Golden Thread Productions is seeking\
 AEA and non-AEA actor submissions for:  
 
 ## New Threads Reading Series
 
 ### A Country Made of Salt
 
-by **Denmo Ibrahim**\
-directed by **Nailah Harper-Malveaux**
+by Denmo Ibrahim\
+directed by Nabra Nelson
 
 ### SYNOPSIS
 
@@ -51,6 +51,8 @@ If you would like to read the full play before auditioning, please email auditio
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+
+![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
 ## ReOrient Festival of Short Plays
 
@@ -91,7 +93,5 @@ Performances will take place on **October 9** - **November 1, 2026**
 The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
 
 #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
-
-
 
 **About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
