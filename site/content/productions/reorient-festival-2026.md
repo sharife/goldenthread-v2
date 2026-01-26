@@ -1,5 +1,5 @@
 ---
-title: ReOrient Festival 2026
+title: ReOrient 2026 Festival of Short Plays
 pre: ""
 season: 2026
 date: 2026-01-26T20:38:48.880Z
