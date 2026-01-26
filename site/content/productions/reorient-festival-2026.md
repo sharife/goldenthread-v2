@@ -6,18 +6,21 @@ date: 2026-01-26T20:38:48.880Z
 start: 2026-10-09T19:00:48.911Z
 end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
-description: "**ReOrient 2026 Festival of Short Plays** celebrates the return of
-  our signature program, an innovative and spirited festival of short plays from
-  or about the Middle East. **ReOrient 2026 Forum**, a convening of artists,
-  academics, activists produced in partnership with **[MENA Theater Makers
-  Alliance](https://www.menatheater.org)**, will take place during the run of
-  the festival in San Francisco."
+description: >-
+  **ReOrient 2026 Festival of Short Plays** celebrates the return of our
+  signature program, an innovative and spirited festival of short plays from or
+  about the Middle East. The 30th anniversary lineup is diverse in content and
+  style, with 5 plays selected from 83 submissions, highlighting a multiplicity
+  of Middle Eastern perspectives and identities.
+
+
+  **ReOrient 2026 Forum**, a convening of artists, academics, activists produced in partnership with **[MENA Theater Makers Alliance](https://www.menatheater.org)**, will take place during the run of the festival in San Francisco.
 background: ""
 titleimage: ""
 program: null
 videos: []
 writer: Hassan Abdulrazzak, Banafsheh Hassani, Sapehr Jafari, Hannah Khalil, and
-  Ahmed Masoud.
+  Ahmed Masoud
 director: " Wynne Chan, Nabra Nelson, Salim Razawi, and Torange Yeghiazarian"
 featuring: ""
 designteam: ""
@@ -94,11 +97,8 @@ cast:
   heading: ""
   items: []
 mentions:
-  heading: REORIENT 2026 HONORARY MENTIONS
-  text: |-
-    *Sanctuary* by Alissa Haddad-Chin\
-    *In Line of Fire* by Motasem Abu Hasan \
-    *The Eye of the Needle* by Jacob Kader
+  heading: ""
+  text: ""
 photos:
   heading: ""
   items: []
@@ -114,4 +114,10 @@ bottom:
   heading: ""
   logos: []
 ---
-The 30th anniversary lineup is diverse in content and style, with 5 plays selected from 83 submissions, highlighting a multiplicity of Middle Eastern perspectives and identities.
+**ReOrient 2026 Honorary Mentions**
+
+Golden Thread celebrates these three exceptional plays and writers:
+
+*Sanctuary* by Alissa Haddad-Chin\
+*In Line of Fire* by Motasem Abu Hasan \
+*The Eye of the Needle* by Jacob Kader
