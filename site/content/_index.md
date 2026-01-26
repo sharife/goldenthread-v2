@@ -7,6 +7,14 @@ cta: Donate now to help secure the next 30 years!
 link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
+      2026 Season Auditions\
+      a﻿re on February 2 and 7!
+    text: W﻿e're seeking AEA and non-AEA performers for our 2026 New Threads Reading
+      Series and the ReOrient Festival of Short Plays.
+    image: https://ucarecdn.com/25d2f85f-2ec2-4139-b7fa-467fe1699194/
+    cta: Find out more!
+    link: https://www.goldenthread.org/get-involved/casting
+  - subtitle: |-
       **Golden Thread Announces**\
       **A﻿rtistic Leadership Transition**
     text: Artistic Director **Sahar Assaf** steps down after four successful
