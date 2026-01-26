@@ -13,7 +13,7 @@ description: Join founder **Torange Yeghiazarian**, outgoing Artistic Director
   leaders will welcome women artists connected to Golden Thread to share music,
   spoken word, and plays and engage them in a wide-ranging conversation about
   the past, the present, and the future of the company.
-background: ""
+background: https://ucarecdn.com/057b7720-962f-45c9-acf3-20e6dc877185/
 titleimage: ""
 stage: Brava Theater Center
 address: 2781 24th St, San Francisco, CA 94110
