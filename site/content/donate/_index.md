@@ -3,8 +3,8 @@ title: "GOLDEN30: A Campaign for Our 30th Anniversary"
 sidebar:
   heading: DONATE TO GOLDEN30 NOW!
   text: "**[D﻿onate
-    n!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4\
-    RsQAI)**"
+    no!](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn\
+    4RsQAI)**"
 ---
 ![](https://ucarecdn.com/5fd121e3-0c57-45da-882f-a10bf4692fba/)
 
@@ -21,4 +21,4 @@ As we reflect on our legacy, we are overwhelmed by the number of artists, suppor
 
 **No one does what Golden Thread does, and our communities need us now more than ever.** As funding from the government and foundations dwindle, and censorship and authoritarianism become commonplace, we launch the Golden30 Campaign with a clear commitment: **to** **build a strong foundation for growth and stability, ensuring that our essential cultural home for many communities continues to thrive.**
 
-We invite you to join us in securing the next 30 years of Golden Thread’s vibrant future. **[Can we count on your donation?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+**[We invite you to join us in securing the next 30 years of Golden Thread’s vibrant future.](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
