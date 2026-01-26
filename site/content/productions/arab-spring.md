@@ -41,4 +41,4 @@ bottom:
   text: ""
   logos: []
 ---
-P﻿erformance schedule will be announced shortly.
+G﻿olden Thread Affiliated Artist Denmo Ibrahim has a long history with Golden Thread. She has been part of the Golden Thread artistic family as a writer (*ECSTASY: a waterfable*) and performer (*Our Enemies: Lively Scenes of Love and Combat*, ReOrient 2023 and ReOrient 2015).
