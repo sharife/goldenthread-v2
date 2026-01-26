@@ -52,6 +52,7 @@ lists:
 
 
           For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
+        image: https://ucarecdn.com/4796ba42-8213-42db-befa-2dd2b361c712/
       - itemstart: 2026-01-26T21:25:32.879Z
         itemend: 2026-01-26T21:25:32.891Z
         subtitle: by **Alaa Shehada**
@@ -66,7 +67,8 @@ lists:
           happened to the horse? This filmed version of Shehada’s brilliant solo
           show combines storytelling, mask, and stand-up comedy, and stands as
           an ode to the power of imagination and the resilience it brings.
-      - image: ""
+        image: https://ucarecdn.com/208bc3ce-de0f-4c54-9003-534ddfdba772/
+      - image: https://ucarecdn.com/e30666c3-0448-42c8-a901-18861a2ada60/
         subtitle: |-
           by **Denmo Ibrahim**\
           d﻿irected by **Nabra Nelson**
