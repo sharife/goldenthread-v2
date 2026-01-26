@@ -39,110 +39,61 @@ misc: ""
 lists:
   - heading: REORIENT FESTIVAL 2026 LINE-UP
     items:
-      - image: ""
-        subtitle: >-
-          by **Hassan Abdulrazzak** (London-based, Iraq)
-
-
-          A hard-hitting play by artistic affiliate Hassan Abdulrazzah (*Love, Apples, and Bombs*), *Dare Not Speak* focuses on a young child, murdered in a genocide, as she pitches her story to a theater artistic director who is reluctant to put it on stage.
-        text: Ahmed is waiting in an immigration line as his thoughts race, skid, and
-          trip him up as he anticipates the things that might be asked, the
-          papers he’ll have to show, and the personal information he might have
-          to share. It is not a pretty stream of consciousness.
+      - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
+        subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
+        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzah (*Love,
+          Apples, and Bombs*), *Dare Not Speak* focuses on a young child,
+          murdered in a genocide, as she pitches her story to a theater artistic
+          director who is reluctant to put it on stage.
         title: Dare Not Speak
         itemstart: ""
         itemend: ""
-      - image: ""
-        subtitle: by Arti Ishak
-        text: Two former Arabic school rivals meet 20 years later when an unexpected
-          reveal changes the nature of their reunion.
-        title: Closure
+      - image: https://ucarecdn.com/e583b8fd-7a6e-4f4d-9e72-263c88df55e6/
+        subtitle: by **Banafsheh Hassani** (Montreal-based, Iran)
+        text: A new solo show Inspired by a true story, the classic Greek tragedy of
+          Antigone, war photography, fleeting memories, a revolution, state
+          propaganda, a song she sang, and cringe diaspora poetry where “every
+          line is a call to action.
+        title: Regarding Antigone
         itemstart: ""
         itemend: ""
-      - image: ""
-        subtitle: by Adam Ashraf Elsayigh
-        text: Lebanese Gen-Z Partyboi Sam is in trouble with his tamer, older, White
-          boyfriend Joel. But it's really not his fault Joel went snooping,
-          finding Sam's FUCK FORM, with all the raunchy descriptions of his
-          recent hookups. So here they are at ODYSSEY, San Francisco's hottest,
-          new Couple Therapy practice. Will Sam and Joel manage to fix this hot
-          mess with the assistance of their overwhelmed but well-meaning
-          counselor, Sharon... or is this all doomed for failure?
-        title: Data Queen
+      - image: https://ucarecdn.com/2a0da581-79c2-4a21-bfd5-03413194c5ed/
+        subtitle: by **Sapehr Jafari** (Bay Area-based, Iran)
+        text: Two friends develop a weekly ritual of attending the Iranian diaspora
+          protests in San Francisco every weekend, to try to prevent their
+          countrymen from being executed in the Islamic Republic prisons. But
+          their differences become more disastrous with each passing day, and as
+          activism takes a toll on them, it takes everything they got to not
+          murder each other.
+        title: Homing Pigeons & Co
         itemstart: ""
         itemend: ""
-      - image: ""
-        subtitle: b﻿y Katrin Arefy
-        text: Discovering a pile of dead bodies in the middle of their office, work
-          colleagues seem nonchalant to the carnage and instead become embroiled
-          in petty arguments. Their repetitive discussions and responses are
-          predetermined and non-negotiable.
-        title: A Massacre
+      - image: https://ucarecdn.com/4de80594-ec03-4457-8ef1-e1d03a186768/
+        subtitle: by **Hannah Khalil** (London-based, Palestine/Ireland)
+        text: "*Blood Fruit* tells the true story of Mary Manning, a young shop worker
+          in 1980s Dublin who refused to handle South African grapefruits and
+          convinced her co-workers to strike to protest the Apartheid regime.
+          Affiliated artist Hannah Khalil (*Scenes From 71* Years*) weaves a
+          moving story about the power of protest and the difference individuals
+          can make against systems of oppression."
+        title: Blood Fruit
         itemstart: ""
         itemend: ""
-      - image: ""
-        subtitle: by Judith Boyajian Strang-Waldau
-        text: A young woman recounts sailing to America during the Armenian Genocide to
-          marry a strange man on Ellis Island.
-        title: Picture Bride
+      - image: https://ucarecdn.com/06a93e17-6d9d-472d-95fa-c3aa191180f6/
+        subtitle: by **Ahmed Masoud** (London-based, Gaza, Palestine)
+        text: Award-winning writer and director Ahmed Masoud brings to life surprisingly
+          funny and boldly human stories about four young people in Palestine
+          and Israel. Thirteen-year-old Thaer is on a boat in the waters between
+          Turkey and Greece. He is troubled, but not because he might drown any
+          minute. Nibal is finishing her SAT exams in an American style school
+          in Ramallah while well-meaning suitors pester her father with marriage
+          proposals. Gaza taxi driver Zeid uses Tinder obsessively to try to
+          find a date. Sami dreams of becoming a famous actor, but as an Arab
+          actor, is he willing to take on the roles he’s offered to get known by
+          established Israeli directors?
+        title: Camouflage
         itemstart: ""
         itemend: ""
-      - image: ""
-        subtitle: by Hamed Sinno
-        text: In a farce of a play within a play within a play, fractals of a writer’s
-          identity battle over controlling the narrative. When they start
-          eliminating each other, it becomes unclear who is writing whom.
-        title: The Suicide Bomber
-        itemstart: ""
-        itemend: ""
-  - items:
-      - itemstart: 2023-09-15T02:18:07.786Z
-        itemend: 2023-09-15T02:18:07.823Z
-        text: >-
-          This year’s ReOrient Festival marks our third collaboration with the
-          [Literary Managers and Dramaturgs of the Americas
-          (LMDA)](https://lmda.org/). The partnership brings together two
-          organizations that value challenging cultural preconceptions through
-          provocative programming and dialogue, and is curated by LMDA’s
-          Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad.
-          The ReOrient Dramaturgy Team consists of a team of professional
-          dramaturgs who bring their expertise in new play development,
-          research, contextualization, and theatre writing. This year’s
-          partnership augments the team to include a Publications Dramaturg to
-          join the ReOrient Camp & Festival and write a feature article on
-          ReOrient artists and the creative process that brings audiences
-          behind-the-scenes (see link below, or read it at
-          [lmda.org](https://lmda.org/reorient-2023-festival)). Be sure to check
-          out the Dramaturgs’ program notes and playwright messages curated by
-          the team in the [Festival
-          Program](https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html)! 
-
-
-          In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
-        image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
-  - heading: MENATMA Convening
-    items:
-      - itemstart: 2023-09-15T02:03:28.838Z
-        itemend: 2023-09-15T02:03:28.872Z
-        title: October 28 & 29, 2023
-        text: >-
-          As part of our ReOrient Festival and Forum, Golden Thread hosts
-          the 4th annual national convening of the Middle Eastern North African
-          Theater Makers Alliance
-          ([MENATMA](https://www.menatheatre.org/fall-2023-convening)) co-produced
-          with [Art2Action, Inc.](https://www.art2action.org/)
-
-
-          MENATMA amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. The 2023 Annual Convening brings together SWANA artists, activists, and scholars from around the country for panel and roundtable discussions, workshops, artistic presentations, networking opportunities, and more. This year’s convening is co-sponsored by [](https://www.newarabamericantheaterworks.org/)[Silk Road Rising](https://www.silkroadrising.org/), [Noor Theatre](https://www.noortheatre.org/), [New Arab American Theatre Works](https://www.newarabamericantheaterworks.org/), [Diaspora Arts Connection](https://www.diasporaartsconnection.org/), and [Theatre Communications Group THRIVE! Program](https://www.tcg.org/Web/Our-Work/Grant-and-Professional-Development-Programs/THRIVE/THRIVE-Overview.aspx). The Convening is made possible in part by generous support from the Ford Foundation.
-
-
-          **Registration is free; advanced registration is required.**
-
-
-          **For more information, click [here](https://goldenthread.org/posts/reorient-forum-menatma-convening-2023/).**
-        cta: ""
-        pre: MIDDLE EASTERN NORTH AFRICAN THEATER MAKERS ALLIANCE 2023 FALL CONVENING
-        image: https://ucarecdn.com/bb349850-e9de-4ab4-8363-b241e00a6e7a/
 grids: []
 cast:
   heading: ReOrient Festival of Short Plays - Creative Team
