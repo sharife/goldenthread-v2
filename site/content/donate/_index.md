@@ -2,7 +2,10 @@
 title: "GOLDEN30: A Campaign for Our 30th Anniversary"
 sidebar:
   heading: DONATE TO GOLDEN30 NOW!
-  text: D﻿onate no
+  text: "[D﻿onate now to join us in securing the next 30 years of Golden Thread's
+    vibrant
+    future.](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z000\
+    00tn4RsQAI)"
 ---
 ![](https://ucarecdn.com/5fd121e3-0c57-45da-882f-a10bf4692fba/)
 
