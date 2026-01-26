@@ -11,7 +11,7 @@ description: Yusef, a recovering addict and Dina, his controlling big sister,
   deadbeat Dad. Can they figure out a) how to do an Islamic funeral before his
   body goes cold, b) who their estranged father was, and c) what family means
   without killing each other? Inshallah.
-background: https://ucarecdn.com/51625b31-2551-4bd7-a496-5e2fe046f779/
+background: https://ucarecdn.com/50bd23b6-953d-4ac8-988d-07eec12fee9e/
 titleimage: ""
 programlabel: ""
 program: ""
