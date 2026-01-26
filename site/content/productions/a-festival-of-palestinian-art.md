@@ -5,7 +5,7 @@ season: 2026
 date: 2026-01-26T21:04:56.409Z
 start: 2026-04-09T19:00:56.417Z
 end: 2026-04-19T22:00:56.425Z
-heading: Think you know the Middle East? Think again!
+heading: ""
 description: >-
   Uplifting Palestinian voices and stories in theater, film, and stand-up
   comedy, this unique festival builds upon Golden Thread’s decades-long
