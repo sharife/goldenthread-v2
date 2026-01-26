@@ -7,19 +7,18 @@ start: 2026-10-09T19:00:48.911Z
 end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
 description: >-
-  ReOrient 2023 celebrates the return of our signature program, an innovative
-  and spirited festival of short plays from or about the Middle East. The
-  dizzying line-up is diverse in content and style, with 6 plays selected from
-  113 submissions, highlighting a multiplicity of Middle Eastern perspectives
-  and identities. **Think you know the Middle East? Think again!** 
+  **ReOrient 2026 Festival of Short Plays** celebrates the return of our
+  signature program, an innovative and spirited festival of short plays from or
+  about the Middle East. The 30th anniversary lineup is diverse in content and
+  style, with 5 plays selected from 83 submissions, highlighting a multiplicity
+  of Middle Eastern perspectives and identities. 
 
 
-  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
-background: https://ucarecdn.com/349688f0-d55c-4c62-a618-d141623b14fa/
-titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
+  **ReOrient 2026 Forum**, a convening of artists, academics, activists produced in partnership with **[MENA Theater Makers Alliance](https://www.menatheater.org)**, will take place during the run of the festival in San Francisco.
+background: ""
+titleimage: ""
 program: null
-videos:
-  - id: IE8vFyYv4Xw
+videos: []
 writer: Katrin Arefy, Adam Ashraf Elsayigh, Yussef El Guindi, Arti Ishak, Hamed
   Sinno, Judith Boyajian Strang-Waldau
 director: Sahar Assaf, Amal Bisharat, Susannah Martin, Adin Walker, Becca Wolff
@@ -28,32 +27,29 @@ featuring: Sofia Ahmad, Hamzeh Daoud, John Fisher, Neamah Hussein, Emily M.
 designteam: Carlos Aceves (Scenic), Maxwell Bowman (Lighting), Bahar Royaee
   (Sound), Briana Lisette Cardenas (Costume), Vincent Chau (Props)
 dramaturg: Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh
-additional: Publicity Photography by Amal Bisharat; Production Photography by
-  David Allen and by Amal Bisharat
+additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
-visitlink: https://goldenthread.org/about/visit/
+visitlink: ""
 ticketlink: ""
-ticketinfo: "$15-100 "
-externallink: https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html
-externallinklabel: View the Digital Program
-misc: "Six short plays, presented as one evening of theatre. Run time: 2h 15m,
-  plus intermission"
+ticketinfo: ""
+externallink: ""
+externallinklabel: ""
+misc: ""
 lists:
-  - heading: REORIENT FESTIVAL 2023 LINE-UP
+  - heading: REORIENT FESTIVAL 2026 LINE-UP
     items:
-      - itemstart: 2023-10-13T02:13:16.860Z
-        itemend: 2023-10-13T02:13:16.891Z
-        subtitle: ""
-        text: For content advisories and additional information visit our
-          content **[guide](https://goldenthread.org/posts/content-guide/).**
       - image: ""
-        subtitle: by Yussef El Guindi
+        subtitle: >-
+          by **Hassan Abdulrazzak** (London-based, Iraq)
+
+
+          A hard-hitting play by artistic affiliate Hassan Abdulrazzah (*Love, Apples, and Bombs*), *Dare Not Speak* focuses on a young child, murdered in a genocide, as she pitches her story to a theater artistic director who is reluctant to put it on stage.
         text: Ahmed is waiting in an immigration line as his thoughts race, skid, and
           trip him up as he anticipates the things that might be asked, the
           papers he’ll have to show, and the personal information he might have
           to share. It is not a pretty stream of consciousness.
-        title: Stamp Me
+        title: Dare Not Speak
         itemstart: ""
         itemend: ""
       - image: ""
