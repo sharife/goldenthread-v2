@@ -13,7 +13,7 @@ description: >-
 
 
   Projects featured include the return of the sold-out ***AMREEKA 2026: The Comedy Show***, curated by **Wafaa Bilal** and featuring an all-Palestinian line-up; a New Threads developmental workshop of ***A Country Made of Salt*** by **Denmo Ibrahim**, directed by **Nabra Nelson**; and a filmed version of **Alaa Shehada**’s acclaimed solo show ***The Horse of Jenin**.*
-background: ""
+background: https://ucarecdn.com/0e5fa9ab-4dba-4a3e-875c-ef59cb96aef4/
 titleimage: ""
 program: null
 videos: []
