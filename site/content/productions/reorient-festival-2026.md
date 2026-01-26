@@ -97,8 +97,13 @@ cast:
   heading: ""
   items: []
 mentions:
-  heading: ""
-  text: ""
+  heading: ReOrient 2026 Honorary Mentions
+  text: |-
+    Golden Thread celebrates these three exceptional plays and writers:
+
+    *Sanctuary* by Alissa Haddad-Chin\
+    *In Line of Fire* by Motasem Abu Hasan \
+    *The Eye of the Needle* by Jacob Kader
 photos:
   heading: ""
   items: []
@@ -114,10 +119,4 @@ bottom:
   heading: ""
   logos: []
 ---
-**ReOrient 2026 Honorary Mentions**
-
-Golden Thread celebrates these three exceptional plays and writers:
-
-*Sanctuary* by Alissa Haddad-Chin\
-*In Line of Fire* by Motasem Abu Hasan \
-*The Eye of the Needle* by Jacob Kader
+D﻿etailed schedule for the Festival and the Forum will be announced shortly.
