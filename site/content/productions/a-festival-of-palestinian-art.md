@@ -68,7 +68,7 @@ lists:
           show combines storytelling, mask, and stand-up comedy, and stands as
           an ode to the power of imagination and the resilience it brings.
         image: https://ucarecdn.com/208bc3ce-de0f-4c54-9003-534ddfdba772/
-      - image: https://ucarecdn.com/e30666c3-0448-42c8-a901-18861a2ada60/
+      - image: https://ucarecdn.com/99e5073e-fc08-4458-bcdf-e1b6bbc12d15/
         subtitle: |-
           by **Denmo Ibrahim**\
           d﻿irected by **Nabra Nelson**
