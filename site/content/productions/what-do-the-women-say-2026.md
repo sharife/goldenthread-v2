@@ -32,4 +32,4 @@ bottom:
   text: "**[W﻿omenArts](https://www.womenarts.org/)** is dedicated to increasing
     visibility and opportunities for diverse women artists in all art forms."
 ---
-T﻿his event will be followed by a casual reception with the three artistic leaders.
+**A﻿ co-production with Brava**
