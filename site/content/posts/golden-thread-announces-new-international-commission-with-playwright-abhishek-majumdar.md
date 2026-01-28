@@ -9,7 +9,7 @@ description: Golden Thread Productions, in collaboration with Humanitas Media,
   Guantánamo Bay, adapted from detailed accounts originally written by his
   lawyer, Joshua Colangelo-Bryan.
 ---
-[Golden Thread Productions](https://www.goldenthread.org)**Golden Thread Productions**, in collaboration with **Humanitas Media**, is proud to announce a new international commission with acclaimed playwright **Abhishek Majumdar**. The commission will develop a groundbreaking new play inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, **Joshua Colangelo-Bryan**.
+[](https://www.goldenthread.org)**Golden Thread Productions**, in collaboration with **Humanitas Media**, is proud to announce a new international commission with acclaimed playwright **Abhishek Majumdar**. The commission will develop a groundbreaking new play inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, **Joshua Colangelo-Bryan**.
 
 Drawing on interviews with a wide range of voices connected to Guantánamo, ***The 11 Lives of Jaber Mohammad*** (working title) based on Joshua Colangelo-Bryan's book, *[Through the Gates of Hell: American Injustice at Guantánamo Bay](https://humanitasmedia.org/human-rights-books/)*, will weave together a mosaic of perspectives spanning Cuba, the United States, Bahrain, Pakistan, Afghanistan, and Saudi Arabia. Through this lens, Majumdar seeks to illuminate the human, political, and moral dimensions of one of the most complex and haunting sites of contemporary history.
 
