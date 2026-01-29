@@ -15,15 +15,17 @@ items:
     cta: Find out more!
     link: https://www.goldenthread.org/get-involved/casting
   - subtitle: |-
-      **Golden Thread Announces**\
-      **A﻿rtistic Leadership Transition**
-    text: Artistic Director **Sahar Assaf** steps down after four successful
-      seasons. P﻿lease join us in welcoming celebrated Nubian-Egyptian-American
-      Artistic Leader **Nabra Nelson** as Golden Thread's third Artistic
-      Director.
-    image: https://ucarecdn.com/80243299-43c1-4de7-99e3-2540d34bb65b/
+      **A New International Commission** \
+      **with Playwright Abhishek Majumdar**
+    text: As part of our 30th Anniversary programming, we've partnered with
+      **Humanitas Media** to commission acclaimed playwright **Abhishek
+      Majumdar**. His new play *The 11 Lives of Jaber Mohammad* (working
+      title)is inspired by the real-life story of a man imprisoned for eight
+      years at Guantánamo Bay, adapted from detailed accounts originally written
+      by his lawyer, **Joshua Colangelo-Bryan**.
+    image: https://ucarecdn.com/56ffe766-72ed-4dcf-b98d-dc1b63712269/
     cta: Find out more!
-    link: https://goldenthread.org/posts/golden-thread-announces-artistic-leadership-transition/
+    link: https://goldenthread.org/posts/golden-thread-announces-new-international-commission-with-playwright-abhishek-majumdar/
   - link: https://www.youtube.com/@24HoursforPalestine
     cta: Watch all sessions on YouTube
     image: https://ucarecdn.com/44788a6e-33e2-4ac4-99fe-4987904a520c/
