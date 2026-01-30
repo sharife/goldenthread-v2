@@ -135,32 +135,6 @@ staff:
         Soluna feels blessed to be surrounded by so many brilliant artists, and
         can’t wait to bring the incredible visions of Crowded Fire and Golden
         Thread into reality!"
-    - name: Evren Odcikin
-      credit: 2024-25 Artist-in-Residence
-      image: https://ucarecdn.com/fb3200b7-c962-4e19-a179-a72da2677f65/
-      bio: "**EVREN ODCIKIN** *(he/him)* is a Turkish-American director, writer, and
-        arts leader based in New York City and San Francisco. He is a celebrated
-        champion of historically-excluded voices in the American theater through
-        work that is heart-centered, politically engaged, globally minded, and
-        centers joy as resistance. He is committed to building his work with and
-        for the communities it represents. Recent directing: *The Great
-        Privation (How to flip ten cents into a dollar)* by Nia Akilah Robinson
-        (Soho Rep, NY Times Critic’s Pick), *Macbeth* and Mona Mansour’s
-        *unseen* (Oregon Shakespeare Festival), Eric Reyes Loo’s *Simple Mexican
-        Pleasures* (NCTC), christopher oscar peña’s *our orange sky* (Profile
-        Theatre), *Torch Song* (Marin Theatre), Sylvia Khoury’s *Selling Kabul*
-        (Northern Stage), as well as workshops of Adam Ashraf Elsayigh's *ALAA:
-        A Family Trilogy* (Berkeley Rep’s Ground Floor and Golden Thread) and
-        Lauren Gunderson's *Muse of Fire* (Marin Shakes and Magic Theatre).
-        Playwriting and translation: Commissions, workshops, and productions at
-        Cal Shakes, NYU Abu Dhabi, Golden Thread, Crowded Fire, and Custom Made.
-        Evren served as the Associate Artistic Director and Director of Artistic
-        Programming at Oregon Shakespeare Festival (2019-2023) and is a founding
-        board member of Middle Eastern North African Theater Makers Alliance. He
-        is the proud 2024-25 Artist in Residence at Golden Thread Productions
-        and a 2025 Iris Lab Fellow with UC Santa Cruz.**
-        [odcikin.com](https://www.odcikin.com/)**"
-      link: ""
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -226,54 +200,6 @@ staff:
 board:
   heading: Board of Trustees
   items:
-    - name: Mona Masri
-      bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
-        fairer world where everyone has the resources they need to thrive. She’s
-        spent her career working on reducing the racial and gender wealth gap
-        through big ideas that address structural inequities like Guaranteed
-        Basic Income, tax credits, affordable housing, and entrepreneurship. A
-        proud California native with Lebanese roots, Mona also has a deep love
-        for the arts, especially those that challenge stereotypes about the
-        SWANA region and celebrate its rich and vibrant cultures. Growing up as
-        a theatre nerd, she loved acting and rarely missed watching a
-        performance during her college years. Now, she leaves the acting to the
-        pros but still seeks out great productions whenever she can. When she’s
-        not working, she enjoys hiking, baking, and spending time with family
-        and friends in Oakland, on the traditional lands of the Ohlone people."
-      image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
-      credit: Treasurer
-    - bio: <strong>Nora el Samahy</strong>’s *(she/her)* professional acting career
-        began in 1998 as a Fairy in San Francisco Shakespeare Festival’s
-        production of A MIDSUMMER NIGHT’S DREAM. She then went on to work with
-        Campo Santo, Golden Thread Productions, Alter Theater, Aurora Theatre,
-        Magic Theatre, foolsFURY, Traveling Jewish Theatre, Berkeley Repertory
-        Theatre, Exit Theater, Theatre Rhinoceros, Woman’s Will, Shotgun
-        Players, African American Shakespeare Company, among others. In 2013,
-        Nora founded a performance company called Affinity Project with Atosa
-        Babaoff, Beatrice Basso, and Emily Hoffman. Nora is a Pilates teacher
-        and co-owner of studio 74 pilates with business partner Jennifer
-        Moulton.  She received her BA in psychology from Wellesley College. Love
-        and thanks to Patrick and Ziyad.
-      credit: Secretary
-      image: /img/archive/2015/08/NoraelSamahy300x300.jpg
-      name: Nora el Samahy
-    - bio: "<strong>John Atwood</strong> *(he/him)* is a Learning and Development
-        Manager at Google. He partners with engineering leadership to grow
-        engineering talent and scale learning resources globally. During his
-        time at Google, John has worked in the U.S. and Switzerland, and has
-        visited over 10 distributed offices across Asia, Europe, and South
-        America. Previous to Google, John performed with a number of Bay Area
-        theatre companies including: California Shakespeare Theater, Crowded
-        Fire Theater, New Conservatory Theatre, Impact Theatre, and Theatre
-        Rhinoceros. John’s passion for theatre stems from his belief that
-        theatre builds community and serves as a catalyst for important dialogue
-        and positive change. He is absolutely thrilled to serve on the board for
-        Golden Thread Productions. John holds an M.S. in Organization
-        Development from Pepperdine University, and earned a Bachelors degree in
-        Communication and Theatre from the University of California, San Diego."
-      credit: ""
-      image: /img/archive/2015/03/JohnAtwood_300x300.jpg
-      name: John Atwood
     - name: "Nancy Chemaly "
       image: https://ucarecdn.com/fe9ca78a-d6fa-4162-b9e0-ff0a3e780a88/
       bio: >-
@@ -311,6 +237,22 @@ board:
 
 
         Humaira was born and raised in Kabul, Afghanistan but her family fled the country right after the Russian invasion in 1979 and they made the Bay Area their new home. Humaira has traveled to six continents, 37 countries—including a pilgrimage to Mecca. Humaira attended Mills College and San Jose State University and has a degree in International Business. She started her career in high tech giants Sun Microsystems and Oracle Corporation but took a turn towards philanthropy and the arts mid-career. Humaira is a member of MENA Theatre Makers Alliance and the anti-racist cohort, Making Good Trouble, focused on advocating for equity of BIPOC representation in the arts.
+    - name: Mona Masri
+      bio: "**Mona Masri**’s *(she/her)* professional life has focused on building a
+        fairer world where everyone has the resources they need to thrive. She’s
+        spent her career working on reducing the racial and gender wealth gap
+        through big ideas that address structural inequities like Guaranteed
+        Basic Income, tax credits, affordable housing, and entrepreneurship. A
+        proud California native with Lebanese roots, Mona also has a deep love
+        for the arts, especially those that challenge stereotypes about the
+        SWANA region and celebrate its rich and vibrant cultures. Growing up as
+        a theatre nerd, she loved acting and rarely missed watching a
+        performance during her college years. Now, she leaves the acting to the
+        pros but still seeks out great productions whenever she can. When she’s
+        not working, she enjoys hiking, baking, and spending time with family
+        and friends in Oakland, on the traditional lands of the Ohlone people."
+      image: https://ucarecdn.com/39ac4617-2315-428a-9a68-7b143b329ce5/-/crop/206x214/38,135/-/preview/
+      credit: Treasurer
     - name: Michelle Mulholland
       bio: "**Michelle Mulholland** *(she/her)* is an arts administrator, non-profit
         manager, and costume designer with more than 20 years of
@@ -332,6 +274,23 @@ board:
         Theatre, Cutting Ball Theater, and Brava Theater. She has also worked
         with Teatro Zinzanni, ACT and the SFMOMA."
       image: https://ucarecdn.com/8d6f8940-0c65-481c-ae39-131ce879a0dc/
+    - name: Evren Odcikin
+      image: https://ucarecdn.com/c295cb69-4043-41ea-92c8-0d2e49e3627b/
+      bio: >-
+        **EVREN ODCIKIN** *(he/him)* is a Turkish-American director, writer, and
+        arts leader based in New York City and San Francisco. He is a celebrated
+        champion of historically-excluded voices in the American theater through
+        work that is heart-centered, politically engaged, globally minded, and
+        centers joy as resistance. He is committed to building his work with and
+        for the communities it represents. He brings 20+ years of experience
+        with artistic leadership and administration, marketing and
+        communications, and fundraising at major non-profits like Oregon
+        Shakespeare Festival, KQED, American Conservatory Theater, and Magic
+        Theatre.
+
+
+        He is excited to be back home with Golden Thread in this new capacity -- having served on the staff as Director of New Works, as an affiliated artist, and most recently as the proud 2024-25 Artist in Residence.** [odcikin.com](https://www.odcikin.com/)**
+      link: ""
     - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
         property law since 1992. Prior to that, he had an engineering career in
         Silicon Valley as an integrated circuit designer in the microelectronics
