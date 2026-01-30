@@ -1,11 +1,21 @@
 ---
 title: Middle East Center Stage
-headline: "GOLDEN30: A Campaign for Our 30th Anniversary"
-subtitle: The $300,000 campaign is the largest in Golden Thread's history
-background: https://ucarecdn.com/c918f90b-0fcd-4f06-a73c-014587b52507/
-cta: Donate now to help secure the next 30 years!
-link: https://goldenthread.org/donate/
+headline: Golden Thread 2026 Season
+subtitle: 30 Years of Creativity, Courage and Connection
+background: https://ucarecdn.com/7a6af94d-88b4-424b-a509-25928a4fbd95/
+cta: Find out about ambitious line-up
+link: https://goldenthread.org/season/
 items:
+  - subtitle: |-
+      **G﻿olden30 Campaign** \
+      **F﻿or Our 30th Anniversary**
+    text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
+      impressive milestone with an audacious Golden30 Campaign to raise $300,000
+      over the next 12 months! **Will you join us in securing the next 30 years
+      for Golden Thread?**
+    image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
+    cta: Donate to GOLDEN30 now!
+    link: https://goldenthread.org/donate/
   - subtitle: |-
       2026 Season Auditions\
       a﻿re on February 2 and 7!
@@ -26,15 +36,4 @@ items:
     image: https://ucarecdn.com/56ffe766-72ed-4dcf-b98d-dc1b63712269/
     cta: Find out more!
     link: https://goldenthread.org/posts/golden-thread-announces-new-international-commission-with-playwright-abhishek-majumdar/
-  - link: https://www.youtube.com/@24HoursforPalestine
-    cta: Watch all sessions on YouTube
-    image: https://ucarecdn.com/44788a6e-33e2-4ac4-99fe-4987904a520c/
-    text: "The livestreamed event on September 27-28, 2025 was a true communal
-      effort: **16 partners**, **100+ presenters**, and **11 tech and producing
-      staff**. And our audiences responded in kind! We are moved by the reach of
-      the stream: **1,126 unique viewers** watched the offerings from **42
-      countries**!"
-    subtitle: |-
-      **Thank you for your support of**\
-      ***2﻿4 Hours for Palestine (Part 2)***
 ---
