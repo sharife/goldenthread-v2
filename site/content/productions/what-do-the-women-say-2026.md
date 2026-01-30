@@ -3,8 +3,8 @@ title: What Do the Women Say? 2026
 pre: Annual Celebration of International Women’s Day
 season: 2026
 date: 2026-01-26T21:33:10.021Z
-start: 2026-03-08T19:00:10.030Z
-end: 2026-03-08T22:00:10.037Z
+start: 2026-03-09T00:00:10.030Z
+end: ""
 heading: 30th Anniversary Edition with Torange Yeghiazarian, Sahar Assaf and
   Nabra Nelson
 description: Join founder **Torange Yeghiazarian**, outgoing Artistic Director
