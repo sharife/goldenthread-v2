@@ -7,12 +7,12 @@ end: 2024-10-05T03:42:13.648Z
 description: >-
   Devised and directed by **Andrea Assaf**\
 
-  f﻿eaturing renowned Syrian opera singer **Lubana Al Quntar** \
+  featuring renowned Syrian opera singer **Lubana Al Quntar** \
 
   and Turkish violinist and music director **Eylem Basaldi**
 
 
-  An episodic, multimedia performance, ***11Reflections: San Francisco*** features internationally renowned performers alongside Bay Area artists reflecting on the impact of post-9/11 policies through stories, poetry, music and more, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine. 
+  An episodic, multimedia performance, ***11Reflections: San Francisco*** features internationally renowned performers alongside Bay Area artists reflecting on the impact of post-9/11 policies through stories, poetry, music and more, illuminating our collective experiences since 2001—from the fall of the Twin Towers, to the U.S. wars on Iraq and Afghanistan, to the Muslim Ban, to the funding of genocide in Palestine.
 
 
   ***11Reflections: San Francisco*** is part of a new national series of performance works by Andrea Assaf, ***Eleven Reflections on the Nation***, a performance on Arab American identity, Wars on/of Terror, and “the constant, quiet rain of death / amidst beauty” in a post-9/11 world. In each participating city, the project engages local artists and community members.
@@ -114,9 +114,9 @@ cast:
         Rouhana, and Bassam Saba. Clarissa has had the privilege of performing
         around the country and internationally.
 
-        They have incorporated oud with a multitude of genres ranging from R&B to Pop to Hip Hop and Rap. Their latest album titled 'Hassan Sabi' is out now on all streaming platforms.
+        They have incorporated oud with a multitude of genres ranging from R&B to Pop to Hip Hop and Rap. Their latest album titled 'Hassan Sabi' is out now on all streaming platforms.
 
-        Their music has been featured on Netflix, radio, film, and exhibits around the world. They released a joint poetry-oud EP with Palestinian poet Mohammed El-Kurd in January of 2019 titled Bellydancing on Wounds as well as their solo EP Bayati.
+        Their music has been featured on Netflix, radio, film, and exhibits around the world. They released a joint poetry-oud EP with Palestinian poet Mohammed El-Kurd in January of 2019 titled Bellydancing on Wounds as well as their solo EP Bayati.
 
         Clarissa has a passion for teaching and sharing knowledge on Arab music and Palestinian culture, as well as performing and hopes to continue to carve out spaces for oud share this tradition with others. [clarissabitar.com](https://clarissabitar.com/#/)
       link: ""
@@ -361,8 +361,8 @@ bottom:
     Art2Action, and in collaboration with Aviva Arts and Red Poppy Art House.
 
 
-    *11Reflections: San Francisco* is made possible in part by generous support from the Sam Mazza Foundation, the Zellerbach Family Foundation, Women Arts, and the Walter and Elise Haas Foundation. Additional Art2Action funding is provided by the Ford Foundation.
+    *11Reflections: San Francisco* is made possible in part by generous support from the Sam Mazza Foundation, the Zellerbach Family Foundation, Women Arts, and the Walter and Elise Haas Foundation. Additional Art2Action funding is provided by the Ford Foundation.
 ---
 ### An Ensemble Creation Process
 
-***11Reflections: San Francisco*** w﻿as built by an amazing ensemble of artists of Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area. In May, 2024, these artists and community members gathered in Story Circles to take part in workshops and creative writing exercises in response to this question: "What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?" T﻿hese Story Circles were hosted by our partners, Aviva Arts and Red Poppy Art House.
+***11Reflections: San Francisco*** was built by an amazing ensemble of artists of Southwest/Central Asian and North African (SWANA), Middle Eastern/North African/South Asian (MENASA), and Muslim American artists, BIPOC artists and allies, and impacted communities in the Bay Area. In May, 2024, these artists and community members gathered in Story Circles to take part in workshops and creative writing exercises in response to this question: "What has the impact of the post-9/11 era been in your city, and how does it connect to what’s happening today?" These Story Circles were hosted by our partners, Aviva Arts and Red Poppy Art House.

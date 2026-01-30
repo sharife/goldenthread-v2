@@ -17,11 +17,11 @@ description: >-
   The livestreamed event was a true communal effort: **16 partners**, **100+ presenters**, and **11 tech and producing staff**. And our audiences responded in kind! We are moved by the reach of the stream: **1,126 unique viewers** watched the offerings from **42 countries**!
 
 
-  #### **[W﻿atch all sessions on YouTube](https://www.youtube.com/@24HoursforPalestine)**
+  #### **[Watch all sessions on YouTube](https://www.youtube.com/@24HoursforPalestine)**
 
 
-  #### [](https://www.youtube.com/@24HoursforPalestine)**[R﻿esources with ways to engage, donate, and advocate](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)**
-titleimage: ""
+  #### [](https://www.youtube.com/@24HoursforPalestine)**[Resources with ways to engage, donate, and advocate](https://goldenthread.org/posts/24-hours-for-palestine-part-2-resources/)**
+titleimage: https://ucarecdn.com/0a915cab-8214-4765-8101-09c8030b1dc8/
 programlabel: Digital Program
 program: https://qrcodes.pro/RVYIfz?preview=true
 additional: ""
@@ -32,13 +32,13 @@ ticketinfo: ""
 externallink: https://goldenthread.org/posts/24-hours-for-palestine-part-2-sessions-1/
 externallinklabel: Full Schedule and Session Information
 ---
-Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
+Organized and co-produced by **Golden Thread Productions** and **Art2Action**, in partnership with The Arab American National Museum, Artists on the Frontline, Ashtar Theatre, Aviva Arts, Calling Up Justice, Decolonial Dharma, Donkeysaddle Projects, Dunya Productions, The Freedom Theatre, Meem Collective, New Arab American Theater Works, Noor Theatre, The Palestine Institute for Public Diplomacy (PIPD), and Zoukak Theatre Company.
 
 ![](https://ucarecdn.com/a00b8b75-d59f-4e53-a800-b9164f9923e4/)
 
-We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine. 
+We come together again, over a year later, for the second edition of 24 Hours for Palestine because the genocide that Israel is committing in Gaza has not yet ended, nor has the systematic erasure, expulsion, and violence against the Palestinian people, which has continued for over 76 years. We come together now, from North America to the Middle East and beyond, to speak out against mass starvation, ethnic cleansing, forced displacement, cultural erasure, and the mass murder of civilians, journalists, doctors, children, and human beings based on race, culture, religion or ethnicity. We come together to resist censorship, and to speak out despite the systematic silencing of Palestinian voices, and voices for Palestine.
 
 Collectively, we call for an immediate and permanent end to Israel’s genocidal military campaign against the Palestinian people, a campaign that has received military aid from governments including the United States, France, United Kingdom, Germany, India, Italy, Netherlands, and Serbia, as well as the support of countless multinational corporations in the private sector. We call for an end to Israel's apartheid system and illegal occupation of Palestine. We call for the complete and unequivocal liberation of the Palestinian people, including the right of return. And we call on our global community of theatre-makers, artists, and cultural leaders to stand with us, to speak out with us. We call on you to stand for justice and liberation, despite fear of retribution. We call on you to stand on the right side of history.
 
-**Visit the 2024 video archive of the first edition:** \
-**[24 Hours for Palestine: A  Moon Will Rise From Darkness](http://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)**
+**Visit the 2024 video archive of the first edition:**\
+**[24 Hours for Palestine: A Moon Will Rise From Darkness](http://howlround.com/happenings/24-hours-palestine-moon-will-rise-darkness)**

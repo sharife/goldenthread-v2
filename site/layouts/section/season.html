@@ -5,6 +5,12 @@
 
 <div class="mw7 center ph3 pt4">
 
+  {{ if .Params.header }}
+      <p class="f2 lh-title b mb1">
+          {{ .Params.header }}
+      </p>
+    {{ end }}
+
 	{{ if .Params.intro }}
       <p class="f4 mb3">
           {{ .Params.intro | markdownify }}
@@ -31,6 +37,8 @@
           </div>
       {{ end }}
   </ul>
+
+  <div class="cms mb4">{{ .Content | markdownify }}</div>
 
 <!--   {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}

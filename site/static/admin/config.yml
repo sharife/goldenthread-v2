@@ -293,7 +293,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Current Season, name: currentseason, widget: string}
+          - {label: Header, name: header, widget: string, required: false}
           - {label: Intro, name: intro, widget: text, required: false}
+          - {label: Body, name: "body", widget: "markdown"}
           - {label: "Header Image", name: "background", widget: "image", required: false}
           - label: "Lists"
             name: "lists"

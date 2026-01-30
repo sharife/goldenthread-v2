@@ -1,16 +1,11 @@
 ---
-title: "2025 Season: Threads of Solidarity"
-currentseason: 2025
+title: "Golden Thread 2026 Season"
+currentseason: 2026
+header: 30 Years of Creativity, Courage and Connection
 intro: >
-  Golden Thread’s 2025 Season aims to illuminate the interconnectedness of
-  our struggles amplifying Palestinian, Armenian, and Afghan stories. It is our
-  duty — both as artists and as global citizens — to learn from our histories,
-  to tell our stories, and to pass our narratives on to future generations.
-  Through a diverse collection of personal and historical narratives, this
-  season, we honor the strength of those who have endured, who are still
-  fighting, and the voices that refuse to be silenced. Featuring bold
-  world-premiere works by women-identifying artists and fostering both local and
-  national collaborations, this season invites you to join us in community and
-  solidarity.
-background: https://ucarecdn.com/b1efc067-1a5e-4e2f-b0f5-122bc0b5b1ca/
+  Golden Thread’s 30th Anniversary Season’s ambitious line-up brings bold and defiant storytelling to the fore! Join us as we celebrate 30 years of providing an essential communal space for joy and grief amid struggle, and manifest what the next 30 years could hold!
 ---
+
+### SEE ALSO: Golden Thread Announces New International Commission with Playwright Abhishek Majumdar  
+
+Read the [blog post](/posts/golden-thread-announces-new-international-commission-with-playwright-abhishek-majumdar/) to learn more.

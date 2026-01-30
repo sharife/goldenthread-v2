@@ -3,7 +3,7 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Golden Thread Productions"
 [params] 
-	currentseason = "2025"
+	currentseason = "2026"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -22,45 +22,31 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 		
   	[[menu.primary]]
 		parent = "season"
-		identifier = "what-do-the-women-say-2025"
-		name = "What Do The Women Say? 2025"
-		url = "/productions/what-do-the-women-say-2025/"
+		identifier = "what-do-the-women-say-2026"
+		name = "What Do The Women Say? 2026"
+		url = "/productions/what-do-the-women-say-2026/"
 		weight = 10
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "azad"
-		name = "AZAD (the rabbit and the wolf)"
-		url = "/productions/azad/"
+		identifier = "a-festival-of-palestinian-art"
+		name = "A Festival of Palestinian Art"
+		url = "/productions/a-festival-of-palestinian-art/"
 		weight = 11
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "new-threads-staged-reading-series-2025"
-		name = "New Threads 2025"
-		url = "/productions/new-threads-staged-reading-series-2025/"
+		identifier = "arab-spring"
+		name = "Arab Spring"
+		url = "/productions/arab-spring/"
 		weight = 12
 
 		[[menu.primary]]
 		parent = "season"
-		identifier = "the-return"
-		name = "The Return"
-		url = "/productions/the-return"
+		identifier = "reorient-festival-2026"
+		name = "ReOrient Festival 2026"
+		url = "/productions/reorient-festival-2026/"
 		weight = 13
-
-  	[[menu.primary]]
-		parent = "season"
-		identifier = "24-hours-for-palestine-part-2"
-		name = "24 Hours for Palestine Part 2"
-		url = "/productions/24-hours-for-palestine-part-2/"
-		weight = 14
-  
-    [[menu.primary]]
-		parent = "season"
-		identifier = "pilgrimage"
-		name = "Pilgrimage"
-		url = "/productions/pilgrimage/"
-		weight = 15
 
 
 	[[menu.primary]]
