@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: Golden Thread 2026 Season
 subtitle: 30 Years of Creativity, Courage and Connection
 background: https://ucarecdn.com/a584d93d-7319-4800-8d32-65c78ba4826a/
-cta: Find out about ambitious line-up!
+cta: Find out about our ambitious line-up!
 link: https://goldenthread.org/season/
 items:
   - subtitle: |-
