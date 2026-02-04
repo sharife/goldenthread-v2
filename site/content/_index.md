@@ -25,15 +25,13 @@ items:
     cta: Find out more!
     link: https://www.goldenthread.org/get-involved/casting
   - subtitle: |-
-      **A New International Commission** \
-      **with Playwright Abhishek Majumdar**
-    text: As part of our 30th Anniversary programming, we've partnered with
-      **Humanitas Media** to commission acclaimed playwright **Abhishek
-      Majumdar**. His new play *The 11 Lives of Jaber Mohammad* (working
-      title)is inspired by the real-life story of a man imprisoned for eight
-      years at Guantánamo Bay, adapted from detailed accounts originally written
-      by his lawyer, **Joshua Colangelo-Bryan**.
-    image: https://ucarecdn.com/56ffe766-72ed-4dcf-b98d-dc1b63712269/
-    cta: Find out more!
-    link: https://goldenthread.org/posts/golden-thread-announces-new-international-commission-with-playwright-abhishek-majumdar/
+      **A﻿ Message to Our Iranian Community**\
+      **F﻿rom Our Incoming Artistic Director**
+    text: Iran is heavy on our hearts and minds as we bear witness to the horrific
+      violence Iranians are facing for bravely raising their voices. We support
+      the people of Iran as they resist and mourn, and look to them to drive our
+      solidarity.
+    image: https://ucarecdn.com/d5868ab2-3589-4c87-97c5-5817c66ba1be/
+    cta: Read the full letter
+    link: https://goldenthread.org/posts/to-our-iranian-community/
 ---
