@@ -24,13 +24,4 @@ items:
     image: https://ucarecdn.com/25d2f85f-2ec2-4139-b7fa-467fe1699194/
     cta: Find out more!
     link: https://www.goldenthread.org/get-involved/casting
-  - subtitle: "**A﻿ Message to Our Iranian Community F﻿rom Our Incoming Artistic
-      Director**"
-    text: Iran is heavy on our hearts and minds as we bear witness to the horrific
-      violence Iranians are facing for bravely raising their voices. We support
-      the people of Iran as they resist and mourn, and look to them to drive our
-      solidarity.
-    image: https://ucarecdn.com/d5868ab2-3589-4c87-97c5-5817c66ba1be/
-    cta: Read the full letter
-    link: https://goldenthread.org/posts/to-our-iranian-community/
 ---
