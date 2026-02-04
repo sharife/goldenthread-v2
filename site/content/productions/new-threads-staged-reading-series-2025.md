@@ -56,19 +56,18 @@ cast:
       bio: Favorite productions include *Fat Ham* (OSF), *Confederates* (The Repertory
         Theatre of St. Louis), *Crumbs from the Table* and *Stoop Stories*
         (Aurora Theatre), *Wolf Play* (Shotgun Players), *Sweat* and *The Legend
-        of Georgia McBride* (Center Rep), *Steel Magnolias* (TheatreWorks
-        SV), *As You Like It* (California Shakespeare Theater), *for colored
+        of Georgia McBride* (Center Rep), *Steel Magnolias* (TheatreWorks SV),
+        *As You Like It* (California Shakespeare Theater), *for colored
         girls...* (African American Shakespeare Co.)  and the new musical *Sign
         My Name to Freedom* (SF Bay Area Theatre Co.). She was associate
         director on *the ripple the wave that carried me home* (Berkeley
         Rep/Goodman Theatre) and assistant director on *How I Learned What I
         Learned* (Oregon Shakespeare Festival). She directed the groundbreaking
-        2020 virtual *King Lear* (SF Shakespeare Festival) and *Feel the
-        Spirit* (Shotgun Players/Colt Couer NYC). Her directorial film
-        debut *Bottled Spirits* won Best Narrative at the London Pan African
-        Film Festival. She was the inaugural SDCF Lloyd Richards New Futures
-        Resident Director at the Oregon Shakespeare Festival and a current Lucas
-        Arts Fellow.
+        2020 virtual *King Lear* (SF Shakespeare Festival) and *Feel the Spirit*
+        (Shotgun Players/Colt Couer NYC). Her directorial film debut *Bottled
+        Spirits* won Best Narrative at the London Pan African Film Festival. She
+        was the inaugural SDCF Lloyd Richards New Futures Resident Director at
+        the Oregon Shakespeare Festival and a current Lucas Arts Fellow.
         [elizabethcarterarts.com](https://www.elizabethcarterarts.com/)
     - name: TORANGE YEGHIAZARIAN
       credit: Dramaturg
@@ -103,31 +102,31 @@ cast:
         Theatre); *A Christmas Carol* and Alley All New Festival (Alley
         Theatre); *Birthday Candles* (Chautauqua Theater); *Disgraced* (American
         Stage); *Romeo and Juliet* (Two River Theater); *The Ugly Christmas
-        Sweater* and *Frozen* (Theatre Under The Stars); and
-        *Alabaster* (Trinity Repertory Company). Other Credits: Meow Wolf
-        Houston; *Extinctionist* (Heartbeat Opera);
-        *Turn of the Screw*, *Innominate*, *Cleansed* and *Waiting for Godot*
-        (Catastrophic Theatre); *Roe* and *Black Superhero Magic
-        Mama* (Stages); *Frida* and *Sunday in the Park With George* (El Paso
-        Opera); *Big Swim* (Houston Grand Opera); *King Lear* (Houston
-        Shakespeare Festival); *Finding Nemo the Musical* (Theatre of the
-        Republic); *Blueberry’s Clubhouse* (Arkansas PBS); and *Little Shop of
-        Horrors* (Moores School Of Music). Education: BFA in Puppetry from
-        Tehran University of Art and MFA in Scenic Design from the University of
-        Houston. [afsanehaayani.com](https://www.afsanehaayani.com)"
+        Sweater* and *Frozen* (Theatre Under The Stars); and *Alabaster*
+        (Trinity Repertory Company). Other Credits: Meow Wolf Houston;
+        *Extinctionist* (Heartbeat Opera); *Turn of the Screw*, *Innominate*,
+        *Cleansed* and *Waiting for Godot* (Catastrophic Theatre); *Roe* and
+        *Black Superhero Magic Mama* (Stages); *Frida* and *Sunday in the Park
+        With George* (El Paso Opera); *Big Swim* (Houston Grand Opera); *King
+        Lear* (Houston Shakespeare Festival); *Finding Nemo the Musical*
+        (Theatre of the Republic); *Blueberry’s Clubhouse* (Arkansas PBS); and
+        *Little Shop of Horrors* (Moores School Of Music). Education: BFA in
+        Puppetry from Tehran University of Art and MFA in Scenic Design from the
+        University of Houston.
+        [afsanehaayani.com](https://www.afsanehaayani.com)"
     - name: JAMES ARD
       credit: Sound Designer
       bio: is a noisemaker with a focus on new works, interactive media, and immersive
         stage productions. Recent theatrical Sound Design credits include *Our
         Country* (Octopus Theatricals / Under The Radar Festival / The Public
-        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry
-        Powder*, *The Royale* (Aurora Theatre Company); *This Is Who I A*m
-        (Playco / Woolly Mammoth Theatre Company / Guthrie Theater / Oregon
-        Shakespeare Festival / American Repertory Theater); *9 Parts of
-        Desire* (Portland Center Stage); *A Small Fire*, *Kings* (Shotgun
-        Players); *Our Town* (Center Repertory Company); *Indecent* (San
-        Francisco Playhouse). Ard is a Resident Artist with both Golden Thread
-        Productions and Crowded Fire Theater.
+        Theater); *This Much I Know*, *Exit Strategy*, *Actually*, *Dry Powder*,
+        *The Royale* (Aurora Theatre Company); *This Is Who I A*m (Playco /
+        Woolly Mammoth Theatre Company / Guthrie Theater / Oregon Shakespeare
+        Festival / American Repertory Theater); *9 Parts of Desire* (Portland
+        Center Stage); *A Small Fire*, *Kings* (Shotgun Players); *Our Town*
+        (Center Repertory Company); *Indecent* (San Francisco Playhouse). Ard is
+        a Resident Artist with both Golden Thread Productions and Crowded Fire
+        Theater.
       image: https://ucarecdn.com/3db3534b-4c63-4177-887e-beaf366f9d25/
     - name: GABRIELLA HOWELL
       credit: Stage Manager
@@ -147,7 +146,7 @@ cast:
         Company, Pacific Rep, Aurora Theatre Company, Capital Stage, and
         Colorado Shakespeare Festival. Jennifer received her MFA from the
         National Theatre Conservatory.  She is an Associate Artist with Prague
-        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna. 
+        Shakespeare Company and SPARC, and a Playground Writers’ Pool Alumna.
         [jenniferleblanc.com](http://www.jenniferleblanc.com/)
       image: https://ucarecdn.com/20f02c0b-beab-4e49-bab5-299282e3f411/
     - name: KINA KANTOR
@@ -172,13 +171,13 @@ cast:
         theatre from American River College. She has had the privilege of
         participating in various theatrical productions ranging from classics,
         staged readings, devised works, and musicals. Her most recent work
-        includes *English* (Capital Stage), *Georgiana & Kitty* (Capital
-        Stage), *Twelfth Night* (California Stage), *The Newlywed Game* (B
-        Street Theatre), *The Most Massive Woman Wins* (Capital Stage), *For
-        the Love of Dog* (The Stage at Burke Junction), and *Sawyer Thompson*
-        (The Geery Theatre). Fatemeh is beyond thrilled to make her Golden
-        Thread debut with *ORIENTAL*!!! She hopes you laugh as much as we did!!
-        Instagram: @fatemeow"
+        includes *English* (Capital Stage), *Georgiana & Kitty* (Capital Stage),
+        *Twelfth Night* (California Stage), *The Newlywed Game* (B Street
+        Theatre), *The Most Massive Woman Wins* (Capital Stage), *For the Love
+        of Dog* (The Stage at Burke Junction), and *Sawyer Thompson* (The Geery
+        Theatre). Fatemeh is beyond thrilled to make her Golden Thread debut
+        with *ORIENTAL*!!! She hopes you laugh as much as we did!! Instagram:
+        @fatemeow"
       name: FATEMEH MEHRABAN
       credit: Actor (Layla Noor Sleiman)
       image: https://ucarecdn.com/00b7729c-15d7-41b1-90eb-43cd464091c5/
@@ -275,3 +274,5 @@ directed by **Elizabeth Carter**\
 dramaturgy by **Torange Yeghiazarian**
 
 Cengiz has been commissioned to make an adaptation of *A Thousand and One Nights* from a Very Important Theater Company, and asked to bring his immigrant, Muslim, queer perspective to it. Unfortunately, he is not sure what all that means. As his characters revolt and refuse to tell the stories that he requires of them, can Cengiz face his demons, change the minds and hearts of his audience, and save all the women of the kingdom in the process? *ORIENTAL* is an absurdist look at the hilarious knots SWANA creatives must tie themselves in to tell their stories and make a career in the American theatre.
+
+#### **[R﻿ead Evren Odcikin's note about the inspiration behind *Oriental*](https://goldenthread.org/posts/from-oriental-playwright-evren-odcikin/)**
