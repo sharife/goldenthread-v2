@@ -2,7 +2,7 @@
 title: To Our Iranian Community...
 date: 2026-02-04T00:43:57.633Z
 description: A message from our Incoming Artistic Director Nabra Nelson
-background: https://ucarecdn.com/dd5aa977-c5eb-4ba3-92df-a2602bb611c2/
+background: ""
 ---
 ### **A MESSAGE FROM OUR INCOMING ARTISTIC DIRECTOR**
 
