@@ -35,3 +35,7 @@ bottom:
     art forms.
 ---
 **A﻿ co-presentation with Brava**
+
+*What do the Women Say? 2026* features longtime Golden Thread artists **Teraneh Hamami**, **Denmo Ibrahim**, **Lisa Tateosian**, **Amel Tasfout**, and **Bella Warda** in conversation. The event also includes performances by **Aswat Womens Ensemble (featuring Salma El-Assal)**, dancer/choreographer **Amel Tasfout**, musicians **Amal Bisharat** and **Dina Zarif**, and actors **Sofia Ahmad** and **Nora el Samahy**.
+
+**International Women's Day 2026 theme is [\#GiveToGain](https://www.internationalwomensday.com/Theme)**. Together, let's help forge gender equality through abundant giving.
