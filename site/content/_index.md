@@ -17,11 +17,24 @@ items:
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
   - subtitle: |-
-      2026 Season Auditions\
-      a﻿re on February 2 and 7!
-    text: W﻿e're seeking AEA and non-AEA performers for our 2026 New Threads Reading
-      Series and the ReOrient Festival of Short Plays.
-    image: https://ucarecdn.com/25d2f85f-2ec2-4139-b7fa-467fe1699194/
-    cta: Find out more!
-    link: https://www.goldenthread.org/get-involved/casting
+      **A﻿ message from** \
+      **our**\
+      **Incoming Artistic Director**
+    link: https://goldenthread.org/posts/to-our-iranian-community/
+    cta: Read the full letter
+    text: '"﻿**Iran is heavy on our hearts and minds as we bear witness to the
+      horrific violence Iranians are facing for bravely raising their
+      voices.** We support the people of Iran as they resist and mourn, and look
+      to them to drive our solidarity."'
+    image: https://ucarecdn.com/b35a1240-e6cc-4135-8b9b-f307942ef475/
+  - subtitle: |-
+      A﻿ Historic International Women's Day\
+      Celebration on March 8
+    text: Curated and hosted by founder **Torange Yeghiazarian**, outgoing artistic
+      director **Sahar Assaf**, and incoming artistic director **Nabra Nelson**,
+      the 2026 edition of *What Do the Women Say?* features female-identifying
+      artists from the past 30 years.
+    cta: Find out more
+    link: https://goldenthread.org/productions/what-do-the-women-say-2026/
+    image: https://ucarecdn.com/d8bc2b92-ac5f-4543-9e2c-6dab6ff2fb20/
 ---
