@@ -7,7 +7,7 @@ cta: Find out about our ambitious line-up!
 link: https://goldenthread.org/season/
 items:
   - subtitle: |-
-      **G﻿olden30 Campaign** \
+      **G﻿olden30 Campaign**\
       **F﻿or Our 30th Anniversary**
     text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
       impressive milestone with an audacious Golden30 Campaign to raise $300,000
@@ -17,8 +17,7 @@ items:
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
   - subtitle: |-
-      **A﻿ message from** \
-      **our**\
+      **A﻿ message from** **our**\
       **Incoming Artistic Director**
     link: https://goldenthread.org/posts/to-our-iranian-community/
     cta: Read the full letter
@@ -28,7 +27,7 @@ items:
       to them to drive our solidarity."'
     image: https://ucarecdn.com/b35a1240-e6cc-4135-8b9b-f307942ef475/
   - subtitle: |-
-      A﻿ Historic International Women's Day\
+      A﻿ Historic Women's Day\
       Celebration on March 8
     text: Curated and hosted by founder **Torange Yeghiazarian**, outgoing artistic
       director **Sahar Assaf**, and incoming artistic director **Nabra Nelson**,
