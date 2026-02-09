@@ -1,12 +1,12 @@
 ---
 title: What Do the Women Say? 2026
-pre: Annual Celebration of International Women’s Day
+pre: A co-presentation with Brava
 season: 2026
 date: 2026-01-26T21:33:10.021Z
 start: 2026-03-08T15:00:10.030Z
 end: ""
-heading: 30th Anniversary Edition with Torange Yeghiazarian, Sahar Assaf and
-  Nabra Nelson
+heading: A Historic Women's Day Celebration with Torange Yeghiazarian, Sahar
+  Assaf and Nabra Nelson
 description: Join founder **Torange Yeghiazarian**, outgoing Artistic Director
   **Sahar Assaf**, and incoming Artistic Director **Nabra Nelson** as they
   co-host a special Women’s Day Celebration marking our 30th Anniversary. Our
@@ -34,8 +34,6 @@ bottom:
     increasing visibility and opportunities for diverse women artists across all
     art forms.
 ---
-**A﻿ co-presentation with Brava**
-
 *What do the Women Say? 2026* features longtime Golden Thread artists **Teraneh Hamami**, **Denmo Ibrahim**, **Lisa Tateosian**, **Amel Tasfout**, and **Bella Warda** in conversation. The event also includes performances by **Aswat Womens Ensemble (featuring Salma El-Assal)**, dancer/choreographer **Amel Tasfout**, musicians **Amal Bisharat** and **Dina Zarif**, and actors **Sofia Ahmad** and **Nora el Samahy**.
 
 **International Women's Day 2026 theme is [\#GiveToGain](https://www.internationalwomensday.com/Theme)**. Together, let's help forge gender equality through abundant giving.
