@@ -29,7 +29,9 @@ bottom:
   heading: ""
   logos:
     - image: https://ucarecdn.com/d165cf75-8d2c-411a-bf49-a6573ebf42ce/
-  text: "**[W﻿omenArts](https://www.womenarts.org/)** is dedicated to increasing
-    visibility and opportunities for diverse women artists in all art forms."
+  text: This program is made possible with the support of
+    **[WomenArts](https://www.womenarts.org/)**, whose work is dedicated to
+    increasing visibility and opportunities for diverse women artists across all
+    art forms.
 ---
-**A﻿ co-production with Brava**
+**A﻿ co-presentation with Brava**
