@@ -34,6 +34,6 @@ bottom:
     increasing visibility and opportunities for diverse women artists across all
     art forms.
 ---
-*What do the Women Say? 2026* features longtime Golden Thread artists **Teraneh Hamami**, **Denmo Ibrahim**, **Lisa Tateosian**, and **Amel Tasfout** in conversation. The event also includes performances by **Aswat Womens Ensemble (featuring Salma El-Assal)**, dancer/choreographer **Amel Tasfout**, musicians **Amal Bisharat** and **Dina Zarif**, and actor **Fatemeh Mehraban**.
+*What do the Women Say? 2026* features longtime Golden Thread artists **Teraneh Hamami**, **Denmo Ibrahim**, **Lisa Tateosian**, and **Amel Tasfout** in conversation. The event also includes performances by **Aswat Womens Ensemble (featuring Salma El-Assal)**, dancer/choreographer **Amel Tasfout**, musicians **Amal Bisharat,, Bahar Royaa**, **Naima Shalhoub**, and **Dina Zarif**, and actor **Fatemeh Mehraban**.
 
 **International Women's Day 2026 theme is [\#GiveToGain](https://www.internationalwomensday.com/Theme)**. Together, let's help forge gender equality through abundant giving.
