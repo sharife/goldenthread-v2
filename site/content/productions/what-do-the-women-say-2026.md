@@ -18,8 +18,8 @@ titleimage: ""
 additional: at 7pm
 stage: Brava Theater Center
 address: 2781 24th St, San Francisco, CA 94110
-ticketlink: ""
-ticketinfo: ""
+ticketlink: https://brava.my.salesforce-sites.com/ticket/#/instances/a0FPa000003ttjhMAA
+ticketinfo: General admission tickets are $34-$106.
 lists: []
 cast:
   items: []
