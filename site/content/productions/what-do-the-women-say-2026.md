@@ -15,9 +15,10 @@ description: Join founder **Torange Yeghiazarian**, outgoing Artistic Director
   the past, the present, and the future of the company.
 background: https://ucarecdn.com/057b7720-962f-45c9-acf3-20e6dc877185/
 titleimage: ""
+programlabel: at 7pm
 writer: ""
 director: ""
-additional: at 7pm
+additional: ""
 stage: Brava Theater Center
 address: 2781 24th St, San Francisco, CA 94110
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/instances/a0FPa000003ttjhMAA
