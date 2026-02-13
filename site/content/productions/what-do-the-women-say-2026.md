@@ -23,10 +23,14 @@ stage: Brava Theater Center
 address: 2781 24th St, San Francisco, CA 94110
 ticketlink: https://brava.my.salesforce-sites.com/ticket/#/instances/a0FPa000003ttjhMAA
 ticketinfo: General admission tickets are $34-$106.
-misc: The performance is at 7pm.
+misc: ""
 lists: []
 cast:
   items: []
+mentions:
+  text: "**International Women's Day 2026 theme is
+    [\\#GiveToGain](https://www.internationalwomensday.com/Theme)**. Together,
+    let's help forge gender equality through abundant giving."
 photos:
   heading: ""
   items: []
@@ -41,4 +45,4 @@ bottom:
 ---
 *What do the Women Say? 2026* features longtime Golden Thread artists **Teraneh Hamami**, **Denmo Ibrahim**, and **Lisa Tateosian** in conversation. The event also includes performances by **Aswat Womens Ensemble (featuring Salma El-Assal)**, dancer/choreographer **Amel Tasfout**, musicians **Amal Bisharat,, Bahar Royaa**, **Naima Shalhoub**, and **Dina Zarif**, and actor **Fatemeh Mehraban**.
 
-**International Women's Day 2026 theme is [\#GiveToGain](https://www.internationalwomensday.com/Theme)**. Together, let's help forge gender equality through abundant giving.
+### **L﻿obby opens at 6pm with the performance starting at 7pm.**
