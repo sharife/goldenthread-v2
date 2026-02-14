@@ -17,7 +17,7 @@ items:
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
   - subtitle: |-
-      **A﻿ message from** **our**\
+      **A﻿ Message From** O**ur**\
       **Incoming Artistic Director**
     link: https://goldenthread.org/posts/to-our-iranian-community/
     cta: Read the full letter
@@ -28,7 +28,7 @@ items:
     image: https://ucarecdn.com/b35a1240-e6cc-4135-8b9b-f307942ef475/
   - subtitle: |-
       **2026 Season Marks 30 Years of** \
-      **Creativity, Community, and Connection**
+      **Creativity, Courage, and Connection**
     text: Our ambitious 30th Anniversary line-up brings bold and defiant
       storytelling to the fore! **Join us as we celebrate 30 years** of
       providing an essential communal space for joy and grief amid struggle!
