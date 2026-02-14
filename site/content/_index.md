@@ -34,5 +34,5 @@ items:
       providing an essential communal space for joy and grief amid struggle!
     cta: Find out more!
     link: https://goldenthread.org/season
-    image: https://ucarecdn.com/0fe194a9-1d9f-4030-8c37-1c6043e202d6/
+    image: https://ucarecdn.com/c3162b08-c835-47b8-b87a-2dd798eb08d8/
 ---
