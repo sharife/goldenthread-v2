@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: What Do the Women Say?
 subtitle: Featuring Torange Yeghiazarian, Sahar Assaf, and Nabra Nelson
 background: https://ucarecdn.com/d0d8495e-95fe-47a8-af3e-389b61b07c04/
-cta: Celebrate Women's Day with Us on March 8
+cta: Celebrate Women's Day With Us on March 8
 link: https://goldenthread.org/productions/what-do-the-women-say-2026/
 items:
   - subtitle: |-
