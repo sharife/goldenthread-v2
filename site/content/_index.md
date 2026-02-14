@@ -17,7 +17,7 @@ items:
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
   - subtitle: |-
-      **A﻿ Message From** O**ur**\
+      **A﻿ Message From** **Our**\
       **Incoming Artistic Director**
     link: https://goldenthread.org/posts/to-our-iranian-community/
     cta: Read the full letter
