@@ -1,6 +1,21 @@
 ---
 title: Buy Tickets
-lists: []
+lists:
+  - heading: ""
+    items:
+      - title: "What Do the Women Say?: 30th Anniversary Edition"
+        pre: Sunday, March 8, 2026 at 7pm
+        subtitle: F﻿eaturing Torange Yeghiazarian, Sahar Assaf, and Nabra Nelson
+        image: https://ucarecdn.com/d062d25a-3806-498e-95c9-ca19ca1aefac/
+        text: Join founder **Torange Yeghiazarian**, outgoing Artistic Director **Sahar
+          Assaf**, and incoming Artistic Director **Nabra Nelson** as they
+          co-host a special Women’s Day Celebration marking our 30th
+          Anniversary. Our leaders will welcome women artists connected to
+          Golden Thread to share music, spoken word, and plays and engage them
+          in a wide-ranging conversation about the past, the present, and the
+          future of the company. Co-presented with **Brava**.
+        cta: Buy Tickets Now!
+        link: https://brava.my.salesforce-sites.com/ticket/#/instances/a0FPa000003ttjhMAA
 ---
 - - -
 
