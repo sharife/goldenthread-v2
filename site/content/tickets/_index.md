@@ -33,7 +33,7 @@ Ticket prices may vary based on the size and type of event. Below is an approxim
 Attend our shows, and support our accessibility programs for audiences who need them — such as $30 under 30, Artist Access, Community Comps.
 
 **$130 TRUE COST** \
-In 2025, producing theater costs a lot of money. With every seat in the house sold, we could only break even if we sold each seat at $130. If you’re able, please consider paying the true cost of producing a show.   
+In 2026, producing theater costs a lot of money. With every seat in the house sold, we could only break even if we sold each seat at $130. If you’re able, please consider paying the true cost of producing a show.   
 
 **$30 UNDER 30** \
 Are you under 30? Now, you can get $30 tickets to all performances. 
