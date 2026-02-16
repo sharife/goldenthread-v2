@@ -29,7 +29,7 @@ additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
-ticketlink: ""
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
 ticketinfo: ""
 externallink: ""
 externallinklabel: ""
