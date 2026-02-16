@@ -23,9 +23,11 @@ Thank you for your interest in attending Golden Thread performances. Our ticket 
 
 ## **TICKET PRICES** 
 
-A﻿t Golden Thread, nobody is turned away for lack of funds. 
+A﻿t Golden Thread, nobody is turned away for lack of funds.
 
-**$40 GENERAL ADMISSION**
+Ticket prices may vary based on the size and type of event. Below is an approximation of our typical ticket prices for a mainstage season event:
+
+**$45 GENERAL ADMISSION**
 
 **$80 PAY IT FORWARD** \
 Attend our shows, and support our accessibility programs for audiences who need them — such as $30 under 30, Artist Access, Community Comps.
