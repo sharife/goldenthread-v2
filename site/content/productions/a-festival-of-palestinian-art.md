@@ -31,8 +31,8 @@ address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
 ticketinfo: ""
-externallink: ""
-externallinklabel: ""
+externallink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DRi8jMAD
+externallinklabel: Multi-Event Passes
 misc: ""
 lists:
   - heading: FESTIVAL LINE-UP
