@@ -1,6 +1,6 @@
 ---
 title: A Festival of Palestinian Art
-pre: A co-production with Crowded Fire, in partnership with Art2Action
+pre: A co-production with Crowded Fire Theater, in partnership with Art2Action
 season: 2026
 date: 2026-01-26T21:04:56.409Z
 start: 2026-04-09T19:00:56.417Z
@@ -104,4 +104,4 @@ Uplifting Palestinian voices and stories in theater, film, and stand-up comedy, 
 
 A Festival of Palestinian Art is co-produced by **Golden Thread Productions** and **Crowded Fire Theater**. Events are supported by **Art2Action** as part of a multi-year partnership with Golden Thread on *Protecting Dissent,* uplifting and centering voices for Palestine.
 
-Projects featured include the return of the sold-out ***AMREEKA 2026: The Comedy Show***, curated by **Wafaa Bilal** and featuring an all-Palestinian line-up; a New Threads developmental workshop of ***A Country Made of Salt*** by **Denmo Ibrahim**, directed by **Nabra Nelson**; and a filmed version of **Alaa Shehada**’s acclaimed solo show **\*The Horse of Jenin**.*
+Projects featured include the return of the sold-out ***AMREEKA 2026: The Comedy Show***, curated by **Wafaa Bilal** and featuring an all-Palestinian line-up; a New Threads developmental workshop of ***A Country Made of Salt*** by **Denmo Ibrahim**, directed by **Nabra Nelson**; and a filmed version of **Alaa Shehada**’s acclaimed solo show ***The Horse of Jenin***.
