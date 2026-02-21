@@ -27,8 +27,6 @@ We call upon governments, international institutions, and civil society worldwid
 
 Golden Thread is inspired by the courage and resilience of the people of Iran and honors the memory of those who have lost their lives in the fight for freedom. We recognize that the struggle of the Iranian people is not isolated; that it is part of the universal human aspiration for justice, dignity, and freedom. We will continue to stay true to our mission, centering in our art the lived experiences of the  peoples of the Middle East and North Africa, creating space for dialogue, and amplifying our shared humanity.
 
-
-
 *My country, I will build you again,*\
 *if need be, with bricks made from my life.*\
 *I will build columns to support your roof,*\
@@ -43,8 +41,6 @@ Golden Thread is inspired by the courage and resilience of the people of Iran an
 
 *\-Simin Behbahani*
 
-
-
 ##### Amnesty International: [What happened at the protests in Iran?](https://www.amnesty.org/en/latest/campaigns/2026/01/what-happened-at-the-protests-in-iran/)
 
 ##### Support the Iran Protest Resolution:  [Affirm the United States’ commitment to human rights and democratic principles](https://paaiaadvocacy.quorum.us/campaign/152952/?utm_source=Morad&utm_campaign=4ac1773f83-EMAIL_CAMPAIGN_2025_08_20_06_26_COPY_01&utm_medium=email&utm_term=0_47540fcb7a-34654152e1-&mc_cid=4ac1773f83&mc_eid=f875bd8db2&utm_source=MasterList&utm_campaign=f52397d6f4-EMAIL_CAMPAIGN_2025_08_20_06_26_COPY_01&utm_medium=email&utm_term=0_47540fcb7a-34654152e1-52742849&mc_cid=f52397d6f4&mc_eid=f875bd8db2)
@@ -55,7 +51,7 @@ Golden Thread is inspired by the courage and resilience of the people of Iran an
 
 ##### Email UN Human Rights Council members: [tinyurl.com/5f466sjw](http://tinyurl.com/5f466sjw) 
 
-![](https://ucarecdn.com/48b8feb9-4dad-4400-b140-b82cc56aa47c/)
+![](https://ucarecdn.com/35f0b39a-26a4-4bbd-925b-b7ac51dd40d0/)
 
 \*\* This instance of Islamic Republic’s violent repression of its own people is not an aberration. It reflects a long and painful pattern in the history of the Islamic Republic. Since 1979, peaceful dissent in Iran has repeatedly been met with force:
 
