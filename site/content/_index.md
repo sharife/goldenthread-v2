@@ -17,15 +17,14 @@ items:
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
   - subtitle: |-
-      **A﻿ Message From** **Our**\
-      **Incoming Artistic Director**
-    link: https://goldenthread.org/posts/to-our-iranian-community/
-    cta: Read the full letter
-    text: '"﻿**Iran is heavy on our hearts and minds as we bear witness to the
-      horrific violence Iranians are facing for bravely raising their
-      voices.** We support the people of Iran as they resist and mourn, and look
-      to them to drive our solidarity."'
-    image: https://ucarecdn.com/b35a1240-e6cc-4135-8b9b-f307942ef475/
+      **Statement of Solidarity with**\
+      **the People of Iran**
+    link: https://goldenthread.org/posts/statement-of-solidarity-with-the-people-of-iran/
+    cta: Read the full statement
+    text: "**We dedicate *What Do the Women Say? 2026* to the people of Iran**,
+      whose unwavering spirit, courage, and enduring hope inspire us all, and we
+      stand in solidarity with their fight for freedom and self-determination."
+    image: https://ucarecdn.com/e773c25b-3fb4-4195-8a6e-1e2b3f74ee0d/
   - subtitle: |-
       **2026 Season Marks 30 Years of** \
       **Creativity, Courage, and Connection**
