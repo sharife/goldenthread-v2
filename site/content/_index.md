@@ -24,7 +24,7 @@ items:
     text: "**We dedicate *What Do the Women Say? 2026* to the people of Iran**,
       whose unwavering spirit, courage, and enduring hope inspire us all, and we
       stand in solidarity with their fight for freedom and self-determination."
-    image: https://ucarecdn.com/e773c25b-3fb4-4195-8a6e-1e2b3f74ee0d/
+    image: https://ucarecdn.com/90b0bb03-6ae9-48d7-b073-99b421a44165/
   - subtitle: |-
       **2026 Season Marks 30 Years of** \
       **Creativity, Courage, and Connection**
