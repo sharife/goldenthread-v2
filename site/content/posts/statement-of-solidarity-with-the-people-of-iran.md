@@ -11,7 +11,7 @@ We, at Golden Thread Productions, stand in unwavering solidarity with the people
 
 ![](https://ucarecdn.com/949b23ee-1fc8-4c12-aff3-05fb1cd669f5/)
 
-The response of the Iranian authorities has been brutal and unprecedented even by the Islamic Republic standards. According to independent human rights monitors, the recent crackdown resulted, within a matter of two to three days, in thousands to, and possibly tens of thousands of deaths and even more arrests, followed by arbitrary mass detention, enforced disappearances, torture, and intimidation of victims’ families. Communications blackouts and severe restrictions on journalists have made full documentation difficult, but the unprecedented scale of the repression is clear and deeply alarming.\*\*
+The response of the Iranian authorities has been brutal and unprecedented even by the Islamic Republic standards. According to independent human rights monitors, the recent crackdown resulted, within a matter of two to three days, in thousands and possibly tens of thousands of deaths and even more arrests, followed by arbitrary mass detention, enforced disappearances, torture, and intimidation of victims’ families. Communications blackouts and severe restrictions on journalists have made full documentation difficult, but the unprecedented scale of the repression is clear and deeply alarming.\*\*
 
 As an American theater company devoted to the Middle East, we recognize that solidarity with the Iranian people also requires historical honesty and moral consistency when it comes to the destabilizing role our own government has played in the region. From [derailing Iran’s democratic trajectory in the 1950’s](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB126/?utm_source=chatgpt.com), to the more recent imposition of broad and indiscriminate [sanctions that punish ordinary Iranians](https://www.hrw.org/report/2019/10/29/maximum-pressure/us-economic-sanctions-harm-iranians-right-health) while fueling rampant corruption by state actors, to the bombings in 2025 and the current threats of more military action, the U.S. government policy toward Iran has exacerbated social and economic distress among ordinary citizens. 
 
@@ -21,7 +21,7 @@ Equally troubling has been the response of the international community and the r
 
 We call upon governments, international institutions, and civil society worldwide to:
 
-* Unequivocally condemn the use of lethal force against protesters in Iran and everywhere;
+* Unequivocally condemn the use of lethal force against protesters everywhere including in Iran and the U.S.;
 * Demand a halt to military escalation and oppose war on Iran;
 * Support independent investigations and accountability mechanisms to document and address serious human rights violations;
 * Stand publicly and consistently with the Iranian people’s right to peaceful assembly and free expression;
