@@ -9,7 +9,7 @@ description: We, at Golden Thread Productions, stand in unwavering solidarity
 ---
 We, at Golden Thread Productions, stand in unwavering solidarity with the people of Iran who have risen, once again, in peaceful protest to demand economic justice, fundamental freedoms, and basic human rights. Across cities and provinces, ordinary citizens—students, workers, women, retirees, and young people—have risked everything to make their voices heard.
 
-![](https://ucarecdn.com/949b23ee-1fc8-4c12-aff3-05fb1cd669f5/)
+![](https://ucarecdn.com/f8a4789b-0d27-42ad-b41f-1dff6a4260c7/)
 
 The response of the Iranian authorities has been brutal and unprecedented even by the Islamic Republic standards. According to independent human rights monitors, the recent crackdown resulted, within a matter of two to three days, in thousands and possibly tens of thousands of deaths and even more arrests, followed by arbitrary mass detention, enforced disappearances, torture, and intimidation of victims’ families. Communications blackouts and severe restrictions on journalists have made full documentation difficult, but the unprecedented scale of the repression is clear and deeply alarming.\*\*
 
