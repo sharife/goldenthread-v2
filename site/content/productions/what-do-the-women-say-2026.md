@@ -203,8 +203,10 @@ cast:
         African Theater Makers Alliance (MENATMA), a national coalition
         advancing visibility and equity for SWANA artists. Denmo holds an MFA in
         Lecoq-based Actor-Created Physical Theater (Naropa University) and a BFA
-        in Acting (Boston University)."
-      link: https://www.denmoibrahim.com
+        in Acting (Boston University).
+        [denmoibrahim.com](https://www.denmoibrahim.com) |
+        [zaynabbooks.com](https://www.zaynabbooks.com)"
+      link: ""
       image: https://ucarecdn.com/a0d0bd49-d20d-4a22-b22d-63f7a2f0dc12/
     - name: Fatemeh Mehraban
       bio: "Fatemeh is a queer Iranian performing artist and environmental scientist.
