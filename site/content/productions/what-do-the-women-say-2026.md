@@ -162,6 +162,44 @@ cast:
         and stages, Salma’s music remains deeply rooted in community, cultural
         pride, and the joy of women coming together.
       image: https://ucarecdn.com/d5781b06-bcc3-457d-9004-79a37090a14d/
+    - name: Taraneh Hemami
+      image: https://ucarecdn.com/f01cd556-774d-48de-8aef-e1f8b9903e8b/
+    - name: Denmo Ibrahim
+      bio: "Denmo (she/her) is an American playwright, actor, and theatre maker of
+        Egyptian descent. Her plays include *Arab Spring* (Finalist: O'Neill
+        National Playwrights Conference, Princess Grace Award, Rainin
+        Fellowship), *BABA* (Winner: 'Best Original Script', Theatre Bay Area,
+        Winner: 'Best New Play', 'Best Solo Show,' San Francisco Bay Area
+        Theatre Critics Circle Award), *A Country Made of Salt* (Winner: Legacy
+        Playwrights Award, Harvard University) and *Naguib Mahfuz Was Stabbed in
+        the Neck and Almost Died* (Finalist: Sundance Theatre Lab). Her work has
+        been produced and developed by Audible, Round House Theatre, Williamston
+        Theatre, Marin Theatre Company, Capital Stage, Noor Theatre, The
+        Civilians R&D Series, Amphibian Stage, Alter Theatre, Shotgun Players,
+        Golden Thread and Crowded Fire. Regional acting credits include Berkeley
+        Repertory, The Old Globe, Seattle Repertory, American Conservatory
+        Theater, and California Shakespeare Theatre. Her audio-immersive
+        children’s book, *Zaynab’s Night of Destiny*, toured 25 public schools
+        in Kentucky and was supported by the Doris Duke Foundation for Islamic
+        Arts. She currently serves as Chair of the Middle Eastern and North
+        African Theater Makers Alliance (MENATMA), a national coalition
+        advancing visibility and equity for SWANA artists. Denmo holds an MFA in
+        Lecoq-based Actor-Created Physical Theater (Naropa University) and a BFA
+        in Acting (Boston University)."
+      link: https://www.denmoibrahim.com
+      image: https://ucarecdn.com/a0d0bd49-d20d-4a22-b22d-63f7a2f0dc12/
+    - name: Fatemeh Mehraban
+      bio: "Fatemeh is a queer Iranian performing artist and environmental scientist.
+        She was most recently in *Pilgrimage* and *Oriental: 1,001 Ways to Tie
+        Yourself in Knots* (Golden Thread Productions), *A Distinct Society*
+        (Weston Theatre Company), *Working for Crumbs* (B Street Theatre New
+        Comedies Festival), *English* and *Georgiana & Kitty* (Capital Stage).
+        Fatemeh divides her time between Sacramento, the Bay Area, and Los
+        Angeles, where she works in theater, film, and voiceover. What’s
+        important to her: that her work combines her passion for performance
+        with her passion for advocacy! Instagram:
+        [@fatemeow](https://www.instagram.com/fatemeow)"
+      image: https://ucarecdn.com/39a9d6d1-e079-496a-b828-d2696044e37f/
   heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
