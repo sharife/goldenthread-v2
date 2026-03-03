@@ -165,6 +165,22 @@ cast:
       image: https://ucarecdn.com/d5781b06-bcc3-457d-9004-79a37090a14d/
     - name: Taraneh Hemami
       image: https://ucarecdn.com/f01cd556-774d-48de-8aef-e1f8b9903e8b/
+      bio: Raised in Tehran, Iran, and living and working in the Bay Area for over
+        forty years Taraneh Hemami continues to explore themes of displacement,
+        preservation and representation through her public, collective and
+        curatorial experimental projects. Her works incorporate materials of
+        history, organizing images, data and information into patterns, colors
+        and maps manifesting as public art projects, installations, object
+        productions and publications. Her projects have been awarded a Creative
+        Work Fund, a Creative Capital, Artistic Innovation Award from Center for
+        Cultural Innovation, and Zellerbach Foundation , San Francisco Arts
+        Commission, California Arts Council and the California Humanities.
+        Hemami has been teaching at the California College of the Arts for
+        twenty years, and curating regularly working closely with San Francisco
+        Arts Commission, Southern Exposure, and Minnesota Street Projects. She
+        is the founder of Makaan Residency at Minnesota Street Project
+        Foundation, offering a communal production hub for local and visiting
+        CWANA artists for creative exchange.
     - name: Denmo Ibrahim
       bio: "Denmo (she/her) is an American playwright, actor, and theatre maker of
         Egyptian descent. Her plays include *Arab Spring* (Finalist: O'Neill
