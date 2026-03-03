@@ -93,6 +93,75 @@ cast:
         been produced and developed in San Francisco, Los Angeles, Seattle,
         Milwaukee, Santa Barbara, Portland, and Minneapolis.
       image: https://ucarecdn.com/3424809e-cd74-40da-836e-890a5b93579f/
+    - name: Aswat Women's Ensemble
+      image: https://ucarecdn.com/ef4549d0-a7c4-4cfa-bb48-443b7c43f3b5/
+      bio: "Founded in 2012 by Nabila Mango, Aswat Women’s Ensemble (AWE) is the only
+        all-female Arab music group in the United States. Based in the Bay Area,
+        the ensemble is dedicated to the preservation and celebration of Arabic
+        musical traditions, ranging from classical and folkloric to contemporary
+        styles. Beyond its diverse repertoire, AWE serves as a vital space for
+        female agency, empowering its members to lead artistic and programming
+        decisions through performance and collaboration. By centering women’s
+        voices, the AWE nurtures a unique environment where cultural heritage
+        and community empowerment intersect through the universal language of
+        music. AWE members: Music Director and Violin: Briana di Mara. Strings:
+        Laila Zaidi, Stacey Simone. Qanoun: Maria Trogolo. Oud: Coralie Rousso.
+        Ney: Susu Pampanin. Percussion: Amina Goodyear, Monica Berini, Cynthia
+        Diwan, Mohini Rustagi. Vocalists: Stephanie Akers, Hannah Doughri,
+        Nastya Kassir, Sara Magdy, Rana Mroue (vocal trainer)."
+    - bio: "Amal (she/her) is a Palestinian-American multidisciplinary artist— a
+        director, producer, writer, musician, actor and photographer. She is
+        Artistic Director & Co-founder of Meem Collective م and creator of
+        *Mornings in Jenin Musical*, adapted from susan abulhawa’s best-selling
+        novel. Bisharat holds a BA in Music and Theater and spent 12 years
+        working as a theater director and music director in partnership with the
+        San Francisco Unified School District. In 2023, as Artist-in-Residence
+        with Golden Thread Productions, she co-produced and directed for
+        ReOrient Festival of Short Plays and directed an online reading of *The
+        Gaza Monologues* by Ashtar Theatre-Palestine. Bisharat serves on the
+        board of MENA Theater Makers Alliance, and she is grateful to have
+        received support for her work from the following organizations: San
+        Francisco Arts Commission Artist Grant (2023), Theater Bay Area CA$H
+        Creates Grant (2022), TBA Arts Leadership Residency Grant (2023),
+        Investing in Artists: Artistic Innovation CCI (2024), Zoo Labs: FUND
+        (2024), Doria Feminist Fund (2025). Bisharat is also an award-winning
+        photographer, capturing the magic of live performance- dance, theater,
+        and music, as well as portraits and weddings with her arts-focused
+        photography company. Bisharat believes in the transformative power of
+        art and storytelling whether on a stage, in a photograph, or in the
+        stories we tell ourselves."
+      name: Amal Bisharat
+    - name: Briana Di Mara
+      bio: Briana is an eclectic violinist whose musical journey effortlessly weaves
+        through diverse genres, embracing a broad range of sonic landscapes.
+        With a distinctive style that fuses global music, Briana’s sound is as
+        dynamic as her career, which spans across various musical projects all
+        over the world. Her latest endeavor is a folktronica DJ act utilizing
+        live instrumental elements, creating an immersive, danceable and
+        genre-bending experience for listeners. Briana’s versatility has made
+        her a sought-after collaborator, with recent tours and collaborations
+        alongside renowned acts such as Dirtwire, Yaima, Kr3ture, Bloomurian,
+        Akriza and Beats Antique. Known for her improvisational skill and
+        ability to breathe new life into every performance, Briana continues to
+        push boundaries and captivate diverse audiences with her innovative
+        approach to music. She also maintains a private Suzuki violin teaching
+        studio in the Bay Area and directs the Aswat Women’s Ensemble.
+      image: https://ucarecdn.com/98b50de4-4f40-44d9-86ea-bb1a48be89af/
+    - name: Salma El Assal
+      bio: Salma is a luminous vocalist from El-Obeid, Sudan, who unites audiences
+        through the powerful, women-led tradition of aghaani banaat (ladies’
+        songs). Rooted in music performed by women for women at weddings and
+        community gatherings, this vibrant Sudanese repertoire celebrates love,
+        resilience, and shared joy. In Salma’s hands, these songs come alive
+        through an exquisite blend of soul and tradition. Her musical journey,
+        which began in intimate community celebrations in Sudan and led her to
+        Egypt, continues today in the Bay Area, where she cultivates spaces of
+        connection and celebration. In June 2025, Salma performed with the Aswat
+        Women’s Ensemble in Zaghareet, a concert highlighting Arab wedding songs
+        and celebrating women’s voices and shared traditions. Across continents
+        and stages, Salma’s music remains deeply rooted in community, cultural
+        pride, and the joy of women coming together.
+      image: https://ucarecdn.com/d5781b06-bcc3-457d-9004-79a37090a14d/
   heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
