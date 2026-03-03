@@ -131,6 +131,7 @@ cast:
         art and storytelling whether on a stage, in a photograph, or in the
         stories we tell ourselves."
       name: Amal Bisharat
+      image: https://ucarecdn.com/1820ab1d-5672-498d-9c1e-f827c46c5fd9/
     - name: Briana Di Mara
       bio: Briana is an eclectic violinist whose musical journey effortlessly weaves
         through diverse genres, embracing a broad range of sonic landscapes.
