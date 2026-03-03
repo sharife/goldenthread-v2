@@ -27,7 +27,51 @@ ticketinfo: General admission tickets are $34-$106.
 misc: ""
 lists: []
 cast:
-  items: []
+  items:
+    - name: Torange Yeghiazarian
+      credit: Founding Artistic Director Emeritus
+      image: https://ucarecdn.com/b572f536-9c0b-475e-b2cf-cbc833be6260/
+      bio: Since retiring from Golden Thread Productions after 25 years, Torange has
+        focused on writing, directing, and translating plays. Currently, Torange
+        is adapting the epic romances of the 12th-century master poet, Nizami
+        Ganjavi. Combining Iranian epic story-telling, Naghali, with
+        ensemble-based musical theater to create a dynamic aesthetic performed
+        in English with Persian poetry and live music. She recently premiered
+        *Leili & Majnun* at Central Stage and will begin working on *Khosrow &
+        Shirin* next. Her play, *The Tutor*, commissioned and premiered by the
+        New Conservatory Theater in San Francisco, was said to “deliver a
+        masterclass in palpable psychological storytelling” by the *Bay Area
+        Reporter*. Torange’s writing has been published in *New Iranian Plays,
+        Performing Iran, Casting A Movement, Salaam. Peace Anthology, The Drama
+        Review*, and *American Theatre Magazine*, among others. Torange is one
+        of Theatre Communication Group's Legacy Leaders of Color, and has been
+        honored by Theatre Bay Area, the Cairo International Theatre Festival,
+        and the Symposium on Equity in the Entertainment Industry at Stanford
+        University. A tireless advocate for the MENA Theater community, Torange
+        co-authored the seminal paper, “Middle Eastern Theatre Artists’ Bill of
+        Rights”. She is a founding board member of Middle Eastern North African
+        Theater Makers Alliance (MENATMA) and also serves on the board of
+        Consortium of Asian American Theatres and Artists (CAATA).
+      link: https://www.TorangeYeghiazarian.com
+    - name: Sahar Assaf
+      credit: Outgoing Artistic Director
+      image: https://ucarecdn.com/36dd6b09-e019-413b-8afc-4f2a9fd46087/
+      bio: is a theatre practitioner whose work centers socially and politically
+        engaged performance, amplifying Middle Eastern narratives, lived
+        experience, and community-based storytelling. From 2021 to 2025, she
+        served as Artistic Director of Golden Thread Productions in San
+        Francisco—the first U.S. theatre company devoted to the Middle
+        East—where she curated four seasons of world premieres, revivals, and
+        devised works. Her 2024 Season for Palestine drew record audiences and
+        deepened national community engagement. Previously, Assaf taught at the
+        American University of Beirut, where she co-founded the Theatre
+        Initiative and directed classical and contemporary texts alongside
+        original documentary and site-specific performances. A Fulbright
+        Scholar, she is a member of the Lincoln Center Theater Directors Lab and
+        co-founder of Directors Lab Mediterranean. She has presented her work
+        internationally and contributed scholarly writing on theatre and
+        performance practice.
+  heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
     and we stand in solidarity with their fight for freedom and
