@@ -200,6 +200,57 @@ cast:
         with her passion for advocacy! Instagram:
         [@fatemeow](https://www.instagram.com/fatemeow)"
       image: https://ucarecdn.com/39a9d6d1-e079-496a-b828-d2696044e37f/
+    - name: Leda Rasooli
+      bio: Leda is an Afghan-American artist, based in California. She had the
+        privilege of participating in *English* at Capital Stage and
+        *Pilgrimage* at Golden Thread Productions.
+      image: https://ucarecdn.com/266a2f1c-99e5-4eeb-b1eb-c899bc7c6a1b/
+    - name: Amelia Romano
+      bio: "Amelia is a lever harpist, programming classical re-imaginations alongside
+        original works. She received her master’s in classical lever harp
+        performance at San Francisco State University under the tutelage of
+        Karen Gottlieb, retired second harpist of the San Francisco Symphony.
+        Her latest album, “Levers Engaged: Classical Works Re-imaged for Harp ”
+        and sheet music collection “Classical Re-imaginations,” present the
+        instrument as a valid voice in classical music. A composer, arranger and
+        trailblazer in the lever harp world, she is equally at home writing
+        Latin America inspired works for solo harp as she is adapting classical
+        pieces for chamber collaborations."
+      image: https://ucarecdn.com/84c606e6-dc42-44d7-85ea-93b97c44cfa5/
+    - name: Bahar Royaee
+      bio: 'The acoustic and electro-acoustic music of Iranian composer/sound designer
+        Bahar Royaee has been acclaimed as "succeed(ing) as a poetic
+        incantation, brimming with ideas and colors” (*Classical Voice North
+        America*) and "haunting” (*Boston Arts Review*). Recipient of the
+        prestigious Opera America Discovery Grant 2025 and Fromm Foundation
+        Commission Awards 2022, Bahar writes music for various genres, from
+        opera, theater, and film to chamber music. Her work has been performed
+        by luminaries such as International Contemporary Ensemble, Ensemble der
+        gelbe Klang, Fabriqk Quartet, Splice Ensemble, and Lamnth. Significant
+        chamber music performances include Ojai Festival 2025, ECLAT Festival
+        2025 in Germany with FabrikQuartet, Biennale Venice in Italy 2024 with
+        Hannah Levinson, Festspiele festival in Germany with Opus21 ensemble
+        (2024), Composer Conference Gala 2024 with Talea Ensemble, Ultraschall
+        Berlin with Muriel Razavi (2023), Berlin Prize for Young Artists with
+        Adam Woodward (2023), ICE Festival Germany with ensemble Tempus Konnex
+        (2022), Tehran Electroacoustic Music Festival (2022) and Time: Spans
+        Festival (2020) with International Contemporary Ensemble and Suzanne
+        Farrin. Royaee is currently an assistant professor at Boston
+        Conservatory.'
+      image: https://ucarecdn.com/60e2c4f3-241c-40a5-a3ca-a0a29590b93d/
+    - name: Naima Shalhoub
+      bio: Best known for her “at turns wistful, haunting, and powerfully growling”
+        performances, Naima Shalhoub is a Lebanese musician, educator, and
+        multidisciplinary artist whose work centers sacred remembrance, healing,
+        and liberation. She has opened and performed alongside Angela Davis,
+        Cornel West, Zap Mama, and Les Nubians. Her music has been featured in
+        San Francisco Classical Voice, Al Jazeera and AJ+, PopMatters, Scene
+        Noise, KPFA, and Electronic Intifada. Shalhoub holds an MA in
+        Postcolonial Anthropology and brings over 20 years of grassroots
+        community work in prisons, schools, and community spaces to her artistic
+        practice, contributing to global movements for social justice,
+        collective healing, and liberation.
+      image: https://ucarecdn.com/01ad8646-3486-4630-a32d-cf3bd11f682a/
   heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
