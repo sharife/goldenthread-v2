@@ -251,6 +251,62 @@ cast:
         practice, contributing to global movements for social justice,
         collective healing, and liberation.
       image: https://ucarecdn.com/01ad8646-3486-4630-a32d-cf3bd11f682a/
+    - name: Amel Tafsout
+      bio: Born in Algeria, Amel Tafsout is a celebrated artist and scholar of North
+        African Maghreb dance. Her work intertwines movement with memory,
+        activism, and cultural depth. A true cultural ambassador, Tafsout has
+        dedicated her life to building bridges between North Africa and the
+        Western world through dance, scholarship, and storytelling. Her presence
+        is magnetic, her knowledge profound, and her artistry deeply rooted in
+        honoring tradition while inspiring transformation. “Her dance was as
+        cleansing and refreshing as the water she worked within her spirit. I
+        saw her, not just as Amel, but as her spirit dancing alongside her. At
+        moments, her face transformed into that of a tigress; at others, as she
+        whirled with her veil, waves of power washed over me, cool and
+        invigorating. Amel is a magical being, and today I truly witnessed every
+        energy she embodies come alive around her.”
+      image: https://ucarecdn.com/97139d86-1cb5-4fbf-98c6-90920c3be11e/
+    - bio: "Lisa has been working with Golden Thread Productions since 2003, when she
+        choreographed and performed in the musical *Love Missile*. She has since
+        worn many hats at Golden Thread: acting in a number of productions,
+        Stage manager for *Benedictus*, choreographer for *Learn To Be Latina*
+        and the Fairytale Players productions, as well as helping with assorted
+        administrative and production tasks. Lisa has also consulted and helped
+        launch Golden Thread’s Education Program. Born to parents of Armenian
+        descent, Lisa grew up in the Bay Area, studying music and dance, and
+        began performing in community theatre at age 11. Lisa has enjoyed
+        performing with various local dance and theatre companies including
+        Khadra International Dance Theatre, Ballet Asfaneh, Dance Brigade,
+        CTA/Crossroads, Douglas Morrison Theatre, Women’s Will and College of
+        Marin. She had a career as a Teaching Artist in numerous schools in the
+        Bay Area, and toured in California in school productions. She has
+        enjoyed choreographing for student shows and professional theatre. Lisa
+        holds a B.A. in Fine Arts from Mills College and an M.A. in Educational
+        Theatre from New York University."
+      name: Lisa Tateosian
+      image: https://ucarecdn.com/3eec8351-1048-48cd-9c3a-1a873d65a076/
+    - name: Dina Zarif
+      bio: "Dina is a San Francisco-based multidisciplinary performing artist,
+        designer, curator, and arts activist, born and raised in Iran. As a
+        vocalist, she blends Western classical technique with Middle Eastern and
+        Persian traditions, creating a sound rooted in her cultural heritage. As
+        an actress, Zarif trained with renowned Iranian theater master Bahram
+        Beyzaie at Stanford University’s Iranian Studies Program. Her stage
+        credits include *Ardaviraf’s Report*, *Tarabnameh* (musical),
+        *Crossroads*, *The Language of Wild Berries* (Golden Thread Productions,
+        2022), and *Exodus to Eden* (Oakland Theater Project, 2023). Most
+        recently, she appeared in *Dash Akol According to Marjan* at Berkeley
+        Repertory Theatre’s Roda Theatre (2024–2025) and in *Leili and Majnun*
+        (2024–2025). Zarif starred in the title role of the feature film *MITRA*
+        (2021), which premiered at the International Film Festival Rotterdam. As
+        a shadow performer and costume designer, she toured internationally with
+        *Feathers of Fire: A Persian Epic*, winner of the 2019 UNIMA Award for
+        Excellence in Live Performance and Design, performing at major venues
+        including the Brooklyn Academy of Music and the Metropolitan Museum of
+        Art. She is the Artistic and Managing Director of Red Poppy Art House, a
+        multidisciplinary artist incubator in SF. She holds an MA in Landscape
+        Architecture from the University of Tehran, College of Fine Arts."
+      image: https://ucarecdn.com/1d36ed89-3201-40e3-9734-0af6ad5177cd/
   heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
