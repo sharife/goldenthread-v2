@@ -71,6 +71,28 @@ cast:
         co-founder of Directors Lab Mediterranean. She has presented her work
         internationally and contributed scholarly writing on theatre and
         performance practice.
+    - name: Nabra Nelson
+      credit: Incoming Artistic Director
+      bio: N﻿abra is the Artistic Director of Golden Thread Productions. She is a
+        multi-disciplinary theater maker from Nubia, Egypt, and California, with
+        over a decade of experience as a director, administrator, writer,
+        consultant, dramaturg, and teaching artist. She leads the Nubian
+        Foundation for Preserving a Cultural Heritage, is a founding company
+        member of Dunya Productions, a founding company member of Heard Space
+        Arts Collective, Board Member of the MENA Theater Makers Alliance,
+        co-founder of HERitage emBODYment, company member of Dancing Earth, and
+        is the co-host of the *Kunafa & Shay Theater Podcast*. Awards and
+        recognitions include the New England Foundation for the Arts National
+        Theatre Project, Dramatists Guild Foundation National Playwriting
+        Fellowship, New Arab American Theater Works’ Inaugural Playwriting
+        Cohort, 4Culture Project Grant, Map Fund Artist Award, Wisconsin
+        Veterans Chamber of Commerce Nonprofit Partner of the Year, and Agenda
+        Communicating the Arts 30 Under 30. Her scholarship has been published
+        by Routledge, Bloomsbury, Johns Hopkins University Press, The Gemsbok,
+        and the Pedagogy and Theatre of the Oppressed Journal. Her plays have
+        been produced and developed in San Francisco, Los Angeles, Seattle,
+        Milwaukee, Santa Barbara, Portland, and Minneapolis.
+      image: https://ucarecdn.com/3424809e-cd74-40da-836e-890a5b93579f/
   heading: Artist Biographies
 mentions:
   text: Their whose unwavering spirit, courage, and enduring hope inspire us all,
