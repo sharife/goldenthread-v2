@@ -52,7 +52,8 @@ cast:
         Rights”. She is a founding board member of Middle Eastern North African
         Theater Makers Alliance (MENATMA) and also serves on the board of
         Consortium of Asian American Theatres and Artists (CAATA).
-      link: https://www.TorangeYeghiazarian.com
+        [TorangeYeghiazarian.com](https://www.TorangeYeghiazarian.com)
+      link: ""
     - name: Sahar Assaf
       credit: Outgoing Artistic Director
       image: https://ucarecdn.com/36dd6b09-e019-413b-8afc-4f2a9fd46087/
