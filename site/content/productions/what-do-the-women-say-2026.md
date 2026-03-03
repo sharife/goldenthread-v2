@@ -52,7 +52,8 @@ cast:
         Rights”. She is a founding board member of Middle Eastern North African
         Theater Makers Alliance (MENATMA) and also serves on the board of
         Consortium of Asian American Theatres and Artists (CAATA).
-      link: https://www.TorangeYeghiazarian.com
+        [TorangeYeghiazarian.com](https://www.TorangeYeghiazarian.com)
+      link: ""
     - name: Sahar Assaf
       credit: Outgoing Artistic Director
       image: https://ucarecdn.com/36dd6b09-e019-413b-8afc-4f2a9fd46087/
@@ -202,8 +203,10 @@ cast:
         African Theater Makers Alliance (MENATMA), a national coalition
         advancing visibility and equity for SWANA artists. Denmo holds an MFA in
         Lecoq-based Actor-Created Physical Theater (Naropa University) and a BFA
-        in Acting (Boston University)."
-      link: https://www.denmoibrahim.com
+        in Acting (Boston University).
+        [denmoibrahim.com](https://www.denmoibrahim.com) |
+        [zaynabbooks.com](https://www.zaynabbooks.com)"
+      link: ""
       image: https://ucarecdn.com/a0d0bd49-d20d-4a22-b22d-63f7a2f0dc12/
     - name: Fatemeh Mehraban
       bio: "Fatemeh is a queer Iranian performing artist and environmental scientist.
