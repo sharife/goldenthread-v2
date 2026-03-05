@@ -7,6 +7,10 @@ description: We, at Golden Thread Productions, stand in unwavering solidarity
   cities and provinces, ordinary citizens—students, workers, women, retirees,
   and young people—have risked everything to make their voices heard.
 ---
+*In the same spirit as the below statement of solidarity with the people of Iran — issued in response to the brutal repression of nationwide protests — Golden Thread Productions unequivocally condemns the illegal U.S.–Israeli war on Iran. This assault places millions of civilians at risk, strengthens authoritarian repression, and threatens the very movements for justice and freedom that Iranians have fought to sustain. Our solidarity remains with the people of Iran and their right to determine their own path free from coercion, domination, and war.*
+
+![](https://ucarecdn.com/27678130-ae5d-4947-8d83-4383c86bc54c/)
+
 We, at Golden Thread Productions, stand in unwavering solidarity with the people of Iran who have risen, once again, in peaceful protest to demand economic justice, fundamental freedoms, and basic human rights. Across cities and provinces, ordinary citizens—students, workers, women, retirees, and young people—have risked everything to make their voices heard.
 
 ![](https://ucarecdn.com/f8a4789b-0d27-42ad-b41f-1dff6a4260c7/)
