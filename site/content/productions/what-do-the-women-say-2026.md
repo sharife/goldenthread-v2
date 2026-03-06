@@ -209,21 +209,25 @@ cast:
       link: ""
       image: https://ucarecdn.com/a0d0bd49-d20d-4a22-b22d-63f7a2f0dc12/
     - name: Fatemeh Mehraban
-      bio: "Fatemeh is a queer Iranian performing artist and environmental scientist.
-        She was most recently in *Pilgrimage* and *Oriental: 1,001 Ways to Tie
-        Yourself in Knots* (Golden Thread Productions), *A Distinct Society*
-        (Weston Theatre Company), *Working for Crumbs* (B Street Theatre New
-        Comedies Festival), *English* and *Georgiana & Kitty* (Capital Stage).
-        Fatemeh divides her time between Sacramento, the Bay Area, and Los
-        Angeles, where she works in theater, film, and voiceover. What’s
-        important to her: that her work combines her passion for performance
-        with her passion for advocacy! Instagram:
+      bio: "Fatemeh is a queer Iranian performing artist, receiving her associate’s of
+        arts in theatre from American River College. Her work combines her
+        passion for performance with her passion for advocacy. She recently
+        received her bachelor of science in geography and environmental science
+        from California State University, Northridge. These days Fatemeh spends
+        her most of her time between NorCal and sunny Los Angeles working on
+        theater, film, and voiceover! Her most recent work includes
+        *Pilgrimage*, *A Distinct Society* (Weston Theatre Company), *English*
+        (Capital Stage), *Georgiana & Kitty* (Capital Stage), *Twelfth Night*
+        (California Stage), *The Newlywed Game* (B Street Theatre), *The Most
+        Massive Woman Wins* (Capital Stage), *For the Love of Dog* (The Stage at
+        Burke Junction), and *Sawyer Thompson* (The Geery Theatre). Instagram:
         [@fatemeow](https://www.instagram.com/fatemeow)"
       image: https://ucarecdn.com/39a9d6d1-e079-496a-b828-d2696044e37f/
     - name: Leda Rasooli
-      bio: Leda is an Afghan-American artist, based in California. She had the
-        privilege of participating in *English* at Capital Stage and
-        *Pilgrimage* at Golden Thread Productions.
+      bio: Leda is an Afghan-American artist, based in California. She's had the
+        privilege of participating in *English* at Capital Stage, and Golden
+        Thread's recent production *Pilgrimage.* She's honored to celebrate
+        Women's Day with Golden Thread.
       image: https://ucarecdn.com/266a2f1c-99e5-4eeb-b1eb-c899bc7c6a1b/
     - name: Amelia Romano
       bio: "Amelia is a lever harpist, programming classical re-imaginations alongside
