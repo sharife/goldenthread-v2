@@ -107,5 +107,3 @@ bottom:
 Uplifting Palestinian voices and stories in theater, film, and stand-up comedy, this unique festival builds upon Golden Thread’s decades-long commitment to Palestinian art. 
 
 A Festival of Palestinian Art is co-produced by **Golden Thread Productions** and **Crowded Fire Theater**. Events are supported by **Art2Action** as part of a multi-year partnership with Golden Thread on *Protecting Dissent,* uplifting and centering voices for Palestine.
-
-Projects featured include the return of the sold-out ***AMREEKA 2026: The Comedy Show***, curated by **Wafaa Bilal** and featuring an all-Palestinian line-up; a New Threads developmental workshop of ***A Country Made of Salt*** by **Denmo Ibrahim**, directed by **Nabra Nelson**; and a filmed version of **Alaa Shehada**’s acclaimed solo show ***The Horse of Jenin***.
