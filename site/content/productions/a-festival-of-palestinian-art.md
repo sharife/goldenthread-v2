@@ -49,7 +49,11 @@ lists:
         image: https://ucarecdn.com/4796ba42-8213-42db-befa-2dd2b361c712/
       - itemstart: 2026-01-26T21:25:32.879Z
         itemend: 2026-01-26T21:25:32.891Z
-        subtitle: by **Alaa Shehada**
+        subtitle: |-
+          written and performed by **Alaa Shehada**\
+          directed by **Katrien van Beurden** and **Thomas van Ouwerkerk**\
+          **A Troupe Courage Production**\
+          Screening produced by **55B Productions / Jenny Tibbels**
         pre: Film Screening
         title: The Horse of Jenin
         text: Built from the debris of a major invasion, the Horse of Jenin sculpture
