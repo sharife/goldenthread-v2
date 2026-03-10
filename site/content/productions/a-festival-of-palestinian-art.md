@@ -28,25 +28,6 @@ misc: ""
 lists:
   - heading: FESTIVAL LINE-UP
     items:
-      - itemstart: 2026-01-26T21:26:33.246Z
-        itemend: 2026-01-26T21:26:33.257Z
-        subtitle: Curated by **Wafaa Bilal** and featuring an all-Palestinian line-up
-        pre: Stand-up Comedy
-        title: "AMREEKA 2026: The Comedy Show"
-        text: >-
-          Back by popular demand after a sold-out run in 2023, *AMREEKA 2026:
-          The Comedy Show* is a raucous night of stand-up comedy, this year
-          featuring an all-Palestinian lineup! Curated by former Golden Thread
-          Artist-in-Residence Wafaa Bilal, this unique show brings together 
-          comedians with one thing in common: a deep love of complaining. The
-          toxic culture and politics in “Amreeka,” as some Middle Easterners
-          playfully pronounce it, offer ample fodder for further complaints.
-          This cathartic and witty venting holds a mirror up to reality showing
-          it has become so absurd and surreal, one must laugh, if not cry.
-
-
-          For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
-        image: https://ucarecdn.com/4796ba42-8213-42db-befa-2dd2b361c712/
       - itemstart: 2026-01-26T21:25:32.879Z
         itemend: 2026-01-26T21:25:32.891Z
         subtitle: |-
@@ -54,8 +35,8 @@ lists:
           directed by **Katrien van Beurden** and **Thomas van Ouwerkerk**\
           **A Troupe Courage Production**\
           Screening produced by **55B Productions / Jenny Tibbels**
-        pre: Film Screening
-        title: The Horse of Jenin
+        pre: Thu, Apr 9 & 16 at 8pm
+        title: "The Horse of Jenin: Film Screening"
         text: Built from the debris of a major invasion, the Horse of Jenin sculpture
           became a constant presence in Alaa’s life growing up in Occupied
           Palestine. It stood proudly in the center of the city for twenty
@@ -78,10 +59,30 @@ lists:
           desire to belong to something larger than yourself, *A Country Made of
           Salt* invites us to reflect on the stories we keep — and what stories
           keep us.
-        title: A Country Made of Salt
+        title: "A Country Made of Salt: New Threads Staged Reading"
         itemstart: ""
         itemend: ""
-        pre: A New Threads Staged Reading
+        pre: Fri, Apr 10 & Sat, Apr 11 at 8pm; Sun, Apr 12 at 3pm
+      - itemstart: 2026-01-26T21:26:33.246Z
+        itemend: 2026-01-26T21:26:33.257Z
+        subtitle: Curated by **Wafaa Bilal** and featuring an all-Palestinian line-up
+          with headliner **Suzie Afridi,** comedians **Majdy Fares** and **Lana
+          Salah**, with **Charles McBee** as MC
+        pre: Fri, Apr 17 & Sat, Apr 18 at 8pm; Sun, Apr 19 at 3pm
+        title: "AMREEKA 2026: The Comedy Show"
+        text: >-
+          Back by popular demand after a sold-out run in 2023, *AMREEKA 2026:
+          The Comedy Show* is a raucous night of stand-up comedy, this year
+          featuring an all-Palestinian lineup! This unique show brings together 
+          comedians with one thing in common: a deep love of complaining. The
+          toxic culture and politics in “Amreeka,” as some Middle Easterners
+          playfully pronounce it, offer ample fodder for further complaints.
+          This cathartic and witty venting holds a mirror up to reality showing
+          it has become so absurd and surreal, one must laugh, if not cry.
+
+
+          For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
+        image: https://ucarecdn.com/4796ba42-8213-42db-befa-2dd2b361c712/
 grids: []
 cast:
   heading: ""
