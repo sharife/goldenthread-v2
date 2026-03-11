@@ -1,6 +1,6 @@
 ---
 title: Middle East Center Stage
-headline: A Festival of Palestinian Art
+headline: A FESTIVAL OF PALESTINIAN ART
 subtitle: "Uplifting Palestinian voices and stories in theater, film, and
   stand-up comedy "
 background: https://ucarecdn.com/f4036be8-0395-426d-8f10-29af59c8d054/
