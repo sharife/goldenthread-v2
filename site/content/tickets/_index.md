@@ -3,19 +3,23 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - title: "What Do the Women Say?: 30th Anniversary Edition"
-        pre: Sunday, March 8, 2026 at 7pm
-        subtitle: F﻿eaturing Torange Yeghiazarian, Sahar Assaf, and Nabra Nelson
-        image: https://ucarecdn.com/d062d25a-3806-498e-95c9-ca19ca1aefac/
-        text: Join founder **Torange Yeghiazarian**, outgoing Artistic Director **Sahar
-          Assaf**, and incoming Artistic Director **Nabra Nelson** as they
-          co-host a special Women’s Day Celebration marking our 30th
-          Anniversary. Our leaders will welcome women artists connected to
-          Golden Thread to share music, spoken word, and plays and engage them
-          in a wide-ranging conversation about the past, the present, and the
-          future of the company. Co-presented with **Brava**.
-        cta: Buy Tickets Now!
-        link: https://brava.my.salesforce-sites.com/ticket/#/instances/a0FPa000003ttjhMAA
+      - title: A Festival of Palestinian Art
+        pre: April 9-19, 2026
+        subtitle: Uplifting Palestinian voices and stories in theater, film, and
+          stand-up comedy
+        image: https://ucarecdn.com/3824b544-6f4c-40e4-8e43-8841e9b50c77/
+        text: "C﻿o-produced by **Golden Thread Productions** and **Crowded Fire**, in
+          partnership with **Art2Action**, this unique festival, builds upon
+          Golden Thread’s decades-long commitment to Palestinian art.  Projects
+          include a filmed version of **Alaa Shehada**’s acclaimed solo show
+          ***The Horse of Jenin*** and a New Threads developmental reading of
+          ***A Country Made of Salt*** by **Denmo Ibrahim**, and **AMREEKA 2026:
+          The Comedy Show**, which played to sold out houses in 2023. The comedy
+          show is curated by **Wafaa Bilal** and features an all-Palestinian
+          line-up: Headliner **Suzie Afridi**, featured comedians **Majdy
+          Fares** and **Lana Salah**, with **Charles McBee** as MC."
+        cta: Tickets and 2- and 3-Show Festival Passes
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
 ---
 - - -
 
