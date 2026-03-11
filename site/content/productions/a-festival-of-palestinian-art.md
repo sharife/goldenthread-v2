@@ -11,7 +11,7 @@ description: Building upon Golden Thread’s decades-long commitment to
   Events are supported by **Art2Action** as part of a multi-year partnership
   with Golden Thread on *Protecting Dissent,* uplifting and centering voices for
   Palestine.
-background: https://ucarecdn.com/b329e702-c246-4a0f-b7fd-381aefc2ddfa/
+background: https://ucarecdn.com/f230e1b4-c9f8-4e7a-8668-27e169047e43/
 titleimage: ""
 program: null
 videos: []
