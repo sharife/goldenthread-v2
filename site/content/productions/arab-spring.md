@@ -16,6 +16,7 @@ titleimage: ""
 programlabel: ""
 program: ""
 writer: Denmo Ibrahim
+director: Nailah Unole didanas’ea Harper-Malveaux
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
