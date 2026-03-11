@@ -5,10 +5,14 @@ season: 2026
 date: 2026-01-26T21:04:56.409Z
 start: 2026-04-09T19:00:56.417Z
 end: 2026-04-19T22:00:56.425Z
-heading: ""
-description: ""
-background: ""
-titleimage: https://ucarecdn.com/29427e8a-f1e7-4a4c-8a33-8966d511c69a/
+heading: Uplifting Palestinian voices and stories in theater, film, and stand-up comedy
+description: Building upon Golden Thread’s decades-long commitment to
+  Palestinian art, this unique festival is co-produced with **Crowded Fire**.
+  Events are supported by **Art2Action** as part of a multi-year partnership
+  with Golden Thread on *Protecting Dissent,* uplifting and centering voices for
+  Palestine.
+background: https://ucarecdn.com/b329e702-c246-4a0f-b7fd-381aefc2ddfa/
+titleimage: ""
 program: null
 videos: []
 writer: ""
@@ -105,6 +109,4 @@ bottom:
   heading: ""
   logos: []
 ---
-Uplifting Palestinian voices and stories in theater, film, and stand-up comedy, this unique festival builds upon Golden Thread’s decades-long commitment to Palestinian art. 
-
-A Festival of Palestinian Art is co-produced by **Golden Thread Productions** and **Crowded Fire Theater**. Events are supported by **Art2Action** as part of a multi-year partnership with Golden Thread on *Protecting Dissent,* uplifting and centering voices for Palestine.
+Golden Thread Artistic Director Nabra Nelson says: “As the genocide continues in Palestine, it is a radical act of resistance to center Palestinian laughter and joy through this festival. Comedy is a powerful way to bring communities together, to cope with tragic circumstances, and to access some much-needed healing. The dynamism of this festival reflects the diversity of Palestinian art through three very different yet equally exciting offerings.”
