@@ -3,22 +3,19 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - title: A Festival of Palestinian Art
+      - title: A FESTIVAL OF PALESTINIAN ART
         pre: April 9-19, 2026
-        subtitle: Uplifting Palestinian voices and stories in theater, film, and
-          stand-up comedy
+        subtitle: C﻿o-produced by **Golden Thread Productions** and **Crowded Fire**, in
+          partnership with **Art2Action**
         image: https://ucarecdn.com/3824b544-6f4c-40e4-8e43-8841e9b50c77/
-        text: "C﻿o-produced by **Golden Thread Productions** and **Crowded Fire**, in
-          partnership with **Art2Action**, this unique festival, builds upon
-          Golden Thread’s decades-long commitment to Palestinian art.  Projects
-          include a filmed version of **Alaa Shehada**’s acclaimed solo show
-          ***The Horse of Jenin*** and a New Threads developmental reading of
-          ***A Country Made of Salt*** by **Denmo Ibrahim**, and **AMREEKA 2026:
-          The Comedy Show**, which played to sold out houses in 2023. The comedy
-          show is curated by **Wafaa Bilal** and features an all-Palestinian
-          line-up: Headliner **Suzie Afridi**, featured comedians **Majdy
-          Fares** and **Lana Salah**, with **Charles McBee** as MC."
-        cta: Tickets and 2- and 3-Show Festival Passes
+        text: "Uplifting Palestinian voices and stories in theater, film, and stand-up
+          comedy, this unique festival, builds upon Golden Thread’s decades-long
+          commitment to Palestinian art.  Projects include a filmed version of
+          **Alaa Shehada**’s acclaimed solo show ***The Horse of Jenin*** and a
+          New Threads developmental reading of ***A Country Made of Salt*** by
+          **Denmo Ibrahim**, and **AMREEKA 2026: The Comedy Show**, which played
+          to sold out houses in 2023."
+        cta: Tickets and Festival Passes
         link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
 ---
 - - -
