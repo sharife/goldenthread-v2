@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: A Festival of Palestinian Art
 subtitle: "Uplifting Palestinian voices and stories in theater, film, and
   stand-up comedy "
-background: https://ucarecdn.com/1f1d614f-3670-4fd6-b0d2-7459e7b4928f/
+background: https://ucarecdn.com/feb7eae7-6e99-430e-9ef1-e63480615bca/
 cta: Join us April 9-19 at Potrero Stage
 link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
 items:
