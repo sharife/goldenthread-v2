@@ -1,10 +1,11 @@
 ---
 title: Middle East Center Stage
-headline: What Do the Women Say?
-subtitle: Featuring Torange Yeghiazarian, Sahar Assaf, and Nabra Nelson
-background: https://ucarecdn.com/d0d8495e-95fe-47a8-af3e-389b61b07c04/
-cta: Celebrate Women's Day With Us on March 8
-link: https://goldenthread.org/productions/what-do-the-women-say-2026/
+headline: A Festival of Palestinian Art
+subtitle: "Uplifting Palestinian voices and stories in theater, film, and
+  stand-up comedy "
+background: https://ucarecdn.com/1f1d614f-3670-4fd6-b0d2-7459e7b4928f/
+cta: Join us April 9-19 at Potrero Stage
+link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
 items:
   - subtitle: |-
       **G﻿olden30 Campaign**\
