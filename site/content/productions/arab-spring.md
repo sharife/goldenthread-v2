@@ -49,6 +49,21 @@ cast:
 
         As an educator, she has led workshops in storytelling and ensemble devised theatre at Harvard University, University of Michigan, the University of Wisconsin, and LOYAC in Kuwait. She currently serves as Chair of the MENA Theatre Makers Alliance (MENATMA), a national coalition advancing visibility and equity for SWANA artists. Denmo holds an MFA from Naropa University and a BFA from Boston University. [](http://denmoibrahim.com/)
       link: https://www.denmoibrahim.com
+    - name: Nailah Unole didanas'ea Harper-Malveaux
+      bio: "**Nailah Unole didanas'ea Harper-Malveaux** (she/her) is a queer
+        multiracial theater director and producer. Directing highlights include:
+        the rolling world premiere of *Haunted* by Tara Moses (Cleveland Public
+        Theatre), the West Coast premiere of *The Last of the Love Letters* by
+        Ngozi Anyanwu and *Edit* Annie by Mary Glen Fredrick (Crowded Fire), the
+        world premiere of *Getting There* by Dipika Guha (NCTC), and *The Light*
+        by Loy A. Webb (Shotgun Players). She serves as the Leader of Artistic
+        Curation at Crowded Fire Theater. She has worked as a freelance artist
+        at Cleveland Public Theater, Woolly Mammoth, Pasadena Playhouse,
+        Williamstown Theater Festival, Berkeley Rep, Baltimore Center Stage, Z
+        Space, and American Conservatory Theater. She received her B.A. in
+        American Studies and Theatre Studies from Yale University."
+      credit: Director
+      image: https://ucarecdn.com/8de052aa-d406-412e-913c-06e3f49c445a/
   heading: Creative Team
 mentions:
   heading: ""
