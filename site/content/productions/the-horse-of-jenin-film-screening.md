@@ -114,16 +114,19 @@ cast:
       name: Sam Beale
       credit: Co-Writer and Stand-Up Comedy Consultant
       image: https://ucarecdn.com/9558615e-a268-4e55-b67c-96610c1f9798/
+    - {}
 mentions:
   text: ""
 bottom:
   text: >-
-    *The Horse of Jenin* is made possible with financial support to Troupe
-    Courage from **Amsterdam Fund for the Arts (AFK)**, **Fonds 21**,
-    **Performing Arts Fund NL (FPK)**, **Cultuurfonds**, **Norma Fund**, and
-    crowdfunding platform **Voordekunst**. With special thanks to **Jacqueline
-    Kleijn**, **Hugo Keuzenkamp**, **Tjipke Bergsma**, **Nan van Houte**,
-    **Lucas Hendricks**, and **Shelly Razaac**.
+    *T﻿he Horse of Jenin* is part of [A Festival of Palestinian
+    Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/),
+    produced by **Golden Thread** and **Crowded Fire**. Events are supported
+    by Art2Action as part of a multi-year partnership with Golden Thread
+    on *Protecting Dissent,* uplifting and centering voices for Palestine.
+
+
+    The original production of *The Horse of Jenin* was made possible with financial support to Troupe Courage from **Amsterdam Fund for the Arts (AFK)**, **Fonds 21**, **Performing Arts Fund NL (FPK)**, **Cultuurfonds**, **Norma Fund**, and crowdfunding platform **Voordekunst**. With special thanks to **Jacqueline Kleijn**, **Hugo Keuzenkamp**, **Tjipke Bergsma**, **Nan van Houte**, **Lucas Hendricks**, and **Shelly Razaac**.
 
 
     The U.S. premiere of *The Horse of Jenin* was originally presented by **La MaMa** during **Under the Radar Festival 2025**, and co-produced by **GOH Productions** and **55B Productions**.
@@ -135,5 +138,3 @@ bottom:
 We had originally planned to present in-person performances of *The Horse of Jenin.* In November 2025, playwright and performer Alaa Shehada was detained by Customs and Border Patrol while attempting to enter the U.S. on his valid O1-B visa, granted to individuals recognized for extraordinary ability in the arts. He was denied entry and returned to Amsterdam. The U.S. has since issued a ban on entry for individuals traveling on Palestinian Authority documentation.
 
 **G﻿olden Thread Productions**, **Crowded Fire**, and **Art2Action**, along with PlayCo, New York Theatre Workshop, and 55B Productions (New York City), Studio Theatre and the Laboratory for Global Performance & Politics (Washington, DC), , and Dunya Productions and Donkeysaddle Projects (Seattle) remain committed to ensuring that Palestinian voices are not silenced and that audiences can experience *The Horse of Jenin*. Screenings of the show will be presented in lieu of live performances.
-
-*T﻿he Horse of Jenin* is part of [A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/), produced by **Golden Thread** and **Crowded Fire**. Events are supported by Art2Action as part of a multi-year partnership with Golden Thread on *Protecting Dissent,* uplifting and centering voices for Palestine.
