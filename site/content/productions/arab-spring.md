@@ -29,11 +29,11 @@ cast:
       credit: Playwright
       image: https://ucarecdn.com/f52a405d-561a-4ca2-9a7f-f02d5664d1e6/
       bio: >-
-        Denmo Ibrahim (she/her) is an American playwright, actor, and theatre
-        maker of Egyptian descent. She is the recipient of the Legacy Playwright
-        Award from Advance Gender Equity in the Arts and was shortlisted for the
-        2025 Princess Grace Award. Her plays include *Arab Spring* (Finalist:
-        O’Neill National Playwrights Conference, Rainin
+        **Denmo Ibrahim** (she/her) is an American playwright, actor, and
+        theatre maker of Egyptian descent. She is the recipient of the Legacy
+        Playwright Award from Advance Gender Equity in the Arts and was
+        shortlisted for the 2025 Princess Grace Award. Her plays include *Arab
+        Spring* (Finalist: O’Neill National Playwrights Conference, Rainin
         Fellowship), *BABA* (Winner: Theatre Bay Area “Best Original Script”;
         SFBATCC “Best New Play” & “Best Solo Show”), *The Weight of an
         Orange* (The Playwrights’ Revolution, Capital Stage) and *Naguib Mahfuz
@@ -47,8 +47,8 @@ cast:
         Denmo’s creative work has been produced and developed by Audible, Round House Theatre, Williamston Theatre, Marin Theatre Company, Noor Theatre, The Civilians R&D Series, Amphibian Stage, Alter Theatre, Shotgun Players, Golden Thread, and Crowded Fire.
 
 
-        As an educator, she has led workshops in storytelling and ensemble devised theatre at Harvard University, University of Michigan, the University of Wisconsin, and LOYAC in Kuwait. She currently serves as Chair of the MENA Theatre Makers Alliance (MENATMA), a national coalition advancing visibility and equity for SWANA artists. Denmo holds an MFA from Naropa University and a BFA from Boston University. [](http://denmoibrahim.com/)
-      link: https://www.denmoibrahim.com
+        As an educator, she has led workshops in storytelling and ensemble devised theatre at Harvard University, University of Michigan, the University of Wisconsin, and LOYAC in Kuwait. She currently serves as Chair of the MENA Theatre Makers Alliance (MENATMA), a national coalition advancing visibility and equity for SWANA artists. Denmo holds an MFA from Naropa University and a BFA from Boston University. [denmoibrahim.com](https://www.denmoibrahim.com)[](https://www.denmoibrahim.com)
+      link: ""
     - name: Nailah Unole didanas'ea Harper-Malveaux
       bio: "**Nailah Unole didanas'ea Harper-Malveaux** (she/her) is a queer
         multiracial theater director and producer. Directing highlights include:
