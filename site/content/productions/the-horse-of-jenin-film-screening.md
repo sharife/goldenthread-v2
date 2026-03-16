@@ -216,8 +216,6 @@ photos:
   items:
     - image: https://ucarecdn.com/8611e33c-91c4-4284-8f5e-37e9e5eeae57/
     - image: https://ucarecdn.com/45317716-f655-4d2f-b731-692f76d5b0de/
-    - image: https://ucarecdn.com/17418a12-5a0b-4650-a004-8afe6a2aa0d0/
-    - image: https://ucarecdn.com/8527d04c-399c-4b54-a0e4-23887cda1fee/
     - image: https://ucarecdn.com/b53b4405-dd5c-4775-937e-198133fa115a/
 bottom:
   text: >-
