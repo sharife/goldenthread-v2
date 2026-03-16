@@ -11,11 +11,12 @@ Then, on October 29, 2023, an Israeli bulldozer entered the city, ripping the sc
 
 Highly acclaimed at the 2025 Edinburgh Fringe Festival, Bush Theatre (London), and other international engagements and combining storytelling, mask, and stand-up comedy, ***The Horse of Jenin*** is constructed from the fragments of Palestinian actor and comedian **Alaa Shehada**’s own memories and stands as an ode to the power of imagination and the resilience it brings.
 
-#### S﻿creening Dates and Times: \
-T﻿hursday, April 9, 2026 at 8pm\
-T﻿hursday, April 16, 2026 at 8pm\
-\
-[B﻿uy Screening Tickets and Multi-Event Festival Passes](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP)
+#### S﻿creening Dates and Times: 
+
+#### T﻿hursday, April 9, 2026 at 8pm\
+T﻿hursday, April 16, 2026 at 8pm
+
+#### [B﻿uy Screening Tickets and Multi-Event Festival Passes](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP)
 
 *T﻿he Horse of Jenin* is part of A Festival of Palestinian Art, produced by Golden Thread and Crowded Fire, in partnership with Art2Action. (April 9-19, 2026 at Potrero Stage) 
 
