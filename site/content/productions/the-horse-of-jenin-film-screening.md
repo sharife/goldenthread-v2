@@ -28,7 +28,7 @@ description: >-
 background: https://ucarecdn.com/637c7de0-1479-4172-9424-efda5955d2e7/
 videos:
   - id: https://www.youtube.com/watch?v=XNI6RoC89ko
-additional: Thursdays, April 9 & 16, 2026 at 8pm
+additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
