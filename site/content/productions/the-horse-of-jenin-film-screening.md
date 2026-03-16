@@ -87,6 +87,26 @@ cast:
       name: Thomas Van Ouwerker
       credit: Co-Director
       image: https://ucarecdn.com/8b227ef2-645e-434d-88f3-f2289a976194/
+    - bio: "**Dr. Sam Beale** is a comedy director, researcher, writer and teacher who
+        works with comedians, solo performers and theatre/circus companies to
+        develop comedy material, direct comic performances and script shows. For
+        over 25 years she has taught comedy and solo performance practices in
+        Higher Education in the UK and facilitated collaborative socially
+        engaged comedy projects in a range of international contexts. She is
+        director of Funny Side Collective (<https://funnyside.co.uk/>),
+        co-founder/co-artistic director of Palestine Comedy Club (PalCom:
+         <https://www.palestinecomedyclub.com/>), and has worked with Alaa
+        Shehada since 2017, creating and touring comedy shows in Palestine and
+        the UK. Sam also researches and writes about the history and practice of
+        comedy for academic publications and speaks about comedy and social
+        change at international conferences. She is the author of The Comedy &
+        Legacy of Music Hall Women 1880-1920: Brazen Impudence and Boisterous
+        Vulgarity (Palgrave Macmillan, 2020) and is currently working on a book
+        about socially engaged comedy projects around the world (Routledge,
+        2026)."
+      name: Sam Beale
+      credit: Co-Writer and Stand-Up Comedy Consultant
+      image: https://ucarecdn.com/9558615e-a268-4e55-b67c-96610c1f9798/
 mentions:
   text: ""
 bottom:
