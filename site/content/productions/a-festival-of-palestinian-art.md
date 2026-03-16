@@ -52,8 +52,8 @@ lists:
           Screening produced by **55B Productions / Jenny Tibbels**
         title: "The Horse of Jenin: Film Screening"
         link: https://goldenthread.org/productions/the-horse-of-jenin-film-screening/
-        image: https://ucarecdn.com/208bc3ce-de0f-4c54-9003-534ddfdba772/
-      - image: https://ucarecdn.com/99e5073e-fc08-4458-bcdf-e1b6bbc12d15/
+        image: https://ucarecdn.com/b586b44d-b5ed-474e-87e6-e6bd61e34b68/
+      - image: https://ucarecdn.com/c7475dc6-bb99-4acc-902a-c6c8e761d41d/
         subtitle: |-
           by **Denmo Ibrahim**\
           d﻿irected by **Nabra Nelson**
