@@ -17,7 +17,7 @@ Highly acclaimed at the 2025 Edinburgh Fringe Festival, Bush Theatre (London), a
 
 #### [B﻿uy Screening Tickets and Multi-Event Festival Passes](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP)
 
-*T﻿he Horse of Jenin* is part of A Festival of Palestinian Art, produced by Golden Thread and Crowded Fire, in partnership with Art2Action. (April 9-19, 2026 at Potrero Stage) 
+*T﻿he Horse of Jenin* is part of [A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/), produced by Golden Thread and Crowded Fire, in partnership with Art2Action. (April 9-19, 2026 at Potrero Stage) 
 
 ![](https://ucarecdn.com/f0688934-1fcf-44ce-9d2b-a1a686550aa0/)
 
