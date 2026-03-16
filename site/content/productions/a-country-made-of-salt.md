@@ -22,9 +22,8 @@ description: >-
 
 
   A baker, a mystic, and a falcon walk into an office one stormy night… Rabia Haddad is on a mission to discover a lost history. But as she builds her map, the archive begins to talk back, blurring the lines between testimony, memory and myth. Could it be that the one story she needs most is her own? A play about inheritance, letting go, and the desire to belong to something larger than yourself, *A Country Made of Salt* invites us to reflect on the stories we keep — and what stories keep us.
-background: https://ucarecdn.com/637c7de0-1479-4172-9424-efda5955d2e7/
-videos:
-  - id: https://www.youtube.com/watch?v=XNI6RoC89ko
+background: https://ucarecdn.com/1c933cb2-c2a0-4e5e-8476-de7fffa09680/
+videos: []
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
@@ -228,7 +227,9 @@ bottom:
 
     The U.S. premiere of *The Horse of Jenin* was originally presented by **La MaMa** during **Under the Radar Festival 2025**, and co-produced by **GOH Productions** and **55B Productions**.
 ---
-*T﻿he Horse of Jenin* is part of **[A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/)**, produced by **Golden Thread** and **Crowded Fire**, in partnership with **Art2Action**. (April 9-19, 2026 at Potrero Stage)
+*T﻿he Horse of Jenin* 
+
+is part of **[A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/)**, produced by **Golden Thread** and **Crowded Fire**, in partnership with **Art2Action**. (April 9-19, 2026 at Potrero Stage)
 
 ![](https://ucarecdn.com/f0688934-1fcf-44ce-9d2b-a1a686550aa0/)
 
