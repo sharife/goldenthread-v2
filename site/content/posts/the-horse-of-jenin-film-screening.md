@@ -27,7 +27,7 @@ We had originally planned to present in-person performances of *The Horse of Jen
 
 ![](https://ucarecdn.com/e9c680b9-d5b9-40ba-aaee-78e06972741c/)
 
-*T﻿HE HORSE OF JENIN* ARTISTS
+#### *T﻿HE HORSE OF JENIN* ARTISTS
 
 Writer and Performer
 **Alaa Shehada**
