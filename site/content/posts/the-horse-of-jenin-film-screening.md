@@ -1,6 +1,7 @@
 ---
 title: "The Horse of Jenin: Film Screening"
 date: 2026-03-16T18:51:08.148Z
+background: https://ucarecdn.com/8736c8d9-6351-40e3-8704-c2bfaef3ce6a/
 ---
 #### “The horse in Arabic is a symbol of freedom. But to us, this horse is much more. This horse is us.”
 
