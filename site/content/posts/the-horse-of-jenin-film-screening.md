@@ -13,15 +13,15 @@ Highly acclaimed at the 2025 Edinburgh Fringe Festival, Bush Theatre (London), a
 
 #### S﻿creening Dates and Times: \
 T﻿hursday, April 9, 2026 at 8pm\
-T﻿hursday, April 16, 2026 at 8pm
-
-#### [B﻿uy Screening Tickets and Multi-Event Festival Passes](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP)
+T﻿hursday, April 16, 2026 at 8pm\
+\
+[B﻿uy Screening Tickets and Multi-Event Festival Passes](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP)
 
 *T﻿he Horse of Jenin* is part of A Festival of Palestinian Art, produced by Golden Thread and Crowded Fire, in partnership with Art2Action. (April 9-19, 2026 at Potrero Stage) 
 
 ![](https://ucarecdn.com/f0688934-1fcf-44ce-9d2b-a1a686550aa0/)
 
-We had originally planned to present in-person performances of *The Horse of Jenin***.** In November 2025, playwright and performer Alaa Shehada was detained by Customs and Border Patrol while attempting to enter the U.S. on his valid O1-B visa, granted to individuals recognized for extraordinary ability in the arts. He was denied entry and returned to Amsterdam. The U.S. has since issued a ban on entry for individuals traveling on Palestinian Authority documentation.
+We had originally planned to present in-person performances of *The Horse of Jenin**\*.** In November 2025, playwright and performer Alaa Shehada was detained by Customs and Border Patrol while attempting to enter the U.S. on his valid O1-B visa, granted to individuals recognized for extraordinary ability in the arts. He was denied entry and returned to Amsterdam. The U.S. has since issued a ban on entry for individuals traveling on Palestinian Authority documentation.
 
 **G﻿olden Thread Productions**, **Crowded Fire**, and **Art2Action**,along with PlayCo, New York Theatre Workshop, and 55B Productions (New York City), Studio Theatre and the Laboratory for Global Performance & Politics (Washington, DC), , and Dunya Productions and Donkeysaddle Projects (Seattle) remain committed to ensuring that Palestinian voices are not silenced and that audiences can experience *The Horse of Jenin*. Screenings of the show will be presented in lieu of live performances.
 
