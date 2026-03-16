@@ -15,7 +15,9 @@ description: >-
 
   #### FILM SCREENING (Part of A Festival of Palestinian Art)\
 
-  T﻿hursdays, April 9 & 16, 2026 at 8pm
+  T﻿hursday, April 9, 2026 at 8pm\
+
+  T﻿hursday, April 16, 2026 at 8pm
 
 
   Built from the debris of a major invasion, the Horse of Jenin sculpture became a constant presence in Alaa’s life growing up in Occupied Palestine. It stood proudly in the center of the city for twenty years, symbolizing hope and resistance. Then, on October 29, 2023, an Israeli bulldozer entered the city, ripping the sculpture from its place — and from its people. Now, Alaa is left wondering… *What happened to the horse?*
