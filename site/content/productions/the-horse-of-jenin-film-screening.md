@@ -112,11 +112,112 @@ cast:
         about socially engaged comedy projects around the world (Routledge,
         2026)."
       name: Sam Beale
-      credit: Co-Writer and Stand-Up Comedy Consultant
+      credit: Stand-Up Comedy Consultant and Co-Writer
       image: https://ucarecdn.com/9558615e-a268-4e55-b67c-96610c1f9798/
-    - {}
+    - bio: "**Den Durand** has been designing and making leather theater masks since
+        1980, after graduating from the Ecole Nationale Supérieure des Arts
+        Appliqués et des métiers d'Art in Paris. Since 1985, he has worked
+        professionally in this endeavor. Durand collaborates with numerous
+        conservatories and theater schools worldwide and manufactures masks for
+        various theater companies. He maintains a fruitful collaboration with
+        the Amsterdam company Troupe Courage. In addition to his work as a
+        maker, Den Durand performs as a masked actor and practices the art of
+        acting with masks."
+      credit: Masks
+      name: Dan Durand
+      image: https://ucarecdn.com/46fe7799-cb95-4e5d-938e-2a201d7320e4/
+    - bio: "**Remy van Kesteren** was admitted to the Utrecht Conservatoire at the age
+        of ten, where he studied with Erika Waardenburg and in 2010, graduated
+        with high distinction. He continued his education at the Conservatoire
+        National Supérieur de Musique de Paris, studying with renowned harpist
+        Isabelle Moretti. In 2012, he received his master's degree ‘summa cum
+        laude’ from the Conservatorium van Amsterdam. Praised by The New York
+        Times as a ‘brilliant harpist’, Remy built an international,
+        award-winning career, performing in concert halls around the world,
+        winning a worldwide major international harp competition in 2013. At the
+        age of 25, Remy experienced restlessness, and a sense that something was
+        not quite right. The lure of the harp pulled him in a new direction.
+        After winning the Dutch Music Prize in 2016 with his cross-genre album
+        Tomorrow Eyes, he went from playing with world-renowned orchestras to
+        performing in clubs and pop festivals, both solo and with his band
+        Analogue Robot Orchestra, exploring and stretching the limits of his
+        instrument. Whether collaborating on dance (Het Nationale Ballet in 2014
+        & 2017), film (with Oscar-winning director Michael Dudok De Wit), or
+        mixing genres with singer-songwriters, producers and DJs, Remy continues
+        to find fresh and creative ways to push the boundaries of his harp
+        playing. His own music has generated more than 12 million streams on
+        Spotify alone in 182 different countries."
+      name: Remy van Kesteren
+      credit: Composer/Musician
+      image: https://ucarecdn.com/67dce76b-436f-4406-96e4-f82c56fc13aa/
+    - bio: "**Khalil Al Batran** is a Palestinian theater director, actor, and
+        musician with a degree in Drama and Theater from the Academy of Theatre
+        and Drama in Ramallah and Folkwang University of the Arts in Germany. He
+        began as an actor, later integrating music into theater and
+        transitioning to directing in 2019. In 2021, he co-founded Athar Group
+        for Independent Theater Production. Khalil is a certified theater
+        trainer, in voice, movement, and performance techniques and has taught
+        at The Freedom Theater school in Jenin. His recent acting work includes
+        Corpse Under the Rubble, and directing projects include I Will Betray My
+        Country, Brainwashers, Bridge, and Strange Identity. Fulana and Still
+        Waiting."
+      credit: Composer/Musician
+      name: Khalil Al Batran
+      image: https://ucarecdn.com/cd8e8c1d-e8c4-4c72-8340-d1f7218d880e/
+    - bio: "**Maarten Bos** graduated from the Master Dramaturgy at the University of
+        Amsterdam in 2018. As a dramaturg, he has since worked for several
+        national and international theatre makers and companies, including:
+        Werkplaats van de Woestijne, De Jonge Honden, Troupe Courage and
+        Tryater. As a core team teacher at the Amsterdam’s Drama and
+        Contemporary Music Theatre (ATKA), he teaches dramaturgy. In addition,
+        Maarten is active as a writer of short stories, with which he gives
+        read-aloud performances on stages across the country. In 2019, he made
+        the successful podcast Talking about Depression for which he talked to
+        professionals and experts about their experiences with mental health."
+      name: Maarten Bos
+      credit: Dramaturg
+      image: https://ucarecdn.com/ea4f6222-bd3e-4bf4-a6bd-6b1de5232f5b/
+    - bio: "**Roderick Bredenoord** is a multifaceted professional in the performing
+        arts, with extensive experience in acting, directing, theater education,
+        production, and stage technology. His broad background seamlessly
+        combines artistic expertise with organizational skills, making him a
+        versatile force in the theater world. He pursued his studies in acting
+        at MBO Artiest, directing and acting in Amsterdam, and theater education
+        in Maastricht. This diverse educational foundation has equipped him for
+        a career where he effectively integrates his artistic vision with his
+        organizational capabilities. Roderick is currently affiliated with
+        Theaterfestival de Parade, Het Nationale Theater, and Troupe Courage. As
+        of January 2025, he will be production manager for Schuldig Kind by Het
+        Nationale Theater and executive producer for Theaterfestival de Parade."
+      name: Roderick Bredenoord
+      credit: Technical Designer
+      image: https://ucarecdn.com/dff5cf05-8cde-4217-b09b-28073e460578/
+    - bio: "**Sacha Muller** is an actor and theatremaker with a great love for
+        physical, visual and musical theater. Since the founding of Troupe
+        Courage, he has been a permanent part of that artistic team, with whom
+        he creates and performs shows at home and abroad.  He also performs with
+        several theater companies in the Netherlands including: Theatergroep
+        Aluin, Het Filiaal Theatermakers, Bonte Hond, MaasTD and Ulrique Quade
+        Company.  Together with Thomas van Ouwerkerk and Jos Nargy he forms the
+        makers collective 'Thomas, Sacha and Jos', with whom he made last season
+        the successful productions ‘Twee oude vrouwtjes’, after the book of the
+        same name by Toon Tellegen."
+      name: Sacha Muller
+      credit: Artistic Associate
+      image: https://ucarecdn.com/e8a85ed5-d5a6-4af2-8c8d-8f910cdd18f2/
 mentions:
-  text: ""
+  text: Kamerich & Budwilowitz (Production Photographer), Dario&Misja photography
+    (Poster Photographer), David Koster (Trailer), Thomas Kilpper (Artwork
+    Featured in Video), Monique Bos (Troupe Courage Company Manager)
+  heading: Additional Artistic Credits
+photos:
+  heading: Production Photos
+  items:
+    - image: https://ucarecdn.com/8611e33c-91c4-4284-8f5e-37e9e5eeae57/
+    - image: https://ucarecdn.com/45317716-f655-4d2f-b731-692f76d5b0de/
+    - image: https://ucarecdn.com/17418a12-5a0b-4650-a004-8afe6a2aa0d0/
+    - image: https://ucarecdn.com/8527d04c-399c-4b54-a0e4-23887cda1fee/
+    - image: https://ucarecdn.com/b53b4405-dd5c-4775-937e-198133fa115a/
 bottom:
   text: >-
     *T﻿he Horse of Jenin* is part of [A Festival of Palestinian
