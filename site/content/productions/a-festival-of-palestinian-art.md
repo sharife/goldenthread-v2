@@ -32,15 +32,8 @@ misc: ""
 lists:
   - heading: FESTIVAL LINE-UP
     items:
-      - itemstart: 2026-01-26T21:25:32.879Z
+      - pre: Thu, Apr 9 & 16 at 8pm
         itemend: 2026-01-26T21:25:32.891Z
-        subtitle: |-
-          written and performed by **Alaa Shehada**\
-          directed by **Katrien van Beurden** and **Thomas van Ouwerkerk**\
-          **A Troupe Courage Production**\
-          Screening produced by **55B Productions / Jenny Tibbels**
-        pre: Thu, Apr 9 & 16 at 8pm
-        title: "The Horse of Jenin: Film Screening"
         text: Built from the debris of a major invasion, the Horse of Jenin sculpture
           became a constant presence in Alaa’s life growing up in Occupied
           Palestine. It stood proudly in the center of the city for twenty
@@ -50,6 +43,15 @@ lists:
           happened to the horse? This filmed version of Shehada’s brilliant solo
           show combines storytelling, mask, and stand-up comedy, and stands as
           an ode to the power of imagination and the resilience it brings.
+        itemstart: 2026-01-26T21:25:32.879Z
+        cta: FIND OUT MORE
+        subtitle: |-
+          written and performed by **Alaa Shehada**\
+          directed by **Katrien van Beurden** and **Thomas van Ouwerkerk**\
+          **A Troupe Courage Production**\
+          Screening produced by **55B Productions / Jenny Tibbels**
+        title: "The Horse of Jenin: Film Screening"
+        link: https://goldenthread.org/productions/the-horse-of-jenin-film-screening/
         image: https://ucarecdn.com/208bc3ce-de0f-4c54-9003-534ddfdba772/
       - image: https://ucarecdn.com/99e5073e-fc08-4458-bcdf-e1b6bbc12d15/
         subtitle: |-
