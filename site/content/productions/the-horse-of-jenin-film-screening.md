@@ -1,6 +1,6 @@
 ---
 title: The Horse of Jenin
-pre: Thursdays, April 9 & 16 at 8pm
+pre: Thursdays, April 9 & 16, 2026 at 8pm
 date: 2026-03-16T19:07:35.779Z
 start: ""
 end: ""
