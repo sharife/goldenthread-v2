@@ -26,7 +26,7 @@ description: >-
   Highly acclaimed at the 2025 Edinburgh Fringe Festival, Bush Theatre (London), and other international engagements and combining storytelling, mask, and stand-up comedy, ***The Horse of Jenin*** is constructed from the fragments of Palestinian actor and comedian **Alaa Shehada**’s own memories and stands as an ode to the power of imagination and the resilience it brings.
 background: https://ucarecdn.com/637c7de0-1479-4172-9424-efda5955d2e7/
 videos:
-  - id: https://www.youtube.com/watch?v=iCAE7B41Hs4
+  - id: https://www.youtube.com/watch?v=XNI6RoC89ko
 additional: Thursdays, April 9 & 16, 2026 at 8pm
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
