@@ -53,10 +53,8 @@ lists:
         title: "The Horse of Jenin: Film Screening"
         link: https://goldenthread.org/productions/the-horse-of-jenin-film-screening/
         image: https://ucarecdn.com/b586b44d-b5ed-474e-87e6-e6bd61e34b68/
-      - image: https://ucarecdn.com/c7475dc6-bb99-4acc-902a-c6c8e761d41d/
-        subtitle: |-
-          by **Denmo Ibrahim**\
-          d﻿irected by **Nabra Nelson**
+      - pre: Fri, Apr 10 & Sat, Apr 11 at 8pm; Sun, Apr 12 at 3pm
+        itemend: ""
         text: A baker, a mystic, and a falcon walk into an office one stormy night…
           Rabia Haddad is on a mission to discover a lost history. But as she
           builds her map, the archive begins to talk back, blurring the lines
@@ -65,10 +63,14 @@ lists:
           desire to belong to something larger than yourself, *A Country Made of
           Salt* invites us to reflect on the stories we keep — and what stories
           keep us.
-        title: "A Country Made of Salt: New Threads Staged Reading"
         itemstart: ""
-        itemend: ""
-        pre: Fri, Apr 10 & Sat, Apr 11 at 8pm; Sun, Apr 12 at 3pm
+        cta: FIND OUT MORE
+        subtitle: |-
+          by **Denmo Ibrahim**\
+          d﻿irected by **Nabra Nelson**
+        title: "A Country Made of Salt: New Threads Staged Reading"
+        link: https://goldenthread.org/productions/a-country-made-of-salt/
+        image: https://ucarecdn.com/c7475dc6-bb99-4acc-902a-c6c8e761d41d/
       - itemstart: 2026-01-26T21:26:33.246Z
         itemend: 2026-01-26T21:26:33.257Z
         subtitle: Curated by **Wafaa Bilal** and featuring an all-Palestinian line-up
