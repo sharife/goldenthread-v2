@@ -1,6 +1,6 @@
 ---
 title: The Horse of Jenin
-pre: Thursdays, April 9 & 16, 2026 at 8pm
+pre: PART OF A FESTIVAL OF PALESTINIAN ART
 date: 2026-03-16T19:07:35.779Z
 start: ""
 end: ""
@@ -13,7 +13,7 @@ description: >-
   Screening produced by **55B Productions / Jenny Tibbels**
 
 
-  #### FILM SCREENING (Part of A Festival of Palestinian Art)
+  #### FILM SCREENING (Part of **[A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/)**)
 
 
   **T﻿hursday, April 9, 2026 at 8pm**\
