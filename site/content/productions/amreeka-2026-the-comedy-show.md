@@ -10,7 +10,9 @@ description: >-
 
   Headliner **Suzie Afridi**\
 
-  F﻿eatured comedians **Majdy Fares** and **Lana Salah** with **Charles McBee** as MC
+  F﻿eatured comedians **Majdy Fares** and **Lana Salah**\
+
+  with **Charles McBee** as MC
 
 
   #### Part of **[A Festival of Palestinian Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/)**
