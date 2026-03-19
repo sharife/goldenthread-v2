@@ -71,25 +71,23 @@ lists:
         title: "A Country Made of Salt: New Threads Staged Reading"
         link: https://goldenthread.org/productions/a-country-made-of-salt/
         image: https://ucarecdn.com/c7475dc6-bb99-4acc-902a-c6c8e761d41d/
-      - itemstart: 2026-01-26T21:26:33.246Z
+      - pre: Fri, Apr 17 & Sat, Apr 18 at 8pm; Sun, Apr 19 at 3pm
         itemend: 2026-01-26T21:26:33.257Z
-        subtitle: Curated by **Wafaa Bilal** and featuring an all-Palestinian line-up
-          with headliner **Suzie Afridi,** comedians **Majdy Fares** and **Lana
-          Salah**, with **Charles McBee** as MC
-        pre: Fri, Apr 17 & Sat, Apr 18 at 8pm; Sun, Apr 19 at 3pm
-        title: "AMREEKA 2026: The Comedy Show"
-        text: >-
-          Back by popular demand after a sold-out run in 2023, *AMREEKA 2026:
-          The Comedy Show* is a raucous night of stand-up comedy, this year
+        text: "Back by popular demand after a sold-out run in 2023, *AMREEKA 2026: The
+          Comedy Show* is a raucous night of stand-up comedy, this year
           featuring an all-Palestinian lineup! This unique show brings together 
           comedians with one thing in common: a deep love of complaining. The
           toxic culture and politics in “Amreeka,” as some Middle Easterners
           playfully pronounce it, offer ample fodder for further complaints.
           This cathartic and witty venting holds a mirror up to reality showing
-          it has become so absurd and surreal, one must laugh, if not cry.
-
-
-          For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
+          it has become so absurd and surreal, one must laugh, if not cry."
+        itemstart: 2026-01-26T21:26:33.246Z
+        cta: FIND OUT MORE
+        subtitle: Curated by **Wafaa Bilal** and featuring an all-Palestinian line-up
+          with headliner **Suzie Afridi,** comedians **Majdy Fares** and **Lana
+          Salah**, with **Charles McBee** as MC
+        title: "AMREEKA 2026: The Comedy Show"
+        link: https://goldenthread.org/productions/amreeka-2026-the-comedy-show/
         image: https://ucarecdn.com/4796ba42-8213-42db-befa-2dd2b361c712/
 grids: []
 cast:
