@@ -34,34 +34,70 @@ ticketinfo: Tickets ($20-$100) and Festival Passes are now available
 cast:
   heading: ARTISTS
   items:
-    - bio: "**Roderick Bredenoord** is a multifaceted professional in the performing
-        arts, with extensive experience in acting, directing, theater education,
-        production, and stage technology. His broad background seamlessly
-        combines artistic expertise with organizational skills, making him a
-        versatile force in the theater world. He pursued his studies in acting
-        at MBO Artiest, directing and acting in Amsterdam, and theater education
-        in Maastricht. This diverse educational foundation has equipped him for
-        a career where he effectively integrates his artistic vision with his
-        organizational capabilities. Roderick is currently affiliated with
-        Theaterfestival de Parade, Het Nationale Theater, and Troupe Courage. As
-        of January 2025, he will be production manager for Schuldig Kind by Het
-        Nationale Theater and executive producer for Theaterfestival de Parade."
-      name: Roderick Bredenoord
-      credit: Technical Designer
-      image: https://ucarecdn.com/dff5cf05-8cde-4217-b09b-28073e460578/
-    - bio: "**Sacha Muller** is an actor and theatremaker with a great love for
-        physical, visual and musical theater. Since the founding of Troupe
-        Courage, he has been a permanent part of that artistic team, with whom
-        he creates and performs shows at home and abroad.  He also performs with
-        several theater companies in the Netherlands including: Theatergroep
-        Aluin, Het Filiaal Theatermakers, Bonte Hond, MaasTD and Ulrique Quade
-        Company.  Together with Thomas van Ouwerkerk and Jos Nargy he forms the
-        makers collective 'Thomas, Sacha and Jos', with whom he made last season
-        the successful productions ‘Twee oude vrouwtjes’, after the book of the
-        same name by Toon Tellegen."
-      name: Sacha Muller
-      credit: Artistic Associate
-      image: https://ucarecdn.com/e8a85ed5-d5a6-4af2-8c8d-8f910cdd18f2/
+    - bio: "**Suzie Afridi** was born and raised in Jericho, in the West Bank. Her dad
+        was a welder and her mom was a farmer.  When she was fourteen her family
+        immigrated to San Jose, California. She attended San Jose State
+        University then pretended to be a tax professional until her husband
+        decided on a whim to move to Dubai.  She lived in Dubai for three years
+        doing random jobs, none of which made her Pakistani in-laws proud. In
+        2007, she delivered a boy in a government hospital in Dubai, she misses
+        their food to this day. In 2008, the little family of three moved to
+        NYC.  In 2013, she started doing stand up because no one read her blog.
+        Last year she toured a story with The Moth and it aired on Valentine’s
+        day this year. When she is not doing stand up, she pretends to exercise
+        and is very busy not writing. Her long term goal is be able to entertain
+        from bed. She is available for any kind of event, seriously, anything. 
+        [@SuzieSaysSo](https://www.instagram.com/suziesaysso)"
+      name: Suzie Afridi
+      credit: Headliner
+      image: https://ucarecdn.com/e296d36d-9d03-4ee5-8dc6-19cc986bb63c/
+    - bio: "**Majdy Fares** is an actor, an award-winning storyteller, and a comedian
+        from Dearborn, Michigan. He has been invited to the New York Arab
+        American Comedy Festival and to the 1001 Nights Comedy Festival in
+        Jerusalem. He's featured storyteller on The Moth and a three-time Moth
+        Grandslam champion, winning twice in Detroit and once in D.C."
+      name: Majdy Fares
+      credit: Featured Comedian
+      image: https://ucarecdn.com/c7b140a1-f577-42a5-9605-c6936c478b73/
+    - name: Lana Salah
+      credit: Featured Comedian
+      image: https://ucarecdn.com/d4a90ce1-9438-484b-8ceb-a305b021b785/
+      bio: "**Lana Salah** is a Palestinian-American comedian residing in Los Angeles,
+        CA. Her love of comedy began as a young girl, growing up in the Bay
+        Area, where her and her sisters would watch Def Jam comedy. Lana’s
+        family then moved to the Middle East when she was a teenager where she
+        stayed for 10 years. While living there, Lana continued to devour
+        whatever comedy VHS tapes she could get her cousins to send from the US.
+        She memorized *Eddie Murphy: Raw* word for word before being introduced
+        to Bill Hicks & George Carlin, her two greatest comedic influences. Lana
+        hopes her comedy will provoke enough thoughts and laughs to make her
+        comedic idols up in heaven proud."
+    - name: Charles McBee
+      credit: Master of Ceremonies
+      image: https://ucarecdn.com/d6df384c-556b-4db3-87b2-72ce9f508d57/
+      bio: "**Charles McBee** has gained a following on social media with his comedic
+        commentary about growing up in the 80s and 90s. He is a respected NYC
+        stand-up comedian and writer from Toledo, Ohio, who has made three
+        national stand-up comedy appearances on various television shows.
+        Charles has also written for The MTV VMAs, Golden Globes, and he was the
+        Head Writer for Comedy Central's *Hell Of A Week*, which was nominated
+        for a Writers Guild Award."
+    - name: Wafaa Bilal
+      credit: Curator
+      bio: >-
+        Iraqi-born artist **Wafaa Bilal** (*he/him*) is known internationally
+        for his on-line performative and interactive works provoking dialogue
+        about international and interpersonal politics. Bilal’s work explores
+        tensions between the cultural spaces he occupies —his home in the
+        comfort zone of the U.S. and his consciousness in the conflict zone in
+        Iraq.
+
+
+        For his 2007 installation, [Domestic Tension](https://wafaabilal.com/domestic-tension/), Bilal spent a month in FlatFile Galleries where people could shoot him via a remote-access paintball gun. The Chicago Tribune called it “one of the sharpest works of political art to be seen in a long time”—naming him 2008 Artist of the Year. That year, City Lights published [Shoot an Iraqi: Art, Life and Resistance Under the Gun](https://wafaabilal.com/shoot-an-iraqi/) about Bilal’s life and *Domestic Tension*. Using his own body as a medium, Bilal continued to challenge the public’s comfort zone with projects like [3rdi](https://wafaabilal.com/thirdi/) and [and Counting…](https://wafaabilal.com/and-counting/). Bilal’s work, [Canto III](https://wafaabilal.com/canto-iii/), was included as part of the Iranian pavilion at the 2015 Venice Biennale. Bilal’s current work [168:01](https://wafaabilal.com/168h01s/) brings awareness to cultural destruction and promotes the collective healing process through education and audience participation. His work can be found in the permanent collections of the Los Angeles County Museum of Art, Los Angeles, CA; Museum of Contemporary Photography, Chicago, IL; MATHAF: Arab Museum of Modern Art, Doha, Qatar; amongst others. He holds a BFA from the University of New Mexico, an MFA from the School of the Art Institute of Chicago and was conferred an honorary PhD from DePauw University. Bilal is currently an Arts Professor at [NYU](https://tisch.nyu.edu/about/directory/photo/112869977)’s Tisch School of the Arts.
+
+
+        [wafaabilal.com](https://wafaabilal.com/)
+      image: https://ucarecdn.com/24613908-e41e-4e66-bd33-ad78de83bf6f/
 mentions:
   text: ""
   heading: ""
