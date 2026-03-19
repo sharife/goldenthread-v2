@@ -23,7 +23,7 @@ description: >-
   **S﻿unday, April 19, 2026 at 3pm**
 
 
-  Back by popular demand after a sold-out run in 2023, AMREEKA 2026: The Comedy Show is a raucous night of stand-up comedy, this year featuring an all-Palestinian lineup! This unique show brings together  comedians with one thing in common: a deep love of complaining. The toxic culture and politics in “Amreeka,” as some Middle Easterners playfully pronounce it, offer ample fodder for further complaints. This cathartic and witty venting holds a mirror up to reality showing it has become so absurd and surreal, one must laugh, if not cry.
+  Back by popular demand after a sold-out run in 2023, *AMREEKA 2026: The Comedy Show* is a raucous night of stand-up comedy, this year featuring an all-Palestinian lineup! This unique show brings together  comedians with one thing in common: a deep love of complaining. The toxic culture and politics in “Amreeka,” as some Middle Easterners playfully pronounce it, offer ample fodder for further complaints. This cathartic and witty venting holds a mirror up to reality showing it has become so absurd and surreal, one must laugh, if not cry.
 background: https://ucarecdn.com/99d91bbb-47dc-4bad-a416-78302b244b3e/
 videos: []
 additional: ""
