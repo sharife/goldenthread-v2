@@ -6,11 +6,14 @@ date: 2026-01-26T21:04:56.409Z
 start: 2026-04-09T19:00:56.417Z
 end: 2026-04-19T22:00:56.425Z
 heading: Uplifting Palestinian voices and stories in theater, film, and stand-up comedy
-description: Building upon Golden Thread’s decades-long commitment to
-  Palestinian art, this unique festival is co-produced with **Crowded Fire**.
-  Events are supported by **Art2Action** as part of a multi-year partnership
-  with Golden Thread on *Protecting Dissent,* uplifting and centering voices for
-  Palestine.
+description: >-
+  Building upon Golden Thread’s decades-long commitment to Palestinian art, this
+  unique festival is co-produced with **Crowded Fire**. Events are supported by
+  **Art2Action** as part of a multi-year partnership with Golden Thread on
+  *Protecting Dissent,* uplifting and centering voices for Palestine.
+
+
+  Golden Thread Artistic Director Nabra Nelson says: “As the genocide continues in Palestine, it is a radical act of resistance to center Palestinian laughter and joy through this festival. Comedy is a powerful way to bring communities together, to cope with tragic circumstances, and to access some much-needed healing. The dynamism of this festival reflects the diversity of Palestinian art through three very different yet equally exciting offerings.”
 background: https://ucarecdn.com/f230e1b4-c9f8-4e7a-8668-27e169047e43/
 titleimage: ""
 program: null
@@ -111,4 +114,6 @@ bottom:
   heading: ""
   logos: []
 ---
-Golden Thread Artistic Director Nabra Nelson says: “As the genocide continues in Palestine, it is a radical act of resistance to center Palestinian laughter and joy through this festival. Comedy is a powerful way to bring communities together, to cope with tragic circumstances, and to access some much-needed healing. The dynamism of this festival reflects the diversity of Palestinian art through three very different yet equally exciting offerings.”
+#### C﻿heck out our Festival Passes
+
+You can see two or three events, save big, and receive a free drink. **[Get a Multi-Event Pass now!](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DRi8jMAD)**
