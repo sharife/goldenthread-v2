@@ -8,15 +8,17 @@ cta: Join us April 9-19 at Potrero Stage
 link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
 items:
   - subtitle: |-
-      **G﻿olden30 Campaign**\
-      **F﻿or Our 30th Anniversary**
-    text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
-      impressive milestone with an audacious Golden30 Campaign to raise $300,000
-      over the next 12 months! **Will you join us in securing the next 30 years
-      for Golden Thread?**
-    image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
-    cta: Donate to GOLDEN30 now!
-    link: https://goldenthread.org/donate/
+      **Nabra Nelson is Interviewed**\
+      **b﻿y *American Theatre Magazine***
+    link: https://www.americantheatre.org/2026/03/23/golden-threads-nabra-nelson-we-can-just-do-things/
+    cta: Read the Article
+    image: https://ucarecdn.com/c40131b3-47ce-4c3a-8a72-c82ac041ddad/
+    text: '"﻿A genocide always shakes our world and shakes each of our lives. So if
+      that shook us, why are we holding, white-knuckling, these definitions and
+      systems that we made up? We made it up. We make the rules, and we can just
+      do things within our resources as we wish. **We can dismantle the elitism
+      and preciousness and rigid structures that we have created around our
+      institutions or our art form.**"'
   - subtitle: |-
       **Statement of Solidarity with**\
       **the People of Iran**
@@ -27,12 +29,13 @@ items:
       stand in solidarity with their fight for freedom and self-determination."
     image: https://ucarecdn.com/90b0bb03-6ae9-48d7-b073-99b421a44165/
   - subtitle: |-
-      **2026 Season Marks 30 Years of** \
-      **Creativity, Courage, and Connection**
-    text: Our ambitious 30th Anniversary line-up brings bold and defiant
-      storytelling to the fore! **Join us as we celebrate 30 years** of
-      providing an essential communal space for joy and grief amid struggle!
-    cta: Find out more!
-    link: https://goldenthread.org/season
-    image: https://ucarecdn.com/c3162b08-c835-47b8-b87a-2dd798eb08d8/
+      **G﻿olden30 Campaign**\
+      **F﻿or Our 30th Anniversary**
+    text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
+      impressive milestone with an audacious Golden30 Campaign to raise $300,000
+      over the next 12 months! **Will you join us in securing the next 30 years
+      for Golden Thread?**
+    image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
+    cta: Donate to GOLDEN30 now!
+    link: https://goldenthread.org/donate/
 ---
