@@ -22,7 +22,10 @@ background: https://ucarecdn.com/1c933cb2-c2a0-4e5e-8476-de7fffa09680/
 videos: []
 writer: Denmo Ibrahim
 director: Nabra Nelson
-additional: ""
+featuring: Nemma Adeni, Sarah Al-Kassab, Jacob Henrie-Naffaa, and Nicole Naffaa
+designteam: Daniel Alvaro Holland (Sound Designer) and Molly Windsor-Marshall
+  (Lighting Designer)
+additional: Nick Reulbach (Stage Manager)
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
@@ -75,6 +78,18 @@ cast:
         Gemsbok, and the Pedagogy and Theatre of the Oppressed Journal. Her
         plays have been produced and developed in San Francisco, Los Angeles,
         Seattle, Milwaukee, Santa Barbara, Portland, and Minneapolis."
+    - name: Nemma Adeni
+      credit: Actor (Rabia)
+      image: https://ucarecdn.com/c9f233fe-7ab5-46b7-ba69-3063cc3545d5/
+    - name: Sarah Al-Kassab
+      credit: Actor (Sheh'rzade)
+      image: https://ucarecdn.com/148df685-f131-4ddf-9b7f-0fa4ebb4351c/
+    - name: Jacob Henrie-Naffaa
+      credit: Actor (Horus)
+      image: https://ucarecdn.com/d663c05e-9bbb-4dcc-b08d-39f4c379489e/
+    - name: Nicole Naffaa
+      credit: Actor (Hagar)
+      image: https://ucarecdn.com/dd9c5d6c-1631-4725-86bf-b5078c64f06c/
 mentions:
   text: ""
   heading: ""
