@@ -22,7 +22,10 @@ background: https://ucarecdn.com/1c933cb2-c2a0-4e5e-8476-de7fffa09680/
 videos: []
 writer: Denmo Ibrahim
 director: Nabra Nelson
-additional: ""
+featuring: Nemma Adeni, Sarah Al-Kassab, Jacob Henrie-Naffaa, and Nicole Naffaa
+designteam: Daniel Alvaro Holland (Sound Designer) and Molly Windsor-Marshall
+  (Lighting Designer)
+additional: Nick Reulbach (Stage Manager)
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
