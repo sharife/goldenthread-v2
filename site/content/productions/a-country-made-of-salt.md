@@ -136,6 +136,20 @@ cast:
         Empowerhouse Acting Studio with Melissa Thompson Esaia (Meisner
         Technique), and has training in sketch comedy and musical theater as
         well."
+    - bio: "**Nick Reulbach (they/them)** is a multi-hyphenate theater artist based in
+        the Bay Area, and they are delighted to be joining Golden Thread for
+        this production! Previous stage management credits include *Co-Founders*
+        (American Conservatory Theater), *Sally and Tom*, *Eureka Day* (Marin
+        Theatre), and *Gary: A Sequel to Titus Andronicus* (Oakland Theater
+        Project). They received their bachelors degree in Theater and
+        Performance Studies from UC Berkeley, where they received the Mask and
+        Dagger Award for their contributions as both an actor and a stage
+        manager. They would like to thank their friends, family, and all of the
+        amazing theater educators who inspired them to pursue their dreams and
+        helped them improve their craft."
+      name: Nick Reulbach
+      credit: Stage Manager
+      image: https://ucarecdn.com/0638f433-4990-4401-831a-46977023498a/
 mentions:
   text: ""
   heading: ""
