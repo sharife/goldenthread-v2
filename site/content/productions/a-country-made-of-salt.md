@@ -80,6 +80,7 @@ cast:
         Seattle, Milwaukee, Santa Barbara, Portland, and Minneapolis."
     - name: Nemma Adeni
       credit: Actor (Rabia)
+      image: https://ucarecdn.com/c9f233fe-7ab5-46b7-ba69-3063cc3545d5/
     - name: Sarah Al-Kassab
       credit: Actor (Sheh'rzade)
       image: https://ucarecdn.com/148df685-f131-4ddf-9b7f-0fa4ebb4351c/
@@ -88,7 +89,7 @@ cast:
       image: https://ucarecdn.com/d663c05e-9bbb-4dcc-b08d-39f4c379489e/
     - name: Nicole Naffaa
       credit: Actor (Hagar)
-      image: https://ucarecdn.com/767a0b70-206e-48c4-b064-880cb2433eef/
+      image: https://ucarecdn.com/dd9c5d6c-1631-4725-86bf-b5078c64f06c/
 mentions:
   text: ""
   heading: ""
