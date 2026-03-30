@@ -84,12 +84,72 @@ cast:
     - name: Sarah Al-Kassab
       credit: Actor (Sheh'rzade)
       image: https://ucarecdn.com/148df685-f131-4ddf-9b7f-0fa4ebb4351c/
+      bio: "**Sarah “stylisms” Al-Kassab (she/they)** is a California born, first
+        generation Arab-American, 3rd generation actor, and a self-producing
+        costumer and performance artist. In 2007, she left her position as
+        Costume Shop Manager of the San Diego Repertory Theatre to run away with
+        the circus and has never looked back! She has toured with The New Old
+        Time Chautauqua for three seasons, bringing live performance and
+        educational workshops to rural and underserved communities across the
+        western USA. Stylisms costume designed, performed and choreographed for
+        the Stage Left Circus Show at the Oregon Country Fair from 2007-2011 and
+        founded vaudeville performance duo “The New Eccentrics” featuring the
+        World’s Only Pop-Up Book Opera! Writing, Costuming, Producing and
+        Performing with The New Eccentrics, Sarah toured from Hawaii to
+        Brooklyn, NY and settled in the SF Bay Area. Since 2007, Sarah has
+        performed in over 4,000 public, corporate and private children’s shows
+        in the SF Bay Area. She is one of the original ensemble members of
+        Golden Thread Production’s Fairytale Players: and has filled the roles
+        of Player, Stage Manager, Costume Designer and Director in various
+        Fairytale Player touring productions from 2008 to 2024; bringing
+        Multicultural storytelling to Bay Area schools and libraries. She
+        continues to be the trusted costumer for dozens of circus artists that
+        require specialty costumes for their various strenuous talents."
     - name: Jacob Henrie-Naffaa
       credit: Actor (Horus)
       image: https://ucarecdn.com/d663c05e-9bbb-4dcc-b08d-39f4c379489e/
+      bio: "**Jacob Henrie-Naffaa (he/him)** is an award-nominated actor, writer,
+        director and producer from the East Bay. He began performing
+        professionally at the age of seven and has been seen around Bay Area
+        stages and screens ever since. Recent credits include *Dada Teen
+        Musical: The Play* (Central Works), *the aves* (Berkeley Rep), *Cabaret*
+        (Center Rep) and *Returning to Haifa* (Golden Thread). His directorial
+        debut short film, *My Girlfriend Does That Too!*, premieres later this
+        year under his newfound production company, Music Man Studios. He is
+        incredibly excited to be a part of *A Country Made of Salt*, especially
+        acting alongside his mama, Nicole."
     - name: Nicole Naffaa
       credit: Actor (Hagar)
       image: https://ucarecdn.com/dd9c5d6c-1631-4725-86bf-b5078c64f06c/
+      bio: "**Nicole Naffaa (she/her)** is thrilled to make her debut with Golden
+        Thread Productions. A recent empty-nester, she is finally doing what she
+        always wanted to do when she grew up! Recent credits include Jean in
+        *Good People* (Altarena Playhouse) which has been nominated for Best
+        Ensemble and Best Entire Production East Bay SFBATCC Awards;
+        Marvalyn/Waitress in *Almost, Maine* (Backyard Players), which she also
+        co-directed; Natasha Pendleton in *Summer of Peace Love and Murder*
+        (Plethos Productions); Dalilah Jeckle in *Circus Menagerie* (Plethos
+        Productions); and Estelle Harte in *The Nuptials* (Plethos Productions).
+        She performed with The Berkeley Players (improv troupe) for over 10
+        years and has also done a handful of short films, web series, and
+        commercials. She completed a two-year intensive acting program at
+        Empowerhouse Acting Studio with Melissa Thompson Esaia (Meisner
+        Technique), and has training in sketch comedy and musical theater as
+        well."
+    - bio: "**Nick Reulbach (they/them)** is a multi-hyphenate theater artist based in
+        the Bay Area, and they are delighted to be joining Golden Thread for
+        this production! Previous stage management credits include *Co-Founders*
+        (American Conservatory Theater), *Sally and Tom*, *Eureka Day* (Marin
+        Theatre), and *Gary: A Sequel to Titus Andronicus* (Oakland Theater
+        Project). They received their bachelors degree in Theater and
+        Performance Studies from UC Berkeley, where they received the Mask and
+        Dagger Award for their contributions as both an actor and a stage
+        manager. They would like to thank their friends, family, and all of the
+        amazing theater educators who inspired them to pursue their dreams and
+        helped them improve their craft."
+      name: Nick Reulbach
+      credit: Stage Manager
+      image: https://ucarecdn.com/0638f433-4990-4401-831a-46977023498a/
 mentions:
   text: ""
   heading: ""
