@@ -149,7 +149,7 @@ cast:
         helped them improve their craft."
       name: Nick Reulbach
       credit: Stage Manager
-      image: https://ucarecdn.com/0638f433-4990-4401-831a-46977023498a/
+      image: https://ucarecdn.com/e91cac5d-2740-4346-8794-e44a087d4b18/
 mentions:
   text: ""
   heading: ""
