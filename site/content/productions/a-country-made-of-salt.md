@@ -23,9 +23,9 @@ videos: []
 writer: Denmo Ibrahim
 director: Nabra Nelson
 featuring: Nemma Adeni, Sarah Al-Kassab, Jacob Henrie-Naffaa, and Nicole Naffaa
-designteam: Daniel Alvaro Holland (Sound Designer) and Molly Windsor-Marshall
-  (Lighting Designer)
-additional: Nick Reulbach (Stage Manager)
+designteam: Daniel Alvaro Holland (Sound Designer), Nick Reulbach (Stage
+  Manager), and Molly Windsor-Marshall (Lighting Designer)
+additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
