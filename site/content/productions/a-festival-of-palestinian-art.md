@@ -72,7 +72,7 @@ lists:
           by **Denmo Ibrahim**\
           d﻿irected by **Nabra Nelson**
         title: "A Country Made of Salt: New Threads Staged Reading"
-        link: https://goldenthread.org/productions/a-country-made-of-salt/
+        link: https://goldenthread.org/productions/a-country-made-of-salt-staged-reading
         image: https://ucarecdn.com/c7475dc6-bb99-4acc-902a-c6c8e761d41d/
       - pre: Fri, Apr 17 & Sat, Apr 18 at 8pm; Sun, Apr 19 at 3pm
         itemend: 2026-01-26T21:26:33.257Z
