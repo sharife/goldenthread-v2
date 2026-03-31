@@ -906,8 +906,20 @@ advisors:
       image: https://ucarecdn.com/97fc3086-046e-4ae6-ade5-706b5094414e/
     - credit: Playwright and MacArthur Fellow
       name: Naomi Wallace
-      link: https://www.naomiwallace.com/
+      link: ""
       image: https://ucarecdn.com/14ea4d94-45d6-4f9e-8b1e-9e044b9f0bf0/
+      bio: >-
+        **Naomi Wallace**’s plays have been produced in the United States, the
+        U.K., Europe and the Middle East and include *One Flea Spare, The
+        Trestle at Pope Lick Creek, In the Heart of America, The Breach, Things
+        of Dry Hours, The Fever Chart: Three Vision of the Middle East, And I
+        and Silence, Night is a Room, The Return of Benjamin Lay* (co-written
+        with Marcus Rediker) and an adaptation of *Returning to Haifa* by
+        Ghassan Kanafani and *The Corpse Washer* by Sinan Antoon (both
+        adaptations co-written with Ismail Khalidi).
+
+
+        Awards include the MacArthur Award, Obie Award, Susan Smith Blackburn Prize, Fellowship of Southern Writers Drama Award, Horton Foote Award, Arts and Letters Award in Literature, and the inaugural Windham Campbell prize for drama. In 2025, Wallace was inducted into the Kentucky Writers Hall of Fame. Wallace is currently writing the John Mellencamp musical *Small Town*, and the book for the Loretta Lynn musical, *Coal Miner’s Daughter*. Wallace is presently writing a new play with Ismail Khalidi for Ashtar Theater in Ramallah.
     - name: Heather Rastovac Akbarzadeh, Ph.D.
       image: https://ucarecdn.com/d09813a5-841a-4c57-9077-d3ced0ff44e9/
       bio: "**Heather Rastovac Akbarzadeh** is an interdisciplinary scholar-artist and
