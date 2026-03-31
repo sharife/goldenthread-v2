@@ -3,46 +3,8 @@ title: People
 staff:
   heading: Staff
   items:
-    - name: Sahar Assaf
-      credit: Outgoing Artistic Director
-      image: https://ucarecdn.com/fc27360e-59a8-4efc-a8f3-70b64f8a9052/
-      bio: >-
-        **Sahar Assaf** *(she/her)* is a Lebanese theatremaker and professor.
-        She has been active in the Lebanese theatre scene since 2003 as an
-        actor, director, translator, and producer. She’s presented works in
-        Syria, Egypt, Morocco, Belgium, London, Sweden, Poland, Greece, Chicago,
-        and NYC. At the American University of Beirut where she headed the minor
-        program in Theater Arts and was an Assistant Professor, she co-founded
-        with her long term collaborator playwright Robert Myers, the Theater
-        Initiative, an interdisciplinary group of faculty and artists working to
-        facilitate theatre creation and research locally, regionally, and
-        internationally. Her directing credits for the Theater Initiative
-        include Garcia-Lorca’s *Blood Wedding* as a site-specific promenade
-        performance in the village of Hammana in Mount Lebanon, Shakespeare’s
-        *King Lear* (co-directed with Rachel Valentine Smith of The Faction
-        ensemble of London) which was the first production of a Shakespearean
-        play in Lebanese colloquial Arabic, *The Rape and Rituals of Signs and
-        Transformations* by Sa'dallah Wannous, *Watch Your Step: Beirut Heritage
-        Walking Tour* which was a site-specific devised work on the Lebanese
-        civil war. Sahar is a strong advocate of documentary theatre and
-        recently conceived and directed Meen El Felten, an immersive documentary
-        play on sexual assault in Lebanon as part of the Abaad MENA campaign of
-        2018, and No Demand No Supply, a documentary play about sex trafficking
-        and prostitution in collaboration with the Kafa organization.
-
-
-        As an actor, Sahar is trained in the Meisner technique and recently started training in Alba Emoting, a somatic approach to acting based in neuroscience. Her acting credits include the role of Karen in the Lebanese adaptation of *Dinner with Friends* by Donald Margulies directed by Carlos Chahine, the title role in Dario Fo and Franca Rame’s *An Arab Woman Speaks* produced by The Faction at New Diorama Theatre in London, and of Barbara in the Lebanese adaptation of *August: Osage County* by Tracy Letts.
-
-
-        She contributes to academic research on theatre through publications of reflections on her work. She has been published in Arab Stages, PAJ: A Journal of Performance and Art, and authored chapters in books including Theatre in the Middle East between Performance and Politics edited by Babak Rahimi, Anthem press, 2020, and The Theatre of Sa'dallah Wannous: A Critical Study of the Syrian Playwright and Public Intellectual edited by Sonja Mejcher-Atassi and Robert Myers, Cambridge University Press 2021.
-
-
-        Sahar is a recipient of the Fulbright scholarship (2009) and holds an MA in Theatre Studies from Central Washington University (2011) and an MA in Sociology from the American University of Beirut (2005). She is an ensemble member of The Faction, a London-based award-winning theatre company, an alumna of Lincoln Center Theater Directors Lab in NYC (2014) and of Directors Lab North in Toronto (2017), and she is the co-founder and Artistic Director of Directors Lab Mediterranean.
-
-
-        As much as she’s passionate about her role as a theatre maker, Sahar is equally passionate about her new role as a mother to Zad.
     - name: Nabra Nelson
-      credit: Incoming Artistic Director
+      credit: Artistic Director
       image: https://ucarecdn.com/d0c03057-a64f-4e00-8c3f-ea66452be2c1/
       bio: >-
         **N﻿abra Nelson (she/her)** is a multi-disciplinary theater maker with
@@ -135,6 +97,25 @@ staff:
         Soluna feels blessed to be surrounded by so many brilliant artists, and
         can’t wait to bring the incredible visions of Crowded Fire and Golden
         Thread into reality!"
+    - name: Sahar Assaf
+      credit: International Programs Lead
+      image: https://ucarecdn.com/97c8c8c2-61c0-4bc8-88dd-7b4479253666/
+      bio: >-
+        **Sahar Assaf (she/her)** is a theater director, producer, and
+        multidisciplinary creative leader working at the intersection of arts,
+        education, and social impact. From 2021 to 2025, she served as Artistic
+        Director of Golden Thread Productions, where she curated and produced
+        four seasons of world premieres, classical, commissioned and devised
+        works, expanding the company’s scope and reach. Her 2024 Season for
+        Palestine drew record audiences, deepening national and international
+        engagement and reinforcing theatre as a space for dialogue and
+        solidarity.
+
+
+        Assaf previously taught at the American University of Beirut, where she co-founded the Theatre Initiative and directed classical and contemporary works alongside devised documentary and site-specific performances. She is also a trainer and consultant, designing programs that support mental fitness, leadership, and team effectiveness, drawing on theatre-based and neuroscience-informed methodologies.
+
+
+        A Fulbright Scholar, she is a member of the Lincoln Center Theater Directors Lab and co-founder of Directors Lab Mediterranean. She has presented her work internationally and contributed to scholarship on theatre and performance practice.
     - bio: <strong>Navid Ghaem Maghami</strong> *(he/him)* is a graphic designer based
         in San Francisco. He began working with Golden Thread in 2008. As a
         design professional and art director he has worked widely in a variety
@@ -804,18 +785,6 @@ artists:
       credit: Actor
       image: /img/archive/2015/08/damien-seperi300x300.jpg
       name: Damien Seperi
-    - bio: "<strong>BENJAMIN SHIU (Resident Artist / Stage Manager) </strong>Golden
-        Thread credits: <em>Autobiography of a Terrorist </em>(stage manager),
-        <em>Oh My Sweet Land </em>(assistant stage manager), <em>Our Enemies:
-        Lively Scenes of Love and Combat </em>(production assistant). Other
-        credits: <em>Belleville </em>at Custom Made (stage manager); <em>A Tale
-        of Autumn, You For Me For You, The Shipment, </em>and <em>I Call My
-        Brothers </em>at Crowded Fire (assistant stage manager); <em>Chinglish
-        </em>at Palo Alto Players (set crew); and <em>Crane </em>at Ferocious
-        Lotus (front of house management). B.A. in Drama, SFSU."
-      credit: Stage Manager
-      image: /img/archive/2018/02/Shiu-Benjamin-300x300.jpg
-      name: Benjamin Shiu
     - bio: Born in Iran, <strong>MOHAMMAD TALANI (Resident Artist / Actor and
         Musician) </strong>is a Berkeley-based musician, actor, and
         videographer. He is founding member of BandBand and joined the indie
@@ -846,19 +815,6 @@ artists:
       credit: Actor and Choreographer
       image: /img/archive/2018/02/Tateosian-Lisa-300x300.jpg
       name: Lisa Tateosian
-    - bio: <strong>Grisel (GG) Torres</strong> is from the Bay Area by way of migrant
-        parents from Guanajuato, México. She studied Technical Theatre, Light
-        Design, and Props Design at San Francisco State University. She also
-        loves to paint and create movement-based performance art, and sees the
-        two art forms as a vantage point for learning about self-healing. Grisel
-        is the Production Manager and a Resident Artist for Golden Thread
-        Productions, and is also the Venue Manager for the Joe Goode Annex in
-        the Mission. She often designs lights for PUSH Dance Company and Queer
-        Punk performance artist Keith Hennessy. She is extremely grateful to
-        have a hand in making some of the Bay Area&#8217;s best radical art.
-      credit: Stage Manager and Props Designer
-      image: /img/archive/2018/02/Torres-Grisel-300x300.jpg
-      name: Grisel (GG) Torres
     - bio: "<strong>MIKIKO UESUGI (Resident Artist / Scenic Designer)
         </strong>designed <em>Our Enemies: Lively Scenes of Love and
         Combat</em>, <em>444 Days</em>, <em>Language Room</em>, <em>Night Over
@@ -899,11 +855,26 @@ advisors:
       name: Samer Ali
       link: https://lsa.umich.edu/middleeast/people/faculty/samerali.html
       image: https://ucarecdn.com/56041a60-68b3-44da-a70d-bea7b46fd3c2/
-    - credit: Assistant Professor of Theater and Performance Studies, Stanford
-        University
+    - credit: Assistant Professor of Theatre, Williams College
       name: Samer Al-Saber
-      link: https://ccsre.stanford.edu/people/samer-al-saber
+      link: ""
       image: https://ucarecdn.com/f50b85c8-ebba-4e4e-b925-30be00fe0fad/
+      bio: >-
+        **Samer Al-Saber** is a critical scholar, historian, director, and
+        playwright at Williams College. He comes to Williams after serving for
+        over a decade at the Department of Theater and Performance Studies at
+        Stanford University, the School of Theater at Florida State University,
+        and the Theater Department at Davidson College. He received the Walter J
+        Gores Award at Stanford and the Undergraduate Teaching Award at Florida
+        State University, the most prestigious teaching award at these
+        institutions. His scholarly work appeared in *Theatre Research
+        International, Performance Paradigm, Critical Survey, Theatre Survey*,
+        and various edited volumes, such as Palgrave’s *Performing For
+        Survival*, Edinburgh Press’ *Being Palestinian*, and
+
+        Routledge’s *Troubling Traditions*. He is co-editor of the anthology *Stories Under Occupation and Other Plays from Palestine* (Seagull Press/University of Chicago Press) and editor of *To The Good People of Gaza* (Bloomsbury Press). He co-edited the just-released *Arab, Performance, and Politics* by Routledge (2024), in which he published the chapter “Historiographical Conundrums in Palestinian Theatre Research.” Directing credits include Betty Shamieh’s *As Soon As Impossible*, Hasan Abdelrazzak’s *The Prophet*, Arthur Milner’s *Facts*, A *Midsummer Night’s Dream*, and *Decolonizing Sarah*. He recently directed *Returning To Haifa* (Golden Thread
+
+        Productions) and *Everybody* (Williams College). His monograph *A Movement’s Promise: The Making of Contemporary Palestinian Theater* (Stanford University Press). At Williams College, he teaches courses such as Directing, Playwriting, and Race and Performance.
     - credit: Distinguished Professor, Theatre, Comparative Literature, and Middle
         Eastern Studies, The Graduate Center, CUNY
       name: Marvin Carlson
