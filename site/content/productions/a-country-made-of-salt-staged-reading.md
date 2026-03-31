@@ -157,7 +157,7 @@ photos:
   heading: ""
   items: []
 bottom:
-  text: "*AMREEKA 2026: The Comedy Show* is part of [A Festival of Palestinian
+  text: "*A Country Made of Salt* is part of [A Festival of Palestinian
     Art](https://goldenthread.org/productions/a-festival-of-palestinian-art/),
     produced by **Golden Thread** and **Crowded Fire**. Events are supported
     by **Art2Action** as part of a multi-year partnership with Golden Thread
