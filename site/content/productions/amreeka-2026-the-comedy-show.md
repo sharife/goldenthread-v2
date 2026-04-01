@@ -36,54 +36,61 @@ ticketinfo: Tickets ($20-$100) and Festival Passes are now available
 cast:
   heading: ARTISTS
   items:
-    - bio: "**Suzie Afridi** was born and raised in Jericho, in the West Bank. Her dad
-        was a welder and her mom was a farmer.  When she was fourteen her family
-        immigrated to San Jose, California. She attended San Jose State
-        University then pretended to be a tax professional until her husband
-        decided on a whim to move to Dubai.  She lived in Dubai for three years
-        doing random jobs, none of which made her Pakistani in-laws proud. In
-        2007, she delivered a boy in a government hospital in Dubai, she misses
-        their food to this day. In 2008, the little family of three moved to
-        NYC.  In 2013, she started doing stand up because no one read her blog.
-        Last year she toured a story with The Moth and it aired on Valentine’s
-        day this year. When she is not doing stand up, she pretends to exercise
-        and is very busy not writing. Her long term goal is be able to entertain
-        from bed. She is available for any kind of event, seriously, anything. 
-        [@SuzieSaysSo](https://www.instagram.com/suziesaysso)"
+    - bio: Thirteen years ago, **Suzie Afridi** started doing stand up because no one
+        read her blog.  Suzie mines her personal life as a mom to two only
+        children and a wife of an artist who happens to be a pathetic
+        aesthetic.  As a Palestinian who lives in a neighborhood where the only
+        people who are not Jewish are Israelis, she spends too much time
+        analyzing identity and not enough time working on her one woman show: 
+        *How I a Married a Muslim* and no one died!  Her long term goal is be
+        able to entertain from bed, she is available for any event, literally
+        anything as long as you let her make everything about Palestine.
+        [@SuzieSaysSo](https://www.instagram.com/suziesaysso)
       name: Suzie Afridi
       credit: Headliner
-      image: https://ucarecdn.com/e296d36d-9d03-4ee5-8dc6-19cc986bb63c/
-    - bio: "**Majdy Fares** is an actor, an award-winning storyteller, and a comedian
-        from Dearborn, Michigan. He has been invited to the New York Arab
-        American Comedy Festival and to the 1001 Nights Comedy Festival in
-        Jerusalem. He's featured storyteller on The Moth and a three-time Moth
-        Grandslam champion, winning twice in Detroit and once in D.C."
+      image: https://ucarecdn.com/ac93c0a7-cb03-4480-a049-a62fde31dd33/
+    - bio: "**Majdy Fares** is a Palestinian-American comedian fresh off a Middle East
+        tour, who has performed at the Kennedy Center and DC Improv. His one man
+        show has sold out every run. A two-time Moth GrandSlam storytelling
+        champion featured on NPR, he blends fearless storytelling with sharp
+        political jokes — and is slightly disappointed he hasn’t been arrested
+        for any of them yet."
       name: Majdy Fares
       credit: Featured Comedian
-      image: https://ucarecdn.com/c7b140a1-f577-42a5-9605-c6936c478b73/
+      image: https://ucarecdn.com/65dfac1c-edfc-43ce-89d5-9d6392d69762/
     - name: Lana Salah
       credit: Featured Comedian
-      image: https://ucarecdn.com/d4a90ce1-9438-484b-8ceb-a305b021b785/
-      bio: "**Lana Salah** is a Palestinian-American comedian residing in Los Angeles,
-        CA. Her love of comedy began as a young girl, growing up in the Bay
-        Area, where her and her sisters would watch Def Jam comedy. Lana’s
-        family then moved to the Middle East when she was a teenager where she
-        stayed for 10 years. While living there, Lana continued to devour
-        whatever comedy VHS tapes she could get her cousins to send from the US.
-        She memorized *Eddie Murphy: Raw* word for word before being introduced
-        to Bill Hicks & George Carlin, her two greatest comedic influences. Lana
-        hopes her comedy will provoke enough thoughts and laughs to make her
-        comedic idols up in heaven proud."
+      image: https://ucarecdn.com/4e4a0e5c-5dc2-467b-967a-6708ac098385/
+      bio: >-
+        **Lana Salah** is a Los Angeles–based Palestinian-American stand-up
+        comedian celebrated for her razor-sharp wit, fearless political satire,
+        and deeply personal storytelling. With a comedic voice shaped by
+        influences like Bill Hicks and George Carlin, Lana’s material explores
+        identity, culture, and the uncomfortable truths of modern life —
+        balancing intelligence, audacity, and heart in equal measure.
+
+
+        Her performances have graced iconic stages including The Comedy Store and Hollywood Improv, where she’s shared lineups with Bassem Youssef, Tiffany Haddish, Tim Dillon, and Louis C.K. Audiences are drawn to her ability to transform tension into laughter, inviting them to question, reflect, and crack up in the same breath.
+
+
+        Rooted in Los Angeles’s vibrant comedy scene, Lana continues to challenge convention and celebrate resilience through humor. Whether she’s dissecting politics, family, or pop culture, she brings an unflinching honesty that leaves audiences laughing long after the lights go down.
     - name: Charles McBee
       credit: Master of Ceremonies
-      image: https://ucarecdn.com/d6df384c-556b-4db3-87b2-72ce9f508d57/
-      bio: "**Charles McBee** has gained a following on social media with his comedic
-        commentary about growing up in the 80s and 90s. He is a respected NYC
-        stand-up comedian and writer from Toledo, Ohio, who has made three
-        national stand-up comedy appearances on various television shows.
-        Charles has also written for The MTV VMAs, Golden Globes, and he was the
-        Head Writer for Comedy Central's *Hell Of A Week*, which was nominated
-        for a Writers Guild Award."
+      image: https://ucarecdn.com/3941c63c-51db-4ad6-bda6-6014bc42e8bc/
+      bio: >-
+        **Charles McBee** is a razor-sharp NYC stand-up comedian, writer, and
+        unapologetic 80s/'90s baby from Toledo, Ohio, serving up nostalgia with
+        a side of truth. Whether he's breaking down the wild logic of gym class
+        dodgeball or reminding you what it meant to record songs off the radio
+        without your mom yelling in the background, Charles brings hilarious,
+        heartfelt commentary about growing up in a pre-WiFi world straight to
+        the stage.
+
+
+        He’s made three national appearances on *Gotham Comedy Live*, was a standout on FOX’s *Laughs and Punchline* (Seasons 1 & 2), and has written for everything from VH1's *Hip Hop Honors* to the 2020 VMAs and the 2021 Golden Globes. He most recently served as Head Writer for Comedy Central’s *Hell of a Week with Charlamagne Tha God*, earning a Writers Guild Award nomination, and was a creative consultant on *Nick Cannon’s* *Wild' N Out*.
+
+
+        Charles has also built a dedicated social media following with his no-holds-barred takes on pop culture, politics, and the beautiful chaos of growing up in the analog era. If you’ve ever eaten a microwave dinner on a folding tray table, feared getting caught in a game of freeze tag, or lived through dial-up internet, Charles has a joke for you. Come see why his fans keep coming back.
     - name: Wafaa Bilal
       credit: Curator
       bio: >-
@@ -99,7 +106,7 @@ cast:
 
 
         [wafaabilal.com](https://wafaabilal.com/)
-      image: https://ucarecdn.com/24613908-e41e-4e66-bd33-ad78de83bf6f/
+      image: https://ucarecdn.com/b662cda2-bd2e-4e74-9087-4e4bd6e9477a/
 mentions:
   text: ""
   heading: ""
