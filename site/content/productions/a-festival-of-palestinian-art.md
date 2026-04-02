@@ -118,10 +118,10 @@ bottom:
     We’re proud to collaborate with important social justice organizations that are actively advocating for Palestinian liberation and justice: **[AROC: Arab Resource and Organizing Center](https://www.araborganizing.org/)**, **[Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/)**, and **[MECA: Middle East Children’s Alliance](https://www.mecaforpeace.org/)**
   heading: ""
   logos:
-    - image: https://ucarecdn.com/8111f926-22cd-463d-9204-625e3a4230c6/
-    - image: https://ucarecdn.com/5a38f6d2-b6ac-4bbd-a873-b18eca3b4826/
+    - image: https://ucarecdn.com/3a8ec4b5-3c54-4aec-8282-7d210399bd8c/
+    - image: https://ucarecdn.com/741117c3-4252-4f0f-92f3-2758916805ef/
     - image: https://ucarecdn.com/13e4cd82-4230-400e-885f-977bce643ed1/
-    - image: https://ucarecdn.com/ba6ac65d-4bf1-4b45-9e36-a7a7d2c969bc/
+    - image: https://ucarecdn.com/9c3e88e6-f0f7-4fa2-a0f4-a004f6334a5c/
 ---
 #### C﻿heck out our Festival Passes
 
