@@ -1,6 +1,6 @@
 ---
 title: A Festival of Palestinian Art
-pre: A co-production with Crowded Fire Theater, in partnership with Art2Action
+pre: ""
 season: 2026
 date: 2026-01-26T21:04:56.409Z
 start: 2026-04-09T19:00:56.417Z
