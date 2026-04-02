@@ -8,9 +8,8 @@ end: 2026-04-19T22:00:56.425Z
 heading: Uplifting Palestinian voices and stories in theater, film, and stand-up comedy
 description: >-
   Building upon Golden Thread’s decades-long commitment to Palestinian art, this
-  unique festival is co-produced with **Crowded Fire**. Events are supported by
-  **Art2Action** as part of a multi-year partnership with Golden Thread on
-  *Protecting Dissent,* uplifting and centering voices for Palestine.
+  unique festival is co-produced with **Crowded Fire** in partnership with
+  **Art2Action**. 
 
 
   Golden Thread Artistic Director Nabra Nelson says: “As the genocide continues in Palestine, it is a radical act of resistance to center Palestinian laughter and joy through this festival. Comedy is a powerful way to bring communities together, to cope with tragic circumstances, and to access some much-needed healing. The dynamism of this festival reflects the diversity of Palestinian art through three very different yet equally exciting offerings.”
@@ -110,9 +109,19 @@ photos3:
   items: []
 archivevideo: ""
 bottom:
-  text: ""
+  text: >-
+    Events are supported by **[Art2Action](https://www.art2action.org/)** as
+    part of a multi-year partnership with Golden Thread on *Protecting Dissent,*
+    uplifting and centering voices for Palestine
+
+
+    We’re proud to collaborate with important social justice organizations that are actively advocating for Palestinian liberation and justice: **[AROC: Arab Resource and Organizing Center](https://www.araborganizing.org/)**, **[Jewish Voice for Peace - Bay Area](https://jvp-bayarea.org/)**, and **[MECA: Middle East Children’s Alliance](https://www.mecaforpeace.org/)**
   heading: ""
-  logos: []
+  logos:
+    - image: https://ucarecdn.com/8111f926-22cd-463d-9204-625e3a4230c6/
+    - image: https://ucarecdn.com/5a38f6d2-b6ac-4bbd-a873-b18eca3b4826/
+    - image: https://ucarecdn.com/13e4cd82-4230-400e-885f-977bce643ed1/
+    - image: https://ucarecdn.com/ba6ac65d-4bf1-4b45-9e36-a7a7d2c969bc/
 ---
 #### C﻿heck out our Festival Passes
 
