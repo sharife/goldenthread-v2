@@ -7,8 +7,8 @@ background: https://ucarecdn.com/f4036be8-0395-426d-8f10-29af59c8d054/
 cta: Join us April 9-19 at Potrero Stage
 link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
 items:
-  - subtitle: "***San Francisco Chronicle Interviews Nabra Nelson, Sahar Assaf, and
-      Torange Yeghiazarian***"
+  - subtitle: "***San Francisco Chronicle* Interviews Nabra Nelson, Sahar Assaf, and
+      Torange Yeghiazarian**"
     link: https://www.sfchronicle.com/entertainment/theater/article/golden-thread-nabra-nelson-22197764.php
     cta: Read the Article
     image: https://ucarecdn.com/d425fee8-68ee-4270-b47d-6784c9949577/
