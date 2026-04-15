@@ -79,11 +79,10 @@ photos3:
   items: []
 bottom:
   heading: ""
-  text: ""
+  text: "*Arab Spring* received developmental support from Round House Theatre’s
+    National Capital New Play Festival and was developed at the 2023 Bay Area
+    Playwrights Festival, a program of the Playwrights Foundation, Jessica Bird
+    Beza, Executive Artistic Director."
   logos: []
 ---
 G﻿olden Thread Affiliated Artist Denmo Ibrahim has a long history with Golden Thread. She has been part of the Golden Thread artistic family as a writer (*ECSTASY: a waterfable*) and performer (*Our Enemies: Lively Scenes of Love and Combat*, ReOrient 2023 and ReOrient 2015).
-
-![](https://ucarecdn.com/dd50a345-1ff9-4bc6-b8ef-ebac3de3237c/)
-
-*Arab Spring* received developmental support from Round House Theatre’s National Capital New Play Festival and was developed at the 2023 Bay Area Playwrights Festival, a program of the Playwrights Foundation, Jessica Bird Beza, Executive Artistic Director.
