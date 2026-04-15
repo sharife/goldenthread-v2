@@ -7,18 +7,15 @@ background: https://ucarecdn.com/f4036be8-0395-426d-8f10-29af59c8d054/
 cta: Join us April 9-19 at Potrero Stage
 link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
 items:
-  - subtitle: |-
-      **Nabra Nelson is Interviewed**\
-      **b﻿y *American Theatre Magazine***
-    link: https://www.americantheatre.org/2026/03/23/golden-threads-nabra-nelson-we-can-just-do-things/
+  - subtitle: "***San Francisco Chronicle Interviews Nabra Nelson, Sahar Assaf, and
+      Torange Yeghiazarian***"
+    link: https://www.sfchronicle.com/entertainment/theater/article/golden-thread-nabra-nelson-22197764.php
     cta: Read the Article
-    image: https://ucarecdn.com/c40131b3-47ce-4c3a-8a72-c82ac041ddad/
-    text: '"﻿A genocide always shakes our world and shakes each of our lives. So if
-      that shook us, why are we holding, white-knuckling, these definitions and
-      systems that we made up? We made it up. We make the rules, and we can just
-      do things within our resources as we wish. **We can dismantle the elitism
-      and preciousness and rigid structures that we have created around our
-      institutions or our art form.**"'
+    image: https://ucarecdn.com/d425fee8-68ee-4270-b47d-6784c9949577/
+    text: '"﻿Golden Thread is the space where our internal world and our external
+      world align. **It’s time to lead with a model, with an example.**" Lily
+      Janiak interviews the three artistic directors of Golden Thread -- past
+      and present.'
   - subtitle: |-
       **Statement of Solidarity with**\
       **the People of Iran**
