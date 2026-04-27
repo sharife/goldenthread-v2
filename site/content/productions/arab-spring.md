@@ -20,7 +20,7 @@ director: Nailah Unole didanas’ea Harper-Malveaux
 additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
-ticketlink: ""
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DoSuTMAV
 ticketinfo: ""
 lists: []
 cast:
