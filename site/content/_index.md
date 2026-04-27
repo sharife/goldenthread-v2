@@ -1,11 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: A FESTIVAL OF PALESTINIAN ART
-subtitle: "Uplifting Palestinian voices and stories in theater, film, and
-  stand-up comedy "
-background: https://ucarecdn.com/f4036be8-0395-426d-8f10-29af59c8d054/
-cta: Join us April 9-19 at Potrero Stage
-link: https://goldenthread.org/productions/a-festival-of-palestinian-art/
+headline: ARAB SPRING by Denmo Ibrahim
+subtitle: A biting comedy about loss, grief, and the wars we wage in family
+background: https://ucarecdn.com/32a95a67-1be4-49ef-9791-afda02748290/
+cta: Our Co-Production with SFBATCO runs June 19-July 12
+link: https://goldenthread.org/productions/arab-spring/
 items:
   - subtitle: "***San Francisco Chronicle* Interviews Nabra Nelson, Sahar Assaf, and
       Torange Yeghiazarian**"
