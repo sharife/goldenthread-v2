@@ -83,15 +83,19 @@ photos3:
   items: []
 bottom:
   heading: ""
-  text: >-
-    The world premiere of *Arab Spring* is supported by **CA$H Theatre**, a
-    grants program of **Theatre Bay Area**, and Producers Circle donors **Ronald
-    Whittier Family Foundation**, **Craig & Kathy Moody**, **Wanda
-    Cole-Frieman**, **Helen Lee-Righter & Leon So**, **Bob Miller & Judy
-    Wilber**, **Amanda Conley**, and **Noah Holmes and Monetta White**. 
-
-
-    The play has received developmental support from **Round House Theatre’s National Capital New Play Festival** and was developed at the **2023 Bay Area Playwrights Festival, a program of the Playwrights Foundation** (Jessica Bird Beza, Executive Artistic Director). Golden Thread is a resident company at **Potrero Stage**, operated by **PlayGround**.
+  text: The world premiere of *Arab Spring* is supported by **CA$H Theatre**, a
+    grants program of **Theatre Bay Area**, and Producers Circle donors **Omita
+    & Ebby Abraham**, **Ronald Whittier Family Foundation**, **Craig & Kathy
+    Moody**, **Wanda Cole-Frieman**, **Helen Lee-Righter & Leon So**, **Bob
+    Miller & Judy Wilber**, **Amanda Conley**, **Noah Holmes**, **Monetta
+    White**, and **May Allam**. The production is also supported by the **San
+    Francisco Office of Economic and Workforce Development (OEWD)** via
+    SFBATCO’s Production Apprenticeship program. Golden Thread is a resident
+    company at **Potrero Stage**, operated by **PlayGround**. The play has
+    received developmental support from **Round House Theatre’s National Capital
+    New Play Festival** and was developed at the **2023 Bay Area Playwrights
+    Festival**, a program of the **Playwrights Foundation** (Jessica Bird Beza,
+    Executive Artistic Director).
   logos: []
 ---
 "This is a play that speaks deeply to Arab-American and other diasporic and immigrant communities in intimate and global ways. It is a play that can hold our joy and grief simultaneously,” says Nabra Nelson, Golden Thread Productions Artistic Director. “People often ask Golden Thread about how our plays connect to the current political moment. Right now, this play is resonating with me as a story about how family and laughter are balm in the darkest moments, even when we are grieving the loss of a loved one."
