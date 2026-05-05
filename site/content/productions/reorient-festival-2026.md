@@ -18,7 +18,7 @@ background: ""
 titleimage: https://ucarecdn.com/fe842c6b-4df5-4857-98e9-12636f8be397/
 program: null
 videos: []
-writer: Hassan Abdulrazzak, Banafsheh Hassani, Sapehr Jafari, Hannah Khalil, and
+writer: Hassan Abdulrazzak, Banafsheh Hassani, Sepehr Jafari, Hannah Khalil, and
   Ahmed Masoud
 director: " Wynne Chan, Nabra Nelson, Salim Razawi, and Torange Yeghiazarian"
 featuring: ""
@@ -55,7 +55,7 @@ lists:
         itemstart: ""
         itemend: ""
       - image: https://ucarecdn.com/2a0da581-79c2-4a21-bfd5-03413194c5ed/
-        subtitle: by **Sapehr Jafari** (Bay Area-based, Iran)
+        subtitle: by **Sepehr Jafari** (Bay Area-based, Iran)
         text: Two friends develop a weekly ritual of attending the Iranian diaspora
           protests in San Francisco every weekend, to try to prevent their
           countrymen from being executed in the Islamic Republic prisons. But
