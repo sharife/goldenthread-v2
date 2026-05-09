@@ -3,20 +3,18 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - title: A FESTIVAL OF PALESTINIAN ART
-        pre: April 9-19, 2026
-        subtitle: C﻿o-produced by **Golden Thread Productions** and **Crowded Fire**, in
-          partnership with **Art2Action**
-        image: https://ucarecdn.com/3824b544-6f4c-40e4-8e43-8841e9b50c77/
-        text: "Uplifting Palestinian voices and stories in theater, film, and stand-up
-          comedy, this unique festival, builds upon Golden Thread’s decades-long
-          commitment to Palestinian art.  Projects include a filmed version of
-          **Alaa Shehada**’s acclaimed solo show ***The Horse of Jenin*** and a
-          New Threads developmental reading of ***A Country Made of Salt*** by
-          **Denmo Ibrahim**, and **AMREEKA 2026: The Comedy Show**, which played
-          to sold out houses in 2023."
-        cta: Tickets and Festival Passes
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DPAG1MAP
+      - title: ARAB SPRING by Denmo Ibrahim
+        pre: June 19-July 12, 2026
+        subtitle: C﻿o-produced by Golden Thread Productions and SFBATCO
+        image: https://ucarecdn.com/d57937c9-ae5e-4817-b4b9-adc23f6a0e4e/
+        text: In this world premiere comedy by our 2026 Playwright-in-Residence, Yusef,
+          a recovering addict, and Dina, his controlling big sister, return on
+          the 4th of July to the suburbs to bury their deadbeat Dad. As they
+          rush to pull off an Islamic burial before his body goes cold, they’re
+          forced to confront what family actually means. Can they do it without
+          killing each other? Inshallah.
+        cta: Buy Tickets Now
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DoSuTMAV
 ---
 - - -
 
