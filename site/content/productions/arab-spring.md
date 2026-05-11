@@ -68,7 +68,7 @@ cast:
         American Studies and Theatre Studies from Yale University."
       credit: Director
       image: https://ucarecdn.com/8de052aa-d406-412e-913c-06e3f49c445a/
-    - name: Arti Ishak*
+    - name: Arti Ishak
       credit: Actor (Dina)
       image: https://ucarecdn.com/c75ea366-2c97-4190-8377-9c700fd40bca/
       bio: "**Arti Ishak (they/them)** is a Chicago actor/writer/director whose work
@@ -81,7 +81,7 @@ cast:
         and upcoming short *Divorce Party*. Arti is a senior instructor at Black
         Box Acting and Adjunct Professor at The Theatre School at DePaul.
         @artiishak [www.artiishak.com](http://www.artiishak.com/)"
-    - name: Salim Razawi*
+    - name: Salim Razawi
       credit: Actor (Yusef) & Artistic Producer
       image: https://ucarecdn.com/04ddd072-d6c0-4d0f-bd58-5642a5d18d75/
       bio: "**Salim Razawi (he/him)** is a theatre maker and, in addition to being the
@@ -136,13 +136,64 @@ cast:
     - name: Buffy
       credit: Costume Designer
       image: https://ucarecdn.com/9cb9aec3-e04c-4d2d-b87b-2db0e6eb00cc/
-      bio: "**Buffy (she/her)** is filmmaker and artist from the Bay Area. In addition
-        to personal creative goals, Buffy is eager about supporting others in
-        their work, and resistance. Buffy has collaborated on *Collective Rage*
-        at Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Azad, the
-        Rabbit and the Wolf*, as well as *The Pilgrimage* at Golden Thread
+      bio: "**Buffy** is filmmaker and artist from the Bay Area. In addition to
+        personal creative goals, Buffy is eager about supporting others in their
+        work, and resistance. Buffy has collaborated on *Collective Rage* at
+        Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Azad, the Rabbit
+        and the Wolf*, as well as *The Pilgrimage* at Golden Thread
         Productions."
-    - {}
+    - name: Laura Brueckner
+      credit: Dramaturg
+      image: https://ucarecdn.com/aebcbfeb-1cd0-42e6-aa1a-11176ac52eb5/
+      bio: "**Laura Brueckner (she/her)** is a Bay Area-based dramaturg specializing
+        in new work, immersive theatre, and experimental pieces. She's thrilled
+        to be working with Golden Thread, SFBATCO, and this creative team on
+        this incredibly special play."
+    - bio: "Anneliese Stauff (she/her) is excited to work with SFBATCO and Golden
+        Thread for the first time. She holds a B.A. in Drama from SFSU and has
+        worked as a Stage Manager for Bay Area theatres including Magic Theatre,
+        Campo Santo, and Live Oak Theatre. Recent credits: Assistant Production
+        Manager for Kaiser Permanente Educational Theatre, Assistant Director
+        for *Axis* at The Marsh, and performing as Magenta in Barely Legal’s
+        *The Rocky Horror Picture Show* shadow cast."
+      name: Anneliese Stauff
+      credit: Stage Manager
+      image: https://ucarecdn.com/c784e5b2-82c4-4021-84db-c4b1a1f339d4/
+    - name: Lauren Quan
+      credit: Assistant Stage Manager
+      image: https://ucarecdn.com/c5de6f65-57d3-4bdd-b1c1-b01d2f44fe17/
+      bio: Lauren is a Bay Area based stage manager. She has stage managed for various
+        local theaters, including Magic Theatre, Aurora Theatre, Berkeley
+        Playhouse, Lorraine Hansberry Theatre, and of course, the San Francisco
+        Bay Area Theatre Company. She is always eager to connect with new
+        people.
+    - bio: "**River Bermudez-Sanders (they/them)** is proud to support this
+        co-production between two of the most exciting and innovative companies
+        in the Bay! They are is a multi-disciplinary theatre artist with credits
+        from companies throughout the region, including San Francisco Playhouse,
+        Oakland Theatre Project, Berkeley Playhouse, and more. Some recent
+        projects include Hillbarn Theatre’s *The Play That Goes Wrong* (Trevor),
+        Crowded Fire Theatre’s *limp wrist on the lever* (Charli), and Theatre
+        Rhinoceros’s *The Laramie Project* (co-director with Elio Amador)."
+      image: https://ucarecdn.com/e0bd2d80-c1bb-4006-b3e0-515be711a1ae/
+      name: River Bermudez-Sanders
+      credit: Production Manager
+    - name: Lev Collins
+      credit: Technical Director
+      image: https://ucarecdn.com/0d6c405e-771d-4300-a4d8-1ea1cc46eebf/
+      bio: "**Lev Collins (he/him)** is thrilled to help bring *Arab Spring* to life.
+        He loves all aspects of scenic creation and has worked as a freelance
+        technical director, scenic painter, and scenic carpenter, including
+        technical directing *Returning to Haifa* for Golden Threads in 2024. In
+        addition to his freelance work, Lev is a full-time scenic carpenter at
+        Cal Scenic, where he helps build sets for theaters both locally and
+        across the U.S., including A.C.T., Center REP, and Shotgun Players."
+    - name: Emrin Vasquez
+      credit: Design Apprentice
+      image: https://ucarecdn.com/942fcd4a-b92c-4234-9432-191dd50c0f30/
+      bio: "**Emrin Vasquez (she/her)** is thrilled to be a part of her first SFBATCO
+        production. She is a graduating senior of San Mateo High School and is
+        committed to SUNY Purchase in the Fall."
   heading: Cast and Creative Team
 mentions:
   heading: ""
