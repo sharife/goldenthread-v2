@@ -97,6 +97,52 @@ cast:
         *Twelfth Night* at Marin Shakespeare Company. He is thrilled to be
         revising this script after participating in the workshop with
         Playwrights Foundation."
+    - name: Mikiko Uesugi
+      credit: Scenic Designer
+      image: https://ucarecdn.com/120f6533-0459-441c-8c94-789a2a736136/
+      bio: "**Mikiko Uesugi (she/her)** has designed *Cuckoo Edible Magic* and *Sign
+        My Name to Freedom* for SFBATCO, and several productions for Golden
+        Thread including *Pilgrimage*, *Drowning in Cairo*, *Our Enemies*,
+        *Language Rooms* and *Night Over Erzinga*. She has also designed for
+        Word for Word, Aurora Theater Company, Shotgun Players, Magic Theater,
+        among others. She is a resident artist at Golden Thread, a recipient of
+        the SF Bay Area Theatre Critics Circle Award and the NEA/TCG Career
+        Development Program for Designers."
+    - name: Sinjin Jones
+      credit: Lighting and Video Designer
+      image: https://ucarecdn.com/fd87171b-7e96-46fc-a848-cae5de80a724/
+      bio: "**Sinjin Jones (he/him)** is a storytelling artist from Denver, Colorado.
+        He founded both Otherworld Collective, a multimedia artists collective,
+        and Perplexity Pictures, a story driven film production company. After
+        moving to the Bay Area, he was the Executive Artistic Director of The
+        Pear Theatre and is founder of Foundry of Aether, an immersive
+        storytelling project. In addition to his work with SVCreates, he is
+        currently an independent arts consultant and artist in the Bay Area.
+        Favorite productions include: directing *Once on This Island*;
+        *Dontrell, Who Kissed the Sea*; *Sunset Baby*; and *Infinite Black
+        Suitcase* and lighting design for *Azad*, *The Agitators*; *Chaplin and
+        Keaton on the Set of Limelight;* and *The Last Five Years*."
+    - name: Michael Kelly
+      credit: Sound Designer
+      image: https://ucarecdn.com/3ff97f11-6d09-4df4-b442-fe528ee0e53c/
+      bio: "**Michael Kelly (he/him)** is an audio specialist, with works appearing
+        across the Bay and internationally. He headed the audio department for
+        multiple seasons at Cal Shakes and serves as the sound supervisor now at
+        Shotgun Players, most recently designing *Sunday In The Park With
+        George*. Other stages of note: Stanford, UC Berkeley, Marin Shakespeare,
+        Oakland Theater Project, Town Hall, Teatro de las Tias, Cutting Ball,
+        Playground, Ferocious Lotus, SF Shakes, and Marin Theatre Company.
+        [linktr.ee/spy_hapa](http://linktr.ee/spy_hapa)"
+    - name: Buffy
+      credit: Costume Designer
+      image: https://ucarecdn.com/9cb9aec3-e04c-4d2d-b87b-2db0e6eb00cc/
+      bio: "**Buffy (she/her)** is filmmaker and artist from the Bay Area. In addition
+        to personal creative goals, Buffy is eager about supporting others in
+        their work, and resistance. Buffy has collaborated on *Collective Rage*
+        at Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Azad, the
+        Rabbit and the Wolf*, as well as *The Pilgrimage* at Golden Thread
+        Productions."
+    - {}
   heading: Cast and Creative Team
 mentions:
   heading: ""
