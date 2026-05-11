@@ -68,7 +68,36 @@ cast:
         American Studies and Theatre Studies from Yale University."
       credit: Director
       image: https://ucarecdn.com/8de052aa-d406-412e-913c-06e3f49c445a/
-  heading: Creative Team
+    - name: Arti Ishak*
+      credit: Actor (Dina)
+      image: https://ucarecdn.com/c75ea366-2c97-4190-8377-9c700fd40bca/
+      bio: "**Arti Ishak (they/them)** is a Chicago actor/writer/director whose work
+        centers on Queer, Muslim, and multicultural stories. Select Credits TV:
+        *Southside* (HBO); *Dark Matter* (Apple TV); *Chicago Med* (NBC).
+        Theatre: *Fantastic Super Great Nation Numero Uno*, *The Best Decision
+        You’ve Ever Made* (The Second City); *Witch, Buried Child* (Writers),
+        *Venus in Fur* (Circle). Directing credits include short films *Shukran
+        Bas* (Means of Productions), *ba la* (HF Productions), *HALF* (ZAXIE),
+        and upcoming short *Divorce Party*. Arti is a senior instructor at Black
+        Box Acting and Adjunct Professor at The Theatre School at DePaul.
+        @artiishak [www.artiishak.com](http://www.artiishak.com/)"
+    - name: Salim Razawi*
+      credit: Actor (Yusef) & Artistic Producer
+      image: https://ucarecdn.com/04ddd072-d6c0-4d0f-bd58-5642a5d18d75/
+      bio: "**Salim Razawi (he/him)** is a theatre maker and, in addition to being the
+        Artistic Producer and Casting Director at Golden Thread, serves as the
+        casting director at Shotgun Players. He has supported casting and
+        consulting across the Bay Area including Marin Shakespeare Festival, the
+        Casting Collective, Aurora Theatre, Hillbarn Theatre, Ray of Light, Town
+        Hall Theatre, Las Positas College, and others. Select directing credits
+        include *Once on This Island* (Contra Costa Civic Theatre & Plethos
+        Productions), *The Shape of Things* and *Mean Girls* (City of Milpitas),
+        amongst others. Previous acting credits include *The Play That Goes
+        Wrong* at SF Playhouse, *Disgraced* at San Jose Stage Company, and
+        *Twelfth Night* at Marin Shakespeare Company. He is thrilled to be
+        revising this script after participating in the workshop with
+        Playwrights Foundation."
+  heading: Cast and Creative Team
 mentions:
   heading: ""
   text: ""
