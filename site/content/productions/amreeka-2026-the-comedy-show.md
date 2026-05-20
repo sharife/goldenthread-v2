@@ -120,4 +120,6 @@ bottom:
     by **Art2Action** as part of a multi-year partnership with Golden Thread
     on *Protecting Dissent,* uplifting and centering voices for Palestine."
 ---
-For Iraqi artist Wafaa Bilal, the show, just like his solo works, “is an artistic platform for creating dialogue and bringing people together on highly charged topics. Not politicizing laughter but laughing at politics as a form of solidarity and resistance.”
+### S﻿AD YOU MISSED THE SOLD OUT SHOW?\
+[Y﻿ou can now watch it on-demand.](https://crowdedfiretheater.anywhereseat.com/channel.php)\
+P﻿art of the streaming proceeds go to support MECA.
