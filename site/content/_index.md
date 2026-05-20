@@ -7,6 +7,16 @@ cta: Our Co-Production with SFBATCO runs June 19-July 12
 link: https://goldenthread.org/productions/arab-spring/
 items:
   - subtitle: |-
+      **A﻿MREEKA 2026: The Comedy Show**\
+      **Now Available On-Demand**
+    text: "**P﻿alestinian laughter is a radical act of resistance.** Are you sad you
+      missed the sold-out show of Palestinian comedy? Don't fret -- now it's
+      available on-demand. Part of proceeds go to support Middle East Children's
+      Alliance (MECA)."
+    image: https://ucarecdn.com/123fd33a-0d00-44c6-86be-ce78d135933e/
+    cta: Rent the on-demand video
+    link: https://crowdedfiretheater.anywhereseat.com/channel.php
+  - subtitle: |-
       **Statement of Solidarity with**\
       **the People of Iran**
     link: https://goldenthread.org/posts/statement-of-solidarity-with-the-people-of-iran/
@@ -25,14 +35,4 @@ items:
     image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
-  - subtitle: |-
-      **A﻿MREEKA 2026: The Comedy Show**\
-      **Now Available On-Demand**
-    text: "**P﻿alestinian laughter is a radical act of resistance.** Are you sad you
-      missed the sold-out show of Palestinian comedy? Don't fret -- now it's
-      available on-demand. Part of proceeds go to support Middle East Children's
-      Alliance (MECA)."
-    image: https://ucarecdn.com/123fd33a-0d00-44c6-86be-ce78d135933e/
-    cta: RENT ON-DEMAND VIDEO NOW!
-    link: https://crowdedfiretheater.anywhereseat.com/channel.php
 ---
