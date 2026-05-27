@@ -100,6 +100,9 @@ cast:
         *Twelfth Night* at Marin Shakespeare Company. He is thrilled to be
         revising this script after participating in the workshop with
         Playwrights Foundation."
+    - name: Khaled Abol Naga
+      credit: Voiceover (Samir)
+      image: https://ucarecdn.com/20132cfe-dc4e-4b85-b0b7-10a9b77742ee/
     - name: Mikiko Uesugi
       credit: Scenic Designer
       image: https://ucarecdn.com/120f6533-0459-441c-8c94-789a2a736136/
