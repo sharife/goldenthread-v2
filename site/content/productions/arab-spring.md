@@ -130,7 +130,7 @@ cast:
         Keaton on the Set of Limelight;* and *The Last Five Years*."
     - name: Michael Kelly
       credit: Sound Designer
-      image: https://ucarecdn.com/3ff97f11-6d09-4df4-b442-fe528ee0e53c/
+      image: https://ucarecdn.com/763f068d-7a9e-478b-a7ba-bce21e618b94/
       bio: "**Michael Kelly (he/him)** is an audio specialist, with works appearing
         across the Bay and internationally. He headed the audio department for
         multiple seasons at Cal Shakes and serves as the sound supervisor now at
@@ -148,6 +148,17 @@ cast:
         Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Azad, the Rabbit
         and the Wolf*, as well as *The Pilgrimage* at Golden Thread
         Productions."
+    - image: https://ucarecdn.com/5ecb86fe-cfb7-4cef-b666-1df99ed3712c/
+      name: Heidi Button
+      credit: Properties Designer
+      bio: "**Heidi Button** recently received her BA from San Francisco State, also
+        serving as Interim Props Department Coordinator for spring 2024. Recent
+        credits include designing props for *Nollywood Dreams* at San Francisco
+        Playhouse, and *In The Evening By The Moonlight* for the Lorraine
+        Hansberry Theatre Company. In a former life, *Heidi* lived in France 8
+        years as an aerialist, and spent 9 years at SF Circus Center doing
+        circus production. Spring 2020, she co-directed Circus Center's Youth
+        Program."
     - name: Laura Brueckner
       credit: Dramaturg
       image: https://ucarecdn.com/aebcbfeb-1cd0-42e6-aa1a-11176ac52eb5/
@@ -155,24 +166,23 @@ cast:
         in new work, immersive theatre, and experimental pieces. She's thrilled
         to be working with Golden Thread, SFBATCO, and this creative team on
         this incredibly special play."
-    - bio: "Anneliese Stauff (she/her) is excited to work with SFBATCO and Golden
-        Thread for the first time. She holds a B.A. in Drama from SFSU and has
-        worked as a Stage Manager for Bay Area theatres including Magic Theatre,
-        Campo Santo, and Live Oak Theatre. Recent credits: Assistant Production
-        Manager for Kaiser Permanente Educational Theatre, Assistant Director
-        for *Axis* at The Marsh, and performing as Magenta in Barely Legal’s
-        *The Rocky Horror Picture Show* shadow cast."
-      name: Anneliese Stauff
-      credit: Stage Manager
-      image: https://ucarecdn.com/c784e5b2-82c4-4021-84db-c4b1a1f339d4/
     - name: Lauren Quan
-      credit: Assistant Stage Manager
+      credit: Stage Manager
       image: https://ucarecdn.com/c5de6f65-57d3-4bdd-b1c1-b01d2f44fe17/
       bio: Lauren is a Bay Area based stage manager. She has stage managed for various
         local theaters, including Magic Theatre, Aurora Theatre, Berkeley
         Playhouse, Lorraine Hansberry Theatre, and of course, the San Francisco
         Bay Area Theatre Company. She is always eager to connect with new
         people.
+    - name: Ella Watkins
+      credit: Assistant Stage Manager
+      image: https://ucarecdn.com/97b986e1-3ab4-478c-8ee7-3c10c7696876/
+      bio: "**Ella Watkins** is delighted to be working on her first show with Golden
+        Thread and SFBATCO. Previously, she was a Stage Management Intern at
+        Broadway at Music Circus in Sacramento, working on *Hello, Dolly!* and
+        *In the Heights.* Other than that, she has worked on shows at her high
+        school and college. She is currently working towards her BA in Theatre
+        Arts at San Francisco State University."
     - bio: "**River Bermudez-Sanders (they/them)** is proud to support this
         co-production between two of the most exciting and innovative companies
         in the Bay! They are is a multi-disciplinary theatre artist with credits
@@ -194,6 +204,17 @@ cast:
         addition to his freelance work, Lev is a full-time scenic carpenter at
         Cal Scenic, where he helps build sets for theaters both locally and
         across the U.S., including A.C.T., Center REP, and Shotgun Players."
+    - image: https://ucarecdn.com/63f5a583-f844-47a3-82d6-1e07c8b4c817/
+      name: Landyn Endo
+      credit: Fight Choreographer
+      bio: "**Landyn Endo** is a queer, trans Japanese-American fight choreographer,
+        acrobat, actor, and stuntman. He has performed in Europe with DTM2
+        Improvisational Ensemble, Off-Broadway in NYC, and in Japan in *Dreaming
+        Forward*, an artistic collaboration with choreographer Motoko Hirayama.
+        Check out his new show *Box M* in July with Crowded Fire. Landyn is a
+        proud member of Flying Rabbit Circus and People’s Circus Theatre, and
+        teaches at Circus Center and VRV3. Find him on IG
+        [@smooth_landyn](https://www.instagram.com/smooth_landyn)"
     - name: Emrin Vasquez
       credit: Design Apprentice
       image: https://ucarecdn.com/942fcd4a-b92c-4234-9432-191dd50c0f30/
