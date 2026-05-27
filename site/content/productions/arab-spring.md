@@ -197,6 +197,9 @@ cast:
       bio: "**Emrin Vasquez (she/her)** is thrilled to be a part of her first SFBATCO
         production. She is a graduating senior of San Mateo High School and is
         committed to SUNY Purchase in the Fall."
+    - name: Khaled Abol Naga
+      credit: Voiceover (Samir)
+      image: https://ucarecdn.com/20132cfe-dc4e-4b85-b0b7-10a9b77742ee/
   heading: Cast and Creative Team
 mentions:
   heading: ""
