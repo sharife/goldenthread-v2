@@ -17,15 +17,6 @@ items:
     cta: Rent the on-demand video
     link: https://crowdedfiretheater.anywhereseat.com/channel.php
   - subtitle: |-
-      **Statement of Solidarity with**\
-      **the People of Iran**
-    link: https://goldenthread.org/posts/statement-of-solidarity-with-the-people-of-iran/
-    cta: Read the full statement
-    text: "**We dedicate *What Do the Women Say? 2026* to the people of Iran**,
-      whose unwavering spirit, courage, and enduring hope inspire us all, and we
-      stand in solidarity with their fight for freedom and self-determination."
-    image: https://ucarecdn.com/90b0bb03-6ae9-48d7-b073-99b421a44165/
-  - subtitle: |-
       **G﻿olden30 Campaign**\
       **F﻿or Our 30th Anniversary**
     text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
@@ -35,4 +26,14 @@ items:
     image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
+  - subtitle: |-
+      ***ICU (I See You): A One-Woman Play***\
+      **b﻿y Leyla Modirzadeh and Domenique Lozano**
+    text: C﻿o-produced with **Red Poppy Art House** and performed by **Bridgette
+      Lorieaux**, this one-woman staged reading is inspired by Iran's "Women,
+      Life, Freedom" movement and illuminates the events and human experiences
+      of the uprising through the intersecting lives of five Iranian women.
+    image: https://ucarecdn.com/6f48917c-ab2c-41e7-a46e-960a8074af44/
+    cta: Get your tickets for June 19-21!
+    link: https://www.eventbrite.com/e/icu-i-see-you-a-one-woman-play-tickets-1991321450062
 ---
