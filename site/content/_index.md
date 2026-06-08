@@ -7,6 +7,16 @@ cta: Our Co-Production with SFBATCO runs June 19-July 12
 link: https://goldenthread.org/productions/arab-spring/
 items:
   - subtitle: |-
+      ***ICU (I See You): A One-Woman Play***\
+      **b﻿y Leyla Modirzadeh and Domenique Lozano**
+    text: C﻿o-produced with **Red Poppy Art House** and performed by **Bridgette
+      Lorieaux**, this one-woman staged reading is inspired by Iran's "Women,
+      Life, Freedom" movement and illuminates the events and human experiences
+      of the uprising through the intersecting lives of five Iranian women.
+    image: https://ucarecdn.com/6f48917c-ab2c-41e7-a46e-960a8074af44/
+    cta: Get your tickets for June 19-21!
+    link: https://www.eventbrite.com/e/icu-i-see-you-a-one-woman-play-tickets-1991321450062
+  - subtitle: |-
       **A﻿MREEKA 2026: The Comedy Show**\
       **Now Available On-Demand**
     text: "**P﻿alestinian laughter is a radical act of resistance.** Are you sad you
@@ -26,14 +36,4 @@ items:
     image: https://ucarecdn.com/e04971a6-774e-4b6c-ab33-cd4c4d043af8/
     cta: Donate to GOLDEN30 now!
     link: https://goldenthread.org/donate/
-  - subtitle: |-
-      ***ICU (I See You): A One-Woman Play***\
-      **b﻿y Leyla Modirzadeh and Domenique Lozano**
-    text: C﻿o-produced with **Red Poppy Art House** and performed by **Bridgette
-      Lorieaux**, this one-woman staged reading is inspired by Iran's "Women,
-      Life, Freedom" movement and illuminates the events and human experiences
-      of the uprising through the intersecting lives of five Iranian women.
-    image: https://ucarecdn.com/6f48917c-ab2c-41e7-a46e-960a8074af44/
-    cta: Get your tickets for June 19-21!
-    link: https://www.eventbrite.com/e/icu-i-see-you-a-one-woman-play-tickets-1991321450062
 ---
