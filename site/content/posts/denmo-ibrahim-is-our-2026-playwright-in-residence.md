@@ -6,7 +6,7 @@ description: >
   theater maker Denmo Ibrahim as our 2026 Playwright in Residence.
 background: https://ucarecdn.com/379d8b02-b6a1-456d-9470-2ff7abcb40f2/
 ---
-We’re proud to announce acclaimed Egyptian-American playwright, actor, and theater maker Denmo Ibrahim as our 2026 Playwright in Residence. 
+### We’re proud to announce acclaimed Egyptian-American playwright, actor, and theater maker Denmo Ibrahim as our 2026 Playwright in Residence. 
 
 As part of her residency, Golden Thread is producing the world premiere of her biting comedy ***Arab Spring*** (June 19-July 12, co-produced with SFBATCO). Her new play, ***A Country Made of Salt*** received a workshop production earlier this year as part of our Festival of Palestinian Art. Later this year, Golden Thread will support the development of ***An Experiment in Divination***, a solo theatrical encounter inviting audiences to explore how we make meaning in an uncertain world.\
 \
