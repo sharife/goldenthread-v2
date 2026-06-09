@@ -30,10 +30,10 @@ items:
       **D﻿enmo Ibrahim is** \
       **Our 2026 Playwright in Residence**
     text: Join us in welcoming the acclaimed Egyptian-American playwright, actor,
-      and theater maker to Golden Thread in this new capacity! As part of her
-      residency, Denmo will develop three projects, including the upcoming world
-      premiere production of ***Arab Spring*** (June 19-July 12, co-produced
-      with SFBATCO).
+      and theater maker back to Golden Thread in this new capacity! As part of
+      her residency, Denmo will develop three projects, including the upcoming
+      world premiere production of ***Arab Spring*** (June 19-July 12,
+      co-produced with SFBATCO).
     image: https://ucarecdn.com/c769d640-b07e-4200-9ce7-268c67002c6a/
     cta: Find out more
     link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
