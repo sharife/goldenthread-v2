@@ -6,7 +6,7 @@ description: >
   theater maker Denmo Ibrahim as our 2026 Playwright in Residence.
 background: https://ucarecdn.com/379d8b02-b6a1-456d-9470-2ff7abcb40f2/
 ---
-### We’re proud to announce acclaimed Egyptian-American playwright, actor, and theater maker Denmo Ibrahim as our 2026 Playwright in Residence. 
+### We’re proud to announce acclaimed Egyptian-American playwright, actor, and theater maker Denmo Ibrahim as our 2026 Playwright in Residence.
 
 As part of her residency, Golden Thread is producing the world premiere of her biting comedy ***Arab Spring*** (June 19-July 12, co-produced with SFBATCO). Her new play, ***A Country Made of Salt*** received a workshop production earlier this year as part of our Festival of Palestinian Art. Later this year, Golden Thread will support the development of ***An Experiment in Divination***, a solo theatrical encounter inviting audiences to explore how we make meaning in an uncertain world.\
 \
@@ -20,4 +20,6 @@ Denmo adds: “Being Golden Thread’s Playwright in Residence during its 30th a
 
 <hr>
 
-Launched in 2022, **Golden Thread’s Artist in Residence** program offers multidisciplinary theater artists of Middle Eastern descent an opportunity to spend a year with Golden Thread. As part of this flexible and responsive program, past Artists in Residence have created new programming and initiatives, joined the producing team, engaged deeply with Golden Thread’s audiences and artistic community, and have received financial, developmental, and production support for their own artistic practice. Past Artists in Residence include Turkish-American director, writer, and arts leader **Evren Odcikin**; Iraqi-born visual and performance artist and professor **Wafaa Bilal**; and Palestinian-American composer, actor, and director **Amal Bisharat**, whose residency was made possible by Theater Bay Area’s Arts Leadership Residency.
+Launched in 2022, **Golden Thread’s Artist in Residence** program offers multidisciplinary theater artists of MENA descent an opportunity to spend a year with Golden Thread. As part of this flexible and responsive program, past Artists in Residence have created new programming and initiatives, joined the producing team, engaged deeply with Golden Thread’s audiences and artistic community, and have received financial, developmental, and production support for their own artistic practice. 
+
+Previous Artists in Residence include Turkish-American director, writer, and arts leader **Evren Odcikin**; Iraqi-born visual and performance artist and professor **Wafaa Bilal**; and Palestinian-American composer, actor, and director **Amal Bisharat.**
