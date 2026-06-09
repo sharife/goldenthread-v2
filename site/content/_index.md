@@ -15,7 +15,7 @@ items:
       of the uprising through the intersecting lives of five Iranian women.
     image: https://ucarecdn.com/6f48917c-ab2c-41e7-a46e-960a8074af44/
     cta: Get your tickets for June 19-21!
-    link: https://www.eventbrite.com/e/icu-i-see-you-a-one-woman-play-tickets-1991321450062
+    link: https://www.redpoppyarthouse.org/event/icu-i-see-you-june-19/
   - subtitle: |-
       **A﻿MREEKA 2026: The Comedy Show**\
       **Now Available On-Demand**
