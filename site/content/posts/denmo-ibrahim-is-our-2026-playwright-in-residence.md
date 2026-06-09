@@ -4,7 +4,7 @@ date: 2026-06-09T00:15:36.041Z
 description: >
   We’re proud to announce acclaimed Egyptian-American playwright, actor, and
   theater maker Denmo Ibrahim as our 2026 Playwright in Residence.
-background: https://ucarecdn.com/04f3dcc7-4a9d-4739-a787-e6a0b598f545/
+background: https://ucarecdn.com/379d8b02-b6a1-456d-9470-2ff7abcb40f2/
 ---
 We’re proud to announce acclaimed Egyptian-American playwright, actor, and theater maker Denmo Ibrahim as our 2026 Playwright in Residence. 
 
