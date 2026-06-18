@@ -19,7 +19,9 @@ description: >-
 
   ***Content warning:***\
 
-  *Loud noises and flashing lights*
+  *Loud noises and flashing lights*\
+
+  *Incense & herbal cigarettes on stage*
 background: https://ucarecdn.com/5eb1f883-2ac7-4beb-b6b1-1ca9f504f27d/
 titleimage: ""
 programlabel: ""
