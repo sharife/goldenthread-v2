@@ -15,6 +15,11 @@ description: >-
 
 
   **Denmo Ibrahim is the 2026 Playwright in Residence at Golden Thread**, having been involved with the company as an artist since 2003. Golden Thread commissioned and produced Denmo's first play *ECSTASY | a waterfable* and recently helped develop her new work *A Country Made of Salt* as part of its Festival of Palestinian Art. She has also appeared on Golden Thread's stages numerous times -- most recently in Yussef El Guindi's *Our Enemies: Lively Scenes of Love and Combat*.
+
+
+  ***Content warning:***\
+
+  *Loud noises and flashing lights*
 background: https://ucarecdn.com/5eb1f883-2ac7-4beb-b6b1-1ca9f504f27d/
 titleimage: ""
 programlabel: ""
