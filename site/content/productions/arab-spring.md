@@ -25,7 +25,8 @@ description: >-
 background: https://ucarecdn.com/5eb1f883-2ac7-4beb-b6b1-1ca9f504f27d/
 titleimage: ""
 programlabel: ""
-program: ""
+program: https://www.flipsnack.com/goldenthread/arab-spring-playbill-digital
+pdflabel: Digital Playbill
 videos:
   - id: kYCjvjIiSQs
 writer: Denmo Ibrahim
