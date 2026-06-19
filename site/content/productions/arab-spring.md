@@ -250,19 +250,29 @@ photos3:
 archivevideo: ""
 bottom:
   heading: ""
-  text: The world premiere of *Arab Spring* is supported by **CA$H Theatre**, a
-    grants program of **Theatre Bay Area**, and Producers Circle donors **Omita
-    & Ebby Abraham**, **Ronald Whittier Family Foundation**, **Craig & Kathy
-    Moody**, **Wanda Cole-Frieman**, **Helen Lee-Righter & Leon So**, **Bob
-    Miller & Judy Wilber**, **Amanda Conley**, **Noah Holmes**, **Monetta
-    White**, and **May Allam**. The production is also supported by the **San
-    Francisco Office of Economic and Workforce Development (OEWD)** via
-    SFBATCO’s Production Apprenticeship program. Golden Thread is a resident
-    company at **Potrero Stage**, operated by **PlayGround**. The play has
-    received developmental support from **Round House Theatre’s National Capital
-    New Play Festival** and was developed at the **2023 Bay Area Playwrights
-    Festival**, a program of the **Playwrights Foundation** (Jessica Bird Beza,
-    Executive Artistic Director).
+  text: >-
+    Arab Spring exists because of a community of Producers who believe in the
+    power of new voices and transformative storytelling. We are deeply grateful
+    to the producers whose leadership and generosity have made this world
+    premiere possible. 
+
+
+    **Ambassadors**\
+
+    Ronald Whittier Family Foundation • Craig & Kathy Moody • Omita & Ebby Abraham • May Allam • Nora El Samahy & Patrick Kaliski and Catherine El Samahy • Linda Chang & Emin Maltepe • Armen Sedrakian • Babak Sani
+
+
+    **Storyshapers**\
+
+    Wanda Cole-Frieman •   Bob Miller and Judy Wilber • Helen Lee-Righter & Leon So • Anonymous (3) 
+
+
+    **Collaborators**\
+
+    Sandra Chehab • Nancy Chemaly • Amanda Conley • Noah Holmes • Fatima Osman • Monetta White
+
+
+    The world premiere of *Arab Spring* is also supported by **CA$H Theatre**, a grants program of **Theatre Bay Area** and the **San Francisco Office of Economic and Workforce Development (OEWD)** via SFBATCO’s Production Apprenticeship program. Golden Thread is a resident company at **Potrero Stage**, operated by **PlayGround**. The play has received developmental support from **Round House Theatre’s National Capital New Play Festival** and was developed at the **2023 Bay Area Playwrights Festival**, a program of the **Playwrights Foundation** (Jessica Bird Beza, Executive Artistic Director).
   logos: []
 ---
 "This is a play that speaks deeply to Arab-American and other diasporic and immigrant communities in intimate and global ways. It is a play that can hold our joy and grief simultaneously,” says Nabra Nelson, Golden Thread Productions Artistic Director. “People often ask Golden Thread about how our plays connect to the current political moment. Right now, this play is resonating with me as a story about how family and laughter are balm in the darkest moments, even when we are grieving the loss of a loved one."
