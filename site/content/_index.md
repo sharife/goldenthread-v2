@@ -7,16 +7,6 @@ cta: Our Co-Production with SFBATCO runs June 19-July 12
 link: https://goldenthread.org/productions/arab-spring/
 items:
   - subtitle: |-
-      ***ICU (I See You): A One-Woman Play***\
-      **b﻿y Leyla Modirzadeh and Domenique Lozano**
-    text: C﻿o-produced with **Red Poppy Art House** and performed by **Bridgette
-      Lorieaux**, this one-woman staged reading is inspired by Iran's "Women,
-      Life, Freedom" movement and illuminates the events and human experiences
-      of the uprising through the intersecting lives of five Iranian women.
-    image: https://ucarecdn.com/6f48917c-ab2c-41e7-a46e-960a8074af44/
-    cta: Get your tickets for June 19-21!
-    link: https://www.redpoppyarthouse.org/event/icu-i-see-you-june-19/
-  - subtitle: |-
       **A﻿MREEKA 2026: The Comedy Show**\
       **Now Available On-Demand**
     text: "**P﻿alestinian laughter is a radical act of resistance.** Are you sad you
@@ -37,4 +27,16 @@ items:
     image: https://ucarecdn.com/c769d640-b07e-4200-9ce7-268c67002c6a/
     cta: Find out more
     link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
+  - text: "**No one does what Golden Thread does, and our communities need us now
+      more than ever.** As funding from the government and foundations dwindle,
+      and censorship and authoritarianism become commonplace, we launch the
+      Golden30 Campaign with a clear commitment: **to** **build a strong
+      foundation for growth and stability, ensuring that our essential cultural
+      home for many communities continues to thrive.**"
+    subtitle: |-
+      **D﻿onate to GOLDEN30:**\
+      **O﻿ur 30th Anniversary Campaign**
+    cta: Join us in securing the next 30 years for Golden Thread!
+    image: https://ucarecdn.com/5f7937ba-e241-4381-bf69-6552f3de0706/
+    link: https://goldenthread.org/donate/
 ---
