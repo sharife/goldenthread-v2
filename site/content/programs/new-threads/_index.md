@@ -153,16 +153,20 @@ grids:
         subtitle: July 16 and 21, 2017
         text: by **Mona Mansour**, directed by **Evren Odcikin**, presented in
           association with **Bay Area Playwrights Festival**
+        image: https://ucarecdn.com/e3dd47b4-d0b5-4b87-bded-a750ac791489/
       - title: As Soon As Impossible
         subtitle: August 1, 2017
         text: by **Betty Shamieh**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/0fe40678-3ee0-4647-814f-0680e71866f7/
       - title: When Farah Cries
         subtitle: August 8, 2017
         text: by **Mudar Alhaggi**, translated by **Nashwa Gowanlock** and **Ruth
           Ahmedzai Kemp**, directed by **Michael Malek Najjar**
+        image: https://ucarecdn.com/e8bf2616-2e33-474a-b22d-ef6f07132466/
       - title: On The Periphery
         subtitle: August 15, 2017
         text: by **Sedef Ecer**, translated and directed by **Evren Odcikin**
+        image: https://ucarecdn.com/b10c584f-bdfe-431a-857b-948d08b6d3f2/
   - heading: New Threads 2016
     items:
       - title: The One, Percy Ent
