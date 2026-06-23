@@ -54,13 +54,17 @@ grids:
         subtitle: ""
         pre: August 20, 2023
         title: The Fox and the Panther
-        text: by **Tariq Hamami**, dramaturgy by **Dawn Monique Williams**
+        text: by **Tariq Hamami**, dramaturgy by **Dawn Monique Williams**, directed by
+          **Leontyne Mbele-Mbong**
+        image: https://ucarecdn.com/e371c94a-6060-4e8a-990f-7a5bebca319f/
       - cta: More Info
         link: https://goldenthread.org/productions/new-threads-staged-reading-series-2023/
         subtitle: ""
         pre: August 27, 2023
         title: "ALAA: A Family Trilogy"
-        text: by **Adam Ashraf Elsayigh**, generative dramaturgy by **Salma Zohdi**
+        text: by **Adam Ashraf Elsayigh**, generative dramaturgy by **Salma Zohdi**,
+          directed by **Karina Gutiérrez**
+        image: https://ucarecdn.com/4ea93821-4e32-4ad6-b570-0c0487b29fb9/
   - heading: New Threads 2022
     items:
       - link: https://goldenthread.org/productions/new-threads-reading-series-2022/
