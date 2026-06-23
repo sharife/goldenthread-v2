@@ -28,15 +28,14 @@ items:
     cta: Find out more
     link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
   - text: "**No one does what Golden Thread does, and our communities need us now
-      more than ever.** As funding from the government and foundations dwindle,
-      and censorship and authoritarianism become commonplace, we launch the
-      Golden30 Campaign with a clear commitment: **to** **build a strong
-      foundation for growth and stability, ensuring that our essential cultural
-      home for many communities continues to thrive.**"
+      more than ever.** We launch the Golden30 Campaign with a clear
+      commitment: to build a strong foundation for growth and stability,
+      ensuring that our essential cultural home for many communities continues
+      to thrive."
     subtitle: |-
       **D﻿onate to GOLDEN30:**\
       **O﻿ur 30th Anniversary Campaign**
-    cta: Join us in securing the next 30 years for Golden Thread!
+    cta: Donate now
     image: https://ucarecdn.com/5f7937ba-e241-4381-bf69-6552f3de0706/
     link: https://goldenthread.org/donate/
 ---
