@@ -13,6 +13,15 @@ intro: >
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
 grids:
+  - heading: New Threads 2026
+    items:
+      - cta: More Info
+        link: https://goldenthread.org/productions/icu-i-see-you-a-one-woman-play/
+        title: "ICU (I See You): A One-Woman Play"
+        pre: June 19-21, 2026
+        text: by **Leyla Modirzadeh** and **Domenique Lozano**, featuring **Bridgette
+          Loriaux**, co-presented with **Red Poppy Art House**
+        image: https://ucarecdn.com/36bf049f-f3ec-4814-a1af-acfcbf3fc453/
   - heading: New Threads 2025
     items:
       - link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
@@ -240,31 +249,16 @@ sidebar:
     51 writers (playwrights and translators)<br /> 30 directors<br /> 17 stage
     managers<br /> 227 actors
 ---
- 
-
 Our goals for this program are:
 
-
-  * Support the playwright in the development of the script towards production
-
-
-  * Build a working relationship with a new playwright or director and introduce them to our community
-
-
-  * Share a rarely told narrative, particularly one with current resonance
-
-
-  * Better understand the casting and production needs of a play
-
-
-  * Build support for a particular artist or play among our patrons
-
+* Support the playwright in the development of the script towards production
+* Build a working relationship with a new playwright or director and introduce them to our community
+* Share a rarely told narrative, particularly one with current resonance
+* Better understand the casting and production needs of a play
+* Build support for a particular artist or play among our patrons
 
 The readings are accompanied by talkbacks with the artists and experts that comment on the themes of the play. We invite you to join the creative process of a new play and discover brilliant gems never before seen in the Bay Area. We invite you to laugh, cry, and think alongside these beautiful stories from and about the Middle East. Each play is teeming with unexpected humor, surprising characters, and important questions about the world we live in today. 
 
-**The staged readings are free and open to the public.**
+**Most staged readings are free and open to the public.**
 
-
-* * *
-
- 
+- - -
