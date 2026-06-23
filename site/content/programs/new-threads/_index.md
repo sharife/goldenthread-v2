@@ -216,15 +216,19 @@ grids:
         text: by **Yussef El Guindi**, **Emma Goldman-Sherman**, **Ken Kaissar**, **Tala
           Manassah**, **Mona Mansour** and **Nahal Navidar**, directed by
           **Evren Odcikin**
+        image: https://ucarecdn.com/0e496aad-0dfb-460d-a7d4-d669f7889e6d/
       - title: The Luxor Express
         subtitle: October 6, 2014
         text: by **Daria Polatin**, directed by **Sara Razavi**
+        image: https://ucarecdn.com/295007cb-c3f2-40b6-90c7-81292ee33c8a/
       - title: Sabra Falling
         subtitle: October 20, 2014
         text: by **Ismail Khalidi**, directed by **Octavio Solis**
+        image: https://ucarecdn.com/1795fbd1-0161-48dc-8f1c-af73e3b172da/
       - title: Baghdad Wedding
         subtitle: October 27, 2014
         text: by **Hassan Abdulrazzak**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/d1c48ac4-72d1-4819-89f2-d7596c57190d/
   - heading: New Threads 2013
     items:
       - title: Holy Land
