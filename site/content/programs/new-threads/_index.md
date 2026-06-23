@@ -73,12 +73,14 @@ grids:
         title: "A Thousand Strange Places: Anthony Shadid and the Middle East"
         text: by **Robert Myers**, directed by **Sahar Assaf**
         pre: Tuesday, August 9, 2022
+        image: https://ucarecdn.com/910beb0d-3c99-489b-9bce-75ecb95c10d6/
       - subtitle: ""
         title: What to Expect When You're Simulating Expecting
         text: by **Nabra Nelson**, directed by **Susannah Martin**
         pre: Tuesday, August 16, 2022
         link: https://goldenthread.org/productions/new-threads-reading-series-2022/
         cta: More info
+        image: https://ucarecdn.com/ad88bad6-fb9f-4c34-95ad-adf260d0f73c/
       - subtitle: ""
         title: Pilgrimage
         pre: Tuesday, August 23, 2022
@@ -86,12 +88,14 @@ grids:
           by **Aidaa Peerzada**
         cta: More info
         link: https://goldenthread.org/productions/new-threads-reading-series-2022/
+        image: https://ucarecdn.com/5e9bcebd-5d89-4078-806e-d87fe761b27e/
       - link: https://goldenthread.org/productions/new-threads-reading-series-2022/
         cta: More Info
         subtitle: ""
         title: Home?
         pre: Tuesday, August 30, 2022
         text: by **Hend Ayoub**, directed by **Carey Perloff**
+        image: https://ucarecdn.com/1d193ef4-0c34-40bd-a274-b91324082b89/
   - heading: New Threads 2021
     items:
       - title: Arab Play Cycle (or A Triptych of Plays)
