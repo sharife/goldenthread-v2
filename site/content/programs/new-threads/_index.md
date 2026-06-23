@@ -172,15 +172,19 @@ grids:
       - title: The One, Percy Ent
         subtitle: July 12, 2016
         text: by **Tariq Hamami**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/92a67674-49af-4767-9d90-e79a5a5dd2fd/
       - title: The Victims, or What Do You Want Me To Do About It?
         subtitle: July 19, 2016
         text: by **Ken Kaissar**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/75449789-6064-4098-84bb-22a95b6401e1/
       - title: Those Ills We Have
         subtitle: July 26, 2016
         text: by **Novid Parsi**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/d4679d68-80d1-40aa-8275-8a3f51ba91ed/
       - title: Scenes From 68* Years
         subtitle: August 1, 2016
         text: by **Hannah Khalil**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/ea3fdbcb-8f0e-48ba-8ba8-9c293b60fc9e/
   - heading: New Threads 2015
     items:
       - title: Oh My Sweet Land
