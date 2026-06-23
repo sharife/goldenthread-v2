@@ -22,6 +22,8 @@ description: >
 sidebar:
   heading: Past Festivals
   text: >-
+    [R﻿eOrient 2023](https://goldenthread.org/productions/reorient-2023/)\
+
     [ReOrient 2019](https://goldenthread.org/productions/reorient-2019/)\
 
     [ReOrient 2017](https://goldenthread.org/productions/reorient-2017/)\
