@@ -39,12 +39,14 @@ grids:
         text: by **Raeda Taha**, directed by **Hala Baki**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-staged-reading-series-2024/
+        image: https://ucarecdn.com/c0815d19-6d2a-4f18-b787-ab55d79af0c3/
       - cta: More Info
         link: https://goldenthread.org/productions/new-threads-staged-reading-series-2024/
         subtitle: ""
         pre: Friday, August 9, 2024
         title: The Return
         text: by **Hanna Eady** and **Edward Mast**, directed by **Hanna Eady**
+        image: https://ucarecdn.com/08e3fdc2-0bca-4d31-8bee-952ec7d881bd/
   - heading: New Threads 2023
     items:
       - cta: More Info
