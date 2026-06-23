@@ -30,6 +30,7 @@ grids:
           by **Torange Yeghiazarian**
         title: Oriental, or 1001 Ways to Tie Yourself in Knots
         pre: June 7-8, 2025
+        image: https://ucarecdn.com/989439e9-6f89-43ae-a215-32b3e12c48ad/
   - heading: New Threads 2024
     items:
       - subtitle: ""
