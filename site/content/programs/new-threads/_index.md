@@ -235,45 +235,57 @@ grids:
         subtitle: April 9, 2013
         text: by **Mohamed Kacimi**, translated by **Chantal Bilodeau**, directed by
           **Torange Yeghiazarian**
+        image: https://ucarecdn.com/554bd2ce-17ac-4449-8757-31fdc8512b80/
       - title: The Admission
         subtitle: April 24, 2013
         text: by **Motti Lerner**, translated by **Johanna Gruenhut** and **Motti
           Lerner**, directed by **Amy Glazer**
+        image: https://ucarecdn.com/d8c2903d-f28b-4097-9e3c-e82877d4bd8f/
       - title: The Most Dangerous Highway In The World
         subtitle: May 6, 2013
         text: by **Kevin Artigue**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/3d0da71c-6409-4bf9-9829-0f4b3ed9089f/
       - title: Shot In Baghdad
         subtitle: May 14, 2013
         text: by **Jeanne Beckwith**, directed by **Sara Razavi**
+        image: https://ucarecdn.com/7404cc0a-09d0-40ea-ab83-ef351844466d/
   - heading: New Threads 2012
     items:
       - title: A Moment Of Silence
         subtitle: May 16, 2012
         text: by **Mohammad Yaghoubi**, translated and directed by **Torange
           Yeghiazarian**
+        image: https://ucarecdn.com/371d1594-5f2e-44c1-b9dc-6ab019993531/
       - title: Another Man’s Son
         subtitle: July 18, 2012
         text: by **Silva Semerciyan**, directed by **Rebecca Novick**
+        image: https://ucarecdn.com/6a5a88de-e5c8-40f5-b2c5-a5b71ef21eb3/
       - title: The Hour Of Feeling
         subtitle: October 1, 2012
         text: by **Mona Mansour**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/b9d64edb-ebab-4aae-bb82-65a50de2a5ff/
       - title: The Mummy And The Revolution
         subtitle: November 17, 2012
         text: by **Yussef El Guindi**, directed by **Desdemona Chiang**
+        image: https://ucarecdn.com/0b1c24d6-d5cc-4562-a3e2-9f226d4869a9/
   - heading: New Threads 2011
     items:
       - title: 444 Days
         subtitle: March 29, 2011
         text: by **Torange Yeghiazarian**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/34a0cf7a-f9cd-4b8e-a057-e540161d877b/
       - title: The Owl Girl
         subtitle: April 26, 2011
         text: by **Monica Raymond**, directed by **Naomi Newman**
+        image: https://ucarecdn.com/84b89fdf-29cc-4138-a7b5-04cf113f8528/
       - title: The Cry Of The Reed
         subtitle: May 23, 2011
         text: by **Sinan Unel**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/2af2504b-fb25-4160-83dc-ae7dbef79d60/
       - title: Urge For Going
         subtitle: June 28, 2011
         text: by **Mona Mansour**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/a203dda5-db27-487c-87ac-5022e8ed048f/
 date: 2015-12-30 20:05:42+00:00
 comments: false
 title: New Threads Reading Series
