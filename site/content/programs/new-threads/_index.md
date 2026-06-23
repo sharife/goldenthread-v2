@@ -13,20 +13,47 @@ intro: >
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
 grids:
+  - heading: New Threads 2022
+    items:
+      - link: https://goldenthread.org/productions/new-threads-reading-series-2022/
+        cta: More Info
+        subtitle: ""
+        title: "A Thousand Strange Places: Anthony Shadid and the Middle East"
+        text: by **Robert Myers**, directed by **Sahar Assaf**
+        pre: Tuesday, August 9, 2022
+      - subtitle: ""
+        title: What to Expect When You're Simulating Expecting
+        text: by **Nabra Nelson**, directed by **Susannah Martin**
+        pre: Tuesday, August 16, 2022
+        link: https://goldenthread.org/productions/new-threads-reading-series-2022/
+        cta: More info
+      - subtitle: ""
+        title: Pilgrimage
+        pre: Tuesday, August 23, 2022
+        text: by **Humaira Ghilzai** and **Bridgette Dutta Portman**, directed
+          by **Aidaa Peerzada**
+        cta: More info
+        link: https://goldenthread.org/productions/new-threads-reading-series-2022/
+      - link: https://goldenthread.org/productions/new-threads-reading-series-2022/
+        cta: More Info
+        subtitle: ""
+        title: Home?
+        pre: Tuesday, August 30, 2022
+        text: by **Hend Ayoub**, directed by **Carey Perloff**
   - heading: New Threads 2021
     items:
       - title: Arab Play Cycle (or A Triptych of Plays)
         pre: August 10, 2021
         subtitle: ""
-        text: by Hassan Abdulrazzak, Hannah Khalil, and Mona Mansour; directed by Evren
-          Odcikin
+        text: by **Hassan Abdulrazzak**, **Hannah Khalil**, and **Mona Mansour**;
+          directed by **Evren Odcikin**
       - title: We're All Here
         pre: August 17, 2021
-        text: by Leslie Kalarchian; directed by Sahar Assaf
+        text: by **Leslie Kalarchian**; directed by **Sahar Assaf**
       - title: I Want To Tell You About Beirut
         pre: August 3, 2021
         text: A bilingual reading of survivors’ testimonies by actors based in San
-          Francisco and in Beirut curated and directed by Sahar Assaf.
+          Francisco and in Beirut curated and directed by **Sahar Assaf**.
   - heading: New Threads 2018
     items:
       - title: Drowning in Cairo
