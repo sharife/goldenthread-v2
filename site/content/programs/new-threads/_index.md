@@ -105,17 +105,20 @@ grids:
           directed by **Evren Odcikin**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series/
+        image: https://ucarecdn.com/ca8c7a8e-5f05-4c2c-b5b0-13478ee96ae1/
       - title: We're All Here
         pre: August 17, 2021
         text: by **Leslie Kalarchian**; directed by **Sahar Assaf**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series/
+        image: https://ucarecdn.com/60dfdb02-9a05-498f-a7a0-eb89f84c786b/
       - title: I Want To Tell You About Beirut
         pre: August 3, 2021
         text: A bilingual reading of survivors’ testimonies by actors based in San
           Francisco and in Beirut curated and directed by **Sahar Assaf**.
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series/
+        image: https://ucarecdn.com/552ad90e-88b8-4565-8a11-b9a33fd72165/
   - heading: New Threads 2018
     items:
       - title: Drowning in Cairo
@@ -123,16 +126,19 @@ grids:
         text: by **Adam Ashraf Elsayigh**; directed by **Khaled Abol Naga**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series-2018/
+        image: https://ucarecdn.com/0655e7b4-d4d5-4b1d-b1d2-43571be82500/
       - title: Fog
         subtitle: June 12, 2018
         text: by **Edessa Tailo**; directed by **Pirronne Yousefzadeh**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series-2018/
+        image: https://ucarecdn.com/63fc6da3-62e7-44a0-8d17-d6e3e3b408ee/
       - title: Field, Awakening
         subtitle: June 19, 2018
         text: by **Melis Aker**, directed by **Evren Odcikin**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series-2018/
+        image: https://ucarecdn.com/41cb9e98-41d6-4024-9718-efe319426cae/
       - title: Migraaaants
         subtitle: June 26, 2018
         text: by **Matéi Vişniec**; translated by **Nick Awde**; adapted and directed by
@@ -140,6 +146,7 @@ grids:
           Theater Company**
         cta: More Info
         link: https://goldenthread.org/productions/new-threads-reading-series-2018/
+        image: https://ucarecdn.com/2d4cff99-20b2-41e7-9052-8ec07f51aa3d/
   - heading: New Threads 2017
     items:
       - title: We Swim, We Talk, We Go To War
