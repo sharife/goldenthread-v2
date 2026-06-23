@@ -190,20 +190,25 @@ grids:
       - title: Oh My Sweet Land
         subtitle: November 4, 2015
         text: by **Amir Nizar Zuabi**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/d012f2c6-1dd0-4d24-a6c2-b51f092198eb/
       - title: Autobiography Of A Terrorist
         subtitle: November 11, 2015
         text: by **Saïd Sayrafiezadeh**, directed by **Evren Odcikin**
+        image: https://ucarecdn.com/c08ba825-8188-4b93-b1ed-7bae3a85cd7e/
       - title: Stuff
         subtitle: November 18, 2015
         text: by **Sevan K. Greene**, directed by **Erin Gilley**
+        image: https://ucarecdn.com/3490d27d-5c15-4ddf-ab20-e7e70fa3f49f/
       - title: I Call My Brothers
         subtitle: December 2, 2015
         text: by **Jonas Hassen Khemiri**, translated by **Rachel Willson-Broyles**,
           directed by **Evren Odcikin**
+        image: https://ucarecdn.com/914a4ad2-b615-433a-b82f-945ae5f096c7/
       - title: The King Is The King
         subtitle: December 9, 2015
         text: by **Saadallah Wannous**, translated by **Ghassan Maleh** and **Thomas G.
           Ezzy**, directed by **Torange Yeghiazarian**
+        image: https://ucarecdn.com/d4e0db34-c258-481e-9b71-518d1ef86cd6/
   - heading: New Threads 2014
     items:
       - title: A Selection of Short Plays from Reorient 2015
