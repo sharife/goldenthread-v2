@@ -291,10 +291,13 @@ comments: false
 title: New Threads Reading Series
 link: https://www.goldenthread.org/programs/new-threads/
 sidebar:
-  heading: Artists engaged with 35 presentations
-  text: >
-    51 writers (playwrights and translators)<br /> 30 directors<br /> 17 stage
-    managers<br /> 227 actors
+  heading: ""
+  text: >-
+    Since 2011, New Threads Staged Reading Series has supported 69 playwrights
+    and translators over 42 projects.
+
+
+    O﻿f all New Threads presentations, 14 plays have been produced on our mainstage.
 ---
 Our goals for this program are:
 
