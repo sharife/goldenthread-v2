@@ -1,17 +1,21 @@
 ---
 title: "ICU (I See You): A One-Woman Play"
-pre: A New Threads Staged Reading
+pre: A co-presentation with Red Poppy Art House
 season: 2026
 date: 2026-06-23T21:07:26.987Z
 start: 2026-06-19T21:07:26.997Z
 end: 2026-06-21T21:07:27.008Z
-heading: A co-presentation with Red Poppy Art House
-description: Red Poppy Art House and Golden Thread Productions proudly
-  presents ***ICU (I See You)***, a one-woman theatrical reading written by
-  **Leyla Modirzadeh** and **Domenique Lozano**, and performed by **Bridgette
-  Loriaux**. Inspired by Iran’s 2022–2023 “Women, Life, Freedom”
-  movement, *ICU* illuminates the events and human experiences of the uprising
-  through the intersecting lives of five Iranian women.
+heading: A New Threads Staged Reading
+description: >-
+  Red Poppy Art House and Golden Thread Productions proudly presents ***ICU (I
+  See You)***, a one-woman theatrical reading written by **Leyla Modirzadeh**
+  and **Domenique Lozano**, and performed by **Bridgette Loriaux**. Inspired by
+  Iran’s 2022–2023 “Women, Life, Freedom” movement, *ICU* illuminates the events
+  and human experiences of the uprising through the intersecting lives of five
+  Iranian women.
+
+
+  *ICU* is a full-length play currently in development as part of Golden Thread’s New Threads Staged Reading Series. New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East.
 background: https://ucarecdn.com/c74e5b17-5c49-447a-9b17-d53a226b3534/
 writer: Leyla Modirzadeh and Domenique Lozano
 director: ""
@@ -72,8 +76,6 @@ photos:
     - image: https://ucarecdn.com/82abbec2-4cef-423e-b4e1-384719622ae3/
 ---
 The movement began after the death of Mahsa Amini while in the custody of Iran’s morality police, sparking nationwide protests led by women and girls demanding dignity, freedom, and basic human rights. What followed was one of the most significant protest movements in modern Iranian history and a brutal crackdown by the regime.
-
-*ICU* is a full-length play currently in development as part of Golden Thread’s New Threads Staged Reading Series. New Threads is Golden Thread’s annual staged reading series that engages its audience in the process of playmaking and allows writers of Middle Eastern and non-Middle Eastern descent an authentic and supportive space to develop work about the Middle East. 
 
 Because the events that inspired the work continue to resonate so deeply, the artists wanted to share the story with audiences now rather than wait for the play’s final production. Portions of the performance will be presented with scripts in hand as part of the play’s ongoing development process.
 
