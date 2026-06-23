@@ -13,6 +13,28 @@ intro: >
   about the Middle East. Since its launch in 2011, many New Threads plays and
   playwrights have continued on to receive mainstage productions.
 grids:
+  - heading: New Threads 2025
+    items:
+      - link: https://goldenthread.org/productions/new-threads-staged-reading-series-2025/
+        cta: More info
+        text: by **Evren Odcikin**, directed by **Elizabeth Carter**, dramaturgy
+          by **Torange Yeghiazarian**
+        title: Oriental, or 1001 Ways to Tie Yourself in Knots
+        pre: June 7-8, 2025
+  - heading: New Threads 2024
+    items:
+      - subtitle: ""
+        pre: Friday, August 2, 2024
+        title: Where Can I Find Someone Like You, Ali?
+        text: by **Raeda Taha**, directed by **Hala Baki**
+        cta: More Info
+        link: https://goldenthread.org/productions/new-threads-staged-reading-series-2024/
+      - cta: More Info
+        link: https://goldenthread.org/productions/new-threads-staged-reading-series-2024/
+        subtitle: ""
+        pre: Friday, August 9, 2024
+        title: The Return
+        text: by **Hanna Eady** and **Edward Mast**, directed by **Hanna Eady**
   - heading: New Threads 2022
     items:
       - link: https://goldenthread.org/productions/new-threads-reading-series-2022/
