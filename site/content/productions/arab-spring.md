@@ -234,13 +234,8 @@ mentions:
   heading: ""
   text: ""
 photos:
-  heading: First Rehearsal Photos by Wynne Chan
-  items:
-    - image: https://ucarecdn.com/e824557b-17c4-479f-a60b-273396b65b31/
-    - image: https://ucarecdn.com/0929f723-c7a3-45f0-b910-54180a39f9e2/
-    - image: https://ucarecdn.com/86eadd12-8d81-43ce-92f6-2f960dd7e0cf/
-    - image: https://ucarecdn.com/bdf745e9-7894-4a95-af74-793dcd4d05c9/
-    - image: https://ucarecdn.com/8a8e343a-6403-4ced-9444-cf63b4b54405/
+  heading: ""
+  items: []
 photos2:
   heading: Production Photos by Jared Randolph
   items:
@@ -252,8 +247,13 @@ photos2:
     - image: https://ucarecdn.com/e35a9d9f-e355-473c-94e3-1d35a7b824cf/
     - image: https://ucarecdn.com/420b58b5-a876-4d8e-b653-8145fefb19a7/
 photos3:
-  heading: ""
-  items: []
+  heading: First Rehearsal Photos by Wynne Chan
+  items:
+    - image: https://ucarecdn.com/e824557b-17c4-479f-a60b-273396b65b31/
+    - image: https://ucarecdn.com/0929f723-c7a3-45f0-b910-54180a39f9e2/
+    - image: https://ucarecdn.com/86eadd12-8d81-43ce-92f6-2f960dd7e0cf/
+    - image: https://ucarecdn.com/bdf745e9-7894-4a95-af74-793dcd4d05c9/
+    - image: https://ucarecdn.com/8a8e343a-6403-4ced-9444-cf63b4b54405/
 archivevideo: ""
 bottom:
   heading: ""
