@@ -242,8 +242,15 @@ photos:
     - image: https://ucarecdn.com/bdf745e9-7894-4a95-af74-793dcd4d05c9/
     - image: https://ucarecdn.com/8a8e343a-6403-4ced-9444-cf63b4b54405/
 photos2:
-  heading: ""
-  items: []
+  heading: Production Photos by Jared Randolph
+  items:
+    - image: https://ucarecdn.com/6d61c37f-c182-4ceb-a435-0083649ed619/
+    - image: https://ucarecdn.com/d5874b52-b109-4ea7-9868-3d77d3978fe0/
+    - image: https://ucarecdn.com/04a2bde9-bc5c-457b-8174-1c4b382d1aaa/
+    - image: https://ucarecdn.com/7c08f5ba-af47-4cbd-af9b-680886405def/
+    - image: https://ucarecdn.com/a29db543-6c26-47bf-aa24-53382c4edd81/
+    - image: https://ucarecdn.com/e35a9d9f-e355-473c-94e3-1d35a7b824cf/
+    - image: https://ucarecdn.com/420b58b5-a876-4d8e-b653-8145fefb19a7/
 photos3:
   heading: ""
   items: []
