@@ -1,17 +1,16 @@
 ---
 title: Arab Spring
-pre: A World Premiere Co-Production with SFBATCO
+pre: ""
 season: 2026
 date: 2026-01-26T21:38:24.909Z
 start: 2026-06-19T22:00:24.952Z
 end: 2026-07-12T19:00:24.973Z
-heading: A biting comedy about loss, grief, and the wars we wage in family
+heading: A World Premiere Co-Production with SFBATCO
 description: >-
-  Yusef, a recovering addict, and Dina, his controlling big sister, return on
-  the 4th of July to the suburbs to bury their deadbeat Dad. As they rush to
-  pull off an Islamic burial before his body goes cold, they’re forced to
-  confront what family actually means. Can they do it without killing each
-  other? Inshallah.
+  #### **A biting comedy about loss, grief, and the wars we wage in family**
+
+
+  Yusef, a recovering addict, and Dina, his controlling big sister, return on the 4th of July to the suburbs to bury their deadbeat Dad. As they rush to pull off an Islamic burial before his body goes cold, they’re forced to confront what family actually means. Can they do it without killing each other? Inshallah.
 
 
   **Denmo Ibrahim is the 2026 Playwright in Residence at Golden Thread**, having been involved with the company as an artist since 2003. Golden Thread commissioned and produced Denmo's first play *ECSTASY | a waterfable* and recently helped develop her new work *A Country Made of Salt* as part of its Festival of Palestinian Art. She has also appeared on Golden Thread's stages numerous times -- most recently in Yussef El Guindi's *Our Enemies: Lively Scenes of Love and Combat*.
@@ -29,7 +28,7 @@ stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DoSuTMAV
 ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
-awardsimage: https://ucarecdn.com/c7cd119b-b627-4e7f-8caa-6618ecb7a200/
+awardsimage: ""
 misc: |-
   **Content warning:**
   Loud noises and flashing lights
