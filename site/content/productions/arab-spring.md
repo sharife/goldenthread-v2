@@ -38,6 +38,42 @@ ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00
 ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
 awardsimage: https://ucarecdn.com/c7cd119b-b627-4e7f-8caa-6618ecb7a200/
 lists: []
+grids:
+  - heading: Reviews
+    items:
+      - itemstart: ""
+        itemend: ""
+        title: '"A Must See World Premiere"'
+        pre: Theatre Eddys
+        image: https://ucarecdn.com/974f12ec-efa8-43b6-b48b-ef9eb37e1ce9/
+        cta: Read full review!
+        link: https://theatreeddys.com/2026/06/arab-spring.html
+        text: “A comedy loaded with both bite and heart in a power-packed world
+          premiere. Both Arti Ishak and Salim Razawi are arrestingly stunning in
+          their roles. Nailah Harper-Malveaux directs with humor and heart, with
+          edge and exactness, with furious pace and well-placed pause.”
+      - itemstart: ""
+        itemend: ""
+        title: '"Familiar family drama themes feel fresh in Arab Spring."'
+        pre: Local News Matters
+        text: “A story that’s both funny and sad, complex and particular, and yet, so
+          universally accessible. The sister and brother are so richly painted
+          by the playwright and performed so beautifully by the actors that
+          their complex relationship feels so real, so visceral.”
+        cta: Read full review
+        link: https://localnewsmatters.org/2026/06/24/review-familiar-family-drama-themes-feel-fresh-in-arab-spring-a-golden-thread-sfbatco-premiere/
+        image: https://ucarecdn.com/ac65a79f-a3a3-4a46-b77f-7d9ec2729f9f/
+      - itemstart: ""
+        itemend: ""
+        title: Sorting Through the Wreckage of an Immigrant Father’s Death
+        pre: KQED Arts
+        image: https://ucarecdn.com/dfc9e572-8a9c-42c7-b483-ff9a38c453f8/
+        text: “Ibrahim is a writer with oodles of talent, and a knack for understanding
+          how tension can fill a room. The power of Ibrahim’s play is in the
+          richness of her dialogue, staged with strong and pensive strokes by
+          director Nailah Harper-Malveaux."
+        cta: Read full review
+        link: https://www.kqed.org/arts/13991099/arab-spring-play-review-san-francisco-sf-sfbatco-golden-thread
 cast:
   items:
     - name: Denmo Ibrahim
