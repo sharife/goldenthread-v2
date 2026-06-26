@@ -1,11 +1,11 @@
 ---
 title: Arab Spring
-pre: ""
+pre: WORLD PREMIERE
 season: 2026
 date: 2026-01-26T21:38:24.909Z
 start: 2026-06-19T22:00:24.952Z
 end: 2026-07-12T19:00:24.973Z
-heading: A World Premiere Co-Production with SFBATCO
+heading: A Co-Production with SFBATCO
 description: >-
   #### **A biting comedy about loss, grief, and the wars we wage in family**
 
