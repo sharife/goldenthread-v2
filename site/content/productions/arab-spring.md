@@ -15,13 +15,6 @@ description: >-
 
 
   **Denmo Ibrahim is the 2026 Playwright in Residence at Golden Thread**, having been involved with the company as an artist since 2003. Golden Thread commissioned and produced Denmo's first play *ECSTASY | a waterfable* and recently helped develop her new work *A Country Made of Salt* as part of its Festival of Palestinian Art. She has also appeared on Golden Thread's stages numerous times -- most recently in Yussef El Guindi's *Our Enemies: Lively Scenes of Love and Combat*.
-
-
-  ***Content warning:***\
-
-  *Loud noises and flashing lights*\
-
-  *Incense & herbal cigarettes on stage*
 background: https://ucarecdn.com/5eb1f883-2ac7-4beb-b6b1-1ca9f504f27d/
 titleimage: ""
 programlabel: ""
@@ -37,13 +30,17 @@ address: 1695 18th Street, San Francisco, CA
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DoSuTMAV
 ticketinfo: Tickets start at $20. No one is turned away for lack of funds.
 awardsimage: https://ucarecdn.com/c7cd119b-b627-4e7f-8caa-6618ecb7a200/
+misc: |-
+  **Content warning:**
+  Loud noises and flashing lights
+  Incense & herbal cigarettes on stage
 lists: []
 grids:
   - heading: Reviews
     items:
       - itemstart: ""
         itemend: ""
-        title: '"A Must See World Premiere"'
+        title: A Must See World Premiere
         pre: Theatre Eddys
         image: https://ucarecdn.com/974f12ec-efa8-43b6-b48b-ef9eb37e1ce9/
         cta: Read full review!
@@ -54,7 +51,7 @@ grids:
           edge and exactness, with furious pace and well-placed pause.”
       - itemstart: ""
         itemend: ""
-        title: '"Familiar family drama themes feel fresh in Arab Spring."'
+        title: Familiar family drama themes feel fresh in Arab Spring
         pre: Local News Matters
         text: “A story that’s both funny and sad, complex and particular, and yet, so
           universally accessible. The sister and brother are so richly painted
