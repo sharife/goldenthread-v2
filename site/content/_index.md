@@ -3,7 +3,7 @@ title: Middle East Center Stage
 headline: ARAB SPRING by Denmo Ibrahim
 subtitle: A biting comedy about loss, grief, and the wars we wage in family
 background: https://ucarecdn.com/32a95a67-1be4-49ef-9791-afda02748290/
-cta: Our Co-Production with SFBATCO runs June 19-July 12
+cta: Our Co-Production with SFBATCO runs through July 12
 link: https://goldenthread.org/productions/arab-spring/
 items:
   - subtitle: |-
