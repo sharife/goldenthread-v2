@@ -111,7 +111,7 @@ cast:
         American Studies and Theatre Studies from Yale University."
       credit: Director
       image: https://ucarecdn.com/8de052aa-d406-412e-913c-06e3f49c445a/
-    - name: Arti Ishak
+    - name: Arti Ishak*
       credit: Actor (Dina)
       image: https://ucarecdn.com/c75ea366-2c97-4190-8377-9c700fd40bca/
       bio: "**Arti Ishak (they/them)** is a Chicago actor/writer/director whose work
@@ -124,7 +124,7 @@ cast:
         and upcoming short *Divorce Party*. Arti is a senior instructor at Black
         Box Acting and Adjunct Professor at The Theatre School at DePaul.
         @artiishak [www.artiishak.com](http://www.artiishak.com/)"
-    - name: Salim Razawi
+    - name: Salim Razawi*
       credit: Actor (Yusef) & Artistic Producer
       image: https://ucarecdn.com/04ddd072-d6c0-4d0f-bd58-5642a5d18d75/
       bio: "**Salim Razawi (he/him)** is a theatre maker and, in addition to being the
@@ -140,7 +140,7 @@ cast:
         *Twelfth Night* at Marin Shakespeare Company. He is thrilled to be
         revising this script after participating in the workshop with
         Playwrights Foundation."
-    - name: Khaled Abol Naga
+    - name: Khaled Abol Naga*
       credit: Voiceover (Samir)
       image: https://ucarecdn.com/20132cfe-dc4e-4b85-b0b7-10a9b77742ee/
     - name: Mikiko Uesugi
