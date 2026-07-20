@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: ARAB SPRING by Denmo Ibrahim
-subtitle: A biting comedy about loss, grief, and the wars we wage in family
-background: https://ucarecdn.com/32a95a67-1be4-49ef-9791-afda02748290/
-cta: Our Co-Production with SFBATCO runs through July 12
-link: https://goldenthread.org/productions/arab-spring/
+headline: Golden30 Anniversary Campaign
+subtitle: An Audacious Campaign Marking 30 Years of Creativity, Community, and Connection
+background: https://ucarecdn.com/ea4316a2-b98e-4d20-914b-815c76054914/
+cta: Donate now to help secure the next 30 years of Golden Thread!
+link: https://goldenthread.org/donate/
 items:
   - subtitle: |-
       **A﻿MREEKA 2026: The Comedy Show**\
@@ -27,15 +27,14 @@ items:
     image: https://ucarecdn.com/c769d640-b07e-4200-9ce7-268c67002c6a/
     cta: Find out more
     link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
-  - text: "**No one does what Golden Thread does, and our communities need us now
-      more than ever.** We launch the Golden30 Campaign with a clear
-      commitment: to build a strong foundation for growth and stability,
-      ensuring that our essential cultural home for many communities continues
-      to thrive."
-    subtitle: |-
-      **D﻿onate to GOLDEN30:**\
-      **O﻿ur 30th Anniversary Campaign**
-    cta: Donate now
-    image: https://ucarecdn.com/5f7937ba-e241-4381-bf69-6552f3de0706/
-    link: https://goldenthread.org/donate/
+  - subtitle: |-
+      **H﻿owlround's Kunafa and Shay Podcast**\
+      **C﻿elebrates 30 Years of Golden Thread**
+    text: H﻿osts Marina Johnson and Nabra Nelson take a sweeping look at 30 years of
+      MENA/SWANA theater in the U.S. -- from Golden Thread's founding in 1996 to
+      a growing ecosystem of bold, community-rooted companies shaping the
+      American stage through urgency, artistry, and refusal.
+    image: https://ucarecdn.com/8fc31d80-6583-4de7-8f6f-dd5d02f53b5a/
+    cta: Listen now
+    link: https://howlround.com/series/kunafa-and-shay
 ---
