@@ -27,9 +27,7 @@ items:
     image: https://ucarecdn.com/c769d640-b07e-4200-9ce7-268c67002c6a/
     cta: Find out more
     link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
-  - subtitle: |-
-      **H﻿owlround's Kunafa and Shay Podcast**\
-      **C﻿elebrates 30 Years of Golden Thread**
+  - subtitle: "**Kunafa and Shay Podcast C﻿elebrates 30 Years of Golden Thread**"
     text: H﻿osts Marina Johnson and Nabra Nelson take a sweeping look at 30 years of
       MENA/SWANA theater in the U.S. -- from Golden Thread's founding in 1996 to
       a growing ecosystem of bold, community-rooted companies shaping the
