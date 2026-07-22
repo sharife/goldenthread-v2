@@ -227,7 +227,7 @@ lists:
         itemstart: 2021-01-18T01:50:24.213Z
         itemend: 2021-01-18T01:50:24.316Z
 grids:
-  - heading: Dramaturgs Dive Deep in ReOrient 2019
+  - heading: LMDA Partnership
     items:
       - cta: Read more
         image: https://ucarecdn.com/d3df5a98-71d9-4917-a2c6-a3ffe7994e2d/
