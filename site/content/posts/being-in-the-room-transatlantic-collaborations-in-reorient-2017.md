@@ -11,9 +11,11 @@ tags:
 link: https://www.goldenthread.org/2017/11/22/being-in-the-room/
 categories:
   - Blog
-description: Transatlantic Collaborations in ReOrient 2017 by Emily DeDakis,
-  ReOrient Publications Dramaturg
+description: ""
 ---
+#### Transatlantic Collaborations in ReOrient 2017\
+by Emily DeDakis, ReOrient Publications Dramaturg
+
 As a team member of the first-time partnership between Golden Thread and [Literary Managers and Dramaturgs of the Americas](http://www.lmda.org), Publications Dramaturg Emily DeDakis interviews ReOrient playwrights Sevan K. Greene (*A is for Ali*) and Hannah Khalil (*The Rehearsal*) to discuss their plays, playwriting careers in the U.K., and past experiences with Golden Thread.
 
 **ABOUT EMILY DeDAKIS** 
