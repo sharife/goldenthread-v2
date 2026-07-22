@@ -1,7 +1,7 @@
 ---
 title: "Are You Ready to ReOrient? "
 date: 2026-07-22T13:30:55.095Z
-description: Festival Overview by Vidhu Singh, ReOrient Publications Dramaturg
+description: 2017 Festival Overview by Vidhu Singh, ReOrient Publications Dramaturg
 ---
 As team member of the first-time partnership between Golden Thread Productions and Literary Managers and Dramaturgs of the Americas, Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient 2017 Festival of Short Plays and highlights the importance of Golden Thread in the American theatre.
 
