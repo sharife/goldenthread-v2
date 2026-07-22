@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2004
+title: ReOrient 2004 Festival
 pre: Festival of Short Plays Exploring the Middle East
 season: 2004
 date: 2004-08-17T01:45:00.000Z
