@@ -11,7 +11,7 @@ tags:
 link: https://www.goldenthread.org/2017/11/13/are-you-ready-to-reorient/
 categories:
   - Blog
-description: Festival Overview by Vidhu Singh, ReOrient Publications Dramaturg
+description: 2017 Festival Overview by Vidhu Singh, ReOrient Publications Dramaturg
 ---
 As a team member of the first-time partnership between Golden Thread and [Literary Managers and Dramaturgs of the Americas](http://www.lmda.org), Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient and highlights the importance of Golden Thread in the American theatre.
 
