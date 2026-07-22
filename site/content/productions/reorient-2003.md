@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2003
+title: ReOrient 2003 Festival
 pre: Fifth Annual Festival of Short Plays Exploring the Middle East
 season: 2003
 date: 2003-10-01T02:20:00.000Z
