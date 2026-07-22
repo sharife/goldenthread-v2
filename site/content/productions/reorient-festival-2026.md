@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2026 Festival of Short Plays
+title: ReOrient 2026 Festival
 pre: ""
 season: 2026
 date: 2026-01-26T20:38:48.880Z
@@ -8,12 +8,13 @@ end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
 description: >-
   Our signature program returns with an innovative and spirited festival of
-  short plays from or about the Middle East. The 30th anniversary lineup is
-  diverse in content and style, with 5 plays selected from 83 submissions,
-  highlighting a multiplicity of Middle Eastern perspectives and identities.
+  short plays from or about the Middle East. The 30th anniversary lineup focuses
+  on Iran and Palestine. The five plays selected from 83 submissions, are
+  diverse in content and style -- highlighting a multiplicity of Middle Eastern
+  perspectives and identities.
 
 
-  **ReOrient 2026 Forum**, a convening of artists, academics, activists produced in partnership with **[MENA Theater Makers Alliance](https://www.menatheater.org)**, will take place during the run of the festival in San Francisco.
+  In conjunction with the ReOrient 2026 Festival, we're proud to host[The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
 background: ""
 titleimage: https://ucarecdn.com/fe842c6b-4df5-4857-98e9-12636f8be397/
 program: null
@@ -38,10 +39,10 @@ lists:
     items:
       - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
         subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
-        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzah (*Love,
-          Apples, and Bombs*), *Dare Not Speak* focuses on a young child,
-          murdered in a genocide, as she pitches her story to a theater artistic
-          director who is reluctant to put it on stage.
+        text: A hard-hitting play by artistic affiliate Hassan Abdulrazza (*Love, Bombs,
+          and Apples*), *Dare Not Speak* focuses on a young child, murdered in a
+          genocide, as she pitches her story to a theater artistic director who
+          is reluctant to put it on stage.
         title: Dare Not Speak
         itemstart: ""
         itemend: ""
@@ -100,7 +101,7 @@ mentions:
   text: |-
     Golden Thread celebrates these three exceptional plays and writers:
 
-    *Sanctuary* by Alissa Haddad-Chin\
+    *Sanctuary* by Alyssa Haddad-Chin\
     *In Line of Fire* by Motasem Abu Hasan \
     *The Eye of the Needle* by Jacob Kader
 photos:
@@ -118,4 +119,4 @@ bottom:
   heading: ""
   logos: []
 ---
-D﻿etailed schedule for the Festival and the Forum will be announced shortly.
+D﻿etailed schedule for the Festival and the Convening will be announced shortly.
