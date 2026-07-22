@@ -6,15 +6,11 @@ date: 2022-11-30T01:30:40.142Z
 start: 2023-10-13T07:00:00.000Z
 end: 2023-11-04T07:00:00.000Z
 heading: "Six short plays. One unforgettable evening. "
-description: >-
-  ReOrient 2023 celebrates the return of our signature program, an innovative
-  and spirited festival of short plays from or about the Middle East. The
-  dizzying line-up is diverse in content and style, with 6 plays selected from
-  113 submissions, highlighting a multiplicity of Middle Eastern perspectives
-  and identities. **Think you know the Middle East? Think again!** 
-
-
-  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
+description: ReOrient 2023 celebrates the return of our signature program, an
+  innovative and spirited festival of short plays from or about the Middle East.
+  The dizzying line-up is diverse in content and style, with 6 plays selected
+  from 113 submissions, highlighting a multiplicity of Middle Eastern
+  perspectives and identities. **Think you know the Middle East? Think again!**
 background: https://ucarecdn.com/349688f0-d55c-4c62-a618-d141623b14fa/
 titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
 program: null
@@ -123,7 +119,11 @@ lists:
 
 
           In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
+
+
+          "﻿Are You Ready to ReOrient?: A Festival Overview" by Vidhu Singh
         image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
+    heading: LMDA PARTNERSHIP
   - heading: MENATMA Convening
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
@@ -704,4 +704,4 @@ bottom:
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
-![]()
+“Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
