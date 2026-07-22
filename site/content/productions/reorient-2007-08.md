@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2007/08
+title: ReOrient 2007/08 Festival
 pre: 8th Annual Festival of Short Plays Exploring the Middle East
 season: 2008
 date: 2008-01-11T06:45:00.000Z
