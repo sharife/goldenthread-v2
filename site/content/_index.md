@@ -1,7 +1,7 @@
 ---
 title: Middle East Center Stage
 headline: Golden30 Anniversary Campaign
-subtitle: An Audacious Campaign Marking 30 Years of Creativity, Community, and Connection
+subtitle: A $300,000 Campaign Marks 30 Years of Creativity, Community, and Connection
 background: https://ucarecdn.com/fa81bb1c-d5fe-459d-8bf5-737a44b082b7/
 cta: Donate now to help secure the next 30 years!
 link: https://goldenthread.org/donate/
