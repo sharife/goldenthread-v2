@@ -5,7 +5,7 @@ author: Torange
 slug: womens-voices
 date: 2026-07-22T14:54:16.842Z
 comments: false
-title: Womens Voices Naturally Rise to the Top at Golden Thread
+title: Women's Voices Naturally Rise to the Top at Golden Thread
 tags:
   - lmda
 link: https://www.goldenthread.org/2017/12/05/womens-voices/
