@@ -30,8 +30,6 @@ Golden Thread began its ReOrient Festival of Short Plays and Forum shortly after
 
 ![](https://ucarecdn.com/680755f2-2644-414f-a7ea-ad52a43d315a/)
 
-
-
 ## **ReOrient 2017: A Sneak Peek**
 
 As one of three Publications Dramaturgs for ReOrient, I am attending the first company read-through on October 24th of the seven plays in ReOrient 2017. The buzz is palpable as introductions are made among a large company of 38 artists consisting of producers, actors, directors, designers, playwrights, stage managers, and a dramaturgy team. It takes a village to put on a festival as ambitious as ReOrient!
@@ -43,8 +41,6 @@ Evren suggests artists bring their *whole* selves and their complicated relation
 The family of artists is energized by this rehearsal, inspired to launch into the upcoming work.
 
 ![](https://ucarecdn.com/933a6f29-1e2c-4fde-be0e-dcb61ac48749/)
-
-
 
 ## The Players
 
@@ -61,8 +57,6 @@ The exceptional seven-person ensemble, who methodically inhabit 20 roles, includ
 Managing Director Michelle Mulholland points out, “The ReOrient process is ongoing in the 2-year cycle. We are always taking submissions, reading plays, casting, conducting development camps, rehearsing or producing at any given time. Once the team is assembled, and it takes a big team, the ReOrient process is the same as a general production, except the process of creation requires much more cooperation. We all have to collaborate to create a cohesive experience.”
 
 ![](https://ucarecdn.com/7cbffb35-61bb-44ce-9b50-6f95a6f3f230/)
-
-
 
 ## Partnership with LMDA
 
