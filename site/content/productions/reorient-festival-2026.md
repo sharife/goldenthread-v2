@@ -1,6 +1,6 @@
 ---
-title: ReOrient 2026
-pre: A Festival of Short Plays
+title: ReOrient 2026 Festival
+pre: ""
 season: 2026
 date: 2026-01-26T20:38:48.880Z
 start: 2026-10-09T19:00:48.911Z
@@ -14,15 +14,7 @@ description: >-
   perspectives and identities.
 
 
-  Presented in conjunction with the ReOrient 2026, we're proud to host 
-
-
-  **[MTENA Theater Makers Alliance](https://www.menatheater.org)**2026 Fall Convening on October 23-25, 2026. This convening of artists, academics, and activists  is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*, and is presented in conjunction with the ReOrient 2026 Festival produced by Golden Thread Productions.
-
-
-
-
-  a convening of artists, academics, activists produced in partnership with , will take place during the run of the festival in San Francisco.
+  Presented in conjunction with the ReOrient 2026, we're proud to host[The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists  is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
 background: ""
 titleimage: https://ucarecdn.com/fe842c6b-4df5-4857-98e9-12636f8be397/
 program: null
@@ -47,8 +39,8 @@ lists:
     items:
       - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
         subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
-        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzah (*Love,
-          Apples, and Bombs*), *Dare Not Speak* focuses on a young child,
+        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzak (*Love,
+          Bombs, and Apples*), *Dare Not Speak* focuses on a young child,
           murdered in a genocide, as she pitches her story to a theater artistic
           director who is reluctant to put it on stage.
         title: Dare Not Speak
@@ -109,7 +101,7 @@ mentions:
   text: |-
     Golden Thread celebrates these three exceptional plays and writers:
 
-    *Sanctuary* by Alissa Haddad-Chin\
+    *Sanctuary* by Alyssa Haddad-Chin\
     *In Line of Fire* by Motasem Abu Hasan \
     *The Eye of the Needle* by Jacob Kader
 photos:
@@ -127,4 +119,4 @@ bottom:
   heading: ""
   logos: []
 ---
-D﻿etailed schedule for the Festival and the Forum will be announced shortly.
+D﻿etailed schedule for the Festival and the Convening will be announced shortly.
