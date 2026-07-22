@@ -292,8 +292,32 @@ board:
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
       credit: ""
+    - bio: "**Matthew Spangler** *(he/him)* is a playwright and scholar. His plays
+        have been produced on Broadway, in London’s West End, off-Broadway, at
+        the Kennedy Center, Dubai Opera House, Dublin Theatre Festival, Carthage
+        Theatre Festival in Tunisia, and at many theatres worldwide. Plays
+        include: *The Kite Runner* from the novel by Khaled Hosseini; *Cowboys
+        and East Indians* co-written with Nina McConigley; *The Beekeeper of
+        Aleppo* co-written with Nesrin Alrefaai from the novel by Christy
+        Lefteri; *The Kingdom of Cards* co-written with Sukanya Chakrabarti from
+        the play by Rabindranath Tagore; *Albatross* co-written with Benjamin
+        Evett based on Samuel Taylor Coleridge’s “The Rime of the Ancient
+        Mariner”; *Operation Ajax* co-written with Farshad Farahat about the CIA
+        / MI6 coup in Iran; *The Story of Zahra* co-written with Raeda Ghazaleh
+        from the novel by Hanan al-Shaykh; *Striking Back* co-written with
+        Kellie Hughes based on the book by Mary Manning and Sinead O’Brien; *The
+        Forgotten Empress* co-written with Farah Yasmeen Shaikh; and *Tortilla
+        Curtain* from the novel by T.C. Boyle. His books include: *Staging
+        Intercultural Ireland: New Plays and Practitioner Perspectives* (Cork
+        University Press), and *The Playboy of the Western World – A New
+        Version* (Syracuse University Press). Matthew is Professor of
+        Performance Studies and Director of the School of Film, Theatre, and
+        Dance at San José State University in California and Writer in Residence
+        at the Hinterland Festival in Kells, Ireland."
+      name: Matthew Spangler
+      image: https://ucarecdn.com/1c7c2a1f-6db0-47a7-88f5-dc6a5ab6bedb/
 artists:
-  heading: Affilliated Artists
+  heading: Affiliated Artists
   items:
     - bio: '<strong>HASSAN ABDULRAZZAK (Resident Artist / Playwright)</strong> is of
         Iraqi origin, born in Prague and living in London. His plays include
