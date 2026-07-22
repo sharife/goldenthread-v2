@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2002
+title: ReOrient 2002 Festival
 pre: A Festival of Short Plays about the Middle East
 season: 2002
 date: 2002-07-08T23:27:00.000Z
