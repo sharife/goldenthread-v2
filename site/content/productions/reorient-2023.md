@@ -6,15 +6,11 @@ date: 2022-11-30T01:30:40.142Z
 start: 2023-10-13T07:00:00.000Z
 end: 2023-11-04T07:00:00.000Z
 heading: "Six short plays. One unforgettable evening. "
-description: >-
-  ReOrient 2023 celebrates the return of our signature program, an innovative
-  and spirited festival of short plays from or about the Middle East. The
-  dizzying line-up is diverse in content and style, with 6 plays selected from
-  113 submissions, highlighting a multiplicity of Middle Eastern perspectives
-  and identities. **Think you know the Middle East? Think again!**
-
-
-  “Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
+description: ReOrient 2023 celebrates the return of our signature program, an
+  innovative and spirited festival of short plays from or about the Middle East.
+  The dizzying line-up is diverse in content and style, with 6 plays selected
+  from 113 submissions, highlighting a multiplicity of Middle Eastern
+  perspectives and identities. **Think you know the Middle East? Think again!**
 background: https://ucarecdn.com/349688f0-d55c-4c62-a618-d141623b14fa/
 titleimage: https://ucarecdn.com/2e9a7e02-cc5a-4bd7-bbdc-d13dc1c194bf/
 program: null
@@ -100,6 +96,30 @@ lists:
         itemstart: ""
         itemend: ""
   - items:
+      - itemstart: 2026-07-22T22:35:53.973Z
+        itemend: 2026-07-22T22:35:54.008Z
+        subtitle: >-
+          This year’s ReOrient Festival marks our third collaboration with the
+          [Literary Managers and Dramaturgs of the Americas
+          (LMDA)](https://lmda.org/). The partnership brings together two
+          organizations that value challenging cultural preconceptions through
+          provocative programming and dialogue, and is curated by LMDA’s
+          Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad.
+          The ReOrient Dramaturgy Team consists of a team of professional
+          dramaturgs who bring their expertise in new play development,
+          research, contextualization, and theatre writing. This year’s
+          partnership augments the team to include a Publications Dramaturg to
+          join the ReOrient Camp & Festival and write a feature article on
+          ReOrient artists and the creative process that brings audiences
+          behind-the-scenes (see link below, or read it at
+          [lmda.org](https://lmda.org/reorient-2023-festival)). Be sure to check
+          out the Dramaturgs’ program notes and playwright messages curated by
+          the team in the [Festival
+          Program](https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html)! 
+
+
+          In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
+        image: https://ucarecdn.com/99052ba3-ee44-4792-a260-25bb7f488b59/
       - itemstart: 2026-07-22T22:29:54.182Z
         itemend: 2026-07-22T22:29:54.216Z
         cta: Read the article
@@ -691,8 +711,4 @@ bottom:
     - image: https://ucarecdn.com/42a63d61-915f-4b10-8212-5a82020eb894/
     - image: https://ucarecdn.com/8183c197-f02d-4470-a942-482d82f618aa/
 ---
-![](https://ucarecdn.com/8b4401b1-c3aa-43bf-b25c-c1c6102b0833/)
-
-This year’s ReOrient Festival marks our third collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue, and is curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad. The ReOrient Dramaturgy Team consists of a team of professional dramaturgs who bring their expertise in new play development, research, contextualization, and theatre writing. This year’s partnership augments the team to include a Publications Dramaturg to join the ReOrient Camp & Festival and write a feature article on ReOrient artists and the creative process that brings audiences behind-the-scenes (see link below, or read it at [lmda.org](https://lmda.org/reorient-2023-festival)). Be sure to check out the Dramaturgs’ program notes and playwright messages curated by the team in the [Festival Program](https://www.flipsnack.com/goldenthread/reorient_2023_program_final/full-view.html)! 
-
-In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
+“Humanity is at the core of ReOrient. **If theatre is community, it starts here.** If the goal of theatre is to expand our viewpoint, to enrich our knowledge, and to embrace empathy, then ReOrient hugely succeeds.” *—Stark Insider*
