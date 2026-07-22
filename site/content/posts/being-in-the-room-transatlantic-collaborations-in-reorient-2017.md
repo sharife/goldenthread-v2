@@ -13,7 +13,8 @@ categories:
   - Blog
 description: ""
 ---
-#### Transatlantic Collaborations in ReOrient 2017\
+#### Transatlantic Collaborations in ReOrient 2017
+
 by Emily DeDakis, ReOrient Publications Dramaturg
 
 As a team member of the first-time partnership between Golden Thread and [Literary Managers and Dramaturgs of the Americas](http://www.lmda.org), Publications Dramaturg Emily DeDakis interviews ReOrient playwrights Sevan K. Greene (*A is for Ali*) and Hannah Khalil (*The Rehearsal*) to discuss their plays, playwriting careers in the U.K., and past experiences with Golden Thread.
@@ -27,7 +28,7 @@ Sevan K. Greene is Lebanese-Armenian. Hannah Khalil is Palestinian-Irish. Both l
 
 I talked to Khalil and Greene about Golden Thread, lived experience, long-distance collaborations, U.S. vs. U.K. approaches, and the dangers and opportunities that come with being theatre nomads.
 
-![Sevan K. Greene in The Greene Card. Hannah Khalil, photo by Richard Saker.](/img/archive/2017/11/sevan-hannah.jpg) 
+![Sevan K. Greene in The Greene Card. Hannah Khalil, photo by Richard Saker.](/img/archive/2017/11/sevan-hannah.jpg)
 
 ***A IS FOR ALI***
 In Sevan K. Greene’s play, an Arab-American couple brainstorm names for their unborn child. It could be a simple, sweet experience – but they’re suddenly juggling massive cultural assumptions (each other’s and society’s), and second-guessing a fraught and shifting political context.
@@ -56,7 +57,6 @@ These U.K. artists see Golden Thread as a valuable touchstone for the internatio
 Khalil was impressed by her first ReOrient experience in 2015: “It’s opening up conversation. It’s unlocking something. People were so engaged and genuinely wanting to talk about things. It would be amazing if they were doing it in the U.K. The fact they do that in the U.S. is incredible.” After the Q&A; session, a young Palestinian actor “basically hugged me and said, ‘Thank you for using the word ‘apartheid’ – no one dares use it here.’” It hit home for Khalil that U.K. and U.S. audiences view and talk about Middle Eastern stories differently – but she wouldn’t skew her writing to suit either side of the pond: “I write what I write and if people want to put it on then they put it on.”
 
 Greene explains, “People expected me to write the ‘other’ narrative because I was born and raised in the Middle East and I’m a war refugee.” (He and his parents escaped Kuwait during the Gulf War and settled in Florida.) “What they tend to forget is that I’m a child of both worlds. Torange \[Yeghiazarian, Founding Artistic Director of Golden Thread] has been really great about saying, ‘Just because you’re Middle Eastern doesn’t mean we just want Arab or Armenian plays – we just want a good play of yours.’ And I thought, ‘Well yeah, this is what all theatre should be doing.’ I’m not responsible for representing the entirety of my culture or being the voice of my people. And to assume that I’m simply like a National Geographic sound bite is ridiculous.”
-
 
 ![Khalil with Palestinian-American playwright Ismail Khalidi at their book-signing for Inside/Outside: Six Plays from Palestine and the Diaspora during the ReOrient 2015 Forum.](/img/archive/2017/11/hannah-ismail-web-e1511418590820.jpg)
 
