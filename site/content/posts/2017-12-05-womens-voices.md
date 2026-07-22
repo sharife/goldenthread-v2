@@ -14,7 +14,7 @@ categories:
 ---
 ### **by Maddie Gaw, ReOrient Publications Dramaturg**
 
-*As a team member of the first-time partnership between Golden Thread and [Literary Managers and Dramaturgs of the Americas](http://www.lmda.org), Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh (_Make No Mistake*), E.H. Benedict (*War on Terror*), and Torange Yeghiazarian (*Thanksgiving at Khodabakhshian’s*) to discuss their writing careers as women and in the Bay Area, and experiences with Golden Thread.
+*As a team member of the first-time partnership between Golden Thread and [Literary Managers and Dramaturgs of the Americas](http://www.lmda.org), Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh (Make No Mistake*), E.H. Benedict (*War on Terror*), and Torange Yeghiazarian (*Thanksgiving at Khodabakhshian’s*) to discuss their writing careers as women and in the Bay Area, and experiences with Golden Thread.
 
 **ABOUT MADDIE GAW** 
 Maddie Gaw is a dramaturg, writer, producer, and arts administrator. She is the Literary Manager at Playwrights Foundation and the Development Associate at Berkeley Repertory Theatre. In the Bay Area, Maddie has also worked with Marin Theatre Company, American Conservatory Theater, The Custom Made Theatre Co., 6NewPlays, and foolsFURY Theater Company. She is a proud member of LMDA.
@@ -34,7 +34,6 @@ Benedict, who came to playwriting after decades as an actor in New York and the 
 
 For Yeghiazarian, Shamieh, and Benedict, their personal artistic journeys have aligned — and not aligned — in different and specific ways. “Things have changed tremendously since I started 20 years ago,” Yeghiazarian says. One of the crucial reasons she founded her own company was the ignorance, and more importantly, the indifference she saw from the community at large when it came to her perspective as a Middle Eastern woman. “When you are ignored, there’s not much you can do.”
 
-
 ![A production shot of Benedict’s play Orhan in ReOrient 2012. Pictured: Shoresh Alaudini, whose voice is featured in Shelter, ReOrient 2017.](/img/archive/2017/12/Orhan.jpg)
 
 Yeghiazarian realized that while individuals can be ignored, groups can command attention. Golden Thread’s identity as a home for artists who identified themselves collectively as Middle Eastern American was no accident; Yeghiazarian cites other culturally-specific theatre coalitions like Latinx Americans or Asian-Pacific Islander Americans as a model, which “helped \[Golden Thread] have a bigger voice in the American theatre.”
@@ -50,7 +49,6 @@ Benedict also observes that age, as it intersects with gender, is even more cruc
 This is a great Catch-22 in the professional theatre world. With limited development opportunities and resources to go around, people often aren’t willing to risk handing those opportunities to untested writers, without questioning what implicit and systemic biases have led to certain writers remaining untested. Since featuring an abundance of different perspectives in their programming is a key part of their mission, it’s not surprising that Golden Thread consistently provides these and other female playwrights with a place to showcase their voices and supports them with valuable resources.
 
 A brand-new resource provided during this year’s ReOrient Festival is a partnership with Literary Managers and Dramaturgs of the Americas. Professional and LMDA-affiliated dramaturgs are providing not only rehearsal and script development support, but also critical writing about the festival and its participants. “There’s a real lack of thoughtful, critical and analytical writing about the work \[Golden Thread] is doing,” says Yeghiazarian. “There’s been very little written about the festival’s history and its impact.” She says that often when Golden Thread’s body of work is assessed, the focus is on the topical nature of the work rather than its artistic merits.	
-
 
 ![Yeghiazarian’s Thanksgiving at Khodabakshian’s. Pictured (l to r): Lawrence Radecker, Jessica Lea Risco, Atosa Babaoff, Bella Warda. Photo by David Allen Studio.](/img/archive/2017/12/Thanksgiving.jpg)
 
