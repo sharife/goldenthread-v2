@@ -1,5 +1,5 @@
 ---
-title: W
+title: Women's Voices Naturally Rise to the Top at Golden Thread
 date: 2026-07-22T22:01:36.125Z
 ---
 ### **by Maddie Gaw, ReOrient Publications Dramaturg**
