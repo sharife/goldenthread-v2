@@ -6,15 +6,11 @@ date: 2017-10-18T00:18:00.000Z
 start: 2017-11-18T00:18:00.000Z
 end: 2017-12-11T00:18:00.000Z
 heading: Think you know the Middle East? Think again.
-description: >-
-  ReOrient 2017 will turn San Francisco into a mecca for innovative, spirited,
-  and thought-provoking theatre from or about the Middle East. Nowhere else will
-  you find plays and artists from Armenia, India, Iraq, Iran, Japan, Lebanon,
-  Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all on one
-  stage.
-
-
-  Selected through a competitive, international submission process, this year's playwrights include Bay Area writers: **Betty Shamieh**, **E.H. Benedict**, and **Torange Yeghiazarian**. Audience favorite of ReOrient 2015, Palestinian-Irish playwright **Hannah Khalil** returns this year. Turkish-American writer/performer **Melis Aker** andArmenian-American playwright **Sevan K. Greene** are the newcomers to the ReOrient family. Acclaimed Japanese-American poet **Junichi P. Semitsu**, whose poem *Shelter* will be adapted as a sound installation by Torange Yeghiazarian completes the line-up. The winning short plays are diverse in content and style, highlighting the multiplicity of Middle Eastern perspectives and identities.
+description: ReOrient 2017 will turn San Francisco into a mecca for innovative,
+  spirited, and thought-provoking theatre from or about the Middle East. Nowhere
+  else will you find plays and artists from Armenia, India, Iraq, Iran, Japan,
+  Lebanon, Palestine, Syria, Tunisia, Turkey, United Kingdom, and the U.S. all
+  on one stage.
 background: https://ucarecdn.com/0415511f-3f4c-489e-adef-6122ee2df29e/
 titleimage: https://ucarecdn.com/aba2dae5-1e5f-43c6-a59e-d5ea6dd8405d/
 program: https://ucarecdn.com/f3909467-a6c9-42d4-889d-56ddbd91b8b6/
@@ -43,46 +39,6 @@ misc: >-
 
   RUNNING TIME: 2 hours including one 15-minute intermission
 lists:
-  - heading: ReOrient 2017 Forum Panels
-    items:
-      - title: "Centering the Margins: Immigrant Voices and Brown Bodies Claiming the
-          Narrative"
-        image: https://ucarecdn.com/a375189c-28dd-4b04-a8d8-d48a50472f94/
-        link: https://goldenthread.secure.force.com/ticket/
-        cta: RSVP Now
-        text: >-
-          **Sat, Nov 25, 4-6pm** | Potrero Stage (1695 18th Street, San
-          Francisco)\
-
-          For years — some might say centuries — America’s narratives have focused on the experience of white bodies as told through the eyes of the colonizer, framing the place of brown bodies in the process. What happens when we reorient our perspective? How do we shift the reference point away from a white narrative? How do we negotiate differences of experience and perspective within marginalized communities? Whose stories are told on American stages and from what lens? *(Presented in association with USF)*\
-
-          **Chair and Moderator:** Roberto Gutiérrez Varea\
-
-          **Panelists:** Eugenie Chan, Edris Cooper-Anifowoshe, Philip Kan Gotanda, Lauren Spencer, Eric Ting, and Torange Yeghiazarian\
-
-          **Free and open to the public**
-        itemstart: 2026-07-22T12:39:31.286Z
-        itemend: 2026-07-22T12:39:31.318Z
-      - text: >-
-          **Sat, Dec 2, 4-6pm** | Potrero Stage (1695 18th Street, San
-          Francisco)\
-
-          What is it like to stage a Middle Eastern story in today’s climate? How do dramaturgs provide truthful context, provoke meaningful conversation, help collaborators make choices with integrity, and ensure cultural competency? Can dramaturgy affect the way we perceive and communicate about the Middle East? Does dramaturgy change our perspectives?\
-
-          Meet Bay Area dramaturgs, directors, and ReOrient artists who take us behind-the-scenes of their processes to share and discuss personal experiences with Middle Eastern playwrights and plays, both inside and beyond the first-time partnership between Golden Thread and LMDA. Master dramaturg and director Jayne Wenger will lead us in a roundtable discussion that helps us forge ahead toward the growth and prosperity of Middle Eastern American theatre. *(Presented in association with LMDA)*\
-
-          **Chair:** Nakissa Etemad | **Moderator:** Jayne Wenger\
-
-          **Panelists:** Maddie Gaw and Vidhu Singh\
-
-          **Free and open to the public**
-        title: "Dramaturgs ReOrient: Contextualizing the Middle East for American
-          Audiences"
-        image: https://ucarecdn.com/90f68238-bc04-4898-82a4-77dddb9f015f/
-        link: https://goldenthread.secure.force.com/ticket/
-        cta: RSVP Now
-        itemstart: 2026-07-22T12:39:31.345Z
-        itemend: 2026-07-22T12:39:31.374Z
   - items:
       - title: War on Terror
         subtitle: by E.H. Benedict, directed by Sara Razavi
@@ -163,47 +119,100 @@ lists:
         image: https://ucarecdn.com/52396b9f-0e2f-424f-b58c-3d5a100b2953/
         itemstart: 2026-07-22T12:39:31.745Z
         itemend: 2026-07-22T12:39:31.773Z
-    heading: REORIENT 2017 LINE-UP
-grids:
-  - heading: LMDA Partnership
+    heading: ReORIENT 2017 LINE-UP
+  - heading: ReORIENT 2017 FORUM PANELS
     items:
-      - title: Are You Ready to ReOrient?
-        image: https://ucarecdn.com/3b82cbf7-7b35-4d8d-a2a9-0576980297e1/
+      - title: "Centering the Margins: Immigrant Voices and Brown Bodies Claiming the
+          Narrative"
+        image: https://ucarecdn.com/a375189c-28dd-4b04-a8d8-d48a50472f94/
+        link: https://goldenthread.secure.force.com/ticket/
+        cta: RSVP Now
+        text: >-
+          **Sat, Nov 25, 4-6pm** | Potrero Stage (1695 18th Street, San
+          Francisco)\
+
+          For years — some might say centuries — America’s narratives have focused on the experience of white bodies as told through the eyes of the colonizer, framing the place of brown bodies in the process. What happens when we reorient our perspective? How do we shift the reference point away from a white narrative? How do we negotiate differences of experience and perspective within marginalized communities? Whose stories are told on American stages and from what lens? *(Presented in association with USF)*\
+
+          **Chair and Moderator:** Roberto Gutiérrez Varea\
+
+          **Panelists:** Eugenie Chan, Edris Cooper-Anifowoshe, Philip Kan Gotanda, Lauren Spencer, Eric Ting, and Torange Yeghiazarian\
+
+          **Free and open to the public**
+        itemstart: 2026-07-22T12:39:31.286Z
+        itemend: 2026-07-22T12:39:31.318Z
+      - text: >-
+          **Sat, Dec 2, 4-6pm** | Potrero Stage (1695 18th Street, San
+          Francisco)\
+
+          What is it like to stage a Middle Eastern story in today’s climate? How do dramaturgs provide truthful context, provoke meaningful conversation, help collaborators make choices with integrity, and ensure cultural competency? Can dramaturgy affect the way we perceive and communicate about the Middle East? Does dramaturgy change our perspectives?\
+
+          Meet Bay Area dramaturgs, directors, and ReOrient artists who take us behind-the-scenes of their processes to share and discuss personal experiences with Middle Eastern playwrights and plays, both inside and beyond the first-time partnership between Golden Thread and LMDA. Master dramaturg and director Jayne Wenger will lead us in a roundtable discussion that helps us forge ahead toward the growth and prosperity of Middle Eastern American theatre. *(Presented in association with LMDA)*\
+
+          **Chair:** Nakissa Etemad | **Moderator:** Jayne Wenger\
+
+          **Panelists:** Maddie Gaw and Vidhu Singh\
+
+          **Free and open to the public**
+        title: "Dramaturgs ReOrient: Contextualizing the Middle East for American
+          Audiences"
+        image: https://ucarecdn.com/90f68238-bc04-4898-82a4-77dddb9f015f/
+        link: https://goldenthread.secure.force.com/ticket/
+        cta: RSVP Now
+        itemstart: 2026-07-22T12:39:31.345Z
+        itemend: 2026-07-22T12:39:31.374Z
+  - heading: LMDA PARTNERSHIP
+    items:
+      - itemstart: 2026-07-22T22:42:20.066Z
+        itemend: 2026-07-22T22:42:20.091Z
+        image: https://ucarecdn.com/16695fb7-20ab-4c65-ae7a-f61d0b08cf09/
+        text: This year’s ReOrient Festival marks our first collaboration with
+          the **[Literary Managers and Dramaturgs of the Americas
+          (LMDA)](lmda.org)**. The partnership brings together two organizations
+          that value challenging cultural preconceptions through provocative
+          programming and dialogue. Curated by LMDA’s Regional VP of Metro Bay
+          Area Nakissa Etemad, LMDA is providing a team of production dramaturgs
+          to collaborate on the plays in script development and research, and
+          publications dramaturgs to write feature articles that take you
+          behind-the-scenes of ReOrient, which you will be able to read here.
+      - itemstart: 2026-07-22T22:42:43.638Z
+        itemend: 2026-07-22T22:42:43.662Z
+        title: Are You Ready to ReOrient?
+        subtitle: ""
         text: Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient
           and highlights the importance of Golden Thread in the American
           theatre.
-        itemstart: 2026-07-22T12:39:31.803Z
-        itemend: 2026-07-22T12:39:31.831Z
-        cta: Read the article
         link: https://goldenthread.org/posts/are-you-ready-to-reorient/
-      - text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
+        image: https://ucarecdn.com/d56f6472-1097-4af9-85e8-638e95007f56/
+        cta: Read the article
+      - itemstart: 2026-07-22T22:44:28.341Z
+        itemend: 2026-07-22T22:44:28.367Z
+        title: "Being in the Room: Transatlantic Collaborations in ReOrient 2017"
+        image: https://ucarecdn.com/9d8b1772-1b98-440d-85cb-2fbbfb43950a/
+        text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
           Khalil to discuss their plays, playwriting careers in the U.K., and
           past experiences with Golden Thread.
-        title: "Being in the Room: Transatlantic Collaborations in ReOrient 2017"
-        image: https://ucarecdn.com/2de66e9e-0716-4098-bd0d-299d0e401edd/
-        itemstart: 2026-07-22T12:39:31.862Z
-        itemend: 2026-07-22T12:39:31.889Z
-        cta: Read the Article
+        cta: Read the article
         link: https://goldenthread.org/posts/being-in-the-room/
-      - title: Playwright and Dramaturg Tackle Manar a Third Time
-        image: https://ucarecdn.com/5da3cff5-6344-42e2-b4ae-a6dbd7a841e9/
+      - itemstart: 2026-07-22T22:45:03.461Z
+        itemend: 2026-07-22T22:45:03.490Z
+        title: Playwright and Dramaturg Tackle Manar a Third Time
+        image: https://ucarecdn.com/e38f5dbf-a407-4302-8932-20d2fed86a23/
         text: ReOrient Dramaturg Anna Woodruff speaks with her longtime collaborator and
-          Playwright Melis Aker about their working relationship, the evolution
-          of *Manar*, and their experience with Golden Thread.
-        itemstart: 2026-07-22T12:39:31.920Z
-        itemend: 2026-07-22T12:39:31.948Z
-        cta: Read the Article
+          playwright Melis Aker about their working relationship, the evolution
+          of *Manar*, and their experience with Golden Thread.
+        cta: Read the article
         link: https://goldenthread.org/posts/playwright-and-dramaturg-tackle-manar-a-third-time
-      - text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
+      - itemstart: 2026-07-22T22:45:30.148Z
+        itemend: 2026-07-22T22:45:30.178Z
+        title: Women’s Voices Naturally Rise to the Top at Golden Thread
+        image: https://ucarecdn.com/c2bb8d11-82ea-4989-9fb2-c1fb2bd71473/
+        text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
           E.H. Benedict, and Torange Yeghiazarian to discuss their writing
           careers as women and in the Bay Area, and experiences with Golden
           Thread.
-        title: Women’s Voices Naturally Rise to the Top at Golden Thread
-        image: https://ucarecdn.com/91eee817-77e1-484c-a772-12ebeccb8189/
-        itemstart: 2026-07-22T12:39:31.979Z
-        itemend: 2026-07-22T12:39:32.009Z
         cta: Read the article
         link: https://goldenthread.org/posts/w/
+grids:
   - heading: ReOrient Festival in the Press
     items:
       - title: Everyone is Welcome to ReOrient Themselves
@@ -301,8 +310,4 @@ bottom:
     Berkeley**, and **Literary Managers and Dramaturgs of the Americas** for
     their generous support of ReOrient 2017.
 ---
-
-
-![](https://ucarecdn.com/a6c035a7-09ab-4d46-8c5e-c440bf2bdcd0/)
-
-This year’s ReOrient Festival marks our first collaboration with the **[Literary Managers and Dramaturgs of the Americas (LMDA)](lmda.org)**. The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP of Metro Bay Area Nakissa Etemad, LMDA is providing a team of production dramaturgs to collaborate on the plays in script development and research, and publications dramaturgs to write feature articles that take you behind-the-scenes of ReOrient, which you will be able to read here.
+Selected through a competitive, international submission process, this year's playwrights include Bay Area writers: **Betty Shamieh**, **E.H. Benedict**, and **Torange Yeghiazarian**. Audience favorite of ReOrient 2015, Palestinian-Irish playwright **Hannah Khalil** returns this year. Turkish-American writer/performer **Melis Aker** andArmenian-American playwright **Sevan K. Greene** are the newcomers to the ReOrient family. Acclaimed Japanese-American poet **Junichi P. Semitsu**, whose poem *Shelter* will be adapted as a sound installation by Torange Yeghiazarian completes the line-up. The winning short plays are diverse in content and style, highlighting the multiplicity of Middle Eastern perspectives and identities.
