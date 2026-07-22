@@ -257,20 +257,28 @@ board:
       image: https://ucarecdn.com/8d6f8940-0c65-481c-ae39-131ce879a0dc/
     - name: Evren Odcikin
       image: https://ucarecdn.com/c295cb69-4043-41ea-92c8-0d2e49e3627b/
-      bio: >-
-        **EVREN ODCIKIN** *(he/him)* is a Turkish-American director, writer, and
-        arts leader based in New York City and San Francisco. He is a celebrated
-        champion of historically-excluded voices in the American theater through
-        work that is heart-centered, politically engaged, globally minded, and
+      bio: "**Evren Odcikin** *(he/him)* is a Turkish-American director, writer, and
+        arts leader based in NYC and San Francisco. He is a celebrated champion
+        of historically-excluded voices in the American theater through work
+        that is heart-centered, politically engaged, globally minded, and
         centers joy as resistance. He is committed to building his work with and
-        for the communities it represents. He brings 20+ years of experience
-        with artistic leadership and administration, marketing and
-        communications, and fundraising at major non-profits like Oregon
-        Shakespeare Festival, KQED, American Conservatory Theater, and Magic
-        Theatre.
-
-
-        He is excited to be back home with Golden Thread in this new capacity -- having served on the staff as Director of New Works, as an affiliated artist, and most recently as the proud 2024-25 Artist in Residence.** [odcikin.com](https://www.odcikin.com/)**
+        for the communities it represents. Directing: Soho Rep, PlayCo, Woolly
+        Mammoth, A.R.T., Guthrie Theatre, Oregon Shakespeare Festival, Marin
+        Theatre, Portland Center Stage, Geva Theatre, Northern Stage, Berkeley
+        Rep, Prague Shakes, Marin Shakes, Utah Shakes, Playwrights’ Center,
+        Playwrights Foundation, and Golden Thread Productions, amongst others.
+        As a playwright and translator, he’s received commissions, workshops,
+        and productions from Cal Shakes, NYU Abu Dhabi, Golden Thread, Crowded
+        Fire, and Custom Made. Evren served as the Interim Artistic Director at
+        Oregon Shakespeare Festival in 2023, where he was Associate Artistic
+        Director and Director of Artistic Programming from 2019-2023. Evren’s
+        work has been supported by the Rainin Foundation, Zellerbach
+        Foundation,  San Francisco Arts Commission, National Directing
+        Fellowship, Theatre Bay Area’s TITAN Award, and he has previously been
+        an Iris Lab Fellow at UC Santa Cruz and an Artist-in-Residence at Golden
+        Thread Productions. He serves on the boards of MENA Theater Makers
+        Alliance and Golden Thread Productions.
+        [odcikin.com](https://www.odcikin.com/)"
       link: ""
     - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
         property law since 1992. Prior to that, he had an engineering career in
@@ -313,7 +321,8 @@ board:
         Version* (Syracuse University Press). Matthew is Professor of
         Performance Studies and Director of the School of Film, Theatre, and
         Dance at San José State University in California and Writer in Residence
-        at the Hinterland Festival in Kells, Ireland."
+        at the Hinterland Festival in Kells, Ireland.
+        [matthewspangler.org](https://www.matthewspangler.org/)"
       name: Matthew Spangler
       image: https://ucarecdn.com/1c7c2a1f-6db0-47a7-88f5-dc6a5ab6bedb/
 artists:
