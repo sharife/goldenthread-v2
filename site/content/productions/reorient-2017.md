@@ -200,6 +200,8 @@ grids:
         image: https://ucarecdn.com/91eee817-77e1-484c-a772-12ebeccb8189/
         itemstart: 2026-07-22T12:39:31.979Z
         itemend: 2026-07-22T12:39:32.009Z
+        cta: Read the article
+        link: https://goldenthread.org/posts/w/
       - subtitle: ""
         itemstart: 2026-07-22T12:39:32.036Z
         itemend: 2026-07-22T12:39:32.066Z
