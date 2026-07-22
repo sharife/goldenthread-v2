@@ -183,6 +183,8 @@ grids:
         image: https://ucarecdn.com/2de66e9e-0716-4098-bd0d-299d0e401edd/
         itemstart: 2026-07-22T12:39:31.862Z
         itemend: 2026-07-22T12:39:31.889Z
+        cta: Read the Article
+        link: https://goldenthread.org/posts/being-in-the-room/
       - title: Playwright and Dramaturg Tackle Manar a Third Time
         image: https://ucarecdn.com/5da3cff5-6344-42e2-b4ae-a6dbd7a841e9/
         text: ReOrient Dramaturg Anna Woodruff speaks with her longtime collaborator and
