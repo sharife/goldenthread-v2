@@ -119,15 +119,6 @@ lists:
 
 
           In addition to Golden Thread resident artist **Nakissa Etemad**, the ReOrient 2023 Dramaturgy Team includes **Marina Johnson**, **Vidhu Singh**, and **Heather Rastovac Akbarzadeh**. We look forward to ongoing partnerships between our two organizations and collaborations between dramaturgs and Middle Eastern theatre artists for generations to come.
-
-
-          "﻿Are You Ready to ReOrient?: A Festival Overview" by Vidhu Singh\
-
-          "Being in the Room: Transatlantic Collaborations in ReOrient 2017" by Emily DeDakis\
-
-          "Women’s Voices Naturally Rise to the Top at Golden Thread" by Maddie Gaw\
-
-          "﻿Playwright and Dramaturg Tackle Manar a Third Time" by Anna Woodruff
         image: https://ucarecdn.com/1a0e15e2-9377-4779-8ba6-c192f0692dad/
     heading: LMDA PARTNERSHIP
   - heading: MENATMA Convening
