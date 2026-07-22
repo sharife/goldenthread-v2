@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2012
+title: ReOrient 2012 Festival
 pre: Theatre Festival and Forum Exploring the Middle East
 season: 2012
 date: 2012-10-01T10:02:00.000Z
