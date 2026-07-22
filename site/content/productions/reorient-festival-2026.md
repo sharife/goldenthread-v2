@@ -14,7 +14,12 @@ description: >-
   perspectives and identities.
 
 
-  **In tandem with the Festival, Golden Thread is proud to host the [MENA Theater Makers Alliance](https://www.menatheater.org)**
+  Presented in conjunction with the ReOrient 2026, we're proud to host 
+
+
+  **[MTENA Theater Makers Alliance](https://www.menatheater.org)**2026 Fall Convening on October 23-25, 2026. This convening of artists, academics, and activists  is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*, and is presented in conjunction with the ReOrient 2026 Festival produced by Golden Thread Productions.
+
+
 
 
   a convening of artists, academics, activists produced in partnership with , will take place during the run of the festival in San Francisco.
