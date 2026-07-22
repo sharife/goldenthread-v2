@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2001
+title: ReOrient 2001 Festival
 pre: A Festival of Short Plays Exploring the Middle East
 season: 2001
 date: 2001-08-27T23:52:00.000Z
