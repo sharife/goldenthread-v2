@@ -174,6 +174,8 @@ grids:
           theatre.
         itemstart: 2026-07-22T12:39:31.803Z
         itemend: 2026-07-22T12:39:31.831Z
+        cta: Read the article
+        link: https://goldenthread.org/posts/are-you-ready-to-reorient/
       - text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
           Khalil to discuss their plays, playwriting careers in the U.K., and
           past experiences with Golden Thread.
