@@ -1,5 +1,5 @@
 ---
-title: ReOrient Festival and Forum
+title: ReOrient Festival
 titleimage: /img/archive/2015/08/ReOrient_logo1.png
 intro: >
   **The ReOrient Festival of Short Plays** was inaugurated in 1999 to present
@@ -20,8 +20,10 @@ description: >
   included premieres by distinguished American playwrights such as Naomi
   Wallace, Eric Ehn and Israel Horovitz.
 sidebar:
-  heading: Past Festivals
+  heading: Festivals
   text: >-
+    [R﻿eOrient 2022](https://goldenthread.org/productions/reorient-2023/)\
+
     [R﻿eOrient 2023](https://goldenthread.org/productions/reorient-2023/)\
 
     [ReOrient 2019](https://goldenthread.org/productions/reorient-2019/)\
@@ -82,6 +84,4 @@ photos:
     - image: /img/archive/2012/05/ReOrient2000-1.jpg
     - image: /img/archive/2012/05/ReOrient1999.jpg
 ---
-
-Since 2009, in celebration of the tenth anniversary of the festival, Golden Thread has organized the ReOrient Forum, a convening in San Francisco aimed at expanding the dialogue on theatre, the Middle East, and current hot topics that illuminate the region’s relationship with the US. Artists from across the globe (US, England, Canada, Argentina, Korea, Iran, Israel, Palestine, Egypt, Armenia, Syria, Turkey) have participated in person or via the internet.
-
+Since 2009, in celebration of the tenth anniversary of the festival, Golden Thread has organized the ReOrient Forum, a convening in San Francisco aimed at expanding the dialogue on theatre, the Middle East, and current hot topics that illuminate the region’s relationship with the US. Artists from across the globe (US, England, Canada, Argentina, Korea, Iran, Israel, Palestine, Egypt, Armenia, Syria, Turkey) have participated in person or via the internet. In recent years, Golden Thread has partnered with MENA Theater Makers Alliance and Art2Action to co-present MENATMA's Fall Convening which has expanded the reach of the event.
