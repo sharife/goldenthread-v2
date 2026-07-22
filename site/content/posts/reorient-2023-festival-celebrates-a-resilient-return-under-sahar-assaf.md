@@ -4,8 +4,6 @@ date: 2023-11-01T02:56:32.305Z
 description: October 13, 2023
 background: https://ucarecdn.com/a82e516f-569f-4f28-8500-9ff37b3f800a/
 ---
-![]()
-
 *As a dramaturgy team member of the third partnership between [Golden Thread Productions](https://goldenthread.org/productions/reorient-2017/) and [Literary Managers and Dramaturgs of the Americas](https://lmda.org/), Publications Dramaturg Vidhu Singh takes you behind the scenes of this year’s ReOrient Festival of Short Plays and entices audiences with the aesthetic flavors this experience offers.* 
 
 **ABOUT VIDHU SINGH:** [Vidhu Singh](https://goldenthread.org/productions/reorient-2023/#open-modal-Vidhu%20Singh%2c%20Ph.D.) is a Dramaturg, Expressive Arts Facilitator, and advocate for South Asian theater. Cal Shakes honored her with the 2020 Luminary Award in dramaturgy. She holds a Master’s degree in Dramatic Art from UC Santa Barbara and a doctorate in Asian Theatre from UH Manoa.
@@ -24,7 +22,7 @@ ReOrient 2023 is celebrating its triumphant return after a four-year hiatus sinc
 
 > “The value of ReOrient is in its (production) model. For instance, this year we have 43 individuals working on the program – I did the math! Between playwrights, dramaturgs, directors, designers, staff members, crew, and cast. The model is very exciting for me because I believe in theatre as a collaborative genre of making art. It is an excellent example of what Golden Thread is. You look at our team this year and you have a big spectrogram of representation. People from different cultures, languages, ethnic backgrounds, even theatre experiences. It’s a perfect example of a collaborative, healthy, enriching process of making theatre.” (Sahar Assaf) 
 
-![The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)](https://ucarecdn.com/565a8c84-b19a-49a2-9004-56977198dcd0/ "The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)")
+![](https://ucarecdn.com/565a8c84-b19a-49a2-9004-56977198dcd0/ "The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)")
 
 *The ReOrient 2023 CAMP participants who attended in-person, outside University of San Francisco’s Performing Arts and Social Justice Program, annual host for the CAMP retreat. (Photo: Lorenzo Fernandez-Kopec)*
 
@@ -40,18 +38,14 @@ The plays take us on an exhilarating journey with a variety of styles – absurd
 **Dramaturgy 101 – the Midwives for the Plays:**
 Dramaturgs aid the playwrights in the development of their scripts – all but one are world premieres this year. The ReOrient Dramaturgy Team also provide contextual information to both festival artists and audiences. ReOrient 2023 Festival marks the third collaboration with the Literary Managers and Dramaturgs of the Americas (LMDA) through the curation of Nakissa Etemad who also serves as LMDA’s Regional VP of Metro Bay Area. The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Be sure to check out the dramaturgs’ program notes and playwright messages curated by the team in the Festival Program! 
 
-![A constellation of Dramaturgs (left to right): Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh. (Composite Photo: Linda Maria Giron)](https://ucarecdn.com/fd1d342c-8441-4732-9cc9-8681e4aa6fc3/)
-
-*A constellation of Dramaturgs (left to right): Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh. (Composite Photo: Linda Maria Giron)*
+![](https://ucarecdn.com/fd1d342c-8441-4732-9cc9-8681e4aa6fc3/ "A constellation of Dramaturgs (left to right): Nakissa Etemad, Marina Johnson, Vidhu Singh, Heather Rastovac Akbarzadeh. (Composite Photo: Linda Maria Giron)")
 
 **ReOrient CAMP 2023:**
 On June 30th, 2023, Golden Thread launched its ReOrient CAMP, a three-day creative retreat inviting artists to brainstorm ideas, and envision how to bring the six singular stories to life at Potrero Stage, offering them a unique opportunity to dream in advance of the pressures of the impending production in the fall. Executive Artistic Director Sahar Assaf welcomed the impressive gathering, inviting them to consider Golden Thread their artistic home, and to show up as their whole authentic selves. Creating a home and family for their artists, and audiences, makes Golden Thread Productions special. Powerful words were read aloud from the company’s Manifesto by Founder, Torange Yeghiazarian: 
 
 > “ ‘The true revolutionary is guided by a great feeling of love.’ This is what Che Guevara said. And this is what I want to end with. Love each other. Bring love into your work and creative process. Let love guide your critical analysis and hopes for the future.” (Torange Yeghiazarian) 
 
-![Amal Bisharat captures CAMP Day 1 attendees – Playwrights, Directors, Dramaturgs, Designers, Staff.  (Photo: Amal Bisharat)](https://ucarecdn.com/3130aabe-6b2d-4741-9081-d771e7929f68/)
-
-*Amal Bisharat captures CAMP Day 1 attendees – Playwrights, Directors, Dramaturgs, Designers, Staff.  (Photo: Amal Bisharat)*
+![](https://ucarecdn.com/3130aabe-6b2d-4741-9081-d771e7929f68/ "Amal Bisharat captures CAMP Day 1 attendees – Playwrights, Directors, Dramaturgs, Designers, Staff.  (Photo: Amal Bisharat)")
 
 The excitement at the ritual of making theatre in-person was palpable. Along with Bay Area-based artists who joined in-person, many artists joined virtually from across the globe, reflecting the international breadth and impact of the ReOrient Festival: Sound Designer Bahar Royaee from Tehran, Playwright Hamed Sinno from London, Dramaturg Marina Johnson from Jordan, and Dramaturg Heather Rastovac Akbarzadeh from Sweden. As Sound Designer Bahar spoke, night broke into dawn in the window behind her in Tehran, yet her enthusiasm did not wane! Artists also participated from across the nation – Telluride (Colorado), Lewes (Delaware), Seattle (Washington), Chicago (Illinois), Rhode Island, and New Hampshire. 
 
@@ -78,9 +72,7 @@ After a final read-through to test out the latest order of plays, the company sa
 
 During the two months after CAMP, the ReOrient dramaturgs sprang into action, gathering vital research to create **“Notes & Context”** *info sheets* for the company of artists about the plays, each packed into a compact double-sided sheet of paper, modeled after the length of the short plays they supplement. Research Dramaturg Vidhu Singh’s info sheet on Hamed Sinno’s ***The Suicide Bomber*** digs into Background Information on the Temple of Dendur, as *The Suicide Bomber* is set in a backstage dressing room of the Metropolitan Opera in New York City behind ‘a set made to look like the Temple of Dendur.’ This Temple shows up as a motif in the playwright’s work: it’s also the future site of Sinno’s ‘site-specific operetta,’ *Westerly Breath*. In the info sheet on ***Data Queen*** by Adam Ashraf Elsayigh, Dramaturg Marina Johnson dives into different therapy practices such as PACT Couples’ Therapy (‘The Psychobiological Approach to Couples Therapy’) and highlights a variety of resources (such as The Queer Couples Center) since *Data Queen* is set in the playwright’s invention of San Francisco’s hottest new couples’ therapy practice called *Odyssey*, where Sam (20s, Lebanese immigrant) and Joel (40s, White boyfriend) will unearth the messy dynamics of their relationship. In Heather Rastovac Akbarzadeh’s info sheet on **Picture** **Bride**, she teaches us that ‘thousands of picture brides also came to the east coast of the U.S. through Ellis Island in the late-1800s to the early 1900s, particularly during the ethnic cleansing campaigns against Christian minorities in the late Ottoman period.’ *Picture Bride*’s protagonist, Ani, is sent to the U.S. by her mother to escape the Armenian genocide. These handy-dandy info sheets created for the company to aid in the rehearsal and design process offer insights into distinct aspects of each play’s background, themes, and characters, all in tasty bite-sized nuggets of information essential to the creative process! 
 
-![ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)](https://ucarecdn.com/7b1cb2d5-dcf9-4fda-8977-2d03986c3b79/ "ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)")
-
-*ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)*
+![](https://ucarecdn.com/7b1cb2d5-dcf9-4fda-8977-2d03986c3b79/ "ReOrient 2023 Festival participants gather for the first rehearsal in September at The Annex, Golden Thread Productions. Global participants attended via Zoom! (Photo: Sheila Devitt)")
 
 **The Work Ahead & the Importance of ReOrient:** 
 
@@ -90,8 +82,6 @@ Historically, the ReOrient Festival has bridged the MENA diaspora with the MENA 
 
 The ReOrient 2023 Festival is not to be missed! It runs from October 16th to November 4th, 2023. 
 
-![Full Cast of ReOrient 2023 Festival (l to r, clockwise): John Fisher, AeJay Marquis Mitchell, Neamah Hussein, Arielle Tonkin, Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, Rose McAvoy, John Pasha (Photo: Amal Bisharat)](https://ucarecdn.com/8b7ab6d7-241a-4ee0-95aa-a646d40c4b35/)
-
-*Full Cast of ReOrient 2023 Festival (l to r, clockwise): John Fisher, AeJay Marquis Mitchell, Neamah Hussein, Arielle Tonkin, Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, Rose McAvoy, John Pasha (Photo: Amal Bisharat)*
+![](https://ucarecdn.com/8b7ab6d7-241a-4ee0-95aa-a646d40c4b35/ "Full Cast of ReOrient 2023 Festival (l to r, clockwise): John Fisher, AeJay Marquis Mitchell, Neamah Hussein, Arielle Tonkin, Sofia Ahmad, Hamzeh Daoud, Emily M. Keyishian, Rose McAvoy, John Pasha (Photo: Amal Bisharat)")
 
 This article is also published in the LMDA Bulletin and online [here](https://lmda.org/reorient-2023-festival).
