@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2015
+title: ReOrient 2015 Festival
 pre: Theatre Festival & Forum Exploring the Middle East
 season: 2015
 date: 2015-08-11T09:01:00.000Z
@@ -37,6 +37,8 @@ lists:
 
           **For more information and a full schedule, click [here](https://goldenthread.org/posts/reorient-2015/).**
         title: October 3 & 4, 2015
+        itemstart: 2026-07-22T12:39:02.591Z
+        itemend: 2026-07-22T12:39:02.654Z
   - heading: ReOrient 2015 Line-up
     items:
       - subtitle: by Yussef El Guindi, directed by Evren Odcikin
@@ -50,6 +52,8 @@ lists:
           **Yussef El-Guindi**’s most recent productions include *The Ramayana* (co-adaptor) at ACT; and *Pilgrims Musa and Sheri in the New World*(winner of the Steinberg/American Theater Critics Association’s New Play Award in 2012; Gregory Award in 2011) also at ACT, and at Center Repertory Company (Walnut Creek, CA) 2013; and*Language Rooms*(Edgerton Foundation New American Play Award), co-produced by Golden Thread Productions and the Asian American Theater Company in San Francisco; at the Wilma Theater in Philadelphia (premiere), and at the Los Angeles Theater Center. His play *Our Enemies: Lively Scenes of Love and Combat* was produced by Silk Road Theater Project and won the M. Elizabeth Osborn award. It’s included in the anthology Four Arab American Plays, published by McFarland Books. His plays *Back of the Throat*, as well as *Such a Beautiful Voice is Sayeda’s and Karima’s City Pilgrims Musa and Sheri in the New Word* was published in the September, 2012 issue of American Theatre Magazine, and will soon be published by Dramatists Play Service, along with his play, *Jihad Jones and The Kalashnikov Babes*.
         image: https://ucarecdn.com/f310445a-5d38-4f2d-8ac0-6d1e255752d5/
         title: Picking Up the Scent
+        itemstart: 2026-07-22T12:39:02.722Z
+        itemend: 2026-07-22T12:39:02.784Z
       - pre: US Premiere
         subtitle: by Silva Semerciyan, directed by Erin Gilley
         text: >-
@@ -61,6 +65,8 @@ lists:
           **Silva Semerciyan** is currently a writer on attachment at the UK’s National Theatre. In 2013, she was awarded a BBC Fellowship to be writer on attachment at the Bristol Old Vic where she is under commission to write a new original play. Her plays include The Window (Bristol Old Vic), The Tinderbox (Bristol Old Vic, adapted from the story by Hans Christian Andersen) Gather Ye Rosebuds (Theatre 503) winner, Best New Play, Brighton Fringe Festival, UK; I and the Village, shortlisted for the 2011 Bruntwood Prize; Flashes (Young Vic Theatre, London). Her first radio play, Varanasi, was shortlisted for a BBC audio drama award in 2013. She holds an MPhil (B) in Playwriting from the University of Birmingham, and she lectures in Contemporary Performance for the University of Gloucestershire.
         image: https://ucarecdn.com/b496c886-07d2-4762-96be-451add8dadde/
         title: Turning Tricks
+        itemstart: 2026-07-22T12:39:02.847Z
+        itemend: 2026-07-22T12:39:02.912Z
       - subtitle: by Hannah Khalil, directed by Manijeh Mohamedi
         pre: World Premiere
         text: >-
@@ -72,6 +78,8 @@ lists:
           An award-winning Palestinian-Irish writer, **Hannah Khalil**’s first short play, Ring, was selected for Soho Theatre London’s Westminster Prize and her first full- length piece, Leaving Home, was staged at The King’s Head. Further work includes *Plan D*, which was produced at Tristan Bates Theatre and nominated for the Meyer Whitworth Award. Most recently Hannah’s play*Bitterenders*won Sandpit Arts’ Bulbul 2013 competition and was staged at The Nightingale in Brighton. Her monologue *The Worst Cook in the West Bank* was performed as part of an evening of short plays about Arab women in the Arab Spring at the Old Red Lion in London and the Unity Theatre as part of the Liverpool Arabic Arts Festival. Hannah also writes for radio, and her new play *Last of the Pearl Fishers* will be on BBC Radio 4 early next year. In 2015 *Plan D* will be published as part of Inside/Outside: Six plays from Palestine and the Diaspora edited by Naomi Wallace and Ismail Khalidi.
         image: https://ucarecdn.com/db02112d-d286-4cd5-9895-b852ca7a0502/
         title: Bitterenders
+        itemstart: 2026-07-22T12:39:02.979Z
+        itemend: 2026-07-22T12:39:03.044Z
       - pre: World Premiere
         subtitle: by Emma Goldman-Sherman, directed by Erin Gilley
         text: >-
@@ -83,6 +91,8 @@ lists:
           **Emma Goldman-Sherman** plays include *Wombshot*, *Perfect Women*, *Antigone’s Sister*, and *Abraham’s Daughters*. Her work has been produced in New York City, Washington D.C., Kansas City, Los Angeles, London, and Zagreb by Manhattan Theatre Source, Theatre Conspiracy, Circle Rep Lab, New Georges, Ensemble Studio Theatre, The Women’s Project & Productions and All Out Arts Inc. Her plays have been developed at WordBridge, The Drama League, The Millay Colony for the Arts, The Ragdale Foundation. She earned her MFA from the University of Iowa where she received The Richard Maibaum Award for Plays Addressing Social Justice. Her play *Why Birds Fly* was a finalist at The Cutting Ball Theatre for their 2014 Risk Is This Festival. She is grateful to be included in The ReOrient Festival.
         image: https://ucarecdn.com/86c036d5-7aff-4e0f-9f62-cf975bfd894e/
         title: Counting in Sha’ab
+        itemstart: 2026-07-22T12:39:03.112Z
+        itemend: 2026-07-22T12:39:03.178Z
       - title: Lost Kingdom
         pre: US Premiere
         subtitle: by Hassan Abdulrazzak, directed by Michael French
@@ -94,6 +104,8 @@ lists:
 
           **Hassan Abdulrazzak** is of Iraqi origin, born in Prague and living in London. He trained as a cell and molecular biologist and worked at Imperial College and Harvard University. His first play,*Baghdad Wedding*, premiered at Soho Theatre, London (2007). Other productions were at the Belvoir Theatre, Sydney (2009) and by Akvarious productions in India (2012). It was also broadcast on BBC Radio 3. It will have a staged reading by Golden Thread Theatre in the USA later in 2014. His second play, *The Prophet* was staged at the Gate theatre, London and had a reading by Noor theatre in NYC (2012). He has written several short plays including *The Tale of Sindbad* and *the Old Goat* that was part of the multi-author play Arab Nights (produced by Metta theatre), which premiered at Soho Theatre (2012) then toured the UK and \*You Don’t Have To Be American To Get Laid But It Helps,\*part of \*Waiting for Summer,\*produced and directed by Swivel Theatre Company (2014). He has also written two full-length screenplays and translated several plays for the Royal Court theatre (Arabic to English)
         image: https://ucarecdn.com/7a11ef78-e934-4e79-a447-61a2796cd739/
+        itemstart: 2026-07-22T12:39:03.244Z
+        itemend: 2026-07-22T12:39:03.314Z
       - pre: World Premiere
         subtitle: Inspired by Golden Thread’s global theatre collaboration, [Project
           Alo](https://web.archive.org/web/20170906233850/http://www.goldenthread.org/alo/),
@@ -111,6 +123,8 @@ lists:
           Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         image: https://ucarecdn.com/a81760cf-4f4f-49cb-a315-216f66371796/
         title: Reaching Out
+        itemstart: 2026-07-22T12:39:03.378Z
+        itemend: 2026-07-22T12:39:03.441Z
       - subtitle: by Ken Kaissar, directed by Evren Odcikin
         pre: West Coast Premiere
         text: >-
@@ -121,6 +135,8 @@ lists:
           **Ken Kaisar** was born in Ramat Gan, Israel and grew up in Indianapolis, IN. His adaptation of Geoffrey Chaucer’s *The Canterbury Tales* was commissioned by Columbia University in 2008. His play *The Victims or What Do You Want Me to Do About*(an absurdist take on the Israeli-Palestinian conflict) was a runner-up for the 2009 Princess Grace Award and was honored by Golden Thread Productions, Silk Road Rising, and the Lark Play Development Center as part of the Middle East America Play Commission. His play *Chai* was a finalist in the Oxford Theatre’s National Ten Minute Play Contest. His work has been developed by the Philadelphia Theatre Company, Bristol Riverside Theatre, Fusion Theatre Company, and Mildred’s Umbrella. He holds a BFA in directing from Carnegie Mellon University and an MFA in playwriting from Columbia University. He teaches playwriting and theatre history at Rider University and Stockton College.
         image: https://ucarecdn.com/5dec4435-01b7-4840-946a-74378876e9d2/
         title: Ceasefire
+        itemstart: 2026-07-22T12:39:03.509Z
+        itemend: 2026-07-22T12:39:03.571Z
       - subtitle: by Nahal Navidar, directed by Sara Razavi
         pre: World Premiere
         text: >-
@@ -132,6 +148,8 @@ lists:
           **Nahal Navidar** is an Iranian-born playwright who was raised in upstate New York. Her play *110 Flights* has been workshopped at the Kennedy Center Playwriting Intensive and produced at the University at Albany and Proctor’s Theatre New Play Festival. While teaching Speech and Drama internationally in the Micronesian Islands, Nahal founded Fabulous Invalid Theatre Company whose mission was to promote the voices of the Pacific and East Asian Diaspora. Short plays include *‘Flicted* (WAM Theatre, NY), and *The Real Pain* (The Vagrancy, L.A.). In 2015, Nahal will premiere her first opera, *Donia*, written in collaboration with music composer Julia Adolphe. This will mark the team’s first project in their effort to empower female voices on the American stage. Nahal is a member of The Vagrancy Playwright’s Group. She holds an M.F.A. in Dramatic Writing from the University of Southern California, and splits her time between Los Angeles and New York.
         image: https://ucarecdn.com/2c4d254c-809b-4942-8254-49f924ff0dab/
         title: Songs of Our Childhood
+        itemstart: 2026-07-22T12:39:03.638Z
+        itemend: 2026-07-22T12:39:03.702Z
       - subtitle: by Tala Manassah and Mona Mansour, directed by Sara Razavi
         pre: West Coast Premiere
         text: >-
@@ -145,28 +163,29 @@ lists:
           **Mona Mansour’s** *The Way West* had its world premiere in spring 2014 at Steppenwolf, directed by Amy Morton. The play received the 2013 Sky Cooper New American Play Prize from Marin Theatre Company, where it will get its West Coast premiere in 2015. *The Hour of Feeling* (directed by Mark Wing-Davey) premiered at the 2012 Humana Festival, then was part of the High Tide Festival in the U.K.*Urge for Going* received a LAB production in 2011 at the Public Theater, and had its West Coast premiere at Golden Thread (directed by Evren Odcikin). *The Vagrant*, the third play in the trilogy, was workshopped at the 2013 Sundance Theater Institute. Mona was a member of the Public Theater’s Emerging Writers Group and is part of New Dramatists. With Tala Manassah she has written *The House*, *After*, and *The Letter*, and *Dressing*, part of Facing Our Truths: Short Plays about Trayvon, Race and Privilege; they have an EST/Sloan commission to write a play about 1970s Iraq. 2012 Whiting Award. 2014 Middle East America Playwright Award. [monamansour.com](https://goldenthread.org/monamansour.com)
         image: https://ucarecdn.com/808913fe-cf12-4676-bbd0-5ca260320a47/
         title: The House
+        itemstart: 2026-07-22T12:39:03.769Z
+        itemend: 2026-07-22T12:39:03.831Z
 grids:
   - heading: Special Events
     items:
-      - title: Fairytale Players Double-Bill
-        pre: For Families
-        subtitle: "*Princess Tamar Rescues Nazar the Brave* and *21 Days That Change the
-          Year:* Two beloved family-friendly productions, inspired by Iranian
-          and Armenian folktales will be presented in one afternoon."
-        image: https://ucarecdn.com/5910cadd-260a-4a93-b67f-a3507776da18/
+      - pre: For Families
+        itemend: 2026-07-22T12:39:04.018Z
         text: |-
           Featuring Sarah Al-Kassab, Majd Murad, Mohammad Talani, and Jeremy Vik
 
           **Sun, Oct 4, at 2pm at Z Space (450 Florida Street, SF)**\
           Tickets: $20\
           This event is **free for children 12 and under**.
+        itemstart: 2026-07-22T12:39:03.947Z
         cta: ""
+        subtitle: "*Princess Tamar Rescues Nazar the Brave* and *21 Days That Change the
+          Year:* Two beloved family-friendly productions, inspired by Iranian
+          and Armenian folktales will be presented in one afternoon."
+        title: Fairytale Players Double-Bill
         link: ""
+        image: https://ucarecdn.com/5910cadd-260a-4a93-b67f-a3507776da18/
       - pre: For Music Lovers
-        title: Arabic Folk Song Recital by Saousan Jarjour
-        subtitle: Acclaimed Syrian-American soprano presents a repertoire of Arabic folk
-          songs, reimagined.
-        image: https://ucarecdn.com/e11d6bba-fdb0-40fc-abe3-6a97db01ebca/
+        itemend: 2026-07-22T12:39:04.168Z
         text: >-
           Zetune Ensemble: Saousan Jarjour (vocals), Mark Herrera (Jazz piano),
           Eric Salinas (guitar), Matt Richards (tabla), and Michael Selfridge
@@ -177,8 +196,13 @@ grids:
           **Sat, Oct 3, at 2pm at Z Space (450 Florida Street, SF)**\
 
           Tickets: $20
+        itemstart: 2026-07-22T12:39:04.086Z
         cta: ""
+        subtitle: Acclaimed Syrian-American soprano presents a repertoire of Arabic folk
+          songs, reimagined.
+        title: Arabic Folk Song Recital by Saousan Jarjour
         link: ""
+        image: https://ucarecdn.com/e11d6bba-fdb0-40fc-abe3-6a97db01ebca/
   - heading: ReOrient 2015 In The Press
     items:
       - text: “Humanity is at the core of ReOrient. **If theater is community, it starts
@@ -189,6 +213,8 @@ grids:
         image: https://ucarecdn.com/bddf94cd-3170-4dd4-9d1c-0cfa448950a1/
         cta: Read More
         link: http://www.starkinsider.com/2015/09/reorient-your-perspective-on-the-middle-east-review.html
+        itemstart: 2026-07-22T12:39:04.235Z
+        itemend: 2026-07-22T12:39:04.301Z
       - text: “Judging by the new short plays comprising its 2015 ReOrient Festival,
           Golden Thread is clearly fulfilling its mission to offer **compelling
           stories representing the complexity and diversity of the contemporary
@@ -197,48 +223,66 @@ grids:
         image: https://ucarecdn.com/660423aa-c03f-4232-862a-41b7074f4adb/
         cta: Read More
         link: http://www.sfexaminer.com/reorient-tells-modern-tales-from-the-middle-east/
+        itemstart: 2026-07-22T12:39:04.367Z
+        itemend: 2026-07-22T12:39:04.436Z
       - subtitle: ReOrienting a Middle Eastern Perspective
         image: https://ucarecdn.com/0fc0252b-40bb-4cae-b992-9548fd6d381e/
         text: ReOrient 2015 is a *San Francisco Chronicle* Weekend Pick!
         cta: Read More
         link: http://www.sfgate.com/performance/article/Reorienting-a-Middle-Eastern-perspective-6491619.php
+        itemstart: 2026-07-22T12:39:04.502Z
+        itemend: 2026-07-22T12:39:04.570Z
       - subtitle: ReOrient Festival Brings Stories of the Middle East to the Bay Area
         image: https://ucarecdn.com/52039f1e-d930-4d82-bfb1-6c9e670303e6/
         text: Radio interview with Yussef El Guindi, Sara Razavi, and Torange
           Yeghiazarian on KQED Forum
         cta: Listen Here
         link: http://www.kqed.org/a/forum/R201509161000
+        itemstart: 2026-07-22T12:39:04.635Z
+        itemend: 2026-07-22T12:39:04.703Z
       - subtitle: Golden Thread's ReOrient weaves together Middle Eastern Stories
         image: https://ucarecdn.com/91bfec7d-ffb5-4abd-ad94-b7dcef65fe80/
         text: Interview with Evren Odcikin on KQED Arts
         cta: Read Here
         link: https://ww2.kqed.org/arts/2015/09/09/golden-threads-reorient-weaves-together-middle-eastern-stories/
+        itemstart: 2026-07-22T12:39:04.766Z
+        itemend: 2026-07-22T12:39:04.903Z
       - subtitle: Play festival offers different looks at 'situation' in Israel
         image: https://ucarecdn.com/82b261fc-d835-4ec8-9d4e-52fcd1ed27f4/
         text: "*J Weekly* interviews Ken Kaissar, Tala Manassah, and Torange
           Yeghiazarian"
         cta: Read More
         link: http://www.jweekly.com/2015/09/11/play-festival-offers-different-looks-at-situation-in-israel/
+        itemstart: 2026-07-22T12:39:04.977Z
+        itemend: 2026-07-22T12:39:05.114Z
       - subtitle: Art-Waves on Cover to Cover
         image: https://ucarecdn.com/43fcde1c-7cf7-460a-8bbc-3e2abd6da751/
         text: Radio interview with Torange Yeghiazarian on KPFA
         cta: Listen Here
         link: https://kpfa.org/episode/arts-waves-on-cover-to-cover-september-14-2015/
+        itemstart: 2026-07-22T12:39:05.389Z
+        itemend: 2026-07-22T12:39:05.659Z
       - subtitle: Mill Valley's Denmo Ibrahim finds passions beyond the theater
         image: https://ucarecdn.com/d7fe8ef6-44dd-4146-8b02-eea554b610d3/
         text: "*Marin Independent Journal* interviews Denmo Ibrahim"
         cta: Read Here
         link: http://www.marinij.com/lifestyle/20150902/mill-valleys-denmo-ibrahim-finds-passions-beyond-the-theater
+        itemstart: 2026-07-22T12:39:05.792Z
+        itemend: 2026-07-22T12:39:05.861Z
       - subtitle: Voices of the Middle East and North Africa
         image: https://ucarecdn.com/2ed25300-3752-4139-b5f3-065127f5ef11/
         text: Radio interview with Torange Yeghiazarian on KPFA
         cta: Listen Here
         link: https://kpfa.org/episode/voices-of-the-middle-east-and-north-africa-september-9-2015/
+        itemstart: 2026-07-22T12:39:05.926Z
+        itemend: 2026-07-22T12:39:05.994Z
       - subtitle: '"Expect the Unexpected."'
         image: https://ucarecdn.com/780c5806-6872-4826-8954-5c39f3ac5a0f/
         text: ReOrient 2015 is a pick for The Do List on KQED
         cta: Read More
         link: https://ww2.kqed.org/arts/programs/the-do-list/
+        itemstart: 2026-07-22T12:39:06.057Z
+        itemend: 2026-07-22T12:39:06.123Z
 cast:
   heading: Cast & Crew
   items:
