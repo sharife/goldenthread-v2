@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2000
+title: ReOrient 2000 Festival
 pre: Annual Festival of Short Plays Exploring the Middle East
 season: 2000
 date: 2000-06-16T00:50:00.000Z
