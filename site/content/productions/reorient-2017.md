@@ -167,7 +167,7 @@ lists:
 grids:
   - heading: Golden Thread Productions and LMDA Partnership
     items:
-      - title: Are You Ready to ReOrient
+      - title: Are You Ready to ReOrient?
         image: https://ucarecdn.com/3b82cbf7-7b35-4d8d-a2a9-0576980297e1/
         text: Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient
           and highlights the importance of Golden Thread in the American
