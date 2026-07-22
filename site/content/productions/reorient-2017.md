@@ -165,7 +165,7 @@ lists:
         itemend: 2026-07-22T12:39:31.773Z
     heading: REORIENT 2017 LINE-UP
 grids:
-  - heading: Golden Thread Productions and LMDA Partnership
+  - heading: LMDA Partnership
     items:
       - title: Are You Ready to ReOrient?
         image: https://ucarecdn.com/3b82cbf7-7b35-4d8d-a2a9-0576980297e1/
@@ -192,6 +192,8 @@ grids:
           of *Manar*, and their experience with Golden Thread.
         itemstart: 2026-07-22T12:39:31.920Z
         itemend: 2026-07-22T12:39:31.948Z
+        cta: Read the Article
+        link: https://goldenthread.org/posts/playwright-and-dramaturg-tackle-manar-a-third-time
       - text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
           E.H. Benedict, and Torange Yeghiazarian to discuss their writing
           careers as women and in the Bay Area, and experiences with Golden
@@ -202,9 +204,6 @@ grids:
         itemend: 2026-07-22T12:39:32.009Z
         cta: Read the article
         link: https://goldenthread.org/posts/w/
-      - subtitle: ""
-        itemstart: 2026-07-22T12:39:32.036Z
-        itemend: 2026-07-22T12:39:32.066Z
   - heading: ReOrient Festival in the Press
     items:
       - title: Everyone is Welcome to ReOrient Themselves
