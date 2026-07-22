@@ -1,5 +1,5 @@
 ---
-title: ReOrient Festival 2023
+title: ReOrient 2023 Festival
 pre: ""
 season: 2023
 date: 2022-11-30T01:30:40.142Z
