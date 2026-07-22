@@ -156,7 +156,7 @@ lists:
         image: https://ucarecdn.com/bb349850-e9de-4ab4-8363-b241e00a6e7a/
 grids: []
 cast:
-  heading: ReOrient Festival of Short Plays - Creative Team
+  heading: Cast and Creative Team
   items:
     - bio: >-
         **Katrin Arefy** (*she/her*) is an essayist and playwright who examines
