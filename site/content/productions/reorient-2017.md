@@ -1,5 +1,5 @@
 ---
-title: ReOrient 2017
+title: ReOrient 2017 Festival
 pre: Seven short plays. One unforgettable evening of theatre.
 season: 2017
 date: 2017-10-18T00:18:00.000Z
@@ -61,6 +61,8 @@ lists:
           **Panelists:** Eugenie Chan, Edris Cooper-Anifowoshe, Philip Kan Gotanda, Lauren Spencer, Eric Ting, and Torange Yeghiazarian\
 
           **Free and open to the public**
+        itemstart: 2026-07-22T12:39:31.286Z
+        itemend: 2026-07-22T12:39:31.318Z
       - text: >-
           **Sat, Dec 2, 4-6pm** | Potrero Stage (1695 18th Street, San
           Francisco)\
@@ -79,6 +81,8 @@ lists:
         image: https://ucarecdn.com/90f68238-bc04-4898-82a4-77dddb9f015f/
         link: https://goldenthread.secure.force.com/ticket/
         cta: RSVP Now
+        itemstart: 2026-07-22T12:39:31.345Z
+        itemend: 2026-07-22T12:39:31.374Z
   - items:
       - title: War on Terror
         subtitle: by E.H. Benedict, directed by Sara Razavi
@@ -89,6 +93,8 @@ lists:
 
           **E.H. Benedict** (Playwright, War on Terror) is honored to be included in the ReOrient Festival, where her play Orhan was produced in 2012. Her plays have been developed locally and at the Lark (NYC). American Royals and Rashomon in Kansas were semifinalists for the O’Neill Playwrights Conference. Her short play Gloria Steinem & Lotte Lenya & Scout Are Waiting won best in festival at the WCPA in Westcliffe, CO. She is a 2016 TBA TITAN Award recipient and a member of the Dramatists Guild.
         image: https://ucarecdn.com/a8a4f004-c70f-44cf-b700-c88c5e05e9eb/
+        itemstart: 2026-07-22T12:39:31.401Z
+        itemend: 2026-07-22T12:39:31.431Z
       - title: A is for Ali
         subtitle: by Sevan K. Greene, directed by Sara Razavi
         text: >-
@@ -98,6 +104,8 @@ lists:
 
           **Sevan K. Greene** (Playwright, A is for Ali) is an award-winning playwright and actor based in London and NYC. Sevan’s work has been seen at The Public Theater, New York Theatre Workshop, The Flea Theater, The Sheen Center, The Bush Theatre, Theatre Royal Stratford East, Theatre503, Rich Mix, and The Old Red Lion. He is a member of The Bush Theatre inaugural 2015 Emerging Writers Group, The Public Theater 2011 Emerging Writers Group, NYTW Usual Suspects, and the Rising Circle Theatre Collective 2010 InkTANK Lab. [sevangreene.com](sevangreene.com)
         image: https://ucarecdn.com/23718121-8b20-4eb3-95fb-154fb62d633f/
+        itemstart: 2026-07-22T12:39:31.457Z
+        itemend: 2026-07-22T12:39:31.486Z
       - subtitle: by Melis Aker, directed by Erin Gilley, dramaturged by Anna Woodruff
         title: Manar
         text: >-
@@ -107,6 +115,8 @@ lists:
 
           **Melis Aker** (Playwright, Manar) is an actor, playwright, and musician from Turkey. Plays include Manar (LaMaMa, LaGuardia Performing Arts Center's Rough Draft Festival) and 330 Pegasus: A Love Letter (Part I) (Noor Theatre’s Highlight Series). Her Untitled Coup D’etat Play will receive a run at the Signature in 2018. She is writing the book for Tatiana Pandiani's Ruben Dario Project as part of the NYTW 2050 Fellowship. M.F.A. in Playwriting, Columbia University. [melisaker.com](melisaker.com)
         image: https://ucarecdn.com/acc6424e-af3a-4cd1-a34d-b4f2f0cb3a4e/
+        itemstart: 2026-07-22T12:39:31.516Z
+        itemend: 2026-07-22T12:39:31.545Z
       - subtitle: by Betty Shamieh, directed by Susannah Martin, dramaturged by Nakissa
           Etemad
         title: Make No Mistake
@@ -117,6 +127,8 @@ lists:
 
           **Betty Shamieh** (Playwright, Make No Mistake) is the author of fifteen plays. Credits include The Strangest (The Semitic Root), Fit for the Queen (Classical Theatre of Harlem), The Black Eyed (New York Theatre Workshop, Magic Theatre), Territories (Magic Theatre), and Roar (The New Group). She was a Clifton Visiting Artist at Harvard College, a Playwriting Fellow at the Radcliffe Institute, a UNESCO Young Artist for Intercultural Dialogue, and a Guggenheim Fellow in Drama and Performance Art. M.F.A., Yale School of Drama. [bettyshamieh.com](bettyshamieh.com).
         image: https://ucarecdn.com/f3421f76-b269-40a3-91b4-496b51d04c29/
+        itemstart: 2026-07-22T12:39:31.573Z
+        itemend: 2026-07-22T12:39:31.599Z
       - subtitle: by Hannah Khalil, directed by Evren Odcikin
         title: The Rehearsal
         text: >-
@@ -126,12 +138,16 @@ lists:
 
           **Hannah Khalil**'s (Playwright, The Rehearsal) stage plays include The Scar Test (Soho Theatre, London; “Political Theatre at its best” —Exeunt); Scenes from 68* Years (Arcola Theatre, London; shortlisted for James Tait Black Award; “Confirms Khalil as a dramatist of compelling potential” —Daily Telegraph); Bitterenders (Golden Thread’s ReOrient 2015 Festival; winner of Sandpit Arts’ Bulbul 2013); Plan D (Tristan Bates Theatre; nominee, Meyer Whitworth Award); and Ring (winner, Soho Theatre London's Westminster Prize). Radio plays include Last of the Pearl Fishers and The Deportation Room for BBC Radio 4.
         image: https://ucarecdn.com/0e49510c-edfd-4dfe-920a-78291020a8c1/
+        itemstart: 2026-07-22T12:39:31.628Z
+        itemend: 2026-07-22T12:39:31.656Z
       - title: Shelter
         subtitle: poetry by Junichi P. Semitsu, stage soundscape adapted by Torange
           Yeghiazarian and James Ard
         text: An audio love poem from Hiroshima to Beirut to one mixed-race couple’s
           intertwined destinies.
         image: https://ucarecdn.com/3ceef03b-bfe7-4d20-b80d-6ceac77ad1b5/
+        itemstart: 2026-07-22T12:39:31.686Z
+        itemend: 2026-07-22T12:39:31.713Z
       - subtitle: by Torange Yeghiazarian, directed by Susannah Martin, dramaturged by
           Nakissa Etemad
         text: >-
@@ -145,6 +161,8 @@ lists:
           Theatre Bay Area Magazine. Born in Iran and of Armenian heritage, she holds a Master’s degree in Theatre Arts from SFSU. She is one of the TCG Legacy Leaders of Color. She has received honors from the Cairo International Theatre Festival, the Symposium on Equity in the Entertainment Industry, and Theatre Bay Area.
         title: Thanksgiving at Khodabakhshian's
         image: https://ucarecdn.com/52396b9f-0e2f-424f-b58c-3d5a100b2953/
+        itemstart: 2026-07-22T12:39:31.745Z
+        itemend: 2026-07-22T12:39:31.773Z
     heading: REORIENT 2017 LINE-UP
 grids:
   - heading: Golden Thread Productions and LMDA Partnership
@@ -154,23 +172,33 @@ grids:
         text: Publications Dramaturg Vidhu Singh takes you behind-the scenes of ReOrient
           and highlights the importance of Golden Thread in the American
           theatre.
+        itemstart: 2026-07-22T12:39:31.803Z
+        itemend: 2026-07-22T12:39:31.831Z
       - text: Publications Dramaturg Emily DeDakis interviews Sevan K. Greene and Hannah
           Khalil to discuss their plays, playwriting careers in the U.K., and
           past experiences with Golden Thread.
         title: "Being in the Room: Transatlantic Collaborations in ReOrient 2017"
         image: https://ucarecdn.com/2de66e9e-0716-4098-bd0d-299d0e401edd/
+        itemstart: 2026-07-22T12:39:31.862Z
+        itemend: 2026-07-22T12:39:31.889Z
       - title: Playwright and Dramaturg Tackle Manar a Third Time
         image: https://ucarecdn.com/5da3cff5-6344-42e2-b4ae-a6dbd7a841e9/
         text: ReOrient Dramaturg Anna Woodruff speaks with her longtime collaborator and
           Playwright Melis Aker about their working relationship, the evolution
           of *Manar*, and their experience with Golden Thread.
+        itemstart: 2026-07-22T12:39:31.920Z
+        itemend: 2026-07-22T12:39:31.948Z
       - text: Publications Dramaturg Maddie Gaw interviews playwrights Betty Shamieh,
           E.H. Benedict, and Torange Yeghiazarian to discuss their writing
           careers as women and in the Bay Area, and experiences with Golden
           Thread.
         title: Women’s Voices Naturally Rise to the Top at Golden Thread
         image: https://ucarecdn.com/91eee817-77e1-484c-a772-12ebeccb8189/
+        itemstart: 2026-07-22T12:39:31.979Z
+        itemend: 2026-07-22T12:39:32.009Z
       - subtitle: ""
+        itemstart: 2026-07-22T12:39:32.036Z
+        itemend: 2026-07-22T12:39:32.066Z
   - heading: ReOrient Festival in the Press
     items:
       - title: Everyone is Welcome to ReOrient Themselves
@@ -179,6 +207,8 @@ grids:
         image: https://ucarecdn.com/9636fce1-1088-412d-87a7-c91e1e068bf3/
         cta: Read More
         link: http://www.sfweekly.com/culture/everyone-is-welcome-to-reorient-themselves/
+        itemstart: 2026-07-22T12:39:32.096Z
+        itemend: 2026-07-22T12:39:32.128Z
       - title: ReOrienting One's Thoughts on Immigration
         text: "George Heymont of *The Huffington Post* reviews ReOrient 2017: “A rare
           accomplishment. . . all seven \\[plays] were superbly written
@@ -187,22 +217,30 @@ grids:
         image: https://ucarecdn.com/ccb37177-eba3-45c0-a938-fa471a321426/
         link: https://www.huffingtonpost.com/entry/reorienting-ones-thoughts-on-immigration_us_5a1c873de4b05df68936cf7e
         cta: Read More
+        itemstart: 2026-07-22T12:39:32.155Z
+        itemend: 2026-07-22T12:39:32.186Z
       - title: ReOrient fest in SF serves up varied view of Middle East
         text: ReOrient 2017 is a critic’s pick for Sam Hurwitt of *The Mercury News*.
         image: https://ucarecdn.com/ebe10ccb-a8dc-4598-8cf9-f9156d12aed4/
         link: http://www.mercurynews.com/2017/11/15/reorient-theater-fest-in-sf-offers-varied-views-of-middle-east/
         cta: Read More
+        itemstart: 2026-07-22T12:39:32.216Z
+        itemend: 2026-07-22T12:39:32.247Z
       - title: Voices of the Middle East and North Africa
         text: Festival Producer Evren Odcikin is interviewed by Malihe Razazan for KPFA
           program.
         image: https://ucarecdn.com/5a80db91-c592-4b5f-ba76-c13879756cc9/
         link: https://kpfa.org/episode/voices-of-the-middle-east-and-north-africa-november-17-2017/
         cta: Read More
+        itemstart: 2026-07-22T12:39:32.277Z
+        itemend: 2026-07-22T12:39:32.307Z
       - title: Theater events for the holidays
         text: ReOrient 2017 is a Holiday Pick for *San Francisco Chronicle*
         image: https://ucarecdn.com/28e7990d-e83c-4486-a665-abb9756c6415/
         cta: Read More
         link: http://www.sfchronicle.com/performance/article/Theater-events-for-the-holidays-12344651.php
+        itemstart: 2026-07-22T12:39:32.335Z
+        itemend: 2026-07-22T12:39:32.365Z
 cast:
   heading: REORIENT 2017 HONORARY MENTIONS
   items:
