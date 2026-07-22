@@ -14,7 +14,7 @@ description: >-
   perspectives and identities.
 
 
-  Presented in conjunction with the ReOrient 2026, we're proud to host[The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists  is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
+  Presented in conjunction with the ReOrient 2026 Festival, we're proud to host[The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists  is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
 background: ""
 titleimage: https://ucarecdn.com/fe842c6b-4df5-4857-98e9-12636f8be397/
 program: null
@@ -39,10 +39,10 @@ lists:
     items:
       - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
         subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
-        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzak (*Love,
-          Bombs, and Apples*), *Dare Not Speak* focuses on a young child,
-          murdered in a genocide, as she pitches her story to a theater artistic
-          director who is reluctant to put it on stage.
+        text: A hard-hitting play by artistic affiliate Hassan Abdulrazza (*Love, Bombs,
+          and Apples*), *Dare Not Speak* focuses on a young child, murdered in a
+          genocide, as she pitches her story to a theater artistic director who
+          is reluctant to put it on stage.
         title: Dare Not Speak
         itemstart: ""
         itemend: ""
