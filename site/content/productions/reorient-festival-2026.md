@@ -8,12 +8,16 @@ end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
 description: >-
   Our signature program returns with an innovative and spirited festival of
-  short plays from or about the Middle East. The 30th anniversary lineup is
-  diverse in content and style, with 5 plays selected from 83 submissions,
-  highlighting a multiplicity of Middle Eastern perspectives and identities.
+  short plays from or about the Middle East. The 30th anniversary lineup focuses
+  on Iran and Palestine. The five plays selected from 83 submissions, are
+  diverse in content and style -- highlighting a multiplicity of Middle Eastern
+  perspectives and identities.
 
 
-  **ReOrient 2026 Forum**, a convening of artists, academics, activists produced in partnership with **[MENA Theater Makers Alliance](https://www.menatheater.org)**, will take place during the run of the festival in San Francisco.
+  **In tandem with the Festival, Golden Thread is proud to host the [MENA Theater Makers Alliance](https://www.menatheater.org)**
+
+
+  a convening of artists, academics, activists produced in partnership with , will take place during the run of the festival in San Francisco.
 background: ""
 titleimage: https://ucarecdn.com/fe842c6b-4df5-4857-98e9-12636f8be397/
 program: null
