@@ -257,20 +257,28 @@ board:
       image: https://ucarecdn.com/8d6f8940-0c65-481c-ae39-131ce879a0dc/
     - name: Evren Odcikin
       image: https://ucarecdn.com/c295cb69-4043-41ea-92c8-0d2e49e3627b/
-      bio: >-
-        **EVREN ODCIKIN** *(he/him)* is a Turkish-American director, writer, and
-        arts leader based in New York City and San Francisco. He is a celebrated
-        champion of historically-excluded voices in the American theater through
-        work that is heart-centered, politically engaged, globally minded, and
+      bio: "**Evren Odcikin** *(he/him)* is a Turkish-American director, writer, and
+        arts leader based in NYC and San Francisco. He is a celebrated champion
+        of historically-excluded voices in the American theater through work
+        that is heart-centered, politically engaged, globally minded, and
         centers joy as resistance. He is committed to building his work with and
-        for the communities it represents. He brings 20+ years of experience
-        with artistic leadership and administration, marketing and
-        communications, and fundraising at major non-profits like Oregon
-        Shakespeare Festival, KQED, American Conservatory Theater, and Magic
-        Theatre.
-
-
-        He is excited to be back home with Golden Thread in this new capacity -- having served on the staff as Director of New Works, as an affiliated artist, and most recently as the proud 2024-25 Artist in Residence.** [odcikin.com](https://www.odcikin.com/)**
+        for the communities it represents. Directing: Soho Rep, PlayCo, Woolly
+        Mammoth, A.R.T., Guthrie Theatre, Oregon Shakespeare Festival, Marin
+        Theatre, Portland Center Stage, Geva Theatre, Northern Stage, Berkeley
+        Rep, Prague Shakes, Marin Shakes, Utah Shakes, Playwrights’ Center,
+        Playwrights Foundation, and Golden Thread Productions, amongst others.
+        As a playwright and translator, he’s received commissions, workshops,
+        and productions from Cal Shakes, NYU Abu Dhabi, Golden Thread, Crowded
+        Fire, and Custom Made. Evren served as the Interim Artistic Director at
+        Oregon Shakespeare Festival in 2023, where he was Associate Artistic
+        Director and Director of Artistic Programming from 2019-2023. Evren’s
+        work has been supported by the Rainin Foundation, Zellerbach
+        Foundation,  San Francisco Arts Commission, National Directing
+        Fellowship, Theatre Bay Area’s TITAN Award, and he has previously been
+        an Iris Lab Fellow at UC Santa Cruz and an Artist-in-Residence at Golden
+        Thread Productions. He serves on the boards of MENA Theater Makers
+        Alliance and Golden Thread Productions.
+        [odcikin.com](https://www.odcikin.com/)"
       link: ""
     - bio: <strong>Babak Sani</strong> *(he/him)* has been practicing intellectual
         property law since 1992. Prior to that, he had an engineering career in
@@ -292,8 +300,33 @@ board:
       image: /img/archive/2018/03/Babak-Sani-300x300.jpg
       name: Babak Sani
       credit: ""
+    - bio: "**Matthew Spangler** *(he/him)* is a playwright and scholar. His plays
+        have been produced on Broadway, in London’s West End, off-Broadway, at
+        the Kennedy Center, Dubai Opera House, Dublin Theatre Festival, Carthage
+        Theatre Festival in Tunisia, and at many theatres worldwide. Plays
+        include: *The Kite Runner* from the novel by Khaled Hosseini; *Cowboys
+        and East Indians* co-written with Nina McConigley; *The Beekeeper of
+        Aleppo* co-written with Nesrin Alrefaai from the novel by Christy
+        Lefteri; *The Kingdom of Cards* co-written with Sukanya Chakrabarti from
+        the play by Rabindranath Tagore; *Albatross* co-written with Benjamin
+        Evett based on Samuel Taylor Coleridge’s “The Rime of the Ancient
+        Mariner”; *Operation Ajax* co-written with Farshad Farahat about the CIA
+        / MI6 coup in Iran; *The Story of Zahra* co-written with Raeda Ghazaleh
+        from the novel by Hanan al-Shaykh; *Striking Back* co-written with
+        Kellie Hughes based on the book by Mary Manning and Sinead O’Brien; *The
+        Forgotten Empress* co-written with Farah Yasmeen Shaikh; and *Tortilla
+        Curtain* from the novel by T.C. Boyle. His books include: *Staging
+        Intercultural Ireland: New Plays and Practitioner Perspectives* (Cork
+        University Press), and *The Playboy of the Western World – A New
+        Version* (Syracuse University Press). Matthew is Professor of
+        Performance Studies and Director of the School of Film, Theatre, and
+        Dance at San José State University in California and Writer in Residence
+        at the Hinterland Festival in Kells, Ireland.
+        [matthewspangler.org](https://www.matthewspangler.org/)"
+      name: Matthew Spangler
+      image: https://ucarecdn.com/1c7c2a1f-6db0-47a7-88f5-dc6a5ab6bedb/
 artists:
-  heading: Affilliated Artists
+  heading: Affiliated Artists
   items:
     - bio: '<strong>HASSAN ABDULRAZZAK (Resident Artist / Playwright)</strong> is of
         Iraqi origin, born in Prague and living in London. His plays include
