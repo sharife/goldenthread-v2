@@ -5,9 +5,11 @@ description: ReOrient 2019 cements Golden Thread Productions' longtime working
   relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
 background: https://ucarecdn.com/1f5ad9ba-04be-40fa-b8d2-62de0fe6462c/
 ---
+### b﻿y Michael Malek Najjar
+
 *This article is written by Michael Malek Najjar, a team member of the second partnership between Golden Thread and* *[Literary Managers and Dramaturgs of the Americas](https://lmda.org/). As a ReOrient Publications Dramaturg, Malek spoke with ReOrient playwrights Yussef El Guindi (Brass Knuckles), Betty Shamieh (An Echo of Laughter) and Naomi Wallace (The Book of Mima) to discuss their longtime histories with ReOrient & Golden Thread and their playwriting careers centered on the Middle East.*
 
-***MICHAEL MALEK NAJJAR** (PhD, MFA) is an Associate Professor of Theatre Arts with the University of Oregon. He is also a professional director whose recent works include Zafira and the Resistance (New Arab American Theatre Works at the Guthrie Theatre, co-directed with Zeina Salame), Scenes from 71* Years (Golden Thread Productions), and Pilgrims Musa and Sheri in the New World (The Very Little Theatre). Malek teaches directing and dramaturgy at the University of Oregon.*
+**MICHAEL MALEK NAJJAR** (PhD, MFA) is an Associate Professor of Theatre Arts with the University of Oregon. He is also a professional director whose recent works include Zafira and the Resistance (New Arab American Theatre Works at the Guthrie Theatre, co-directed with Zeina Salame), Scenes from 71 *Years (Golden Thread Productions), and Pilgrims Musa and Sheri in the New World (The Very Little Theatre). Malek teaches directing and dramaturgy at the University of Oregon.*
 
 ![](https://ucarecdn.com/a17a81db-1e2a-4a7d-ae46-3628f7712baf/)
 
@@ -17,7 +19,7 @@ Their three plays chosen this year—El Guindi’s *Brass Knuckles*, Shamieh’s
 
 For El Guindi, having his works produced at Golden Thread is valuable because the productions there validated his voice as a playwright, and told him that the stories he had to tell were important. When El Guindi began as a young artist, there was no “Middle Eastern” theatre where his work could be produced. “I had stories with Middle Eastern themes to tell,” he says, “but felt inhibited to tell them because I knew they’d be a hard sell.” This led to El Guindi doubting the worthiness of his own voice. El Guindi believes that his cultural identity as an Egyptian-American immigrant is his subject matter, and that his journey as an Arab and Muslim immigrant informs his storytelling. “It’s not about choosing, but simply letting the stories out,” El Guindi says. “The challenge lies in persuading theatres that these stories are as relevant to their audiences as any other play they choose to program in their season.” El Guindi contacted Golden Thread in the late ‘90s and received an immediate and positive response from Founding Artistic Director Torange Yeghiazarian. His adaptation of Chekhov’s short play *The Marriage Proposal* (in an Arab American setting) along with his short play *Three Stops* were both accepted and produced in ReOrient 2001. 
 
-![](https://ucarecdn.com/08c9e979-d3fc-4500-aa44-e5a9976aa2eb/ "James Asher, below, and Paul Santiago in a 2005 production of Yussef El Guindi's \"Back of the Throat.\" Photo by Farzad Mohr.")
+![](https://ucarecdn.com/08c9e979-d3fc-4500-aa44-e5a9976aa2eb/ "James Asher, below, and Paul Santiago in a 2005 production of Yussef El Guindi's \\"Back of the Throat.\\" Photo by Farzad Mohr.")
 
 **James Asher and Paul Santiago in a 2005 production of Yussef El Guindi's *Back of the Throat*. // Photo by Farzad Mohr**
 
@@ -27,7 +29,7 @@ Ironically, after 9 / 11 many large theatre institutions became curious about th
 
 For Shamieh, Golden Thread has also been a major influence in her life, having grown up in the Bay Area. “I focused on theatre early in my career (as opposed to other forms of writing) because I love the opportunity to collaborate with a group of committed artists on a common goal of creating the most exciting theatre that we collectively can.” She had her first experience working with Golden Thread in ReOrient 2002, when they produced her play, *Tamam* (also restaged in the 10th Anniversary of ReOrient). The play started as a monologue, but later evolved into a character in one of her most compelling works, *The Black Eyed*. “For many members of the Palestinian-American community in the Bay Area, who knew me primarily as an activist,” Shamieh says, “*Tamam* was the first opportunity for them to see my work as a playwright.” In addition to five ReOrient Festivals to date, Shamieh has participated in Golden Thread’s annual International Women’s Day event, and her play As Soon As Impossible was read in last year’s New Threads Reading Series. Shamieh appreciates Golden Thread’s commitment to highlight the large variety of voices from the Middle East and the diaspora. She recalls, “Many folks still mention how seeing the Golden Thread production of *Tamam* was their first opportunity to hear a Palestinian voice onstage.” 
 
-![](https://ucarecdn.com/7a4f5640-c9cf-45ac-b05a-ce8506eb88a1/ "Claudia Rosa and Shaudy Danaye Elmi in the 2010 production of Betty Shamieh's \"Tamam.\" Photo by Farzad Mohr.")
+![](https://ucarecdn.com/7a4f5640-c9cf-45ac-b05a-ce8506eb88a1/ "Claudia Rosa and Shaudy Danaye Elmi in the 2010 production of Betty Shamieh's \\"Tamam.\\" Photo by Farzad Mohr.")
 
 **Claudia Rosa and Shaudy Danaye Elmi in the 2010 production of Betty Shamieh's *Tamam*. // Photo by Farzad Mohr**
 
@@ -37,7 +39,7 @@ This year’s ReOrient play, *An Echo of Laughter*, was originally commissioned 
 
 Naomi Wallace has been a potent voice in American theatre for decades, and her focus on stories from the Middle East is well known by theatre goers. Her stunning plays *In the Heart of America, The Fever Chart: Three Visions of the Middle East,* and *Twenty One Positions: A Cartographic Dream of the Middle East* (co-written with Abdelfattah Abusrour and Lisa Schlesinger), are powerful meditations on topics ranging from the U.S. invasion of Iraq to the Israeli-Palestinian conflict. She also co-edited the anthology *Inside/Outside: Six Plays from Palestine and the Diaspora* with Palestinian-American playwright Ismail Khalidi. Although Wallace is not of Middle Eastern descent, she has travelled to several countries in the region. She is also a strident critic of U.S. foreign policy in the Middle East. “I can’t remember when thinking and/or visioning the Middle East, and U.S. interference there, was not part of my imagination,” she says. Her plays focus on the interconnected nature of U.S.-Middle East relations. “I often travel to these countries in my imagination, but that’s with an imagination informed, deeply informed I hope, by the writings of authors from that area, historians who work outside the mainstream interpretations of ‘us’ and ‘them.’” 
 
-![](https://ucarecdn.com/d5a548bc-2d3c-4110-bfb3-0a8b7e9c854c/ "Nora El Samahy, Sara Razavi and Basel Naffouri in the world premiere of Naomi Wallace's \"No Such Cold Thing.\" Photo by Gohar Barseghyan.")
+![](https://ucarecdn.com/d5a548bc-2d3c-4110-bfb3-0a8b7e9c854c/ "Nora El Samahy, Sara Razavi and Basel Naffouri in the world premiere of Naomi Wallace's \\"No Such Cold Thing.\\" Photo by Gohar Barseghyan.")
 
 **Nora El Samahy, Sara Razavi and Basel Naffouri in the world premiere of Naomi Wallace's *No Such Cold Thing*. // Photo by Gohar Barseghyan**
 
