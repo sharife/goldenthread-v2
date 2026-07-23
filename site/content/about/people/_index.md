@@ -181,6 +181,41 @@ staff:
 board:
   heading: Board of Trustees
   items:
+    - bio: >-
+        **Selma Abinader** *(she/her)* is a facilitator, government and
+        community consultant, an artist and
+
+        a first generation Arab American of Lebanese background. That identity has shaped everything
+
+        about how I move through the world — the stories I carry, the language that lives in me, and
+
+        the deep knowing that culture is not background. It is the ground I stand on. 
+
+        I founded Abinader Group in Oakland in 2002 and for more than two decades I have partnered
+
+        with over 300 nonprofits, government agencies, and community organizations to help them
+
+        engage their people, build collaborative capacity, and create lasting change.
+
+        I believe every voice in the room matters — and that belief was formed long before this work
+
+        began. It was formed around a table, listening to my family tell stories in two languages--
+
+        learning early that meaning is shaped as much by who is heard as in what is told.
+
+        The understanding that culture is not a backdrop to be managed, but a living force that must be
+
+        honored, engaged, and given room to speak has shaped both my consulting work and my
+
+        creative practice
+
+        Middle Eastern theatre speaks directly to that part of me — to the belief that our stories
+
+        deserve to be told with rigor, complexity, and care. I bring both my professional experience and
+
+        my artistic practice to the table here; in service of a mission I recognize as my own.
+      name: Selma Abinader
+      image: https://ucarecdn.com/2cef4953-a802-46fd-b10c-0c58b35ee96f/
     - name: "Nancy Chemaly "
       image: https://ucarecdn.com/fe9ca78a-d6fa-4162-b9e0-ff0a3e780a88/
       bio: >-
