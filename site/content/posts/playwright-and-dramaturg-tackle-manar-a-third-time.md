@@ -9,7 +9,8 @@ date: 2026-07-22T22:17:53.838Z
 **ABOUT ANNA WOODRUFF**\
 Anna Woodruff is a dramaturg based in New York City who focuses on new play development. She is an M.F.A. candidate in Dramaturgy at Columbia University, and a member of LMDA. She has worked at the Lark Play Development Center, American Conservatory Theater, Soho Rep., and Roundabout Theatre Company. She also teaches at the Professional Performing Arts School in Manhattan.
 
-![Melis Aker and Anna Woodruff. Photo by Ralph Prete.](/img/archive/2017/12/Melis-Anna-big.jpg) 
+![Melis Aker and Anna Woodruff.](https://ucarecdn.com/6f76d35f-1067-4485-8c3b-dbea1579a000/ "Melis Aker and Anna Woodruff.")
+
 Melis Aker and Anna Woodruff are both third year students at Columbia’s School of the Arts. Melis is getting her M.F.A. in Playwriting and Anna, her M.F.A. in Dramaturgy. Melis is a playwright as well as an actor and musician from Turkey. She attended Royal Academy of Dramatic Art for acting, and Tufts University for her B.A. in Drama and Philosophy. Anna is a dramaturg, specifically interested in new play development. Originally from New Haven, Connecticut, Anna attended the University of Connecticut where she got her B.A. in Theatre Studies focusing on Dramaturgy. Melis and Anna attended Golden Thread’s ReOrient 2017 Camp, the workshop weekend held at USF, in preparation for the production of *Manar* in this year’s ReOrient Festival. 
 
 **Melis:** This is our third collaboration as playwright and dramaturg on my play *Manar*. How did we first come together on this project?
@@ -18,7 +19,7 @@ Melis Aker and Anna Woodruff are both third year students at Columbia’s School
 
 **Melis:** I had started writing *Manar* earlier in the year for Lynn Nottage’s American Spectacle class, under the assignment “violence as spectacle.” The piece grew out of my exploration of authentic vs. fabricated memory. At the time, I was also grappling with ideas around paranoia, grief, and cultural segregation in the digital age.
 
-![The full-length version of Manar was produced by LaGuardia Performing Arts Center’s Rough Draft Festival, March 2017. Pictured: Thom Neimann, Michelle Bellaver, Layla Wolfgang, Freddie Stevenson. Photo by Juan Zapata.](/img/archive/2017/12/manar-full.jpg)
+![The full-length version of Manar was produced by LaGuardia Performing Arts Center’s Rough Draft Festival, March 2017. Pictured: Thom Neimann, Michelle Bellaver, Layla Wolfgang, Freddie Stevenson. Photo by Juan Zapata.](/img/archive/2017/12/manar-full.jpg "The full-length version of Manar was produced by LaGuardia Performing Arts Center’s Rough Draft Festival, March 2017. Pictured: Thom Neimann, Michelle Bellaver, Layla Wolfgang, Freddie Stevenson. Photo by Juan Zapata.")
 
 **Anna:** The second time we worked on *Manar* was a full-length production of the play at LaGuardia Performing Arts Center in March 2017 in their Rough Draft Festival. What made you want to expand the play, and how did you go about it?
 
@@ -26,7 +27,7 @@ Melis Aker and Anna Woodruff are both third year students at Columbia’s School
 
 **Anna:** It almost felt like we were working backwards when we revisited the play for ReOrient. Once we had locked down the structure of the full-length play, we were able to look back at the abridged version and really think about the way memory is woven into the scenes in this specific order. The abridged version of *Manar* that we’re producing in ReOrient follows A Mother, A Father, and friend Najla as they deal with the disappearance of A Son. A Mother is convinced she recognizes her son’s eyes through an ISIS execution video, while A Father denies that possibility. We observe the crux of their dysfunctional marriage, structurally and emotionally interlaced with memory scenes. It’s sort of prime dramaturgical material. Not only are we working with loaded text, beautiful dialogue that you’re writing, we have a physical language we’re creating on the stage. It forces me to constantly be asking questions to all the members of the team, including myself. When are we in a memory? When are we in present time? How do we clarify that to the audience, both physically and verbally? 
 
-![Manar actors Stephen Kanaski, Jessica Lea Risco, and Lawrence Radecker at the ReOrient 2017 Camp. Photo by Nakissa Etemad.](/img/archive/2017/12/manar-camp.jpg)
+![Manar actors Stephen Kanaski, Jessica Lea Risco, and Lawrence Radecker at the ReOrient 2017 Camp. Photo by Nakissa Etemad.](/img/archive/2017/12/manar-camp.jpg "Manar actors Stephen Kanaski, Jessica Lea Risco, and Lawrence Radecker at the ReOrient 2017 Camp. Photo by Nakissa Etemad.")
 
 **Melis:** While we were at ReOrient Camp, our director Erin Gilley had you, Anna, lead us and the cast through a fantastic exercise of reordering the play so it follows a linear timeline. This way we were able to see the cause and effect of each event and also clarify the structure that I use of fractured time and memory. It is something we as playwright and dramaturg had never thought of doing, but allowed us to understand the play at a much deeper level.
 
@@ -38,7 +39,7 @@ Melis Aker and Anna Woodruff are both third year students at Columbia’s School
 
 **Melis:** We also have the time to read scenes aloud as I write, which is really helpful during the initial writing phase, which we are in the midst of doing with this new play. It gives us the time just as playwright and dramaturg to ask questions and dig into why I’m choosing to write this play now. This is our third time with *Manar* and we are still coming up with new questions about the play. 
 
-![Costume sketch for Manar by Brooke Jennings. Photo by Michelle Mulholland.](/img/archive/2017/12/manar-costumes.jpg)
+![Costume sketch for Manar by Brooke Jennings. Photo by Michelle Mulholland.](/img/archive/2017/12/manar-costumes.jpg "Costume sketch for Manar by Brooke Jennings. Photo by Michelle Mulholland.")
 
 **Anna:** It was such a great experience to engage in these conversations at such an early point in the process at ReOrient Camp this summer. There was no fear of failing because we didn’t have the pressure of making decisions about the artistic choices in a time crunch. This really informed our choices that were made later on in the process during rehearsals, when the creative teams do end up having more time constraints. 
 
@@ -50,17 +51,4 @@ Melis Aker and Anna Woodruff are both third year students at Columbia’s School
 
 **Anna:** It’s great working with a playwright like you, Melis, because my role in this relationship is more than generating research and contextualizing your written world for our fellow collaborators. We have an exchange. An exchange that’s open enough for us to experience both mistakes and realizations, both of which are essential in the creation of art.
 
-![Anna talks with Melis at the ReOrient 2017 Camp. Photos by Nakissa Etemad.](/img/archive/2017/12/manar-three.jpg)
-
-**PHOTO CAPTIONS (In order of appearance):**
-
-Melis Aker and Anna Woodruff. Photo by Ralph Prete.
-
-The full-length version of *Manar* was produced by LaGuardia Performing Arts Center’s Rough Draft Festival, March 2017. Pictured: Thom Neimann, Michelle Bellaver, Layla Wolfgang, Freddie Stevenson. Photo by Juan Zapata.
-
-*Manar* actors Stephen Kanaski, Jessica Lea Risco, and Lawrence Radecker at the ReOrient 2017 Camp.\
-Photo by Nakissa Etemad.
-
-Costume sketch for *Manar* by Brooke Jennings. Photo by Michelle Mulholland.
-
-Anna talks with Melis at the ReOrient 2017 Camp. Photos by Nakissa Etemad.
+![Anna talks with Melis at the ReOrient 2017 Camp. Photos by Nakissa Etemad.](/img/archive/2017/12/manar-three.jpg "Anna talks with Melis at the ReOrient 2017 Camp. Photos by Nakissa Etemad.")
