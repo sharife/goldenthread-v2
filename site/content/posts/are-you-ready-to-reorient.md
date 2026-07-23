@@ -30,7 +30,7 @@ As a South Asian artist with a passion for aesthetic border-crossings, my opport
 
 Golden Thread began its ReOrient Festival of Short Plays and Forum shortly after its founding “to present alternative perspectives of the Middle East and to showcase the multiplicity of stories, voices and styles from the region.”  It has since evolved into Golden Thread’s signature program, attracting artists from across the world. In the charged political context of this past year, ReOrient 2017 Festival promises to be more engaging and relevant than ever before.
 
-![](https://ucarecdn.com/680755f2-2644-414f-a7ea-ad52a43d315a/)
+![](https://ucarecdn.com/680755f2-2644-414f-a7ea-ad52a43d315a/ "Artists at ReOrient 2017 Camp, the workshop weekend held at USF in July. Photo by Haleh Hatami.")
 
 ## **ReOrient 2017: A Sneak Peek**
 
@@ -42,7 +42,7 @@ Evren suggests artists bring their *whole* selves and their complicated relation
 
 The family of artists is energized by this rehearsal, inspired to launch into the upcoming work.
 
-![](https://ucarecdn.com/933a6f29-1e2c-4fde-be0e-dcb61ac48749/)
+![](https://ucarecdn.com/933a6f29-1e2c-4fde-be0e-dcb61ac48749/ "Mohamed Chakmakchi and Torange Yeghiazarian read War on Terror. Photo by Nakissa Etemad.  ")
 
 ## The Players
 
@@ -58,7 +58,7 @@ The exceptional seven-person ensemble, who methodically inhabit 20 roles, includ
 
 Managing Director Michelle Mulholland points out, “The ReOrient process is ongoing in the 2-year cycle. We are always taking submissions, reading plays, casting, conducting development camps, rehearsing or producing at any given time. Once the team is assembled, and it takes a big team, the ReOrient process is the same as a general production, except the process of creation requires much more cooperation. We all have to collaborate to create a cohesive experience.”
 
-![](https://ucarecdn.com/7cbffb35-61bb-44ce-9b50-6f95a6f3f230/)
+![](https://ucarecdn.com/7cbffb35-61bb-44ce-9b50-6f95a6f3f230/ "ReOrient 2017 set model by Kate Boyd. Costume sketch for War on Terror by Brooke Jennings. Photos by Michelle Mulholland.  ")
 
 ## Partnership with LMDA
 
@@ -70,7 +70,7 @@ In addition, the ReOrient dramaturgs have gathered vital research and created fa
 
 The partnership is providing three Publications Dramaturgs for ReOrient who each compose a feature article (the first of which you are reading now) on a ReOrient topic for audiences and members of both organizations to cross-promote, advocate, educate, and inspire audiences and members about this special festival and company, and the field of dramaturgy. Dramaturgs provide the resources to contextualize and deepen the understanding of ReOrient’s plays for artists and audiences.
 
-![](https://ucarecdn.com/8a7c2c78-c2ad-4c45-a5ee-104015915ca1/)
+![](https://ucarecdn.com/8a7c2c78-c2ad-4c45-a5ee-104015915ca1/ "ReOrient 2017 artists at a November rehearsal. Photo by Evren Odcikin.")
 
 ## The Work Continues
 
@@ -79,15 +79,3 @@ Golden Thread Productions has succeeded in making Middle Eastern theatre integra
 Board President Farah Bullara proclaims: “Golden Thread's work is important to me personally because I feel called to defend these artists and their work in an America that has become less tolerant of diversity and plurality. \[…] I feel as if Golden Thread's very survival is an act of resistance. Because we live in an increasingly divided America, there is a fierce urgency to the work that we do.” 
 
 Get ready to ReOrient.
-
-![](https://ucarecdn.com/aeb8e980-ca4a-4005-a1f0-583d85b674de/)
-
-**P﻿HOTO CREDITS (In order of appearance):**
-
-Artists at ReOrient 2017 Camp, the workshop weekend held at USF in July. Photo by Haleh Hatami.
-
-Mohamed Chakmakchi and Torange Yeghiazarian read War on Terror. Photo by Nakissa Etemad.
-
-ReOrient 2017 set model by Kate Boyd. Costume sketch for War on Terror by Brooke Jennings. Photos by Michelle Mulholland.
-
-ReOrient 2017 artists at a November rehearsal. Photo by Evren Odcikin.
