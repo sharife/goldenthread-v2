@@ -35,7 +35,7 @@ externallink: ""
 externallinklabel: ""
 misc: ""
 lists:
-  - heading: REORIENT FESTIVAL 2026 LINE-UP
+  - heading: ReORIENT FESTIVAL 2026 LINE-UP
     items:
       - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
         subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
