@@ -26,7 +26,7 @@ Sevan K. Greene is Lebanese-Armenian. Hannah Khalil is Palestinian-Irish. Both l
 
 I talked to Khalil and Greene about Golden Thread, lived experience, long-distance collaborations, U.S. vs. U.K. approaches, and the dangers and opportunities that come with being theatre nomads.
 
-![Sevan K. Greene in The Greene Card. Hannah Khalil, photo by Richard Saker.](/img/archive/2017/11/sevan-hannah.jpg)
+![](/img/archive/2017/11/sevan-hannah.jpg "Sevan K. Greene in The Greene Card. Hannah Khalil, photo by Richard Saker.")
 
 ***A IS FOR ALI***
 In Sevan K. Greene’s play, an Arab-American couple brainstorm names for their unborn child. It could be a simple, sweet experience – but they’re suddenly juggling massive cultural assumptions (each other’s and society’s), and second-guessing a fraught and shifting political context.
@@ -38,7 +38,7 @@ Hannah Khalil’s active exploration of censorship and resistance arose out of a
 
 It properly bloomed after ReOrient 2015, when Khalil traveled to San Francisco for the performance of her play *Bitterenders*. A panelist at the Forum talked about U.S. Civil Rights activists “rehearsing for resistance”. He had “photographs of people who were practicing on each other for bad things that might happen to them when they were doing sit-ins. How weird is that on a friendship, to be hurting someone you love as a way of arming them against what might happen in the future?” The new political context of the past year has only supercharged her neutral setting: This *could* be anywhere.
 
-![A production shot from Greene’s Nahda: five visions of an Arab awakening at Shubbak Festival 2015, Bush Theatre, London. Pictured (l to r): Waj Ali (seated), Rania Kurdi, Rosie Frascona, Nadia Lamin, Lara Sawalha, and Taghrid Choucair-Vizoso. Photo by Dalia Naber.](/img/archive/2017/11/Sevan-Production-Small.jpg)
+![](/img/archive/2017/11/Sevan-Production-Small.jpg "A production shot from Greene’s Nahda: five visions of an Arab awakening at Shubbak Festival 2015, Bush Theatre, London. Pictured (l to r): Waj Ali (seated), Rania Kurdi, Rosie Frascona, Nadia Lamin, Lara Sawalha, and Taghrid Choucair-Vizoso. Photo by Dalia Naber.")
 
 Despite their physical distance from ReOrient, neither playwright is nervous. Skype and e-mail have kept the writers connected to the ReOrient rehearsal room. Khalil has total faith in Golden Thread and director Evren Odcikin: “He understands everything about my work.... It’s astonishing, really. We come from very different backgrounds, live on different sides of the world with different cultural references and yet he totally gets it.”
 
@@ -48,7 +48,7 @@ Khalil’s and Greene’s work for this festival exists on that tightrope betwee
 
 Mobility is invigorating – and challenging. One of her plays is being translated into French, and Khalil says, “When things move, there are massive cultural sensitivities; so it’s about having access to someone who’s an expert (ideally your director or your company and your dramaturg) who are able to advise you and help you to make sure that you’re saying what you want to say in the clearest way for that particular audience. The reality is if it’s a good director and a good company with the right ethos and the right attitude, and you’ve got a good dramaturg to help you along the way.... Well, that’s the whole battle, really.”
 
-![Khalil’s play Scenes from 68\* Years at Arcola Theatre, London, 2016. Pictured (l to r): Janine Haroun, Taghrid Choucair-Vizoso, and Pinar Ogun. Photo by Ellie Kurttz. ](/img/archive/2017/11/Hannah-Production-Small.jpg)
+![](/img/archive/2017/11/Hannah-Production-Small.jpg "Khalil’s play Scenes from 68* Years at Arcola Theatre, London, 2016. Pictured (l to r): Janine Haroun, Taghrid Choucair-Vizoso, and Pinar Ogun. Photo by Ellie Kurttz. ")
 
 These U.K. artists see Golden Thread as a valuable touchstone for the international Middle Eastern theatre diaspora. They’re drawn in by the company’s openness to diversity, hard conversations, unconventional understandings of identity, and varying ideas about the narrative power of drama.
 
@@ -56,7 +56,7 @@ Khalil was impressed by her first ReOrient experience in 2015: “It’s opening
 
 Greene explains, “People expected me to write the ‘other’ narrative because I was born and raised in the Middle East and I’m a war refugee.” (He and his parents escaped Kuwait during the Gulf War and settled in Florida.) “What they tend to forget is that I’m a child of both worlds. Torange \[Yeghiazarian, Founding Artistic Director of Golden Thread] has been really great about saying, ‘Just because you’re Middle Eastern doesn’t mean we just want Arab or Armenian plays – we just want a good play of yours.’ And I thought, ‘Well yeah, this is what all theatre should be doing.’ I’m not responsible for representing the entirety of my culture or being the voice of my people. And to assume that I’m simply like a National Geographic sound bite is ridiculous.”
 
-![Khalil with Palestinian-American playwright Ismail Khalidi at their book-signing for Inside/Outside: Six Plays from Palestine and the Diaspora during the ReOrient 2015 Forum.](/img/archive/2017/11/hannah-ismail-web-e1511418590820.jpg)
+![](/img/archive/2017/11/hannah-ismail-web-e1511418590820.jpg "Khalil with Palestinian-American playwright Ismail Khalidi at their book-signing for Inside/Outside: Six Plays from Palestine and the Diaspora during the ReOrient 2015 Forum.")
 
 Khalil’s writing has been both praised and criticized by Palestinians: “Often people want to see more violence in my work. But that’s not what I’m about and I don’t think that’s what theatre’s about.”  She adds, “Writing about this part of the world is a very courageous act. You know that there will be scrutiny. Try and not worry about what other people will think or say because then there is self-censorship. We’ve got enough censorship of other kinds, with people not putting on our work, without us having to put that on ourselves as well.”
 
@@ -67,15 +67,3 @@ Both of their plays, *A is for Ali* and *The Rehearsal*, point toward an uncerta
 Greene wants writers and producers to be “brave enough about pursuing what the future potential narrative is, in light of everything that’s happening now.” For him, theatre artists and institutions all “have a responsibility to train and retrain audiences and to fight against the media’s theatre of terrorism. We can’t become unwilling accomplices – or unwitting accomplices.”
 
 Khalil talked enthusiastically about a group of Arab and diaspora theatre-makers beginning to connect in London, being in the room together, talking about challenges and possibilities: “There is definitely a community and it’s growing all the time. There’s some really talented human beings out there. The future is rosy in terms of that. It’s only going to gain strength.”
-
-![](https://ucarecdn.com/b0e7b231-db8e-4acb-9c08-c03132d52d78/)
-
-**PHOTO CREDITS (in order of appearance):**
-
-Sevan K. Greene in *The Greene Card*. Hannah Khalil, photo by Richard Saker.
-
-A production shot from Greene’s *Nahda: five visions of an Arab awakening* at Shubbak Festival 2015, Bush Theatre, London. Pictured (l to r): Waj Ali (seated), Rania Kurdi, Rosie Frascona, Nadia Lamin, Lara Sawalha, and Taghrid Choucair-Vizoso. Photo by Dalia Naber.
-
-Khalil’s play *Scenes from 68* Years* at Arcola Theatre, London, 2016. Pictured (l to r): Janine Harouni, Taghrid Choucair-Vizoso, and Pinar Ogun. Photo by Ellie Kurttz.
-
-Khalil with Palestinian-American playwright Ismail Khalidi at their book-signing for *Inside/Outside: Six Plays from Palestine and the Diaspora* during the ReOrient 2015 Forum.
