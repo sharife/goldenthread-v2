@@ -44,34 +44,7 @@ misc: >
   [boxoffice@goldenthread.org](mailto:boxoffice@goldenthread.org) to place your
   order.
 lists:
-  - heading: Middle Eastern and North African American Theatre Artists Convening
-    items:
-      - cta: Registration Info
-        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE
-        title: November 9 & 10, 2019
-        pre: ""
-        subtitle: MENA & Muslim Artists Affinity Work Sessions
-        text: >-
-          Golden Thread Productions is thrilled to host a gathering of Middle
-          Eastern, North African, and Muslim theatre artists during the ReOrient
-          Festival. Building on years of community organizing, our partnership
-          with Silk Road Rising (Chicago) and The Lark (New York), and new
-          alliances with Art2Action (Tampa), Noor Theater (New York), and Boom
-          Arts (Portland), we will show up to meet each other, network, and
-          strategize on how to increase our community’s visibility, amplify our
-          voices, and deepen the impact of our work.
-
-
-          Registration is free, but advanced registration is strongly encouraged to secure your space. Walk-up registration will be available on site, space permitting. Also, Golden Thread has secured a limited number of discounted hotel rooms during the Convening. Click here for more info and reservation links. This offer expires October 13.
-
-
-          **For more information and a full schedule, click** [**here**](https://goldenthread.org/posts/reorient-2019-national-convening-of-mena-theatre-artists/)**.**
-
-
-          **For hotel discounts during the convening, click** [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
-        itemstart: 2021-01-18T01:50:22.591Z
-        itemend: 2021-01-18T01:50:22.694Z
-  - heading: REORIENT 2019 LINE-UP
+  - heading: ReOrient 2019 Line-Up
     items:
       - image: /img/archive/2018/02/ElGuindi-Yussef-300x300.jpg
         subtitle: by Yussef El Guindi, directed by Torange Yeghiazarian
@@ -226,35 +199,75 @@ lists:
           The Book of Mima
         itemstart: 2021-01-18T01:50:24.213Z
         itemend: 2021-01-18T01:50:24.316Z
-grids:
+  - heading: Middle Eastern and North African American Theatre Artists Convening
+    items:
+      - cta: Registration Info
+        link: https://goldenthread.secure.force.com/ticket/#/events/a0S3Z000006fS5yUAE
+        title: November 9 & 10, 2019
+        pre: ""
+        subtitle: MENA & Muslim Artists Affinity Work Sessions
+        text: >-
+          Golden Thread Productions is thrilled to host a gathering of Middle
+          Eastern, North African, and Muslim theatre artists during the ReOrient
+          Festival. Building on years of community organizing, our partnership
+          with Silk Road Rising (Chicago) and The Lark (New York), and new
+          alliances with Art2Action (Tampa), Noor Theater (New York), and Boom
+          Arts (Portland), we will show up to meet each other, network, and
+          strategize on how to increase our community’s visibility, amplify our
+          voices, and deepen the impact of our work.
+
+
+          Registration is free, but advanced registration is strongly encouraged to secure your space. Walk-up registration will be available on site, space permitting. Also, Golden Thread has secured a limited number of discounted hotel rooms during the Convening. Click here for more info and reservation links. This offer expires October 13.
+
+
+          **For more information and a full schedule, click** [**here**](https://goldenthread.org/posts/reorient-2019-national-convening-of-mena-theatre-artists/)**.**
+
+
+          **For hotel discounts during the convening, click** [**here**](https://goldenthread.org/posts/reorient-2019-mena-convening-discounted-hotel-rates/)**.**
+        itemstart: 2021-01-18T01:50:22.591Z
+        itemend: 2021-01-18T01:50:22.694Z
   - heading: LMDA Partnership
     items:
-      - cta: Read more
-        image: https://ucarecdn.com/d3df5a98-71d9-4917-a2c6-a3ffe7994e2d/
-        link: https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
-        subtitle: ""
+      - itemstart: 2026-07-23T11:23:26.116Z
+        itemend: 2026-07-23T11:23:26.140Z
+        image: https://ucarecdn.com/bb5aa6aa-0b61-485c-967b-23c1b3ab4ebc/
+        text: This year’s ReOrient Festival marks our second collaboration with
+          the [Literary Managers and Dramaturgs of the Americas
+          (LMDA)](https://lmda.org/). The partnership brings together two
+          organizations that value challenging cultural preconceptions through
+          provocative programming and dialogue. Curated by LMDA’s Regional VP
+          Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad, LMDA is
+          providing a team of Dramaturgs to aid the playwrights in script
+          development, provide contextual information, and write feature
+          articles that peek behind-the-scenes of ReOrient. In addition to
+          Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy
+          Team includes Emily DeDakis, Laura Espino, Scott Horstein, and Michael
+          Malek Najjar.
+      - itemstart: 2026-07-23T11:23:51.054Z
+        itemend: 2026-07-23T11:23:51.079Z
+        title: A Homecoming for Golden Thread Alumni
         text: This year's festival cements Golden Thread Productions’ longtime working
           relationships with Yussef El Guindi, Betty Shamieh, and Naomi Wallace.
-        title: A Homecoming for Golden Thread Alumni
-        itemstart: 2021-01-18T01:50:24.552Z
-        itemend: 2021-01-18T01:50:24.623Z
-      - cta: Read more
-        image: https://ucarecdn.com/0d965797-dbcc-4383-8c2f-fce16d108a72/
-        link: https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/
+        image: https://ucarecdn.com/52862c09-87e6-45cf-a21c-5030b7e968d0/
+        link: https://goldenthread.org/posts/reorient-2019-a-homecoming-for-golden-thread-alumni/
+        cta: Read the article
+      - itemstart: 2026-07-23T11:24:28.063Z
+        itemend: 2026-07-23T11:24:28.084Z
+        title: Brave New Voices in ReOrient 2019
         text: Meet four writers who are brand-new to the festival, all clearly at home
           in ReOrient, celebrating its 20th anniversary this year.
-        title: Brave New Voices in ReOrient 2019
-        itemstart: 2021-01-18T01:50:24.691Z
-        itemend: 2021-01-18T01:50:24.775Z
-      - cta: Read more
-        image: https://ucarecdn.com/8dcc4278-3507-4421-acd8-9f263386f0c7/-/crop/3500x2369/0,253/-/preview/
-        link: https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
-        subtitle: ""
+        image: https://ucarecdn.com/777f1bd6-b0fd-441f-9b9d-fb8185acfffa/
+        cta: Read the article
+        link: https://goldenthread.org/posts/brave-new-voices-in-reorient-2019/
+      - itemstart: 2026-07-23T11:25:07.912Z
+        itemend: 2026-07-23T11:25:07.938Z
+        title: Weaving the Golden Thread at ReOrient 2019 Camp
         text: The twentieth anniversary of the ReOrient Festival of Short Plays began
           with an incubation weekend that Golden Thread calls “ReOrient Camp.”
-        title: Weaving the Golden Thread at ReOrient 2019 Camp
-        itemstart: 2021-01-18T01:50:24.885Z
-        itemend: 2021-01-18T01:50:24.971Z
+        cta: Read the article
+        link: https://goldenthread.org/posts/weaving-the-golden-thread-at-reorient-2019-camp/
+        image: https://ucarecdn.com/9b2d60c9-3193-43f8-93ee-a7121533e630/
+grids: []
 cast:
   heading: REORIENT 2019 HONORARY MENTIONS
   items:
@@ -310,6 +323,4 @@ bottom:
     The selection committee for ReOrient 2019 included <strong>Nora el Samahy </strong> (Actor), <strong>Rebecca Novick</strong> (Director), <strong>Handan Ozbilgin </strong>(Associate Artistic Director, LaGuardia Performing Arts Center), and <strong>Roberto Gutierrez Varea</strong> (Professor, University of San Francisco, Performing Arts and Social Justice Program). Golden Thread Founding Artistic Director <strong>Torange Yeghiazarian</strong>, Director of New Plays <strong>Evren Odcikin</strong>, and Literary Associate <strong>Hala Baki</strong> were also part of the committee.<br /><br />
   heading: Thanks to our generous sponsors of ReOrient 2019
 ---
-![](https://ucarecdn.com/a6c035a7-09ab-4d46-8c5e-c440bf2bdcd0/)
-
-This year’s ReOrient Festival marks our second collaboration with the [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/). The partnership brings together two organizations that value challenging cultural preconceptions through provocative programming and dialogue. Curated by LMDA’s Regional VP Metro Bay Area and Festival Lead Dramaturg Nakissa Etemad, LMDA is providing a team of Dramaturgs to aid the playwrights in script development, provide contextual information, and write feature articles that peek behind-the-scenes of ReOrient. In addition to Golden Thread resident artist Nakissa Etemad, this year’s Dramaturgy Team includes Emily DeDakis, Laura Espino, Scott Horstein, and Michael Malek Najjar.
+![]()
