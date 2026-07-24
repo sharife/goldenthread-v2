@@ -97,7 +97,7 @@ cast:
   heading: ""
   items: []
 mentions:
-  heading: ReOrient 2026 Honorary Mentions
+  heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
     Golden Thread celebrates these three exceptional plays and writers:
 
