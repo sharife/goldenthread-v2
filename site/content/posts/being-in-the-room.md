@@ -29,11 +29,13 @@ I talked to Khalil and Greene about Golden Thread, lived experience, long-distan
 ![](/img/archive/2017/11/sevan-hannah.jpg "Sevan K. Greene in The Greene Card. Hannah Khalil, photo by Richard Saker.")
 
 ***A IS FOR ALI***
+
 In Sevan K. Greene’s play, an Arab-American couple brainstorm names for their unborn child. It could be a simple, sweet experience – but they’re suddenly juggling massive cultural assumptions (each other’s and society’s), and second-guessing a fraught and shifting political context.
 
 Names affect how we inhabit the world – perhaps even how successful we are, or how safe. Greene squirmed through childhood with a name he didn’t like: “When I became an actor in New York,” he said, “I changed it when I got my Equity card. A: Nobody could pronounce it properly. B: I didn’t want to be pigeonholed as a certain character.” The thorny decision to change his name is inextricably linked with his identity as an artist, and also fed into his full-length play *The Greene Card* (2014). “My name shouldn’t have to be unpronounceable for you to think that I’m an artist of color,” he said. “I’m already a war refugee and a foreigner – what more do you want?” The characters in *A is for Ali*, he points out, “don’t have accents. They’re not first-generation Arab. For all intents and purposes, they’re having a very domestic conversation that a lot of couples do. The difference is I’m re-clarifying and subverting the traditional narrative.”
 
 ***THE REHEARSAL***
+
 Hannah Khalil’s active exploration of censorship and resistance arose out of an anecdote from Egyptian playwright Laila Soliman. Soliman said that in Egypt companies almost had to have two versions of the play – the actual script, and the one they’d veer to in case of a visit by government censors. “It’s so weird and so theatrical,” Khalil said, “the idea of the façade and the play within the play. That seed just grew and grew and grew in my mind.”
 
 It properly bloomed after ReOrient 2015, when Khalil traveled to San Francisco for the performance of her play *Bitterenders*. A panelist at the Forum talked about U.S. Civil Rights activists “rehearsing for resistance”. He had “photographs of people who were practicing on each other for bad things that might happen to them when they were doing sit-ins. How weird is that on a friendship, to be hurting someone you love as a way of arming them against what might happen in the future?” The new political context of the past year has only supercharged her neutral setting: This *could* be anywhere.
