@@ -256,7 +256,7 @@ grids:
         itemstart: 2026-07-22T12:39:32.335Z
         itemend: 2026-07-22T12:39:32.365Z
 cast:
-  heading: REORIENT 2017 HONORARY MENTIONS
+  heading: ReORIENT 2017 HONORARY MENTIONS
   items:
     - text: ""
       bio: ""
