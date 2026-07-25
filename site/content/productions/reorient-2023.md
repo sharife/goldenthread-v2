@@ -36,7 +36,7 @@ externallinklabel: View the Digital Program
 misc: "Six short plays, presented as one evening of theatre. Run time: 2h 15m,
   plus intermission"
 lists:
-  - heading: REORIENT FESTIVAL 2023 LINE-UP
+  - heading: ReORIENT FESTIVAL 2023 LINE-UP
     items:
       - itemstart: 2023-10-13T02:13:16.860Z
         itemend: 2023-10-13T02:13:16.891Z
@@ -131,7 +131,7 @@ lists:
         title: ReOrient 2023 Festival Celebrates a Resilient Return Under Sahar Assaf
         image: https://ucarecdn.com/eac2683b-5825-4616-b6bf-89a6b062634d/
     heading: LMDA PARTNERSHIP
-  - heading: MENATMA Convening
+  - heading: MENATMA CONVENING
     items:
       - itemstart: 2023-09-15T02:03:28.838Z
         itemend: 2023-09-15T02:03:28.872Z
@@ -653,13 +653,13 @@ cast:
         power, and care."
       image: https://ucarecdn.com/7e3c7030-812a-41bf-84f6-1d76a343927f/-/crop/759x936/0,77/-/preview/
 mentions:
-  heading: REORIENT 2023 HONORARY MENTIONS
+  heading: ReORIENT 2023 HONORARY MENTIONS
   text: |-
     Mehrnaz Tiv, *Mr. Perfect Isn't Persian* 
 
     Rita Akroush, *65 Joules*
 photos:
-  heading: "Photo Gallery: production"
+  heading: PRODUCTION PHOTOS
   items:
     - image: https://ucarecdn.com/b3a773d8-2318-4d26-b6f0-9a7929632848/
     - image: https://ucarecdn.com/0d7c2cdd-878f-4e8a-ba30-d2859476671c/
@@ -677,7 +677,7 @@ photos:
     - image: https://ucarecdn.com/4fb73bde-3927-4d46-86d1-bfb8770699d8/
     - image: https://ucarecdn.com/ec26b826-958d-41b2-bac7-efb112ea17b1/
 photos2:
-  heading: "Photo Gallery: publicity"
+  heading: PUBLICITY PHOTOS
   items:
     - image: https://ucarecdn.com/14461c0d-7051-4831-b3ba-7bd76759333e/
     - image: https://ucarecdn.com/a2141dbd-2a8e-4bf6-aabc-cc2444c6b2ed/
@@ -686,7 +686,7 @@ photos2:
     - image: https://ucarecdn.com/38c194db-79ef-40e4-af40-dae17d52fbb1/
     - image: https://ucarecdn.com/1961dc37-7ae0-462c-a007-f9c95265ff34/
 photos3:
-  heading: "It Takes a Village! "
+  heading: BEHIND THE SCENES PHOTOS
   items:
     - image: https://ucarecdn.com/a55c3ac7-e479-43e0-9d96-2e46b6210279/
     - image: https://ucarecdn.com/45deb46f-5a39-475d-912a-f9a1e5e151b7/
