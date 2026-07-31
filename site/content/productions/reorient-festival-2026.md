@@ -101,7 +101,7 @@ mentions:
   text: |-
     Golden Thread celebrates these three exceptional plays and writers:
 
-    *Sanctuary* by Alissa Haddad-Chin\
+    *Sanctuary* by Alyssa Haddad-Chin\
     *In Line of Fire* by Motasem Abu Hasan \
     *The Eye of the Needle* by Jacob Kader
 photos:
