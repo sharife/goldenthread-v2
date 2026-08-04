@@ -21,7 +21,8 @@ program: null
 videos: []
 writer: Hassan Abdulrazzak, Banafsheh Hassani, Sepehr Jafari, Hannah Khalil, and
   Ahmed Masoud
-director: " Wynne Chan, Nabra Nelson, Salim Razawi, and Torange Yeghiazarian"
+director: " Salim Razawi, Nabra Nelson, Torange Yeghiazarian, Wynne Chan, and
+  Nick McDow Musleh"
 featuring: ""
 designteam: ""
 dramaturg: ""
@@ -29,16 +30,20 @@ additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
-ticketlink: ""
-ticketinfo: ""
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF
+ticketinfo: Tickets start at $30, or $20 for previews. No one is turned away for
+  lack of funds.
 externallink: ""
 externallinklabel: ""
-misc: ""
+misc: Show runs 2 hrs 30 mins, including a 10 min intermission
 lists:
   - heading: ReORIENT 2026 FESTIVAL LINE-UP
     items:
       - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
-        subtitle: by **Hassan Abdulrazzak** (London-based, Iraq)
+        subtitle: |-
+          by **Hassan Abdulrazzak** (London-based, Iraq)\
+          directed by **Salim Razawi**\
+          dramaturgy by **Nakissa Etemad**
         text: A hard-hitting play by artistic affiliate Hassan Abdulrazzak (*Love Bombs
           and Apples*), *Dare Not Speak* focuses on a young child, murdered in a
           genocide, as she pitches her story to a theater artistic director who
@@ -47,7 +52,9 @@ lists:
         itemstart: ""
         itemend: ""
       - image: https://ucarecdn.com/e583b8fd-7a6e-4f4d-9e72-263c88df55e6/
-        subtitle: by **Banafsheh Hassani** (Montreal-based, Iran)
+        subtitle: |-
+          by **Banafsheh Hassani** (Montreal-based, Iran)\
+          directed by **Nabra Nelson**
         text: A new solo show Inspired by a true story, the classic Greek tragedy of
           Antigone, war photography, fleeting memories, a revolution, state
           propaganda, a song she sang, and cringe diaspora poetry where “every
@@ -56,7 +63,10 @@ lists:
         itemstart: ""
         itemend: ""
       - image: https://ucarecdn.com/2a0da581-79c2-4a21-bfd5-03413194c5ed/
-        subtitle: by **Sepehr Jafari** (Bay Area-based, Iran)
+        subtitle: |-
+          by **Sepehr Jafari** (Bay Area-based, Iran)\
+          directed by **Torange Yeghiazarian**\
+          dramaturgy by **Nakissa Etemad**
         text: Two friends develop a weekly ritual of attending the Iranian diaspora
           protests in San Francisco every weekend, to try to prevent their
           countrymen from being executed in the Islamic Republic prisons. But
@@ -67,7 +77,10 @@ lists:
         itemstart: ""
         itemend: ""
       - image: https://ucarecdn.com/4de80594-ec03-4457-8ef1-e1d03a186768/
-        subtitle: by **Hannah Khalil** (London-based, Palestine/Ireland)
+        subtitle: |-
+          by **Hannah Khalil** (London-based, Palestine/Ireland)\
+          directed by **Wynne Chan**\
+          dramaturgy by **Nakissa Etemad**
         text: "*Blood Fruit* tells the true story of Mary Manning, a young shop worker
           in 1980s Dublin who refused to handle South African grapefruits and
           convinced her co-workers to strike to protest the Apartheid regime.
@@ -78,7 +91,10 @@ lists:
         itemstart: ""
         itemend: ""
       - image: https://ucarecdn.com/06a93e17-6d9d-472d-95fa-c3aa191180f6/
-        subtitle: by **Ahmed Masoud** (London-based, Gaza, Palestine)
+        subtitle: |-
+          by **Ahmed Masoud** (London-based, Gaza, Palestine)\
+          directed by **Nick McDow Musleh**\
+          dramaturgy by **Marina Johnson**
         text: Award-winning writer and director Ahmed Masoud brings to life surprisingly
           funny and boldly human stories about four young people in Palestine
           and Israel. Thirteen-year-old Thaer is on a boat in the waters between
