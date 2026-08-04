@@ -31,7 +31,8 @@ stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
 ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0S3Z000006tecYUAQ
-ticketinfo: ""
+ticketinfo: Tickets start at $30, or $20 for previews. No one is turned away for
+  lack of funds.
 externallink: ""
 externallinklabel: ""
 misc: ""
