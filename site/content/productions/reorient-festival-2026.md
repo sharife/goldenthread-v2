@@ -35,7 +35,7 @@ ticketinfo: Tickets start at $30, or $20 for previews. No one is turned away for
   lack of funds.
 externallink: ""
 externallinklabel: ""
-misc: ""
+misc: Show runs 2 hrs 30 mins, including a 10 min intermission
 lists:
   - heading: ReORIENT 2026 FESTIVAL LINE-UP
     items:
