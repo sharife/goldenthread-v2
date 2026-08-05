@@ -30,9 +30,8 @@ additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
-ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF
-ticketinfo: Tickets start at $30, or $20 for previews. No one is turned away for
-  lack of funds.
+ticketlink: ""
+ticketinfo: ""
 externallink: ""
 externallinklabel: ""
 misc: Show runs 2 hrs 30 mins, including a 10 min intermission
@@ -67,12 +66,9 @@ lists:
           by **Sepehr Jafari** (Bay Area-based, Iran)\
           directed by **Torange Yeghiazarian**\
           dramaturgy by **Nakissa Etemad**
-        text: Two friends develop a weekly ritual of attending the Iranian diaspora
-          protests in San Francisco every weekend, to try to prevent their
-          countrymen from being executed in the Islamic Republic prisons. But
-          their differences become more disastrous with each passing day, and as
-          activism takes a toll on them, it takes everything they got to not
-          murder each other.
+        text: "*Homing Pigeons & Co* follows two Iranian friends, one stuck in a police
+          van in Tehran and the other in her bed in San Francisco, as they
+          juggle overthrowing a dictatorship and shared custody of a pet fish."
         title: Homing Pigeons & Co
         itemstart: ""
         itemend: ""
