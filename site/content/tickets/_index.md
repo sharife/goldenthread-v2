@@ -3,18 +3,17 @@ title: Buy Tickets
 lists:
   - heading: ""
     items:
-      - title: ARAB SPRING by Denmo Ibrahim
-        pre: June 19-July 12, 2026
-        subtitle: C﻿o-produced by Golden Thread Productions and SFBATCO
-        image: https://ucarecdn.com/d57937c9-ae5e-4817-b4b9-adc23f6a0e4e/
-        text: In this world premiere comedy by our 2026 Playwright-in-Residence, Yusef,
-          a recovering addict, and Dina, his controlling big sister, return on
-          the 4th of July to the suburbs to bury their deadbeat Dad. As they
-          rush to pull off an Islamic burial before his body goes cold, they’re
-          forced to confront what family actually means. Can they do it without
-          killing each other? Inshallah.
+      - title: ReOrient 2026 Festival
+        pre: October 9 - November 1, 2026
+        subtitle: ""
+        image: https://ucarecdn.com/f063bad0-8430-4f78-8b2c-9f305dfb17c7/
+        text: Our signature program returns with an innovative and spirited festival of
+          short plays from or about the Middle East. The 30th anniversary lineup
+          focuses on Iran and Palestine. The five plays selected from 83
+          submissions, are diverse in content and style – highlighting a
+          multiplicity of Middle Eastern perspectives and identities.
         cta: Buy Tickets Now
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000DoSuTMAV
+        link: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF
 ---
 - - -
 
