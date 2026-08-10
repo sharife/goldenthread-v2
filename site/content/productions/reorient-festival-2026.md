@@ -21,8 +21,8 @@ program: null
 videos: []
 writer: Hassan Abdulrazzak, Banafsheh Hassani, Sepehr Jafari, Hannah Khalil, and
   Ahmed Masoud
-director: " Salim Razawi, Nabra Nelson, Torange Yeghiazarian, Wynne Chan, and
-  Nick McDow Musleh"
+director: " Wynne Chan, Nick McDow Musleh, Nabra Nelson, Salim Razawi, and
+  Torange Yeghiazarian"
 featuring: ""
 designteam: ""
 dramaturg: ""
@@ -30,8 +30,9 @@ additional: ""
 stage: Potrero Stage
 address: 1695 18th Street, San Francisco, CA 94107
 visitlink: ""
-ticketlink: ""
-ticketinfo: ""
+ticketlink: https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF
+ticketinfo: Tickets start at $30, or $20 for previews. No one is turned away for
+  lack of funds.
 externallink: ""
 externallinklabel: ""
 misc: Show runs 2 hrs 30 mins, including a 10 min intermission
