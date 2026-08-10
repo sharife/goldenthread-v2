@@ -46,7 +46,7 @@ misc: Show runs 2 hrs 30 mins, including a 10 min intermission
 lists:
   - heading: ReORIENT 2026 FESTIVAL LINE-UP
     items:
-      - image: https://ucarecdn.com/0aba4c8b-9814-4776-b1dd-dbfdc6c97724/
+      - image: https://ucarecdn.com/a3051164-3f39-4e64-a5fe-1813dd107071/
         subtitle: |-
           by **Hassan Abdulrazzak** (London-based, Iraq)\
           directed by **Salim Razawi**\
@@ -58,7 +58,7 @@ lists:
         title: Dare Not Speak
         itemstart: ""
         itemend: ""
-      - image: https://ucarecdn.com/e583b8fd-7a6e-4f4d-9e72-263c88df55e6/
+      - image: https://ucarecdn.com/35014f34-7256-4344-87f2-62cbd402eb48/
         subtitle: |-
           by **Banafsheh Hassani** (Montreal-based, Iran)\
           directed by **Nabra Nelson**
@@ -69,7 +69,7 @@ lists:
         title: Regarding Antigone
         itemstart: ""
         itemend: ""
-      - image: https://ucarecdn.com/2a0da581-79c2-4a21-bfd5-03413194c5ed/
+      - image: https://ucarecdn.com/75ed1732-eb21-48a8-bca1-f23b16bf9aeb/
         subtitle: |-
           by **Sepehr Jafari** (Bay Area-based, Iran)\
           directed by **Torange Yeghiazarian**\
@@ -80,7 +80,7 @@ lists:
         title: Homing Pigeons & Co
         itemstart: ""
         itemend: ""
-      - image: https://ucarecdn.com/4de80594-ec03-4457-8ef1-e1d03a186768/
+      - image: https://ucarecdn.com/b1ce0211-2b43-448c-bad8-a39e6789f57b/
         subtitle: |-
           by **Hannah Khalil** (London-based, Palestine/Ireland)\
           directed by **Wynne Chan**\
@@ -94,7 +94,7 @@ lists:
         title: Blood Fruit
         itemstart: ""
         itemend: ""
-      - image: https://ucarecdn.com/06a93e17-6d9d-472d-95fa-c3aa191180f6/
+      - image: https://ucarecdn.com/ccfd20d2-6c26-4a25-8f5b-ef88cfe35342/
         subtitle: |-
           by **Ahmed Masoud** (London-based, Gaza, Palestine)\
           directed by **Nick McDow Musleh**\
