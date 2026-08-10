@@ -14,7 +14,14 @@ description: >-
   perspectives and identities.
 
 
-  In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
+  ![](https://ucarecdn.com/d17766e7-310b-45da-9dff-f76ad47d45da/)
+
+
+
+
+  **BUY EARLY AND SAVE BIG!**\
+
+  Use code **REORIENTEARLY** to get 15% off general admission tickets to any performance if you purchase by Friday, August 21!
 background: ""
 titleimage: https://ucarecdn.com/bcc7574c-a6ec-4532-827b-66a4adec94f2/
 program: null
@@ -132,4 +139,4 @@ bottom:
   heading: ""
   logos: []
 ---
-D﻿etailed schedule for the Festival and the Convening will be announced shortly.
+In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
