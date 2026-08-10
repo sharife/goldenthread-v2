@@ -24,7 +24,7 @@ items:
     image: https://ucarecdn.com/8fc31d80-6583-4de7-8f6f-dd5d02f53b5a/
     cta: Listen now
     link: https://howlround.com/series/kunafa-and-shay
-  - subtitle: "**J﻿oin Our Golden30 Campaign!**"
+  - subtitle: "**J﻿oin Our Golden30 Campaign**"
     text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
       impressive milestone with an audacious Anniversary Campaign to raise
       $300,000 by December
