@@ -1,10 +1,10 @@
 ---
 title: Middle East Center Stage
-headline: Golden30 Anniversary Campaign
-subtitle: $300,000 Campaign Marks 30 Years of Creativity, Community, and Connection
-background: https://ucarecdn.com/fa81bb1c-d5fe-459d-8bf5-737a44b082b7/
-cta: Donate now to help secure the next 30 years!
-link: https://goldenthread.org/donate/
+headline: ReOrient 2026 Festival
+subtitle: Think you know the Middle East? Think again!
+background: https://ucarecdn.com/8283c3d3-6188-4a5b-a8e6-d4d014d14393/
+cta: Buy your tickets before Aug 21 and save big!
+link: https://goldenthread.org/productions/reorient-festival-2026/
 items:
   - subtitle: |-
       **A﻿MREEKA 2026: The Comedy Show**\
@@ -16,17 +16,6 @@ items:
     image: https://ucarecdn.com/123fd33a-0d00-44c6-86be-ce78d135933e/
     cta: Rent the on-demand video
     link: https://crowdedfiretheater.anywhereseat.com/channel.php
-  - subtitle: |-
-      **D﻿enmo Ibrahim is** \
-      **Our 2026 Playwright in Residence**
-    text: Join us in welcoming the acclaimed Egyptian-American playwright, actor,
-      and theater maker back to Golden Thread in this new capacity! As part of
-      her residency, Denmo will develop three projects, including the upcoming
-      world premiere production of ***Arab Spring*** (June 19-July 12,
-      co-produced with SFBATCO).
-    image: https://ucarecdn.com/c769d640-b07e-4200-9ce7-268c67002c6a/
-    cta: Find out more
-    link: https://goldenthread.org/posts/denmo-ibrahim-is-our-2026-playwright-in-residence/
   - subtitle: "**Kunafa and Shay Podcast C﻿elebrates 30 Years of Golden Thread**"
     text: H﻿osts Marina Johnson and Nabra Nelson take a sweeping look at 30 years of
       MENA/SWANA theater in the U.S. -- from Golden Thread's founding in 1996 to
@@ -35,4 +24,12 @@ items:
     image: https://ucarecdn.com/8fc31d80-6583-4de7-8f6f-dd5d02f53b5a/
     cta: Listen now
     link: https://howlround.com/series/kunafa-and-shay
+  - subtitle: "**J﻿oin Our Golden30 Campaign**"
+    text: 2026 marks Golden Thread’s 30th anniversary, and we’re marking this
+      impressive milestone with an audacious Anniversary Campaign to raise
+      $300,000 by December
+      31.[](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
+    image: https://ucarecdn.com/7f6aae06-8e8d-4eb7-82b8-334bf3ebe78d/
+    cta: Donate now to secure our next 30 years!
+    link: https://goldenthread.org/donate/
 ---
