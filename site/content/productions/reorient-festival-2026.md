@@ -112,6 +112,22 @@ lists:
         title: Camouflage
         itemstart: ""
         itemend: ""
+  - heading: LMDA PARTNERSHIP
+    items:
+      - itemstart: 2026-08-12T10:41:33.480Z
+        itemend: 2026-08-12T10:41:33.498Z
+        text: ReOrient 2026 Festival marks the fourth collaboration between
+          the [Literary Managers and Dramaturgs of the Americas
+          (LMDA)](https://lmda.org/) and Golden Thread. Led by LMDA Treasurer
+          and Golden Thread Affiliated Artist Nakissa Etemad, the partnership
+          brings together two organizations that value launching new plays and
+          challenging cultural preconceptions through provocative programming
+          and dialogue. The dramaturgy team includes Nakissa Etemad, Marina
+          Johnson, Emily DeDakis, and Oona Hatton who will support script
+          development and provide contextual information to ReOrient artists,
+          and write feature articles for audiences that explore the plays,
+          artists, and themes of this year's Festival.
+        image: https://ucarecdn.com/870686e4-627c-4bae-8876-55db24d99a74/
 grids: []
 cast:
   heading: Creative Teams and Cast
