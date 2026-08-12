@@ -114,8 +114,86 @@ lists:
         itemend: ""
 grids: []
 cast:
-  heading: ""
-  items: []
+  heading: Creative Teams and Cast
+  items:
+    - bio: "**Hassan Abdulrazzak** *(he/him)* is an award-winning playwright and
+        screenwriter. His plays include *The Special Relationship* (Soho
+        Theatre, 2020), *And Here I Am* (Arcola Theatre, 2017; currently touring
+        internationally), *Love, Bombs and Apples* (Arcola Theatre, 2016; UK
+        tour; Golden Thread, San Francisco, 2018; Kennedy Centre, Washington DC,
+        2019), *The Prophet* (Gate Theatre, 2012), and *Baghdad Wedding* (Soho
+        Theatre, 2007; BBC Radio 3, 2008; Belvoir St Theatre, Sydney, 2009;
+        Akvarious Productions, Delhi and Mumbai, 2010). His two-part radio
+        adaptation *The Yafa Cherry Orchard* was broadcast on BBC Radio 4 in
+        2025 and nominated for Best Adaptation and Best Actress at the BBC Audio
+        Drama Awards. His short film *A Night of Gharam* won the Unsolicited
+        Scripts Short Film Grant (2022) and went on to win further awards
+        following its release in 2023. He is the recipient of the George Devine,
+        Meyer-Whitworth and Pearson Theatre Awards, as well as the Arab British
+        Centre Award for Culture. He is a Fellow of the Royal Society of
+        Literature. [abdulrazzak.weebly.com
+        ](https://www.abdulrazzak.weebly.com)"
+      name: Hassan Abdulrazzak
+      credit: Playwright (Dare Not Speak)
+      image: https://ucarecdn.com/c8cdd67e-ea05-402b-82b5-b11790bf2054/
+    - bio: "**Banafsheh Hassani بنفشه حسنی** *(any/all)* is an Iranian feminist
+        theatre artist; they write, act, produce and facilitate. They are a
+        co-founder and active member of The Sky is the Limit Theatre, a
+        theatrical collective dedicated to immigrant and queer stories. Their
+        most significant credit as a playwright and actor is *Regarding
+        Antigone*, a critically acclaimed and touring solo show on state
+        violence, survival, witnessing and responsibility. Currently, they are
+        spearheading DIS, a theatre criticism hub dedicated to training and
+        professionalizing BIPOC cultural critics and covering Montreal’s English
+        theatre scene."
+      name: Banafsheh Hassani بنفشه حسنی
+      credit: Playwright (Regarding Antigone)
+      image: https://ucarecdn.com/bf1107a3-6d6b-4c5b-9b94-11631f324ea3/
+    - bio: "**Sepehr (fka Hasti) Jafari** *(they/them)* is an Iranian playwright and
+        cartoonist. They received their MFA in playwriting from San Francisco
+        State University, their BA in theater from the University of Tehran, and
+        are currently working towards a PhD in Performance Studies at UC Davis.
+        They are a recipient of a Marcus Recruitment Award, an honorable mention
+        at the 46th Bay Area Playwrights Festival Program, and the owner of a
+        fuzzy green parakeet."
+      name: Sepehr Jafari
+      credit: Playwright (Homing Pigeons & Co)
+      image: https://ucarecdn.com/d37ccde5-2c3f-4c2e-92bb-51bf68777048/
+    - bio: >-
+        **Hannah Khalil** is Writer in Residence, Bristol Old Vic. Previously
+        she was Resident Writer at Shakespeare’s Globe, work there includes
+        *Hakawatis* and *The Fir Tree*. *My English Persian Kitchen* sold out at
+        the Edinburgh Festival and Soho theatre in 2024, it toured in autumn
+        2025. *A Museum in Baghdad* marked the first play by an Arab woman on a
+        main stage at the Royal Shakespeare Company. Hannah is a Fellow of the
+        Royal Society of Literature.
+
+
+        *(﻿Headshot by Richard Saker)*
+      name: Hannah Khalil
+      credit: Playwright (Blood Orange)
+      image: https://ucarecdn.com/4b269213-6486-4f55-aa6d-a05f7e2378a2/
+    - name: Ahmed Masoud
+      credit: Playwright (Camouflage)
+      bio: "**Ahmed Masoud** *(he/him)* is the author of the acclaimed novels
+        *Vanished – The Mysterious Disappearance of Mustafa Ouda* and *Come What
+        May*. Ahmed is a writer, poet and director who grew up in Palestine and
+        moved to the UK in 2002.  Ahmed’s Theatre and Radio Drama credits
+        include: *The Florist of Rafah* (2024), *Passports*, *Jinn*, *Mo Salah
+        and Other Complicated Things* (2023),  *Application 39* (WDR Radio,
+        Germany, 2018), *Camouflage* (London, 2017), *The Shroud Maker* (London,
+        2015 – still touring), *Walaa*, *Loyalty* (London, 2014 – funded by the
+        Arts Council England), *Escape from Gaza* (BBC Radio 4, 2011). Ahmed is
+        the founder of Al Zaytouna Dance Theatre (2005–2013) where wrote and
+        directed many productions with subsequent tours in the UK and Europe,
+        including *Unto the Breach* (London and Vienna, 2012), *Between the
+        Fleeting Words* (London, Zurich, Freiburg, Ljubljana, Madrid, 2010 –
+        2012). *Ila Haif* (London, and Freiburg, 2008-2010), *Hassad* (London,
+        2007-2008). After finishing his PhD research, Ahmed published many
+        journals and articles including a chapter in the *Britain and Muslim
+        World: A Historical Perspective* (Cambridge Scholars Publishing, 2011).
+        Most recently, Ahmed launched his new artistic initiative called PalArt
+        Collective. [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
