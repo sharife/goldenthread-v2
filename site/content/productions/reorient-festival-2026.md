@@ -194,6 +194,7 @@ cast:
         World: A Historical Perspective* (Cambridge Scholars Publishing, 2011).
         Most recently, Ahmed launched his new artistic initiative called PalArt
         Collective. [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
+      image: https://ucarecdn.com/48852df2-393f-46b6-98cc-fb11dfcf37dc/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
