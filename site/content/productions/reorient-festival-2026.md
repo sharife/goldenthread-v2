@@ -137,57 +137,54 @@ grids: []
 cast:
   heading: Meet the ReOrient Artists
   items:
-    - bio: "**Hassan Abdulrazzak** *(he/him)* is an award-winning playwright and
-        screenwriter. His plays include *The Special Relationship* (Soho
-        Theatre, 2020), *And Here I Am* (Arcola Theatre, 2017; currently touring
-        internationally), *Love, Bombs and Apples* (Arcola Theatre, 2016; UK
-        tour; Golden Thread, San Francisco, 2018; Kennedy Centre, Washington DC,
-        2019), *The Prophet* (Gate Theatre, 2012), and *Baghdad Wedding* (Soho
-        Theatre, 2007; BBC Radio 3, 2008; Belvoir St Theatre, Sydney, 2009;
-        Akvarious Productions, Delhi and Mumbai, 2010). His two-part radio
-        adaptation *The Yafa Cherry Orchard* was broadcast on BBC Radio 4 in
-        2025 and nominated for Best Adaptation and Best Actress at the BBC Audio
-        Drama Awards. His short film *A Night of Gharam* won the Unsolicited
-        Scripts Short Film Grant (2022) and went on to win further awards
-        following its release in 2023. He is the recipient of the George Devine,
-        Meyer-Whitworth and Pearson Theatre Awards, as well as the Arab British
-        Centre Award for Culture. He is a Fellow of the Royal Society of
-        Literature. [abdulrazzak.weebly.com
+    - bio: "*(he/him)* is an award-winning playwright and screenwriter. His plays
+        include *The Special Relationship* (Soho Theatre, 2020), *And Here I Am*
+        (Arcola Theatre, 2017; currently touring internationally), *Love, Bombs
+        and Apples* (Arcola Theatre, 2016; UK tour; Golden Thread, San
+        Francisco, 2018; Kennedy Centre, Washington DC, 2019), *The Prophet*
+        (Gate Theatre, 2012), and *Baghdad Wedding* (Soho Theatre, 2007; BBC
+        Radio 3, 2008; Belvoir St Theatre, Sydney, 2009; Akvarious Productions,
+        Delhi and Mumbai, 2010). His two-part radio adaptation *The Yafa Cherry
+        Orchard* was broadcast on BBC Radio 4 in 2025 and nominated for Best
+        Adaptation and Best Actress at the BBC Audio Drama Awards. His short
+        film *A Night of Gharam* won the Unsolicited Scripts Short Film Grant
+        (2022) and went on to win further awards following its release in 2023.
+        He is the recipient of the George Devine, Meyer-Whitworth and Pearson
+        Theatre Awards, as well as the Arab British Centre Award for Culture. He
+        is a Fellow of the Royal Society of Literature. [abdulrazzak.weebly.com
         ](https://www.abdulrazzak.weebly.com)"
       name: Hassan Abdulrazzak
       credit: Playwright (Dare Not Speak)
       image: https://ucarecdn.com/c8cdd67e-ea05-402b-82b5-b11790bf2054/
-    - bio: "**Banafsheh Hassani بنفشه حسنی** *(any/all)* is an Iranian feminist
-        theatre artist; they write, act, produce and facilitate. They are a
-        co-founder and active member of The Sky is the Limit Theatre, a
-        theatrical collective dedicated to immigrant and queer stories. Their
-        most significant credit as a playwright and actor is *Regarding
-        Antigone*, a critically acclaimed and touring solo show on state
-        violence, survival, witnessing and responsibility. Currently, they are
-        spearheading DIS, a theatre criticism hub dedicated to training and
-        professionalizing BIPOC cultural critics and covering Montreal’s English
-        theatre scene."
+    - bio: "*(any/all)* is an Iranian feminist theatre artist; they write, act,
+        produce and facilitate. They are a co-founder and active member of The
+        Sky is the Limit Theatre, a theatrical collective dedicated to immigrant
+        and queer stories. Their most significant credit as a playwright and
+        actor is *Regarding Antigone*, a critically acclaimed and touring solo
+        show on state violence, survival, witnessing and responsibility.
+        Currently, they are spearheading DIS, a theatre criticism hub dedicated
+        to training and professionalizing BIPOC cultural critics and covering
+        Montreal’s English theatre scene."
       name: Banafsheh Hassani بنفشه حسنی
       credit: Playwright (Regarding Antigone)
       image: https://ucarecdn.com/bf1107a3-6d6b-4c5b-9b94-11631f324ea3/
-    - bio: "**Sepehr (fka Hasti) Jafari** *(they/them)* is an Iranian playwright and
-        cartoonist. They received their MFA in playwriting from San Francisco
-        State University, their BA in theater from the University of Tehran, and
-        are currently working towards a PhD in Performance Studies at UC Davis.
-        They are a recipient of a Marcus Recruitment Award, an honorable mention
-        at the 46th Bay Area Playwrights Festival Program, and the owner of a
-        fuzzy green parakeet."
+    - bio: "*(they/them)* is an Iranian playwright and cartoonist. They received their
+        MFA in playwriting from San Francisco State University, their BA in
+        theater from the University of Tehran, and are currently working towards
+        a PhD in Performance Studies at UC Davis. They are a recipient of a
+        Marcus Recruitment Award, an honorable mention at the 46th Bay Area
+        Playwrights Festival Program, and the owner of a fuzzy green parakeet."
       name: Sepehr Jafari
       credit: Playwright (Homing Pigeons & Co)
       image: https://ucarecdn.com/d37ccde5-2c3f-4c2e-92bb-51bf68777048/
     - bio: >-
-        **Hannah Khalil** is Writer in Residence, Bristol Old Vic. Previously
-        she was Resident Writer at Shakespeare’s Globe, work there includes
-        *Hakawatis* and *The Fir Tree*. *My English Persian Kitchen* sold out at
-        the Edinburgh Festival and Soho theatre in 2024, it toured in autumn
-        2025. *A Museum in Baghdad* marked the first play by an Arab woman on a
-        main stage at the Royal Shakespeare Company. Hannah is a Fellow of the
-        Royal Society of Literature.
+        *(﻿she/her)* is Writer in Residence, Bristol Old Vic. Previously she was
+        Resident Writer at Shakespeare’s Globe, work there includes *Hakawatis*
+        and *The Fir Tree*. *My English Persian Kitchen* sold out at the
+        Edinburgh Festival and Soho theatre in 2024, it toured in autumn 2025.
+        *A Museum in Baghdad* marked the first play by an Arab woman on a main
+        stage at the Royal Shakespeare Company. Hannah is a Fellow of the Royal
+        Society of Literature.
 
 
         *(﻿Headshot by Richard Saker)*
@@ -196,117 +193,114 @@ cast:
       image: https://ucarecdn.com/4b269213-6486-4f55-aa6d-a05f7e2378a2/
     - name: Ahmed Masoud
       credit: Playwright (Camouflage)
-      bio: "**Ahmed Masoud** *(he/him)* is the author of the acclaimed novels
-        *Vanished – The Mysterious Disappearance of Mustafa Ouda* and *Come What
-        May*. Ahmed is a writer, poet and director who grew up in Palestine and
-        moved to the UK in 2002.  Ahmed’s Theatre and Radio Drama credits
-        include: *The Florist of Rafah* (2024), *Passports*, *Jinn*, *Mo Salah
-        and Other Complicated Things* (2023),  *Application 39* (WDR Radio,
-        Germany, 2018), *Camouflage* (London, 2017), *The Shroud Maker* (London,
-        2015 – still touring), *Walaa*, *Loyalty* (London, 2014 – funded by the
-        Arts Council England), *Escape from Gaza* (BBC Radio 4, 2011). Ahmed is
-        the founder of Al Zaytouna Dance Theatre (2005–2013) where wrote and
-        directed many productions with subsequent tours in the UK and Europe,
-        including *Unto the Breach* (London and Vienna, 2012), *Between the
-        Fleeting Words* (London, Zurich, Freiburg, Ljubljana, Madrid, 2010 –
-        2012). *Ila Haif* (London, and Freiburg, 2008-2010), *Hassad* (London,
-        2007-2008). After finishing his PhD research, Ahmed published many
-        journals and articles including a chapter in the *Britain and Muslim
-        World: A Historical Perspective* (Cambridge Scholars Publishing, 2011).
-        Most recently, Ahmed launched his new artistic initiative called PalArt
-        Collective. [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
+      bio: "*(he/him)* is the author of the acclaimed novels *Vanished – The
+        Mysterious Disappearance of Mustafa Ouda* and *Come What May*. Ahmed is
+        a writer, poet and director who grew up in Palestine and moved to the UK
+        in 2002.  Ahmed’s Theatre and Radio Drama credits include: *The Florist
+        of Rafah* (2024), *Passports*, *Jinn*, *Mo Salah and Other Complicated
+        Things* (2023),  *Application 39* (WDR Radio, Germany, 2018),
+        *Camouflage* (London, 2017), *The Shroud Maker* (London, 2015 – still
+        touring), *Walaa*, *Loyalty* (London, 2014 – funded by the Arts Council
+        England), *Escape from Gaza* (BBC Radio 4, 2011). Ahmed is the founder
+        of Al Zaytouna Dance Theatre (2005–2013) where wrote and directed many
+        productions with subsequent tours in the UK and Europe, including *Unto
+        the Breach* (London and Vienna, 2012), *Between the Fleeting Words*
+        (London, Zurich, Freiburg, Ljubljana, Madrid, 2010 – 2012). *Ila Haif*
+        (London, and Freiburg, 2008-2010), *Hassad* (London, 2007-2008). After
+        finishing his PhD research, Ahmed published many journals and articles
+        including a chapter in the *Britain and Muslim World: A Historical
+        Perspective* (Cambridge Scholars Publishing, 2011). Most recently, Ahmed
+        launched his new artistic initiative called PalArt Collective.
+        [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
       image: https://ucarecdn.com/48852df2-393f-46b6-98cc-fb11dfcf37dc/
     - name: Wynne Chan
       credit: Director (Blood Fruit)
       image: https://ucarecdn.com/c8271363-9d4f-46d1-be24-bd883480b225/
-      bio: "**Wynne Chan** *(she/her)* is the Managing Director at Golden Thread
-        Productions. She is a Hong Kong-American director, dramaturg, and
-        theatermaker. She is also the artistic leader at
-        [Shows.cool](https://shows.cool/), a collaborative cabaret and theater
-        group that recently produced an all-Chinese language cabaret show, Back
-        In Time. Select directing credits: *Chinglish* (SF Playhouse - Associate
-        Director, Plethos Production), *The Chinese Lady* (The Pear Theatre),
-        *She Kills Monsters* (Plethos Productions), *The Language Archive*
-        (Masquers Playhouse). Select dramaturgy credits: *M. Butterfly* (SF
-        Playhouse), *ROI* (SF Playhouse), *Anonymous* (SBMT). She will be
-        directing the US Premiere of *Underdog: The Other Other Bronte* at The
-        Pear Theatre this November."
+      bio: "*(she/her)* is the Managing Director at Golden Thread Productions. She is
+        a Hong Kong-American director, dramaturg, and theatermaker. She is also
+        the artistic leader at [Shows.cool](https://shows.cool/), a
+        collaborative cabaret and theater group that recently produced an
+        all-Chinese language cabaret show, Back In Time. Select directing
+        credits: *Chinglish* (SF Playhouse - Associate Director, Plethos
+        Production), *The Chinese Lady* (The Pear Theatre), *She Kills Monsters*
+        (Plethos Productions), *The Language Archive* (Masquers Playhouse).
+        Select dramaturgy credits: *M. Butterfly* (SF Playhouse), *ROI* (SF
+        Playhouse), *Anonymous* (SBMT). She will be directing the US Premiere of
+        *Underdog: The Other Other Bronte* at The Pear Theatre this November."
     - name: Nick McDow Musley
-      bio: "**Nick McDow Musleh** *(he/him)* recently starred in *The Return* for
-        Golden Thread. He played *Hamlet* for the Marin Shakespeare Company,
-        where he is an artistic associate and dramaturg. He co-created and
-        performed in *The Untime* at Marin Shakes. His television work includes
-        recurring and guest star roles on *The Unit, NCIS*, and *Lie to Me.* He
-        developed several original roles at Theatre West, earning the *Los
-        Angeles Times* Critic’s pick for *Against the Wall*. He created the role
-        of Daniel Baker in Mark Wilding’s *Our Man in Santiago*, which he also
-        debuted Off-Broadway at the AMT Theatre. Nick has directed multiple
-        films and stage productions in Los Angeles. His short film *Love’s
-        Labour’s Lost* is currently taught in colleges around the country. He
-        attended Solano Community College, Santa Clara University, and the UCLA
-        School of Theater, Film & Television, and has performed in Shakespeare
-        productions throughout the Bay Area. He is a theater professor at Laney
-        College and teaches acting for camera, theater, and directing at the
-        Oakland School for the Arts.
+      bio: "*(he/him)* recently starred in *The Return* for Golden Thread. He played
+        *Hamlet* for the Marin Shakespeare Company, where he is an artistic
+        associate and dramaturg. He co-created and performed in *The Untime* at
+        Marin Shakes. His television work includes recurring and guest star
+        roles on *The Unit, NCIS*, and *Lie to Me.* He developed several
+        original roles at Theatre West, earning the *Los Angeles Times* Critic’s
+        pick for *Against the Wall*. He created the role of Daniel Baker in Mark
+        Wilding’s *Our Man in Santiago*, which he also debuted Off-Broadway at
+        the AMT Theatre. Nick has directed multiple films and stage productions
+        in Los Angeles. His short film *Love’s Labour’s Lost* is currently
+        taught in colleges around the country. He attended Solano Community
+        College, Santa Clara University, and the UCLA School of Theater, Film &
+        Television, and has performed in Shakespeare productions throughout the
+        Bay Area. He is a theater professor at Laney College and teaches acting
+        for camera, theater, and directing at the Oakland School for the Arts.
         [theshakespeareworkshop.com/](https://www.theshakespeareworkshop.com/)"
       credit: Director (Camouflage)
       image: https://ucarecdn.com/f6d174a3-5c28-422c-9eb7-a35d5caa3ade/
-    - bio: "**Nabra Nelson** *(she/her)* is the Artistic Director of Golden Thread
-        Productions. She is a multi-disciplinary theater maker from Nubia,
-        Egypt, and California, with over a decade of experience as a director,
-        administrator, writer, consultant, dramaturg, and teaching artist. She
-        leads the Nubian Foundation for Preserving a Cultural Heritage, is a
-        founding company member of Dunya Productions, a founding company member
-        of Heard Space Arts Collective, Board Member of the MENA Theater Makers
-        Alliance, co-founder of HERitage emBODYment, company member of Dancing
-        Earth, and is the co-host of the Kunafa & Shay Theater Podcast. Awards
-        and recognitions include the New England Foundation for the Arts
-        National Theatre Project, Dramatists Guild Foundation National
-        Playwriting Fellowship, New Arab American Theater Works’ Inaugural
-        Playwriting Cohort, 4Culture Project Grant, Map Fund Artist Award,
-        Wisconsin Veterans Chamber of Commerce Nonprofit Partner of the Year,
-        and Agenda Communicating the Arts 30 Under 30. She has directed at
-        Renaissance Theaterworks, Milwaukee Repertory Theater, the Unusual
-        Suspects Theatre Company, Meany Center for the Performing Arts,
-        Strawberry Theatre Workshop, Montgomery College, UW-Milwaukee, the
-        Women’s Ensemble Theatre Troupe. UC Santa Barbara, Pork Filled
-        Productions, Milwaukee Chamber Theatre, the Tessellate Festival, and
-        American Players Theatre. [nabranelson.com](http://nabranelson.com)"
+    - bio: "*(she/her)* is the Artistic Director of Golden Thread Productions. She is
+        a multi-disciplinary theater maker from Nubia, Egypt, and California,
+        with over a decade of experience as a director, administrator, writer,
+        consultant, dramaturg, and teaching artist. She leads the Nubian
+        Foundation for Preserving a Cultural Heritage, is a founding company
+        member of Dunya Productions, a founding company member of Heard Space
+        Arts Collective, Board Member of the MENA Theater Makers Alliance,
+        co-founder of HERitage emBODYment, company member of Dancing Earth, and
+        is the co-host of the Kunafa & Shay Theater Podcast. Awards and
+        recognitions include the New England Foundation for the Arts National
+        Theatre Project, Dramatists Guild Foundation National Playwriting
+        Fellowship, New Arab American Theater Works’ Inaugural Playwriting
+        Cohort, 4Culture Project Grant, Map Fund Artist Award, Wisconsin
+        Veterans Chamber of Commerce Nonprofit Partner of the Year, and Agenda
+        Communicating the Arts 30 Under 30. She has directed at Renaissance
+        Theaterworks, Milwaukee Repertory Theater, the Unusual Suspects Theatre
+        Company, Meany Center for the Performing Arts, Strawberry Theatre
+        Workshop, Montgomery College, UW-Milwaukee, the Women’s Ensemble Theatre
+        Troupe. UC Santa Barbara, Pork Filled Productions, Milwaukee Chamber
+        Theatre, the Tessellate Festival, and American Players Theatre.
+        [nabranelson.com](http://nabranelson.com)"
       name: Nabra Nelson
       credit: (Director, Regarding Antigone)
       image: https://ucarecdn.com/97ac1fdb-bfa9-4234-a2b1-9b52acdc4e23/
     - name: Salim Razawi
       credit: Director (Dare Not Speak)
       image: https://ucarecdn.com/e6c89f27-d761-4613-b347-e6eab1e67851/
-      bio: "**Salim Razawi** *(he/him)* is an Afghan-American theatre maker. He is the
-        Artistic Producer & Casting Director for Golden Thread Productions.
-        Additionally, he is a director, casting consultant, and theatre artist
-        working widely through the Bay Area. His directing credits include *Once
-        on This Island* (Contra Costa Civic Theatre & Plethos Theatre), *The
-        Shape of Things* and *Into the Woods* (Town Hall Theatre Company),
-        *Carrie* (Berkeley Playhouse), *Mean Girls* (City of Milpitas), and
-        *School of Rock* and *Legally Blonde* (City of Pleasanton). Previous
-        acting credits include *Play That Goes Wrong* at SF Playhouse,
-        *Disgraced* at San Jose Stage Company and *Sebastian* in Twelfth Night
-        at Marin Shakespeare Company. He worked as a teaching artist for theatre
-        companies including American Conservatory Theatre and Berkeley Repertory
-        Theatre. He also co-founded TEAM Theatre, a youth theatre company
-        serving the Tri-Valley. [salimrazawi.com](http://salimrazawi.com/)"
+      bio: "*(he/him)* is an Afghan-American theatre maker. He is the Artistic
+        Producer & Casting Director for Golden Thread Productions. Additionally,
+        he is a director, casting consultant, and theatre artist working widely
+        through the Bay Area. His directing credits include *Once on This
+        Island* (Contra Costa Civic Theatre & Plethos Theatre), *The Shape of
+        Things* and *Into the Woods* (Town Hall Theatre Company), *Carrie*
+        (Berkeley Playhouse), *Mean Girls* (City of Milpitas), and *School of
+        Rock* and *Legally Blonde* (City of Pleasanton). Previous acting credits
+        include *Play That Goes Wrong* at SF Playhouse, *Disgraced* at San Jose
+        Stage Company and *Sebastian* in Twelfth Night at Marin Shakespeare
+        Company. He worked as a teaching artist for theatre companies including
+        American Conservatory Theatre and Berkeley Repertory Theatre. He also
+        co-founded TEAM Theatre, a youth theatre company serving the Tri-Valley.
+        [salimrazawi.com](http://salimrazawi.com/)"
     - name: Torange Yeghiazarian
       credit: Director (Homing Pigeons & Co)
       image: https://ucarecdn.com/31b248a4-2cde-4660-be75-a5dc5c4becb5/
-      bio: "**Torange Yeghiazarian** *(she/her)* is an award-winning playwright and
-        director passionate about building community through theater. Her
-        artistic practice reflects her values of radical hospitality and
-        inclusiveness aimed at disrupting stereotypes of the Middle East both
-        within the community and outside of it. A transplant from the 1979
-        Iranian revolution, Torange believes that life is inherently political
-        and that the personal and the global are inseparable. Her plays
-        frequently explore the cultural and political divide with tenderness and
-        humor from an immigrant woman’s perspective. As a director, Torange’s
-        focus has been on new plays, experimenting with Middle Eastern
-        performance traditions, and staging poetry. Dubbed the “Margo
-        Jones–founding-mother-figure of Middle Eastern American theatre”,
+      bio: "*(she/her)* is an award-winning playwright and director passionate about
+        building community through theater. Her artistic practice reflects her
+        values of radical hospitality and inclusiveness aimed at disrupting
+        stereotypes of the Middle East both within the community and outside of
+        it. A transplant from the 1979 Iranian revolution, Torange believes that
+        life is inherently political and that the personal and the global are
+        inseparable. Her plays frequently explore the cultural and political
+        divide with tenderness and humor from an immigrant woman’s perspective.
+        As a director, Torange’s focus has been on new plays, experimenting with
+        Middle Eastern performance traditions, and staging poetry. Dubbed the
+        “Margo Jones–founding-mother-figure of Middle Eastern American theatre”,
         Torange founded Golden Thread Productions where she created visionary
         programs such as ReOrient Festival of Short Plays, premiered hundreds of
         plays, and launched the careers of countless artists. A recipient of the
