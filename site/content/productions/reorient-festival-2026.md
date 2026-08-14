@@ -216,6 +216,106 @@ cast:
         Most recently, Ahmed launched his new artistic initiative called PalArt
         Collective. [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
       image: https://ucarecdn.com/48852df2-393f-46b6-98cc-fb11dfcf37dc/
+    - name: Wynne Chan
+      credit: Director (Blood Fruit)
+      image: https://ucarecdn.com/c8271363-9d4f-46d1-be24-bd883480b225/
+      bio: "**Wynne Chan** *(she/her)* is the Managing Director at Golden Thread
+        Productions. She is a Hong Kong-American director, dramaturg, and
+        theatermaker. She is also the artistic leader at
+        [Shows.cool](https://shows.cool/), a collaborative cabaret and theater
+        group that recently produced an all-Chinese language cabaret show, Back
+        In Time. Select directing credits: *Chinglish* (SF Playhouse - Associate
+        Director, Plethos Production), *The Chinese Lady* (The Pear Theatre),
+        *She Kills Monsters* (Plethos Productions), *The Language Archive*
+        (Masquers Playhouse). Select dramaturgy credits: *M. Butterfly* (SF
+        Playhouse), *ROI* (SF Playhouse), *Anonymous* (SBMT). She will be
+        directing the US Premiere of *Underdog: The Other Other Bronte* at The
+        Pear Theatre this November."
+    - name: Nick McDow Musley
+      bio: "**Nick McDow Musleh** *(he/him)* recently starred in *The Return* for
+        Golden Thread. He played *Hamlet* for the Marin Shakespeare Company,
+        where he is an artistic associate and dramaturg. He co-created and
+        performed in *The Untime* at Marin Shakes. His television work includes
+        recurring and guest star roles on *The Unit, NCIS*, and *Lie to Me.* He
+        developed several original roles at Theatre West, earning the *Los
+        Angeles Times* Critic’s pick for *Against the Wall*. He created the role
+        of Daniel Baker in Mark Wilding’s *Our Man in Santiago*, which he also
+        debuted Off-Broadway at the AMT Theatre. Nick has directed multiple
+        films and stage productions in Los Angeles. His short film *Love’s
+        Labour’s Lost* is currently taught in colleges around the country. He
+        attended Solano Community College, Santa Clara University, and the UCLA
+        School of Theater, Film & Television, and has performed in Shakespeare
+        productions throughout the Bay Area. He is a theater professor at Laney
+        College and teaches acting for camera, theater, and directing at the
+        Oakland School for the Arts.
+        [theshakespeareworkshop.com/](https://www.theshakespeareworkshop.com/)"
+      credit: Director (Camouflage)
+      image: https://ucarecdn.com/f6d174a3-5c28-422c-9eb7-a35d5caa3ade/
+    - bio: "**Nabra Nelson** *(she/her)* is the Artistic Director of Golden Thread
+        Productions. She is a multi-disciplinary theater maker from Nubia,
+        Egypt, and California, with over a decade of experience as a director,
+        administrator, writer, consultant, dramaturg, and teaching artist. She
+        leads the Nubian Foundation for Preserving a Cultural Heritage, is a
+        founding company member of Dunya Productions, a founding company member
+        of Heard Space Arts Collective, Board Member of the MENA Theater Makers
+        Alliance, co-founder of HERitage emBODYment, company member of Dancing
+        Earth, and is the co-host of the Kunafa & Shay Theater Podcast. Awards
+        and recognitions include the New England Foundation for the Arts
+        National Theatre Project, Dramatists Guild Foundation National
+        Playwriting Fellowship, New Arab American Theater Works’ Inaugural
+        Playwriting Cohort, 4Culture Project Grant, Map Fund Artist Award,
+        Wisconsin Veterans Chamber of Commerce Nonprofit Partner of the Year,
+        and Agenda Communicating the Arts 30 Under 30. She has directed at
+        Renaissance Theaterworks, Milwaukee Repertory Theater, the Unusual
+        Suspects Theatre Company, Meany Center for the Performing Arts,
+        Strawberry Theatre Workshop, Montgomery College, UW-Milwaukee, the
+        Women’s Ensemble Theatre Troupe. UC Santa Barbara, Pork Filled
+        Productions, Milwaukee Chamber Theatre, the Tessellate Festival, and
+        American Players Theatre. [nabranelson.com](http://nabranelson.com)"
+      name: Nabra Nelson
+      credit: (Director, Regarding Antigone)
+      image: https://ucarecdn.com/97ac1fdb-bfa9-4234-a2b1-9b52acdc4e23/
+    - name: Salim Razawi
+      credit: Director (Dare Not Speak)
+      image: https://ucarecdn.com/e6c89f27-d761-4613-b347-e6eab1e67851/
+      bio: "**Salim Razawi** *(he/him)* is an Afghan-American theatre maker. He is the
+        Artistic Producer & Casting Director for Golden Thread Productions.
+        Additionally, he is a director, casting consultant, and theatre artist
+        working widely through the Bay Area. His directing credits include *Once
+        on This Island* (Contra Costa Civic Theatre & Plethos Theatre), *The
+        Shape of Things* and *Into the Woods* (Town Hall Theatre Company),
+        *Carrie* (Berkeley Playhouse), *Mean Girls* (City of Milpitas), and
+        *School of Rock* and *Legally Blonde* (City of Pleasanton). Previous
+        acting credits include *Play That Goes Wrong* at SF Playhouse,
+        *Disgraced* at San Jose Stage Company and *Sebastian* in Twelfth Night
+        at Marin Shakespeare Company. He worked as a teaching artist for theatre
+        companies including American Conservatory Theatre and Berkeley Repertory
+        Theatre. He also co-founded TEAM Theatre, a youth theatre company
+        serving the Tri-Valley. [salimrazawi.com](http://salimrazawi.com/)"
+    - name: Torange Yeghiazarian
+      credit: Director (Homing Pigeons & Co)
+      image: https://ucarecdn.com/31b248a4-2cde-4660-be75-a5dc5c4becb5/
+      bio: "**Torange Yeghiazarian** *(she/her)* is an award-winning playwright and
+        director passionate about building community through theater. Her
+        artistic practice reflects her values of radical hospitality and
+        inclusiveness aimed at disrupting stereotypes of the Middle East both
+        within the community and outside of it. A transplant from the 1979
+        Iranian revolution, Torange believes that life is inherently political
+        and that the personal and the global are inseparable. Her plays
+        frequently explore the cultural and political divide with tenderness and
+        humor from an immigrant woman’s perspective. As a director, Torange’s
+        focus has been on new plays, experimenting with Middle Eastern
+        performance traditions, and staging poetry. Dubbed the “Margo
+        Jones–founding-mother-figure of Middle Eastern American theatre”,
+        Torange founded Golden Thread Productions where she created visionary
+        programs such as ReOrient Festival of Short Plays, premiered hundreds of
+        plays, and launched the careers of countless artists. A recipient of the
+        Gerbode Playwright Commission Award and an NEA Literary Fellowship,
+        Torange’s plays are published in *New Iranian Plays*, *Performing Iran*,
+        and *Salaam.Peace: Anthology of Middle Eastern American Drama*. Born in
+        Iran and of Armenian heritage, Torange is an alumna of  San Francisco
+        State University Theater Arts.
+        [torangeyeghiazarian.com/](https://torangeyeghiazarian.com/)"
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
