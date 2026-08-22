@@ -7,7 +7,7 @@ start: 2026-10-09T19:00:48.911Z
 end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
 description: >-
-  Features five short plays by award-winning MENA playwrights, Golden Thread's
+  Featuring five short plays by award-winning MENA playwrights, Golden Thread's
   beloved festival returns with a 30th Anniversary line-up dedicated to Iran and
   Palestine. This year’s Festival makes the political personal, presenting
   intimate and genre-pushing works. Nowhere else you will see such a global mix
