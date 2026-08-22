@@ -7,21 +7,14 @@ start: 2026-10-09T19:00:48.911Z
 end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
 description: >-
-  Our signature program returns with an innovative and spirited festival of
-  short plays from or about the Middle East. The 30th anniversary lineup focuses
-  on Iran and Palestine. The five plays selected from 83 submissions, are
-  diverse in content and style -- highlighting a multiplicity of Middle Eastern
-  perspectives and identities.
+  Features five short plays by award-winning MENA playwrights, Golden Thread's
+  beloved festival returns with a 30th Anniversary line-up dedicated to Iran and
+  Palestine. This year’s Festival makes the political personal, presenting
+  intimate and genre-pushing works. Nowhere else you will see such a global mix
+  of stories and styles on one stage in one evening. 
 
 
-  ![](https://ucarecdn.com/d17766e7-310b-45da-9dff-f76ad47d45da/)
-
-
-
-
-  **BUY EARLY AND SAVE BIG!**\
-
-  Use code **REORIENTEARLY** to get 15% off general admission tickets to any performance if you purchase by Friday, August 21!
+  The five plays selected from 83 submissions, are diverse in content and style -- highlighting a multiplicity of Middle Eastern perspectives and identities.
 background: ""
 titleimage: https://ucarecdn.com/bcc7574c-a6ec-4532-827b-66a4adec94f2/
 program: null
@@ -333,4 +326,4 @@ bottom:
   heading: ""
   logos: []
 ---
-In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/save-the-date-menatma-2026-fall-convening/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
+In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/menatma-2026-convening-registration-now-open/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
