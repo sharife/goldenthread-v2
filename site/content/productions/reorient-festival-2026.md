@@ -317,11 +317,23 @@ photos:
   heading: ""
   items: []
 photos2:
-  heading: ""
-  items: []
+  heading: ReOrient 2026 First Rehearsal Photos by Wynne Chan
+  items:
+    - image: https://ucarecdn.com/d2b0c5ab-193e-4f68-adad-d63f401e78cf/
+    - image: https://ucarecdn.com/1c508fdd-16b1-4ea0-a32a-b86d476912e2/
+    - image: https://ucarecdn.com/764a2a80-14b2-42eb-8234-f7d26f552463/
+    - image: https://ucarecdn.com/8bc619f0-ff44-44b2-b182-ade71e977cf9/
+    - image: https://ucarecdn.com/ce74c7c3-b3dd-44a0-97f2-c45b57cbcf40/
+    - image: https://ucarecdn.com/a9b0619f-9280-482e-bf07-715e70b764fe/
 photos3:
-  heading: ""
-  items: []
+  heading: ReOrient 2026 Camp Photos by Jared Randolph
+  items:
+    - image: https://ucarecdn.com/4145ac3c-c31e-4b8b-bc4d-0c7b86c2ebe5/
+    - image: https://ucarecdn.com/72d3decb-6e57-4040-8c25-b054798b416e/
+    - image: https://ucarecdn.com/4328d727-9762-4217-8f5e-65409ae0caba/
+    - image: https://ucarecdn.com/f9788102-459b-4125-bc20-640a4d46afc2/
+    - image: https://ucarecdn.com/29dc69cc-3734-4ff5-abe1-1f9dbb2bb137/
+    - image: https://ucarecdn.com/19db2b94-0b7e-4c05-b953-3460577850f9/
 archivevideo: ""
 bottom:
   text: ""
