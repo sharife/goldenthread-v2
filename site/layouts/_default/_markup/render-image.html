@@ -1,0 +1,9 @@
+<figure class="image-caption-wrapper">
+  <img src="{{ .Destination | safeURL }}" 
+       alt="{{ .Text }}" 
+       {{ with .Title }} title="{{ . }}" {{ end }} 
+       loading="lazy" />
+  {{ with .Title }}
+    <figcaption class="image-caption">{{ . | markdownify }}</figcaption>
+  {{ end }}
+</figure>
