@@ -192,7 +192,7 @@ lists:
           Khalil to discuss their plays, playwriting careers in the U.K., and
           past experiences with Golden Thread.
         cta: Read the article
-        link: https://goldenthread.org/posts/being-in-the-room/
+        link: https://goldenthread.org/posts/being-in-the-room-transatlantic-collaborations-in-reorient-2017-1/
       - itemstart: 2026-07-22T22:45:03.461Z
         itemend: 2026-07-22T22:45:03.490Z
         title: Playwright and Dramaturg Tackle Manar a Third Time
