@@ -55,3 +55,16 @@ Because all these lives pass through one body and one first-person “I,” thei
 These three ReOrient plays, ***Camouflage***, ***Dare Not Speak***, and ***Regarding Antigone***, trace a movement from the fragmentation of the Palestinian experience to the institutional suppression of Palestinian testimony, and finally to the ethics of witnessing state violence in Iran. Each play refuses to allow suffering to become abstract, passive, or safely depoliticized. Instead, they insist on theatre as a space in which testimony is embodied, contested, and placed directly before an audience. These plays are shifting the question from *Can theatre represent political violence?* to *What happens once that violence has been represented on stage, and what responsibility does witnessing create?* Together, the plays suggest that listening is not enough; once an audience has been made a witness, it must decide what to do with what it now knows.
 
 Experience these stories for yourself at this year’s **ReOrient Festival**. See the plays, spend time with the questions they raise, and join the conversations that continue long after the lights come up. Don’t miss your chance to encounter Palestinian and Iranian stories in a space where they can be heard, questioned, and interact with one another.
+
+![](https://ucarecdn.com/94f01ff8-78f8-4e92-b8eb-d0feb78ef8ea/)
+
+**P﻿HOTO CREDITS IN ORDER:**\
+Marina Johnson and posters for *Camouflage*, *Dare to Speak*, and *Regarding Antigone*, designed by Shams Nelson.
+
+Nabra Nelson, Golden Thread’s New Artistic Director and Director of *Regarding Antigone*, at ReOrient 2026 Camp. (Photo: Jared Randolph)
+
+James El-Sharawy in the play *Camouflage*, London, May 18, 2017. (Photo: Ho-Chih Lin)
+
+Hassan Abdulrazzak’s play *Love, Bombs and Apples* was part of Golden Thread’s 2018 season. (Photo: Mila Sanders)
+
+The Sky Is The Limit Theatre’s *Regarding Antigone* directed by Art Babayants. (Photo: Philip Sawaia)
