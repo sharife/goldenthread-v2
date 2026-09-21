@@ -631,4 +631,5 @@ bottom:
 In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/menatma-2026-convening-registration-now-open/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
 
 Show Illustrations by [Shamseddiin Nelson](https://shamsnelson.com/)\
-Title Treatment by Navid Maghami
+Title Treatment by Navid Ghaem Maghami\
+Postcard and Poster Designer: Alexandria Lish
