@@ -305,6 +305,24 @@ cast:
         Iran and of Armenian heritage, Torange is an alumna of  San Francisco
         State University Theater Arts.
         [torangeyeghiazarian.com/](https://torangeyeghiazarian.com/)"
+    - name: Nakissa Etemad
+      credit: Production Dramaturg and LMDA Partnership Producer
+      image: https://ucarecdn.com/86763bab-25a2-49b0-8b87-e9294f63374b/
+    - bio: "*(she/they)* is an Iranian-American actor and theatremaker. Born and
+        raised in the Bay, she is excited for the opportunity to work with
+        fellow MENA theatremakers, and is delighted to be making her Golden
+        Thread debut. Acting credits include *As You Like It* (Phoebe), *Da
+        Vinci Code* (Collet), *Julius Caesar* (Brutus), *Romeo and Juliet*
+        (Juliet), *Rosencrantz and Guildenstern are Dead* (Guildenstern), and
+        *The Taming of the Shrew* (Bianca). Directing credits include *Love and
+        Information* at Mount Holyoke College, and MVHS Drama Llamas’ *A Very
+        Potter Radio Play* (Co-Director) and *Firebringer* (Music Director).
+        They graduated from Mount Holyoke College with a BA in Sociology and
+        Religion, where her studies focused on the relationship between
+        religion, history, culture, and community in West Asia."
+      name: Setareh Greenwood
+      credit: Actor
+      image: https://ucarecdn.com/47137780-1b27-43b8-9dce-d31aec540c6a/
     - bio: "*(﻿she/her)* is a Palestinian-Lebanese actor, writer, and comedian based
         out of Los Angeles, CA. Although she currently resides in LA, she was
         raised in the Bay Area and is so happy to be back and reconnect with her
