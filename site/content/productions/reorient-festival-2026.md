@@ -305,6 +305,112 @@ cast:
         Iran and of Armenian heritage, Torange is an alumna of  San Francisco
         State University Theater Arts.
         [torangeyeghiazarian.com/](https://torangeyeghiazarian.com/)"
+    - bio: "*(﻿she/her)* is a Palestinian-Lebanese actor, writer, and comedian based
+        out of Los Angeles, CA. Although she currently resides in LA, she was
+        raised in the Bay Area and is so happy to be back and reconnect with her
+        roots. She enjoys writing poetry, performing improv, and roller-skating
+        on the off days when she's not indoors watching a show or creating
+        online skits with her roommate for their instagram account
+        @notnormalave. She has toured around the world doing Shakespeare. She
+        performed as Juliet in Prague Shakespeare Company's Arabic adaption of
+        *Romeo and Juliet*, Richard III in their adaptation of *Richard III*,
+        and Queen Elizabeth in Irwin Appel's *The Death of Kings*. She believes
+        art, comedy, and theater carry immense power, and she is determined to
+        hone it and share herself and her culture through it. She carries who
+        she is and her heritage with her, and wants to amplify the beautiful and
+        hard stories of those around her. She is honored to be making her debut
+        with Golden Thread Productions and dedicates this performance to
+        Palestine."
+      name: Hind Jadallah-Karraa
+      credit: Actor
+      image: https://ucarecdn.com/3ab3f8cf-aac6-49c7-9b71-14f188e5bef3/
+    - bio: "*(﻿she/her)* is thrilled to make her Golden Thread debut with the ReOrient
+        Festival. Most recently, she played Cassius in *Julius Caesar* at Marin
+        Shakespeare Company and Mina Harker in *Dracula: A Feminist Revenge
+        Fantasy, Really* at SF Playhouse. This winter, she will return to Marin
+        Theatre Company in the holiday musical *The Gift of Nothing*. Charisse
+        is a frequent collaborator with Bay Area theatre makers and has also
+        performed at the Oregon Shakespeare Festival. She is a company member at
+        PlayGround SF and a proud graduate of San José State University.
+        [charisseloriaux.com](https://www.charisseloriaux.com)"
+      name: Charisse Loriaux*
+      credit: Actor
+      image: https://ucarecdn.com/0a0a925a-81ae-4040-bb3b-f76114b1a314/
+    - name: Thameen Mansour
+      credit: Actor
+      bio: "*(he/him)* is an actor originally from Palestine, now based in San
+        Francisco. He studied Film and Television at Yarmouk University in
+        Jordan, then earned his Master’s degree in Motion Picture at the Academy
+        of Art University. Since arriving in San Francisco, he has built a
+        strong body of work in short films, bringing a grounded, cross-cultural
+        perspective to every role. This production marks his first professional
+        stage role, and he brings to it the same dedication and cross-cultural
+        depth that has defined his work on screen. As a Palestinian himself,
+        Thameen brings a personal connection to this material that runs deeper
+        than craft alone. He is grateful for the opportunity to share these
+        stories, and excited for all that lies ahead."
+      image: https://ucarecdn.com/c6291605-66a4-4b9a-ac6e-6a58c3893fc9/
+    - name: Fatemeh Mehraban
+      credit: Actor
+      image: https://ucarecdn.com/bda7dd0b-01bc-450b-8e97-4ec3440bb93d/
+      bio: "*(﻿she/they)* is a queer Iranian performing artist, receiving her
+        associate’s of arts in theatre from American River College. Her work
+        combines her passion for performance with her passion for advocacy. She
+        spends her most of her time between NorCal and sunny Los Angeles working
+        on theatre, film, and voiceover! Her most recent work includes *As You
+        Like It* (Marin Shakespeare Company), *Pilgrimage* (Golden Thread), *A
+        Distinct Society* (Weston Theatre Company), *E﻿nglish* (Capital Stage),
+        *Georgiana & Kitty* (Capital Stage), *Twelfth Night* (California Stage),
+        *The Newlywed Game* (B Street Theatre), *The Most Massive Woman Wins*
+        (Capital Stage), *For the Love of Dog* (The Stage at Burke Junction),
+        and *Sawyer Thompson* (The Geery Theatre). Instagram:
+        [@fatemeow](https://www.instagram.com/fatemeow)"
+    - bio: "*(she/her)* is an Afghan-American actor, based in California. Having
+        appeared in their recent production *Pilgrimage*, Leda is thrilled to
+        continue storytelling with Golden Thread."
+      name: Leda Rasooli
+      credit: Actor
+      image: https://ucarecdn.com/8e852b26-02d9-48ec-8860-e3bd76f7347a/
+    - name: Ameen Safi
+      credit: Actor
+      image: https://ucarecdn.com/373bd820-d91d-4c48-b839-f5f9cfa283aa/
+      bio: is an Afghan American actor, writer, and teaching artist based in the San
+        Francisco Bay Area. He is thrilled to be making his first production
+        with Golden Thread Productions after previously collaborating with the
+        company's founder, Torange Yeghiazarian. Ameen has appeared in multiple
+        short films, notably *The Wisdom of the Crowd*, which he co-wrote and
+        was well received on the film festival circuit. Outside of acting, he
+        writes original plays and screenplays, teaches youth theatre, and
+        practices Hindustani classical music on the sitar. His work is deeply
+        influenced by Afghan culture, classical poetry, and stories that explore
+        identity, belonging, and the connections between people across cultures.
+        Ameen is grateful to be part of this production and looks forward to
+        sharing this story with audiences.
+    - bio: "*(﻿she/her)* is a San Francisco–based multidisciplinary performing artist,
+        designer, curator, and arts activist born and raised in Iran. As a
+        vocalist, she blends Western classical technique with Middle Eastern and
+        Persian traditions, creating a sound rooted in her cultural heritage. As
+        an actress, Zarif trained with renowned Iranian theater master Bahram
+        Beyzaie at Stanford University’s Iranian Studies Program. Her stage
+        credits include *Ardaviraf’s Report*, *Tarabnameh* (musical),
+        *Crossroads*, *The Language of Wild Berries* (Golden Thread Productions,
+        2022), *Exodus to Eden* (Oakland Theater Project, 2023), *Dash Akol
+        According to Marjan* at Berkeley Repertory Theatre’s Roda Theatre
+        (2024–2025), and *Leili and Majnun* (2024–2025). Zarif starred in the
+        title role in the feature film *MITRA* (2021), which premiered at the
+        International Film Festival Rotterdam. As a shadow performer and costume
+        designer, she toured internationally with the UNIMA Award-winning
+        *Feathers of Fire: A Persian Epic*, performing at the Brooklyn Academy
+        of Music and the Metropolitan Museum of Art. Most recently, she was a
+        featured vocalist in *What Do Women Say?* with Golden Thread Productions
+        (2026) and is currently in production as Cordelia in *King Lear* with
+        Oakland Theater Project at Z Space. She is the Artistic and Managing
+        Director of Red Poppy Art House, an independent multidisciplinary
+        nonprofit arts organization. She holds an MA in Landscape Architecture
+        from the University of Tehran, College of Fine Arts."
+      name: Dina Zarif
+      credit: Actor
+      image: https://ucarecdn.com/bcfe6452-62f4-4fb3-b76d-f0312004eeb5/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
