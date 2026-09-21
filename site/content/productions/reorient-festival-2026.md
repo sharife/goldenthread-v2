@@ -305,6 +305,20 @@ cast:
         Iran and of Armenian heritage, Torange is an alumna of  San Francisco
         State University Theater Arts.
         [torangeyeghiazarian.com/](https://torangeyeghiazarian.com/)"
+    - name: Nakissa Etemad
+      credit: Production Dramaturg (Blood Fruit, Dare Not Speak, Homing Pigeons & Co)
+        and LMDA Partnership Producer
+      image: https://ucarecdn.com/86763bab-25a2-49b0-8b87-e9294f63374b/
+    - bio: "*(﻿she/they)* recently graduated with her Ph.D. in Theatre and Performance
+        Studies from Stanford University. Prior to Stanford, Johnson received
+        her MFA in Directing and taught at Beloit College. Marina recently
+        directed plays and led workshops at El Hakawati (Jerusalem), Al Harah
+        Theatre (Bethlehem), and ASHTAR Theatre (Ramallah). She is currently
+        living in Palestine, working as a director, dramaturg, and trainer.
+        [MarinaJohnson.com](https://www.marinajohnson.com)"
+      name: Marina Johnson
+      credit: Productions Dramaturg (Camouflage) and Publications Dramaturg
+      image: https://ucarecdn.com/e817a43c-9e97-4e31-9510-03ab82092cfd/
     - bio: "*(she/her)* is a writer and dramaturg from the Southeast U.S. and moved to
         Belfast, Ireland in 2005. Her dramaturgy has involved immersive,
         24-hour, multimedia, verbatim and dance theatre, with companies like the
@@ -318,10 +332,6 @@ cast:
       name: Emily DeDakis
       credit: Publications Dramaturg
       image: https://ucarecdn.com/fa9eb84a-bda3-4b20-ab98-48680cbc7923/
-    - name: Nakissa Etemad
-      credit: Production Dramaturg (Blood Fruit, Dare Not Speak, Homing Pigeons & Co)
-        and LMDA Partnership Producer
-      image: https://ucarecdn.com/86763bab-25a2-49b0-8b87-e9294f63374b/
     - bio: "*(she/her)* has been a production and development dramaturg for over two
         decades. Some favorite productions include Nikki Yeboah’s *11th & Pine*
         (Sound Theatre, Seattle), Min Kahng’s *The Four Immigrants: An American
@@ -339,16 +349,6 @@ cast:
       name: Oona Hatton
       credit: Publications Dramaturg
       image: https://ucarecdn.com/b413554e-9a00-437a-b850-b6a74e72bc90/
-    - bio: "*(﻿she/they)* recently graduated with her Ph.D. in Theatre and Performance
-        Studies from Stanford University. Prior to Stanford, Johnson received
-        her MFA in Directing and taught at Beloit College. Marina recently
-        directed plays and led workshops at El Hakawati (Jerusalem), Al Harah
-        Theatre (Bethlehem), and ASHTAR Theatre (Ramallah). She is currently
-        living in Palestine, working as a director, dramaturg, and trainer.
-        [MarinaJohnson.com](https://www.marinajohnson.com)"
-      name: Marina Johnson
-      credit: Productions Dramaturg (Camouflage) and Publications Dramaturg
-      image: https://ucarecdn.com/e817a43c-9e97-4e31-9510-03ab82092cfd/
     - bio: "*(she/they)* is an Iranian-American actor and theatremaker. Born and
         raised in the Bay, she is excited for the opportunity to work with
         fellow MENA theatremakers, and is delighted to be making her Golden
