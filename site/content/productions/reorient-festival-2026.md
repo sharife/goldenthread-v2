@@ -482,6 +482,53 @@ cast:
       name: Kate Boyd
       credit: Scenic Designer
       image: https://ucarecdn.com/4fd15d20-1efa-4391-a737-9876ce0f65dd/
+    - bio: "*(﻿he/him)* is a lighting and multimedia designer with side endeavors in
+        art focusing on using new technologies for storytelling. He has
+        collaborated all over the world on productions by such organizations as
+        the American Repertory Theatre, The Atlanta Opera, Santa Fe Opera,
+        Houston Grand Opera, The Dallas Opera, The Royal Court Theatre (UK), San
+        Diego Opera, San Francisco Opera, Golden Thread, Manhattan Theatre Club,
+        Seattle Rep, Soho Rep, Second Stage, Oregon Shakespeare Festival,
+        National Sawdust Factory to name a few, and is an ongoing video
+        associate for *Wicked* on Broadway and National Tours. He is originally
+        from Tumwater, Washington, USA. He attended Southern Methodist
+        University (MFA in Stage Design), Southern Oregon University (BFA in
+        Lighting Design), and is currently based in Mountain View, CA.
+        [maxwellbowman.com](http://maxwellbowman.com)"
+      name: Maxwell Bowman
+      credit: Lighting Designer
+      image: https://ucarecdn.com/09df0dc2-260f-4f8f-ad61-b27b1e09b2b2/
+    - name: Buffy
+      credit: Costume Designer
+      image: https://ucarecdn.com/b7546bb2-a794-4cf6-9fa3-cdddea0fc24a/
+      bio: "*(she/her)* is filmmaker and artist from the Bay Area. In addition to
+        personal creative goals, Buffy is eager about supporting others in their
+        work, and resistance. Buffy has collaborated on *Collective Rage* at
+        Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Limp Wrist on
+        the Lever* at Crowded Fire Theater; *AZAD (the rabbit and the wolf)*,
+        *Pilgrimage*, and *Arab Spring* at Golden Thread Productions."
+    - name: Jenna Lauren Carroll
+      credit: Properties Designer
+      bio: >-
+        *(﻿she/her)* is a Bay Area scenic designer, props director, and painter.
+        Jenna's typical design style is fairies and princesses and trauma. She
+        explores injustices and structural discrimination that fuel the cyclical
+        age-old stories that were true then and true now. Her designs are
+        expressive and mystical with flair and heart \[because pretty pink
+        sparkles and a serious message isn't and shouldn't be mutually
+        exclusive]. Through her queer, femme lens, she design with a cause in
+        mind. The flow of paint mixes color and messages, often in a painterly
+        style. By shifting perspective and movement, she challenges preconceived
+        notions and draws parallels and explores the gray. You might have seen
+        her previous SF work in Crowded Fire's *Limp Wrist* or in *Please Don't
+        Slow Me Down*. When she isn't designing or fabricating, you can find her
+        watching drag race or murder shows, singing in her a cappella group, or
+        hanging out with her favorite people (her mom, sister, grandma, and
+        dog). Enjoy the show!
+        [jennalaurencarroll.com](https://www.jennalaurencarroll.com)\
+
+        [@jenna.lauren.carroll](https://www.instagram.com/jenna.lauren.carroll)
+      image: https://ucarecdn.com/8a238f84-5829-4828-bdaa-999621e9942d/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
