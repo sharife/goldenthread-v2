@@ -46,10 +46,14 @@ lists:
           by **Hassan Abdulrazzak** (London-based, Iraq)\
           directed by **Salim Razawi**\
           dramaturgy by **Nakissa Etemad**
-        text: A hard-hitting play by artistic affiliate Hassan Abdulrazzak (*Love Bombs
-          and Apples*), *Dare Not Speak* focuses on a young child, murdered in a
-          genocide, as she pitches her story to a theater artistic director who
-          is reluctant to put it on stage.
+        text: >-
+          A hard-hitting play by artistic affiliate Hassan Abdulrazzak (*Love
+          Bombs and Apples*), *Dare Not Speak* focuses on a young child,
+          murdered in a genocide, as she pitches her story to a theater artistic
+          director who is reluctant to put it on stage.
+
+
+          *C﻿ontent Advisory: Discussion of genocide and child murder*
         title: Dare Not Speak
         itemstart: ""
         itemend: ""
@@ -57,10 +61,14 @@ lists:
         subtitle: |-
           by **Banafsheh Hassani** (Montreal-based, Iran)\
           directed by **Nabra Nelson**
-        text: A new solo show Inspired by a true story, the classic Greek tragedy of
+        text: >-
+          A new solo show Inspired by a true story, the classic Greek tragedy of
           Antigone, war photography, fleeting memories, a revolution, state
           propaganda, a song she sang, and cringe diaspora poetry where “every
           line is a call to action.
+
+
+          *C﻿ontent Advisory: Suicide, murder, assault. Blood onstage.*
         title: Regarding Antigone
         itemstart: ""
         itemend: ""
@@ -69,9 +77,14 @@ lists:
           by **Sepehr Jafari** (Bay Area-based, Iran)\
           directed by **Torange Yeghiazarian**\
           dramaturgy by **Nakissa Etemad**
-        text: "*Homing Pigeons & Co* follows two Iranian friends, one stuck in a police
-          van in Tehran and the other in her bed in San Francisco, as they
-          juggle overthrowing a dictatorship and shared custody of a pet fish."
+        text: >-
+          *Homing Pigeons & Co* follows two Iranian friends, one stuck in a
+          police van in Tehran and the other in her bed in San Francisco, as
+          they juggle overthrowing a dictatorship and shared custody of a pet
+          fish.
+
+
+          *C﻿ontent Advisory: Mention of hangings and beatings.*
         title: Homing Pigeons & Co
         itemstart: ""
         itemend: ""
@@ -80,12 +93,16 @@ lists:
           by **Hannah Khalil** (London-based, Palestine/Ireland)\
           directed by **Wynne Chan**\
           dramaturgy by **Nakissa Etemad**
-        text: "*Blood Fruit* tells the true story of Mary Manning, a young shop worker
-          in 1980s Dublin who refused to handle South African grapefruits and
-          convinced her co-workers to strike to protest the Apartheid regime.
-          Affiliated artist Hannah Khalil (*Scenes From 71* Years*) weaves a
-          moving story about the power of protest and the difference individuals
-          can make against systems of oppression."
+        text: >-
+          *Blood Fruit* tells the true story of Mary Manning, a young shop
+          worker in 1980s Dublin who refused to handle South African grapefruits
+          and convinced her co-workers to strike to protest the Apartheid
+          regime. Affiliated artist Hannah Khalil (*Scenes From 71* Years*)
+          weaves a moving story about the power of protest and the difference
+          individuals can make against systems of oppression.
+
+
+          *C﻿ontent Advisory: Blood onstage.*
         title: Blood Fruit
         itemstart: ""
         itemend: ""
@@ -94,16 +111,20 @@ lists:
           by **Ahmed Masoud** (London-based, Gaza, Palestine)\
           directed by **Nick McDow Musleh**\
           dramaturgy by **Marina Johnson**
-        text: Award-winning writer and director Ahmed Masoud brings to life surprisingly
-          funny and boldly human stories about four young people in Palestine
-          and Israel. Thirteen-year-old Thaer is on a boat in the waters between
-          Turkey and Greece. He is troubled, but not because he might drown any
-          minute. Nibal is finishing her SAT exams in an American style school
-          in Ramallah while well-meaning suitors pester her father with marriage
-          proposals. Gaza taxi driver Zeid uses Tinder obsessively to try to
-          find a date. Sami dreams of becoming a famous actor, but as an Arab
-          actor, is he willing to take on the roles he’s offered to get known by
-          established Israeli directors?
+        text: >-
+          Award-winning writer and director Ahmed Masoud brings to life
+          surprisingly funny and boldly human stories about four young people in
+          Palestine and Israel. Thirteen-year-old Thaer is on a boat in the
+          waters between Turkey and Greece. He is troubled, but not because he
+          might drown any minute. Nibal is finishing her SAT exams in an
+          American style school in Ramallah while well-meaning suitors pester
+          her father with marriage proposals. Gaza taxi driver Zeid uses Tinder
+          obsessively to try to find a date. Sami dreams of becoming a famous
+          actor, but as an Arab actor, is he willing to take on the roles he’s
+          offered to get known by established Israeli directors?
+
+
+          *C﻿ontent Advisory: Examines occupation and genocide. Sexual themes.*
         title: Camouflage
         itemstart: ""
         itemend: ""
