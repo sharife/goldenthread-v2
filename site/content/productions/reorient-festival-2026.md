@@ -470,6 +470,18 @@ cast:
       name: Dina Zarif
       credit: Actor
       image: https://ucarecdn.com/bcfe6452-62f4-4fb3-b76d-f0312004eeb5/
+    - bio: "*(﻿she/her)* is a Bay Area scenery and lighting designer. She recently
+        designed the sets for Word for Word’s *Absolutely Sci Fi* and lighting
+        for *The Cherry Orchard* at Marin Theater Company. She is proud to be an
+        affilliated artist at Golden Thread, where she has designed *The
+        Language of Wild Berries, Drowning in Cairo, We Swim We Talk We Go To
+        War, Isfahan Blues*, among others. She has also designed for Aurora
+        Theater, Portland Center Stage, Magic Theater and Merola Opera. Kate is
+        a recipient of the Gerbode Design Fellowship and teaches design and
+        stagecraft at Lick-Wilmerding High School."
+      name: Kate Boyd
+      credit: Scenic Designer
+      image: https://ucarecdn.com/4fd15d20-1efa-4391-a737-9876ce0f65dd/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
