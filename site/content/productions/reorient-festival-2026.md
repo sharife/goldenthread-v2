@@ -209,7 +209,7 @@ cast:
         [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
       image: https://ucarecdn.com/48852df2-393f-46b6-98cc-fb11dfcf37dc/
     - name: Wynne Chan
-      credit: Director (Blood Fruit)
+      credit: Director (Blood Fruit) and Managing Director
       image: https://ucarecdn.com/c8271363-9d4f-46d1-be24-bd883480b225/
       bio: "*(she/her)* is the Managing Director at Golden Thread Productions. She is
         a Hong Kong-American director, dramaturg, and theatermaker. She is also
@@ -263,10 +263,10 @@ cast:
         Theatre, the Tessellate Festival, and American Players Theatre.
         [nabranelson.com](http://nabranelson.com)"
       name: Nabra Nelson
-      credit: (Director, Regarding Antigone)
+      credit: Director (Regarding Antigone) and Artistic Director
       image: https://ucarecdn.com/97ac1fdb-bfa9-4234-a2b1-9b52acdc4e23/
     - name: Salim Razawi
-      credit: Director (Dare Not Speak)
+      credit: Director (Dare Not Speak) and Artistic Producer
       image: https://ucarecdn.com/e6c89f27-d761-4613-b347-e6eab1e67851/
       bio: "*(he/him)* is an Afghan-American theatre maker. He is the Artistic
         Producer & Casting Director for Golden Thread Productions. Additionally,
@@ -283,7 +283,7 @@ cast:
         co-founded TEAM Theatre, a youth theatre company serving the Tri-Valley.
         [salimrazawi.com](http://salimrazawi.com/)"
     - name: Torange Yeghiazarian
-      credit: Director (Homing Pigeons & Co)
+      credit: Director (Homing Pigeons & Co) and Founding Artistic Director Emeritus
       image: https://ucarecdn.com/31b248a4-2cde-4660-be75-a5dc5c4becb5/
       bio: "*(she/her)* is an award-winning playwright and director passionate about
         building community through theater. Her artistic practice reflects her
@@ -306,8 +306,49 @@ cast:
         State University Theater Arts.
         [torangeyeghiazarian.com/](https://torangeyeghiazarian.com/)"
     - name: Nakissa Etemad
-      credit: Production Dramaturg and LMDA Partnership Producer
+      credit: Production Dramaturg (Blood Fruit, Dare Not Speak, Homing Pigeons & Co)
+        and LMDA Partnership Producer
       image: https://ucarecdn.com/86763bab-25a2-49b0-8b87-e9294f63374b/
+    - bio: "*(﻿she/they)* recently graduated with her Ph.D. in Theatre and Performance
+        Studies from Stanford University. Prior to Stanford, Johnson received
+        her MFA in Directing and taught at Beloit College. Marina recently
+        directed plays and led workshops at El Hakawati (Jerusalem), Al Harah
+        Theatre (Bethlehem), and ASHTAR Theatre (Ramallah). She is currently
+        living in Palestine, working as a director, dramaturg, and trainer.
+        [MarinaJohnson.com](https://www.marinajohnson.com)"
+      name: Marina Johnson
+      credit: Productions Dramaturg (Camouflage) and Publications Dramaturg
+      image: https://ucarecdn.com/e817a43c-9e97-4e31-9510-03ab82092cfd/
+    - bio: "*(she/her)* is a writer and dramaturg from the Southeast U.S. and moved to
+        Belfast, Ireland in 2005. Her dramaturgy has involved immersive,
+        24-hour, multimedia, verbatim and dance theatre, with companies like the
+        Lyric Theatre, Accidental, Terra Nova, Replay, An Droichead and
+        Scene+Heard (UK/Ireland), foolsFURY and Golden Thread (USA). She
+        coordinated and co-mentored Fighting Words Northern Ireland’s Young
+        Playwrights programme from 2019-2024. Emily has written for theatre,
+        sound art, radio, TV and contemporary music, and performs voice/text
+        with the experimental ensembles HIVE Choir and No Hevdem.
+        [haveyouthoughtabout.co.uk/](https://www.haveyouthoughtabout.co.uk/)"
+      name: Emily DeDakis
+      credit: Publications Dramaturg
+      image: https://ucarecdn.com/fa9eb84a-bda3-4b20-ab98-48680cbc7923/
+    - bio: "*(she/her)* has been a production and development dramaturg for over two
+        decades. Some favorite productions include Nikki Yeboah’s *11th & Pine*
+        (Sound Theatre, Seattle), Min Kahng’s *The Four Immigrants: An American
+        Musical Manga* (Theatreworks, Mountainview), and Tom Stoppard’s
+        *Arcadia* (The Hypocrites, Chicago). Oona is a Professor of Performance
+        Studies in the Communication Studies Department at San José State
+        University and co-artistic director of Davis Repertory Theatre, with
+        whom she devises, directs, writes, produces, and, of course, dramaturgs.
+        Davis Rep’s current project, *As We Recall*, is a play based on
+        interviews with community members who organized the 2023 recall of a
+        transphobic school board trustee in Woodland, CA. Oona is a proud member
+        of the Literary Managers and Dramaturgs of the Americas (LMDA) and
+        co-editor of the forthcoming anthology, *Dramaturging Devised
+        Performance* (Intellect). [davisrep.org](https://www.davisrep.org)"
+      name: Oona Hatton
+      credit: Publications Dramaturg
+      image: https://ucarecdn.com/b413554e-9a00-437a-b850-b6a74e72bc90/
     - bio: "*(she/they)* is an Iranian-American actor and theatremaker. Born and
         raised in the Bay, she is excited for the opportunity to work with
         fellow MENA theatremakers, and is delighted to be making her Golden
@@ -429,6 +470,129 @@ cast:
       name: Dina Zarif
       credit: Actor
       image: https://ucarecdn.com/bcfe6452-62f4-4fb3-b76d-f0312004eeb5/
+    - bio: Lauren is a Bay Area-based stage manager, who is excited to join Golden
+        Thread in this production! She has previously stage managed for other
+        Bay Area theatres such as Magic Theatre, Aurora Theatre, Berkeley
+        Playhouse, SFBATCO, and Lorraine Hansberry Theatre.
+      name: Lauren Quan*
+      credit: Stage Manager
+      image: https://ucarecdn.com/f99d8ca3-1152-4e02-8a84-ff1cba348d20/
+    - bio: "*(﻿he/him)* is a stage manager originally from the East Bay, who is
+        looking forward to his first production with Golden Thread. After
+        earning a bachelor's in Stage Management & Technical Theatre from the
+        Lir Academy in Dublin, Ireland, Oliver has previously worked as ASM on
+        productions for the Irish National Opera (*The Flying Dutchman, L'elisir
+        d'amore, Madama Butterfly*) and ANU Productions (*Starjazzer, The
+        Dead*). Since returning to California earlier this year, he has worked
+        as ASM for the immersive theater company 13th Floor (*Finnegan's
+        Wake*)."
+      name: Oliver Kampman
+      credit: Assistant Stage Manager
+      image: https://ucarecdn.com/c00cfebc-fd94-4824-9e3c-afec8111668b/
+    - bio: "*(﻿she/her)* is a Bay Area scenery and lighting designer. She recently
+        designed the sets for Word for Word’s *Absolutely Sci Fi* and lighting
+        for *The Cherry Orchard* at Marin Theater Company. She is proud to be an
+        affilliated artist at Golden Thread, where she has designed *The
+        Language of Wild Berries, Drowning in Cairo, We Swim We Talk We Go To
+        War, Isfahan Blues*, among others. She has also designed for Aurora
+        Theater, Portland Center Stage, Magic Theater and Merola Opera. Kate is
+        a recipient of the Gerbode Design Fellowship and teaches design and
+        stagecraft at Lick-Wilmerding High School."
+      name: Kate Boyd
+      credit: Scenic Designer
+      image: https://ucarecdn.com/4fd15d20-1efa-4391-a737-9876ce0f65dd/
+    - bio: "*(﻿he/him)* is a lighting and multimedia designer with side endeavors in
+        art focusing on using new technologies for storytelling. He has
+        collaborated all over the world on productions by such organizations as
+        the American Repertory Theatre, The Atlanta Opera, Santa Fe Opera,
+        Houston Grand Opera, The Dallas Opera, The Royal Court Theatre (UK), San
+        Diego Opera, San Francisco Opera, Golden Thread, Manhattan Theatre Club,
+        Seattle Rep, Soho Rep, Second Stage, Oregon Shakespeare Festival,
+        National Sawdust Factory to name a few, and is an ongoing video
+        associate for *Wicked* on Broadway and National Tours. He is originally
+        from Tumwater, Washington, USA. He attended Southern Methodist
+        University (MFA in Stage Design), Southern Oregon University (BFA in
+        Lighting Design), and is currently based in Mountain View, CA.
+        [maxwellbowman.com](http://maxwellbowman.com)"
+      name: Maxwell Bowman
+      credit: Lighting Designer
+      image: https://ucarecdn.com/09df0dc2-260f-4f8f-ad61-b27b1e09b2b2/
+    - name: Buffy
+      credit: Costume Designer
+      image: https://ucarecdn.com/b7546bb2-a794-4cf6-9fa3-cdddea0fc24a/
+      bio: "*(she/her)* is filmmaker and artist from the Bay Area. In addition to
+        personal creative goals, Buffy is eager about supporting others in their
+        work, and resistance. Buffy has collaborated on *Collective Rage* at
+        Shotgun Players; *Do You Feel Anger* at Marin Theatre; *Limp Wrist on
+        the Lever* at Crowded Fire Theater; *AZAD (the rabbit and the wolf)*,
+        *Pilgrimage*, and *Arab Spring* at Golden Thread Productions."
+    - name: Jenna Lauren Carroll
+      credit: Properties Designer
+      bio: >-
+        *(﻿she/her)* is a Bay Area scenic designer, props director, and painter.
+        Jenna's typical design style is fairies and princesses and trauma. She
+        explores injustices and structural discrimination that fuel the cyclical
+        age-old stories that were true then and true now. Her designs are
+        expressive and mystical with flair and heart \[because pretty pink
+        sparkles and a serious message isn't and shouldn't be mutually
+        exclusive]. Through her queer, femme lens, she design with a cause in
+        mind. The flow of paint mixes color and messages, often in a painterly
+        style. By shifting perspective and movement, she challenges preconceived
+        notions and draws parallels and explores the gray. You might have seen
+        her previous SF work in Crowded Fire's *Limp Wrist* or in *Please Don't
+        Slow Me Down*. When she isn't designing or fabricating, you can find her
+        watching drag race or murder shows, singing in her a cappella group, or
+        hanging out with her favorite people (her mom, sister, grandma, and
+        dog). Enjoy the show!
+        [jennalaurencarroll.com](https://www.jennalaurencarroll.com)\
+
+        [@jenna.lauren.carroll](https://www.instagram.com/jenna.lauren.carroll)
+      image: https://ucarecdn.com/8a238f84-5829-4828-bdaa-999621e9942d/
+    - name: Elliott Orr
+      credit: Sound Designer
+      image: https://ucarecdn.com/f9e37862-a84b-4442-96b5-1af963d879b6/
+      bio: "*(﻿he/him)* is an Oakland-based audio engineer and sound designer. He is
+        thrilled to be returning to Golden Thread for the first time since *AZAD
+        (the rabbit and the wolf)* (2025). Some of his recent notable credits
+        include *Twelfth Night* (ACT), *\\||:Girls:||:Chance:||:Music:||* (ACT),
+        *Jagged Little Pill* (Center REP), *M. Butterfly* (SF Playhouse), and
+        *Into The Woods* (SF Playhouse)."
+    - name: River Bermudez Sanders
+      credit: Production Manager
+      image: https://ucarecdn.com/0aab204f-99c0-4049-80bf-3dda30c0a28c/
+    - bio: "*(﻿he/him)* feels blessed to return for his fourth production with Golden
+        Thread, where he previously worked two ReOrient Festivals and *Drowning
+        in Cairo*. He studied theater and performance at Stanford University,
+        and has freelanced in the Bay Area theater scene as a stage manager,
+        technician, carpenter/welder, and production manager. He is currently
+        the Assistant Technical Director at California Scenic Fabrication. Huge
+        thanks to the Cal Scenic team for their generosity and mentorship, to
+        his friends and family for their love in the form of late-night talks
+        and food, and to the amazing ReOrient team.
+        [calscenic.org](https://www.calscenic.org/)"
+      name: Tyler Miller
+      credit: Technical Director
+      image: https://ucarecdn.com/46a4e558-e6ab-4585-8407-06aeb1081350/
+    - name: Wendy Reyes
+      credit: Production Associate
+      bio: >-
+        *(she/her)* is a Mexican-American, multimedia artist from St. Louis,
+        Missouri. She received her Bachelor in Media Studies, minor in
+        Chicanx-Latinx Studies from the University of San Francisco. With her
+        skills in video and audio production, she aims to create engaging and
+        educational material that brings awareness to social injustices in order
+        to promote a healthy and just path for marginalized communities. Wendy
+        is now based in the Bay Area, and is the Production Associate at Golden
+        Thread Productions and a current participant of KALW’s radio journalism
+        program in San Francisco, CA.
+
+
+        [](https://goldenthread.org/about/people/#open-modal-Soluna%20Espinosa%20Pieb%20)
+      image: https://ucarecdn.com/aedfe386-bc95-4327-a75c-a448652210fb/
+    - bio: ""
+      credit: Wellness & Movement Consultant (Regarding Antigone)
+      name: Taraneh Sarrafzadeh
+      image: https://ucarecdn.com/7931beed-9651-44e6-90be-0a6ff646c169/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
@@ -467,4 +631,5 @@ bottom:
 In conjunction with the ReOrient 2026 Festival, we're proud to host [The MENA Theater Makers Alliance 2026 Fall Convening](https://menatheater.org/announcements/menatma-2026-convening-registration-now-open/) on October 23-25, 2026. This convening of artists, academics, and activists is co-produced by MENATMA, Art2Action, and Golden Thread Productions, as part of a multiyear partnership *Protecting Dissent*.
 
 Show Illustrations by [Shamseddiin Nelson](https://shamsnelson.com/)\
-Title Treatment by Navid Maghami
+Title Treatment by Navid Ghaem Maghami\
+Postcard and Poster Designer: Alexandria Lish
