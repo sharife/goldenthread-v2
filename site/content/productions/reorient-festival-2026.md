@@ -209,7 +209,7 @@ cast:
         [ahmedmasoud.co.uk](http://www.ahmedmasoud.co.uk)"
       image: https://ucarecdn.com/48852df2-393f-46b6-98cc-fb11dfcf37dc/
     - name: Wynne Chan
-      credit: Director (Blood Fruit)
+      credit: Director (Blood Fruit) and Managing Director
       image: https://ucarecdn.com/c8271363-9d4f-46d1-be24-bd883480b225/
       bio: "*(she/her)* is the Managing Director at Golden Thread Productions. She is
         a Hong Kong-American director, dramaturg, and theatermaker. She is also
@@ -263,10 +263,10 @@ cast:
         Theatre, the Tessellate Festival, and American Players Theatre.
         [nabranelson.com](http://nabranelson.com)"
       name: Nabra Nelson
-      credit: (Director, Regarding Antigone)
+      credit: Director (Regarding Antigone) and Artistic Director
       image: https://ucarecdn.com/97ac1fdb-bfa9-4234-a2b1-9b52acdc4e23/
     - name: Salim Razawi
-      credit: Director (Dare Not Speak)
+      credit: Director (Dare Not Speak) and Artistic Producer
       image: https://ucarecdn.com/e6c89f27-d761-4613-b347-e6eab1e67851/
       bio: "*(he/him)* is an Afghan-American theatre maker. He is the Artistic
         Producer & Casting Director for Golden Thread Productions. Additionally,
@@ -283,7 +283,7 @@ cast:
         co-founded TEAM Theatre, a youth theatre company serving the Tri-Valley.
         [salimrazawi.com](http://salimrazawi.com/)"
     - name: Torange Yeghiazarian
-      credit: Director (Homing Pigeons & Co)
+      credit: Director (Homing Pigeons & Co) and Founding Artistic Director Emeritus
       image: https://ucarecdn.com/31b248a4-2cde-4660-be75-a5dc5c4becb5/
       bio: "*(she/her)* is an award-winning playwright and director passionate about
         building community through theater. Her artistic practice reflects her
@@ -470,6 +470,25 @@ cast:
       name: Dina Zarif
       credit: Actor
       image: https://ucarecdn.com/bcfe6452-62f4-4fb3-b76d-f0312004eeb5/
+    - bio: Lauren is a Bay Area-based stage manager, who is excited to join Golden
+        Thread in this production! She has previously stage managed for other
+        Bay Area theatres such as Magic Theatre, Aurora Theatre, Berkeley
+        Playhouse, SFBATCO, and Lorraine Hansberry Theatre.
+      name: Lauren Quan*
+      credit: Stage Manager
+      image: https://ucarecdn.com/f99d8ca3-1152-4e02-8a84-ff1cba348d20/
+    - bio: "*(﻿he/him)* is a stage manager originally from the East Bay, who is
+        looking forward to his first production with Golden Thread. After
+        earning a bachelor's in Stage Management & Technical Theatre from the
+        Lir Academy in Dublin, Ireland, Oliver has previously worked as ASM on
+        productions for the Irish National Opera (*The Flying Dutchman, L'elisir
+        d'amore, Madama Butterfly*) and ANU Productions (*Starjazzer, The
+        Dead*). Since returning to California earlier this year, he has worked
+        as ASM for the immersive theater company 13th Floor (*Finnegan's
+        Wake*)."
+      name: Oliver Kampman
+      credit: Assistant Stage Manager
+      image: https://ucarecdn.com/c00cfebc-fd94-4824-9e3c-afec8111668b/
     - bio: "*(﻿she/her)* is a Bay Area scenery and lighting designer. She recently
         designed the sets for Word for Word’s *Absolutely Sci Fi* and lighting
         for *The Cherry Orchard* at Marin Theater Company. She is proud to be an
@@ -529,6 +548,51 @@ cast:
 
         [@jenna.lauren.carroll](https://www.instagram.com/jenna.lauren.carroll)
       image: https://ucarecdn.com/8a238f84-5829-4828-bdaa-999621e9942d/
+    - name: Elliott Orr
+      credit: Sound Designer
+      image: https://ucarecdn.com/f9e37862-a84b-4442-96b5-1af963d879b6/
+      bio: "*(﻿he/him)* is an Oakland-based audio engineer and sound designer. He is
+        thrilled to be returning to Golden Thread for the first time since *AZAD
+        (the rabbit and the wolf)* (2025). Some of his recent notable credits
+        include *Twelfth Night* (ACT), *\\||:Girls:||:Chance:||:Music:||* (ACT),
+        *Jagged Little Pill* (Center REP), *M. Butterfly* (SF Playhouse), and
+        *Into The Woods* (SF Playhouse)."
+    - name: River Bermudez Sanders
+      credit: Production Manager
+      image: https://ucarecdn.com/0aab204f-99c0-4049-80bf-3dda30c0a28c/
+    - bio: "*(﻿he/him)* feels blessed to return for his fourth production with Golden
+        Thread, where he previously worked two ReOrient Festivals and *Drowning
+        in Cairo*. He studied theater and performance at Stanford University,
+        and has freelanced in the Bay Area theater scene as a stage manager,
+        technician, carpenter/welder, and production manager. He is currently
+        the Assistant Technical Director at California Scenic Fabrication. Huge
+        thanks to the Cal Scenic team for their generosity and mentorship, to
+        his friends and family for their love in the form of late-night talks
+        and food, and to the amazing ReOrient team.
+        [calscenic.org](https://www.calscenic.org/)"
+      name: Tyler Miller
+      credit: Technical Director
+      image: https://ucarecdn.com/46a4e558-e6ab-4585-8407-06aeb1081350/
+    - name: Wendy Reyes
+      credit: Production Associate
+      bio: >-
+        *(she/her)* is a Mexican-American, multimedia artist from St. Louis,
+        Missouri. She received her Bachelor in Media Studies, minor in
+        Chicanx-Latinx Studies from the University of San Francisco. With her
+        skills in video and audio production, she aims to create engaging and
+        educational material that brings awareness to social injustices in order
+        to promote a healthy and just path for marginalized communities. Wendy
+        is now based in the Bay Area, and is the Production Associate at Golden
+        Thread Productions and a current participant of KALW’s radio journalism
+        program in San Francisco, CA.
+
+
+        [](https://goldenthread.org/about/people/#open-modal-Soluna%20Espinosa%20Pieb%20)
+      image: https://ucarecdn.com/aedfe386-bc95-4327-a75c-a448652210fb/
+    - bio: ""
+      credit: Wellness & Movement Consultant (Regarding Antigone)
+      name: Taraneh Sarrafzadeh
+      image: https://ucarecdn.com/7931beed-9651-44e6-90be-0a6ff646c169/
 mentions:
   heading: ReOrient 2026 Festival Honorary Mentions
   text: |-
