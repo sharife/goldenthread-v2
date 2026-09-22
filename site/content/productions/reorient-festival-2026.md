@@ -127,9 +127,9 @@ lists:
       - itemstart: ""
         itemend: ""
         text: |-
-          Show Illustrations by [Shamseddiin Nelson](https://shamsnelson.com/)\
-          Title Treatment by Navid Ghaem Maghami\
-          Postcard and Poster Designer: Alexandria Lish
+          Show Illustrations: [Shamseddiin Nelson](https://shamsnelson.com/)\
+          Title Treatment: Navid Ghaem Maghami\
+          Postcard and Poster Design: Alexandria Lish
   - heading: MENATMA 2026 FALL CONVENING
     items:
       - itemstart: ""
