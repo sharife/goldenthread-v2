@@ -149,6 +149,18 @@ lists:
           collaborations between dramaturgs and Middle Eastern theatre artists
           for generations to come."
         image: https://ucarecdn.com/870686e4-627c-4bae-8876-55db24d99a74/
+      - itemstart: ""
+        itemend: ""
+        link: https://goldenthread.org/posts/who-gets-to-speak-in-palestinian-and-iranian-narratives-at-reorient-2026-1/
+        cta: Read the Article
+        image: https://ucarecdn.com/963adf91-0100-45ae-9326-6813f84de21c/
+        title: Who Gets to Speak in Palestinian and Iranian Narratives at ReOrient 2026
+        subtitle: ""
+        text: "ReOrient Publications Dramaturg Marina Johnson takes us inside three
+          ReOrient plays that explore Palestinian and Iranian stories and urgent
+          questions about testimony, censorship, and spectatorship: *Camouflage*
+          by Ahmed Masoud, *Dare Not Speak* by Hassan Abdulrazzak, and
+          *Regarding Antigone* by Banafsheh Hassani."
 grids: []
 cast:
   heading: Meet the ReOrient Artists
