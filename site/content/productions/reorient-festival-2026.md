@@ -457,21 +457,6 @@ cast:
         than craft alone. He is grateful for the opportunity to share these
         stories, and excited for all that lies ahead."
       image: https://ucarecdn.com/c6291605-66a4-4b9a-ac6e-6a58c3893fc9/
-    - name: Fatemeh Mehraban
-      credit: Actor
-      image: https://ucarecdn.com/bda7dd0b-01bc-450b-8e97-4ec3440bb93d/
-      bio: "*(﻿she/they)* is a queer Iranian performing artist, receiving her
-        associate’s of arts in theatre from American River College. Her work
-        combines her passion for performance with her passion for advocacy. She
-        spends her most of her time between NorCal and sunny Los Angeles working
-        on theatre, film, and voiceover! Her most recent work includes *As You
-        Like It* (Marin Shakespeare Company), *Pilgrimage* (Golden Thread), *A
-        Distinct Society* (Weston Theatre Company), *E﻿nglish* (Capital Stage),
-        *Georgiana & Kitty* (Capital Stage), *Twelfth Night* (California Stage),
-        *The Newlywed Game* (B Street Theatre), *The Most Massive Woman Wins*
-        (Capital Stage), *For the Love of Dog* (The Stage at Burke Junction),
-        and *Sawyer Thompson* (The Geery Theatre). Instagram:
-        [@fatemeow](https://www.instagram.com/fatemeow)"
     - bio: "*(she/her)* is an Afghan-American actor, based in California. Having
         appeared in their recent production *Pilgrimage*, Leda is thrilled to
         continue storytelling with Golden Thread."
