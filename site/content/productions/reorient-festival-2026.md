@@ -6,15 +6,11 @@ date: 2026-01-26T20:38:48.880Z
 start: 2026-10-09T19:00:48.911Z
 end: 2026-11-01T23:38:48.944Z
 heading: Think you know the Middle East? Think again!
-description: >-
-  Featuring five short plays by award-winning MENA playwrights, Golden Thread's
-  beloved festival returns with a 30th Anniversary line-up dedicated to Iran and
-  Palestine. This year’s Festival makes the political personal, presenting
-  intimate and genre-pushing works. Nowhere else you will see such a global mix
-  of stories and styles on one stage in one evening. 
-
-
-  The five plays selected from 83 submissions, are diverse in content and style -- highlighting a multiplicity of Middle Eastern perspectives and identities.
+description: Featuring five short plays by award-winning MENA playwrights,
+  Golden Thread's beloved festival returns with a 30th Anniversary line-up
+  dedicated to Iran and Palestine. This year’s Festival makes the political
+  personal, presenting intimate and genre-pushing works. Nowhere else you will
+  see such a global mix of stories and styles on one stage in one evening.
 background: ""
 titleimage: https://ucarecdn.com/bcc7574c-a6ec-4532-827b-66a4adec94f2/
 program: null
@@ -128,6 +124,12 @@ lists:
         title: Camouflage
         itemstart: ""
         itemend: ""
+      - itemstart: ""
+        itemend: ""
+        text: |-
+          Show Illustrations by [Shamseddiin Nelson](https://shamsnelson.com/)\
+          Title Treatment by Navid Ghaem Maghami\
+          Postcard and Poster Designer: Alexandria Lish
   - heading: MENATMA 2026 FALL CONVENING
     items:
       - itemstart: ""
@@ -674,6 +676,4 @@ bottom:
   heading: ""
   logos: []
 ---
-Show Illustrations by [Shamseddiin Nelson](https://shamsnelson.com/)\
-Title Treatment by Navid Ghaem Maghami\
-Postcard and Poster Designer: Alexandria Lish
+The five plays selected from 83 submissions, are diverse in content and style -- highlighting a multiplicity of Middle Eastern perspectives and identities.
