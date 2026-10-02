@@ -130,18 +130,18 @@ lists:
           Show Illustrations: [Shamseddiin Nelson](https://shamsnelson.com/)\
           Title Treatment: Navid Ghaem Maghami\
           Postcard and Poster Design: Alexandria Lish
-  - heading: MENATMA 2026 FALL CONVENING
+  - heading: MENATMA 2026 CONVENING
     items:
       - itemstart: ""
         itemend: ""
         text: In conjunction with the ReOrient 2026 Festival, we're proud to host [The
           MENA Theater Makers Alliance 2026 Fall
-          Convening](https://menatheater.org/announcements/menatma-2026-convening-registration-now-open/)
+          Convening](https://menatheater.org/convenings/mena-theater-makers-alliance-2026-convening/)
           on October 23-25, 2026. This convening of artists, academics, and
           activists is co-produced by MENATMA, Art2Action, and Golden Thread
           Productions, as part of a multiyear partnership *Protecting Dissent*.
         cta: Find out more and register!
-        link: https://menatheater.org/announcements/menatma-2026-convening-registration-now-open/
+        link: https://menatheater.org/convenings/mena-theater-makers-alliance-2026-convening/
         image: https://ucarecdn.com/f198d86d-14ed-4d9c-b69f-ab697971cb34/
   - heading: LMDA PARTNERSHIP
     items:
