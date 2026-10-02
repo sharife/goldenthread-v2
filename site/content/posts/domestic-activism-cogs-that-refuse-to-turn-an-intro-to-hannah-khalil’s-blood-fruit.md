@@ -1,7 +1,7 @@
 ---
 title: "Domestic Activism & Cogs that Refuse to Turn:  An Intro to Hannah
   Khalil’s Blood Fruit"
-date: 2026-10-02T15:42:22.281Z
+date: 2026-10-01T15:42:22.281Z
 ---
 ### b﻿y ReOrient Publications Dramaturg Emily DeDakis
 
