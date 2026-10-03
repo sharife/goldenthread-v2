@@ -357,6 +357,31 @@ cast:
       credit: Production Dramaturg (Blood Fruit, Dare Not Speak, Homing Pigeons & Co)
         and LMDA Partnership Producer
       image: https://ucarecdn.com/86763bab-25a2-49b0-8b87-e9294f63374b/
+      bio: "**Nakissa Etemad** (she/her) is an Iranian-American dramaturg, producer,
+        director, and French translator specializing in new BIPOC plays and
+        musicals for over three decades. An Affiliated Artist of Golden Thread
+        Productions, Treasurer of LMDA, member of MENATMA, and former [Associate
+        Artistic
+        Director](https://www.marintheatre.org/press/press-releases/mtc-welcome\
+        s-nakissa-etemad-as-new-associate-artistic-director) of Marin Theatre
+        Company, Nakissa's recent credits include dramaturg for *Leili & Majnun*
+        by Torange Yeghiazarian (Central Stage/ Marin Shakes’ Seeds of Time);
+        director of *Children of the* Wise by Aidaa Peerzada (BAPF 2024), and
+        staged reading of Sepehr Jafari’s *Homing Pigeons & Co* (SFBATCO’s New
+        Roots Festival 2024); dramaturg & producer for world premieres of
+        *Justice: A New Musical* by Gunderson, Lowdermilk, and Kerrigan (Marin
+        Theatre Co.), and her season selection of *[Hotter Than
+        Egypt](https://www.marintheatre.org/productions/hotter-than-egypt#overv\
+        iew)* by Yussef El Guindi (world premiere co-production, Marin Theatre
+        Co. & ACT in Seattle). Previous Golden Thread credits include lead
+        dramaturg & LMDA partnership producer for ReOrient 2023, 2019, and 2017;
+        dramaturg for Zahra Noorbakhsh’s *On Behalf of All Muslims: A Comedy
+        Special*; and dramaturg, creative collaborator, and casting director for
+        *Isfahan Blues*by Torange Yeghiazarian, music by Marcus Shelby. Winner
+        of the [2015 Elliott Hayes
+        Award](https://lmda.org/elliott-hayes-award-introduction-part-two-marcu\
+        s-gardley) for The Lark’s four-city premieres of *the road weeps, the
+        well runs dry* by Marcus Gardley."
     - bio: "*(﻿she/they)* recently graduated with her Ph.D. in Theatre and Performance
         Studies from Stanford University. Prior to Stanford, Johnson received
         her MFA in Directing and taught at Beloit College. Marina recently
