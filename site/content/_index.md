@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: ReOrient 2026 Festival
 subtitle: Think you know the Middle East? Think again!
-background: https://ucarecdn.com/691caf70-7b38-4f29-90c8-253de9666604/
+background: https://ucarecdn.com/c89ec7e0-0549-4364-829a-9d4f45141b88/
 cta: Performance begin Oct 9! Preview tickets are $20.
 link: https://goldenthread.org/productions/reorient-festival-2026/
 items:
