@@ -2,7 +2,7 @@
 title: Middle East Center Stage
 headline: ReOrient 2026 Festival
 subtitle: Think you know the Middle East? Think again!
-background: https://ucarecdn.com/24e96882-e652-430e-8712-7bf143b7a8db/
+background: https://ucarecdn.com/691caf70-7b38-4f29-90c8-253de9666604/
 cta: Our most beloved program runs Oct 9-Nov 1.
 link: https://goldenthread.org/productions/reorient-festival-2026/
 items:
