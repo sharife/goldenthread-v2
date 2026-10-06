@@ -11,8 +11,8 @@ description: Featuring five short plays by award-winning MENA playwrights,
   dedicated to Iran and Palestine. This year’s Festival makes the political
   personal, presenting intimate and genre-pushing works. Nowhere else you will
   see such a global mix of stories and styles on one stage in one evening.
-background: ""
-titleimage: https://ucarecdn.com/bcc7574c-a6ec-4532-827b-66a4adec94f2/
+background: https://ucarecdn.com/92bf2c0c-7f84-4f92-b6ad-46d743265ef6/
+titleimage: ""
 program: null
 videos:
   - id: JkG1OtnVL-I
