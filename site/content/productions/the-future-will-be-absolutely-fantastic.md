@@ -2,7 +2,7 @@
 title: The Future Will be Absolutely Fantastic
 pre: A New Theatrical Experiment
 season: 2026
-date: 2026-10-06T15:00:00.000Z
+date: 2026-10-05T15:00:00.000Z
 start: 2026-10-29T21:00:00.000Z
 end: 2026-10-30T19:00:00.000Z
 description: >-
