@@ -12,12 +12,12 @@ description: >-
   ##### Directed by Sherrine Azab
 
 
-  Developed & Presented by Golden Thread Productions\
+  Developed & Presented by **Golden Thread Productions**\
 
-  As part of the 2026 Playwright in Residence Program
+  As part of the **2026 Playwright in Residence Program**
 
 
-  \~Work In Progress\~
+  **\~Work In Progress\~**
 
 
   An environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament—and discovers a species obsessed with making the unknowable known. Why do humans need to predict what happens next? What makes a coincidence a sign? How do they decide what is true? And why, with all the information in the world at their fingertips, do they still have so many questions?
