@@ -6,7 +6,7 @@ date: 2026-10-05T15:00:00.000Z
 start: 2026-10-29T21:00:00.000Z
 end: 2026-10-30T19:00:00.000Z
 description: >-
-  ##### Created & performed by Denmo Ibrahim
+  ##### Created & Performed by Denmo Ibrahim
 
 
   ##### Directed by Sherrine Azab
