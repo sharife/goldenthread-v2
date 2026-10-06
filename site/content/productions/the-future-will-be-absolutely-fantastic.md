@@ -12,16 +12,16 @@ description: >-
   ##### Directed by Sherrine Azab
 
 
-  Developed & Presented by Golden Thread Productions\
+  Developed & Presented by **Golden Thread Productions**\
 
-  As part of the 2026 Playwright in Residence Program
+  As part of the **2026 Playwright in Residence Program**
 
 
-  \~Work In Progress\~
+  **\~Work In Progress\~**
 
 
   An environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament—and discovers a species obsessed with making the unknowable known. Why do humans need to predict what happens next? What makes a coincidence a sign? How do they decide what is true? And why, with all the information in the world at their fingertips, do they still have so many questions?
-background: https://ucarecdn.com/06401620-609b-4390-8e64-198290431773/
+background: https://ucarecdn.com/705ef740-a2af-4b1f-ac52-9c8f87af1e45/
 stage: The Annex (above Potrero Stage)
 address: "1695 18th Street, #C101, San Francisco, CA 94107"
 ticketinfo: "Pay What You Can ($20 suggested donation) "
@@ -74,5 +74,6 @@ cast:
         Alliance.![](https://mail.google.com/mail/u/0?ui=2&ik=8da7c111bb&attid=0.1.1&permmsgid=msg-f:1877336424543979899&th=1a0da38814d8897b&view=fimg&fur=ip&permmsgid=msg-f:1877336424543979899&sz=s0-l75-ft&attbid=ANGjdJ8eAHJfx0XTte5jP1kZ8yUA99fCAfALc_VxKY93G5MvzCDmC6eL78t2i_8TlaxOpd2O166ARbAf451qExPVs_-NdLPlQjorRFN47yV-0sSqwPlL9jtRmVKDM1k&disp=emb&zw)
       name: Sherrine Azab
       credit: Director
+      image: https://ucarecdn.com/9b0f845a-8b5d-4936-88be-486d150e3087/
 ---
 Part field study, part fortune-telling experiment, *The Future Will Be Absolutely Fantastic* mashes marine biology, human testimony, Gen X detritus, bad commercials, ’80s power ballads, animal mating rituals, synchronicity, and live encounters with the audience. Madam O observes, classifies, and attempts to understand the curious human animals in her tank. Results will be recorded. Conclusions are not guaranteed.
