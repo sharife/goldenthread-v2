@@ -1,5 +1,5 @@
 ---
-title: The Future Will be Absolutely Fantastic
+title: The Future Will Be Absolutely Fantastic
 pre: A New Theatrical Experiment
 season: 2026
 date: 2026-10-05T15:00:00.000Z
