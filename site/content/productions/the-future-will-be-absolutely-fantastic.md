@@ -20,7 +20,7 @@ description: >-
   **\~Work In Progress\~**
 
 
-  An environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament—and discovers a species obsessed with making the unknowable known. Why do humans need to predict what happens next? What makes a coincidence a sign? How do they decide what is true? And why, with all the information in the world at their fingertips, do they still have so many questions?
+  An environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament — and discovers a species obsessed with making the unknowable known. Why do humans need to predict what happens next? What makes a coincidence a sign? How do they decide what is true? And why, with all the information in the world at their fingertips, do they still have so many questions?
 background: https://ucarecdn.com/705ef740-a2af-4b1f-ac52-9c8f87af1e45/
 stage: The Annex (above Potrero Stage)
 address: "1695 18th Street, #C101, San Francisco, CA 94107"
