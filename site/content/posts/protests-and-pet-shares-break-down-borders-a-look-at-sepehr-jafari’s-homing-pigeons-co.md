@@ -5,9 +5,10 @@ date: 2026-10-02T15:09:56.166Z
 ---
 ### b﻿y ReOrient Publications Dramaturg Oona Hatton
 
-*As a dramaturgy team member of the fourth partnership between Golden Thread Productions and [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/region-info-metro-bay-area/), ReOrient Publications Dramaturg Oona Hatton uncovers the humor, politics, and heart behind Sepehr Jafari’s* Homing Pigeons and Co*, receiving its world premiere in ReOrient 2026.*
+*As a dramaturgy team member of the fourth partnership between Golden Thread Productions and [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/region-info-metro-bay-area/), ReOrient Publications Dramaturg Oona Hatton uncovers the humor, politics, and heart behind Sepehr Jafari’s* Homing Pigeons and Co, *receiving its world premiere in ReOrient 2026.*
 
 **ABOUT OONA HATTON** 
+
 Oona Hatton (she/her) has been a production and development dramaturg for over two decades. Favorite productions include *11th & Pine*, *The Four Immigrants: An American Musical Manga*, and *Arcadia*. Oona teaches at SJSU and is co-artistic director of Davis Repertory Theatre, with whom she devises, directs, writes, produces, and, of course, dramaturgs.
 
 ![Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.](https://ucarecdn.com/81390d89-1136-4695-86c2-013f18cd5926/ "Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.")
