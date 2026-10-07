@@ -20,7 +20,7 @@ description: >-
   **\~Work In Progress\~**
 
 
-  An environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament — and discovers a species obsessed with making the unknowable known. Why do humans need to predict what happens next? What makes a coincidence a sign? How do they decide what is true? And why, with all the information in the world at their fingertips, do they still have so many questions?
+  **Join us to be part of a beloved Golden Thread artist's creative process.** In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project's audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators. Having premiered Ibrahim's *Arab Spring* and developed *A Country of Made of Salt* as part of the Palestinian Art Festival this year, Golden Thread is honored to support the development of a third piece as part of her residency.
 background: https://ucarecdn.com/705ef740-a2af-4b1f-ac52-9c8f87af1e45/
 stage: The Annex (above Potrero Stage)
 address: "1695 18th Street, #C101, San Francisco, CA 94107"
@@ -76,4 +76,6 @@ cast:
       credit: Director
       image: https://ucarecdn.com/9b0f845a-8b5d-4936-88be-486d150e3087/
 ---
-Part field study, part fortune-telling experiment, *The Future Will Be Absolutely Fantastic* mashes marine biology, human testimony, Gen X detritus, bad commercials, ’80s power ballads, animal mating rituals, synchronicity, and live encounters with the audience. Madam O observes, classifies, and attempts to understand the curious human animals in her tank. Results will be recorded. Conclusions are not guaranteed.
+In *The Future Will Be Absolutely Fantastic*,an environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a Petco fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament — and discovers a species obsessed with making the unknowable known through signs, predictions, and divination.
+
+Part field study, part divination experiment, *The Future Will Be Absolutely Fantastic* mashes marine biology, human testimony, Gen X detritus, bad commercials, ’80s power ballads, animal mating rituals, synchronicity, and live encounters with the audience. Madam O observes, classifies, and attempts to understand the curious human animals in her tank. Results will be recorded. Conclusions are not guaranteed.
