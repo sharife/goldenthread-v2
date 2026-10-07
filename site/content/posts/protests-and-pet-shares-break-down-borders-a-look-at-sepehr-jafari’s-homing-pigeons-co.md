@@ -3,14 +3,14 @@ title: "Protests and Pet-shares Break Down Borders: A Look at Sepehr Jafari’s
   Homing Pigeons & Co"
 date: 2026-10-02T15:09:56.166Z
 ---
-### b﻿y ReOrient Publications Dramaturg Oona Johnson
+### b﻿y ReOrient Publications Dramaturg Oona Hatton
 
 *As a dramaturgy team member of the fourth partnership between Golden Thread Productions and [Literary Managers and Dramaturgs of the Americas (LMDA)](https://lmda.org/region-info-metro-bay-area/), ReOrient Publications Dramaturg Oona Hatton uncovers the humor, politics, and heart behind Sepehr Jafari’s* Homing Pigeons and Co*, receiving its world premiere in ReOrient 2026.*
 
-**ABOUT OONA JOHNSON** 
+**ABOUT OONA HATTON** 
 Oona Hatton (she/her) has been a production and development dramaturg for over two decades. Favorite productions include *11th & Pine*, *The Four Immigrants: An American Musical Manga*, and *Arcadia*. Oona teaches at SJSU and is co-artistic director of Davis Repertory Theatre, with whom she devises, directs, writes, produces, and, of course, dramaturgs.
 
-![Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.](https://ucarecdn.com/9fc7ea80-d228-41d2-8422-41046d64aab7/ "Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.")
+![Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.](https://ucarecdn.com/81390d89-1136-4695-86c2-013f18cd5926/ "Oona Hatton and poster for Homing Pigeons & Co, designed by Shams Nelson.")
 
 The ReOrient Festival has always been about presenting alternative perspectives, and with the world premiere of Sepehr Jafari’s *Homing Pigeons & Co*, Golden Thread offers an unconventional take on local activism and its global impacts. In an era when popular political theatre is dominated by social realism, Jafari’s surreal approach may make some audiences wonder if the Iranian-born playwright understands the gravity of the current political moment. Rest assured that while the opening image of *Homing Pigeons* may make audiences feel as disoriented as the characters on stage, this inventive and too-brief play is making very real claims about the importance of connection in chaotic times. And while the dialogue is occasionally absurd, Jafari’s characters are far from oblivious to their real circumstances; rather, they are working imaginatively to assert their humanity and agency in a high-stakes context where these privileges — and at least one of their lives — are under threat.
 
@@ -28,7 +28,7 @@ For most Westerners, this is dystopic stuff. The play’s third character is a f
 
 Jafari, who is currently pursuing a PhD in Performance Studies from UC Davis, accepts the characterization of their work as absurd. They cite Ibsen’s perfect five-act play, or conflict between designated protagonists and antagonists, or characters performing specific gender roles, as elements of storytelling that we’ve come to understand and even expect. “This is what you see if you’re always centering a certain kind of writer,” Jafari observes. “But that’s not how I experience my body, my reality. As I saw more non-Western alternatives and leaned into how I genuinely feel things,” they explained, “my writing became weirder.”
 
-![ReOrient 2026 Cast of Homing Pigeons & Co in Rehearsal (l to r): Leda Rasooli as HALAN, Setareh Greenwood as TINA, and Hind Jadallah-Karraa as COP (Photos: Wynne Chan)](https://ucarecdn.com/4df0186c-91cc-484a-806c-b425455667d0/ "ReOrient 2026 Cast of Homing Pigeons & Co in Rehearsal (l to r): Leda Rasooli as HALAN, Setareh Greenwood as TINA, and Hind Jadallah-Karraa as COP (Photos: Wynne Chan)")
+![ReOrient 2026 Cast of Homing Pigeons & Co in Rehearsal (l to r): Leda Rasooli as HALAN, Setareh Greenwood as TINA, and Hind Jadallah-Karraa as COP. (Photos: Wynne Chan)](https://ucarecdn.com/4df0186c-91cc-484a-806c-b425455667d0/ "ReOrient 2026 Cast of Homing Pigeons & Co in Rehearsal (l to r): Leda Rasooli as HALAN, Setareh Greenwood as TINA, and Hind Jadallah-Karraa as COP. (Photos: Wynne Chan)")
 
 *Homing Pigeons & Co* explores borders — borders between nations, bodies, genders, nationalities, races, and even between life and death. Borders signify somewhere we can’t follow, whether due to sociopolitical controls, the laws of the physical world, or a transformation of our metaphysical state. By giving and receiving love, and by “co-parenting,” as Jafari describes it, their pet fish, Tina and Halan challenge the borders that seek to constrain them. Audiences of *Homing Pigeons & Co* may ask themselves: What does care look like when individuals cannot be in the same physical space? How are our bodies, minds, and relationships being shaped by larger forces? Beyond seemingly insurmountable, intolerable, or incomprehensible circumstances, what calls us home?
 
