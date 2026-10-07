@@ -80,7 +80,7 @@ lists:
           fish.
 
 
-          *C﻿ontent Advisory: Mention of hangings and beatings.*
+          *C﻿ontent Advisory: Discussion and abstract depiction of hangings. Banging sounds. Smoke machine onstage.*
         title: Homing Pigeons & Co
         itemstart: ""
         itemend: ""
@@ -120,7 +120,7 @@ lists:
           offered to get known by established Israeli directors?
 
 
-          *C﻿ontent Advisory: Examines occupation and genocide. Sexual themes.*
+          *C﻿ontent Advisory: Examines occupation and genocide. Sexual themes. Sounds of planes, explosions, and gunfire.*
         title: Camouflage
         itemstart: ""
         itemend: ""
