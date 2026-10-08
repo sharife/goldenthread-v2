@@ -26,7 +26,7 @@ stage: The Annex (above Potrero Stage)
 address: "1695 18th Street, #C101, San Francisco, CA 94107"
 ticketinfo: "Pay What You Can ($20 suggested donation) "
 misc: |-
-  Two in-process presentations:
+  Two presentations:
   Thu, O﻿ct 29 at 8pm
   F﻿ri, Oct 30 at 6pm
 cast:
