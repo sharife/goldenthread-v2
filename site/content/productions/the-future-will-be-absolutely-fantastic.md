@@ -77,9 +77,9 @@ cast:
       credit: Director
       image: https://ucarecdn.com/9b0f845a-8b5d-4936-88be-486d150e3087/
 ---
-Two presentations:
-**Thursday, October 29 at 8pm
-F﻿riday, October 30 at 6pm**
+Two presentations:\
+**Thursday, October 29 at 8pm**\
+**F﻿riday, October 30 at 6pm**
 
 In *The Future Will Be Absolutely Fantastic*, an environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a Petco fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament — and discovers a species obsessed with making the unknowable known through signs, predictions, and divination.
 
