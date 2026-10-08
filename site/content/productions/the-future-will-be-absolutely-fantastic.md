@@ -25,6 +25,10 @@ background: https://ucarecdn.com/6bb42972-47f2-4343-8b3e-f121b92ae785/
 stage: The Annex (above Potrero Stage)
 address: "1695 18th Street, #C101, San Francisco, CA 94107"
 ticketinfo: "Pay What You Can ($20 suggested donation) "
+misc: |-
+  Two in-process presentations:
+  Thu, O﻿ct 29 at 8pm
+  F﻿ri, Oct 30 at 6pm
 cast:
   heading: Artist Biographies
   items:
@@ -76,10 +80,6 @@ cast:
       credit: Director
       image: https://ucarecdn.com/9b0f845a-8b5d-4936-88be-486d150e3087/
 ---
-T﻿he two in-process presentations will take place:\
-**Thursday, O﻿ctober 29, 2026 at 8pm**\
-**F﻿riday, October 30, 2026 at 6pm**
-
 In *The Future Will Be Absolutely Fantastic*, an environmental catastrophe annihilates an entire ocean of marine life except for one lonely octopus. When her great escape from a Petco fish tank sends her out into the world, she begins an investigation into the ones responsible for her predicament — and discovers a species obsessed with making the unknowable known through signs, predictions, and divination.
 
 Part field study, part divination experiment, *The Future Will Be Absolutely Fantastic* mashes marine biology, human testimony, Gen X detritus, bad commercials, ’80s power ballads, animal mating rituals, synchronicity, and live encounters with the audience. Madam O observes, classifies, and attempts to understand the curious human animals in her tank. Results will be recorded. Conclusions are not guaranteed.
