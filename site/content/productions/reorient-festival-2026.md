@@ -55,7 +55,7 @@ lists:
         itemend: ""
       - image: https://ucarecdn.com/35014f34-7256-4344-87f2-62cbd402eb48/
         subtitle: |-
-          by **Banafsheh Hassani** (Montreal-based, Iran)\
+          by **Banafsheh Hassani** بنفشه حسنی (Montreal-based, Iran)\
           directed by **Nabra Nelson**
         text: >-
           A new solo show Inspired by a true story, the classic Greek tragedy of
