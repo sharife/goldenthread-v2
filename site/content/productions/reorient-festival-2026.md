@@ -503,6 +503,17 @@ cast:
         identity, belonging, and the connections between people across cultures.
         Ameen is grateful to be part of this production and looks forward to
         sharing this story with audiences.
+    - bio: is an Iranian actor and artist based in the Bay Area and Washington, D.C.
+        His recent credits include *Selling Kabul* at Signature Theatre, *Back
+        of the Throat* at Silver Spring Stage, and screen appearances in
+        *Unsolved Mysteries* and *House of Cards*. Outside of acting, Ramtin has
+        worked in social services and youth advocacy, experiences that continue
+        to inform his work as an artist. He is grateful to be part of this
+        production and to share the stage with this wonderful cast and creative
+        team.
+      name: Ramtin Vaziri
+      credit: Actor
+      image: https://ucarecdn.com/4ca675de-b990-4998-9ea5-7f37f286995d/
     - bio: "*(﻿she/her)* is a San Francisco–based multidisciplinary performing artist,
         designer, curator, and arts activist born and raised in Iran. As a
         vocalist, she blends Western classical technique with Middle Eastern and
