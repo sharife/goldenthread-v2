@@ -270,7 +270,7 @@ cast:
         Select dramaturgy credits: *M. Butterfly* (SF Playhouse), *ROI* (SF
         Playhouse), *Anonymous* (SBMT). She will be directing the US Premiere of
         *Underdog: The Other Other Bronte* at The Pear Theatre this November."
-    - name: Nick McDow Musley
+    - name: Nick McDow Musleh
       bio: "*(he/him)* recently starred in *The Return* for Golden Thread. He played
         *Hamlet* for the Marin Shakespeare Company, where he is an artistic
         associate and dramaturg. He co-created and performed in *The Untime* at
