@@ -176,6 +176,27 @@ lists:
           questions about testimony, censorship, and spectatorship: *Camouflage*
           by Ahmed Masoud, *Dare Not Speak* by Hassan Abdulrazzak, and
           *Regarding Antigone* by Banafsheh Hassani."
+      - itemstart: ""
+        itemend: ""
+        link: https://goldenthread.org/posts/protests-and-pet-shares-break-down-borders-a-look-at-sepehr-jafaris-homing-pigeons-co/
+        title: "Protests and Pet-shares Break Down Borders: A Look at Sepehr Jafari’s
+          Homing Pigeons & Co"
+        text: ReOrient Publications Dramaturg Oona Hatton uncovers the humor, politics,
+          and heart behind Sepehr Jafari’s *Homing Pigeons and Co*, receiving
+          its world premiere in ReOrient 2026.
+        image: https://ucarecdn.com/a27fcb12-1c2c-4886-b43f-29d48219f833/
+        cta: Read the Article
+      - itemstart: ""
+        itemend: ""
+        title: "Domestic Activism & Cogs that Refuse to Turn: An Intro to Hannah
+          Khalil’s Blood Fruit"
+        text: ReOrient Publications Dramaturg Emily DeDakis contemplates the power of
+          strikes and boycotts while conjuring Henry Street in Dublin — site of
+          *Blood Fruit*, Hannah Khalil’s compact, rhythmic masterpiece of a play
+          in ReOrient 2026.
+        image: https://ucarecdn.com/d2ff88e8-df94-4ed3-924e-789ec1fd2f42/
+        cta: Read the Article
+        link: https://goldenthread.org/posts/domestic-activism-cogs-that-refuse-to-turn-an-intro-to-hannah-khalils-blood-fruit/
 grids: []
 cast:
   heading: Meet the ReOrient Artists
