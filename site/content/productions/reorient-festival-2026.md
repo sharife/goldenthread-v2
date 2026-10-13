@@ -197,6 +197,61 @@ lists:
         image: https://ucarecdn.com/d2ff88e8-df94-4ed3-924e-789ec1fd2f42/
         cta: Read the Article
         link: https://goldenthread.org/posts/domestic-activism-cogs-that-refuse-to-turn-an-intro-to-hannah-khalils-blood-fruit/
+  - heading: ReOrient 2026 Special Events
+    items:
+      - itemstart: ""
+        itemend: ""
+        subtitle: ""
+        title: "Artist Talkback: Bringing ReOrient to Life"
+        pre: Sunday, October 18 | After Matinee Performance
+        text: Join cast members **Setareh Greenwood**, **Charisse Loriaux**, **Thameen
+          Mansour**, **Ameen Safi** & **Ramtin Vaziri** discussing the process
+          of embodying characters in the ReOrient 2026 Festival of Short Plays.
+          Facilitated by **Nick McDow Musleh** (director of *Camouflage*), this
+          talkback will showcase how performers take on stories speaking to our
+          current political moment.
+      - itemstart: ""
+        itemend: ""
+        subtitle: ""
+        title: "Community Organization Night: Middle East Children's Alliance (MECA)"
+        pre: Thursday, October 22
+        text: Enjoy the ReOrient 2026 Festival of Short Plays and learn more about the
+          Middle East Children’s Alliance (MECA). A representative will be
+          present to talk to audience members about the organization and how you
+          can actively support Middle Eastern lives & voices.
+      - itemstart: ""
+        itemend: ""
+        text: Enjoy the ReOrient 2026 Festival of Short Plays and learn more about
+          Artists Unite For Palestine. A representative will be present to talk
+          to audience members about the organization and how you can actively
+          support Palestinian lives and voices.
+        title: "Community Organization Night: Artists Unite For Palestine"
+        pre: Thursday, October 29
+      - itemstart: ""
+        itemend: ""
+        subtitle: |-
+          An Experiment in Divination\
+          Created & Performed by Denmo Ibrahim\
+          Directed by Sherrine Azab
+        pre: Friday, October 30 | 6pm
+        title: The Future Will Be Absolutely Fantastic
+        text: >-
+          **Join us to be part of a beloved Golden Thread artist’s creative
+          process.** In *The Future Will be Absolutely Fantastic*, an
+          environmental catastrophe annihilates an entire ocean of marine life
+          except for one lonely octopus. When her great escape from a Petco fish
+          tank sends her out into the world, she begins an investigation into
+          the ones responsible for her predicament — and discovers a species
+          obsessed with making the unknowable known. In this immersive workshop
+          production, 2026 Playwright in Residence Denmo Ibrahim will be
+          exploring this playful project’s audience interactive and storytelling
+          elements. Each performance will be followed by a Q&A and feedback
+          session with the creators. 
+
+
+          **at The Annex (above Potrero Stage)**
+        link: ""
+        cta: Seating extremely limited. Public Showing by RSVP.
 grids: []
 cast:
   heading: Meet the ReOrient Artists
