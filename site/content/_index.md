@@ -9,18 +9,14 @@ items:
   - link: https://goldenthread.org/productions/the-future-will-be-absolutely-fantastic/
     cta: RSVP Now!
     image: https://ucarecdn.com/be7aab0c-5ef4-4cad-90ea-8fdea2ae6b17/
-    subtitle: |-
-      **The Future Will Be Absolutely Fantastic
-      Created & Performed by Denmo Ibrahim
+    subtitle: "**The Future Will Be Absolutely Fantastic**"
+    text: >-
+      **Created & Performed by Denmo Ibrahim
+
       Directed by Sherrine Azab**
-    text: "**Join us to be part of a beloved Golden Thread artist’s creative process
-      on Friday, October 30!** In this immersive workshop production, an
-      environmental catastrophe annihilates an entire ocean of marine life
-      except for one lonely octopus. When her great escape from a Petco fish
-      tank sends her out into the world, she begins an investigation into the
-      ones responsible for her predicament — and discovers a species obsessed
-      with making the unknowable known through signs, predictions, and
-      divination."
+
+
+      Join us to be part of a beloved Golden Thread artist’s creative process on Friday, October 30! In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project’s audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators.
   - text: Presented on October 23-25, 2026 in San Francisco, this national gathering
       provides an essential opportunity to network, strategize, and celebrate
       with MENA and SWANA artists, activists, and scholars from around the
