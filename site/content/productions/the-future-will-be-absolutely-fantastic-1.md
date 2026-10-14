@@ -1,6 +1,6 @@
 ---
 title: The Future Will Be Absolutely Fantastic
-pre: A New Theatrical Experiment
+pre: An Experiment in Divination
 season: 2026
 date: 2026-10-14T18:48:54.471Z
 start: 2026-10-29T18:00:00.000Z
