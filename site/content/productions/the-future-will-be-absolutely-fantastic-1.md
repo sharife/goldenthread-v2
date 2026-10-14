@@ -3,7 +3,7 @@ title: The Future Will Be Absolutely Fantastic
 pre: A New Theatrical Experiment
 season: 2026
 date: 2026-10-14T18:48:54.471Z
-start: 2026-10-30T00:00:00.000Z
+start: 2026-10-29T18:00:00.000Z
 end: 2026-10-30T22:00:54.484Z
 description: >-
   ### Created & Performed by Denmo Ibrahim
