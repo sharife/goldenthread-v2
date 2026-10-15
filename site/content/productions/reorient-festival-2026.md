@@ -751,8 +751,17 @@ mentions:
     *In Line of Fire* by Motasem Abu Hasan \
     *The Eye of the Needle* by Jacob Kader
 photos:
-  heading: ""
-  items: []
+  heading: ReOrient 2026 Production Photos by Jared Randolph
+  items:
+    - image: https://ucarecdn.com/e34b75f1-2c19-494f-a7b3-296ccc860445/
+    - image: https://ucarecdn.com/3f2436eb-36f1-4732-afb4-54d6c58f2bd9/
+    - image: https://ucarecdn.com/7303ae69-7b6d-4e78-8061-354ca67c2302/
+    - image: https://ucarecdn.com/ce388b48-2503-4ada-b708-a0495f479f10/
+    - image: https://ucarecdn.com/a4e19301-e327-4b8d-8559-73f169e02392/
+    - image: https://ucarecdn.com/75e30ea9-9b4c-4426-94dc-cecd744d20fe/
+    - image: https://ucarecdn.com/9d3ff535-2f03-40b4-9a9b-1727a5312725/
+    - image: https://ucarecdn.com/2b37b174-8971-470e-a9bc-79786c854549/
+    - image: https://ucarecdn.com/f1578e68-0028-442b-a90d-27a377f67be0/
 photos2:
   heading: ReOrient 2026 First Rehearsal Photos by Wynne Chan
   items:
