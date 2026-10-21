@@ -13,7 +13,7 @@ description: Featuring five short plays by award-winning MENA playwrights,
   see such a global mix of stories and styles on one stage in one evening.
 background: https://ucarecdn.com/92bf2c0c-7f84-4f92-b6ad-46d743265ef6/
 titleimage: ""
-programlabel: Digital Playbill
+programlabel: DIGITAL PLAYBILL
 program: https://www.flipsnack.com/goldenthread/reorient-2026-playbill-digital
 videos:
   - id: xMoCTUnX_x4
