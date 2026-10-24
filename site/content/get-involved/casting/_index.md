@@ -3,95 +3,105 @@ title: Casting
 sidebar:
   heading: Sign up for an audition!
   text: >-
-    #### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS
-    FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+    #### **[T﻿O BOOK YOUR AUDITION, CLICK
+    HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
 
-    [](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)To stay informed regarding future opportunities, please submit your information to our [database!](https://airtable.com/appHPPycOcRo9BQv9/pagYRqTaupLCmdbJB/form)
+    [](https://airtable.com/appHPPycOcRo9BQv9/pagQr19w3eBIVECGN/form)To stay informed regarding future opportunities, please submit your information to our [database!](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form)
 
 
     **Questions?**
 
-    Email [auditions@goldenthread.org](auditions@goldenthread.org) for any inquiries.
+    Email auditions@goldenthread.org for any inquiries.
 ---
 Golden Thread Productions is seeking\
-AEA and non-AEA actor submissions for:  
+AEA and non-AEA actor submissions for **our 2027 season**:
 
-## New Threads Reading Series
+## Audition Dates
 
-### A Country Made of Salt
+* General Auditions will take place in person on **Monday 11/8/2026** by appointment between 10:00 AM to 6:00 PM.
+* *El-Manshiyyeh* & *a TBD Title*: Auditions will take place in person on **Saturday 11/9/2026** by appointment between 4:00 PM to 10:00 PM.
+* Callbacks will be scheduled by appointment 
 
-by Denmo Ibrahim\
-directed by Nabra Nelson
+## Seeking
 
-### SYNOPSIS
+For Nubian Stories we are seeking a middle-aged Black woman. Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage and a MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist. Familiarity with Middle Eastern, African, and/or Nubian music preferred. 
 
-A baker, a mystic, and a falcon walk into an office one stormy night… Rabia Haddad is on a mission to discover a lost history. But as she builds her map, the archive begins to talk back, blurring the lines between testimony, memory and myth. Could it be that the one story she needs most is her own? A play about inheritance, letting go, and the desire to belong to something larger than yourself, A Country Made of Salt invites us to reflect on the stories we keep — and what stories keep us 
+For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads series, We are seeking an ensemble of actors of MENA descent. Folks who have familiarity with Palestine and Iran are highly encouraged to submit
 
-### CHARACTERS
+* To schedule an audition, [pick a slot here](https://calendly.com/reyes97wendy/golden-thread-auditions)
+* Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
+* Audition slots will be 10 minutes each. 
+* If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role/s from the available sides and submit your video/s to auditions@goldenthread.org using the subject line: Video Submission 2027. Please specify which role you are auditioning for. The deadline for video submissions is Nov 9th, 2026.
 
-**RABIA** - Woman, 20s-30s, MENA. An Egyptian-American Researcher, doubles as many different characters.\
-**HORUS** - Man or Non-Binary, any age, MENA. A War Chief, a God.\
-**HAGAR** - Woman, 30s-60s, MENA. A Single Mom, a Priestess.\
-**SHEH’RZADE** - Woman, any age, MENA. Part oracle, part trickster, a Storyteller. 
+## Contract
 
-### PRODUCTION DATES
+* Equity and non-equity actors are invited to audition. Local (Bay Area) actors are encouraged to submit.
+* Bay Area Theatre $404 weekly (20 hours/week, Intro Tier) or $20.20/hour.
 
-Rehearsals take place **April 4** through **April 8, 2026** \
-Performances on **Friday April 10**, **Saturday April 11**, & **Sunday April 12**  
+## Location
 
-### S﻿IDES
+* The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA.
 
-To access the sides please see this [Google Drive folder](https://drive.google.com/drive/folders/1O8414HXD18BGGy_rh2FovvFdOK0gyTGY?usp=sharing).\
-If you would like to read the full play before auditioning, please email auditions@goldenthread.org.  
+## Attending the Auditions
 
-### AUDITIONS
-
-**Monday, Feb 2, 2026** at **11am - 3pm**\
-The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
-
-#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+* Nabra Nelson, Artistic Director
+* Salim Razawi, Casting Director, Artistic Producer
+* Wendy Reyes, Company Manager
 
 ![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
-## ReOrient Festival of Short Plays
+## MAINSTAGES
 
-For the list of plays, synopses, and available roles, [see this document](https://docs.google.com/document/d/13pHlchovbCsF1SiiVd8SsTugDAn9F8FJI_RDgr_NmYw/edit?usp=sharing)
+### Nubian Stories
 
-### Dare Not Speak 
+by Nabra Nelson & Mona Sherif-Nelson
+Directed by Nabra Nelson
+Rehearsals 3/16-4/4
+Tech 4/5-4/18
+Performances 4/19-5/9
+*Sabila, a Nubian woman who was forcibly relocated from her village in the south of Egypt due to its intentional flooding for the construction of the Aswan High Dam, tells the story of her people through her own incredible biography as well as through the ancient Nubian folkloric tales.* 
 
-by Hassan Abdulrazzak\
-Directed by Salim Razawi 
+### Summer Mainstage Show (TITLE TBA)
 
-### Camouflage
+Directed by Torange Yeghiazarian
+Rehearsals 6/28-7/18
+Tech 7/19-7/30\
+Performance 7/30-8/22 TBC
+*Written by one of the most prominent contemporary women playwrights in Iran, this play gives the audience a glimpse of what goes on inside an Iranian household.*
 
-by Ahmed Masoud
+### El-Manshiyyeh
 
-### Regarding Antigone
+by Samer El Saber
+Directed by Marina Johnson
+September 20 - October 17
+*A Palestinian adaptation of Thornton Wilder’s “Our Town,” set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
 
-by Banafsheh Hassani بنفشه حسنی\
-Directed by Nabra Nelson 
 
-### Homing Pigeons & Co
 
-by Hasti Jafari Jozani\
-Directed by Torange Yeghiazarian 
+## NEW THREADS
 
-### Blood Fruit 
+### ICU
 
-by Hannah Khalil\
-Directed by Wynne Chan 
+by Leyla Mordizadeh & Domenique Lozano
+Directed by Domenique Lozano
+June 4-6
+*Inspired by Iran's "Women, Life, Freedom" movement, ICU illuminates the events and human experiences of the uprising through the intersecting lives of five Iranian women.*
 
-### PRODUCTION DATES
+### The Empire
 
-Rehearsals begin **August 31, 2026**\
-Performances will take place on **October 9** - **November 1, 2026**
+by Abhishek Majumdar
+June 11-13
+*Inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, Joshua Colangelo-Bryan.Drawing on interviews with a wide range of voices connected to Guantánamo, “The Empire," based on Joshua Colangelo-Bryan's book, "Through the Gates of Hell: American Injustice at Guantánamo Bay," weaves together a mosaic of perspectives spanning Cuba, the United States, Bahrain, Pakistan, Afghanistan, and Saudi Arabia. Through this lens, Majumdar seeks to illuminate the human, political, and moral dimensions of American Imperialism and Presence around the world.*
 
-### AUDITIONS
+### Khosrow & Shirin (private workshop)
 
-**Saturday, Feb 7, 6pm - 10pm**\
-The Annex, Potrero Stage, 1695 18th Street, San Francisco, CA
+by Torange Yeghiazarian
+February 23 - 28
+*The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.* 
 
-#### **[T﻿O BOOK YOUR AUDITION, PLEASE FILL OUT THIS FORM](https://airtable.com/appHPPycOcRo9BQv9/pagogaSEBzpYiVeFr/form)**
+#### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
+
+Email auditions@goldenthread.org for any inquiries
 
 **About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
