@@ -25,7 +25,7 @@ AEA and non-AEA actor submissions for **our 2027 season**:
 
 ## Seeking
 
-For Nubian Stories we are seeking a middle-aged Black woman. Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage and a MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist. Familiarity with Middle Eastern, African, and/or Nubian music preferred. 
+For *Nubian Stories* we are seeking a middle-aged Black woman. Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage and a MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist. Familiarity with Middle Eastern, African, and/or Nubian music preferred. 
 
 For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads series, We are seeking an ensemble of actors of MENA descent. Folks who have familiarity with Palestine and Iran are highly encouraged to submit
 
@@ -77,8 +77,6 @@ Directed by Marina Johnson
 September 20 - October 17
 *A Palestinian adaptation of Thornton Wilder’s “Our Town,” set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
 
-
-
 ## NEW THREADS
 
 ### ICU
@@ -98,7 +96,9 @@ June 11-13
 
 by Torange Yeghiazarian
 February 23 - 28
-*The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.* 
+*The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
+
+![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
