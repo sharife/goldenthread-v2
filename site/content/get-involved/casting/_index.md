@@ -49,7 +49,7 @@ For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads series, We are seeki
 * Salim Razawi, Casting Director, Artistic Producer
 * Wendy Reyes, Company Manager
 
-![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
+![](https://ucarecdn.com/a9a29fe2-55dc-452b-9ceb-f78834671fb9/)
 
 ## MAINSTAGES
 
@@ -98,7 +98,7 @@ by Torange Yeghiazarian
 February 23 - 28
 *The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
 
-![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
+![](https://ucarecdn.com/0036aa2b-9711-421f-86c3-27de98d51d27/)
 
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
