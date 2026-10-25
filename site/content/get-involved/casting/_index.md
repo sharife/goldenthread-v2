@@ -19,8 +19,8 @@ AEA and non-AEA actor submissions for **our 2027 season**:
 
 ## Audition Dates
 
-* General Auditions will take place in person on **Monday 11/8/2026** by appointment between 10:00 AM to 6:00 PM.
-* *El-Manshiyyeh* & *a TBD Title*: Auditions will take place in person on **Saturday 11/9/2026** by appointment between 4:00 PM to 10:00 PM.
+* General Auditions and *Nubian Stories* auditions will take place in person on **Sunday 11/8/2026** by appointment between **10:00 AM to 6:00 PM.**
+* *El-Manshiyyeh* & *a TBD Title*: Auditions will take place in person on **Monday 11/9/2026** by appointment between **2:00 PM to 10:00 PM.**
 * Callbacks will be scheduled by appointment 
 
 ## Seeking
