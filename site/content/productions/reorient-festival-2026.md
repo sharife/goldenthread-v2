@@ -163,22 +163,13 @@ lists:
         itemend: ""
         subtitle: ""
         title: "Community Organization Night: Middle East Children's Alliance (MECA)"
-        pre: Thursday, October 22
+        pre: Thursday, October 29
         text: Enjoy the ReOrient 2026 Festival of Short Plays and learn more about the
           Middle East Children’s Alliance (MECA). A representative will be
           present to talk to audience members about the organization and how you
           can actively support Middle Eastern lives & voices.
         image: https://ucarecdn.com/f0b3bc2e-78d0-43cb-bfde-3c0397de9bcc/
-      - itemstart: ""
-        itemend: ""
-        text: Enjoy the ReOrient 2026 Festival of Short Plays and learn more about
-          Artists Unite For Palestine. A representative will be present to talk
-          to audience members about the organization and how you can actively
-          support Palestinian lives and voices.
-        title: "Community Organization Night: Artists Unite For Palestine"
-        pre: Thursday, October 29
-        image: https://ucarecdn.com/70c9626f-1f99-48da-ad2a-dcdf03261048/
-      - pre: Friday, October 30 | 6pm
+      - pre: Thu, Oct 29 at 8pm & Fri, Oct 30 at 6pm
         itemend: ""
         text: >-
           **Join us to be part of a beloved Golden Thread artist’s creative
@@ -202,7 +193,7 @@ lists:
           Created & Performed by **Denmo Ibrahim**\
           Directed by **Sherrine Azab**
         title: The Future Will Be Absolutely Fantastic
-        link: https://goldenthread.my.salesforce-sites.com/ticket/#/instances/a0FRh00000RuF1dMAF
+        link: https://goldenthread.org/productions/the-future-will-be-absolutely-fantastic-1/
         image: https://ucarecdn.com/7cf3612e-8c6c-4d51-9cfe-06b98a2d5759/
   - heading: LMDA PARTNERSHIP
     items:
