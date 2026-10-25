@@ -6,7 +6,7 @@ background: https://ucarecdn.com/adb149b7-75f3-4b9d-beac-3d2d02a8f442/
 cta: Performances are selling out. Must close November 1!
 link: https://goldenthread.org/productions/reorient-festival-2026/
 items:
-  - link: https://goldenthread.org/productions/the-future-will-be-absolutely-fantastic/
+  - link: https://goldenthread.org/productions/the-future-will-be-absolutely-fantastic-1/
     cta: RSVP Now!
     image: https://ucarecdn.com/be7aab0c-5ef4-4cad-90ea-8fdea2ae6b17/
     subtitle: "**The Future Will Be Absolutely Fantastic**"
@@ -16,7 +16,7 @@ items:
       Directed by Sherrine Azab**
 
 
-      Join us to be part of a beloved Golden Thread artist’s creative process on Friday, October 30! In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project’s audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators.
+      Join us to be part of a beloved Golden Thread artist’s creative process on October 29-30! In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project’s audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators.
   - text: Presented on October 23-25, 2026 in San Francisco, this national gathering
       provides an essential opportunity to network, strategize, and celebrate
       with MENA and SWANA artists, activists, and scholars from around the
