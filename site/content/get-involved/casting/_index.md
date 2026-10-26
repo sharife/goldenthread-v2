@@ -12,7 +12,7 @@ sidebar:
 
     **Questions?**
 
-    Email auditions@goldenthread.org for any inquiries.
+    Email [auditions@goldenthread.org](mailto:auditions@goldenthread.org) for any inquiries.
 ---
 **Golden Thread Productions is seeking**\
 **AEA and non-AEA actor submissions for** **our 2027 season**:
@@ -59,7 +59,7 @@ For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are s
 * Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
 * If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role(s) from the available sides and submit your video(s) to [auditions@goldenthread.org](mailto:auditions@goldenthread.org) using the subject line: "Video Submission 2027". Please specify which role you are auditioning for. The deadline for video submissions is November 9, 2026.
 
-![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
+![](https://ucarecdn.com/e53cd83c-557d-4858-b132-2b95ece11b2a/)
 
 ## MAINSTAGE PRODUCTIONS
 
@@ -118,7 +118,7 @@ February 23 - 28, 2027\
 
 *The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
 
-![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
+![](https://ucarecdn.com/c6ffe829-3418-4cbf-b70c-818be9258679/)
 
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
