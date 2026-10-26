@@ -14,25 +14,28 @@ sidebar:
 
     Email auditions@goldenthread.org for any inquiries.
 ---
-Golden Thread Productions is seeking\
-AEA and non-AEA actor submissions for **our 2027 season**:
+**Golden Thread Productions is seeking**\
+**AEA and non-AEA actor submissions for** **our 2027 season**:
 
 ## Audition Dates
 
-* General Auditions and *Nubian Stories* auditions will take place in person on **Sunday 11/8/2026** by appointment between **10:00 AM to 6:00 PM.**
-* *El-Manshiyyeh* & *a TBD Title*: Auditions will take place in person on **Monday 11/9/2026** by appointment between **2:00 PM to 10:00 PM.**
-* Callbacks will be scheduled by appointment 
+* **General Auditions and *Nubian Stories* auditions** will take place in person on **Sunday, November 8, 2026** by appointment between **10am to 6pm.**
+* ***El-Manshiyyeh* & Summer Show TBA auditions** will take place in person on **Monday, November 9, 2026** by appointment between **2pm to 10pm.**
+* Callbacks will be scheduled by appointment. 
 
 ## Seeking
 
-For *Nubian Stories* we are seeking a middle-aged Black woman. Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage and a MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist. Familiarity with Middle Eastern, African, and/or Nubian music preferred. 
+For ***Nubian Stories*** we are seeking:
 
-For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads series, We are seeking an ensemble of actors of MENA descent. Folks who have familiarity with Palestine and Iran are highly encouraged to submit
+* A middle-aged Black woman\
+  Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage  
+* MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist\
+  Familiarity with Middle Eastern, African, and/or Nubian music preferred.
 
-* To schedule an audition, [pick a slot here](https://calendly.com/reyes97wendy/golden-thread-auditions)
-* Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
-* Audition slots will be 10 minutes each. 
-* If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role/s from the available sides and submit your video/s to auditions@goldenthread.org using the subject line: Video Submission 2027. Please specify which role you are auditioning for. The deadline for video submissions is Nov 9th, 2026.
+For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are seeking: 
+
+* An ensemble of actors of MENA descent.\
+  Folks who have familiarity with Palestine and Iran are highly encouraged to submit.
 
 ## Contract
 
@@ -49,17 +52,25 @@ For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads series, We are seeki
 * Salim Razawi, Casting Director, Artistic Producer
 * Wendy Reyes, Company Manager
 
+## S﻿ign up Now
+
+* Audition slots will be 10 minutes each. \
+  To schedule an audition, [pick a slot here](https://calendly.com/reyes97wendy/golden-thread-auditions)
+* Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
+* If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role(s) from the available sides and submit your video(s) to [auditions@goldenthread.org](mailto:auditions@goldenthread.org) using the subject line: "Video Submission 2027". Please specify which role you are auditioning for. The deadline for video submissions is November 9, 2026.
+
 ![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
-## MAINSTAGES
+## MAINSTAGE PRODUCTIONS
 
 ### Nubian Stories
 
 by Nabra Nelson & Mona Sherif-Nelson
-Directed by Nabra Nelson
-Rehearsals 3/16-4/4
-Tech 4/5-4/18
+Directed by Nabra Nelson\
+
+Rehearsals 3/16-4/4/2027Tech 4/5-4/18
 Performances 4/19-5/9
+\
 *Sabila, a Nubian woman who was forcibly relocated from her village in the south of Egypt due to its intentional flooding for the construction of the Aswan High Dam, tells the story of her people through her own incredible biography as well as through the ancient Nubian folkloric tales.* 
 
 ### Summer Mainstage Show (TITLE TBA)
@@ -77,7 +88,7 @@ Directed by Marina Johnson
 September 20 - October 17
 *A Palestinian adaptation of Thornton Wilder’s “Our Town,” set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
 
-## NEW THREADS
+## NEW THREADS SERIES
 
 ### ICU
 
