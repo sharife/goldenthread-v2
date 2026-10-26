@@ -66,8 +66,7 @@ For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are s
 ### Nubian Stories
 
 by Nabra Nelson & Mona Sherif-Nelson
-Directed by Nabra Nelson
-
+Directed by Nabra Nelson\
 Rehearsals 3/16-4/4/2027\
 Tech 4/5-4/18/2027
 Performances 4/19-5/9/2027\
@@ -77,7 +76,6 @@ Performances 4/19-5/9/2027\
 ### Summer Mainstage Show (TITLE TBA)
 
 Directed by Torange Yeghiazarian
-\
 Rehearsals 6/28-7/18/2027
 Tech 7/19-7/30/2027\
 Performance 7/30-8/22/2027 (To be confirmed)\
@@ -88,7 +86,6 @@ Performance 7/30-8/22/2027 (To be confirmed)\
 
 by Samer El Saber
 Directed by Marina Johnson\
-\
 September 20 - October 17, 2027\
 \
 *A Palestinian adaptation of Thornton Wilder’s* Our Town*, set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
@@ -98,23 +95,23 @@ September 20 - October 17, 2027\
 ### ICU
 
 by Leyla Mordizadeh & Domenique Lozano
-Directed by Domenique Lozano\
+Directed by Domenique Lozano
 
-June 4-6, 2027\
+June 4-6, 2027
 
 *Inspired by Iran's "Women, Life, Freedom" movement, ICU illuminates the events and human experiences of the uprising through the intersecting lives of five Iranian women.*
 
 ### The Empire
 
 by Abhishek Majumdar
-June 11-13, 2027\
+June 11-13, 2027
 
 *Inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, Joshua Colangelo-Bryan.Drawing on interviews with a wide range of voices connected to Guantánamo,* The Empire*, based on Joshua Colangelo-Bryan's book,* Through the Gates of Hell: American Injustice at Guantánamo Bay*, weaves together a mosaic of perspectives spanning Cuba, the United States, Bahrain, Pakistan, Afghanistan, and Saudi Arabia. Through this lens, Majumdar seeks to illuminate the human, political, and moral dimensions of American Imperialism and Presence around the world.*
 
 ### Khosrow & Shirin (private workshop)
 
 by Torange Yeghiazarian
-February 23 - 28, 2027\
+February 23 - 28, 2027
 
 *The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
 
@@ -122,6 +119,6 @@ February 23 - 28, 2027\
 
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
-Email auditions@goldenthread.org for any inquiries
+Email [auditions@goldenthread.org](mailto:auditions@goldenthread.org) for any inquiries
 
 **About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
