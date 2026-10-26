@@ -17,17 +17,15 @@ items:
 
 
       Join us to be part of a beloved Golden Thread artist’s creative process on October 29-30! In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project’s audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators.
-  - text: Presented on October 23-25, 2026 in San Francisco, this national gathering
-      provides an essential opportunity to network, strategize, and celebrate
-      with MENA and SWANA artists, activists, and scholars from around the
-      country. Certain sessions are livestreamed.
-    subtitle: >-
-      **M﻿ENATMA 2026 Convening:** \
-
-      **"﻿Protecting Dissent: Celebrating Voices from the Middle East and North Africa"**
-    image: https://ucarecdn.com/3e244be9-d4c5-4058-aa41-03e46d065f0a/
-    cta: INFO AND RSVP
-    link: https://menatheater.org/convenings/mena-theater-makers-alliance-2026-convening/
+  - text: General and show-specific auditions for our 2027 Season are coming up!
+      Find our more about the shows, the roles, and the submission process
+      now.[](https://goldenthread.org/get-involved/casting/)
+    subtitle: |-
+      **2﻿027 Season Auditions**\
+      **are o﻿n November 8 & 9!**
+    image: https://ucarecdn.com/ea203625-8534-40df-a51c-726f9b04ac23/
+    cta: SIGN UP NOW!
+    link: https://goldenthread.org/get-involved/casting/
   - subtitle: "**Kunafa and Shay Podcast C﻿elebrates 30 Years of Golden Thread**"
     text: H﻿osts Marina Johnson and Nabra Nelson take a sweeping look at 30 years of
       MENA/SWANA theater in the U.S. -- from Golden Thread's founding in 1996 to
