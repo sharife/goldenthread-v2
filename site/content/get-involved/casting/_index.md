@@ -66,47 +66,56 @@ For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are s
 ### Nubian Stories
 
 by Nabra Nelson & Mona Sherif-Nelson
-Directed by Nabra Nelson\
+Directed by Nabra Nelson
 
-Rehearsals 3/16-4/4/2027Tech 4/5-4/18
-Performances 4/19-5/9
+Rehearsals 3/16-4/4/2027\
+Tech 4/5-4/18/2027
+Performances 4/19-5/9/2027\
 \
 *Sabila, a Nubian woman who was forcibly relocated from her village in the south of Egypt due to its intentional flooding for the construction of the Aswan High Dam, tells the story of her people through her own incredible biography as well as through the ancient Nubian folkloric tales.* 
 
 ### Summer Mainstage Show (TITLE TBA)
 
 Directed by Torange Yeghiazarian
-Rehearsals 6/28-7/18
-Tech 7/19-7/30\
-Performance 7/30-8/22 TBC
+\
+Rehearsals 6/28-7/18/2027
+Tech 7/19-7/30/2027\
+Performance 7/30-8/22/2027 (To be confirmed)\
+\
 *Written by one of the most prominent contemporary women playwrights in Iran, this play gives the audience a glimpse of what goes on inside an Iranian household.*
 
 ### El-Manshiyyeh
 
 by Samer El Saber
-Directed by Marina Johnson
-September 20 - October 17
-*A Palestinian adaptation of Thornton Wilder’s “Our Town,” set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
+Directed by Marina Johnson\
+\
+September 20 - October 17, 2027\
+\
+*A Palestinian adaptation of Thornton Wilder’s* Our Town*, set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
 
 ## NEW THREADS SERIES
 
 ### ICU
 
 by Leyla Mordizadeh & Domenique Lozano
-Directed by Domenique Lozano
-June 4-6
+Directed by Domenique Lozano\
+
+June 4-6, 2027\
+
 *Inspired by Iran's "Women, Life, Freedom" movement, ICU illuminates the events and human experiences of the uprising through the intersecting lives of five Iranian women.*
 
 ### The Empire
 
 by Abhishek Majumdar
-June 11-13
-*Inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, Joshua Colangelo-Bryan.Drawing on interviews with a wide range of voices connected to Guantánamo, “The Empire," based on Joshua Colangelo-Bryan's book, "Through the Gates of Hell: American Injustice at Guantánamo Bay," weaves together a mosaic of perspectives spanning Cuba, the United States, Bahrain, Pakistan, Afghanistan, and Saudi Arabia. Through this lens, Majumdar seeks to illuminate the human, political, and moral dimensions of American Imperialism and Presence around the world.*
+June 11-13, 2027\
+
+*Inspired by the real-life story of a man imprisoned for eight years at Guantánamo Bay, adapted from detailed accounts originally written by his lawyer, Joshua Colangelo-Bryan.Drawing on interviews with a wide range of voices connected to Guantánamo,* The Empire*, based on Joshua Colangelo-Bryan's book,* Through the Gates of Hell: American Injustice at Guantánamo Bay*, weaves together a mosaic of perspectives spanning Cuba, the United States, Bahrain, Pakistan, Afghanistan, and Saudi Arabia. Through this lens, Majumdar seeks to illuminate the human, political, and moral dimensions of American Imperialism and Presence around the world.*
 
 ### Khosrow & Shirin (private workshop)
 
 by Torange Yeghiazarian
-February 23 - 28
+February 23 - 28, 2027\
+
 *The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
 
 ![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
