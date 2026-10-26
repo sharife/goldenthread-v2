@@ -32,15 +32,10 @@ For ***Nubian Stories*** we are seeking:
 * MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist\
   Familiarity with Middle Eastern, African, and/or Nubian music preferred.
 
-For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Staged Reading Series, we are seeking: 
+For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are seeking: 
 
 * An ensemble of actors of MENA descent.\
   Folks who have familiarity with Palestine and Iran are highly encouraged to submit.
-
-  Audition slots will be 10 minutes each. \
-  To schedule an audition, [pick a slot here](https://calendly.com/reyes97wendy/golden-thread-auditions)
-* Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
-* If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role(s) from the available sides and submit your video(s) to [auditions@goldenthread.org](mailto:auditions@goldenthread.org) using the subject line: "Video Submission 2027". Please specify which role you are auditioning for. The deadline for video submissions is November 9, 2026.
 
 ## Contract
 
@@ -56,6 +51,13 @@ For *El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Staged Reading Serie
 * Nabra Nelson, Artistic Director
 * Salim Razawi, Casting Director, Artistic Producer
 * Wendy Reyes, Company Manager
+
+## S﻿ign up Now
+
+* Audition slots will be 10 minutes each. \
+  To schedule an audition, [pick a slot here](https://calendly.com/reyes97wendy/golden-thread-auditions)
+* Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
+* If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role(s) from the available sides and submit your video(s) to [auditions@goldenthread.org](mailto:auditions@goldenthread.org) using the subject line: "Video Submission 2027". Please specify which role you are auditioning for. The deadline for video submissions is November 9, 2026.
 
 ![](https://ucarecdn.com/64395aba-ef14-44fe-ae5f-4eaabbb517e3/)
 
@@ -86,7 +88,7 @@ Directed by Marina Johnson
 September 20 - October 17
 *A Palestinian adaptation of Thornton Wilder’s “Our Town,” set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
 
-## NEW THREADS
+## NEW THREADS SERIES
 
 ### ICU
 
