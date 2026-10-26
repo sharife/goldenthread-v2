@@ -119,6 +119,6 @@ February 23 - 28, 2027
 
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
-Email auditions@goldenthread.org for any inquiries
+Email [auditions@goldenthread.org](mailto:auditions@goldenthread.org) for any inquiries
 
 **About Golden Thread:** Golden Thread Productions is the first theatre company in the U.S. devoted to plays from or about the Middle East. Golden Thread is an equal-opportunity employer. Golden Thread Productions prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, gender, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law. Golden Thread Productions conforms to the spirit as well as to the letter of all applicable laws and regulations.
