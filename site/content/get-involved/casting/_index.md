@@ -27,10 +27,11 @@ sidebar:
 
 For ***Nubian Stories*** we are seeking:
 
-* A middle-aged Black woman\
-  Full of energy, confident, intense, exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage  
-* MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist\
-  Familiarity with Middle Eastern, African, and/or Nubian music preferred.
+* SABILA - Black woman, 40s-70s: A middle-aged Fadija Nubian woman. Full of energy, confident, intense,
+  exuberant, hilarious, and extroverted. She also holds the deep sadness of loss and time’s passage.
+
+  MUSICIAN (non-speaking instrumentalist) - Oud Player or Percussionist. Familiarity with Middle Eastern,
+  African, and/or Nubian music preferred.
 
 For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are seeking: 
 
