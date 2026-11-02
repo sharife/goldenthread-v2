@@ -4,9 +4,9 @@ date: 2026-11-02T19:20:33.002Z
 description: ""
 background: https://ucarecdn.com/1bdb430d-90ec-4934-bb3b-0168abbeecb8/
 ---
-2026 marks Golden Thread’s 30th anniversary, and we’re marking this impressive milestone with an audacious Golden30 Campaign to raise $300,000 over the next 12 months! 
+2026 marks Golden Thread’s 30th anniversary, and we’re marking this impressive milestone with an audacious Golden30 Campaign to raise $300,000 over the next 12 months! **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
-#### **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+![](https://ucarecdn.com/a2adef29-8517-4b6d-9663-554f8a7a3410/)
 
 For the last 30 years, Golden Thread has stood strong as the first American theater company dedicated to the Middle East. As the world has witnessed the rise of Islamophobia after 9/11, the devastation of the war on Iraq, and now the ongoing genocide in Palestine, we have remained steadfast with our unwavering, multicultural voice for Middle Eastern and North African communities. Our stories defy stereotypes and challenge false narratives with rich humanity.
 
