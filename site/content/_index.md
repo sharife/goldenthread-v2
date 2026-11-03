@@ -1,28 +1,15 @@
 ---
 title: Middle East Center Stage
-headline: ReOrient 2026 Festival
-subtitle: Think you know the Middle East? Think again!
-background: https://ucarecdn.com/adb149b7-75f3-4b9d-beac-3d2d02a8f442/
-cta: Performances are selling out. Must close November 1!
-link: https://goldenthread.org/productions/reorient-festival-2026/
+headline: GOLDEN30 Anniversary Campaign
+subtitle: An audacious fundraiser to celebrate our 30th birthday
+background: https://ucarecdn.com/68b5ebf8-a3cb-4b96-ba52-2b1e3ab41095/
+cta: Donate now to ensure the next 30 years!
+link: https://goldenthread.org/donate
 items:
-  - link: https://goldenthread.org/productions/the-future-will-be-absolutely-fantastic-1/
-    cta: RSVP Now!
-    image: https://ucarecdn.com/be7aab0c-5ef4-4cad-90ea-8fdea2ae6b17/
-    subtitle: "**The Future Will Be Absolutely Fantastic**"
-    text: >-
-      **Created & Performed by Denmo Ibrahim
-
-      Directed by Sherrine Azab**
-
-
-      Join us to be part of a beloved Golden Thread artist’s creative process on October 29-30! In this immersive workshop production, 2026 Playwright in Residence Denmo Ibrahim will be exploring this playful project’s audience interactive and storytelling elements. Each performance will be followed by a Q&A and feedback session with the creators.
   - text: General and show-specific auditions for our 2027 Season are coming up!
       Find our more about the shows, the roles, and the submission process
       now.[](https://goldenthread.org/get-involved/casting/)
-    subtitle: |-
-      **2﻿027 Season Auditions**\
-      **are o﻿n November 8 & 9!**
+    subtitle: "**2﻿027 Season Auditions o﻿n November 8 & 9!**"
     image: https://ucarecdn.com/ea203625-8534-40df-a51c-726f9b04ac23/
     cta: SIGN UP NOW!
     link: https://goldenthread.org/get-involved/casting/
@@ -34,4 +21,12 @@ items:
     image: https://ucarecdn.com/8fc31d80-6583-4de7-8f6f-dd5d02f53b5a/
     cta: Listen now
     link: https://howlround.com/series/kunafa-and-shay
+  - subtitle: "**KQED Interviews Artistic Director Nabra Nelson**"
+    link: https://www.kqed.org/arts/13988571/golden-thread-productions-30th-anniversary-palestinian-art-iran-war
+    cta: Read the article
+    text: '"I consider my role to be a community service role; my mandate is to
+      respond to what our community needs." As the theater company faces
+      disruptions from international travel and conflict, its mission remains
+      vital.'
+    image: https://ucarecdn.com/e807650c-9b00-46af-b3c2-bb11e281511b/
 ---
