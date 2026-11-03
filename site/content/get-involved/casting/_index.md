@@ -60,8 +60,6 @@ For ***El-Manshiyyeh*, *Summer Show TBA*, and our New Threads Series**, we are s
 * Be sure to sign up for our [database](https://airtable.com/appHPPycOcRo9BQv9/pag0CyQzJ0i7ZHwdI/form) to stay informed of opportunities.
 * If unavailable for in-person auditions, please continue to fill out this form, prepare any interested role(s) from the available sides and submit your video(s) to [auditions@goldenthread.org](mailto:auditions@goldenthread.org) using the subject line: "Video Submission 2027". Please specify which role you are auditioning for. The deadline for video submissions is November 9, 2026.
 
-![](https://ucarecdn.com/e53cd83c-557d-4858-b132-2b95ece11b2a/)
-
 ## MAINSTAGE PRODUCTIONS
 
 ### Nubian Stories
