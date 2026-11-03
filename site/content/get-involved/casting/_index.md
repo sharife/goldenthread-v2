@@ -114,8 +114,6 @@ February 23 - 28, 2027
 
 *The latest in Torange Yeghiazarian’s canon of fresh new tellings of classical Persian folktales.*
 
-![](https://ucarecdn.com/c6ffe829-3418-4cbf-b70c-818be9258679/)
-
 #### **[T﻿O BOOK YOUR AUDITION, CLICK HERE](https://calendly.com/reyes97wendy/golden-thread-auditions)**
 
 Email [auditions@goldenthread.org](mailto:auditions@goldenthread.org) for any inquiries
