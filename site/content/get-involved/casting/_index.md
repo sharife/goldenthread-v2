@@ -87,7 +87,7 @@ by Samer El Saber
 Directed by Marina Johnson\
 September 20 - October 17, 2027\
 \
-*A Palestinian adaptation of Thornton Wilder’s* Our Town*, set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine.* 
+*A Palestinian adaptation of Thornton Wilder’s* Our Town, set in the city by the same name “El-Manshiyyeh” unfolds across three pivotal historical moments in Yafa, Palestine. 
 
 ## NEW THREADS SERIES
 
