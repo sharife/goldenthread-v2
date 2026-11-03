@@ -19,11 +19,11 @@ items:
       a growing ecosystem of bold, community-rooted companies shaping the
       American stage through urgency, artistry, and refusal.
     image: https://ucarecdn.com/8fc31d80-6583-4de7-8f6f-dd5d02f53b5a/
-    cta: Listen now
+    cta: LISTEN TO THE EPISODES
     link: https://howlround.com/series/kunafa-and-shay
   - subtitle: "**KQED Interviews Artistic Director Nabra Nelson**"
     link: https://www.kqed.org/arts/13988571/golden-thread-productions-30th-anniversary-palestinian-art-iran-war
-    cta: Read the article
+    cta: READ THE ARTICLE
     text: '"I consider my role to be a community service role; my mandate is to
       respond to what our community needs." As the theater company faces
       disruptions from international travel and conflict, its mission remains
