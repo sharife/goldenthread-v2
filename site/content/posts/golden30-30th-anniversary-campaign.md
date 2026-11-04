@@ -2,21 +2,31 @@
 title: "GOLDEN30: 30th Anniversary Campaign"
 date: 2026-11-02T19:20:33.002Z
 description: ""
-background: https://ucarecdn.com/1bdb430d-90ec-4934-bb3b-0168abbeecb8/
+background: https://ucarecdn.com/d1b961a8-0c22-4fc6-a02e-d7039dd7b701/
 ---
-2026 marks Golden Thread’s 30th anniversary, and we’re marking this impressive milestone with an audacious Golden30 Campaign to raise $300,000 over the next 12 months! **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
+**2026 marks Golden Thread’s 30th anniversary**, and we are celebrating three decades of bringing our communities together to reclaim our narratives as the first American theater company dedicated to the Middle East. 
 
-![](https://ucarecdn.com/a2adef29-8517-4b6d-9663-554f8a7a3410/)
+### “Golden Thread’s existence has become\
+all the more necessary over its 30-year lifespan.” —*48 Hills*
 
-For the last 30 years, Golden Thread has stood strong as the first American theater company dedicated to the Middle East. As the world has witnessed the rise of Islamophobia after 9/11, the devastation of the war on Iraq, and now the ongoing genocide in Palestine, we have remained steadfast with our unwavering, multicultural voice for Middle Eastern and North African communities. Our stories defy stereotypes and challenge false narratives with rich humanity.
+![Donate to GOLDEN30 Now](https://ucarecdn.com/2d4a2499-2dbf-4774-a673-50d682f654bd/)
 
-As we reflect on our legacy, we are overwhelmed by the number of artists, supporters, and champions like you who made our success possible. In 30 years, we have:
+##### **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
 
-* **Produced more than 150 plays**, most of them world premieres; 
-* **Employed over 2,000 artists**, majority of whom are women, queer, BIPOC, or of Middle Eastern heritage;
-* **Served more than 80,000 audience members**;
-* **Partnered with more than 150 organizations** at the front lines of the fight for justice.
 
-No one does what Golden Thread does, and our communities need us now more than ever. As funding from the government and foundations dwindle, and censorship and authoritarianism become commonplace, we launched the Golden30 Campaign with a clear commitment: to build a strong foundation for growth and stability, ensuring that our essential cultural home for many communities continues to thrive.
+
+Golden Thread has remained an unwavering, multicultural voice for Middle Eastern and North African communities as we continue to witness the devastation of war and violence locally and abroad. Our stories defy stereotypes and challenge false narratives with rich humanity. In 30 years, we have centered:
+
+* CREATIVITY, by producing more than 150 plays, most of them world premieres. While helping expand the Middle Eastern canon of American theatre, we have been an artistic home to such important artists as Yussef El Guindi, Mona Mansour, and Evren Odcikin. 
+* COURAGE, by partnering with more than 150 organizations fighting for justice, and pivoting & curating work that speaks to the needs of our communities, including our Women’s Day Celebrations, 24 Hours for Palestine, and MENA Theater Makers Alliance Convenings.
+* COMMUNITY, by serving more than 80,000 audience members and employing over 2,000 artists, majority of whom are women, queer, BIPOC, or of Middle Eastern heritage. 
+
+And our communities need us now more than ever. As government funding dwindles and censorship rises, our next step is clear: build a strong foundation for growth and stability, ensuring that this essential cultural home continues to thrive. 
+
+Thank you for donating XXXX in 2025! We invite you to make one more donation before 2026 closes, and we would like to offer you a special sneak peek into our 2027 season by visiting [tinyurl.com/golden30campaign](http://tinyurl.com/golden30campaign) following the QR code below.
+
+With gratitude and in solidarity,
+
+Sincerely,
 
 **[We invite you to join us in securing the next 30 years of Golden Thread’s vibrant future.](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
