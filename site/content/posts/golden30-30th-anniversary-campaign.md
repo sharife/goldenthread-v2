@@ -21,6 +21,8 @@ And our communities need us now more than ever. As government funding dwindles a
 
 We invite you to make a donation before 2026 closes, and we would like to offer you a special sneak peek into our 2027 season. Watch this special message from Artistic Director Nabra Nelson and Managing Director Wynne Chan!
 
+**<﻿VIDEO>**
+
 ![Donate to GOLDEN30 Now](https://ucarecdn.com/2d4a2499-2dbf-4774-a673-50d682f654bd/)
 
 ##### **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
