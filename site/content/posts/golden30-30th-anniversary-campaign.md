@@ -6,8 +6,7 @@ background: https://ucarecdn.com/d1b961a8-0c22-4fc6-a02e-d7039dd7b701/
 ---
 **2026 marks Golden Thread’s 30th anniversary**, and we are celebrating three decades of bringing our communities together to reclaim our narratives as the first American theater company dedicated to the Middle East. 
 
-### “Golden Thread’s existence has become\
-all the more necessary over its 30-year lifespan.” —*48 Hills*
+### “Golden Thread’s existence has become all the more necessary over its 30-year lifespan.” —*48 Hills*
 
 ![Donate to GOLDEN30 Now](https://ucarecdn.com/2d4a2499-2dbf-4774-a673-50d682f654bd/)
 
