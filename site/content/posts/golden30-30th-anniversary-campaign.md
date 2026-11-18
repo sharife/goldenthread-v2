@@ -16,6 +16,10 @@ background: https://ucarecdn.com/d1b961a8-0c22-4fc6-a02e-d7039dd7b701/
 * **COURAGE, by partnering with more than 150 organizations** fighting for justice, and pivoting & curating work that speaks to the needs of our communities, including our Women’s Day Celebrations, *24 Hours for Palestine*, and MENA Theater Makers Alliance Convenings.
 * **COMMUNITY, by serving more than 80,000 audience members and employing over 2,000 artists**, majority of whom are women, queer, BIPOC, or of Middle Eastern heritage. 
 
-**And our communities need us now more than ever.** As government funding dwindles and censorship rises, our next step is clear: build a strong foundation for growth and stability, ensuring that this essential cultural home continues to thrive. 
+**And our communities need us now more than ever.** As government funding dwindles and censorship rises, our next step is clear: build a strong foundation for growth and stability, ensuring that this essential cultural home continues to thrive.
+
+We invite you to make a donation before 2026 closes, and we would like to offer you a special sneak peek into our 2027 season. Watch this special message from Artistic Director Nabra Nelson and Managing Director Wynne Chan!
+
+**<﻿VIDEO>**
 
 ##### **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
