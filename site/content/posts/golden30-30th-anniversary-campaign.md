@@ -8,7 +8,7 @@ background: https://ucarecdn.com/d1b961a8-0c22-4fc6-a02e-d7039dd7b701/
 
 ### “Golden Thread’s existence has become all the more necessary over its 30-year lifespan.” —*48 Hills*
 
-![Donate to GOLDEN30 Now](https://ucarecdn.com/2d4a2499-2dbf-4774-a673-50d682f654bd/)
+![Donate to GOLDEN30 Now](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
 Golden Thread has remained an unwavering, multicultural voice for Middle Eastern and North African communities as we continue to witness the devastation of war and violence locally and abroad. Our stories defy stereotypes and challenge false narratives with rich humanity. In 30 years, we have centered:
 
@@ -22,6 +22,6 @@ We invite you to make a donation before 2026 closes, and we would like to offer 
 
 **<﻿VIDEO>**
 
-![Donate to GOLDEN30 Now](https://ucarecdn.com/2d4a2499-2dbf-4774-a673-50d682f654bd/)
+![Donate to GOLDEN30 Now](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)
 
 ##### **[Will you join us in securing the next 30 years for Golden Thread?](https://goldenthread.my.salesforce-sites.com/donate/?dfId=a0n3Z00000tn4RsQAI)**
